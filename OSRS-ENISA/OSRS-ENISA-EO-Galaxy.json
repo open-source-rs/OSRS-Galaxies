@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Outages (EO) - Unavailability of resources (supply) required for proper operation of information system.",
+  "name": "OSRS-ENISA-EO",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EO",
+  "uuid": "485d5098-2051-11ea-978f-2e728ce88125",
+  "version": 1
+}

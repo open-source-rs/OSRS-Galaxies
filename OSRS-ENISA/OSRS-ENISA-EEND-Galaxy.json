@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Environmental or Natural Disaster (EEND) - Threats of damage of information assets caused by natural or environmental elements.",
+  "name": "OSRS-ENISA-EEND",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EEND",
+  "uuid": "5819d734-204e-11ea-978f-2e728ce88125",
+  "version": 1
+}

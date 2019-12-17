@@ -1,0 +1,70 @@
+{
+  "category": "OSRS-ENISA-EL",
+  "description": "ENISA Legal (EL) - Legal activities that can compromise the risk posture of an organization.",
+  "source": "ENISA Threat Taxonomy",
+  "type": "OSRS-ENISA-EL",
+  "uuid": "41c3d5c6-2066-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "be2855b0-2066-11ea-978f-2e728ce88125",
+      "value": "Test OSRS-ENISA-EDPA Value"
+    },
+	{
+      "description": "Threat of finacial penatly or lost of trust of customers and collaborators due to failure to meet contractual requirements. Failure to meet contractual requirements by third party.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "e46843e8-2066-11ea-978f-2e728ce88125",
+      "value": "EL 2 - Failure to Meet Contractual Requirements"
+    },
+	{
+      "description": "Threat of finacial or legal penatly or lost of trust of customers and collaborators due to improper or illegal use of copyrights material. Illegal usage of File Sharing services.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "e468487a-2066-11ea-978f-2e728ce88125",
+      "value": "EL 3 - Unauthorized use of IPR protected resources"
+    },
+	{
+      "description": "Threat of illegal use personal data.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "e46849f6-2066-11ea-978f-2e728ce88125",
+      "value": "EL 4 - Abuse of Personal Data"
+    },
+	{
+      "description": "Threat of judicial decisions or court orders that may affect the efficacy and effectiveness of the organization.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "e4684b40-2066-11ea-978f-2e728ce88125",
+      "value": "EL 5 - Judiciary Decisions or Court Orders"
+    },
+	{
+      "description": "Threat of finacial or legal penatly or lost of trust of customers and collaborators due to violation of law or regulations.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "be28589e-2066-11ea-978f-2e728ce88125",
+      "value": "EL 1 - Violation of Laws, Regulations, or Legislation"
+    }
+	  ],
+	"version": 1
+}

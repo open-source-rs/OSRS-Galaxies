@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Deliberate Physical Attack (EDPA) - Threats of intentional hostile human actions.",
+  "name": "OSRS-ENISA-EDPA",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EDPA",
+  "uuid": "90c4c182-203c-11ea-978f-2e728ce88125",
+  "version": 1
+}

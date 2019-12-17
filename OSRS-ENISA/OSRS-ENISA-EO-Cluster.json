@@ -1,0 +1,80 @@
+{
+  "category": "OSRS-ENISA-EO",
+  "description": "ENISA Outages (EO) - Unavailability of resources (supply) required for proper operation of information system.",
+  "source": "ENISA Threat Taxonomy",
+  "type": "OSRS-ENISA-EO",
+  "uuid": "485d5098-2051-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "81baf430-2051-11ea-978f-2e728ce88125",
+      "value": "Test OSRS-ENISA-EDPA Value"
+    },
+	{
+      "description": "Unavailability of key personnel and their competences.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ab8d15b8-2051-11ea-978f-2e728ce88125",
+      "value": "EO 2 - Absence of Personnel"
+    },
+	{
+      "description": "Unavailability of staff due strike (large scale absence of personnel).",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ab8d1824-2051-11ea-978f-2e728ce88125",
+      "value": "EO 3 - Strike"
+    },
+	{
+      "description": "Unavailability of support services required for proper operation of information system.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ab8d1b58-2051-11ea-978f-2e728ce88125",
+      "value": "EO 4 - Loss of Support Services"
+    },
+	{
+      "description": "Unavailability of the Internet connection.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ab8d1ce8-2051-11ea-978f-2e728ce88125",
+      "value": "EO 5 - Internet Outage"
+    },
+	{
+      "description": "Unavailability of communication links. Outage of cable networks. Outage of wireless networks. Outages of mobile networks.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ab8d1e28-2051-11ea-978f-2e728ce88125",
+      "value": "EO 6 - Network Outage"
+    },
+	{
+      "description": "Unavailability of resources (supply) required for proper operation of information system. Loss of electricity. Cooling outages.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "81baf7c8-2051-11ea-978f-2e728ce88125",
+      "value": "EO 1 - Loss of Resources"
+    }
+	  ],
+	"version": 1
+}
