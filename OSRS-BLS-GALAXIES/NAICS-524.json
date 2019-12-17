@@ -1,8 +1,0 @@
-{
-  "description": "Industries in the Insurance Carriers and Related Activities subsector group establishments that are primarily engaged in one of the following: (1) underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies or (2) facilitating such underwriting by selling insurance policies, and by providing other insurance and employee-benefit related services.",
-  "name": "BLS-NAICS-524",
-  "namespace": "OSRS-BLS-Entities",
-  "type": "BLS-NAICS-524",
-  "uuid": "49df5540-4827-11e9-8646-d663bd873d93",
-  "version": 6
-}
