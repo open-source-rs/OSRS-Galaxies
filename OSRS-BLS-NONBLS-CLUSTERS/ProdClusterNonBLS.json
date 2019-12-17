@@ -1,0 +1,2280 @@
+{
+	"category": "OSRS-Non-BLS-Entities",
+	"description": "This galaxy is for the indexing of of non-BLS entities and organizations (i.e. FBI).",
+	"name": "OSRS-Non-BLS-Entities",
+	"source": "Open Sources",
+	"type": "OSRS-Non-BLS-Entities",
+	"uuid": "3edfdebe-7985-11e9-8f9e-2a86e4085a59",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Malware"
+				]
+			},
+			"uuid": "c110f292-638c-11e9-a923-1681be663d3e",
+			"value": "Test Non-BLS Value"
+		},
+		{
+			"description": "Nuneaton and Bedworth is a local government district with borough status, in northern Warwickshire, England, consisting of the densely populated towns of Nuneaton and Bedworth, the large village of Bulkington and the green belt land inbetween. It has a population of just over 120,000.",
+			"meta": {
+				"refs": [
+					"https://www.nuneatonandbedworth.gov.uk/site/",
+					"https://en.wikipedia.org/wiki/Nuneaton_and_Bedworth"
+				]
+			},
+			"uuid": "23e64e7e-638f-11e9-a923-1681be663d3e",
+			"value": "Nuneaton and Bedworth District Council"
+		},
+		{
+			"description": "Bradenton Police Department. The Bradenton Police Department is dedicated to excellence in policing through professionalism, courage, and transparency. Bradenton FL. USA",
+			"meta": {
+				"refs": [
+					"http://bradentonpd.com/"
+				]
+			},
+			"uuid": "23e65374-638f-11e9-a923-1681be663d3e",
+			"value": "Bradenton Police Department"
+		},
+		{
+			"description": "Jackson County is a county located in the northeastern part of the U.S. state of Georgia. As of the 2010 census, the population was 60,485. The county seat is Jefferson.",
+			"meta": {
+				"refs": [
+					"https://www.jacksoncountygov.com/"
+				]
+			},
+			"uuid": "cd2ca964-6390-11e9-a923-1681be663d3e",
+			"value": "Jackson County, Georgia"
+		},
+		{
+			"description": "The Metropolitan Borough of Gateshead is a metropolitan borough in Tyne and Wear, in North East England. The borough forms the south west part of the county.",
+			"meta": {
+				"refs": [
+					"https://www.gateshead.gov.uk/"
+				]
+			},
+			"uuid": "cd2cac34-6390-11e9-a923-1681be663d3e",
+			"value": "Gateshead Council"
+		},
+		{
+			"description": "Delaware Guidance Services exists to provide quality therapeutic services to children, youth, and their families to increase their social, emotional, and behavioral wellness.",
+			"meta": {
+				"refs": [
+					"http://www.delawareguidance.org/"
+				]
+			},
+			"uuid": "cd2cad92-6390-11e9-a923-1681be663d3e",
+			"value": "Delaware Guidance Services for Children and Youth, Inc."
+		},
+		{
+			"description": "Carmel Unified School District is a top rated, public school district located in Carmel, CA. It has 2,509 students in grades K-12 with a student-teacher ratio of 17 to 1. According to state test scores, 72 percent of students are at least proficient in math and 81 percent in reading.",
+			"meta": {
+				"refs": [
+					"https://www.carmelunified.org/",
+					"https://www.niche.com/k12/d/carmel-unified-school-district-ca/"
+				]
+			},
+			"uuid": "5088cafe-6391-11e9-a923-1681be663d3e",
+			"value": "Carmel Unified School District"
+		},
+		{
+			"description": "The Fort Collins-Loveland Water and the South Fort Collins Sanitation Districts have provided the full spectrum of water treatment and distribution to business and citizens in parts of Fort Collins, Loveland, Timnath, Windsor and Larimer County since 1961.",
+			"meta": {
+				"refs": [
+					"https://fclwd.com/"
+				]
+			},
+			"uuid": "5088cd7e-6391-11e9-a923-1681be663d3e",
+			"value": "Fort Collins Loveland Water District"
+		},
+		{
+			"description": "The Fort Collins-Loveland Water & the South Fort Collins Sanitation Districts have provided the full spectrum of water treatment & distribution since 1961.",
+			"meta": {
+				"refs": [
+					"https://fclwd.com/"
+				]
+			},
+			"uuid": "5088ced2-6391-11e9-a923-1681be663d3e",
+			"value": "South Fort Collins Sanitation District"
+		},
+		{
+			"description": "Aurora City School District is a highly rated, public school district located in Aurora, OH. It has 2,960 students in grades PK, K-12 with a student-teacher ratio of 19 to 1. According to state test scores, 88 percent of students are at least proficient in math and 83 percent in reading.",
+			"meta": {
+				"refs": [
+					"https://www.niche.com/k12/d/aurora-city-school-district-oh/"
+				]
+			},
+			"uuid": "64074064-6392-11e9-a923-1681be663d3e",
+			"value": "Aurora City Schools"
+		},
+		{
+			"description": "The Thomas County School District is a public school district in Thomas County, Georgia, United States, based in Thomasville. It serves the communities of Barwick, Boston, Coolidge, Meigs, Ochlocknee, Pavo, and Thomasville.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Thomas_County_School_District"
+				]
+			},
+			"uuid": "64074366-6392-11e9-a923-1681be663d3e",
+			"value": "GA: Thomas County School District"
+		},
+		{
+			"description": "The Rocky Boy Health Center is committed to provide, maintain, and improve the highest quality of health care care delivery systems in the spirit of Self-Governance and Self-Determination.  The Rocky Boy Health Center recognizes and respects the holistic and unique structure of the Chippewa Cree and will remain dedicated to their health needs.",
+			"meta": {
+				"refs": [
+					"https://www.rbclinic.org/about"
+				]
+			},
+			"uuid": "6407456e-6392-11e9-a923-1681be663d3e",
+			"value": "Rocky Boy Health Center"
+		},
+		{
+			"description": "Orange County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 133,801. Its county seat is Hillsborough.",
+			"meta": {
+				"refs": [
+					"https://www.co.orange.nc.us/"
+				]
+			},
+			"uuid": "ac64583c-6393-11e9-a923-1681be663d3e",
+			"value": "Orange County N.C."
+		},
+		{
+			"description": "The mission of the Public Defender Division of the Committee for Public Counsel Services is to ensure that criminal defendants are given the fundamental protections of the United States Constitution, the Bill of Rights, and the Massachusetts Constitution.",
+			"meta": {
+				"refs": [
+					"https://www.publiccounsel.net/pd/"
+				]
+			},
+			"uuid": "ac645d32-6393-11e9-a923-1681be663d3e",
+			"value": "Boston Public Defenders"
+		},
+		{
+			"description": "The Oregon Department of Human Services is the principal human services agency of the government of the U.S. state of Oregon",
+			"meta": {
+				"refs": [
+					"https://www.oregon.gov/dhs"
+				]
+			},
+			"uuid": "ac645eb8-6393-11e9-a923-1681be663d3e",
+			"value": "Oregon Department of Human Services"
+		},
+		{
+			"description": "The Federal Emergency Management Agency is an agency of the United States Department of Homeland Security, initially created by Presidential Reorganization Plan No. 3 of 1978 and implemented by two Executive Orders on April 1, 1979.",
+			"meta": {
+				"refs": [
+					"https://www.fema.gov/"
+				]
+			},
+			"uuid": "6ab0d0fe-6394-11e9-a923-1681be663d3e",
+			"value": "Federal Emergency Management Agency FEMA"
+		},
+		{
+			"description": "Butler County is a county in the U.S. state of Ohio. As of the 2010 census, the population was 368,130. Its county seat is Hamilton. It is named for General Richard Butler, who died in 1791 during St. Clair's Defeat.",
+			"meta": {
+				"refs": [
+					"http://www.butlercountyohio.org/"
+				]
+			},
+			"uuid": "6ab0d388-6394-11e9-a923-1681be663d3e",
+			"value": "Butler County, OH"
+		},
+		{
+			"description": "The Ministry of Health and Family Welfare is an Indian government ministry charged with health policy in India. It is also responsible for all government programs relating to family planning in India.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Health_and_Family_Welfare"
+				]
+			},
+			"uuid": "6ab0d4dc-6394-11e9-a923-1681be663d3e",
+			"value": "Department of Medical, Health, and Family Welfare of Northern India"
+		},
+		{
+			"description": "Genesee County is a county in the U.S. state of Michigan. As of the 2010 census, the population was 425,790, making it the fifth-most populous county in Michigan. The county seat and population center is Flint. Genesee County is considered to be a part of the greater Mid Michigan area.",
+			"meta": {
+				"refs": [
+					"http://www.gc4me.com/"
+				]
+			},
+			"uuid": "ef3d71d2-639a-11e9-a923-1681be663d3e",
+			"value": "Genesee County"
+		},
+		{
+			"description": "The Winnipeg Regional Health Authority is the governing body for healthcare regulation for the city of Winnipeg, the Rural Municipalities of East St. Paul and West St. Paul, and the town of Churchill in the Canadian province of Manitoba.",
+			"meta": {
+				"refs": [
+					"http://www.wrha.mb.ca/"
+				]
+			},
+			"uuid": "ef3d7484-639a-11e9-a923-1681be663d3e",
+			"value": "Winnipeg Regional Health Authority"
+		},
+		{
+			"description": "The Ohio Department of Job and Family Services is the administrative department of the Ohio state government responsible for supervising the state's public assistance, workforce development, unemployment compensation, child and adult protective services, adoption, child care, and child support programs.",
+			"meta": {
+				"refs": [
+					"https://jfs.ohio.gov/"
+				]
+			},
+			"uuid": "ef3d75ce-639a-11e9-a923-1681be663d3e",
+			"value": "Ohio Department of Job and Family Services"
+		},
+		{
+			"description": "Tallahassee is the state capital of Florida. The Capitol Complex includes the restored Historic Capitol, now a museum with displays on political history. The 1970s Capitol tower offers city views from its 22nd-floor observation deck. Nearby, exhibits at the Museum of Florida History cover European colonization, the Civil War and WWII. The city's antebellum mansions include the 1843 Knott House Museum.",
+			"meta": {
+				"refs": [
+					"http://www.talgov.com/Main/Home.aspx"
+				]
+			},
+			"uuid": "6d964158-639b-11e9-a923-1681be663d3e",
+			"value": "City of Tallahassee"
+		},
+		{
+			"description": "Australian Signals Directorate is the Australian government agency responsible for foreign signals intelligence, support to military operations, cyber warfare, and information security. ASD is part of the Australian Intelligence Community. ASD's role within UKUSA Agreement is to monitor SIGINT in South and East Asia.",
+			"meta": {
+				"refs": [
+					"https://asd.gov.au/"
+				]
+			},
+			"uuid": "6d96446e-639b-11e9-a923-1681be663d3e",
+			"value": "Australian Signals Directorate"
+		},
+		{
+			"description": "The Parliament of Australia is the legislative branch of the government of Australia. It consists of three elements: the Crown, the Senate and the House of Representatives.",
+			"meta": {
+				"refs": [
+					"https://www.aph.gov.au/"
+				]
+			},
+			"uuid": "6d9645cc-639b-11e9-a923-1681be663d3e",
+			"value": "Australian Parlaiment"
+		},
+		{
+			"description": "The Minnesota Department of Human Services is an organization of individuals with a commitment to bettering the lives of Minnesotans. While DHS employees perform different jobs and duties, such as research-analyses, direct caregiving, program administration, fraud prevention, licensing oversight, plant management and human resources, we share a belief that when Minnesotans help other Minnesotans, we create a brighter future for all of us.",
+			"meta": {
+				"refs": [
+					"https://mn.gov/dhs/general-public/about-dhs/who-we-are/"
+				]
+			},
+			"uuid": "fd831d2c-639b-11e9-a923-1681be663d3e",
+			"value": "Minnesota Department of Human Services"
+		},
+		{
+			"description": "Albany is the capital city of New York State. Downtown’s huge Empire State Plaza has reflecting pools, an art-filled underground shopping concourse and The Egg, a striking performing arts center. The plaza is bookended by the 1800s New York State Capitol and the New York State Museum, focusing on natural and cultural history. The Albany Institute of History and Art is famed for its Hudson River School paintings.",
+			"meta": {
+				"refs": [
+					"https://albanyny.gov/"
+				]
+			},
+			"uuid": "fd832074-639b-11e9-a923-1681be663d3e",
+			"value": "City of Albany"
+		},
+		{
+			"description": "Stratford City is a mixed-use development project in Stratford, London, England. The main developers are the Westfield Group and Lend Lease.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Stratford_City"
+				]
+			},
+			"uuid": "fd83229a-639b-11e9-a923-1681be663d3e",
+			"value": "Stratford city hall, UK"
+		},
+		{
+			"description": "Established to manage and protect Stone Mountain Park, the Stone Mountain Memorial Association maintains all public park areas, provides safety for visitors and organizes educational programs.",
+			"meta": {
+				"refs": [
+					"https://stonemountainpark.org/",
+					"https://georgia.gov/agencies/stone-mountain-memorial-association"
+				]
+			},
+			"uuid": "bd557a96-639c-11e9-a923-1681be663d3e",
+			"value": "The Stone Mountain Memorial Association"
+		},
+		{
+			"description": "Dakota County is the third-most populous county in the U.S. state of Minnesota. As of the 2010 United States Census, the population was 398,552. The county seat is Hastings. Dakota County is named for the Dakota Sioux tribal bands who inhabited the area.",
+			"meta": {
+				"refs": [
+					"https://www.co.dakota.mn.us/"
+				]
+			},
+			"uuid": "bd557dc0-639c-11e9-a923-1681be663d3e",
+			"value": "Dakota County"
+		},
+		{
+			"description": "The Federal Bureau of Investigation is the domestic intelligence and security service of the United States, and its principal federal law enforcement agency.",
+			"meta": {
+				"refs": [
+					"https://www.fbi.gov/"
+				]
+			},
+			"uuid": "bd5581da-639c-11e9-a923-1681be663d3e",
+			"value": "Federal Bureau of Investigation FBI"
+		},
+		{
+			"description": "Augusta is a city in Georgia, near the South Carolina border. The Augusta Museum of History includes exhibits on golf and soul singer James Brown. The Augusta Riverwalk runs along the Savannah River. Nearby, the Morris Museum of Art is dedicated to the art of the American South. The Boyhood Home of President Woodrow Wilson depicts the early life of the 28th president. Trails span the length of the 1845 Augusta Canal.",
+			"meta": {
+				"refs": [
+					"https://www.augustaga.gov/"
+				]
+			},
+			"uuid": "6008a0dc-67ae-11e9-a923-1681be663d3e",
+			"value": "City of Augusta"
+		},
+		{
+			"description": "Algoma Public Health is a public health agency committed to improving health and reducing social inequities in health through evidence-informed practice. APH has a main office in Sault Ste. Marie and three offices in the Algoma district -  Blind River, Elliot Lake and Wawa.",
+			"meta": {
+				"refs": [
+					"http://www.algomapublichealth.com/"
+				]
+			},
+			"uuid": "6008a622-67ae-11e9-a923-1681be663d3e",
+			"value": "Algoma Public Health"
+		},
+		{
+			"description": "School district in Kentucky, USA.",
+			"meta": {
+				"refs": [
+					"https://www.scott.k12.ky.us/"
+				]
+			},
+			"uuid": "6008a794-67ae-11e9-a923-1681be663d3e",
+			"value": "Scott County Schools, KY. USA."
+		},
+		{
+			"description": "Garfield County is a county in south central Utah, United States. As of the 2010 United States Census the population was 5,172, making it the fifth-least populous county in Utah. Its county seat and largest city is Panguitch.",
+			"meta": {
+				"refs": [
+					"https://garfield.utah.gov/"
+				]
+			},
+			"uuid": "2244ab8a-6cf2-11e9-a923-1681be663d3e",
+			"value": "Garfield County, UT"
+		},
+		{
+			"description": "The Northwest Territories is a federal territory of Canada. At a land area of approximately 1,144,000 km2 and a 2016 census population of 41,786, it is the second-largest and the most populous of the three territories in Northern Canada. Its estimated population as of 2018 is 44,445. Yellowknife became the territorial capital in 1967, following recommendations by the Carrothers Commission.",
+			"meta": {
+				"refs": [
+					"https://www.gov.nt.ca/"
+				]
+			},
+			"uuid": "2244b0da-6cf2-11e9-a923-1681be663d3e",
+			"value": "Government of Northwest Territories"
+		},
+		{
+			"description": "An Idaho, US school district",
+			"meta": {
+				"refs": [
+					"https://www.sugarsalem.org/"
+				]
+			},
+			"uuid": "2244b260-6cf2-11e9-a923-1681be663d3e",
+			"value": "Sugar-Salem School District 322"
+		},
+		{
+			"description": "Lauderdale County is a county located on the eastern border of the U.S. state of Mississippi. As of the 2010 census, the population was 80,261. The county seat is Meridian. The county is named for Colonel James Lauderdale, who was killed at the Battle of New Orleans in the War of 1812.",
+			"meta": {
+				"refs": [
+					"http://www.lauderdalecounty.org/"
+				]
+			},
+			"uuid": "2244b3fa-6cf2-11e9-a923-1681be663d3e",
+			"value": "Lauderdale County, MS"
+		},
+		{
+			"description": "Arlington Public Schools is a public school division in Arlington County, Virginia. In 2015, Pre-K-12 student enrollment was 25,678 students, with students coming from more than 120 countries. There were 2,166 teachers.",
+			"meta": {
+				"refs": [
+					"https://www.apsva.us/"
+				]
+			},
+			"uuid": "2244b544-6cf2-11e9-a923-1681be663d3e",
+			"value": "Arlington Public Schools, VA"
+		},
+		{
+			"description": "Tairawhiti DHB is based in Gisborne, and covers an area from the East Cape in the north to the Wharerata ranges in the south.",
+			"meta": {
+				"refs": [
+					"https://www.health.govt.nz/new-zealand-health-system/my-dhb/tairawhiti-dhb"
+				]
+			},
+			"uuid": "2244b6b6-6cf2-11e9-a923-1681be663d3e",
+			"value": "Hauora Tairāwhiti District Health Board"
+		},
+		{
+			"description": "The Unified Financial Assistance System for Tertiary Education Act, or UniFAST also known as Republic Act No. 10687 was signed into law in 15 October last year.  UniFAST reconciles, improves, strengthens, expands, and puts under one body all government funded modalities of Student Financial Assistance Programs (StuFAPs) for tertiary education – and special purpose education assistance – in both public and private institutions. These modalities include scholarships, grants-in-aid, student loans and other specialized forms of StuFAPs formulated by the UniFAST Board.",
+			"meta": {
+				"refs": [
+					"https://ched.gov.ph/unifast/"
+				]
+			},
+			"uuid": "d9fc2080-70dc-11e9-a923-1681be663d3e",
+			"value": "Unified Financial Assistance System for Tertiary Education UniFAST"
+		},
+		{
+			"description": "San Francisco Unified School District, established in 1851, is the only public school district within the City and County of San Francisco, and the first in the state of California.",
+			"meta": {
+				"refs": [
+					"http://www.sfusd.edu/"
+				]
+			},
+			"uuid": "d9fc2328-70dc-11e9-a923-1681be663d3e",
+			"value": "The San Francisco Unified School District"
+		},
+		{
+			"description": "Public library located in Owensboro, KY. USA.",
+			"meta": {
+				"refs": [
+					"https://www.dcplibrary.org/"
+				]
+			},
+			"uuid": "0200bae0-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Daviess County Public Library"
+		},
+		{
+			"description": "Baltimore is a major city in Maryland with a long history as an important seaport. Fort McHenry, birthplace of the U.S. national anthem, The Star-Spangled Banner, sits at the mouth of Baltimore’s Inner Harbor. Today, this harbor area offers shops, upscale crab shacks and attractions like the Civil War–era warship the USS Constellation and the National Aquarium, showcasing thousands of marine creatures.",
+			"meta": {
+				"refs": [
+					"https://www.baltimorecity.gov/"
+				]
+			},
+			"uuid": "0200bd7e-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "City of Baltimore"
+		},
+		{
+			"description": "Cartersville is a city in Bartow County in the U.S. state of Georgia; it is located within the northwest edge of the Atlanta metropolitan area. As of the 2010 census, the city had a population of 19,731. Cartersville is the county seat of Bartow County.",
+			"meta": {
+				"refs": [
+					"https://www.cityofcartersville.org/"
+				]
+			},
+			"uuid": "0200bec8-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "City of Cartersville"
+		},
+		{
+			"description": "The Idaho Department of Health and Welfare's programs and services are designed to help people live healthy and be productive, strengthening individuals, families and communities. From birth throughout life, we help people improve their lives.",
+			"meta": {
+				"refs": [
+					"https://healthandwelfare.idaho.gov/"
+				]
+			},
+			"uuid": "0200bffe-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Idaho Department of Health and Welfare"
+		},
+		{
+			"description": "Greenwich Public Schools is a school district located in Fairfield County, in Greenwich, Connecticut. The district has boundaries that are coterminous with those of the town. Approximately 8,840 students, grades K–12, attend the Greenwich Public Schools.",
+			"meta": {
+				"refs": [
+					"https://www.greenwichschools.org/"
+				]
+			},
+			"uuid": "0200c148-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Greenwich Public Schools"
+		},
+		{
+			"description": "Government administration board that deals with contractors and contractor agreements. Salem, OR.",
+			"meta": {
+				"refs": [
+					"https://www.oregon.gov/ccb"
+				]
+			},
+			"uuid": "0200c616-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Oregon Construction Contractors Board"
+		},
+		{
+			"description": "The Oregon Health Authority is at the forefront of lowering and containing costs, improving quality and increasing access to health care in order to improve the lifelong health of Oregonians. View OHA's top-level organization, including divisions and major programs. OHA is overseen by the nine-member citizen Oregon Health Policy Board working towards comprehensive health reform in our state.",
+			"meta": {
+				"refs": [
+					"http://oregon.gov/oha"
+				]
+			},
+			"uuid": "0200c77e-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Oregon Health Authority"
+		},
+		{
+			"description": "The Oklahoma City Public Schools is a multicultural public school district serving most of the urban area of Oklahoma City, Oklahoma. It is the largest primary and secondary education district in the state of Oklahoma with 97 schools and approximately 46,000 students enrolled students during the 2016–2017 school year.",
+			"meta": {
+				"refs": [
+					"https://www.okcps.org/"
+				]
+			},
+			"uuid": "0200c8aa-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Oklahoma City Public Schools"
+		},
+		{
+			"description": "The Driver and Vehicle Licensing Agency is the organisation of the UK government responsible for maintaining a database of drivers in Great Britain and a database of vehicles for the entire United Kingdom.",
+			"meta": {
+				"refs": [
+					"https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
+				]
+			},
+			"uuid": "0200c9d6-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Driver and Vehicle Licensing Agency"
+		},
+		{
+			"description": "The Borough of Charnwood is a local government district with borough status in the north of Leicestershire, England, which has a population of 166,100 as of the 2011 census. It borders Melton to the east, Harborough to the south east, Leicester and Blaby to the south, Hinckley and Bosworth to the south west, North West Leicestershire to the west and Rushcliffe in Nottinghamshire to the north. It is named after Charnwood Forest, an area which the borough contains much of. The administrative centre of the borough is located in Loughborough, which is also the district's largest town and its main commercial centre. The town is also the location of Loughborough University. Other notable settlements include Shepshed, Syston, Birstall and Thurmaston.",
+			"meta": {
+				"refs": [
+					"https://www.charnwood.gov.uk/"
+				]
+			},
+			"uuid": "0200cb0c-7b33-11e9-8f9e-2a86e4085a59",
+			"value": "Charnwood Borough Council"
+		},
+		{
+			"description": "Sunderland City Council is the local authority of the City of Sunderland in Tyne and Wear, England. It is a metropolitan district council, one of five in Tyne and Wear and one of 36 in the metropolitan counties of England, and provides the majority of local government services in Sunderland.",
+			"meta": {
+				"refs": [
+					"https://www.sunderland.gov.uk/"
+				]
+			},
+			"uuid": "d44c0b9c-7e32-11e9-8f9e-2a86e4085a59",
+			"value": "Sunderland City Council"
+		},
+		{
+			"description": "The Regional Municipality of Peel is a regional municipality in Southern Ontario, Canada. It consists of three municipalities to the west and northwest of Toronto, the cities of Brampton and Mississauga, and the town of Caledon.",
+			"meta": {
+				"refs": [
+					"https://www.peelregion.ca/"
+				]
+			},
+			"uuid": "b977eccc-8220-11e9-bc42-526af7764f64",
+			"value": "Regional Municipality of Peel"
+		},
+		{
+			"description": "Baltimore County Public Schools is the school district in charge of all public schools in Baltimore County, Maryland, United States. It is the 25th largest school system in the US as of 2013. The school system is managed by the Board of Education, headquartered in Towson. The superintendent is Darryl L. Williams.",
+			"meta": {
+				"refs": [
+					"http://www.bcps.org/"
+				]
+			},
+			"uuid": "6fd6cfde-8d38-11e9-b683-526af7764f64",
+			"value": "Baltimore County Public Schools"
+		},
+		{
+			"description": "Jefferson City Public Schools is a school district based in Jefferson City, Missouri (USA).",
+			"meta": {
+				"refs": [
+					"https://www.jcschools.us/"
+				]
+			},
+			"uuid": "6fd6d272-8d38-11e9-b683-526af7764f64",
+			"value": "Jefferson City Public Schools"
+		},
+		{
+			"description": "The Lewes Board of Public Works was established on March 15, 1901 by an Act of the Delaware General Assembly.  The term Board of Public Works refers to the Governing Board of Public Works which is an elected body of five board members as well as the administrative, planning and service delivery agency which functions to provide the services that were enumerated in the 1901 legislation.  The Board Members stand for election every three years by the customers of the BPW which includes the City of Lewes as well as the outlying areas that are also serviced by the BPW.",
+			"meta": {
+				"refs": [
+					"https://lewesbpw.delaware.gov/"
+				]
+			},
+			"uuid": "6fd6d3bc-8d38-11e9-b683-526af7764f64",
+			"value": "Lewes Board of Public Works"
+		},
+		{
+			"description": "Broome County in the U.S. state of New York, as of the 2010 census, had a population of 200,600. Its county seat is Binghamton. The county was named in honor of John Broome, who was lieutenant governor in 1806 when Broome County was established. The county is part of the Binghamton, NY Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"http://www.gobroomecounty.com/"
+				]
+			},
+			"uuid": "6fd6d4e8-8d38-11e9-b683-526af7764f64",
+			"value": "Broome County"
+		},
+		{
+			"description": "205 N. Marion Ave. Lake City, FL 32055 (386)752-2031",
+			"meta": {
+				"refs": [
+					"https://www.lcfla.com/index.php/departments/policedepartment"
+				]
+			},
+			"uuid": "6fd6d60a-8d38-11e9-b683-526af7764f64",
+			"value": "The Lake City Police Department"
+		},
+		{
+			"description": "Laredo is a city on the Mexican border, in southern Texas. The Republic of the Rio Grande Museum chronicles the short-lived independent nation, with displays on local culture and history. Next to Los Dos Laredos Park, a bridge crosses the Rio Grande into Mexico. Lake Casa Blanca International State Park has trails and a fish-filled lake. The Imaginarium of South Texas is a children(s) museum with hands-on exhibits.",
+			"meta": {
+				"refs": [
+					"http://www.ci.laredo.tx.us/"
+				]
+			},
+			"uuid": "6fd6d72c-8d38-11e9-b683-526af7764f64",
+			"value": "City of Laredo"
+		},
+		{
+			"description": "United States Customs and Border Protection is the largest federal law enforcement agency of the United States Department of Homeland Security, and is the country(s) primary border control organization.",
+			"meta": {
+				"refs": [
+					"https://www.cbp.gov/"
+				]
+			},
+			"uuid": "6fd6db28-8d38-11e9-b683-526af7764f64",
+			"value": "U.S. Customs and Border Protection"
+		},
+		{
+			"description": "Public school district servicing Hopikins County, KY.",
+			"meta": {
+				"refs": [
+					"https://www.hopkins.kyschools.us/"
+				]
+			},
+			"uuid": "6fd6dc7c-8d38-11e9-b683-526af7764f64",
+			"value": "Hopkins County School District"
+		},
+		{
+			"description": "Edcouch is a city in Hidalgo County, Texas, United States. The population was 3,161 at the 2010 census. It is part of the McAllen–Edinburg–Mission and Reynosa–McAllen metropolitan areas.",
+			"meta": {
+				"refs": [
+					"https://www.txdirectory.com/online/city/detail.php?id=444"
+				]
+			},
+			"uuid": "dccfa1d0-95e7-11e9-bc42-526af7764f64",
+			"value": "The City of Edcouch"
+		},
+		{
+			"description": "Oliver is a town near the south end of the Okanagan Valley in the Southern Interior of British Columbia, Canada, with a population of over 4,000 people.",
+			"meta": {
+				"refs": [
+					"http://www.oliver.ca/"
+				]
+			},
+			"uuid": "dccfa734-95e7-11e9-bc42-526af7764f64",
+			"value": "The Town of Oliver"
+		},
+		{
+			"description": "600 W Blue Heron Blvd # 404, Riviera Beach, FL 33404",
+			"meta": {
+				"refs": [
+					"http://www.rivierabch.com/"
+				]
+			},
+			"uuid": "dccfa892-95e7-11e9-bc42-526af7764f64",
+			"value": "The Riviera Beach City Council"
+		},
+		{
+			"description": "The Southeast Kootenay School District is located in the southeast corner of the province of British Columbia. Our region features spectacular mountain scenery, clean lakes, forested hillsides and wide-open spaces. With an approximate population of 36,000 most people live in the communities of Cranbrook, South Country (Baynes Lake, Grasmere, Elko, Galloway and Jaffray), Fernie, Sparwood and Elkford.",
+			"meta": {
+				"refs": [
+					"https://www.sd5.bc.ca/"
+				]
+			},
+			"uuid": "dccfa9d2-95e7-11e9-bc42-526af7764f64",
+			"value": "School District No. 5 (SD5) Southeast Kootenay"
+		},
+		{
+			"description": "The National Aeronautics and Space Administration is an independent agency of the United States Federal Government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA was established in 1958, succeeding the National Advisory Committee for Aeronautics.",
+			"meta": {
+				"refs": [
+					"https://www.nasa.gov/"
+				]
+			},
+			"uuid": "dccfaaf4-95e7-11e9-bc42-526af7764f64",
+			"value": "The National Aeronautics and Space Administration (NASA)"
+		},
+		{
+			"description": "Key Biscayne is a Florida town on a barrier island across the Rickenbacker Causeway from Miami. It lies between 2 large parks—Crandon Park and Bill Baggs Cape Florida State Park—each with long, sheltered beaches, mangroves and tropical forest inhabited by birdlife, butterflies and loggerhead turtles. The latter is home to the 19th-century Cape Florida Lighthouse.",
+			"meta": {
+				"refs": [
+					"http://keybiscayne.fl.gov/"
+				]
+			},
+			"uuid": "04b77248-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The Village of Key Biscayne"
+		},
+		{
+			"description": "Under the 1983 Constitution of Georgia, the judicial power of the state is vested in seven levels or classes of courts. The Georgia court system has two appellate-level courts: the Supreme Court of Georgia and the Court of Appeals of Georgia. There are five classes of trial-level courts: the superior, state, juvenile, probate, and magistrate courts. In addition, approximately 400 municipal and/or special courts operate at the local level.",
+			"meta": {
+				"refs": [
+					"http://georgiacourts.gov/"
+				]
+			},
+			"uuid": "04b774f0-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "State of Georgia Judicial Branch"
+		},
+		{
+			"description": "The Florida Department of Children and Families is a state agency of Florida. Its headquarters are in Room 202 in Building 1 of the 1317 Winewood Boulevard complex in Tallahassee.",
+			"meta": {
+				"refs": [
+					"https://www.myflfamilies.com/"
+				]
+			},
+			"uuid": "04b77644-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Florida Department of Children and Family Services"
+		},
+		{
+			"description": "The Maryland Department of Labor is committed to safeguarding and protecting Marylanders. We're proud to support the economic stability of the state by providing businesses, the workforce and the consuming public with high quality customer-focused regulatory, employment and training services.",
+			"meta": {
+				"refs": [
+					"https://www.dllr.state.md.us/"
+				]
+			},
+			"uuid": "04b779dc-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Maryland Department of Labor"
+		},
+		{
+			"description": "LaPorte County is a county located in the U.S. state of Indiana. As of 2010, the population was 111,467. The county seat is the city of La Porte, and the largest city is Michigan City. This county is part of the Northwest Indiana and Michiana regions of the Chicago metropolitan area.",
+			"meta": {
+				"refs": [
+					"http://www.laportecounty.org/"
+				]
+			},
+			"uuid": "04b77b30-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "LaPorte County"
+		},
+		{
+			"description": "Los Angeles County Department of Health Services operates the public hospitals and clinics in Los Angeles County, and is United States' second largest municipal health system, after NYC Health as well as Hospitals.",
+			"meta": {
+				"refs": [
+					"http://dhs.lacounty.gov/"
+				]
+			},
+			"uuid": "04b77c5c-a58f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Los Angeles County Department of Health Services"
+		},
+		{
+			"description": "Gila County is a county in the central part of the U.S. state of Arizona. As of the 2010 census its population was 53,597. The county seat is Globe. Gila County comprises the Payson, Arizona Micropolitan Statistical Area. Gila County contains parts of Fort Apache Indian Reservation and San Carlos Indian Reservation.",
+			"meta": {
+				"refs": [
+					"http://www.gilacountyaz.gov/"
+				]
+			},
+			"uuid": "339d03aa-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Gila County"
+		},
+		{
+			"description": "The Syracuse City School District is a public school district based in Syracuse, New York.",
+			"meta": {
+				"refs": [
+					"http://syracusecityschools.com/"
+				]
+			},
+			"uuid": "339d06d4-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Syracuse City School District"
+		},
+		{
+			"description": "The Royal Canadian Mounted Police is the federal and national police force of Canada. The RCMP provides law enforcement at the federal level.",
+			"meta": {
+				"refs": [
+					"http://www.rcmp-grc.gc.ca/en"
+				]
+			},
+			"uuid": "339d0846-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Royal Canadian Mounted Police"
+		},
+		{
+			"description": "Since January 1st 2006 the NRA started actually to operate and combined the collection and servicing of national taxes (income tax, patent taxes (final annual income taxes), VAT, corporate taxes) and the mandatory social security contributions (health insurance contributions, pension contributions, supplementary compulsory retirement contributions, etc.). The administration of the excises went under the authority of the Customs Agency from the middle of year 2006. Implementing a decision of the Council of Ministers a reduction of the staff of the NRA was undertaken and the number of the employees in the administration was brought to the number of 7 976 persons on pay-roll. The Intrastat system was implemented to collect data from the VAT-registered persons in relation to their commercial activities within the European Union.",
+			"meta": {
+				"refs": [
+					"https://nap.bg/en/"
+				]
+			},
+			"uuid": "339d0986-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "National Revenue Agency (NRA)"
+		},
+		{
+			"description": "OCPL's roots lie in its two predecessor organizations, the Onondaga Library System and the Syracuse Public Library. In 1905, Syracuse Public Library opened the doors of a facility on Montgomery Street made possible by a gift from Andrew Carnegie. In 1962, Onondaga Library System was organized as a cooperative non-profit association of SPL and other member libraries in Onondaga County, to provide shared services that would not have been economically feasible if attempted by individual libraries. Following recommendations of a special committee formed to explore cost-saving consolidation, on January 1, 1976, SPL and OLS ceased independent operations and became the Onondaga County Public Library, with the city paying for branch library services and the county funding the remaining costs. Some funding is received through the State, grant monies and private contributions. Today, the Central Library is housed in the Galleries of Syracuse, a modern mixed-use facility combining offices and retail stores.",
+			"meta": {
+				"refs": [
+					"https://www.onlib.org/"
+				]
+			},
+			"uuid": "339d0ab2-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Onondaga County Public Library"
+		},
+		{
+			"description": "Collierville is a town in Shelby County, Tennessee, United States, and a suburb located in the Memphis metropolitan area. The town had a population of 43,965 at the 2010 census, making it the state's largest town by population in that Census. Collierville is a town of large houses and considerable retail expansion.",
+			"meta": {
+				"refs": [
+					"https://collierville.com/"
+				]
+			},
+			"uuid": "339d0bde-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Town of Collierville"
+		},
+		{
+			"description": "The Bahamas Ministry of Tourism and Aviation is a government agency of The Bahamas. Its head office is at the Bolam House in Nassau. The agency has other offices in New Providence.",
+			"meta": {
+				"refs": [
+					"https://www.bahamas.com/vendor/bahamas-ministry-tourism"
+				]
+			},
+			"uuid": "339d0f08-aa55-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Bahamas Ministry of Tourism and Aviation"
+		},
+		{
+			"description": "Serving the Libraries of Butler County, Pennsylvania.",
+			"meta": {
+				"refs": [
+					"https://www.bcfls.org/"
+				]
+			},
+			"uuid": "dace0788-aca2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The Butler County Federated Library System"
+		},
+		{
+			"description": "Since the early 1900s, the City of Lawrenceville chartered a Police Department to protect their citizens and merchants. Today, the police department staffs 72 officers and 24 civilians to assist our city in protective needs.",
+			"meta": {
+				"refs": [
+					"https://www.lawrencevillega.org/187/Police-Department"
+				]
+			},
+			"uuid": "dace0b34-aca2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Lawrenceville Police Department"
+		},
+		{
+			"description": "The Federal Security Service of the Russian Federation is the principal security agency of Russia and the main successor agency to the USSR's Committee for State Security.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Security_Service"
+				]
+			},
+			"uuid": "dace0f62-aca2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Federal Security Service (FSB)"
+		},
+		{
+			"description": "The Tennessee Student Assistance Corporation (TSAC) administers over 20 different state student financial aid programs, including the HOPE scholarship, Tennessee Promise, Tennessee Reconnect, Tennessee Student Assistance Award, and the Dual Enrollment grant.  To increase awareness and participation in the financial aid programs, the agency conducts financial aid outreach and training to students and staff at every high school and postsecondary institution in the state.  Staff also consult with postsecondary financial aid offices to improve program effectiveness and efficiencies.  TSAC is administered by an 18-member board of directors. Administrative offices are located in Nashville at 404 James Robertson Parkway in Suite 1510.   TSAC was created by the Tennessee General Assembly in 1974 as a non-profit corporation with the merging of the Tennessee Educational Loan Corporation and the Tennessee Tuition Grant Program. Between 1974 and 2016, TSAC served as Tennessee's designated federal student loan guaranty agency.",
+			"meta": {
+				"refs": [
+					"https://www.tn.gov/thec.html"
+				]
+			},
+			"uuid": "9148c9b8-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Tennessee Higher Education Commission"
+		},
+		{
+			"description": "Vigo County is a county located along the western border of the U.S. state of Indiana. According to the 2010 census, the population was 107,848. The county seat is Terre Haute. Vigo County is included in the Terre Haute, Indiana, Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.vigocounty.in.gov/"
+				]
+			},
+			"uuid": "9148cc10-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Vigo County"
+		},
+		{
+			"description": "Johannesburg, South Africa(s) biggest city and capital of Gauteng province, began as a 19th-century gold-mining settlement. Its sprawling Soweto township was once home to Nelson Mandela and Desmond Tutu. Mandela(s) former residence is now the Mandela House museum. Other Soweto museums that recount the struggle to end segregation include the somber Apartheid Museum and Constitution Hill, a former prison complex.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Johannesburg"
+				]
+			},
+			"uuid": "9148ce90-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "City of Johannesburg"
+		},
+		{
+			"description": "The Los Angeles Police Department, officially the City of Los Angeles Police Department, is the police department of Los Angeles, California.",
+			"meta": {
+				"refs": [
+					"http://www.lapdonline.org/"
+				]
+			},
+			"uuid": "9148cfda-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Los Angeles Police Department (LAPD)"
+		},
+		{
+			"description": "Concord is a city in Cabarrus County, in the U.S. state of North Carolina. As of the 2010 census, the city had a population of 79,066, with an estimated population in 2018 of 94,546. It is the county seat and the largest city in Cabarrus County.",
+			"meta": {
+				"refs": [
+					"https://www.concordnc.gov/"
+				]
+			},
+			"uuid": "9148d110-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The City of Concord"
+		},
+		{
+			"description": "Anson County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 26,948. Its county seat is Wadesboro.",
+			"meta": {
+				"refs": [
+					"http://www.co.anson.nc.us/"
+				]
+			},
+			"uuid": "82b42414-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Anson County"
+		},
+		{
+			"description": "Sherrif department in Lincoln N.C.",
+			"meta": {
+				"refs": [
+					"http://www.lincolnsheriff.org/"
+				]
+			},
+			"uuid": "82b4290a-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Lincoln County Sheriff Office"
+		},
+		{
+			"description": "Glasgow City Council, the local government body of the city of Glasgow, Scotland, became one of the newly created single tier local authorities in 1996, under the Local Government etc.",
+			"meta": {
+				"refs": [
+					"https://www.glasgow.gov.uk/"
+				]
+			},
+			"uuid": "82b42a90-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Glasgow City Council (Glasgow City Chambers)"
+		},
+		{
+			"description": "Where two nations, three states and four counties come together for the good of the children. The Gadsden Independent School District consists of twenty-four educational facilities and two administrative facilities, educating the children of southern Dona Ana County and Southern Otero county of New Mexico. Covering an area of 1400 square miles, the district educates approximately 14,200 students in programs stretching from preschool through the 12th grade. With three preschools, sixteen elementary schools, three middle schools and five high schools, the education of the students of southern New Mexico is our primary goal. Welcome to our district, rich in culture and great in education. We hope that your visit will inspire you. We encourage you to visit our schools and administrative facilities to see education in action.",
+			"meta": {
+				"refs": [
+					"http://www.gisd.k12.nm.us/"
+				]
+			},
+			"uuid": "82b42bc6-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Gadsden Independent School District"
+		},
+		{
+			"description": "Houston County Schools serve approximately 6400 students in Southeastern Alabama. The system consists of two K-12 schools, two K-5 school, one K-6 schools, one 6-8 school, one 6-12, one 7-12 schools, one 9-12 school, a career academy that serves students in grades 9-12 from throughout the county, one Alternative School, and Hope High School which serves At-Risk students in grades 9-12. Houston County Schools employs approximately 725 professional and support personnel with an operating budget of approximately 54 million USD.",
+			"meta": {
+				"refs": [
+					"https://www.hcboe.us/"
+				]
+			},
+			"uuid": "82b42cf2-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Houston County Schools"
+		},
+		{
+			"description": "Broken Arrow Public Schools is a public school district in Broken Arrow, Oklahoma. Since its formation in 1904, BAPS has become a dynamic leader in public education. The district resides in an urban-suburban community with nearby agricultural areas and a growing business and industrial base.",
+			"meta": {
+				"refs": [
+					"https://www.baschools.org/"
+				]
+			},
+			"uuid": "9388941c-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Broken Arrow Public Schools"
+		},
+		{
+			"description": "Established in 1956, the Clark County School District (CCSD) is the number one choice for families and students. We educate 320,000 students – offering a variety of nationally recognized programs, including Magnet Schools, Career and Technical Academies, and Advanced Placement programs. Through these programs – plus our online secondary school and our open enrollment offerings – we offer the best choices to meet individual student needs. As the nation’s fifth-largest school district, we have the ability to provide additional services such as a school police department, adult education courses, and innovative community partnerships with Vegas PBS and The Public Education Foundation. CCSD educates 75 percent of the students in Nevada, and works closely with community partners and business leaders to educate the workers needed to strengthen our economy.",
+			"meta": {
+				"refs": [
+					"https://www.ccsd.net/"
+				]
+			},
+			"uuid": "9388970a-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The Clark County School District"
+		},
+		{
+			"description": "Public school district in Virginia USA.",
+			"meta": {
+				"refs": [
+					"https://www.shenandoah.k12.va.us/"
+				]
+			},
+			"uuid": "93889c28-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Shenandoah County Public Schools"
+		},
+		{
+			"description": "Randolph County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 141,752. Its county seat is Asheboro.",
+			"meta": {
+				"refs": [
+					"http://www.randolphcountync.gov/"
+				]
+			},
+			"uuid": "93889e44-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Randolph County"
+		},
+		{
+			"description": "Water Department located in Murfreesboro, TN.",
+			"meta": {
+				"refs": [
+					"https://www.murfreesborotn.gov/994/Water-Resources"
+				]
+			},
+			"uuid": "9f398ab0-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Murfreesboro Water Department"
+		},
+		{
+			"description": "Greenville County School District is a public school district in Greenville County, South Carolina. It is the largest school district in the state of South Carolina and the 44th largest in the US. Greenville CSD also takes students from some areas of Spartanburg and Laurens counties.",
+			"meta": {
+				"refs": [
+					"https://www.greenville.k12.sc.us/"
+				]
+			},
+			"uuid": "9f398ed4-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Greenville County School District"
+		},
+		{
+			"description": "The DeKalb County School District is a school district headquartered at 1701 Mountain Industrial Boulevard in unincorporated DeKalb County, Georgia, United States, near Stone Mountain and in the Atlanta metropolitan area.",
+			"meta": {
+				"refs": [
+					"https://www.dekalbschoolsga.org/"
+				]
+			},
+			"uuid": "9f399406-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "DeKalb School District"
+		},
+		{
+			"description": "Revenu Québec is the department of the government of the Province of Quebec, Canada that sees to the collection of income tax and consumption taxes, while ensuring that each person pays a fair share.",
+			"meta": {
+				"refs": [
+					"https://www.revenuquebec.ca/en/"
+				]
+			},
+			"uuid": "9f399564-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Revenu Québec"
+		},
+		{
+			"description": "The Northern Territory Police is the police body that has legal jurisdiction over the Northern Territory of Australia. This police service has 1302 gazetted police positions (as at 31 July 2011) made up of 55 senior sergeants, 200 sergeants, 741 constables, 159 auxiliaries, and 84 Aboriginal community police officers. The rest of the positions are members of commissioned rank and 10 inoperative positions (as of 31 July 2011). It also has a civilian staff of 297 across 48 stations.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Northern_Territory_Police"
+				]
+			},
+			"uuid": "9f39969a-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "The Northern Territory Police"
+		},
+		{
+			"description": "Maplewood is a suburban township in Essex County, New Jersey, United States. As of the 2010 United States Census, the township's population was 23,867, reflecting a decline of 1 person from the 23,868 counted in the 2000 Census, which had in turn increased by 2,216 from the 21,652 counted in the 1990 Census.",
+			"meta": {
+				"refs": [
+					"https://www.twp.maplewood.nj.us/"
+				]
+			},
+			"uuid": "3d295b1a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Township of Maplewood"
+		},
+		{
+			"description": "Over the past 90 years, the Department's work has been conducted in a variety of places: from 1935-39, in the basement of the County Courthouse; during the 40's, in a former church and an old bank building; in a flower shop, a bus depot, and an abandoned barracks. Presently, the Department of Public Social Services has offices located throughout the County in Blythe, Indio, Cathedral City, Rancho Mirage, Banning, Hemet, Perris, Temecula, Lake Elsinore, Norco, Arlington, Moreno Valley, and Riverside.",
+			"meta": {
+				"refs": [
+					"http://dpss.co.riverside.ca.us/"
+				]
+			},
+			"uuid": "3d295d90-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Riverside County Department of Public Social Services"
+		},
+		{
+			"description": "The New York City Fire Department Bureau of Emergency Medical Services, also known as the FDNY EMS Command, or FDNY EMS, was established on March 17, 1996, following the merger of the New York City Fire Department and New York City Health and Hospitals Corporation's EMS division.",
+			"meta": {
+				"refs": [
+					"https://www1.nyc.gov/site/fdny/jobs/career-paths/ems.page"
+				]
+			},
+			"uuid": "3d295fde-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "New York City Fire Department Bureau of EMS"
+		},
+		{
+			"description": "Naples is a city on the Gulf of Mexico in southwest Florida that’s known for high-end shopping and golf courses. The Naples Pier, first erected in 1888, is the city’s symbol, and is a popular fishing and dolphin-spotting destination. It’s flanked by miles of beaches with calm waters and fine white sugar sand, including those at Clam Pass Park and Delnor-Wiggins Pass State Park.",
+			"meta": {
+				"refs": [
+					"https://www.naplesgov.com/"
+				]
+			},
+			"uuid": "3d296128-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "The City of Naples"
+		},
+		{
+			"description": "Bismarck is the capital city of North Dakota. It's centrally located in the state and in North America and is bordered on the west by the scenic Missouri River. Bismarck is an economically diverse, fast growing and dynamic community. The Bismarck-Mandan Metropolitan Statistical Area (MSA) for 2016 shows a population of more than 125,000.",
+			"meta": {
+				"refs": [
+					"https://www.bismarckschools.org/"
+				]
+			},
+			"uuid": "3d29625e-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Bismarck Public Schools"
+		},
+		{
+			"description": "Today, the Charleston County Sheriff's Office is one of the largest full-service Sheriff's Offices in the State of South Carolina. Charleston County is South Carolina's seventh largest county geographically and its third-most populous. As a political subdivision, Charleston County has been in existence since 1682, as one of three original counties in South Carolina.",
+			"meta": {
+				"refs": [
+					"https://www.charlestoncounty.org/departments/sheriff/index.php"
+				]
+			},
+			"uuid": "d2ba19da-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Charleston County Sheriff's Office"
+		},
+		{
+			"description": "The provincial government is responsible for making and enforcing laws, collecting taxes, and providing public services such as healthcare and education. It is accountable to all citizens of the province, representing their interests and acting on their concerns.",
+			"meta": {
+				"refs": [
+					"https://www.princeedwardisland.ca/en/topic/child-and-family"
+				]
+			},
+			"uuid": "d2ba1ca0-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Child and Family | Government of Prince Edward Island"
+		},
+		{
+			"description": "Public Transport Victoria is the trading name of the Public Transport Development Authority, a statutory authority in the Australian state of Victoria responsible for providing, coordinating and promoting public transport.",
+			"meta": {
+				"refs": [
+					"https://www.ptv.vic.gov.au/"
+				]
+			},
+			"uuid": "d2ba1df4-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Public Transport Victoria"
+		},
+		{
+			"description": "Camp Verde Unified School District (CVUSD) is a school district with headquarters in Camp Verde, Arizona.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Camp_Verde_Unified_School_District"
+				]
+			},
+			"uuid": "d2ba1f2a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Camp Verde Unified School District"
+		},
+		{
+			"description": "Valley View School District 365U is located about 35 miles southwest of downtown Chicago, where Interstates 55 & 355 intersect. The district comprises most of Bolingbrook and Romeoville, Illinois. Formed in 1972, the district now serves the educational needs of more than 18,000 students in 20 educational facilities.",
+			"meta": {
+				"refs": [
+					"https://www.vvsd.org/"
+				]
+			},
+			"uuid": "d2ba229a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Valley View District 365U"
+		},
+		{
+			"description": "Circut clerk for the county of Macon IL.",
+			"meta": {
+				"refs": [
+					"http://www.cclerk.co.macon.il.us/"
+				]
+			},
+			"uuid": "b05227a0-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Macon County Circuit Clerk"
+		},
+		{
+			"description": "San Dieguito Union High School District is a school district headquartered in Encinitas, California. The district serves students in the cities of Encinitas, Solana Beach, and Del Mar and surrounding areas. In 2006, the district reported a total of 12,375 students enrolled between seventh and twelfth grade.",
+			"meta": {
+				"refs": [
+					"https://www.sduhsd.net/"
+				]
+			},
+			"uuid": "b0522a0c-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "San Dieguito Union High School District"
+		},
+		{
+			"description": "The Canada Border Services Agency is a federal agency that is responsible for border protection and surveillance, immigration enforcement and customs services in Canada. The CBSA is accountable to Parliament through the Minister of Public Safety and Emergency Preparedness.",
+			"meta": {
+				"refs": [
+					"https://www.cbsa-asfc.gc.ca/menu-eng.html"
+				]
+			},
+			"uuid": "b0522d2c-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Canada Border Services Agency"
+		},
+		{
+			"description": "The mission of the Robertson County Sheriff’s Office is to enhance and protect the quality of life of the citizens of Robertson County by providing professional, ethical, efficient, and effective law enforcement, correctional, and court security services.",
+			"meta": {
+				"refs": [
+					"https://www.robertsonsheriff.com/"
+				]
+			},
+			"uuid": "b0522e62-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Robertson County Sheriff Department"
+		},
+		{
+			"description": "Alberta Health Services is the single health authority for the Canadian province of Alberta. Alberta Health Services delivers medical care on behalf of the Government of Alberta's Ministry of Health.",
+			"meta": {
+				"refs": [
+					"https://www.albertahealthservices.ca/"
+				]
+			},
+			"uuid": "b0522f84-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Alberta Health Services"
+		},
+		{
+			"description": "The Argentine Federal Police is the national civil police force of the Argentine federal government. The PFA has detachments throughout the country. Until January 1, 2017, it also acted as the local law enforcement agency in the capital, Buenos Aires.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Argentine_Federal_Police"
+				]
+			},
+			"uuid": "b05230a6-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Argentine Federal Police"
+		},
+		{
+			"description": "The Argentine Naval Prefecture is a service of the Argentine Security Ministry charged with protecting the country's rivers and maritime territory. It therefore fulfills the functions of other countries' coast guards, and furthermore acts as a gendarmerie force policing navigable rivers.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Argentine_Naval_Prefecture"
+				]
+			},
+			"uuid": "b05231c8-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Argentine Naval Prefecture"
+		},
+		{
+			"description": "The Ministry for Culture and Heritage Te Manatū Taonga (MCH) is the public-service department of the New Zealand government charged with advising the government on policies and issues involving the arts, culture, built heritage, sport and recreation, and broadcasting sectors, and participating in functions that advance or promote those sectors.",
+			"meta": {
+				"refs": [
+					"https://mch.govt.nz/"
+				]
+			},
+			"uuid": "c16c8cce-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Ministry for Culture and Heritage"
+		},
+		{
+			"description": "Lake County is a county located in the U.S. state of Indiana. In 2010, its population was 496,005, making it Indiana's second-most populous county. The county seat is Crown Point. This county is part of Northwest Indiana and the Chicago metropolitan area, and contains a mix of urban, suburban and rural areas.",
+			"meta": {
+				"refs": [
+					"https://www.lakecountyin.org/"
+				]
+			},
+			"uuid": "c16c9084-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Lake County Indiana"
+		},
+		{
+			"description": "Founded in 1654, New Kent County has a rich, deep history which includes a number of historic sites and people.  The county is a traditionally rural county that sits between Richmond and Williamsburg, both of which are easily accessible via Interstate 64.",
+			"meta": {
+				"refs": [
+					"http://newkentschools.org/"
+				]
+			},
+			"uuid": "c16c91f6-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "New Kent County Public Schools"
+		},
+		{
+			"description": "Public school district within New Haven County, Connecticut. Wolcott is a town in New Haven County, Connecticut, United States. It is primarily residential with a population of 16,680 at the 2010 census. The town was settled in the 1730s by the Connecticut Colony and was known as Farmingbury, but it was renamed Wolcott after being incorporated in 1796.",
+			"meta": {
+				"refs": [
+					"http://www.wolcottps.org/"
+				]
+			},
+			"uuid": "c16c9322-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Wolcott Public Schools"
+		},
+		{
+			"description": "The Oregon Judicial Department is the judicial branch of government of the state of Oregon in the United States. The chief executive of the branch is the Chief Justice of the Oregon Supreme Court.",
+			"meta": {
+				"refs": [
+					"https://courts.oregon.gov/"
+				]
+			},
+			"uuid": "c110f292-638c-11e9-a923-1681be663d3e",
+			"value": "Oregon Judicial Department"
+		},
+		{
+			"description": "The Metropolitan Council is the regional policy-making body, planning agency, and provider of essential services for the Twin Cities metropolitan region. The Council's mission is to foster efficient and economic growth for a prosperous region.",
+			"meta": {
+				"refs": [
+					"https://metrocouncil.org/About-Us/The-Council-Who-We-Are.aspx"
+				]
+			},
+			"uuid": "3c4f6842-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Metro Mobility"
+		},
+		{
+			"description": "The Flagstaff Unified School District is the primary school district for Flagstaff, Arizona area and neighboring areas. The district has approximately 11,500 students and operates 16 schools; including three high schools, two middle schools, four magnet schools, ten elementary schools, and two alternative programs.",
+			"meta": {
+				"refs": [
+					"https://www.fusd1.org/"
+				]
+			},
+			"uuid": "3c4f6ac2-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Flagstaff Unified School District"
+		},
+		{
+			"description": "Unalaska is the chief center of population in the Aleutian Islands. The city is in the Aleutians West Census Area, a regional component of the Unorganized Borough in the U.S. state of Alaska. Unalaska is located on Unalaska Island and neighboring Amaknak Island in the Aleutian Islands off mainland Alaska.",
+			"meta": {
+				"refs": [
+					"https://www.ci.unalaska.ak.us/"
+				]
+			},
+			"uuid": "3c4f6c16-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "City of Unalaska"
+		},
+		{
+			"description": "Tamil Nadu Police Department is the primary law enforcement agency of the state of Tamil Nadu, India. It is over 150 years old and is the fifth largest state police force in India. Tamil Nadu has a police-population ratio of 1:632.",
+			"meta": {
+				"refs": [
+					"http://www.tnpolice.gov.in/"
+				]
+			},
+			"uuid": "3c4f6fae-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Tamil Nadu Police"
+		},
+		{
+			"description": "The Oklahoma Law Enforcement Retirement System (OLERS) mission is to administer retirement / survivor retirement and medical benefits for members of the law enforcement profession of the state of Oklahoma and their families. OLERS places high value on the integrity of our agency. Our most important resource is our customer. Our goal is to treat every person who comes into contact with our agency with courtesy and concern, and respond to all inquiries promptly, accurately and clearly.",
+			"meta": {
+				"refs": [
+					"https://www.olers.state.ok.us/"
+				]
+			},
+			"uuid": "3c4f7116-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Oklahoma Law Enforcement Retirement System"
+		},
+		{
+			"description": "The NZ Transport Agency is a New Zealand Crown entity tasked with promoting safe and functional transport by land, including the responsibility for driver and vehicle licensing, and administering the New Zealand state highway network.",
+			"meta": {
+				"refs": [
+					"https://www.nzta.govt.nz/"
+				]
+			},
+			"uuid": "3c4f724c-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "The New Zealand Transport Agency (NZTA)"
+		},
+		{
+			"description": "Vancouver Coastal Health (VCH) is a regional health authority providing direct and contracted health services including primary, secondary, tertiary and quaternary care, home and community care, mental health services, population and preventive health and addictions services in part of Greater Vancouver and the Coast Garibaldi area.",
+			"meta": {
+				"refs": [
+					"http://www.vch.ca/",
+					"https://en.wikipedia.org/wiki/Vancouver_Coastal_Health"
+				]
+			},
+			"uuid": "3c4f7378-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Vancouver Coastal Health"
+		},
+		{
+			"description": "The United Nations Children's Fund (UNICEF), originally known as the United Nations International Children's Emergency Fund, was created by the United Nations General Assembly on 11 December 1946, to provide emergency food and healthcare to children and mothers in countries that had been devastated by World War II. The Polish physician Ludwik Rajchman is widely regarded as the founder of UNICEF and observed as its first chairman from 1946 to 1950, when he had to flee the United States in the wake of McCarthyism. Rajchman is to this day the only person that served as UNICEF's Chairman for longer than 2 years. On Rajchman's suggestion, the American Maurice Pate was appointed first executive director, serving from 1947 until his death in 1965. In 1950, UNICEF's mandate was extended to address the long-term needs of children and women in developing countries everywhere. In 1953 it became a permanent part of the United Nations System, and the words international and emergency were dropped from the organization's name, though it retained the original acronym, UNICEF.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/UNICEF"
+				]
+			},
+			"uuid": "4aa99bec-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "The United Nations Childrens Fund (UNICEF)"
+		},
+		{
+			"description": "Souderton Area School District is a large, suburban public school district which covers an area of almost 50 square miles in the Montgomery County suburbs of Philadelphia. The district serves the municipalities of Souderton, Telford, Franconia, Lower Salford, Upper Salford, and Salford.",
+			"meta": {
+				"refs": [
+					"http://www.soudertonsd.org/"
+				]
+			},
+			"uuid": "4aa99f5c-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Souderton Area School District"
+		},
+		{
+			"description": "Wakulla County School District has four elementary schools, two middle schools, one high school, one charter school, and The Wakulla Institute, which encompasses drop-out prevention programs and a virtual school.  As of March 2016, the total population for pre-school through adult education was approximately 5,195 students.",
+			"meta": {
+				"refs": [
+					"http://wakulla.schooldesk.net/"
+				]
+			},
+			"uuid": "4aa9a0c4-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Wakulla County School District"
+		},
+		{
+			"description": "Rockford Public Schools, officially designated by the state as Rockford Public Schools District 205 is a large unit school district located in Rockford, Illinois. In 2012, the district had an enrollment of 26,980 students, making it the fourth-largest school district by enrollment in Illinois.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rockford_Public_School_District_205"
+				]
+			},
+			"uuid": "4aa9a27c-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Rockford School District 205"
+		},
+		{
+			"description": "Civil registration of births, marriages, and deaths began in 1900. Services provided by the Civil Registry to Ecuadorians - Birth registration, Death registration, Marriage registration, Acknowledgments of father or mother to the child, Certificates of birth, marriage, and death, Annulments, Registry of judicial sentences (divorces, dissolution of the conjugal union), etc., Identity cards for Ecuadorians and strangers, Burial Certificates, and Name changes.",
+			"meta": {
+				"refs": [
+					"https://www.familysearch.org/wiki/en/Ecuador_Civil_Registration"
+				]
+			},
+			"uuid": "71ea2596-db03-11e9-8a34-2a2ae2dbcce4",
+			"value": "Ecuador Civil Registration"
+		},
+		{
+			"description": "The Constitution of the Republic of Ecuador in its article 372, establishes the establishment of a financial entity owned by the Ecuadorian Social Security Institute which will be responsible for channeling its investments and managing public pension funds, private and non-private investments; and, that its management will be subject to the principles of security, solvency, efficiency, profitability and the control of the competent body. According to this constitutional mandate, the creation of the Bank of the Ecuadorian Social Security Institute, Biess, was approved by law published in the Official Registry No. 587 of Monday, May 11, 2009 - Supplement to the Law of Creation of Biess. On December 8, 2009, IESS Bank was born with its first Board session.",
+			"meta": {
+				"refs": [
+					"https://www.biess.fin.ec/",
+					"https://es.wikipedia.org/wiki/Banco_Ecuatoriano_de_Seguridad_Social"
+				]
+			},
+			"uuid": "71ea2820-db03-11e9-8a34-2a2ae2dbcce4",
+			"value": "Bank of the Ecuadorian Social Security Institute"
+		},
+		{
+			"description": "Since 1946 we have grouped a fundamental sector for the growth and development of the national economy, representing it in front of the different authorities. We look after the interests of our associates, promoting respect for legal norms, dialogue and constant innovation. We work together with our affiliates in search of the sustainability of companies, supporting their efforts for the development and improvement of the automotive sector. We promote the entry of new and better automotive technologies, the offer of services and products that meet the mobilization needs of society. We represent companies and organizations of the automotive sector, which together generate more than 56,000 jobs, energize the national economy with an annual turnover of more than USD 11,000 million (sales) and contribute to the development of the country through the transfer of new technologies and mobility solutions.",
+			"meta": {
+				"refs": [
+					"http://www.aeade.net/quienes-somos/"
+				]
+			},
+			"uuid": "71ea2974-db03-11e9-8a34-2a2ae2dbcce4",
+			"value": "Asociación de Empresas Automotrices del Ecuador"
+		},
+		{
+			"description": "The Department of Communications, Climate Action and the Environment is responsible for the delivery of policies and programmes in a number of areas and must ensure that all of its policies are in line with EU and global obligations. These policies are of vital national strategic importance and play a major underpinning role in our national economic development. The areas for which the department is responsible are, by their nature, undergoing substantial and rapid change. The department is actively responding to that change in collaboration with its agencies, other government departments and stakeholders. The department oversees 17 commercial, non-commercial and regulatory bodies. Each of these agencies is responsible for a specific division within the Department.",
+			"meta": {
+				"refs": [
+					"https://www.dccae.gov.ie/en-ie/about-us/Pages/default.aspx"
+				]
+			},
+			"uuid": "71ea2c4e-db03-11e9-8a34-2a2ae2dbcce4",
+			"value": "The Department of Communications, Climate Action and the Environment"
+		},
+		{
+			"description": "Wallenpaupack Area is a third-class school district in Pike and Wayne Counties in Pennsylvania. The district's population was 24,729 at the time of the 2010 United States Census. The district encompasses approximately 321 square miles.",
+			"meta": {
+				"refs": [
+					"http://www.wallenpaupack.org/"
+				]
+			},
+			"uuid": "71ea2d98-db03-11e9-8a34-2a2ae2dbcce4",
+			"value": "Wallenpaupack Area School District"
+		},
+		{
+			"description": "Non-profit Ltd. established by the Ministry for National Development has been tasked to play a coordinative role in promoting and facilitating Hungary’s participation in direct EU programmes with a view to creating synergies with the indirect financial resources of the European Structural and Investment Funds and other European financial instruments. These programmes are: CEF, COSME, Consumer Programme 2014-2020, Creative Europe, Customs 2020, EaSI, ERASMUS+, Europe for Citizens, Fiscalis 2020, Health III Programme, Hercule III, Horizon 2020, Internal Security Fund, Justice 2014-2020 Programme, LIFE Programme, Pericles 2020, Rights, Equality and Citizenship 2014-2020 Programme. HDC contributes to the above by - providing up-to date information on opportunities such as calls for proposals and tenders in cooperation with relevant government departments, national, regional and international stakeholders, acting as a project generator and promoter by connecting and matching beneficiaries with existing opportunities for participation in calls for proposals, facilitating synergies for the optimal use of different European funding schemes by forging meaningful partnerships and by setting and disseminating best practices at national and regional levels. Working towards the above objectives, the HDC Ltd actively seeks consortia partners for joint participation and collaboration in calls for proposals and tenders available under direct EU programmes.",
+			"meta": {
+				"refs": [
+					"http://mfk.gov.hu/about-us.html"
+				]
+			},
+			"uuid": "b47d332a-db04-11e9-9d36-2a2ae2dbcce4",
+			"value": "Hungarian Development Center (MFK)"
+		},
+		{
+			"description": "The Robstown Police Department is a full service agency whose mission is to fulfill the Law Enforcement needs of the people with the highest degree of fairness, professionalism and integrity, and protect the inherent rights of the people to live in freedom and safety.",
+			"meta": {
+				"refs": [
+					"https://www.cityofrobstown.com/police/"
+				]
+			},
+			"uuid": "b47d3604-db04-11e9-9d36-2a2ae2dbcce4",
+			"value": "Robstown Chief of Police"
+		},
+		{
+			"description": "Ramsey County is a county located in the U.S. state of Minnesota. As of the 2010 census, the population was 508,640, making it the second-most populous county in Minnesota. Its county seat is St. Paul, which is also Minnesota's state capital.",
+			"meta": {
+				"refs": [
+					"https://www.ramseycounty.us/"
+				]
+			},
+			"uuid": "b47d376c-db04-11e9-9d36-2a2ae2dbcce4",
+			"value": "Ramsey County"
+		},
+		{
+			"description": "INS Vikrant (from Sanskrit vikrānta, courageous) was a Majestic-class aircraft carrier of the Indian Navy. The ship was laid down as HMS Hercules for the British Royal Navy during World War II, but construction was put on hold when the war ended. India purchased the incomplete carrier in 1957, and construction was completed in 1961. Vikrant was commissioned as the first aircraft carrier of the Indian Navy and played a key role in enforcing the naval blockade of East Pakistan during the Indo-Pakistani War of 1971.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/INS_Vikrant_(R11)"
+				]
+			},
+			"uuid": "b47d3ae6-db04-11e9-9d36-2a2ae2dbcce4",
+			"value": "INS Vikrant"
+		},
+		{
+			"description": "The Ministry of Health (Malay Kementerian Kesihatan), abbreviated MOH, is a ministry of the Government of Malaysia that is responsible for health system: health behavior, cancer, public health, health management, medical research, health systems research, respiratory medicine, health promotion, healthcare tourism, medical device, blood collection, leprosy control, clinical research, health care, dental care, health institution, laboratory, pharmaceutical, patient safety. The Minister of Health administers his functions through the Ministry of Health and a range of other government agencies. The current Minister of Health is Dr. Dzulkefly Ahmad, who was appointed by Prime Minister Tun Dr. Mahathir on 18 May 2018. Its headquarters is located in Putrajaya.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Health_(Malaysia)"
+				]
+			},
+			"uuid": "b47d3c3a-db04-11e9-9d36-2a2ae2dbcce4",
+			"value": "Ministry of Health (Malaysia)"
+		},
+		{
+			"description": "It is the goal of the Ava R-I School District to provide each student with an education that will prepare them for a successful future. High expectations, collaborative efforts among stakeholders, and a belief that all children can learn are philosophies we deem vital in advancing our positive learning community. Unwavering dedication of a close rural community, which focuses on the betterment of children, has been the catalyst in creating outstanding schools within the district. We would like to think that Ava is one of the best-kept secrets in the Ozarks of Southwest Missouri, especially when it comes to the education of our students.  On the state level, the district has been recognized by the Missouri Department of Elementary and Secondary (DESE) and awarded the prestigious Distinction in Performance for five consecutive years, beginning with the 2005-2006 school year.",
+			"meta": {
+				"refs": [
+					"https://mo50000144.schoolwires.net"
+				]
+			},
+			"uuid": "eab01588-db05-11e9-9d36-2a2ae2dbcce4",
+			"value": "Ava School District"
+		},
+		{
+			"description": "The Secretary of State of the U.S. state of Georgia is an elected official with a wide variety of responsibilities, including supervising elections and maintaining public records.",
+			"meta": {
+				"refs": [
+					"https://sos.ga.gov/",
+					"https://en.wikipedia.org/wiki/Georgia_Secretary_of_State"
+				]
+			},
+			"uuid": "eab01812-db05-11e9-9d36-2a2ae2dbcce4",
+			"value": "The Georgia Secretary of State"
+		},
+		{
+			"description": "Fulton County is a county in the north-central portion of the U.S. state of Georgia. As of 2018 estimates, the population was 1,050,114, making it the state's most populous county and its only one with over 1 million inhabitants. Its county seat is Atlanta, the state capital.",
+			"meta": {
+				"refs": [
+					"http://www.fultoncountyga.gov/"
+				]
+			},
+			"uuid": "eab0197a-db05-11e9-9d36-2a2ae2dbcce4",
+			"value": "Fulton County (Georgia)"
+		},
+		{
+			"description": "The mission of Travis Central Appraisal District, in accordance with the Texas Constitution and the laws of the state, is to provide accurate appraisal of all property in Travis County at one hundred percent market value, equally and uniformly, in a professional, ethical, economical and courteous manner, working to ensure that each taxpayer pays only their fair share of the property tax burden.",
+			"meta": {
+				"refs": [
+					"https://www.traviscad.org/"
+				]
+			},
+			"uuid": "e0a6c09a-dd7c-11e9-8a34-2a2ae2dbcce4",
+			"value": "The Travis County Appraisal District"
+		},
+		{
+			"description": "Deerfield Beach is a city in Broward County, Florida, United States, just south of the Palm Beach County line. The city is named for the numerous deer that once roamed the area. As of the 2010 United States Census, the population was 75,018.",
+			"meta": {
+				"refs": [
+					"http://www.deerfield-beach.com/"
+				]
+			},
+			"uuid": "e0a6c59a-dd7c-11e9-8a34-2a2ae2dbcce4",
+			"value": "Deerfield Beach, FL"
+		},
+		{
+			"description": "Palm Bay is a city in Brevard County, Florida. The city's population was 103,190 at the 2010 United States Census, making it the most populous city in the county. It developed at Turkey Creek at the mouth of Indian River, which flows into the Atlantic Ocean.",
+			"meta": {
+				"refs": [
+					"https://www.palmbayflorida.org/"
+				]
+			},
+			"uuid": "e0a6c6f8-dd7c-11e9-8a34-2a2ae2dbcce4",
+			"value": "City of Palm Bay, FL"
+		},
+		{
+			"description": "Milton is a city in Santa Rosa County, Florida. It is the county seat of Santa Rosa County, and is located in the Pensacola–Ferry Pass–Brent Metropolitan Statistical Area, also known as the Pensacola Metropolitan Area.",
+			"meta": {
+				"refs": [
+					"https://www.miltonfl.org/"
+				]
+			},
+			"uuid": "e0a6c82e-dd7c-11e9-8a34-2a2ae2dbcce4",
+			"value": "Milton, FL"
+		},
+		{
+			"description": "Bakersfield is a city on the Kern River, north of Los Angeles. Displays at the Buena Vista Museum of Natural History focus on geology and paleontology. On the city’s northeastern edge, the California Living Museum explores the state’s flora and fauna, and has a reptile house and a touch tank. Northeast, trails wind through the mountains of the Kern River Ranger District, part of Sequoia National Forest.",
+			"meta": {
+				"refs": [
+					"https://bakersfieldcity.us/"
+				]
+			},
+			"uuid": "e0a6c96e-dd7c-11e9-8a34-2a2ae2dbcce4",
+			"value": "Bakersfield, CA"
+		},
+		{
+			"description": "Coral Springs, officially the City of Coral Springs, is a city in Broward County, Florida, United States, approximately 20 miles northwest of Fort Lauderdale. As of the 2010 United States Census, the city had a population of 121,096.",
+			"meta": {
+				"refs": [
+					"https://www.coralsprings.org/"
+				]
+			},
+			"uuid": "583163c6-dd7e-11e9-8a34-2a2ae2dbcce4",
+			"value": "Coral Springs, FL"
+		},
+		{
+			"description": "Pocatello is the county seat and largest city of Bannock County, with a small portion on the Fort Hall Indian Reservation in neighboring Power County, in the southeastern part of the U.S. state of Idaho. It is the principal city of the Pocatello metropolitan area, which encompasses all of Bannock county.",
+			"meta": {
+				"refs": [
+					"https://www.pocatello.us/"
+				]
+			},
+			"uuid": "5831663c-dd7e-11e9-8a34-2a2ae2dbcce4",
+			"value": "City of Pocatello, ID"
+		},
+		{
+			"description": "Broken Arrow is a city located in the northeastern part of the U.S. state of Oklahoma, primarily in Tulsa County, and western Wagoner County. It is the largest suburb of Tulsa. According to the 2010 census, Broken Arrow has a population of 98,850 residents and is the fourth-largest city in the state.",
+			"meta": {
+				"refs": [
+					"https://www.brokenarrowok.gov/"
+				]
+			},
+			"uuid": "583167a4-dd7e-11e9-8a34-2a2ae2dbcce4",
+			"value": "Broken Arrow, OK"
+		},
+		{
+			"description": "Ames is a city in central Iowa approximately 30 miles north of Des Moines. It is best known as the home of Iowa State University, with leading Agriculture, Design, Engineering, and Veterinary Medicine colleges. A United States Department of Energy national laboratory, Ames Laboratory, is located on the ISU campus.",
+			"meta": {
+				"refs": [
+					"https://www.cityofames.org/"
+				]
+			},
+			"uuid": "583168e4-dd7e-11e9-8a34-2a2ae2dbcce4",
+			"value": "City of Ames, IA"
+		},
+		{
+			"description": "Lee County is located in southwest Florida on the Gulf Coast. As of the 2010 census, the population was 618,754. The county seat is Fort Myers, and the largest city is Cape Coral with an estimated 2018 population of 189,343. Lee County comprises the Cape Coral–Fort Myers, FL Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"http://www.leegov.com/"
+				]
+			},
+			"uuid": "58316c40-dd7e-11e9-8a34-2a2ae2dbcce4",
+			"value": "Lee County, FL"
+		},
+		{
+			"description": "Union City is a city in the San Francisco Bay Area in Alameda County, California, United States located approximately 19 miles south of Oakland, 30 miles southeast of San Francisco, and 20 miles north of San Jose.",
+			"meta": {
+				"refs": [
+					"https://www.unioncity.org/"
+				]
+			},
+			"uuid": "00fb326c-e17a-11e9-81b4-2a2ae2dbcce4",
+			"value": "Union City, CA"
+		},
+		{
+			"description": "Northshore School District is a public school district covering portions of both King County and Snohomish County, Washington. The district's service area covers the cities of Bothell, Woodinville, and Kenmore as well as portions of unincorporated King and Snohomish Counties.",
+			"meta": {
+				"refs": [
+					"https://www.nsd.org/"
+				]
+			},
+			"uuid": "00fb34d8-e17a-11e9-81b4-2a2ae2dbcce4",
+			"value": "Northshore School District, WA"
+		},
+		{
+			"description": "The National Health Service in the United Kingdom includes NHS England, NHS Scotland, NHS Wales, and the affiliated Health and Social Care in Northern Ireland. They were established together in 1948 as one of the major social reforms following the Second World War.",
+			"meta": {
+				"refs": [
+					"https://www.nhs.uk/"
+				]
+			},
+			"uuid": "00fb3622-e17a-11e9-81b4-2a2ae2dbcce4",
+			"value": "National Health Service (NHS)"
+		},
+		{
+			"description": "Smyth County Public Schools is the largest public school district in the city of Marion, VA.",
+			"meta": {
+				"refs": [
+					"http://www.scsb.org/"
+				]
+			},
+			"uuid": "00fb3a78-e17a-11e9-81b4-2a2ae2dbcce4",
+			"value": "Smyth County Virginia Public Schools"
+		},
+		{
+			"description": "Guthrie Public Schools is a public school district located in Guthrie, OK. It has 3,457 students in grades PK, K-12 with a student-teacher ratio of 18 to 1. According to state test scores, 35 percent of students are at least proficient in math and 34 percent in reading.",
+			"meta": {
+				"refs": [
+					"https://www.guthrieps.net/"
+				]
+			},
+			"uuid": "00fb3be0-e17a-11e9-81b4-2a2ae2dbcce4",
+			"value": "Guthrie Public Schools, OK"
+		},
+		{
+			"description": "Ahmedabad is a historical and industrial city of Gujarat. After acquiring the status of a mega city, its rate of growth and development has surprisingly increased.The Ahmedabad Municipal Corporation or the AMC, established in July 1950 under the Bombay Provincial Corporation Act, 1949, is responsible for the civic infrastructure and administration of the city of Ahmedabad.",
+			"meta": {
+				"refs": [
+					"https://ahmedabadcity.gov.in/portal/jsp/Static_pages/about_amc.jsp"
+				]
+			},
+			"uuid": "3b89456e-e5fc-11e9-81b4-2a2ae2dbcce4",
+			"value": "The Ahmedabad Municipal Corporation"
+		},
+		{
+			"description": "The Arizona Department of Transportation is an Arizona state government agency charged with facilitating mobility within the state. In addition to managing the state's highway system, the agency is also involved with public transportation and municipal airports.",
+			"meta": {
+				"refs": [
+					"https://azdot.gov/"
+				]
+			},
+			"uuid": "3b894906-e5fc-11e9-81b4-2a2ae2dbcce4",
+			"value": "The Arizona Department of Transportation"
+		},
+		{
+			"description": "Gippsland Health Alliance (GHA), is a consortium of all publicly funded health services in the Gippsland region.",
+			"meta": {
+				"refs": [
+					"https://www.gha2.net.au/"
+				]
+			},
+			"uuid": "3b894a78-e5fc-11e9-81b4-2a2ae2dbcce4",
+			"value": "Gippsland Health Alliance"
+		},
+		{
+			"description": "Tukwila School District 406 is a school district located in Tukwila, Washington. It includes the three elementary schools Cascade View Elementary School, Thorndyke Elementary School, and Tukwila Elementary School. It also includes Showalter Middle School and Foster High School.",
+			"meta": {
+				"refs": [
+					"https://www.tukwilaschools.org/"
+				]
+			},
+			"uuid": "a2c080d0-e86d-11e9-81b4-2a2ae2dbcce4",
+			"value": "The Tukwila School District"
+		},
+		{
+			"description": "Cornelia is a city in Habersham County, Georgia, United States. The population was 4,160 at the 2010 census, up from 3,674 at the 2000 census. It is home to one of the world's largest apple sculptures, which is displayed on top of an obelisk-shaped monument.",
+			"meta": {
+				"refs": [
+					"https://www.corneliageorgia.org/"
+				]
+			},
+			"uuid": "a2c08378-e86d-11e9-81b4-2a2ae2dbcce4",
+			"value": "City of Cornelia, GA"
+		},
+		{
+			"description": "The North Carolina State Bar is the state agency charged with regulating the practice of law in the U.S. state of North Carolina. In contrast, the North Carolina Bar Association is a voluntary association.",
+			"meta": {
+				"refs": [
+					"https://www.ncbar.gov/"
+				]
+			},
+			"uuid": "a2c084d6-e86d-11e9-81b4-2a2ae2dbcce4",
+			"value": "The North Carolina State Bar"
+		},
+		{
+			"description": "Sioux Falls VA Health Care System provides health care services to veterans in Eastern South Dakota, Western Iowa, and Southwestern Minnesota.",
+			"meta": {
+				"refs": [
+					"https://www.siouxfalls.va.gov/"
+				]
+			},
+			"uuid": "a2c08882-e86d-11e9-81b4-2a2ae2dbcce4",
+			"value": "Sioux Falls VA Health Care System"
+		},
+		{
+			"description": "The Wyoming Area School District is a midsized, suburban, public school district located in northeastern Luzerne County and southeastern Wyoming County, Pennsylvania. It is situated midway between Wilkes-Barre and Scranton. The District is one of the 500 public school districts of Pennsylvania.",
+			"meta": {
+				"refs": [
+					"http://www.wyomingarea.org/"
+				]
+			},
+			"uuid": "178b782a-e86e-11e9-81b4-2a2ae2dbcce4",
+			"value": "Wyoming Area School District"
+		},
+		{
+			"description": "IRS, taxation branch of the Brazillian Secratairiate of Federal Revenue Brazil.",
+			"meta": {
+				"refs": [
+					"http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-de-pessoas-fisicas-cpf"
+				]
+			},
+			"uuid": "80bcf42a-eea1-11e9-81b4-2a2ae2dbcce4",
+			"value": "CPF - Cadastro de Pessoas Físicas"
+		},
+		{
+			"description": "The CNPJ comprises the registration information of the entities of interest of the tax administrations of the Union, the states, the Federal District and the municipalities. The administration of the CNPJ is the responsibility of the Federal Revenue Secretariat of Brazil (RFB).",
+			"meta": {
+				"refs": [
+					"http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj"
+				]
+			},
+			"uuid": "80bcf6be-eea1-11e9-81b4-2a2ae2dbcce4",
+			"value": "Cadastro Nacional da Pessoa Jurídica"
+		},
+		{
+			"description": "The Commerce Commission is New Zealand’s competition, consumer and regulatory agency. They are responsible for enforcing laws relating to competition, fair trading, and consumer credit contracts, and have regulatory responsibilities in the electricity lines, gas pipelines, telecommunications, dairy and airport sectors. Their overarching goal is to make New Zealanders better off. They aim to do this by playing a part in ensuring markets work well and consumers and businesses are confident participants in those markets. As an effective competition agency and regulator they also help to ensure - Consumers are protected, and clear and accurate information is provided to them. There is a level playing field for competitors, the rules are known and players are monitored. Market power is not taken advantage of for an anti-competitive purpose. Cartel behaviour is addressed. the level of competition in a market is not substantially lessened by mergers or agreements between businesses. Poor, misleading, or unbalanced information affecting competition in the market is addressed. Regulated businesses face incentives to provide long-term benefits for consumers. Competition is a key driver for delivering greater productivity and growth in the economy. It incentivises firms to innovate, and rewards efficiencies in business. Through regulation we seek to achieve comparable outcomes in markets with little or no competition. The Commission is an Independent Crown Entity. This independence requires us to be an impartial promoter and enforcer of the law. They are primarily accountable to the Minister of Commerce and Consumer Affairs and the Minister of Broadcasting, Communications and Digital Media for our performance but are not subject to direction from the government in carrying out their activities.",
+			"meta": {
+				"refs": [
+					"https://comcom.govt.nz/"
+				]
+			},
+			"uuid": "80bcf81c-eea1-11e9-81b4-2a2ae2dbcce4",
+			"value": "The Commerce Commission (New Zealand)"
+		},
+		{
+			"description": "The Cherry Hill Public Schools are a comprehensive community public school district, serving students in pre-kindergarten through twelfth grade from Cherry Hill Township, in Camden County, New Jersey, United States.",
+			"meta": {
+				"refs": [
+					"https://www.chclc.org/"
+				]
+			},
+			"uuid": "80bcf966-eea1-11e9-81b4-2a2ae2dbcce4",
+			"value": "The Cherry Hill Public School District"
+		},
+		{
+			"description": "A division of the Lancashire Constabulary, UK.",
+			"meta": {
+				"refs": [
+					"https://www.lancashire.police.uk/your-area/south-division/preston/"
+				]
+			},
+			"uuid": "80bcfaa6-eea1-11e9-81b4-2a2ae2dbcce4",
+			"value": "Lancashire Constabulary (Preston Police Station)"
+		},
+		{
+			"description": "The New Zealand Public Health and Disability (NZPHD) Act 2000 created New Zealand District Health Boards (DHBs). The statutory objectives set out in the Act include - improving, promoting and protecting the health of people and communities. Promoting the integration of health services, especially primary and secondary care services. Seeking the optimum arrangement for the most effective care and efficient delivery of health services in order to meet local, regional and national needs. Promoting effective care or support of those in need of personal health services or disability support. Other DHB objectives include - Promoting the inclusion and participation in society and the independence of people with disabilities. Reducing health disparities by improving health outcomes for Māori and other population groups. Reducing - a view toward elimination - health outcome disparities between various population groups. DHBs are expected to show a sense of social responsibility, to foster community participation in health improvement, and to uphold the ethical and quality standards commonly expected of providers of services and public sector organisations. Public hospitals are owned and funded by DHBs.",
+			"meta": {
+				"refs": [
+					"http://www.waitematadhb.govt.nz"
+				]
+			},
+			"uuid": "39bef7b6-eea2-11e9-81b4-2a2ae2dbcce4",
+			"value": "Waitematā District Health Board"
+		},
+		{
+			"description": "Carrollton is a city in Denton, Dallas and Collin counties in Texas, United States. As of the 2010 census, its population was 119,087, making it the twenty-third most populous city in Texas.",
+			"meta": {
+				"refs": [
+					"https://www.cityofcarrollton.com/"
+				]
+			},
+			"uuid": "39befa68-eea2-11e9-81b4-2a2ae2dbcce4",
+			"value": "City Of Carrollton, TX"
+		},
+		{
+			"description": "Our department provides high-quality medical care at City health centers. Prevents the spread of illness and infectious disease. Protects against environmental hazards. Encourages healthy behaviors to prevent chronic disease. Plans and responds to health emergencies. Ensures the quality and accessibility of health services. Sets health policy. Collects, analyzes, and reports on a variety of public health data. We also convene two boards that provide guidance on policy and regulatory issues (the Board of Health and the Air Pollution Control Board).",
+			"meta": {
+				"refs": [
+					"https://www.phila.gov/departments/department-of-public-health/"
+				]
+			},
+			"uuid": "39befbbc-eea2-11e9-81b4-2a2ae2dbcce4",
+			"value": "Philadelphia Department of Public Health"
+		},
+		{
+			"description": "Montgomery County Public Schools is a public school district that serves Montgomery County, Maryland. With 206 schools, it is the largest school district in the state of Maryland, and the 14th largest in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.montgomeryschoolsmd.org/"
+				]
+			},
+			"uuid": "a8f08974-f816-11e9-8f0b-362b9e155667",
+			"value": "Montgomery County Public Schools"
+		},
+		{
+			"description": "Port Orange is a city in Volusia County, Florida, United States. The city estimated population was 57,203 in 2013. The city is part of the Deltona–Daytona Beach–Ormond Beach metropolitan area. The metropolitan area population in 2010 was 590,289.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Port_Orange,_Florida"
+				]
+			},
+			"uuid": "a8f08c26-f816-11e9-8f0b-362b9e155667",
+			"value": "Port Orange, FL."
+		},
+		{
+			"description": "San Bernardino City Unified School District is a public school district in San Bernardino County, California that serves most of the city of San Bernardino and a portion of Highland. The district has an enrollment of approximately 57,000, making it the sixth largest school district in California.",
+			"meta": {
+				"refs": [
+					"https://www.sbcusd.com/"
+				]
+			},
+			"uuid": "a8f08d70-f816-11e9-8f0b-362b9e155667",
+			"value": "The San Bernardino City Unified School District"
+		},
+		{
+			"description": "The National Neurology Registry (NNeuR) is a first of its kind in Malaysia, thus serving as a resource to improve understanding of stroke and epilepsy.",
+			"meta": {
+				"refs": [
+					"http://acrm.org.my/nneur/"
+				]
+			},
+			"uuid": "a8f08ea6-f816-11e9-8f0b-362b9e155667",
+			"value": "The National Neurology Registry (NNeuR)"
+		},
+		{
+			"description": "Pine County is a county in the U.S. state of Minnesota. As of the 2010 United States Census, the population was 29,750. Its county seat is Pine City. The county was formed in 1856 and organized in 1872. A portion of the Mille Lacs Indian Reservation is Pine County.",
+			"meta": {
+				"refs": [
+					"https://www.co.pine.mn.us/"
+				]
+			},
+			"uuid": "0d6576b6-0330-11ea-a69e-362b9e155667",
+			"value": "Pine County, MN"
+		},
+		{
+			"description": "The Ontario Science Centre is a science museum in Toronto, Ontario, Canada, near the Don Valley Parkway about 11 kilometres northeast of downtown on Don Mills Road just south of Eglinton Avenue East in the former city of North York.",
+			"meta": {
+				"refs": [
+					"https://www.ontariosciencecentre.ca/"
+				]
+			},
+			"uuid": "0d657b02-0330-11ea-a69e-362b9e155667",
+			"value": "Ontario Science Centre"
+		},
+		{
+			"description": "Carabiniers of Chile are the Chilean national police force, who have jurisdiction over the entire national territory of Chile. Created in 1927, their mission is to maintain order and create public respect for the laws of the country.",
+			"meta": {
+				"refs": [
+					"http://www.carabineros.cl/"
+				]
+			},
+			"uuid": "0d657c88-0330-11ea-a69e-362b9e155667",
+			"value": "Carabineros de Chile"
+		},
+		{
+			"description": "The Virgin Islands Water and Power Authority is an autonomous agency of the Virgin Islands Government which produces and distributes electricity and drinking water to residential and commercial customers in the territory. WAPA was created by the Fifth Legislature of the Virgin Islands in 1964 through Act No. 1248. The enabling legislation has been amended to add the responsibility of installing and maintaining street lights to the utility mission. In later years, the responsibility for the production and distribution of drinking water was also added. Today, WAPA produces electrical power at plants on St. Thomas and St. Croix and distributes electrical service through smart grids to customers on St. Thomas, St. Croix, St. John, Hassel Island, and Water Island. The Authority is under long-term agreements with Seven Seas Water Corporation to produce drinking water through modern seawater reverse osmosis facilities on St. Thomas and St. Croix.",
+			"meta": {
+				"refs": [
+					"http://www.viwapa.vi/"
+				]
+			},
+			"uuid": "0d657ea4-0330-11ea-a69e-362b9e155667",
+			"value": "The U.S. Virgin Islands Water and Power Authority (WAPA)"
+		},
+		{
+			"description": "Nunavut is the newest, largest, and most northerly territory of Canada. It was separated officially from the Northwest Territories on April 1, 1999, via the Nunavut Act and the Nunavut Land Claims Agreement Act, though the boundaries had been drawn in 1993. The creation of Nunavut resulted in the first major change to Canada political map since incorporating the province of Newfoundland in 1949. Nunavut comprises a major portion of Northern Canada, and most of the Canadian Arctic Archipelago. Its vast territory makes it the fifth-largest country subdivision in the world, as well as North America second-largest (after Greenland). The capital Iqaluit (formerly Frobisher Bay), on Baffin Island in the east, was chosen by the 1995 capital plebiscite. Other major communities include the regional centres of Rankin Inlet and Cambridge Bay. Nunavut also includes Ellesmere Island to the far north, as well as the eastern and southern portions of Victoria Island in the west, and all islands in Hudson, James and Ungava Bays, including Akimiski Island far to the southeast of the rest of the territory. It is Canada only geo-political region that is not connected to the rest of North America by highway. Nunavut is the second-least populous of Canadas provinces and territories. One of the worlds most remote, sparsely settled regions, it has a population of 35,944, mostly Inuit, spread over a land area of just over 1,877,787 km2 (725,018 sq mi), or slightly smaller than Mexico (excluding water surface area). Nunavut is also home to the world northernmost permanently inhabited place, Alert. Eureka, a weather station also on Ellesmere Island, has the lowest average annual temperature of any Canadian weather station.",
+			"meta": {
+				"refs": [
+					"https://www.gov.nu.ca/"
+				]
+			},
+			"uuid": "0d6580d4-0330-11ea-a69e-362b9e155667",
+			"value": "Government of Nunavut"
+		},
+		{
+			"description": "Ocala is a city in central Florida. East of downtown, Fort King National Historic Park was an important Second Seminole War site. The collection at the Appleton Museum of Art includes pre-Columbian artifacts and contemporary art. The waters of Silver Springs State Park are dotted with kayaks and glass-bottom boats. The park is also the gateway to the woods and lakes of the vast Ocala National Forest to the east.",
+			"meta": {
+				"refs": [
+					"https://www.ocalafl.org/"
+				]
+			},
+			"uuid": "0d658232-0330-11ea-a69e-362b9e155667",
+			"value": "The City of Ocala, FL"
+		},
+		{
+			"description": "The California Department of Motor Vehicles is the state agency that registers motor vehicles and boats and issues driver licenses in the U.S. state of California. It regulates new car dealers, commercial cargo carriers, private driving schools, and private traffic schools.",
+			"meta": {
+				"refs": [
+					"https://www.dmv.ca.gov/"
+				]
+			},
+			"uuid": "0d658368-0330-11ea-a69e-362b9e155667",
+			"value": "The California Department of Motor Vehicles"
+		},
+		{
+			"description": "School district located in Watertown, CT.",
+			"meta": {
+				"refs": [
+					"http://watertownps.ss6.sharpschool.com/"
+				]
+			},
+			"uuid": "c40fbe96-03bf-11ea-8d71-362b9e155667",
+			"value": "Watertown Public Schools, CT"
+		},
+		{
+			"description": "The Lincoln County School District is a public school district based in Lincoln County, Mississippi. The superintendent is Mickey Myers.",
+			"meta": {
+				"refs": [
+					"https://lcsd.k12.ms.us/"
+				]
+			},
+			"uuid": "c40fc166-03bf-11ea-8d71-362b9e155667",
+			"value": "Lincoln County School District, MS"
+		},
+		{
+			"description": "Las Cruces Public Schools is a school district headquartered in Las Cruces, New Mexico. The District covers the city of Las Cruces as well as White Sands Missile Range, the settlement of Dona Ana, and the town of Mesilla. The system has 24 elementary schools, eight middle schools, and seven high schools.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Las_Cruces_Public_Schools"
+				]
+			},
+			"uuid": "c40fc2c4-03bf-11ea-8d71-362b9e155667",
+			"value": "Las Cruces Public Schools"
+		},
+		{
+			"description": "Purcellville is a town in Loudoun County, Virginia, United States. The population was 7,727 according to the 2010 Census. Purcellville is the major population center for Western Loudoun and the Loudoun Valley.",
+			"meta": {
+				"refs": [
+					"https://www.purcellvilleva.gov/"
+				]
+			},
+			"uuid": "99332f82-0969-11ea-8d71-362b9e155667",
+			"value": "The Town of Purcellville"
+		},
+		{
+			"description": "Norman is a city in the U.S. state of Oklahoma located 20 miles south of downtown Oklahoma City. As the county seat of Cleveland County and a part of the Oklahoma City metropolitan area, its population was 110,925 at the 2010 census.",
+			"meta": {
+				"refs": [
+					"http://www.normanok.gov/"
+				]
+			},
+			"uuid": "993331da-0969-11ea-8d71-362b9e155667",
+			"value": "The City of Norman, OK"
+		},
+		{
+			"description": "The Macon Water Authority (MWA) was created by an act of the Georgia General Assembly to provide public water and sewer services for the citizens of the City of Macon and Bibb County, as well as additional retail and wholesale customers.",
+			"meta": {
+				"refs": [
+					"http://www.maconwater.org/"
+				]
+			},
+			"uuid": "993335c2-0969-11ea-8d71-362b9e155667",
+			"value": "The Macon Water Authority (MWA)"
+		},
+		{
+			"description": "Petroleos Mexicanos, which translates to Mexican Petroleum, but is trademarked and better known as Pemex, is the Mexican state-owned petroleum company, created in 1938 by nationalization or expropriation of all private, foreign, and domestic oil companies at that time.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Pemex"
+				],
+				"synonyms": [
+				"Petroleos Mexicanos",
+				"Mexican Petroleum"
+				]
+			},
+			"uuid": "9933372a-0969-11ea-8d71-362b9e155667",
+			"value": "Pemex"
+		},
+		{
+			"description": "Port Neches–Groves Independent School District is a public school district based in Port Neches, Texas. In addition to Port Neches, the district also serves most of the city of Groves, as well as portions of the neighboring cities of Port Arthur and Nederland.",
+			"meta": {
+				"refs": [
+					"https://www.pngisd.org/"
+				]
+			},
+			"uuid": "99333860-0969-11ea-8d71-362b9e155667",
+			"value": "Port Neches-Groves Independent School District"
+		},
+		{
+			"description": "San Angelo is a city on the Concho River in Texas. It’s known for its 1860s U.S. army post, the Fort Concho National Historic Landmark. Its restored buildings display original artifacts and weapons. The Concho River Walk is a long, green corridor with walking trails, gardens and parks, such as The Bosque and Kids' Kingdom. Downtown, Concho Avenue is lined with restored 19th- and 20th-century period buildings.",
+			"meta": {
+				"refs": [
+					"https://www.cosatx.us/"
+				]
+			},
+			"uuid": "9933398c-0969-11ea-8d71-362b9e155667",
+			"value": "The City of San Angelo"
+		},
+		{
+			"description": "Office currently held by John Bel Edwards. He is an American politician and lawyer serving as the 56th Governor of Louisiana since 2016, as a member of the Democratic Party. He was previously the Minority Leader of the Louisiana House of Representatives for two terms, leaving the state legislature in 2015 after being elected governor.",
+			"meta": {
+				"refs": [
+					"http://gov.louisiana.gov/"
+				]
+			},
+			"uuid": "b826c410-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana Office of the Governor"
+		},
+		{
+			"description": "The Louisiana State Legislature is the state legislature of the U.S. state of Louisiana. It is a bicameral body, comprising the lower house, the Louisiana House of Representatives with 105 representatives, and the upper house, the Louisiana Senate with 39 senators.",
+			"meta": {
+				"refs": [
+					"http://www.legis.la.gov/legis/home.aspx"
+				]
+			},
+			"uuid": "b826c6c2-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana State Legislature"
+		},
+		{
+			"description": "State of Louisiana administrative office that handles all transportation licensing.",
+			"meta": {
+				"refs": [
+					"http://www.expresslane.org/Pages/default.aspx"
+				]
+			},
+			"uuid": "b826c816-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana Office of Motor Vehicles"
+		},
+		{
+			"description": "The Department of Public Safety and Corrections is a state agency of Louisiana, headquartered in Baton Rouge. The agency comprises two major areas Public Safety Services and Corrections Services. The Secretary, who is appointed by the Governor, serves as the department's chief executive officer.",
+			"meta": {
+				"refs": [
+					"https://doc.louisiana.gov/"
+				]
+			},
+			"uuid": "b826cafa-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana Department of Corrections"
+		},
+		{
+			"description": "Adiministrative offices for the Louisiana state government.",
+			"meta": {
+				"refs": [
+					"https://www.doa.la.gov/"
+				]
+			},
+			"uuid": "b826cfdc-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana Division of Administration"
+		},
+		{
+			"description": "The Louisiana Department of Transportation and Development (LaDOTD) is a state government organization in the United States, in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports, in the U.S. state of Louisiana. The agency has approximately five thousand personnel on staff and an operating budget of $2.3 billion. DOTD operations are run through nine district offices across the state.",
+			"meta": {
+				"refs": [
+					"http://www.dotd.la.gov/"
+				]
+			},
+			"uuid": "b826d126-0c86-11ea-8d71-362b9e155667",
+			"value": "Louisiana Department of Transportation & Development"
+		},
+		{
+			"description": "It is the mission of the Chicopee Public Schools to maintain high standards and expectations for all students by involving teachers, parents, and community in the education of our students. The Chicopee Public Schools will reflect a climate in which staff, parents, and the community foster on-going growth and change necessary to provide students with the knowledge, skills, and values they will need to lead meaningful lives.",
+			"meta": {
+				"refs": [
+					"https://www.chicopeeps.org/"
+				]
+			},
+			"uuid": "d94f6360-0d5b-11ea-8d71-362b9e155667",
+			"value": "Chicopee Public Schools"
+		},
+		{
+			"description": "Dothan is a city in Dale, Henry, and Houston counties in the U.S. state of Alabama. It is the county seat of Houston County and the seventh largest city in Alabama, with a population of 65,496 at the 2010 census.",
+			"meta": {
+				"refs": [
+					"https://www.dothan.org/"
+				]
+			},
+			"uuid": "0f300b74-0fb4-11ea-8d71-362b9e155667",
+			"value": "City of Dothan, AL"
+		},
+		{
+			"description": "The Singapore Accountancy Commission is a statutory body under the Ministry of Finance of the Singapore Government. Launched on 1 April 2013, the SAC works for the advancement of Singapore accountancy’s sector and provides for the registration of Chartered Accountant of Singapore.",
+			"meta": {
+				"refs": [
+					"https://www.sac.gov.sg/"
+				]
+			},
+			"uuid": "0f300f5c-0fb4-11ea-8d71-362b9e155667",
+			"value": "Singapore Accountancy Commission (SAC)"
+		},
+		{
+			"description": "In Manitoba, there are approximately 12,000 children in Child and Family Services (CFS) care and 90 per cent of them are Indigenous. These staggering numbers today are the result of Indian Residential Schools and the 60s Scoop, both of which destroyed individuals, families and communities. With the number of Indigenous children in CFS care reaching crisis levels, First Nations families and children involved with the CFS system wanted solutions. Through community engagement events held in Winnipeg and Thompson, Manitoba, in May 2014, several hundred community members shared their stories about the CFS system. We heard about the challenges they faced while navigating the CFS system and the failures of the CFS system to operate in a fair and just manner. From information gathered during the community engagement sessions, the Assembly of Manitoba Chiefs published the Bringing Our Children Home Report (BOCH). The BOCH Report offered ten recommendations that would immediately address many of the issues and concerns identified during community engagement sessions. One of those recommendations was the creation of the FNFAO; this office is an added mechanism to implement further BOCH Report recommendations. Since opening its doors, the FNFAO has completed intake for over 800 families fighting to have their children in CFS care returned to their homes or home communities. More families, parents and grandparents seek the services of the FNFAO each day and demand for services is continually growing. The FNFAO is unique because our mandate is from Manitoba Chiefs, our advocacy work supports the whole family and we advocate for First Nation-led solutions to address the CFS crisis in Manitoba. We work outside of the current CFS system, understanding that our work cannot empower a provincial system that has clearly failed First Nation children, families and communities.",
+			"meta": {
+				"refs": [
+					"https://manitobachiefs.com/policy-sectors/child-family-services/"
+				]
+			},
+			"uuid": "0f3010c4-0fb4-11ea-8d71-362b9e155667",
+			"value": "Manitoba First Nations Child and Family Services (CFS)"
+		},
+		{
+			"description": "Claremont Unified School District is a Los Angeles County school district in Claremont, California. It consists of 7 elementary schools, 1 intermediate and 2 high schools, the main one is Claremont High School. The district serves Claremont and a section of Pomona.",
+			"meta": {
+				"refs": [
+					"https://www.cusd.claremont.edu/"
+				]
+			},
+			"uuid": "0f301290-0fb4-11ea-8d71-362b9e155667",
+			"value": "The Claremont Unified School District"
+		},
+		{
+			"description": "Pierson Middle-High School is an American high school in Sag Harbor in Suffolk County, New York serving students in grades 6 through 12. It is the only secondary school in the Sag Harbor Union Free School District.",
+			"meta": {
+				"refs": [
+					"https://www.sagharborschools.org/o/pierson-high-school"
+				]
+			},
+			"uuid": "0f3013d0-0fb4-11ea-8d71-362b9e155667",
+			"value": "Pierson High School"
+		},
+		{
+			"description": "The Livingston Public Schools are a comprehensive community public school district that serves students in pre-kindergarten through twelfth grade from Livingston, in Essex County, New Jersey, United States.",
+			"meta": {
+				"refs": [
+					"https://www.livingston.org/"
+				]
+			},
+			"uuid": "0f3015e2-0fb4-11ea-8d71-362b9e155667",
+			"value": "Livingston Public Schools"
+		},
+		{
+			"description": "The New York City Police Department, officially the City of New York Police Department, is the primary law enforcement and investigation agency within the City of New York.",
+			"meta": {
+				"refs": [
+					"https://www1.nyc.gov/site/nypd/index.page"
+				]
+			},
+			"uuid": "a79112c4-153a-11ea-8d71-362b9e155667",
+			"value": "The New York City Police Department"
+		},
+		{
+			"description": "Sycamore Community School District 427. 245 W. Exchange Street Sycamore, IL 6017819.",
+			"meta": {
+				"refs": [
+					"https://www.syc427.org/"
+				]
+			},
+			"uuid": "356a4664-17b2-11ea-8d71-362b9e155667",
+			"value": "Sycamore Community School District 427"
+		},
+		{
+			"description": "Sunapee Middle–High School is a high school and middle school located in Sunapee, New Hampshire, United States. Established in 1974, the school had approximately 136 students in grades 9–12 and 109 students in grades 6–8 during the 2009–10 school year. There are approximately 37 staff and faculty members.",
+			"meta": {
+				"refs": [
+					"https://sunapeeschoolshs.ss19.sharpschool.com/"
+				]
+			},
+			"uuid": "e95579ca-1b61-11ea-978f-2e728ce88125",
+			"value": "Sunapee Middle High School"
+		},
+		{
+			"description": "The Katy Independent School District is a public school district based in Katy, Texas, United States with an enrollment of over 70,000 students. As of August 2009, the district was rated as Recognized by the Texas Education Agency.",
+			"meta": {
+				"refs": [
+					"http://www.katyisd.org/"
+				]
+			},
+			"uuid": "e9557d30-1b61-11ea-978f-2e728ce88125",
+			"value": "Katy Independent School District (Katy ISD)"
+		},
+		{
+			"description": "The Cucamonga Valley Water District (CVWD) is a dynamic, growing organization whose sole purpose is to provide high quality, safe and reliable water and wastewater services, while practicing good stewardship of natural and financial resources. CVWD is one of the leading retail water providers in the region which is attributed to our innovation and leadership in addressing regional and state-wide water issues. CVWD's service area includes the City of Rancho Cucamonga, portions of the cities of Fontana, Ontario, and Upland and some unincorporated areas of San Bernardino County.",
+			"meta": {
+				"refs": [
+					"https://www.cvwdwater.com/"
+				]
+			},
+			"uuid": "e9557f4c-1b61-11ea-978f-2e728ce88125",
+			"value": "Cucamonga Valley Water District"
+		},
+		{
+			"description": "TAX COLLECTOR M JANE LAUSER PO Box 293 Leesport, PA 19533.",
+			"meta": {
+				"refs": [
+					"http://www.co.berks.pa.us/Muni/Leesport/Pages/Taxes.aspx"
+				]
+			},
+			"uuid": "e95580aa-1b61-11ea-978f-2e728ce88125",
+			"value": "Leesport Borough Tax Collection"
+		},
+		{
+			"description": "The Water Department is responsible for providing safe and reliable water and wastewater service with environmental integrity. Fort Worth has a total treatment capacity of 500 million gallons per day for drinking water and 166 million gallons per day for wastewater; with five water treatment plants and one reclamation facility. There are more than 3,336 miles of pipe in the water distribution system and 3,266 miles in the collection system. The system serves more than 1.2 million people in Fort Worth and surrounding areas, which include 30 water wholesale customers, 23 wastewater wholesale wastewater customers and three wholesale reclaimed water customers.",
+			"meta": {
+				"refs": [
+					"http://fortworthtexas.gov/water/"
+				]
+			},
+			"uuid": "6006d3b6-184c-11ea-8d71-362b9e155667",
+			"value": "Fort Worth Water Department"
+		},
+		{
+			"description": "The judicial system of South Carolina is composed of the courts, the prosecution, and the defense components. The court system is comprised of the Supreme Court, Court of Appeals, Circuit Courts, Family Courts, the Magisterial Courts, Municipal Courts, Probate Courts, and Master-in-Equity Courts. The prosecutorial system is made up of the circuit solicitors and the Attorney General's Office. The defense component includes public defender corporations, court appointed counsel, retained counsel, and the S.C. Commission of Appellate Defense.",
+			"meta": {
+				"refs": [
+					"https://www.sccourts.org/OverviewofSCJudicialSystem.cfm"
+				]
+			},
+			"uuid": "a7dedc08-1f89-11ea-978f-2e728ce88125",
+			"value": "South Carolina Judicial System"
+		},
+		{
+			"description": "Your City of Waco Water Utility Services Department is committed to the protection of public health and to the quality management of water and wastewater services.",
+			"meta": {
+				"refs": [
+					"https://www.waco-texas.com/cms-water/"
+				]
+			},
+			"uuid": "a7dede60-1f89-11ea-978f-2e728ce88125",
+			"value": "City of Waco Water Department"
+		},
+		{
+			"description": "East Greenwich is an affluent town and the county seat of Kent County, Rhode Island, United States. The population was 13,146 at the 2010 census. East Greenwich is the wealthiest municipality within the state of Rhode Island.",
+			"meta": {
+				"refs": [
+					"https://www.eastgreenwichri.com/"
+				]
+			},
+			"uuid": "a7dedfbe-1f89-11ea-978f-2e728ce88125",
+			"value": "The Town of East Greenwich"
+		},
+		{
+			"description": "New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the Big Easy, it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures. Embodying its festive spirit is Mardi Gras, the late-winter carnival famed for raucous costumed parades and street parties.",
+			"meta": {
+				"refs": [
+					"https://www.neworleans.com/"
+				]
+			},
+			"uuid": "a7dee2f2-1f89-11ea-978f-2e728ce88125",
+			"value": "New Orleans"
+		},
+		{
+			"description": "Hamilton is a Canadian port city on the western tip of Lake Ontario. The Niagara Escarpment, a huge, forested ridge known locally as the mountain and dotted with conservation areas and waterfalls, divides the city. The long-distance Bruce Trail runs along the escarpment. HMCS Haida, a naval warship on the city's lakefront, and the Canadian Warplane Heritage Museum in the south, trace Canada's military past.",
+			"meta": {
+				"refs": [
+					"https://www.hamilton.ca/"
+				]
+			},
+			"uuid": "a7dee464-1f89-11ea-978f-2e728ce88125",
+			"value": "The City of Hamilton (Ontario, Canada)"
+		},
+		{
+			"description": "Odessa is a city in western Texas. Downtown, Jack Ben Rabbit is an 8-foot-tall statue of a jackrabbit. Another 37 Jamboree Jackrabbits dot the city. The Presidential Archives and Leadership Library exhibits presidential memorabilia. The University of Texas of the Permian Basin's Stonehenge is a replica of the famous English site. To the southwest, meteorite fragments are on display at the Odessa Meteor Crater.",
+			"meta": {
+				"refs": [
+					"https://www.odessa-tx.gov/"
+				]
+			},
+			"uuid": "764b4130-1f8a-11ea-978f-2e728ce88125",
+			"value": "City of Odessa, TX"
+		},
+		{
+			"description": "Pensacola is the westernmost city in the Florida Panhandle, approximately 13 miles from the border with Alabama, and the county seat of Escambia County, in the U.S. state of Florida. As of the 2010 census, the city had a total population of 51,923, down from 56,255 at the 2000 census.",
+			"meta": {
+				"refs": [
+					"https://www.cityofpensacola.com/"
+				]
+			},
+			"uuid": "764b43b0-1f8a-11ea-978f-2e728ce88125",
+			"value": "The City of Pensacola"
+		},
+		{
+			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
+			"meta": {
+				"refs": [
+					"http://edu.cdhb.health.nz/Hospitals-Services/Health-Professionals/Pages/default.aspx"
+				]
+			},
+			"uuid": "fac9a20c-638e-11e9-a923-1681be663d3e",
+			"value": "Canterbury and West Coast District Health Board "
+		}
+		],
+	"version": 37
+}
