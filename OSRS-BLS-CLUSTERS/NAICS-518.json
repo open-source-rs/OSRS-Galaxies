@@ -1,0 +1,91 @@
+{
+  "category": "BLS-NAICS-518",
+  "description": "Industries in the Data Processing, Hosting, and Related Services subsector group establishments that provide the infrastructure for hosting and/or data processing services.",
+  "name": "BLS-NAICS-518",
+  "source": "BLS Industries at a Glance",
+  "type": "BLS-NAICS-518",
+  "uuid": "fe92429c-47fd-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag518.htm"
+        ]
+      },
+      "uuid": "90c1fd32-48c2-11e9-8646-d663bd873d93",
+      "value": "Test Data Processing, Hosting, and Related Services Value"
+    },
+	{
+      "description": "Hostinger International, Ltd. is an employee-owned web hosting provider and Internet domain registrar. Established in 2004, Hostinger now has over 29 million users, collectively with its subsidiaries in 178 countries. The company uses cloud web hosting technology and provides hosting with MySQL, FTP and PHP.",
+      "meta": {
+        "refs": [
+          "https://www.hostinger.com/"
+        ]
+      },
+      "uuid": "96b91b22-cb2f-11e9-a32f-2a2ae2dbcce4",
+      "value": "Hostinger"
+    },
+	{
+      "description": "Minehut provides unlimited free server hosting for the Minecraft Community. Our Cloud Platform makes it easy to run a hit server.",
+      "meta": {
+        "refs": [
+          "https://minehut.com/"
+        ]
+      },
+      "uuid": "e30abe5a-e17c-11e9-81b4-2a2ae2dbcce4",
+      "value": "Minehut"
+    },
+	{
+      "description": "Twitter is a microblogging and social networking service on which users post and interact with messages known as tweets. Tweets were originally restricted to 140 characters, but on November 7, 2017, this limit was doubled to 280 for all languages except Chinese, Japanese, and Korean.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/?lang=en"
+        ]
+      },
+      "uuid": "90c1fd32-48c2-11e9-8646-d663bd873d93",
+      "value": "Twitter Inc."
+    },
+	{
+      "description": "CenturyLink, Inc. is a technology company headquartered in Monroe, Louisiana that offers communications, network services, security, cloud solutions, voice and managed services. The company is a member of the S&P 500 index and the Fortune 500.",
+      "meta": {
+        "refs": [
+          "https://www.centurylink.com/"
+        ]
+      },
+      "uuid": "129021d4-0332-11ea-8d71-362b9e155667",
+      "value": "CenturyLink, Inc."
+    },
+	{
+      "description": "Network Solutions, LLC is an American-based technology company and a subsidiary of Web.com, the 4th largest .com domain name registrar with 6,722,545 registrations as of August 2018.",
+      "meta": {
+        "refs": [
+          "https://www.networksolutions.com/"
+        ]
+      },
+      "uuid": "129026e8-0332-11ea-8d71-362b9e155667",
+      "value": "Network Solutions, LLC"
+    },
+	{
+      "description": "Professional ASP.NET hosting with unlimited space and bandwidth and email.",
+      "meta": {
+        "refs": [
+          "https://www.smarterasp.net/"
+        ]
+      },
+      "uuid": "6dce43e8-096b-11ea-8d71-362b9e155667",
+      "value": "SmarterASP.NET"
+    },
+	{
+      "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
+      "meta": {
+        "refs": [
+          "https://www.insynq.com/"
+        ]
+      },
+      "uuid": "1ff2871e-aca6-11e9-a2a3-2a2ae2dbcce4",
+      "value": "iNSYNQ"
+    }
+	  ],
+	"version": 7
+}

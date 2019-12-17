@@ -1,0 +1,81 @@
+{
+  "category": "BLS-NAICS-481",
+  "description": "Industries in the Air Transportation subsector provide air transportation of passengers and/or cargo using aircraft, such as airplanes and helicopters. The subsector distinguishes scheduled from nonscheduled air transportation. Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded. Nonscheduled carriers often operate during nonpeak time slots at busy airports. These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics. Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services. Specialty flying services establishments use general-purpose aircraft to provide a variety of specialized flying services.",
+  "name": "BLS-NAICS-481",
+  "source": "BLS Industries at a Glance",
+  "type": "BLS-NAICS-481",
+  "uuid": "9e2bab6c-47f0-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag481.htm"
+        ]
+      },
+      "uuid": "4f915796-48bc-11e9-8646-d663bd873d93",
+      "value": "Test Air Transportation Value"
+    },
+	{
+      "description": "The Louisville Regional Airport Authority (LRAA) is an autonomous municipal corporation established by KY state statute that is responsible for owning, operating and developing Louisville International Airport (SDF) and Bowman Field (LOU). Much like a private corporation, the Authority is self-funded and derives operating revenue from a variety of user fees. The Authority does not receive local or state funding for the routine operations of either airport. The forerunner of the Louisville Regional Airport Authority was established in 1928 by the Commonwealth of Kentucky’s General Assembly and is believed to be the first airport to use the authority-type governance in the United States.",
+      "meta": {
+        "refs": [
+          "https://www.flylouisville.com/about/regional-airport-authority/"
+        ]
+      },
+      "uuid": "728ae5f6-7e35-11e9-8f9e-2a86e4085a59",
+      "value": "Louisville Regional Airport Authority"
+    },
+	{
+      "description": "Air New Zealand Limited is the flag carrier airline of New Zealand. Based in Auckland, the airline operates scheduled passenger flights to 20 domestic and 31 international destinations in 19 countries, primarily around and within the Pacific Rim. The airline has been a member of the Star Alliance since 1999.",
+      "meta": {
+        "refs": [
+          "https://www.airnewzealand.com/"
+        ]
+      },
+      "uuid": "eb0aaa0c-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Air New Zealand"
+    },
+	{
+      "description": "British Airways is the flag carrier airline of the United Kingdom, headquartered at Waterside, Harmondsworth. It is the second largest airline in the United Kingdom, based on fleet size and passengers carried, behind easyJet. The airline is based in Waterside near its main hub at London Heathrow Airport.",
+      "meta": {
+        "refs": [
+          "https://www.britishairways.com/travel/home/public/en_us"
+        ]
+      },
+      "uuid": "eb0aad0e-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "British Airways"
+    },
+	{
+      "description": "PT Lion Mentari Airlines, operating as Lion Air, is an Indonesian low-cost airline. Based in Jakarta, Lion Air is the country's largest privately run airline, the second largest low-cost airline in Southeast Asia after AirAsia and the largest airline of Indonesia.",
+      "meta": {
+        "refs": [
+          "http://lionair.co.id/"
+        ]
+      },
+      "uuid": "f2495fa0-db07-11e9-8a34-2a2ae2dbcce4",
+      "value": "Lion Air"
+    },
+	{
+      "description": "Malindo Airways Sdn Bhd is a Malaysian hybrid-full service carrier owned by Indonesian Lion Air Group with headquarters in Petaling Jaya, Selangor, Malaysia. The name Malindo signifies a cooperative pact between Malaysia and Indonesia. Firefly merged into Malindo Air and took his bankruptcy on 20 September 2015.",
+      "meta": {
+        "refs": [
+          "https://www.malindoair.com/"
+        ]
+      },
+      "uuid": "f24963ce-db07-11e9-8a34-2a2ae2dbcce4",
+      "value": "Malindo Air"
+    },
+	{
+      "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
+      "meta": {
+        "refs": [
+          "https://www.clevelandairport.com/"
+        ]
+      },
+      "uuid": "8f8073a8-6cef-11e9-a923-1681be663d3e",
+      "value": "Cleveland Hopkins International Airport"
+    }
+	  ],
+	"version": 5
+}
