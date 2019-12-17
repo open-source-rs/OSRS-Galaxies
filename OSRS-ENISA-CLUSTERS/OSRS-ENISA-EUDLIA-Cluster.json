@@ -1,0 +1,130 @@
+{
+  "category": "OSRS-ENISA-EUDLIA",
+  "description": "ENISA Unintentional damage or loss of information or IT assets (EUDLIA) - Threats of unintentional human actions or errors.",
+  "source": "ENISA Threat Taxonomy",
+  "type": "OSRS-ENISA-EUDLIA",
+  "uuid": "db48aaea-2044-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bcf56aa-2045-11ea-978f-2e728ce88125",
+      "value": "Test OSRS-ENISA-EUDLIA Value"
+    },
+	{
+      "description": "Information leakage, sharing, damage caused by users IT Assets misuse (lack of awareness of application features) or wrong as well as improperly IT Assets configuration or management. Threat of loss of information by incorrectly performed conservation of devices or systems. Threat of loss of information by errors in installation or system configuration. Threat of loss of availability of information by errors in use od backup media and increasing information recovery time. Loss of information due to user errors.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a949bd4e-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 2 - Erroneous Use or Administration of Devices and Systems"
+    },
+	{
+      "description": "Bad decision based on unreliable sources of information or unchecked information.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a949bfba-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 3 - Using Information From an Unreliable Source"
+    },
+	{
+      "description": "Loss of information integrity due to human error (information system user mistake).",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a949c122-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 4 - Unintentional Change of Data In an Information Systems"
+    },
+	{
+      "description": "Threats caused by improperly IT Assets or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy/procedure flows, design errors).",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a949c56e-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 5 - Inadequate Design and Planning or Improper Adapation"
+    },
+	{
+      "description": "Threats of damage of IT Assets caused by third party. Threats of damage of IT Assets caused by breach security regulation by third party.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a949c6c2-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 6 - Damage Caused by a Third Party"
+    },
+	{
+      "description": "Threats to information systems caused by improperly or inprepare conducting of IT penetration testing.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "585b5126-2046-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 7 - Damages Resulting from Penetration Testing"
+    },
+	{
+      "description": "Threats of loosing information or data stored in the cloud.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "585b55f4-2046-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 8 - Loss of Information In The Cloud"
+    },
+	{
+      "description": "Threats of loosing information or data (or changing) information classified as sensitive. Threat of lossing integrity of certificates used for authorisation services.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "585b578e-2046-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 9 - Loss of, Integrity of, Sensitive Information"
+    },
+	{
+      "description": "Threats of the lack of availability (loosing) of IT Assets and documents. Threat of loosing mobile devices. Threat of loosing data-storage medium. Threat of loosing important documentation.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "585b58e2-2046-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 10 - Loss of Devices, Storage Media, and Documents"
+    },
+	{
+      "description": "Threats of the lack of availability (destruction) of data and records (information) stored in devices and storage media. Threat of loss of important data due to infection of removable media. Threat of loss of records by improperly/unauthorised use of storage devices.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "585b5a36-2046-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 11 - Destruction of Records"
+    },
+	{
+      "description": "Unintentional distribution of private or sensitive data to an unauthorized entity by staff member. Threat of leakage private information using applications for mobile devices. Threat of leakage important information using web applications. Threat of leakage important information by unsecure network traffic.",
+      "meta": {
+        "refs": [
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "87022852-2045-11ea-978f-2e728ce88125",
+      "value": "EUDLIA 1 - Information Leakage or Sharing from Human Error"
+    }
+	  ],
+	"version": 1
+}
