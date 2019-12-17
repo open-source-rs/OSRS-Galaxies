@@ -1,0 +1,8 @@
+{
+  "description": "The OSRS Project Zero Authors galaxy is for the tracking of authors who are affiliated with Google Project Zero research.",
+  "name": "OSRS-Project-Zero-Authors",
+  "namespace": "OSRS-Authors-Index",
+  "type": "OSRS-Project-Zero-Authors",
+  "uuid": "d5db9d2a-ecf4-11e9-81b4-2a2ae2dbcce4",
+  "version": 2
+}
