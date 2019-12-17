@@ -1,0 +1,300 @@
+{
+  "category": "OSRS-Botnet",
+  "description": "This galaxy is for the indexing of botnets.",
+  "name": "OSRS-Botnet",
+  "source": "Open Sources",
+  "type": "OSRS-Botnet",
+  "uuid": "b97e99c2-773b-11e9-8248-2a86e4085a59",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Botnet"
+        ]
+      },
+      "uuid": "1cf1124a-497f-11e9-8646-d663bd873d93",
+      "value": "Test Botnet Value"
+    },
+	{
+      "description": "PBot is a versatile IRC bot written in Perl using Net::IRC.",
+      "meta": {
+        "refs": [
+          "https://sourceforge.net/p/pbot2/wiki/Home/"
+        ]
+      },
+      "uuid": "4a55bdd8-49bd-11e9-8646-d663bd873d93",
+      "value": "pBot"
+    },
+	{
+      "description": "Android banking trojan",
+      "meta": {
+        "refs": [
+          "https://twitter.com/LukasStefanko/status/1102937833071935491"
+        ]
+      },
+      "uuid": "c5b51a32-50ca-11e9-8647-d663bd873d93",
+      "value": "CometBot"
+    },
+	{
+      "description": "Based on Marcher malware family",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+        ]
+      },
+      "uuid": "c5b51d52-50ca-11e9-8647-d663bd873d93",
+      "value": "Bubabot"
+    },
+	{
+      "description": "Based on Marcher malware family",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+        ]
+      },
+      "uuid": "c5b521e4-50ca-11e9-8647-d663bd873d93",
+      "value": "Neobot"
+    },
+	{
+      "description": "Yowai detected by Trend Micro as BACKDOOR.LINUX.YOWAI.A has a configuration table thatâ€™s similar to those of other Mirai variants. Its configuration table can be decrypted with the same procedures, and adds the ThinkPHP exploit with other known vulnerabilities in its list of infection entry vectors. Yowai listens on port 6 to receive commands from the command and control server. After it infects a router, it uses dictionary attack in an attempt to infect other devices. The affected router now becomes part of a botnet that enables its operator to use the affected devices for launching DDoS attacks.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/thinkphp-vulnerability-abused-by-botnets-hakai-and-yowai/3/"
+        ]
+      },
+      "uuid": "5c7c88ec-63ae-11e9-a923-1681be663d3e",
+      "value": "Yowai"
+    },
+	{
+      "description": "AESDDoS botnet malware variant detected by Trend Micro as Backdoor.Linux.AESDDOS.J exploiting a server-side template injection vulnerability CVE-2019-3396 in the Widget Connector macro in Atlassian Confluence Server, a collaboration software program used by DevOps professionals.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+        ]
+      },
+      "uuid": "98c0fae4-6cf6-11e9-a923-1681be663d3e",
+      "value": "AESDDoS.J"
+    },
+	{
+      "description": "Attacks other coinminer botnets. Utilizes blockchain DNS services. Behaves like Satori botnet. Also used to take over security camera systems.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/the-new-developments-of-the-fbot-en/",
+		  "https://blog.netlab.360.com/threat-alert-a-new-worm-fbot-cleaning-adbminer-is-using-a-blockchain-based-dns-en/"
+        ]
+      },
+      "uuid": "da9f43f8-70fc-11e9-a923-1681be663d3e",
+      "value": "FBot"
+    },
+	{
+      "description": "The core of the artifact is the integration of different botnet source codes, as it is also well documented by reading the now deleted Instagram profile of the 13 years old scriptbots/unholdable, who implemented this Botnet . STD attack, Tsunami, Christmas DDoS attacks were adapted from Kaiten botnet, along with more flood combination taken from Qbot/Lizkebab/Torlus/Gafgyt variants: multiple attack methods integrating multiple source code in the same artifact and provided a As-a-Service to other teens or threat actors and sold offhandedly on Instagram. From Mirai source code the Cayosin was taken the table scheme to hide strings used by the botnet to hack the login credential of the vulnerable telnet accounts for known IOT devices, along with other Mirai botnet functionalities. Obviously, the coder was not updating much feature of the C2 which explains how the base protocol of the botnet is still made by Qbot/Torlus basis.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/80858/cyber-crime/cayosin-botnet-mmd.html",
+		  "https://imgur.com/a/4YxuSfV"
+        ]
+      },
+      "uuid": "da9f46c8-70fc-11e9-a923-1681be663d3e",
+      "value": "CAYOSIN"
+    },
+	{
+      "description": "The bot first emerged in November 2018. According to Trend Micro, the malware is the work of the Outlaw group, a rough translation derived from haiduc, a Romanian phrase which has been bequeathed to the main hacking tool the group uses.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/article/outlaws-shellbot-infects-servers-for-monero-mining/"
+        ]
+      },
+      "uuid": "da9f4826-70fc-11e9-a923-1681be663d3e",
+      "value": "Outlaw Shellbot"
+    },
+	{
+      "description": "AveMaria is a new botnet, whose first version we found in September 2018, right after the arrests of the FIN7 members. We have medium confidence that this botnet falls under the FIN7 umbrella. In fact, AveMaria is a classic infostealer bot that collects all possible credentials from various types of software (browsers, email clients, messengers, etc.), and can act as a keylogger.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/"
+        ]
+      },
+      "uuid": "bad5e52c-7b38-11e9-8f9e-2a86e4085a59",
+      "value": "AveMaria"
+    },
+	{
+      "description": "A variant of the Mirai botnet. It uses protocols for encrypted commands while scanning for other vulnerable hosts on the network. One similarity it does share with other Mirai variants is that XOR was used to encrypt a part of its configuration data and the list of telnet/SSH credentials used for the malware’s brute-force capabilities.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-miori-variant-uses-unique-protocol-to-communicate-with-cc/?"
+        ]
+      },
+      "uuid": "cba3e362-aa5a-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Miori"
+    },
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Botnet"
+        ]
+      },
+      "uuid": "1cf1124a-497f-11e9-8646-d663bd873d93",
+      "value": "Test Botnet Value"
+    },
+	{
+      "description": "A cryptocurrency-mining bonet in operation since late 2018. Capable of leveraging the BlueKeep RDP exploit.",
+      "meta": {
+        "refs": [
+          "https://www.intezer.com/blog-watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/"
+        ]
+      },
+      "uuid": "d3e6d322-b612-11e9-a2a3-2a2ae2dbcce4",
+      "value": "WatchBog"
+    },
+	{
+      "description": "This spambot is interesting because it can steal passwords, spy on its victims’ screen using FFmpeg when they watch pornographic content online, and communication to the C&C server is done through Tor, while spam is sent as regular internet traffic. This article describes the functionality of the malware.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/08/08/varenyky-spambot-campaigns-france/"
+        ]
+      },
+      "uuid": "f171030e-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Varenyky"
+    },
+	{
+      "description": "the Neko botnet is capable of executing several backdoor commands. It can execute shell commands as well as launch user datagram protocol or UDP and UPD-HEX flood attacks, inundating a router’s ability to properly process and respond to information. It is also capable of killing processes. Neko holds within it an extensive kill list of other malware-related processes that it will terminate. Further examination of the Neko botnet code shows that it comes with scanners that are capable of looking for multiple exploits that would allow the malware to propagate itself to other vulnerable devices.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f17105de-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Neko"
+    },
+	{
+      "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command.  If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f1710746-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Asher"
+    },
+	{
+      "description": "A Bashlite variant that seems to refer to itself as Ayedz. Based on this malware’s file name. Upon execution, Ayedz will send the following information about the infected device back to the host IP address. Ayedz is capable of running several backdoor commands for launching DDoS attacks. Ayedz also features several attack and flood options.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f1710890-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Ayedz"
+    },
+	{
+      "description": "RDP, the remote desktop protocol, made the news recently after Microsoft patched a critical remote code execution vulnerability (CVE-2019-0708). While the reporting around this Bluekeep vulnerability focused on patching vulnerable servers, exposing RDP to the Internet has never been a good idea. Botnets have been scanning for these servers and are using weak and reused passwords to gain access to them. The latest example of such a botnet is an ongoing malicious campaign we are refering to as GoldBrute. This botnet is currently brute forcing a list of about 1.5 million RDP servers exposed to the Internet. Shdoan lists about 2.4 million exposed servers. GoldBrute uses its own list and is extending it as it continues to scan and grow. The GoldBrute botnet is controlled by a single command and control server. Bots are exchanging data with it via AES encrypted WebSocket connections to port 8333. An infected system will first be instructed to download the bot code. The download is very large (80 MBytes) and includes the complete Java Runtime. The bot itself is implemented in a Java class called GoldBrute. Initially, the bot will start scanning random IP addresses to find more hosts with exposed RDP servers. These IPs are reported back to the C&C server. After the bot reported 80 new victims, the C&C server will assign a set of targets to brute force to the bot. Each bot will only try one particular username and password per target. This is possibly a strategy to fly under the radar of security tools as each authentication attempt comes from different addresses.",
+      "meta": {
+        "refs": [
+          "https://isc.sans.edu/forums/diary/GoldBrute+Botnet+Brute+Forcing+15+Million+RDP+Servers/25002/"
+        ]
+      },
+      "uuid": "10d6b444-cb37-11e9-a32f-2a2ae2dbcce4",
+      "value": "GoldBrute"
+    },
+	{
+      "description": "The Joker, a new Trojan on GooglePlay. 24 apps with over 472,000+ installs in total. The malware — going by the name the Joker (which was borrowed from one of the C&C domain names) — delivers a second stage component, which silently simulates the interaction with advertisement websites, steals the victim’s SMS messages, the contact list and device info. The automated interaction with the advertisement websites includes simulation of clicks and entering of the authorization codes for premium service subscriptions. This strategy works by automating the necessary interaction with the premium offer webpage, entering the operator offer code, then waiting for a SMS message with a confirmation code and extracting it using regular expressions. Finally, the Joker submits the extracted code to the offer webpage, in order to authorize the premium subscription. The Joker malware only attacks targeted countries. Most of the infected apps contain a list of Mobile Country Codes (MCC) and the victim has to be using a SIM card from one of these countries in order to receive the second stage payload. The majority of the discovered apps target the EU and Asian countries, however, some apps allow for any country to join. Furthermore, most of the discovered apps have an additional check, which will make sure that the payload will not execute when running within the US or Canada. The UI of C&C panel and some of the bot code comments are written in Chinese, which could be a hint in terms of geographical attribution.",
+      "meta": {
+        "refs": [
+          "https://medium.com/csis-techblog/analysis-of-joker-a-spy-premium-subscription-bot-on-googleplay-9ad24f044451"
+        ]
+      },
+      "uuid": "2ccdf80e-d589-11e9-bb65-2a2ae2dbcce4",
+      "value": "The Joker"
+    },
+	{
+      "description": "Bulehero is a worm that uses the compromised computer's resources to mine cryptocurrency. Hosts that have the ThinkPHP vulnerability and are exposed to the Internet are at a high risk of being infected by this worm.",
+      "meta": {
+        "refs": [
+          "https://forums.juniper.net/t5/Threat-Research/Anatomy-of-the-Bulehero-Cryptomining-Botnet/ba-p/458787",
+		  "https://www.symantec.com/security_response/writeup.jsp?docid=2019-051514-0005-99&om_rssid=sr-mixed30days",
+          "https://www.alibabacloud.com/blog/threat-alert-multiple-cryptocurrency-miner-botnets-start-to-exploit-the-new-thinkphp-vulnerability_594369"
+        ]
+      },
+      "uuid": "4f4d098c-db02-11e9-9d36-2a2ae2dbcce4",
+      "value": "Bulehero"
+    },
+	{
+      "description": "Variant of the Mirai botnet. Most of the exploitation code it includes is for unpatched IoT devices, but enterprise apps Oracle WebLogic and VMware SD-Wan are among the targets, too.",
+      "meta": {
+        "refs": [
+          "https://www.itnewsafrica.com/2019/09/echobot-launches-widespread-attack-against-iot-devices/",
+		  "https://threatvector.cylance.com/en_us/home/mirai-botnet-spawns-echobot-malware.html",
+		  "https://www.bleepingcomputer.com/news/security/echobot-botnet-spreads-via-26-exploits-targets-oracle-vmware-apps/",
+		  "https://www.bleepingcomputer.com/news/security/new-echobot-botnet-variant-uses-over-50-exploits-to-propagate/"
+        ]
+      },
+      "uuid": "ea8d6cc8-e171-11e9-81b4-2a2ae2dbcce4",
+      "value": "Echobot"
+    },
+	{
+      "description": "The MIPS binary is a bot that is having a mission to infect the host it was dropped into. So, it needs a dropping scheme to go to the infected host beforehand, making a malicious process called cloudprocess, send message of airdopping clouds through the standard output that can be piped later on. It is recording its PID and fork its process for the further step. The message of airdropping clouds is the this botnet is called AirDropBot; eventhough the coder prefer to use Cloudbot, which there is also a legitimate good software that uses that name too as their brand. Upon successful forking it will extract the what the coder so-called encrypted array, it's ala Mirai table crypted keywords in its concept, but it is different in implementation. It could be originally coded to avoid XOR operation which is the worst Mirai bug, but this encrypt_array is just ending up to an encoded obfuscation function. The value from this decrypted coded is used for further malware process. Then the malware tries to connect to the C2 which its IP address is hard-coded in the binary, on a success connection attempt to C2 server, it will parse the commands sent by the C2 to perform three weaponized functions on the binary to perform TCP, and UDP DDoS attack with either using the specific hex-coded payload, or the latter on is using a custom pattern so-called hex-attack that sends DoS packet in a hex escape strings format to the targeted host.",
+      "meta": {
+        "refs": [
+          "https://blog.malwaremustdie.org/2019/09/mmd-0064-2019-linuxairdropbot.html"
+        ]
+      },
+      "uuid": "f490e294-e5e6-11e9-81b4-2a2ae2dbcce4",
+      "value": "Linux AirDropBot"
+    },
+	{
+      "description": "SecNiche Security Labs discovered a new IOT bot named GUCCI. It seems like the IOT botnet is named after an Italian luxury brand of fashion and leather goods. The botnet operator was found to be very proactive. The whole analysis and obtaining C&C access was like an arms race.  It is anticipated the Gucci botnet is still in active phase and targeting European region. However, the attacks triggered by Gucci bot could be broad based or targeted depending on the requirements.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/91942/malware/gucci-iot-bot.html",
+		  "https://adityaksood.com/#blogs"
+        ]
+      },
+      "uuid": "f490e528-e5e6-11e9-81b4-2a2ae2dbcce4",
+      "value": "Gucci"
+    },
+	{
+      "description": "The Geost Android banking botnet was discovered as part of a larger malware analysis operation. During an experiment in which a sample of the HtBot malware was executed, the traffic analysis revealed a very unusual communication pattern that stood out from the rest. HtBot operates by converting its victims into unwilling private illegal Internet proxies. The infected victims relay communications from the HtBot users to the Internet. HtBot is regarded as an underground proxy network that is difficult for security analysts to tap, since its traffic is continually redirected to new victims. The users of the HtBot network pay the HtBot botmasters to provide them with high-speed, semi-private communications for their operations.",
+      "meta": {
+        "refs": [
+          "https://blog.avast.com/avast-researcher-helps-expose-banking-botnet-geost",
+		  "http://public.avast.com/research/VB2019-Garcia-etal.pdf"
+        ]
+      },
+      "uuid": "2e361afe-e863-11e9-81b4-2a2ae2dbcce4",
+      "value": "Geost"
+    },
+	{
+      "description": "Botnet that is delivered via malicious attachments that redirect to URL shorteners. It also uses sites like Pastebin to retrive additional commands.",
+      "meta": {
+        "refs": [
+          "https://blog.prevailion.com/2019/10/mastermana-botnet.html"
+        ]
+      },
+      "uuid": "2e361f72-e863-11e9-81b4-2a2ae2dbcce4",
+      "value": "MasterMana"
+    },
+	{
+      "description": "The Downloader and Bot modules of the Roboto Botnet, have both a vulnerability scanning module and a P2P control module. The botnet mainly supports 7 functions - reverse shell, self-uninstall, gather process' network information, gather Bot information, execute system commands, run encrypted files specified in URLs, DDoS attack, etc. However, DDoS is not its main goal. At the same time, it also uses Curve25519, Ed25519, TEA, SHA256, HMAC-SHA256 and other algorithms to ensure the integrity and security of its components and P2P network, create the corresponding Linux self-starting script based on the target system, and disguise its own files and processes name to gain persistence control. Propigation is via the Webmin RCE vulnerability CVE-2019-15107. The main function of Roboto Downloader is to download the corresponding encrypted Roboto Bot program from the specified URL according to the CPU architecture of the victim machine, and then decrypt and execute it.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/the-awaiting-roboto-botnet-en/"
+        ]
+      },
+      "uuid": "f44d2190-1146-11ea-8d71-362b9e155667",
+      "value": "Roboto Botnet"
+    },
+	{
+      "description": "GoLang Botnet",
+      "meta": {
+        "refs": [
+          "https://blog.yoroi.company/research/gobrut-a-new-golang-botnet/"
+        ]
+      },
+      "uuid": "a1bcb5a4-49bd-11e9-8646-d663bd873d93",
+      "value": "GoBrut"
+    }
+	  ],
+	"version": 12
+}
