@@ -1,0 +1,181 @@
+{
+  "category": "OSRS-MITRE-Impact",
+  "description": "Impact consists of techniques that adversaries use to disrupt availability or compromise integrity by manipulating business and operational processes. Techniques used for impact can include destroying or tampering with data. In some cases, business processes can look fine, but may have been altered to benefit the adversaries’ goals. These techniques might be used by adversaries to follow through on their end goal or to provide cover for a confidentiality breach.",
+  "name": "OSRS-MITRE-Impact",
+  "source": "MITRE ATT&CK",
+  "type": "OSRS-MITRE-Impact",
+  "uuid": "518cb350-fa3d-11e9-aad5-362b9e155667",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/"
+        ]
+      },
+      "uuid": "a7ac7eda-fa44-11e9-8f0b-362b9e155667",
+      "value": "Test OSRS-MITRE-Impact Value"
+    },
+	{
+      "description": "Adversaries may interrupt availability of system and network resources by inhibiting access to accounts utilized by legitimate users. Accounts may be deleted, locked, or manipulated (ex - changed credentials) to remove access to accounts.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1531"
+        ]
+      },
+      "uuid": "2142349e-fb10-11e9-8f0b-362b9e155667",
+      "value": "Account Access Removal T1531"
+    },
+	{
+      "description": "Adversaries may destroy data and files on specific systems or in large numbers on a network to interrupt availability to systems, services, and network resources. Data destruction is likely to render stored data irrecoverable by forensic techniques through overwriting files or data on local and remote drives. Common operating system file deletion commands such as del and rm often only remove pointers to files without wiping the contents of the files themselves, making the files recoverable by proper forensic methodology. This behavior is distinct from Disk Content Wipe and Disk Structure Wipe because individual files are destroyed rather than sections of a storage disk or the disk's logical structure.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1485"
+        ]
+      },
+      "uuid": "21423804-fb10-11e9-8f0b-362b9e155667",
+      "value": "Data Destruction T1485"
+    },
+	{
+      "description": "Adversaries may encrypt data on target systems or on large numbers of systems in a network to interrupt availability to system and network resources. They can attempt to render stored data inaccessible by encrypting files or data on local and remote drives and withholding access to a decryption key. This may be done in order to extract monetary compensation from a victim in exchange for decryption or a decryption key (ransomware) or to render data permanently inaccessible in cases where the key is not saved or transmitted. In the case of ransomware, it is typical that common user files like Office documents, PDFs, images, videos, audio, text, and source code files will be encrypted. In some cases, adversaries may encrypt critical system files, disk partitions, and the MBR.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1486"
+        ]
+      },
+      "uuid": "21423980-fb10-11e9-8f0b-362b9e155667",
+      "value": "Data Encrypted for Impact T1486"
+    },
+	{
+      "description": "Adversaries may modify visual content available internally or externally to an enterprise network. Reasons for Defacement include delivering messaging, intimidation, or claiming (possibly false) credit for an intrusion.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1491"
+        ]
+      },
+      "uuid": "21423aca-fb10-11e9-8f0b-362b9e155667",
+      "value": "Defacement T1491"
+    },
+	{
+      "description": "Adversaries may corrupt or wipe the disk data structures on hard drive necessary to boot systems; targeting specific critical systems as well as a large number of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1487"
+        ]
+      },
+      "uuid": "8f1a0726-fb10-11e9-8f0b-362b9e155667",
+      "value": "Disk Structure Wipe T1487"
+    },
+	{
+      "description": "Adversaries may perform Endpoint Denial of Service (DoS) attacks to degrade or block the availability of services to users. Endpoint DoS can be performed by exhausting the system resources those services are hosted on or exploiting the system to cause a persistent crash condition. Example services include websites, email services, DNS, and web-based applications. Adversaries have been observed conducting DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1499"
+        ]
+      },
+      "uuid": "8f1a0988-fb10-11e9-8f0b-362b9e155667",
+      "value": "Endpoint Denial of Service T1499"
+    },
+	{
+      "description": "Adversaries may overwrite or corrupt the flash memory contents of system BIOS or other firmware in devices attached to a system in order to render them inoperable or unable to boot. Firmware is software that is loaded and executed from non-volatile memory on hardware devices in order to initialize and manage device functionality. These devices could include the motherboard, hard drive, or video cards.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1495"
+        ]
+      },
+      "uuid": "8f1a0b5e-fb10-11e9-8f0b-362b9e155667",
+      "value": "Firmware Corruption T1495"
+    },
+	{
+      "description": "Adversaries may delete or remove built-in operating system data and turn off services designed to aid in the recovery of a corrupted system to prevent recovery. Operating systems may contain features that can help fix corrupted systems, such as a backup catalog, volume shadow copies, and automatic repair features. Adversaries may disable or delete system recovery features to augment the effects of Data Destruction and Data Encrypted for Impact.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1490"
+        ]
+      },
+      "uuid": "8f1a0d0c-fb10-11e9-8f0b-362b9e155667",
+      "value": "Inhibit System Recovery T1490"
+    },
+	{
+      "description": "Adversaries may perform Network Denial of Service (DoS) attacks to degrade or block the availability of targeted resources to users. Network DoS can be performed by exhausting the network bandwidth services rely on. Example resources include specific websites, email services, DNS, and web-based applications. Adversaries have been observed conducting network DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1498"
+        ]
+      },
+      "uuid": "8f1a0e42-fb10-11e9-8f0b-362b9e155667",
+      "value": "Network Denial of Service T1498"
+    },
+	{
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1496"
+        ]
+      },
+      "uuid": "f5a4819c-fb10-11e9-8f0b-362b9e155667",
+      "value": "Resource Hijacking T1496"
+    },
+	{
+      "description": "Adversaries may modify systems in order to manipulate the data as it is accessed and displayed to an end user. By manipulating runtime data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1494"
+        ]
+      },
+      "uuid": "f5a48ed0-fb10-11e9-8f0b-362b9e155667",
+      "value": "Runtime Data Manipulation T1494"
+    },
+	{
+      "description": "Adversaries may stop or disable services on a system to render those services unavailable to legitimate users. Stopping critical services can inhibit or stop response to an incident or aid in the adversary's overall objectives to cause damage to the environment.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1489"
+        ]
+      },
+      "uuid": "f5a49088-fb10-11e9-8f0b-362b9e155667",
+      "value": "Service Stop T1489"
+    },
+	{
+      "description": "Adversaries may insert, delete, or manipulate data at rest in order to manipulate external outcomes or hide activity. By manipulating stored data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1492"
+        ]
+      },
+      "uuid": "f5a491c8-fb10-11e9-8f0b-362b9e155667",
+      "value": "Stored Data Manipulation T1492"
+    },
+	{
+      "description": "Adversaries may shutdown reboot systems to interrupt access to, or aid in the destruction of, those systems. Operating systems may contain commands to initiate a shutdown reboot of a machine. In some cases, these commands may also be used to initiate a shutdownreboot of a remote computer. Shutting down or rebooting systems may disrupt access to computer resources for legitimate users.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1529"
+        ]
+      },
+      "uuid": "f5a492f4-fb10-11e9-8f0b-362b9e155667",
+      "value": "System Shutdown OR Reboot T1529"
+    },
+	{
+      "description": "Adversaries may alter data en route to storage or other systems in order to manipulate external outcomes or hide activity. By manipulating transmitted data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1493"
+        ]
+      },
+      "uuid": "f5a49420-fb10-11e9-8f0b-362b9e155667",
+      "value": "Transmitted Data Manipulation T1493"
+    },
+	{
+      "description": "Adversaries may erase the contents of storage devices on specific systems as well as large numbers of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1488"
+        ]
+      },
+      "uuid": "21423c0a-fb10-11e9-8f0b-362b9e155667",
+      "value": "Disk Content Wipe T1488"
+    }
+	  ],
+	"version": 3
+}

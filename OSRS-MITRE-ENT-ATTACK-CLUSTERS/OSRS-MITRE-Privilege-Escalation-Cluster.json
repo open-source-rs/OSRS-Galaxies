@@ -1,0 +1,341 @@
+{
+  "category": "OSRS-MITRE-Privilege-Escalation",
+  "description": "Privilege Escalation consists of techniques that adversaries use to gain higher-level permissions on a system or network. Adversaries can often enter and explore a network with unprivileged access but require elevated permissions to follow through on their objectives. Common approaches are to take advantage of system weaknesses, misconfigurations, and vulnerabilities. Examples of elevated access include - SYSTEM or root level, local administrator, user account with admin-like access, user accounts with access to specific system or perform specific function These techniques often overlap with Persistence techniques, as OS features that let an adversary persist can execute in an elevated context.",
+  "name": "OSRS-MITRE-Privilege-Escalation",
+  "source": "MITRE ATT&CK",
+  "type": "OSRS-MITRE-Privilege-Escalation",
+  "uuid": "297a5626-fa3b-11e9-8f0b-362b9e155667",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "09bb76a6-fa42-11e9-8f0b-362b9e155667",
+      "value": "Test OSRS-MITRE-Privilege-Escalation Value"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ac55a31e-fa6f-11e9-aad5-362b9e155667",
+      "value": "Access Token Manipulation T1134"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ac55a648-fa6f-11e9-aad5-362b9e155667",
+      "value": "Accessibility Features T1015"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ac55a8b4-fa6f-11e9-aad5-362b9e155667",
+      "value": "AppCert DLLs T1182"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ac55aa8a-fa6f-11e9-aad5-362b9e155667",
+      "value": "AppInit DLLs T1103"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "1be18766-fa70-11e9-8f0b-362b9e155667",
+      "value": "Bypass User Account Control T1088"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "1be18a36-fa70-11e9-8f0b-362b9e155667",
+      "value": "DLL Search Order Hijacking T1038"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "1be18b8a-fa70-11e9-8f0b-362b9e155667",
+      "value": "Dylib Hijacking T1157"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "1be18d74-fa70-11e9-8f0b-362b9e155667",
+      "value": "Elevated Execution with Prompt T1514"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "1be18efa-fa70-11e9-8f0b-362b9e155667",
+      "value": "Emond T1519"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "892cb35e-fa70-11e9-8f0b-362b9e155667",
+      "value": "Exploitation for Privilege Escalation T1068"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "892cb5c0-fa70-11e9-8f0b-362b9e155667",
+      "value": "Extra Window Memory Injection T1181"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "892cb714-fa70-11e9-8f0b-362b9e155667",
+      "value": "File System Permissions Weakness T1044"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "892cb84a-fa70-11e9-8f0b-362b9e155667",
+      "value": "Hooking T1179"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "892cb976-fa70-11e9-8f0b-362b9e155667",
+      "value": "Image File Execution Options Injection T1183"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ddd67b92-fa70-11e9-aad5-362b9e155667",
+      "value": "Launch Daemon T1160"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ddd68056-fa70-11e9-aad5-362b9e155667",
+      "value": "New Service T1050"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ddd681b4-fa70-11e9-aad5-362b9e155667",
+      "value": "Parent PID Spoofing T1502"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ddd682ea-fa70-11e9-aad5-362b9e155667",
+      "value": "Path Interception T1034"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ddd6840c-fa70-11e9-aad5-362b9e155667",
+      "value": "Plist Modification T1150"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "49c8d8d6-fa71-11e9-8f0b-362b9e155667",
+      "value": "Port Monitors T1013"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "49c8dba6-fa71-11e9-8f0b-362b9e155667",
+      "value": "PowerShell Profile T1504"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "49c8ddcc-fa71-11e9-8f0b-362b9e155667",
+      "value": "Process Injection T1055"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "49c8e024-fa71-11e9-8f0b-362b9e155667",
+      "value": "Scheduled Task T1053"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "49c8e164-fa71-11e9-8f0b-362b9e155667",
+      "value": "Service Registry Permissions Weakness T1058"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5cc2c-fa71-11e9-8f0b-362b9e155667",
+      "value": "Setuid and Setgid T1166"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5ced4-fa71-11e9-8f0b-362b9e155667",
+      "value": "SID-History Injection T1178"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5d028-fa71-11e9-8f0b-362b9e155667",
+      "value": "Startup Items T1165"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5d514-fa71-11e9-8f0b-362b9e155667",
+      "value": "Sudo T1169"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5d69a-fa71-11e9-8f0b-362b9e155667",
+      "value": "Sudo Caching T1206"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5d7d0-fa71-11e9-8f0b-362b9e155667",
+      "value": "Valid Accounts T1078"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "9ab5d8f2-fa71-11e9-8f0b-362b9e155667",
+      "value": "Web Shell T1100"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "ac55ac7e-fa6f-11e9-aad5-362b9e155667",
+      "value": "Application Shimming T1138"
+    }
+	  ],
+	"version": 2
+}
