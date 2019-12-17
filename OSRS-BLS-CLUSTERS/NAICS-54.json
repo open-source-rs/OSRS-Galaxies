@@ -1,0 +1,1581 @@
+{
+	"category": "BLS-NAICS-54",
+	"description": "The Professional, Scientific, and Technical Services sector comprises establishments that specialize in performing professional, scientific, and technical activities for others. These activities require a high degree of expertise and training. The establishments in this sector specialize according to expertise and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include: legal advice and representation; accounting, bookkeeping, and payroll services; architectural, engineering, and specialized design services; computer services; consulting services; research services; advertising services; photographic services; translation and interpretation services; veterinary services; and other professional, scientific, and technical services.",
+	"name": "BLS-NAICS-54",
+	"source": "BLS Industries at a Glance",
+	"type": "BLS-NAICS-54",
+	"uuid": "4fb9f7a0-483f-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag54.htm"
+				]
+			},
+			"uuid": "e7b298ae-48f9-11e9-8646-d663bd873d93",
+			"value": "Test Professional, Scientific, and Technical Services Value"
+		},
+		{
+			"description": "Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.",
+			"meta": {
+				"refs": [
+					"https://www.elastic.co/"
+				]
+			},
+			"uuid": "2f0d5bf4-4b38-11e9-8646-d663bd873d93",
+			"value": "ElasticSearch"
+		},
+		{
+			"description": "Coinhive is a cryptocurrency mining service that relies on a small chunk of computer code designed to be installed on Web sites. The code uses some or all of the computing power of any browser that visits the site in question, enlisting the machine in a bid to mine bits of the Monero cryptocurrency.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/"
+				]
+			},
+			"uuid": "f42daf6a-4b38-11e9-8646-d663bd873d93",
+			"value": "Coinhive"
+		},
+		{
+			"description": "HackingTeam is a Milan-based information technology company that sells offensive intrusion and surveillance capabilities to governments, law enforcement agencies and corporations.",
+			"meta": {
+				"refs": [
+					"http://www.hackingteam.it/"
+				]
+			},
+			"uuid": "22ca7fba-4b39-11e9-8646-d663bd873d93",
+			"value": "Hacking Team"
+		},
+		{
+			"description": "Automation Anywhere is a developer of robotic process automation software. The company's product, Automation Anywhere Enterprise, caters to enterprises looking to deploy a digital workforce composed of software bots that complete business processes end-to-end.",
+			"meta": {
+				"refs": [
+					"https://www.automationanywhere.com/"
+				]
+			},
+			"uuid": "741bb2a8-4b39-11e9-8646-d663bd873d93",
+			"value": "Automation Anywhere"
+		},
+		{
+			"description": "Citrix Systems, Inc. is an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies.",
+			"meta": {
+				"refs": [
+					"https://www.citrix.com/"
+				]
+			},
+			"uuid": "a580b186-4b39-11e9-8646-d663bd873d93",
+			"value": "Citrix"
+		},
+		{
+			"description": "Computer & Network Security",
+			"meta": {
+				"refs": [
+					"https://badpackets.net/"
+				]
+			},
+			"uuid": "0f881844-4b3a-11e9-8646-d663bd873d93",
+			"value": "Bad Packets LLC"
+		},
+		{
+			"description": "Drupal is a free and open-source content management framework written in PHP and distributed under the GNU General Public License. Drupal provides a back-end framework for at least 2.3% of all web sites worldwide – ranging from personal blogs to corporate, political, and government sites.",
+			"meta": {
+				"refs": [
+					"https://www.drupal.org/"
+				]
+			},
+			"uuid": "50eb035a-4b3a-11e9-8646-d663bd873d93",
+			"value": "Drupal"
+		},
+		{
+			"description": "BambooHR is an American technology company that provides human resources software as a service. Founded in 2008 by Ben Peterson and Ryan Sanders, the company is based in Lindon, Utah. BambooHR's services include an applicant tracking system and an employee benefits tracker.",
+			"meta": {
+				"refs": [
+					"https://www.bamboohr.com/"
+				]
+			},
+			"uuid": "84319fa8-4b3a-11e9-8646-d663bd873d93",
+			"value": "BambooHR"
+		},
+		{
+			"description": "Very little information is known about this organization at this time.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/tag/badges2go-ug/"
+				]
+			},
+			"uuid": "b85e5a28-4b3a-11e9-8646-d663bd873d93",
+			"value": "Badges2Go UG"
+		},
+		{
+			"description": "Very little information is known about this organization at this time.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/2019/02/crytpo-mining-service-coinhive-to-call-it-quits/"
+				]
+			},
+			"uuid": "2bf3db66-4b3b-11e9-8646-d663bd873d93",
+			"value": "Blockchain Future"
+		},
+		{
+			"description": "Facebook, Inc. is an American online social media and social networking service company. It is based in Menlo Park, California. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/"
+				]
+			},
+			"uuid": "667d3de0-4b3b-11e9-8646-d663bd873d93",
+			"value": "Facebook"
+		},
+		{
+			"description": "Amadeus builds the critical solutions that help airlines and airports, hotels and railways, search engines, travel agencies, tour operators and other travel players to run their operations and improve the travel experience.",
+			"meta": {
+				"refs": [
+					"https://amadeus.com/en"
+				]
+			},
+			"uuid": "fe0c255e-4b3b-11e9-8646-d663bd873d93",
+			"value": "Amadeus"
+		},
+		{
+			"description": "Edelman is an American public relations and marketing consultancy firm, founded by and named after Daniel Edelman. It is currently run by his son Richard Edelman.",
+			"meta": {
+				"refs": [
+					"https://www.edelman.com/"
+				]
+			},
+			"uuid": "3d70d2e4-4b3c-11e9-8646-d663bd873d93",
+			"value": "Edelman"
+		},
+		{
+			"description": "PointCare is a breakthrough coverage management platform.",
+			"meta": {
+				"refs": [
+					"https://www.pointcare.com/"
+				]
+			},
+			"uuid": "6d388de6-4b3c-11e9-8646-d663bd873d93",
+			"value": "PointCare"
+		},
+		{
+			"description": "ZOLL Medical Corporation, an Asahi Kasei Group Company, develops and markets medical devices and software solutions.",
+			"meta": {
+				"refs": [
+					"https://www.zoll.com/"
+				]
+			},
+			"uuid": "1f6cd6a8-4ff6-11e9-8647-d663bd873d93",
+			"value": "ZOLL Medical Corporation"
+		},
+		{
+			"description": "Professional Tax & Accounting, AL. provides tax and accounting services to the local community",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/Professional-Tax-and-Accounting-223728064396/"
+				]
+			},
+			"uuid": "1f6cdd92-4ff6-11e9-8647-d663bd873d93",
+			"value": "Professional Tax & Accounting, AL"
+		},
+		{
+			"description": "Elsevier is a Dutch information and analytics company and one of the world's major providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. It is a part of the RELX Group, known until 2015 as Reed Elsevier.",
+			"meta": {
+				"refs": [
+					"https://www.elsevier.com/"
+				]
+			},
+			"uuid": "1f6cdf36-4ff6-11e9-8647-d663bd873d93",
+			"value": "Elsevier"
+		},
+		{
+			"description": "Affordable EHR software for ambulatory medical practices.",
+			"meta": {
+				"refs": [
+					"http://www.meditab.com/"
+				]
+			},
+			"uuid": "1f6ce094-4ff6-11e9-8647-d663bd873d93",
+			"value": "Meditab"
+		},
+		{
+			"description": "Lex Machina, Inc. is an IP litigation research company and division of LexisNexis that develops legal analytics data and software. The company started as a project at Stanford University within the university's law school and computer science department before launching as a startup in Menlo Park, California.",
+			"meta": {
+				"refs": [
+					"https://lexmachina.com/"
+				]
+			},
+			"uuid": "1f6ce1e8-4ff6-11e9-8647-d663bd873d93",
+			"value": "Lex Machina, Inc."
+		},
+		{
+			"description": "Provides legal outsourcing services to law firms and legal departments, including litigation support, transaction support, intellectual property rights.",
+			"meta": {
+				"refs": [
+					"https://www.lexvisio.com/legal-services/lexsphere-pvt-ltd"
+				]
+			},
+			"uuid": "1f6ce328-4ff6-11e9-8647-d663bd873d93",
+			"value": "LexSphere"
+		},
+		{
+			"description": "Secur Solutions Group (SSG) is a technology company with solutions in smart, card issuance, identity security and digital engagement.",
+			"meta": {
+				"refs": [
+					"https://www.rsaconference.com/events/ap16/exhibitors-sponsors/exhibitor-list/2640/secur-solutions-group-pte-ltd"
+				]
+			},
+			"uuid": "1f6ce6c0-4ff6-11e9-8647-d663bd873d93",
+			"value": "Secur Solutions Group Pte Ltd"
+		},
+		{
+			"description": "Bithumb, the best & most reliable blockchain platform to buy, sell, exchange and trade cryptocurrency.",
+			"meta": {
+				"refs": [
+					"https://en.bithumb.com/"
+				]
+			},
+			"uuid": "bdbff248-5a0c-11e9-8647-d663bd873d93",
+			"value": "Bithumb"
+		},
+		{
+			"description": "Cryptocurrency exchange.",
+			"meta": {
+				"refs": [
+					"https://dragonex.io/en-us/"
+				]
+			},
+			"uuid": "0e1dca18-5241-11e9-8647-d663bd873d93",
+			"value": "DragonEx"
+		},
+		{
+			"description": "Our grassroots advocacy system is perfect for organizations with small non-technical staff, but is also flexible enough to meet the needs of the most sophisticated operations. Set up and launch campaigns in as little as 5 to 10 minutes. With our streamlined interface, your supporters are alerted to the issue, matched to their correct elected officials, and guided through the message sending process in just seconds.",
+			"meta": {
+				"refs": [
+					"https://info.votervoice.net/what-we-do/"
+				]
+			},
+			"uuid": "4caa648e-5bfc-11e9-8647-d663bd873d93",
+			"value": "VoterVoice"
+		},
+		{
+			"description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.",
+			"meta": {
+				"refs": [
+					"https://www.microsoft.com/en-us/default.aspx/"
+				]
+			},
+			"uuid": "35d60dae-63d0-11e9-a923-1681be663d3e",
+			"value": "Microsoft Corporation"
+		},
+		{
+			"description": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services. It is headquartered in Bengaluru, Karnataka, India. In 2013, Wipro separated its non-IT businesses into separate companies.",
+			"meta": {
+				"refs": [
+					"https://www.wipro.com/en-US/"
+				]
+			},
+			"uuid": "35d61024-63d0-11e9-a923-1681be663d3e",
+			"value": "Wipro Ltd."
+		},
+		{
+			"description": "LD Evans, CPA, provides tax, consulting, and accounting services to a variety of clients and assorted industries throughout California.",
+			"meta": {
+				"refs": [
+					"http://www.ldevanscpa.com/"
+				]
+			},
+			"uuid": "7c545262-65e8-11e9-a923-1681be663d3e",
+			"value": "LD Evans, CPA"
+		},
+		{
+			"description": "LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/"
+				]
+			},
+			"uuid": "7c545780-65e8-11e9-a923-1681be663d3e",
+			"value": "LinkedIn"
+		},
+		{
+			"description": "Doctors Management Service has provided a service-oriented medical billing option to the healthcare industry for 25 years in a unique Client's First​ method. Regardless of practice size, we custom tailor your account to what your practice needs. We service sole practitioners with less than 1,000 encounters per year and we service groups with a patient volume over 100,000 per year. There is no account too large or small. Each client receives the individual attention they need, to meet the essential goals of their practice.",
+			"meta": {
+				"refs": [
+					"https://doctorsmanagementservice.org/"
+				]
+			},
+			"uuid": "56d21958-681c-11e9-a923-1681be663d3e",
+			"value": "Doctors’ Management Service, Inc."
+		},
+		{
+			"description": "BC Pension Corporation is one of the largest pension plan administrative agents in Canada. Created in 2000, the corporation provides pension administration services on behalf of BC's College, Municipal, Public Service, Teachers and WorkSafeBC pension plans, providing client service to five boards of trustees and their plan members and employers.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/BC_Pension_Corporation",
+					"https://www.pensionsbc.ca/"
+				]
+			},
+			"uuid": "350317cc-6b56-11e9-a923-1681be663d3e",
+			"value": "BC Pension Corporation"
+		},
+		{
+			"description": "Email vendor",
+			"meta": {
+				"refs": [
+					"Verifications.io"
+				]
+			},
+			"uuid": "35031a56-6b56-11e9-a923-1681be663d3e",
+			"value": "Verifications.io"
+		},
+		{
+			"description": "Founded in 2002 as a health care value-added intermediary providing clearinghouse services, today Inmediata provides a full suite of software and business process outsourcing solutions for health plans, hospitals, IPAs, and independent physicians. Inmediata leverages its claim adjudication, clearinghouse, practice management, electronic health record and health information exchange services to support administrative simplification and population health.",
+			"meta": {
+				"refs": [
+					"https://www.inmediata.com"
+				]
+			},
+			"uuid": "35031c5e-6b56-11e9-a923-1681be663d3e",
+			"value": "Inmediata Health Group, Corp."
+		},
+		{
+			"description": "Docker Hub is the world's easiest way to create, manage, and deliver your teams' container applications. Sign up for Docker Hub Browse Popular Images. Docker Hub is the world's largest. library and community for container images.",
+			"meta": {
+				"refs": [
+					"https://hub.docker.com/"
+				]
+			},
+			"uuid": "35031da8-6b56-11e9-a923-1681be663d3e",
+			"value": "Docker Hub"
+		},
+		{
+			"description": "Our emergency medical travel services pick up where traditional insurance leaves off. Global leaders in emergency medical evacuation membership services.",
+			"meta": {
+				"refs": [
+					"https://www.skymed.com/"
+				]
+			},
+			"uuid": "b30b12dc-6cf0-11e9-a923-1681be663d3e",
+			"value": "SkyMed"
+		},
+		{
+			"description": "Charles River Laboratories, Inc., is an American corporation specializing in a variety of pre-clinical and clinical laboratory services for the pharmaceutical, medical device and biotechnology industries.",
+			"meta": {
+				"refs": [
+					"https://www.criver.com/"
+				]
+			},
+			"uuid": "b30b158e-6cf0-11e9-a923-1681be663d3e",
+			"value": "Charles River Laboratories International, Inc."
+		},
+		{
+			"description": "Since 2003, Ladders has been a leader in the professional-level job search. We've become experts in career management - having conducted many studies on the sociology and culture of the executive job space, including the famous Ladders Eye-Tracking Study. Ladders has also published many books and articles on career-related subjects, and has reviewed over 1.5 million resumes.",
+			"meta": {
+				"refs": [
+					"https://recruit.theladders.com/"
+				]
+			},
+			"uuid": "f4de87ba-7106-11e9-a923-1681be663d3e",
+			"value": "Ladders"
+		},
+		{
+			"description": "GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.",
+			"meta": {
+				"refs": [
+					"https://github.com"
+				]
+			},
+			"uuid": "f4de8b02-7106-11e9-a923-1681be663d3e",
+			"value": "GitHub"
+		},
+		{
+			"description": "Bitbucket is a web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. Bitbucket offers both commercial plans and free accounts.",
+			"meta": {
+				"refs": [
+					"https://bitbucket.org/"
+				]
+			},
+			"uuid": "f4de8c60-7106-11e9-a923-1681be663d3e",
+			"value": "Bitbucket"
+		},
+		{
+			"description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.",
+			"meta": {
+				"refs": [
+					"https://about.gitlab.com/"
+				]
+			},
+			"uuid": "f4de8e18-7106-11e9-a923-1681be663d3e3",
+			"value": "GitLab"
+		},
+		{
+			"description": "Binance is a global cryptocurrency exchange that provides a platform for trading more than 100 cryptocurrencies. Since early 2018, Binance is considered as the biggest cryptocurrency exchange in the world in terms of trading volume.",
+			"meta": {
+				"refs": [
+					"https://www.binance.com/en"
+				]
+			},
+			"uuid": "456d991e-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Binance"
+		},
+		{
+			"description": "OS inc. is your trusted partner in revenue cycle management. Our efficientC claims management system (SaaS) provides a single solution for denial elimination.",
+			"meta": {
+				"refs": [
+					"https://www.os-healthcare.com/"
+				]
+			},
+			"uuid": "456d9bc6-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "OS inc."
+		},
+		{
+			"description": "Bloodworks Northwest is a blood bank and medical research institute headquartered in Seattle, Washington that serves 90 hospitals in western Washington and Oregon. It has formerly been known as the Puget Sound Blood Center and King County Central Blood Bank.",
+			"meta": {
+				"refs": [
+					"https://www.bloodworksnw.org/"
+				]
+			},
+			"uuid": "456d9d60-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Bloodworks Northwest"
+		},
+		{
+			"description": "Founded in 1977, AMCA is the leading recovery agency for patient collections. We are one of the Nation’s top high volume lower balance agencies managing over $1BN in annual receivables for a diverse client base. Our employees are trained to provide the highest level of service while delivering the highest recovery rates to our clients.",
+			"meta": {
+				"refs": [
+					"http://www.amcaonline.com/"
+				]
+			},
+			"uuid": "456d9eaa-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "American Medical Collection Agency (AMCA)"
+		},
+		{
+			"description": "Ifficient generates high quality exclusive opt-in leads on a pay-for-performance basis. We make acquisition marketing easy by empowering advertisers to acquire new consumers via highly targeted online & mobile advertising campaigns.",
+			"meta": {
+				"refs": [
+					"http://www.ifficient.com/"
+				]
+			},
+			"uuid": "456da24c-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Ifficient"
+		},
+		{
+			"description": "Condé Nast Inc. is an American mass media company founded in 1909 by Condé Montrose Nast, based at One World Trade Center and owned by Advance Publications.",
+			"meta": {
+				"refs": [
+					"https://www.condenast.com/"
+				]
+			},
+			"uuid": "456da3b4-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Condé Nast"
+		},
+		{
+			"description": "Stack Overflow is a question and answer site for professional and enthusiast programmers. It is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.",
+			"meta": {
+				"refs": [
+					"https://stackoverflow.com/"
+				]
+			},
+			"uuid": "66bf934c-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "Stack Overflow"
+		},
+		{
+			"description": "HCL Technologies Limited is an Indian multinational information technology service and consulting company headquartered in Noida, Uttar Pradesh. It is a subsidiary of HCL Enterprise.",
+			"meta": {
+				"refs": [
+					"https://www.hcltech.com/"
+				]
+			},
+			"uuid": "66bf98e2-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "HCL Technologies"
+		},
+		{
+			"description": "Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger, and launched in October 2010 exclusively on iOS.",
+			"meta": {
+				"refs": [
+					"https://www.instagram.com/?hl=en"
+				]
+			},
+			"uuid": "66bf9b3a-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "Instagram"
+		},
+		{
+			"description": "Computacenter plc is a European company that provides computer services to public- and private-sector customers. It is a UK company based in Hatfield, Hertfordshire. The company is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index.",
+			"meta": {
+				"refs": [
+					"https://www.computacenter.com/"
+				]
+			},
+			"uuid": "62fdcf38-8225-11e9-bc42-526af7764f64",
+			"value": "Computacenter"
+		},
+		{
+			"description": "Retail travel agencies. Meet the demands of a more informed, tech-savvy customer base with Amadeus industry-leading retail travel agency solutions, helping you unlock new market opportunities, safeguard competitive positioning and maximize revenue.",
+			"meta": {
+				"refs": [
+					"https://amadeus.com/en/industries/retail-travel-agencies"
+				]
+			},
+			"uuid": "62fdd3e8-8225-11e9-bc42-526af7764f64",
+			"value": "Amadeus Travel Agency"
+		},
+		{
+			"description": "Canva is a graphic-design tool website, founded in 2012. It uses a drag-and-drop format and provides access to over a million photographs, graphics, and fonts. It is used by non-designers as well as professionals. The tools can be used for both web and print media design and graphics.",
+			"meta": {
+				"refs": [
+					"https://www.canva.com/"
+				]
+			},
+			"uuid": "62fdd55a-8225-11e9-bc42-526af7764f64",
+			"value": "Canva"
+		},
+		{
+			"description": "Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, Bobby Murphy, and Reggie Brown, former students at Stanford University, and developed by Snap Inc., originally Snapchat Inc.",
+			"meta": {
+				"refs": [
+					"https://www.snapchat.com/"
+				]
+			},
+			"uuid": "62fdd690-8225-11e9-bc42-526af7764f64",
+			"value": "Snapchat"
+		},
+		{
+			"description": "For over 35 years, Perceptics has been the leader in license plate readers, license plate recognition systems and vehicle identification products.",
+			"meta": {
+				"refs": [
+					"https://www.perceptics.com/"
+				]
+			},
+			"uuid": "62fdd7b2-8225-11e9-bc42-526af7764f64",
+			"value": "Perceptics LLC"
+		},
+		{
+			"description": "JCrush is a free, location-based dating app for Jewish singles.",
+			"meta": {
+				"refs": [
+					"http://jcrush.com/"
+				]
+			},
+			"uuid": "1202349c-8d43-11e9-bc42-526af7764f64",
+			"value": "JCrush"
+		},
+		{
+			"description": "Laboratory Corporation of America Holdings, more commonly known as LabCorp, is an American S&P 500 company headquartered in Burlington, North Carolina. It operates one of the largest clinical laboratory networks in the world, with a United States network of 36 primary laboratories.",
+			"meta": {
+				"refs": [
+					"https://www.labcorp.com/"
+				]
+			},
+			"uuid": "1202394c-8d43-11e9-bc42-526af7764f64",
+			"value": "LabCorp"
+		},
+		{
+			"description": "Quest Diagnostics Incorporated is an American clinical laboratory founded in 1967 as Metropolitan Pathology Laboratory, Inc. It became an independent corporation with the Quest name on December 31, 1996. As a Fortune 500 company, Quest operates in the United States, United Kingdom, Mexico, and Brazil.",
+			"meta": {
+				"refs": [
+					"https://www.questdiagnostics.com/"
+				]
+			},
+			"uuid": "12023ab4-8d43-11e9-bc42-526af7764f64",
+			"value": "Quest Diagnostics"
+		},
+		{
+			"description": "PayID is an opt-in account addressing scheme that aims to make sharing account details easier, in place of the existing BSB and account number addressing. Currently, phone numbers, email addresses, and ABNs can be used. The BSB and account number addressing scheme will continue to be used in parallel. PayID is planned to be supported by most major financial institutions throughout Australia.",
+			"meta": {
+				"refs": [
+					"https://payid.com.au/"
+				]
+			},
+			"uuid": "12023be0-8d43-11e9-bc42-526af7764f64",
+			"value": "PayID"
+		},
+		{
+			"description": "Tech Data Corporation is an American multinational distribution company specializing in IT products and services headquartered in Clearwater, Florida.",
+			"meta": {
+				"refs": [
+					"https://www.techdata.com/"
+				]
+			},
+			"uuid": "12023d0c-8d43-11e9-bc42-526af7764f64",
+			"value": "Tech Data Corporation"
+		},
+		{
+			"description": "Evite is a social-planning website for creating, sending, and managing online invitations. Evite was launched in 1998. The website is a free, advertisement-supported service. Evite was co-founded by Al Lieb and Selina Tobaccowala. It was acquired in 2001 by conglomerate IAC/InterActiveCorp.",
+			"meta": {
+				"refs": [
+					"https://www.evite.com/"
+				]
+			},
+			"uuid": "43f0b8c4-95f0-11e9-bc42-526af7764f64",
+			"value": "Evite"
+		},
+		{
+			"description": "dba ResiDex Software",
+			"meta": {
+				"refs": [
+					"https://www.leadingagemn.org/directory_bp/step3?CID=9957"
+				]
+			},
+			"uuid": "43f0bb6c-95f0-11e9-bc42-526af7764f64",
+			"value": "Tenx Systems, LLC"
+		},
+		{
+			"description": "ResiDex Software is the innovative, integrated, and user-friendly software solution for your Assisted Living center, Group Home, or Adult Day Services location.",
+			"meta": {
+				"refs": [
+					"https://www.residexsoftware.com/"
+				]
+			},
+			"uuid": "43f0bcb6-95f0-11e9-bc42-526af7764f64",
+			"value": "ResiDex Software"
+		},
+		{
+			"description": "Order food online with EatStreet. Online food ordering service provider.",
+			"meta": {
+				"refs": [
+					"https://eatstreet.com/"
+				]
+			},
+			"uuid": "43f0be82-95f0-11e9-bc42-526af7764f64",
+			"value": "Eatstreet"
+		},
+		{
+			"description": "Talanton AI is a Talant Aggregator. Capture high-quality prospective candidates in one place through our simple search process.",
+			"meta": {
+				"refs": [
+					"http://talanton.ai/"
+				]
+			},
+			"uuid": "43f0bfc2-95f0-11e9-bc42-526af7764f64",
+			"value": "Talanton.ai"
+		},
+		{
+			"description": "X Social Media is a Florida-based ad firm that largely uses Facebook to advertise various campaigns for its law firm customers.",
+			"meta": {
+				"refs": [
+					"https://www.xsocialmedia.com/"
+				]
+			},
+			"uuid": "43f0c0e4-95f0-11e9-bc42-526af7764f64",
+			"value": "X Social Media"
+		},
+		{
+			"description": "Venmo is a mobile payment service owned by PayPal. Venmo account holders can transfer funds to others via a mobile phone app; both the sender and receiver have to live in the U.S. Venmo is a type of payment rail. It handled $12 billion in transactions in the first quarter of 2018.",
+			"meta": {
+				"refs": [
+					"https://venmo.com/"
+				]
+			},
+			"uuid": "43f0c422-95f0-11e9-bc42-526af7764f64",
+			"value": "Venmo"
+		},
+		{
+			"description": "WeTransfer is a cloud-based computer file transfer service. The company was founded in Amsterdam by Bas Beerens and Nalden. The core service is free, with more features available for premium accounts.",
+			"meta": {
+				"refs": [
+					"https://wetransfer.com/"
+				]
+			},
+			"uuid": "43f0c56c-95f0-11e9-bc42-526af7764f64",
+			"value": "WeTransfer"
+		},
+		{
+			"description": "Data integration and big data management solutions from Attunity including real-time enterprise data solutions.",
+			"meta": {
+				"refs": [
+					"https://www.attunity.com/"
+				]
+			},
+			"uuid": "ba2ac128-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Attunity"
+		},
+		{
+			"description": "PCM, Inc. is a direct marketing company that offers technology products and services. The company is based in El Segundo, California. PCM started in 1987 as a direct market catalog via telemarketing, the Internet, direct marketing, print catalogs, and three retail showrooms.",
+			"meta": {
+				"refs": [
+					"http://www.pcm.com/"
+				]
+			},
+			"uuid": "ba2ac3da-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "PCM, Inc."
+		},
+		{
+			"description": "With strength on IoT, AI and cloud computing technologies, ORVIBO provides more secure, energy-saving & comfortable smart home solutions for customers worldwide. ORVIBO provides smart solutions for house, office, apartment hotel. ORVIBO is the pioneer & veteran of IoT technology in China since 2011.",
+			"meta": {
+				"refs": [
+					"https://www.orvibo.com/"
+				]
+			},
+			"uuid": "ba2ac7ae-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Orvibo"
+		},
+		{
+			"description": "Incorporated in the year 2000, Magnasoft is a leader in the arena of digital geospatial information and services.We provide superlative data processing techniques to capture and display voluminous geospatial data in a comprehensible form.",
+			"meta": {
+				"refs": [
+					"https://www.magnasoft.com/who-we-are/"
+				]
+			},
+			"uuid": "ba2ac902-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Magnasoft Consulting India"
+		},
+		{
+			"description": "Eurofins is an international group of laboratories headquartered in Brussels, providing testing and support services to the pharmaceutical, food, environmental, agriscience and consumer products industries and to governments.",
+			"meta": {
+				"refs": [
+					"https://www.eurofins.com/"
+				]
+			},
+			"uuid": "ba2aca2e-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Eurofins Scientific"
+		},
+		{
+			"description": "Zhaopin National Job Network is a national authority to find a job working platform to provide true and accurate information for your National Jobs, every day millions of high-paying jobs jobs for you to choose, finding work Zhaopin.",
+			"meta": {
+				"refs": [
+					"https://www.zhaopin.com/"
+				]
+			},
+			"uuid": "ba2acb5a-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Zhaopin National Job Network"
+		},
+		{
+			"description": "Japan based cryptocurrency vendor.",
+			"meta": {
+				"refs": [
+					"https://www.bitpoint.co.jp/"
+				]
+			},
+			"uuid": "b029cbee-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "BITPoint"
+		},
+		{
+			"description": "Clinical Pathology Laboratories, Inc. (CPL) has served the medical community for more than 70 years and continues to offer the highest quality laboratory services dedicated to the individual needs of practitioners and their patients. More than 1,900 employees work at our 100,000 square foot main laboratory facility and at our regional laboratory operations located across the Southwest.",
+			"meta": {
+				"refs": [
+					"https://www.cpllabs.com/"
+				]
+			},
+			"uuid": "b029ce50-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Clinical Pathology Laboratories, Inc. (CPL)"
+		},
+		{
+			"description": "AavGo is hotel management software that provides excellent engagement and communication between guest & hotel staff.",
+			"meta": {
+				"refs": [
+					"https://aavgo.com/"
+				]
+			},
+			"uuid": "b029cfae-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "AavGo"
+		},
+		{
+			"description": "Discord is a proprietary freeware VoIP application and digital distribution platform—designed initially for the video gaming community—that specializes in text, image, video and audio communication between users in a chat channel. Discord runs on Windows, macOS, Android, iOS, Linux, and in web browsers.",
+			"meta": {
+				"refs": [
+					"https://discordapp.com/"
+				]
+			},
+			"uuid": "d9f03dc8-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Discord"
+		},
+		{
+			"description": "Seacoast Pathology, located in Exeter, NH, provides the highest quality, customized pathology laboratory services throughout New England. Since 1981, Seacoast Pathology has supported these physicians and their staffs with expert diagnoses, innovative technologies, and excellent service.",
+			"meta": {
+				"refs": [
+					"http://www.seacoastpathology.com/"
+				]
+			},
+			"uuid": "d9f0402a-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Seacoast Pathology, Inc."
+		},
+		{
+			"description": "Aurora Diagnostics Laboratory of Dermatopathology (ARDX LDP), located in Woodbury, NY, provides the highest quality, customized dermatopathology laboratory services to dermatologists, general practice physicians, family practice physicians, and podiatrists. Since 1972, ARDX LDP has supported these physicians and their staffs with expert diagnoses, innovative technologies, and excellent service.",
+			"meta": {
+				"refs": [
+					"http://www.labofderm.com/"
+				]
+			},
+			"uuid": "d9f0417e-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Laboratory of Dermatopathology ADX, LLC "
+		},
+		{
+			"description": "American Esoteric Laboratories (AEL) is a regional provider of esoteric and clinical laboratory services, focused to provide the unique turnaround time and quality demands for testing services for health care providers. Our laboratory offers an extended test menu of both routine and esoteric testing. AEL uses advanced information technology solutions to automate and streamline electronic assay ordering and result reporting for its customers.",
+			"meta": {
+				"refs": [
+					"https://www.ael.com/"
+				]
+			},
+			"uuid": "d9f042be-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "American Esoteric Laboratories"
+		},
+		{
+			"description": "CBLPath, Inc. is a leading provider of sub-specialized anatomic pathology and molecular diagnostic laboratory services. We are committed to partnering with our physician-clients to provide the best possible patient care. Founded in 1988 as Cytopath Biopsy Lab, our landmark laboratory quickly established a reputation for providing definitive diagnoses coupled with extraordinary customer service.",
+			"meta": {
+				"refs": [
+					"https://www.cblpath.com/"
+				]
+			},
+			"uuid": "d9f043ea-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "CBLPath, Inc."
+		},
+		{
+			"description": "Natera is a genetic testing company that operates a CLIA-certified laboratory in San Carlos, California.",
+			"meta": {
+				"refs": [
+					"https://www.natera.com/"
+				]
+			},
+			"uuid": "d9f0469c-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Natera, Inc."
+		},
+		{
+			"description": "A cryptocurrency exchange listed in Sweden.",
+			"meta": {
+				"refs": [
+					"https://quickbit.eu/"
+				]
+			},
+			"uuid": "5e129e16-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "QuickBit"
+		},
+		{
+			"description": "Invest in stocks, ETFs, options, and cryptocurrencies, all commission-free, right from your phone or desktop.",
+			"meta": {
+				"refs": [
+					"https://robinhood.com/"
+				]
+			},
+			"uuid": "5e12a0d2-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Robbinhood"
+		},
+		{
+			"description": "FormGet is used to make communication easy and powerful between you and your customers. FormGet has been organised to manage all your forms from a single place. You can build contact forms, payments forms, lead capture forms or just about any form you can imagine. Earlier the problem with most of the forms was that they only allowed the users to submit their queries and there were no chances of further communication from the other side. Admin were not able to manage all its forms from a single place. And whenever they want to reply to the queries they need to switch back and forth between email accounts for replying back.",
+			"meta": {
+				"refs": [
+					"https://www.formget.com/"
+				]
+			},
+			"uuid": "5e12a316-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "FormGet"
+		},
+		{
+			"description": "Founded in 2001, 1to1help.net is India(s) leading Employee Assistance Program (EAP) provider. We offer Psychological Counselling and comprehensive Wellness solutions that help employees deal with various work-life challenges like stress, anxiety, parenting, relationship issues both pre & post marital, work-life balance, etc. We currently support 300+ clients and cover 1.7 million lives through our team of 250+ counsellors across 55+ locations in India. We also provide services in the areas of Prevention of Sexual Harassment (POSH), Shiftwork Lifestyle Management, Healthy Maternity, Diversity & Inclusion, Diet and Nutrition and other wellness services.",
+			"meta": {
+				"refs": [
+					"https://1to1help.net/"
+				]
+			},
+			"uuid": "5e12a528-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "1to1help"
+		},
+		{
+			"description": "Neoclinical matches patients with clinical trials and vise versa.",
+			"meta": {
+				"refs": [
+					"http://neoclinical.com/"
+				]
+			},
+			"uuid": "8f948134-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Neoclinical"
+		},
+		{
+			"description": "3Fun (3FUN) is a location-based mobile online dating application for Android and iOS. It is currently the most widely used dating mobile app for polyamorous couples.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/3FUN"
+				]
+			},
+			"uuid": "8f94851c-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "3fun"
+		},
+		{
+			"description": "An Android based chatting and photo sharing application with over 10 million users.",
+			"meta": {
+				"refs": [
+					"https://play.google.com/store/apps/details?id=sweetchat.localdatingtinder.meet&hl=en_US"
+				]
+			},
+			"uuid": "8f94868e-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Sweet Chat"
+		},
+		{
+			"description": "Suprema is a leading global provider of biometrics and security. By combining world renowned biometric algorithms with superior engineering, Suprema has introduced a number of technology initiatives and innovations to the security industry over the last couple of decades. Suprema’s extensive range of portfolio includes biometric access control systems, time & attendance solutions, fingerprint live scanners, mobile authentication solutions and embedded fingerprint modules. Suprema has established itself as a premium global brand in physical security industry and has worldwide sales network in over 130 countries. Suprema has no.1 market share in biometric access control in EMEA region and named to the world's top 50 security manufacturer.",
+			"meta": {
+				"refs": [
+					"https://www.supremainc.com/en/main.asp"
+				]
+			},
+			"uuid": "8f9487c4-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Suprema HQ"
+		},
+		{
+			"description": "Imperva is a cyber security software and services company which provides protection to enterprise data and application software. The company is headquartered in Redwood Shores, California.",
+			"meta": {
+				"refs": [
+					"https://www.imperva.com/"
+				]
+			},
+			"uuid": "eca5ffde-cb32-11e9-a32f-2a2ae2dbcce4",
+			"value": "Imperva, Inc."
+		},
+		{
+			"description": "We offer a complete technology solution including computers, software, digital equipment, phone systems, and audio solutions for every phase of your practice including the expert support for the life of your equipment.",
+			"meta": {
+				"refs": [
+					"http://www.percsoft.com/"
+				]
+			},
+			"uuid": "eca60240-cb32-11e9-a32f-2a2ae2dbcce4",
+			"value": "PerCSoft Dental Technology Consulting"
+		},
+		{
+			"description": "Foxit Software, Inc. develops Portable Document Format software and tools used to create, edit, sign, and secure files and digital documents. It is a software company headquartered in Fremont, California, with offices in Berlin, Beijing, Fuzhou, South Yarra, Australia and other locations.",
+			"meta": {
+				"refs": [
+					"https://www.foxitsoftware.com/"
+				]
+			},
+			"uuid": "703e35e8-cdb6-11e9-a32f-2a2ae2dbcce4",
+			"value": "Foxit Software"
+		},
+		{
+			"description": "The world's leading independent advertising platform, Amobee unifies all advertising channels—including TV, programmatic and social—across all formats and devices, providing marketers with streamlined, advanced media planning capabilities powered by in-depth analytics and proprietary audience data.",
+			"meta": {
+				"refs": [
+					"https://www.amobee.com/"
+				]
+			},
+			"uuid": "19641584-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Amobee"
+		},
+		{
+			"description": "Subsidiary of Amobee, an advertising company.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/adconion-direct/about/"
+				]
+			},
+			"uuid": "196418cc-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Adconion Direct"
+		},
+		{
+			"description": "French air travel booking company.",
+			"meta": {
+				"refs": [
+					"https://www.optionway.com"
+				]
+			},
+			"uuid": "19641a20-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Option Way"
+		},
+		{
+			"description": "Aliznet is an independent consultancy company from the Retail sector, specialising in project transformation, support and guidance in Business Sectors, Digital and IT.",
+			"meta": {
+				"refs": [
+					"https://en.aliznet.fr/"
+				]
+			},
+			"uuid": "19641b56-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Aliznet"
+		},
+		{
+			"description": "Affiliate of HelloTravel. HelloTravel is a marketplace where you get travel packages & holiday deals by trusted travel agents across the world. You may enquire about a trip package or customize your holiday. We connect you with Verified travel agents who provide you best quotes.",
+			"meta": {
+				"refs": [
+					"https://www.hellotravel.com/truly-travels"
+				]
+			},
+			"uuid": "19641c8c-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Truly Travels"
+		},
+		{
+			"description": "Monster.com is a global employment website owned and operated by Monster Worldwide, Inc. It was created in 1999 through the merger of The Monster Board and Online Career Center. It is a subsidiary of Randstad Holding, a Dutch multinational human resource consulting firm, and is headquartered in Weston, Massachusetts.",
+			"meta": {
+				"refs": [
+					"https://www.monster.com/"
+				]
+			},
+			"uuid": "63b4930e-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "Monster.com"
+		},
+		{
+			"description": "Our first priority is your customer’s and/or employee’s safety, security, and their positive interaction with our agents. Professionalism means extraordinary execution of service delivery. Alert, capable, energetic, and pleasant Andy Frain staff fully understand they not only represent Andy Frain Services, but our customers as well.",
+			"meta": {
+				"refs": [
+					"https://www.andyfrain.com/"
+				]
+			},
+			"uuid": "63b49598-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "Andy Frain Services"
+		},
+		{
+			"description": "The company was founded to add technological service for our Indian police force who ensure the safety and security of the citizens.Innovative investigation Copseye brings unique image investigation featuresto face recognition product for law enforcement. Agents can find criminal persons quickly and narrow down suspect investigations.",
+			"meta": {
+				"refs": [
+					"https://www.copseye.ai/"
+				]
+			},
+			"uuid": "63b49778-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "COPSEYE | AI - Face recognition"
+		},
+		{
+			"description": "Miracle Systems is a Virginia-based firm with proven record and professional certifications as a Federal contractor. We provide leading edge solutions and outstanding service to our Federal clients. As the most successful OASIS Small Business vendor, we maintain over 100 prime contracts and provide services in the following areas - PMO Support, IT Systems, Financial Consulting, Engineering Services, Training Services, Cyber Mission.",
+			"meta": {
+				"refs": [
+					"https://www.miraclesystems.net/about"
+				]
+			},
+			"uuid": "d6c59030-d587-11e9-bb65-2a2ae2dbcce4",
+			"value": "Miracle Systems, LLC"
+		},
+		{
+			"description": "DealerLeads dominates the automotive digital marketing industry with highly used automobile search strings turned into online inventory advertising classified sites, service sites, finance sites etc. Car shoppers have needs, and DealerLeads matches those needs in live searches.",
+			"meta": {
+				"refs": [
+					"https://dealerleads.com"
+				]
+			},
+			"uuid": "193d7e34-db0d-11e9-9d36-2a2ae2dbcce4",
+			"value": "Dealer Leads"
+		},
+		{
+			"description": "Plastic (cosmetic) surgeon located in Little Rock, AR.",
+			"meta": {
+				"refs": [
+					"https://littlerockplasticsurgery.com"
+				]
+			},
+			"uuid": "193d80a0-db0d-11e9-9d36-2a2ae2dbcce4",
+			"value": "Little Rock Plastic Surgery"
+		},
+		{
+			"description": "Garmin Ltd. is an American multinational technology company founded in 1989 by Gary Burrell and Min Kao in Lenexa, Kansas, United States, with headquarters in Olathe, Kansas. Since 2010, the company is incorporated in Schaffhausen, Switzerland.",
+			"meta": {
+				"refs": [
+					"https://www.garmin.com/en-US/"
+				]
+			},
+			"uuid": "193d81f4-db0d-11e9-9d36-2a2ae2dbcce4",
+			"value": "Garmin Ltd."
+		},
+		{
+			"description": "Lumin PDF brings your documents to life with smart editing and markup tools to help you easily annotate PDF documents and images. Add text, images, comments, shapes and signatures. All from your browser.",
+			"meta": {
+				"refs": [
+					"https://www.luminpdf.com"
+				]
+			},
+			"uuid": "540b194a-db0d-11e9-9d36-2a2ae2dbcce4",
+			"value": "Lumin PDF"
+		},
+		{
+			"description": "Click2Gov is offered by CentralSquare Technologies, a Lake Mary, Fla.-based company created in September by the merger of several software firms serving the public sector.",
+			"meta": {
+				"refs": [
+					"https://www.digitaltransactions.net/click2gov-payment-application-for-municipalities-cited-in-48-data-breaches/"
+				]
+			},
+			"uuid": "a6c78a8c-dd7f-11e9-8a34-2a2ae2dbcce4",
+			"value": "Click2Gov"
+		},
+		{
+			"description": "SGS is a multinational company headquartered in Geneva, Switzerland which provides inspection, verification, testing and certification services. It has more than 97,000 employees and operates over 2,600 offices and laboratories worldwide. It ranked on Forbes Global 2000 in 2015, 2016 and 2017.",
+			"meta": {
+				"refs": [
+					"https://www.sgs.com/"
+				]
+			},
+			"uuid": "c86cdeae-e17f-11e9-81b4-2a2ae2dbcce4",
+			"value": "SGS S.A."
+		},
+		{
+			"description": "Buy Bitcoin and Ethereum with credit card in the fastest, easiest and safest way online! Buying BTC and ETH in 3 simple steps at Coinmama.",
+			"meta": {
+				"refs": [
+					"https://www.coinmama.com/"
+				]
+			},
+			"uuid": "c86ce156-e17f-11e9-81b4-2a2ae2dbcce4",
+			"value": "Coinmama"
+		},
+		{
+			"description": "Tomo Drug Testing has been providing comprehensive drug and alcohol screening services for DOT compliance and Drug-Free Workplace programs since 1991. Our customized solutions are designed to help organizations promote a safer, more productive workplace. Our quality services make testing and compliance easier. Tomo Drug Testing stands out in the drug testing industry due to our premier quality and customized solutions for our clients. We provide comprehensive drug and alcohol testing solutions for DOT compliance, Drug Free workplace and judicial programs as well as for healthcare providers and labs. Our comprehensive program means we are a full-service provider, from scheduling to results, and everything in between. This means you spend less time worrying about testing, results and compliance, allowing you to remain focused on other priorities.",
+			"meta": {
+				"refs": [
+					"https://www.yourdrugtesting.com/about/"
+				]
+			},
+			"uuid": "76a94be6-e5ff-11e9-81b4-2a2ae2dbcce4",
+			"value": "Tomo Drug Testing"
+		},
+		{
+			"description": "Comodo Cybersecurity is a global innovator of cybersecurity solutions, and a division of Comodo Security Solutions Inc.",
+			"meta": {
+				"refs": [
+					"http://www.comodo.com/"
+				]
+			},
+			"uuid": "76a94e48-e5ff-11e9-81b4-2a2ae2dbcce4",
+			"value": "Comodo Security Solutions, Inc."
+		},
+		{
+			"description": "Zendesk Inc. is a customer service software company headquartered in San Francisco, California, USA. It is listed on the New York Stock Exchange with the symbol ZEN and is a constituent of the Russell 2000 Index.",
+			"meta": {
+				"refs": [
+					"https://www.zendesk.com/"
+				]
+			},
+			"uuid": "6acb5584-e871-11e9-81b4-2a2ae2dbcce4",
+			"value": "Zendesk Inc."
+		},
+		{
+			"description": "Pitney Bowes is a global technology company most known for its postage meters and other mailing equipment and services, and with recent expansions, into global e-commerce, software, and other technologies.",
+			"meta": {
+				"refs": [
+					"https://www.pitneybowes.com/us"
+				]
+			},
+			"uuid": "a1cd2bc4-f81c-11e9-8f0b-362b9e155667",
+			"value": "Pitney Bowes"
+		},
+		{
+			"description": "Since 2005, we have connected thousands of creative professionals with great companies and outstanding work opportunities.",
+			"meta": {
+				"refs": [
+					"https://authenticjobs.com/"
+				]
+			},
+			"uuid": "a1cd2e44-f81c-11e9-8f0b-362b9e155667",
+			"value": "AuthenticJobs"
+		},
+		{
+			"description": "App in the UK for jobs in retail, restaurants, healthcare, beauty and more.",
+			"meta": {
+				"refs": [
+					"https://sonicjobs.co.uk/"
+				]
+			},
+			"uuid": "a1cd2fa2-f81c-11e9-8f0b-362b9e155667",
+			"value": "SonicJobs"
+		},
+		{
+			"description": "Pouring Pounds, established in 2011, is one of UK largest operators of rewards, cashback and voucher websites. We also operate three white label sites in UK viz. BFAWU Rewards, Pa-assistcashback and a site for UK largest newspaper, The Daily Mail.",
+			"meta": {
+				"refs": [
+					"https://pouringpounds.com/"
+				]
+			},
+			"uuid": "a1cd30e2-f81c-11e9-8f0b-362b9e155667",
+			"value": "Pouringpounds.com (Pouring Pounds Ltd)"
+		},
+		{
+			"description": "Founded by Swati & Rohan Bhargava in April 2013, CashKaro.com is India Largest Cashback & Coupons site. We are backed by Mr. Ratan Tata and one of India leading VC firms, Kalaari Capital. With over 3.5 million registered users, CashKaro is a one stop destination for savings across 1500 ecommerce sites like Amazon.in, Flipkart, Paytm etc.",
+			"meta": {
+				"refs": [
+					"https://cashkaro.com/"
+				]
+			},
+			"uuid": "a1cd320e-f81c-11e9-8f0b-362b9e155667",
+			"value": "CashKaro.com (CashKaro)"
+		},
+		{
+			"description": "Avast Software s.r.o. is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence. Avast has more than 435 million monthly active users and the largest market share among anti-malware application vendors worldwide as of January 2018. The company has approximately 1,700 employees across its 25 offices worldwide. Avast was founded by Pavel Baudis and Eduard Kucera in 1988 as a cooperative. It had been a private company since 2010 and had its IPO in May 2018. In July 2016, Avast acquired competitor AVG Technologies for 1.3 billion USD. At the time, AVG was the third-ranked antivirus product. It is dual-listed on the Prague Stock Exchange and on the London Stock Exchange and is a constituent of the FTSE 250 Index.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Avast"
+				]
+			},
+			"uuid": "9836e194-f81d-11e9-8f0b-362b9e155667",
+			"value": "Avast Software s.r.o."
+		},
+		{
+			"description": "We build mission-critical and user-friendly software for hospitality communities. Our customers are supported 24-7 by our courteous and dedicated staff, all with hands-on professional experience in the hospitality industry. AutoClerk is endorsed by Red Lion Hotels, with over 1,200 properties in North America, and Best Western Hotels & Resorts, which has over 4,000 hotels worldwide. AutoClerk is also a preferred AAHOA PMS provider. Our property management solutions have been serving hoteliers for decades. In 2003, we became one of the first in the industry to launch a successful web-booking tool for hoteliers, and myHMS pioneered web-based property management solutions.",
+			"meta": {
+				"refs": [
+					"https://www.autoclerk.com/"
+				]
+			},
+			"uuid": "9836e3e2-f81d-11e9-8f0b-362b9e155667",
+			"value": "AutoClerk, Inc."
+		},
+		{
+			"description": "Pilz GmbH & Co. KG is an automation technology company in Ostfildern, Germany. In addition to the head office in Germany, Pilz is represented in 40 subsidiaries and branches on all continents. The company was founded as a glass-blowing business by Hermann Pilz in Esslingen in 1948.",
+			"meta": {
+				"refs": [
+					"https://www.pilz.com/en-US"
+				]
+			},
+			"uuid": "9836e52c-f81d-11e9-8f0b-362b9e155667",
+			"value": "Pilz GmbH & Co. KG"
+		},
+		{
+			"description": "As the leading provider of order-to-cash solutions, Billtrust has always focused on making it easier for companies to get paid. Through consistent evolution, our integrated, cloud-based AR platform drives customer efficiencies, grows revenue and increases profitability for businesses across several industries. With more than 18 years experience and expertise – and a culture dedicated to our customers – we help businesses implement AR best practices, resulting in greater operational efficiency, accelerated cash flow and most importantly, happier customers.",
+			"meta": {
+				"refs": [
+					"https://www.billtrust.com/"
+				]
+			},
+			"uuid": "9836e658-f81d-11e9-8f0b-362b9e155667",
+			"value": "Billtrust"
+		},
+		{
+			"description": "Adobe Inc. is an American multinational computer software company headquartered in San Jose, California. It has historically focused upon the creation of multimedia and creativity software products, with a more recent foray towards digital marketing software.",
+			"meta": {
+				"refs": [
+					"https://www.adobe.com/"
+				]
+			},
+			"uuid": "a6132c66-0338-11ea-8d71-362b9e155667",
+			"value": "Adobe Inc."
+		},
+		{
+			"description": "TrialWorks case management software is designed to work seamlessly with law firms of any size and practice type.",
+			"meta": {
+				"refs": [
+					"https://www.trialworks.com/"
+				]
+			},
+			"uuid": "a6132ec8-0338-11ea-8d71-362b9e155667",
+			"value": "TrialWorks LLC"
+		},
+		{
+			"description": "Campaigner was founded in 1999 when the internet and email were just beginning to reach the masses. Since then, Campaigner has remained at the forefront of the evolution of email as a marketing channel.",
+			"meta": {
+				"refs": [
+					"https://www.campaigner.com/"
+				]
+			},
+			"uuid": "a6133012-0338-11ea-8d71-362b9e155667",
+			"value": "Campaigner"
+		},
+		{
+			"description": "Utah Valley Eye Center is a leader in providing quality, comprehensive eye care services in Provo, Utah since 1980.",
+			"meta": {
+				"refs": [
+					"https://utahvalleyeye.com/"
+				]
+			},
+			"uuid": "a6133148-0338-11ea-8d71-362b9e155667",
+			"value": "Utah Valley Eye Center"
+		},
+		{
+			"description": "Vedantu is an interactive online tutoring platform where teachers provide school tuitions to students over the internet, using a real-time virtual learning environment named WAVE, a technology built in-house.",
+			"meta": {
+				"refs": [
+					"https://www.vedantu.com/"
+				]
+			},
+			"uuid": "a613327e-0338-11ea-8d71-362b9e155667",
+			"value": "Vedantu"
+		},
+		{
+			"description": "Perth Anaesthetic Group was established by some of Perths most progressive specialist anaesthetists in 1952, to allow private practice anaesthetists to share costs and run a professional business while practicing independently. We have grown and adapted to changes in the delivery of hospital care, but still believe in the pursuit of high quality, personalised care. Past members have contributed significantly to the medical community, with representation to the Australian and New Zealand College of Anaesthetists, The Australian Society of Anaesthetists, and the AMA. There are usually 14-16 full group members at any one time, and 7-8 associated anaesthetists who are mainly in the large public hospitals. Our anaesthetists work widely throughout Perths expanding hospital network, with many of Perths most respected surgeons, providing comprehensive services to patients undergoing a wide variety of procedures. This includes patients of all ages, and often quite unwell patients needing intensive anaesthesia care and the experience that goes with it. All of our anaesthetists are required to maintain high levels of continuing professional development, and participate in relevant workshops and simulations. This is combined with quality assurance and peer review. Combined with the high levels of training involved to become a specialist after medical school, this reflects that Australia has the reputation of providing the safest level of anaesthesia care in the world.",
+			"meta": {
+				"refs": [
+					"http://perthag.com.au/"
+				]
+			},
+			"uuid": "50b39fa2-0339-11ea-8d71-362b9e155667",
+			"value": "Perth Anaesthetic Group"
+		},
+		{
+			"description": "everis is an NTT DATA Company, dedicated to consulting and outsourcing in all sectors, with a turnover of EUR 1.17 billion in the last financial year. We are a large family with 24,500 professionals across Europe, USA and Latin America. In 2014 everis joined NTT DATA Group, the sixth-largest IT services company in the world with 100,000 professionals and with offices in Asia-Pacific, the Middle East, Europe, Latin America and North America. Above all, everis believes in its people, their ongoing development and their talent. We are firmly committed to talent and our main goal is to nurture high performing professionals by creating an environment of responsible freedom.",
+			"meta": {
+				"refs": [
+					"https://www.everis.com/global/en"
+				]
+			},
+			"uuid": "50b3a4a2-0339-11ea-8d71-362b9e155667",
+			"value": "everis"
+		},
+		{
+			"description": "Set up in 2005, VTS Media is an actively growing company of young, ambitious and motivated IT professionals with the aim of creating truly innovative solutions in online security, broadcast, web acceleration and video streaming. We develop high-quality apps and services with up-to-date methods and technologies that offer limitless opportunities to your business.",
+			"meta": {
+				"refs": [
+					"https://www.vtsmedia.com/"
+				]
+			},
+			"uuid": "50b3a60a-0339-11ea-8d71-362b9e155667",
+			"value": "Vts Media S.L."
+		},
+		{
+			"description": "Trend Micro Inc. is a multinational cyber security and defense company with global headquarters in Tokyo, Japan, with regional headquarters and R&D centers in Asia, Europe, and North America.",
+			"meta": {
+				"refs": [
+					"https://www.trendmicro.com/en_us/business.html"
+				]
+			},
+			"uuid": "50b3a7fe-0339-11ea-8d71-362b9e155667",
+			"value": "Trend Micro Inc."
+		},
+		{
+			"description": "Main Street Clinical Associates, P.A., founded in 1984, is an interdisciplinary private practice group providing comprehensive mental health services to the Triangle.",
+			"meta": {
+				"refs": [
+					"http://www.mainstreetclinical.com/"
+				]
+			},
+			"uuid": "6754f1f4-096d-11ea-8d71-362b9e155667",
+			"value": "Main Street Clinical Associates, P.A."
+		},
+		{
+			"description": "Veritas Genetics is a personal genomics startup based in Danvers, Massachusetts. It was co-founded in 2014 by George M. Church, Mirza Cifric, Preston Estep, and Jonathan Zhao.",
+			"meta": {
+				"refs": [
+					"https://www.veritasgenetics.com/"
+				]
+			},
+			"uuid": "6754f442-096d-11ea-8d71-362b9e155667",
+			"value": "Veritas Genetics"
+		},
+		{
+			"description": "Prank call website. Send pre-recorded prank calls from a disguised number, then download and share the recorded audio.",
+			"meta": {
+				"refs": [
+					"https://www.prankdial.com/"
+				]
+			},
+			"uuid": "6754f83e-096d-11ea-8d71-362b9e155667",
+			"value": "PrankDial"
+		},
+		{
+			"description": "Toondoo lets you create comic strips and cartoons easily with just a few clicks, drags and drops.",
+			"meta": {
+				"refs": [
+					"http://www.toondoo.com/"
+				]
+			},
+			"uuid": "6754f9ba-096d-11ea-8d71-362b9e155667",
+			"value": "ToonDoo"
+		},
+		{
+			"description": "Choice Cancer Care, a North Texas cancer oncology center uses latest radiation therapy for prostate, breast, colon, lung and skin cancer treatment.",
+			"meta": {
+				"refs": [
+					"https://choicecancercare.com/"
+				]
+			},
+			"uuid": "8cfe347e-0c88-11ea-9a9f-362b9e155667",
+			"value": "Choice Cancer Care"
+		},
+		{
+			"description": "ZoneAlarm is an internet security software company that provides consumer antivirus and firewall products. ZoneAlarm was developed by Zone Labs, which was acquired in March 2004 by Check Point.",
+			"meta": {
+				"refs": [
+					"https://www.zonealarm.com/"
+				]
+			},
+			"uuid": "8cfe374e-0c88-11ea-9a9f-362b9e155667",
+			"value": "ZoneAlarm"
+		},
+		{
+			"description": "Liver Wellness is an innovative model of care which offers patients a private and confidential service in the assessment, treatment and personalised management of liver health issues.",
+			"meta": {
+				"refs": [
+					"https://liverwellness.ie/"
+				]
+			},
+			"uuid": "8cfe38a2-0c88-11ea-9a9f-362b9e155667",
+			"value": "Liver Wellness"
+		},
+		{
+			"description": "Adele is a 9 to 12 month residential alcohol & drug rehabilitation treatment program for men aged over 18 years, who are homeless or at risk of being homeless.",
+			"meta": {
+				"refs": [
+					"https://adelehouse.org/"
+				]
+			},
+			"uuid": "8cfe39d8-0c88-11ea-9a9f-362b9e155667",
+			"value": "Adele House Alcohol & Drug Rehab"
+		},
+		{
+			"description": "The world's safest all-in-one RuneScape Bot.",
+			"meta": {
+				"refs": [
+					"https://www.epicbot.com/"
+				]
+			},
+			"uuid": "8cfe3d5c-0c88-11ea-9a9f-362b9e155667",
+			"value": "EpicBot"
+		},
+		{
+			"description": "PayMyTab is the fastest, most secure and best way to discover, review, split and pay for your check at leading restaurants and venues.",
+			"meta": {
+				"refs": [
+					"http://www.paymytab.com/"
+				]
+			},
+			"uuid": "8cfe3eb0-0c88-11ea-9a9f-362b9e155667",
+			"value": "PayMyTab"
+		},
+		{
+			"description": "Chinese FinTech company.",
+			"meta": {
+				"refs": [
+					"https://www.ft.com/content/93451b98-da12-11e9-8f9b-77216ebe1f17"
+				]
+			},
+			"uuid": "a460617a-0d5d-11ea-8d71-362b9e155667",
+			"value": "Kaola Credit"
+		},
+		{
+			"description": "Government technology company. A central square is a place where citizens interact with their government, whether it be at city hall, police or fire station, or a hospital. To square is designed to communicate taking communities to the next level, and the four corners of a square refer to the four businesses that came together to form CentralSquare. CentralSquare emphasizes putting citizens at the center of everything we offer. We partner with more than 7,500 public sector agencies across North America, bringing together two primary drivers for improving people’s lives—technology and government.",
+			"meta": {
+				"refs": [
+					"https://www.centralsquare.com/"
+				]
+			},
+			"uuid": "4f79ae16-0fb3-11ea-8d71-362b9e155667",
+			"value": "CentralSquare Technologies"
+		},
+		{
+			"description": "French hotel booking firm.",
+			"meta": {
+				"refs": [
+					"https://www.gekko-group.de/en/"
+				]
+			},
+			"uuid": "4f79b08c-0fb3-11ea-8d71-362b9e155667",
+			"value": "Gekko Group"
+		},
+		{
+			"description": "We work with thousands of data science teams as their engineering focused people data partner. These include enterprises like adidas, eBay, and Acxiom, as well as startups like Madison Logic, Zoho, and Workable. We are a deeply technical company, and are backed by two leading engineering venture capital firms - Founders Fund and 8VC.",
+			"meta": {
+				"refs": [
+					"https://www.peopledatalabs.com/"
+				]
+			},
+			"uuid": "4f79b1ea-0fb3-11ea-8d71-362b9e155667",
+			"value": "People Data Labs (PDL)"
+		},
+		{
+			"description": "IT outsourcing and consulting company that specializes in supporting healthcare related IT needs.",
+			"meta": {
+				"refs": [
+					"https://www.vcpi.com/"
+				]
+			},
+			"uuid": "4f79b320-0fb3-11ea-8d71-362b9e155667",
+			"value": "Virtual Care Provider Inc. (VCPI)"
+		},
+		{
+			"description": "Comprehensive Sleep Care Center with eight locations in Virginia and Maryland are experts in diagnosing and treating the many causes of sleep disorders in both children and adults. Sleep disorders and sleep apnea can have more than one cause, so we offer more than one treatment.",
+			"meta": {
+				"refs": [
+					"https://comprehensivesleepcare.com/"
+				]
+			},
+			"uuid": "d28e1902-1537-11ea-8d71-362b9e155667",
+			"value": "Loudoun Medical Group Comprehensive Sleep Care Center (CSCC)"
+		},
+		{
+			"description": "Ivy Rehab Network is made up of 197 physical therapy clinics dedicated to providing exceptional care and personalized treatment to get you feeling better, faster.",
+			"meta": {
+				"refs": [
+					"https://www.ivyrehab.com/"
+				]
+			},
+			"uuid": "d28e1bc8-1537-11ea-8d71-362b9e155667",
+			"value": "The Ivy Rehab Network"
+		},
+		{
+			"description": "Prosegur Compania de Seguridad, S.A is a multinational security company, headquartered in Madrid, Spain.",
+			"meta": {
+				"refs": [
+					"https://www.prosegur.com/en/"
+				]
+			},
+			"uuid": "d28e2032-1537-11ea-8d71-362b9e155667",
+			"value": "Prosegur Compania de Seguridad, S.A."
+		},
+		{
+			"description": "Magento, an Adobe company, is a leading provider of cloud commerce innovation to merchants and brands across B2C and B2B industries and was recently named a leader in the 2018 Gartner Magic Quadrant for Digital Commerce. In addition to its flagship digital commerce platform, Magento Commerce boasts a strong portfolio of cloud-based omnichannel solutions that empower merchants to successfully integrate digital and physical shopping experiences. Magento Commerce is the #1 provider to the Internet Retailer Top 1000, the B2B 300 and the Top 500 Guides for Europe and Latin America. Magento Commerce is supported by a vast global network of solution and technology partners, a highly active global developer community and the largest eCommerce marketplace for extensions available for download on the Magento Marketplace. More information can be found at www.magento.com.",
+			"meta": {
+				"refs": [
+					"http://www.magento.com/"
+				]
+			},
+			"uuid": "d28e21a4-1537-11ea-8d71-362b9e155667",
+			"value": "Magento, an Adobe Company"
+		},
+		{
+			"description": "Business SMS Solutions. Enterprise-grade SMS Texting designed for businesses, universities and colleges. Mass SMS texting solution. Short code texting.",
+			"meta": {
+				"refs": [
+					"https://www.truedialog.com/"
+				]
+			},
+			"uuid": "d28e22e4-1537-11ea-8d71-362b9e155667",
+			"value": "TrueDialog.com"
+		},
+		{
+			"description": "The Monash IVF Group is a specialist assisted reproductive technology (ART) and tertiary level diagnostic ultrasound business created through acquisition and growth.The business commenced in 2008 with the purchase of Repromed located in South Australia and the Northern Territory. In 2009, the footprint was expanded significantly in Australia through the acquisition of Monash IVF located in Victoria and Queensland. In 2012 the business expanded into Asia through the acquisition of KL Fertility in Malaysia.  More recently the Monash IVF Group has acquired Fertility East in Bondi Sydney as well as Sydney’s leading provider of tertiary level diagnostic ultrasound, Sydney Ultrasound for Women.",
+			"meta": {
+				"refs": [
+					"http://www.monashivfgroup.com.au/"
+				]
+			},
+			"uuid": "489027f0-16c1-11ea-8d71-362b9e155667",
+			"value": "Monash IVF Group"
+		},
+		{
+			"description": "An integrated marketing communications agency based in Atlanta.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/deardorff-communications/about/"
+				]
+			},
+			"uuid": "26370046-17b3-11ea-8d71-362b9e155667",
+			"value": "Deardorff Communications"
+		},
+		{
+			"description": "HackerOne is a vulnerability coordination and bug bounty platform that connects businesses with penetration testers and cybersecurity researchers.",
+			"meta": {
+				"refs": [
+					"https://www.hackerone.com/"
+				]
+			},
+			"uuid": "6ed183b4-1b67-11ea-978f-2e728ce88125",
+			"value": "HackerOne"
+		},
+		{
+			"description": "We are a Pediatric Home Health Agency in the Austin, Dallas Ft. Worth, San Antonio & Houston Victoria areas, and we LOVE kids!!! Our mission is to (1) provide the highest quality pediatric home health therapy services for children in need, and (2) foster an environment that empowers patients, parents and caregivers into higher levels of hope, independence and success. We look forward to helping your child achieve optimum levels of health.",
+			"meta": {
+				"refs": [
+					"http://riverkidstexas.com/"
+				]
+			},
+			"uuid": "6ed18760-1b67-11ea-978f-2e728ce88125",
+			"value": "RiverKids Pediatric Home Health"
+		},
+		{
+			"description": "Southeastern Minnesota Oral & Maxillofacial Surgery Associates, providing dental implants, wisdom tooth removal, and more.",
+			"meta": {
+				"refs": [
+					"https://www.semoms.com/"
+				]
+			},
+			"uuid": "5c7f35c0-184d-11ea-8d71-362b9e155667",
+			"value": "Southeastern Minnesota Oral & Maxillofacial Surgery"
+		},
+		{
+			"description": "Spartan Technology Solutions offers configurable, flexible case management software solutions for a wide variety of legal applications.  By offering the most user-friendly case flow management solutions in the industry, Spartan is sure to exceed your expectations. Our comprehensive case management solutions automate best practices, mitigate risk of mistakes, save time by creating organized systems for case flow, and save money by reducing necessary resources to manage case loads. Additionally, customized solutions are offered to match specific needs for individual implementations.",
+			"meta": {
+				"refs": [
+					"http://www.spartantechnology.com/"
+				]
+			},
+			"uuid": "ce9b8330-1f8b-11ea-a5e8-2e728ce88125",
+			"value": "Spartan Technology Solutions"
+		},
+		{
+			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
+			"meta": {
+				"refs": [
+					"https://www.tritech.com/"
+				]
+			},
+			"uuid": "9f8b5d32-4b3c-11e9-8646-d663bd873d93",
+			"value": "TriTech"
+		}
+	],
+	"version": 44
+}

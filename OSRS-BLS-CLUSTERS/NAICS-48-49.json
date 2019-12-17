@@ -1,0 +1,41 @@
+{
+  "category": "BLS-NAICS-48-49",
+  "description": "The Transportation and Warehousing sector includes industries providing transportation of passengers and cargo, warehousing and storage for goods, scenic and sightseeing transportation, and support activities related to modes of transportation. Establishments in these industries use transportation equipment or transportation related facilities as a productive asset. The type of equipment depends on the mode of transportation. The modes of transportation are air, rail, water, road, and pipeline.",
+  "name": "BLS-NAICS-48-49",
+  "source": "BLS Industries at a Glance",
+  "type": "BLS-NAICS-48-49",
+  "uuid": "c8c0318e-4851-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag48-49.htm"
+        ]
+      },
+      "uuid": "ca46d3da-4902-11e9-8646-d663bd873d93",
+      "value": "Test Transportation and Warehousing Value"
+    },
+	{
+      "description": "DoorDash Inc. is a San Francisco–based on-demand food delivery service founded in 2013 by Stanford students Andy Fang, Stanley Tang, Tony Xu and Evan Moore. A Y Combinator–backed company, DoorDash is one of several technology companies that uses logistics services to offer food delivery from restaurants on-demand.",
+      "meta": {
+        "refs": [
+          "https://www.doordash.com/"
+        ]
+      },
+      "uuid": "877bd0e8-e180-11e9-81b4-2a2ae2dbcce4",
+      "value": "DoorDash Inc."
+    },
+	{
+      "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
+      "meta": {
+        "refs": [
+          "https://www.dublinport.ie/"
+        ]
+      },
+      "uuid": "39d6f95a-95f2-11e9-bc42-526af7764f64",
+      "value": "The Dublin Port Company"
+    }
+	  ],
+	"version": 3
+}
