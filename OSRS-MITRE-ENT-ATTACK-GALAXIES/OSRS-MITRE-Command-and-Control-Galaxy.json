@@ -1,0 +1,8 @@
+{
+  "description": "Command and Control consists of techniques that adversaries may use to communicate with systems under their control within a victim network. Adversaries commonly attempt to mimic normal, expected traffic to avoid detection. There are many ways an adversary can establish command and control with various levels of stealth depending on the victim’s network structure and defenses.",
+  "name": "OSRS-MITRE-Command-and-Control",
+  "namespace": "OSRS-MITRE-Categories",
+  "type": "OSRS-MITRE-Command-and-Control",
+  "uuid": "f3d2216e-fa3c-11e9-8f0b-362b9e155667",
+  "version": 3
+}
