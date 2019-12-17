@@ -1,0 +1,41 @@
+{
+  "category": "BLS-NAICS-311",
+  "description": "Industries in the Food Manufacturing subsector transform livestock and agricultural products into products for intermediate or final consumption. The industry groups are distinguished by the raw materials (generally of animal or vegetable origin) processed into food products. The food products manufactured in these establishments are typically sold to wholesalers or retailers for distribution to consumers, but establishments primarily engaged in retailing bakery and candy products made on the premises not for immediate consumption are included.",
+  "name": "BLS-NAICS-311",
+  "source": "BLS Industries at a Glance",
+  "type": "BLS-NAICS-311",
+  "uuid": "b82af4f4-4800-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag311.htm"
+        ]
+      },
+      "uuid": "23ff5cf0-48c5-11e9-8646-d663bd873d93",
+      "value": "Test Food Manufacturing Value"
+    },
+	{
+      "description": "Russell Stover Candies, Inc., founded by Russell and Clara Stover in 1923, is an American supplier of candy, chocolate, and confections. The corporate headquarters are in Kansas City, Missouri. In July 2014 the company was acquired by the Swiss company Lindt & Sprüngli.",
+      "meta": {
+        "refs": [
+          "https://www.russellstover.com/"
+        ]
+      },
+      "uuid": "29ce0664-d587-11e9-bb65-2a2ae2dbcce4",
+      "value": "Russell Stover Chocolates"
+    },
+	{
+      "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
+      "meta": {
+        "refs": [
+          "https://www.trails-end.com/"
+        ]
+      },
+      "uuid": "f37dea96-d353-11e9-bb65-2a2ae2dbcce4",
+      "value": "Trails End"
+    }
+	  ],
+	"version": 3
+}

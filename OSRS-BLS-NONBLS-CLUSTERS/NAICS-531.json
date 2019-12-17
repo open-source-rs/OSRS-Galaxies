@@ -1,0 +1,40 @@
+{
+	"category": "BLS-NAICS-531",
+	"description": "Industries in the Real Estate subsector group establishments that are primarily engaged in renting or leasing real estate to others; managing real estate for others; selling, buying, or renting real estate for others; and providing other real estate related services, such as appraisal services. This subsector includes equity Real Estate Investment Trusts (REITs) that are primarily engaged in leasing buildings, dwellings, or other real estate property to others.",
+	"name": "BLS-NAICS-531",
+	"source": "BLS Industries at a Glance",
+	"type": "BLS-NAICS-531",
+	"uuid": "a7b0c658-4846-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag531.htm"
+				]
+			},
+			"uuid": "f3666a8a-48fa-11e9-8646-d663bd873d93",
+			"value": "Test Real Estate Value"
+		},
+		{
+			"description": "WeWork is an American commercial real estate company that provides shared workspaces for technology startups and services for other enterprises. Founded in 2010, it is headquartered in New York City. As of 2018, WeWork managed over 4 million square metres. WeWork's parent company is The We Company.",
+			"meta": {
+				"refs": [
+					"https://www.wework.com/l/detroit--MI"
+				]
+			},
+			"uuid": "51a5aad0-0d5d-11ea-8d71-362b9e155667",
+			"value": "WeWork"
+		},
+		{
+			"description": "PIK Group is the largest real estate and homebuilder company in Russia. The company and its subsidiaries is principally engaged in the residential construction industry.",
+			"meta": {
+				"refs": [
+					"http://pik-group.com/about-us/our-history"
+				]
+			},
+			"uuid": "b3d22c8e-4b3d-11e9-8646-d663bd873d93",
+			"value": "PIK-Group"
+		}
+	],
+	"version": 2
+}

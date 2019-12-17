@@ -1,0 +1,120 @@
+{
+	"category": "BLS-NAICS-517",
+	"description": "Industries in the Telecommunications subsector group establishments that provide telecommunications and the services related to that activity (e.g., telephony, including Voice over Internet Protocol (VoIP); cable and satellite television distribution services; Internet access; telecommunications reselling services). The Telecommunications subsector is primarily engaged in operating, and/or providing access to facilities for the transmission of voice, data, text, sound, and video. Transmission facilities may be based on a single technology or a combination of technologies.",
+	"name": "BLS-NAICS-517",
+	"source": "BLS Industries at a Glance",
+	"type": "BLS-NAICS-517",
+	"uuid": "70d51acc-484f-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag517.htm"
+				]
+			},
+			"uuid": "44c85108-4901-11e9-8646-d663bd873d93",
+			"value": "Test Telecommunications Value"
+		},
+		{
+			"description": "Internet service provider in Tallahassee, Florida",
+			"meta": {
+				"refs": [
+					"https://www.ntifl.com/"
+				]
+			},
+			"uuid": "3a6f3dbe-4b42-11e9-8646-d663bd873d93",
+			"value": "Network Tallahassee"
+		},
+		{
+			"description": "Freedom Mobile Inc. is a Canadian wireless telecommunications provider owned by Shaw Communications. With 1,516,256 active subscribers in urban areas of Ontario, British Columbia and Alberta, it is Canada's fourth largest mobile network operator with 4.5% market share.",
+			"meta": {
+				"refs": [
+					"https://www.freedommobile.ca/"
+				]
+			},
+			"uuid": "85605f6a-7bda-11e9-8f9e-2a86e4085a59",
+			"value": "Freedom Mobile Inc."
+		},
+		{
+			"description": "Sprint Corporation is an American telecommunications company that provides wireless services and is an internet service provider, based in Overland Park, Kansas. It is the fourth-largest mobile network operator in the United States and serves 54 million customers as of October 2017.",
+			"meta": {
+				"refs": [
+					"https://www.sprint.com/"
+				]
+			},
+			"uuid": "a628acc2-abc1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Sprint Corporation"
+		},
+		{
+			"description": "Cable One, Inc. is an American Internet and cable service provider and former subsidiary of Graham Holdings Company. The company's name and current focus dates back to 1997; prior to that time the company was known as Post-Newsweek Cable.",
+			"meta": {
+				"refs": [
+					"https://www.cableone.net/"
+				]
+			},
+			"uuid": "483b17a4-c678-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Cable One"
+		},
+		{
+			"description": "Broadband TV provider.",
+			"meta": {
+				"refs": [
+					"https://www.astro.com.my/"
+				]
+			},
+			"uuid": "aa3a4348-cb33-11e9-a32f-2a2ae2dbcce4",
+			"value": "Astro"
+		},
+		{
+			"description": "Vodafone Group plc is a British multinational telecommunications conglomerate with headquarters in London and Newbury, Berkshire. It predominantly operates services in the regions of Asia, Africa, Europe, and Oceania.",
+			"meta": {
+				"refs": [
+					"https://www.vodafone.com/"
+				]
+			},
+			"uuid": "2bf3ee04-e180-11e9-81b4-2a2ae2dbcce4",
+			"value": "Vodafone Group Plc"
+		},
+		{
+			"description": "Beeline, earlier Bee Line GSM is a telecommunications brand by company PJSC VimpelCom, founded in Russia. PJSC VimpelCom is Russia's third-largest wireless and second-largest telecommunications operator. Its headquarters is located in Moscow.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Beeline_(brand)"
+				]
+			},
+			"uuid": "5b2ad7f0-eeaa-11e9-81b4-2a2ae2dbcce4",
+			"value": "Beeline (Bee Line GSM)"
+		},
+		{
+			"description": "T-Mobile US, Inc., commonly shortened to T-Mobile, is a United States–based wireless network operator whose majority shareholder is the German telecommunications company Deutsche Telekom. Its headquarters are located in Bellevue, Washington, in the Seattle metropolitan area.",
+			"meta": {
+				"refs": [
+					"https://www.t-mobile.com/"
+				]
+			},
+			"uuid": "6808db5e-1144-11ea-8d71-362b9e155667",
+			"value": "T-Mobile US, Inc."
+		},
+		{
+			"description": "Bharti Airtel Limited, also known as Airtel, is an Indian global telecommunications services company based in Delhi, India. It operates in 18 countries across South Asia and Africa, and also in the Channel Islands.",
+			"meta": {
+				"refs": [
+					"https://www.airtel.in/"
+				]
+			},
+			"uuid": "e74424c4-1b6b-11ea-978f-2e728ce88125",
+			"value": "Bharti Airtel Limited"
+		},
+		{
+			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
+			"meta": {
+				"refs": [
+					"https://daleeli.com/en"
+				]
+			},
+			"uuid": "15566256-4b46-11e9-8646-d663bd873d93",
+			"value": "Dalil"
+		}
+	],
+	"version": 9
+}

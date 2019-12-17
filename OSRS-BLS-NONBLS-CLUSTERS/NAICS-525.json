@@ -1,0 +1,31 @@
+{
+  "category": "BLS-NAICS-525",
+  "description": "Industries in the Funds, Trusts, and Other Financial Vehicles subsector are comprised of legal entities (i.e., funds, plans, and/or programs) organized to pool securities or other assets on behalf of shareholders or beneficiaries of employee benefit or other trust funds. The portfolios are customized to achieve specific investment characteristics, such as diversification, risk, rate of return, and price volatility. These entities earn interest, dividends, and other investment income, but have little or no employment and no revenue from the sale of services.",
+  "name": "BLS-NAICS-525",
+  "source": "BLS Industries at a Glance",
+  "type": "BLS-NAICS-525",
+  "uuid": "32c85796-4802-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag525.htm"
+        ]
+      },
+      "uuid": "8509c836-48c6-11e9-8646-d663bd873d93",
+      "value": "Test Funds, Trusts, and Other Financial Vehicles Value"
+    },
+	{
+      "description": "CyrusOne, Inc. is a real estate investment trust that invests in carrier-neutral data centers and provides colocation and peering services. It is headquartered in Dallas, Texas.",
+      "meta": {
+        "refs": [
+          "https://cyrusone.com/"
+        ]
+      },
+      "uuid": "a07b5830-17b2-11ea-8d71-362b9e155667",
+      "value": "CyrusOne, Inc."
+    }
+	  ],
+	"version": 2
+}
