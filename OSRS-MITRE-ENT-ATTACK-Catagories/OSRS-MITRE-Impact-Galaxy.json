@@ -1,8 +1,0 @@
-{
-  "description": "Impact consists of techniques that adversaries use to disrupt availability or compromise integrity by manipulating business and operational processes. Techniques used for impact can include destroying or tampering with data. In some cases, business processes can look fine, but may have been altered to benefit the adversaries’ goals. These techniques might be used by adversaries to follow through on their end goal or to provide cover for a confidentiality breach.",
-  "name": "OSRS-MITRE-Impact",
-  "namespace": "OSRS-MITRE-Categories",
-  "type": "OSRS-MITRE-Impact",
-  "uuid": "518cb350-fa3d-11e9-aad5-362b9e155667",
-  "version": 3
-}
