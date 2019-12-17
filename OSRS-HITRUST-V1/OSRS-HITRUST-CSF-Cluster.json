@@ -1,0 +1,441 @@
+{
+  "category": "OSRS-HITRUST-CSF",
+  "description": "The HITRUST CSF (created to stand for Common Security Framework) is a prescriptive set of controls that meet the requirements of multiple regulations and standards. The framework provides a way to comply with ISO/IEC 27000-series and HIPAA standards.HITRUST is led by a management team and governed by an Executive Council made up of leaders from across a variety of industry. These leaders represent the governance of the organization, but other founders also comprise the leadership to ensure the framework meets the short- and long-term needs of the entire industry.",
+  "name": "OSRS-HITRUST-CSF",
+  "source": "HITRUST CSF",
+  "type": "OSRS-HITRUST-CSF",
+  "uuid": "030e5a4a-d034-11e9-bb65-2a2ae2dbcce4",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "48cd022a-d034-11e9-bb65-2a2ae2dbcce4",
+      "value": "Test OSRS-HITRUST-CSF Value"
+    },
+	{
+      "description": "A management framework to initiate and control the implementation and operation of information security within the organization is established.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ebdd6a36-d034-11e9-bb65-2a2ae2dbcce4",
+      "value": "2-1_Internal_Organization"
+    },
+	{
+      "description": "Employees and contractors understand their responsibilities and are suitable for the roles for which they are considered.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "169ff5e0-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "3-1_Prior_to_Employment"
+    },
+	{
+      "description": "Employees and contractors are aware of and fulfil their information security responsibilities.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "169ff86a-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "3-2_During_Employment"
+    },
+	{
+      "description": "The organization's interests are protected during the process of changing or terminating employment.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "169ff9b4-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "3-3_Termination_and_Change_of_Employment"
+    },
+	{
+      "description": "Organizational assets are identified and appropriate protection responsibilities are defined.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4c7cf01e-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "4-1_Responsibility_for_Assets"
+    },
+	{
+      "description": "Information receives an appropriate level of protection in accordance with its importance to the organization.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4c7cf1fe-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "4-2_Information_Classification"
+    },
+	{
+      "description": "The unauthorized disclosure, modification, removal or destruction of information stored on media is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4c7cf352-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "4-3_Media_Handling"
+    },
+	{
+      "description": "Access to information and information processing facilities is limited.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "85663ae8-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "5-1_Business_Requirements_for_Access_Control"
+    },
+	{
+      "description": "User access is authorized and unauthorized access to systems and services is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "85663d54-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "5-2_User_Access_Management"
+    },
+	{
+      "description": "Users are accountable for safeguarding their authentication information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "85663eb2-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "5-3_User_Responsibilities"
+    },
+	{
+      "description": "Unauthorized access to systems and applications is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "85663fe8-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "5-4_System_and_Application_Access_Control"
+    },
+	{
+      "description": "Cryptography is properly and effectively used to protect the confidentiality, authenticity and/or integrity of information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "df653ab2-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "6-1_Cryptography_Controls"
+    },
+	{
+      "description": "Unauthorized physical access, damage and interference to the organization's information and information processing facilities is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f6e90376-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "7-1_Secure_Areas"
+    },
+	{
+      "description": "Loss, damage, theft or compromise of assets and interruption to the organization's operations is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f6e9061e-d035-11e9-bb65-2a2ae2dbcce4",
+      "value": "7-2_Equipment"
+    },
+	{
+      "description": "Correct and secure operations of information processing facilities is ensured.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "27193336-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-1_Operations_Security"
+    },
+	{
+      "description": "Information and information processing facilities are protected against malware.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "2719579e-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-2_Malware_Protection"
+    },
+	{
+      "description": "Protections against loss of data are implemented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "2719594c-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-3_Backup"
+    },
+	{
+      "description": "Events are recorded and evidence is generated.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "27195aaa-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-4_Logging_and_Monitoring"
+    },
+	{
+      "description": "The integrity of operational systems is ensured.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "27195bd6-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-5_Control_of_Operational_Software"
+    },
+	{
+      "description": "The exploitation of technical vulnerabilities is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "27195d02-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-6_Technical_Vulnerability_Management"
+    },
+	{
+      "description": "The impact of audit activities on operational systems is minimized.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "27195e2e-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "8-7_Information_System_Audit_Considerations"
+    },
+	{
+      "description": "To ensure the protection of information in networks and its supporting information processing facilities.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "aa25bf38-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "9-1_Network_Security_Management"
+    },
+	{
+      "description": "The security of information transferred within an organization and with any external entity is maintained.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "aa25c1a4-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "9-2_Information_Transfer"
+    },
+	{
+      "description": "Security is an integral part of information systems--including those providing services over public networks--across the entire system lifecycle.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "da67738a-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "10-1_Security_Requirements_of_Information_Systems"
+    },
+	{
+      "description": "Information security is designed and implemented within the development lifecycle of information systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "da677632-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "10-2_Security_in_Development_and_Support_Processes"
+    },
+	{
+      "description": "Data used for testing is protected.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "da677786-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "10-3_Test_Data"
+    },
+	{
+      "description": "Errors, loss, unauthorized modification or misuse of information in applications is prevented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "da6778bc-d036-11e9-bb65-2a2ae2dbcce4",
+      "value": "10-4_Correct_Processing_in_Applications"
+    },
+	{
+      "description": "Assets accessible by suppliers are protected.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "37b6bc12-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "11-1_Information_Security_in_Supplier_Relationships"
+    },
+	{
+      "description": "An agreed level of information security and service delivery is maintained in line with supplier agreements.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "37b6bf0a-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "11-2_Supplier_Service_Delivery_Management"
+    },
+	{
+      "description": "A consistent and effective approach to the management of information security incidents, including communication on security events and weaknesses is implemented.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "66e9b3fe-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "12-1_Information_Security_Incident_Management"
+    },
+	{
+      "description": "Information security continuity is embedded in the organization's business continuity management systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "871d9078-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "13-1_Information_Security_Continuity"
+    },
+	{
+      "description": "Availability of information processing facilities is ensured.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "871d9320-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "13-2_Redundancies"
+    },
+	{
+      "description": "Breaches of legal, statutory, regulatory or contractual obligations related to information security and of any security requirements are avoided.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "c4e29b1a-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "14-1_Legal_and_Contractual_Requirements"
+    },
+	{
+      "description": "Information security is implemented and operated in accordance with the organizational policies and procedures.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "c4e29d5e-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "14-2_Information_Security_Reviews"
+    },
+	{
+      "description": "Policies, procedures, and technologies that directly affect data subjects and/or their PII are open and transparent.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39b70a-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-1_Transparency"
+    },
+	{
+      "description": "Data subjects are provided a reasonable opportunity and capability to access and review their PII and to challenge its accuracy and completeness.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39ba0c-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-2_Individual_Participation"
+    },
+	{
+      "description": "The authorities which permit the collection of PII and specifically the purpose(s) for which the PII is intended to be used are articulated.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39bc1e-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-3_Purpose_Specification"
+    },
+	{
+      "description": "Only PII that is directly relevant and necessary to accomplish the specified purpose(s) is collected.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39bd54-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-4_Data_Minimization"
+    },
+	{
+      "description": "PII is used solely for the purpose(s) specified in the privacy notice and only for a purpose that is compatible with the purpose for which the PII was collected.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39bf98-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-5_Use_Limitation"
+    },
+	{
+      "description": "PII is relevant to the purposes for which they are to be used, and, to the extent necessary for those purposes, is accurate, complete and kept up-to-date.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39c0ce-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-6_Data_Quality_and_Integrity"
+    },
+	{
+      "description": "The organization is accountable for complying with applicable privacy protection requirements.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ee39c27c-d037-11e9-bb65-2a2ae2dbcce4",
+      "value": "15-7_Accountability_and_Auditing"
+    },
+	{
+      "description": "The security of teleworking and use of mobile devices is ensured.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "ebdd6c8e-d034-11e9-bb65-2a2ae2dbcce4",
+      "value": "2-2_Mobile_Devices_and_Teleworking"
+    }
+	  ],
+	"version": 2
+}
