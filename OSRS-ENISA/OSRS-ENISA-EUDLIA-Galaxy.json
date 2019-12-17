@@ -1,8 +1,0 @@
-{
-  "description": "ENISA Unintentional damage or loss of information or IT assets (EUDLIA) - Threats of unintentional human actions or errors.",
-  "name": "OSRS-ENISA-EUDLIA",
-  "namespace": "ENISA-Categories",
-  "type": "OSRS-ENISA-EUDLIA",
-  "uuid": "db48aaea-2044-11ea-978f-2e728ce88125",
-  "version": 1
-}
