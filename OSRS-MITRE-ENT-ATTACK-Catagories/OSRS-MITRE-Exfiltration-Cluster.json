@@ -1,0 +1,121 @@
+{
+  "category": "OSRS-MITRE-Exfiltration",
+  "description": "Exfiltration consists of techniques that adversaries may use to steal data from your network. Once they’ve collected data, adversaries often package it to avoid detection while removing it. This can include compression and encryption. Techniques for getting data out of a target network typically include transferring it over their command and control channel or an alternate channel and may also include putting size limits on the transmission.",
+  "name": "OSRS-MITRE-Exfiltration",
+  "source": "MITRE ATT&CK",
+  "type": "OSRS-MITRE-Exfiltration",
+  "uuid": "1f113d38-fa3d-11e9-8f0b-362b9e155667",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/"
+        ]
+      },
+      "uuid": "5479d5be-fa44-11e9-8f0b-362b9e155667",
+      "value": "Test OSRS-MITRE-Exfiltration Value"
+    },
+	{
+      "description": "Data, such as sensitive documents, may be exfiltrated through the use of automated processing or Scripting after being gathered during Collection.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1020"
+        ]
+      },
+      "uuid": "c988d958-fb0d-11e9-8f0b-362b9e155667",
+      "value": "Automated Exfiltration T1020"
+    },
+	{
+      "description": "An adversary may compress data (e.g., sensitive documents) that is collected prior to exfiltration in order to make it portable and minimize the amount of data sent over the network. The compression is done separately from the exfiltration channel and is performed using a custom program or algorithm, or a more common compression library or utility such as 7zip, RAR, ZIP, or zlib.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1002"
+        ]
+      },
+      "uuid": "c988dbba-fb0d-11e9-8f0b-362b9e155667",
+      "value": "Data Compressed T1002"
+    },
+	{
+      "description": "Data is encrypted before being exfiltrated in order to hide the information that is being exfiltrated from detection or to make the exfiltration less conspicuous upon inspection by a defender. The encryption is performed by a utility, programming library, or custom algorithm on the data itself and is considered separate from any encryption performed by the command and control or file transfer protocol. Common file archive formats that can encrypt files are RAR and zip.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1022"
+        ]
+      },
+      "uuid": "c988dd0e-fb0d-11e9-8f0b-362b9e155667",
+      "value": "Data Encrypted T1022"
+    },
+	{
+      "description": "An adversary may exfiltrate data in fixed size chunks instead of whole files or limit packet sizes below certain thresholds. This approach may be used to avoid triggering network data transfer threshold alerts.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1030"
+        ]
+      },
+      "uuid": "c988de3a-fb0d-11e9-8f0b-362b9e155667",
+      "value": "Data Transfer Size Limits T1030"
+    },
+	{
+      "description": "Data exfiltration is performed over the Command and Control channel. Data is encoded into the normal communications channel using the same protocol as command and control communications.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1041"
+        ]
+      },
+      "uuid": "562568c2-fb0e-11e9-8f0b-362b9e155667",
+      "value": "Exfiltration Over Command and Control Channel T1041"
+    },
+	{
+      "description": "Exfiltration could occur over a different network medium than the command and control channel. If the command and control network is a wired Internet connection, the exfiltration may occur, for example, over a WiFi connection, modem, cellular data connection, Bluetooth, or another radio frequency (RF) channel. Adversaries could choose to do this if they have sufficient access or proximity, and the connection might not be secured or defended as well as the primary Internet-connected channel because it is not routed through the same enterprise network.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1011"
+        ]
+      },
+      "uuid": "56256c0a-fb0e-11e9-8f0b-362b9e155667",
+      "value": "Exfiltration Over Other Network Medium T1011"
+    },
+	{
+      "description": "In certain circumstances, such as an air-gapped network compromise, exfiltration could occur via a physical medium or device introduced by a user. Such media could be an external hard drive, USB drive, cellular phone, MP3 player, or other removable storage and processing device. The physical medium or device could be used as the final exfiltration point or to hop between otherwise disconnected systems.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1052"
+        ]
+      },
+      "uuid": "56256d90-fb0e-11e9-8f0b-362b9e155667",
+      "value": "Exfiltration Over Physical Medium T1052"
+    },
+	{
+      "description": "Data exfiltration may be performed only at certain times of day or at certain intervals. This could be done to blend traffic patterns with normal activity or availability.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1029"
+        ]
+      },
+      "uuid": "56256ed0-fb0e-11e9-8f0b-362b9e155667",
+      "value": "Scheduled Transfer T1029"
+    },
+	{
+      "description": "An adversary may exfiltrate data by transferring the data, including backups of cloud environments, to another cloud account they control on the same service to avoid typical file transfers/downloads and network-based exfiltration detection.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1537"
+        ]
+      },
+      "uuid": "56257006-fb0e-11e9-8f0b-362b9e155667",
+      "value": "Transfer Data to Cloud Account T1537"
+    },
+	{
+      "description": "Data exfiltration is performed with a different protocol from the main command and control protocol or channel. The data is likely to be sent to an alternate network location from the main command and control server. Alternate protocols include FTP, SMTP, , HTTP, HTTPS, DNS, SMB, or any other network protocol not being used as the main command and control channel. Different channels could include Internet Web services such as cloud storage.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1048"
+        ]
+      },
+      "uuid": "c988df70-fb0d-11e9-8f0b-362b9e155667",
+      "value": "Exfiltration Over Alternative Protocol T1048"
+    }
+	  ],
+	"version": 3
+}

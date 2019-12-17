@@ -1,0 +1,271 @@
+{
+  "category": "OSRS-MITRE-Discovery",
+  "description": "Discovery consists of techniques an adversary may use to gain knowledge about the system and internal network. These techniques help adversaries observe the environment and orient themselves before deciding how to act. They also allow adversaries to explore what they can control and what’s around their entry point in order to discover how it could benefit their current objective. Native operating system tools are often used toward this post-compromise information-gathering objective.",
+  "name": "OSRS-MITRE-Discovery",
+  "source": "MITRE ATT&CK",
+  "type": "OSRS-MITRE-Discovery",
+  "uuid": "f65f0718-fa3b-11e9-8f0b-362b9e155667",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/"
+        ]
+      },
+      "uuid": "1c80a828-fa43-11e9-aad5-362b9e155667",
+      "value": "Test OSRS-MITRE-Discovery Value"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of local system or domain accounts.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1087"
+        ]
+      },
+      "uuid": "4037f55e-fab7-11e9-8f0b-362b9e155667",
+      "value": "Account Discovery T1087"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of open application windows. Window listings could convey information about how the system is used or give context to information collected by a keylogger.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1010"
+        ]
+      },
+      "uuid": "4037f810-fab7-11e9-8f0b-362b9e155667",
+      "value": "Application Window Discovery T1010"
+    },
+	{
+      "description": "Adversaries may enumerate browser bookmarks to learn more about compromised hosts. Browser bookmarks may reveal personal information about users (ex - banking sites, interests, social media, etc.) as well as details about internal network resources such as servers, tools dashboards, or other related infrastructure.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1217"
+        ]
+      },
+      "uuid": "4037f964-fab7-11e9-8f0b-362b9e155667",
+      "value": "Browser Bookmark Discovery T1217"
+    },
+	{
+      "description": "Adversaries may attempt to gather information on domain trust relationships that may be used to identify Lateral Movement opportunities in Windows multi-domain/forest environments. Domain trusts provide a mechanism for a domain to allow access to resources based on the authentication procedures of another domain. Domain trusts allow the users of the trusted domain to access resources in the trusting domain. The information discovered may help the adversary conduct SID-History Injection, Pass the Ticket, and Kerberoasting. Domain trusts can be enumerated using the DSEnumerateDomainTrusts Win32 API call, .NET methods, and LDAP. The Windows utility Nltest is known to be used by adversaries to enumerate domain trusts.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1482"
+        ]
+      },
+      "uuid": "4037fa90-fab7-11e9-8f0b-362b9e155667",
+      "value": "Domain Trust Discovery T1482"
+    },
+	{
+      "description": "An adversary may use a cloud service dashboard GUI with stolen credentials to gain useful information from an operational cloud environment, such as specific services, resources, and features. For example, the GCP Command Center can be used to view all assets, findings of potential security risks, and to run additional queries, such as finding public IP addresses and open ports.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1538"
+        ]
+      },
+      "uuid": "a89df494-fab8-11e9-8f0b-362b9e155667",
+      "value": "Cloud Service Dashboard T1538"
+    },
+	{
+      "description": "An adversary may attempt to enumerate the cloud services running on a system after gaining access. These methods can differ depending on if it's platform-as-a-service (PaaS), infrastructure-as-a-service (IaaS), or software-as-a-service (SaaS). Many different services exist throughout the various cloud providers and can include continuous integration and continuous delivery (CI or CD), Lambda Functions, Azure AD, etc. Adversaries may attempt to discover information about the services enabled throughout the environment.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1526"
+        ]
+      },
+      "uuid": "a89df7dc-fab8-11e9-8f0b-362b9e155667",
+      "value": "Cloud Service Discovery T1526"
+    },
+	{
+      "description": "Adversaries may enumerate files and directories or may search in specific locations of a host or network share for certain information within a file system. Adversaries may use the information from File and Directory Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and/or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1083"
+        ]
+      },
+      "uuid": "d848f0a4-fab8-11e9-8f0b-362b9e155667",
+      "value": "File and Directory Discovery T1083"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "d848f7fc-fab8-11e9-8f0b-362b9e155667",
+      "value": "Network Service Scanning T1046"
+    },
+	{
+      "description": "Networks often contain shared network drives and folders that enable users to access file directories on various systems across a network.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1135"
+        ]
+      },
+      "uuid": "d848f996-fab8-11e9-8f0b-362b9e155667",
+      "value": "Network Share Discovery T1135"
+    },
+	{
+      "description": "Network sniffing refers to using the network interface on a system to monitor or capture information sent over a wired or wireless connection. An adversary may place a network interface into promiscuous mode to passively access data in transit over the network, or use span ports to capture a larger amount of data.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1040"
+        ]
+      },
+      "uuid": "d848fad6-fab8-11e9-8f0b-362b9e155667",
+      "value": "Network Sniffing T1040"
+    },
+	{
+      "description": "Password policies for networks are a way to enforce complex passwords that are difficult to guess or crack through Brute Force. An adversary may attempt to access detailed information about the password policy used within an enterprise network. This would help the adversary to create a list of common passwords and launch dictionary and/or brute force attacks which adheres to the policy (e.g. if the minimum password length should be 8, then not trying passwords such as pass123; not checking for more than 3-4 passwords per account if the lockout is set to 6 as to not lock out accounts).",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1201"
+        ]
+      },
+      "uuid": "d848fc0c-fab8-11e9-8f0b-362b9e155667",
+      "value": "Password Policy Discovery T1201"
+    },
+	{
+      "description": "Adversaries may attempt to gather information about attached peripheral devices and components connected to a computer system. The information may be used to enhance their awareness of the system and network environment or may be used for further actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1120"
+        ]
+      },
+      "uuid": "4b3830ac-fab9-11e9-8f0b-362b9e155667",
+      "value": "Peripheral Device Discovery T1120"
+    },
+	{
+      "description": "Adversaries may attempt to find local system or domain-level groups and permissions settings.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1069"
+        ]
+      },
+      "uuid": "4b38350c-fab9-11e9-8f0b-362b9e155667",
+      "value": "Permission Groups Discovery T1069"
+    },
+	{
+      "description": "Adversaries may attempt to get information about running processes on a system. Information obtained could be used to gain an understanding of common software running on systems within the network. Adversaries may use the information from Process Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1057"
+        ]
+      },
+      "uuid": "4b383660-fab9-11e9-8f0b-362b9e155667",
+      "value": "Process Discovery T1057"
+    },
+	{
+      "description": "Adversaries may interact with the Windows Registry to gather information about the system, configuration, and installed software.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1012"
+        ]
+      },
+      "uuid": "4b38378c-fab9-11e9-8f0b-362b9e155667",
+      "value": "Query Registry T1012"
+    },
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "4b3838c2-fab9-11e9-8f0b-362b9e155667",
+      "value": "Remote System Discovery T1018"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of security software, configurations, defensive tools, and sensors that are installed on the system. This may include things such as local firewall rules and anti-virus. Adversaries may use the information from Security Software Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and/or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1063"
+        ]
+      },
+      "uuid": "ccdc0e94-fab9-11e9-8f0b-362b9e155667",
+      "value": "Security Software Discovery T1063"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of non-security related software that is installed on the system. Adversaries may use the information from Software Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and/or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1518"
+        ]
+      },
+      "uuid": "ccdc113c-fab9-11e9-8f0b-362b9e155667",
+      "value": "Software Discovery T1518"
+    },
+	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "ccdc1290-fab9-11e9-8f0b-362b9e155667",
+      "value": "System Information Discovery T1082"
+    },
+	{
+      "description": "Adversaries will likely look for details about the network configuration and settings of systems they access or through information discovery of remote systems. Several operating system administration utilities exist that can be used to gather this information. Examples include Arp, ipconfig ifconfig, nbtstat, and route.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1016"
+        ]
+      },
+      "uuid": "ccdc13c6-fab9-11e9-8f0b-362b9e155667",
+      "value": "System Network Configuration Discovery T1016"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "ccdc14fc-fab9-11e9-8f0b-362b9e155667",
+      "value": "System Network Connections Discovery T1049"
+    },
+	{
+      "description": "Adversaries may attempt to identify the primary user, currently logged in user, set of users that commonly uses a system, or whether a user is actively using the system. They may do this, for example, by retrieving account usernames or by using Credential Dumping. The information may be collected in a number of different ways using other Discovery techniques, because user and username details are prevalent throughout a system and include running process ownership, file directory ownership, session information, and system logs. Adversaries may use the information from System Owner User Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1033"
+        ]
+      },
+      "uuid": "3c19a852-faba-11e9-8f0b-362b9e155667",
+      "value": "System Owner OR User Discovery T1033"
+    },
+	{
+      "description": "Adversaries may try to get information about registered services. Commands that may obtain information about services using operating system utilities are sc, tasklist svc using Tasklist, and net start using Net, but adversaries may also use other tools as well. Adversaries may use the information from System Service Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and or attempts specific actions.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1007"
+        ]
+      },
+      "uuid": "3c19abea-faba-11e9-8f0b-362b9e155667",
+      "value": "System Service Discovery T1007"
+    },
+	{
+      "description": "The system time is set and stored by the Windows Time Service within a domain to maintain time synchronization between systems and services in an enterprise network.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/techniques/T1124"
+        ]
+      },
+      "uuid": "3c19aff0-faba-11e9-8f0b-362b9e155667",
+      "value": "System Time Discovery T1124"
+    },
+	{
+      "description": "Adversaries may check for the presence of a virtual machine environment (VME) or sandbox to avoid potential detection of tools and activities. If the adversary detects a VME, they may alter their malware to conceal the core functions of the implant or disengage from the victim. They may also search for VME artifacts before dropping secondary or additional payloads. Adversaries may use the information from learned from Virtualization Sandbox Evasion during automated discovery to shape follow-on behaviors.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/"
+        ]
+      },
+      "uuid": "3c19b162-faba-11e9-8f0b-362b9e155667",
+      "value": "Virtualization OR Sandbox Evasion T1497"
+    }
+	  ],
+	"version": 3
+}

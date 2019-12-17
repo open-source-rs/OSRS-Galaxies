@@ -1,0 +1,8 @@
+{
+  "description": "Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
+  "name": "OSRS-MITRE-Persistence",
+  "namespace": "OSRS-MITRE-Categories",
+  "type": "OSRS-MITRE-Persistence",
+  "uuid": "85a768f4-fa3a-11e9-aad5-362b9e155667",
+  "version": 3
+}
