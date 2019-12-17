@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Eavesdropping, Interception, or Hijacking (EEIH) - Threats that relay on alters of communication between two parties.",
+  "name": "OSRS-ENISA-EEIH",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EEIH",
+  "uuid": "6c6d320e-2052-11ea-978f-2e728ce88125",
+  "version": 1
+}

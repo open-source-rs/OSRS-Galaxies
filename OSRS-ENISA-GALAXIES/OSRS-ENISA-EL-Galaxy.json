@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Legal (EL) - Legal activities that can compromise the risk posture of an organization.",
+  "name": "OSRS-ENISA-EL",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EL",
+  "uuid": "41c3d5c6-2066-11ea-978f-2e728ce88125",
+  "version": 1
+}

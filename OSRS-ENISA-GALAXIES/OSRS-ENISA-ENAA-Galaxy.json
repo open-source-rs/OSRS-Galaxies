@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Nefarious Activity or Abuse (ENAA) - Nafarious or Abusive activity on or around IT assets.",
+  "name": "OSRS-ENISA-ENAA",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-ENAA",
+  "uuid": "1b064b7a-2062-11ea-978f-2e728ce88125",
+  "version": 1
+}

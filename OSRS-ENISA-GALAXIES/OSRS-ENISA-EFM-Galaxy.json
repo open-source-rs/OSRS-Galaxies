@@ -1,0 +1,8 @@
+{
+  "description": "ENISA Failures or Malfuctions (EFM) - Failure of IT assets or their parts.",
+  "name": "OSRS-ENISA-EFM",
+  "namespace": "ENISA-Categories",
+  "type": "OSRS-ENISA-EFM",
+  "uuid": "179b780a-2050-11ea-978f-2e728ce88125",
+  "version": 1
+}
