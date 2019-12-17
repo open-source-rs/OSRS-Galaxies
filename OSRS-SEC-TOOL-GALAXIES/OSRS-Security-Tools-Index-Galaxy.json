@@ -1,0 +1,8 @@
+{
+  "description": "The OSRS security tools index is used to track new developments of security testing tools as well as create an inventory of these tool types for easy look-up.",
+  "name": "OSRS-Security-Tools-Index",
+  "namespace": "OSRS-Security-Tools",
+  "type": "OSRS-Security-Tools-Index",
+  "uuid": "bd0b3a26-cd82-11e9-a32f-2a2ae2dbcce4",
+  "version": 19
+}
