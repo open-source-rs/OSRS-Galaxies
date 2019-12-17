@@ -1,0 +1,2633 @@
+{
+  "category": "OSRS-OSINT-Source-Authors",
+  "description": "The OSRS OSINT Source Authors galaxy is used for the tracking of authors in association to the OSINT artificats collected.",
+  "name": "OSRS-OSINT-Source-Authors",
+  "source": "Open Sources",
+  "type": "OSRS-OSINT-Source-Authors",
+  "uuid": "a26d426e-ce67-11e9-a32f-2a2ae2dbcce4",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Author"
+        ]
+      },
+      "uuid": "806ffc0a-ce68-11e9-a32f-2a2ae2dbcce4",
+      "value": "Test OSRS-OSINT-Source-Authors Value"
+    },
+	{
+      "description": "Brian Krebs is an American journalist and investigative reporter. He is best known for his coverage of profit-seeking cybercriminals. His interest grew after a computer worm locked him out of his own computer in 2001. Krebs is the author of a daily blog, KrebsOnSecurity.com, covering computer security and cybercrime.",
+      "meta": {
+        "refs": [
+          "https://krebsonsecurity.com/",
+		  "https://twitter.com/briankrebs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://en.wikipedia.org/wiki/Brian_Krebs",
+		  "https://www.facebook.com/Brian-Krebs-119740914725557/"
+        ]
+      },
+      "uuid": "e9590a30-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brian-Krebs"
+    },
+	{
+      "description": "Pierluigi Paganini is CTO at Cybaze Enterprise SpA Pierluigi is member of the ENISA (European Union Agency for Network and Information Security) Threat Landscape Stakeholder Group, member of Cyber G7 Workgroup of the Italian Ministry of Foreign Affairs and International Cooperation, Professor and Director of the Master in Cyber Security at the Link Campus University. Editor-in-Chief at Cyber Defense Magazine, Pierluigi is a cyber security expert with over 20 years experience in the field, he is Certified Ethical Hacker at EC Council in London. The passion for writing and a strong belief that security is founded on sharing and awareness led Pierluigi to find the security blog Security Affairs recently named a Top National Security Resource for US. Pierluigi is a member of the The Hacker News team and he is a writer for some major publications in the field such as Cyber War Zone, ICTTF, Infosec Island, Infosec Institute, The Hacker News Magazine and for many other Security magazines.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/securityaffairs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://resources.infosecinstitute.com/author/pierluigi-paganini/#gref"
+        ]
+      },
+      "uuid": "e9590c56-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Pierluigi-Paganini"
+    },
+	{
+      "description": "Informational extention of the anti-virus company TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com"
+        ]
+      },
+      "uuid": "e9590da0-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Trend-Micro-Blog"
+    },
+	{
+      "description": "Reverse engineer with a deep knowledge of x86 and x64 assembly, proficient in using several debuggers and disassemblers (OllyDBG, WinDBG, IDA) and other reversing tools. Abilities include reversing applications under Windows, Linux and Android platforms, exploits (OLE, PDF, Java) and scripts. Has detailed knowledge of PE executables and Windows internals. Software engineer with experience in developing applications in C as well as C++ and Java. Prolific blogger and IT security conference speaker.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jaromirhorejsi/",
+		  "https://twitter.com/JaromirHorejsi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/author/jaromirh/"
+        ]
+      },
+      "uuid": "e9590ecc-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jaromir-Horejsi"
+    },
+	{
+      "description": "Fraud researcher with the anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/josephcchen/",
+		  "https://tw.linkedin.com/in/joseph-chen-229965100",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/author/josephcchen/page/2/"
+        ]
+      },
+      "uuid": "e9590fee-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Joseph-C-Chen"
+    },
+	{
+      "description": "Red Team Consultant at Mandiant (FireEye).",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/brett-hawkins-ba843037/",
+		  "https://twitter.com/h4wkst3r/media"
+        ]
+      },
+      "uuid": "f7d1bda8-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brett-Hawkins"
+    },
+	{
+      "description": "Blog extension of the organization Yoroi.  Yoroi is a managed security service provider. It provides cyber security solutions against industrial espionage, internal threats and advanced targeted attacks. Yoroi offers an high specialized Security Operation Center (SOC) to protect your company.",
+      "meta": {
+        "refs": [
+          "https://www.facebook.com/weareyoroi/",
+		  "https://twitter.com/yoroisecurity",
+		  "https://www.youtube.com/channel/UCb3woWzGtRO8tYHHpje3AMA",
+		  "https://www.linkedin.com/company/yoroi"
+        ]
+      },
+      "uuid": "f7d1c0a0-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "ZLAB-YOROI"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Software Engineering at the University of Sannio. Antonio is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+		  "https://www.linkedin.com/in/antonio-farina-a2528a102/"
+        ]
+      },
+      "uuid": "f7d1c1f4-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Antonio-Farina"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Davide graduated in Software Engineering at the University of Sannio. Davide is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/davidetesta94/",
+		  "https://www.yoroi.company/about-us.html"
+        ]
+      },
+      "uuid": "f7d1c3e8-cff6-11e9-bb65-2a2ae2dbcce44",
+      "value": "Davide-Testa"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Computer Engineering at the University of Sannio. He is the director of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+		  "https://www.researchgate.net/profile/Antonio_Pirozzi2",
+		  "https://eucybersummit.com/team/antonio-pirozzi/"
+        ]
+      },
+      "uuid": "f7d1c51e-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Antonio-Pirozzi"
+    },
+	{
+      "description": "Only a few years removed from college, I am using my training as a journalist to inform consumers, researchers and executives in the cybersecurity field now as a technical editor and writer at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://www.blogger.com/profile/13414456218583234191",
+		  "https://www.linkedin.com/in/jonmunshaw/"
+        ]
+      },
+      "uuid": "5ce54104-cff9-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jon-Munshaw"
+    },
+	{
+      "description": "Zack Whittaker is the security editor at TechCrunch.",
+      "meta": {
+        "refs": [
+          "https://techcrunch.com/author/zack-whittaker/",
+		  "zack.whittaker@techcrunch.com",
+		  "https://twitter.com/zackwhittaker",
+		  "https://www.linkedin.com/in/zackwhittaker"
+        ]
+      },
+      "uuid": "5ce5435c-cff9-11e9-bb65-2a2ae2dbcce4",
+      "value": "Zack-Whittaker"
+    },
+	{
+      "description": "Malware researcher and author at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/andrea-marcelli-69377990/",
+		  "https://jimmy-sonny.github.io",
+		  "https://github.com/Cisco-Talos/Ghidraaas",
+		  "https://twitter.com/_s0nn1_?lang=en"
+        ]
+      },
+      "uuid": "229e198e-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Andrea-Marcelli"
+    },
+	{
+      "description": "Catalin Cimpanu is a security reporter at ZDNet, where he covers cyber-security, data breaches, hacking, and other related topics. He previously served as security reporter for Bleeping Computer and Softpedia. Catalin is based in Romania.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/catalin.cimpanu/",
+		  "https://twitter.com/campuscodi",
+		  "catalincimpanu@gmail.com",
+		  "https://github.com/campuscodi"
+        ]
+      },
+      "uuid": "229e1be6-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Catalin-Cimpanu"
+    },
+	{
+      "description": "ABC affiliate out of Phoenix Arizona.",
+      "meta": {
+        "refs": [
+          "https://www.abc15.com",
+		  "https://www.facebook.com/ABC15/",
+		  "https://www.instagram.com/abc15arizona/",
+		  "https://twitter.com/abc15",
+		  "https://www.youtube.com/abc15"
+        ]
+      },
+      "uuid": "229e1d3a-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "abc15-dot-com"
+    },
+	{
+      "description": "Inc42 staff writer. As a recent Post-Graduate in Journalism, Kritti is still exploring the real world. She's currently working as a Journalist at Inc42, and enjoys the art of multimedia storytelling.",
+      "meta": {
+        "refs": [
+          "https://inc42.com/author/kritti-bhalla/"
+        ]
+      },
+      "uuid": "e5852a46-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Kritti Bhalla"
+    },
+	{
+      "description": "Computer security researcher and a software developer, living in Denmark.",
+      "meta": {
+        "refs": [
+          "https://medium.com/@aku_12953",
+		  "https://twitter.com/s_metanka",
+		  "https://www.linkedin.com/in/aleksejskuprins/"
+        ]
+      },
+      "uuid": "e5852d3e-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Aleksejs Kuprins"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.vulnerability-lab.com",
+		  "https://www.vulnerability-lab.com/team.php"
+        ]
+      },
+      "uuid": "e5852e9c-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "VULNERABILITY LABORATORY RESEARCH TEAM"
+    },
+	{
+      "description": "Security researcher, Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/vuln-spotlight-Netgear-N300-routers-DoS-sept-2019.html",
+		  "https://blog.talosintelligence.com/2019/06/vulnerability-spotlight-two-bugs-in.html"
+        ]
+      },
+      "uuid": "e5852fd2-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Dave McDaniel"
+    },
+	{
+      "description": "I'm an experienced machine learning developer that applies natural language processing and computer vision in order to detect fraud, platform abuse, and cybersecurity threats. Rather than learning malicious patterns from text, images, and binaries, my doctoral work focused on learning memory patterns from spiking neural networks. My research concerning the intersection of artificial intelligence and cybersecurity has been presented at RSA, Black Hat, DEF CON, and a NeurIPS workshop, and it's been covered by The New York Times, BBC, TechCrunch, The Wall Street Journal, CNN, The Atlantic, KrebsOnSecurity, and more.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/phtully/",
+		  "https://twitter.com/phtully?lang=en"
+        ]
+      },
+      "uuid": "19223e4c-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Philip Tully"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/iamthepr0blem"
+        ]
+      },
+      "uuid": "192240b8-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Matthew Haigh"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/fireeye/status/1134202881786167297?lang=en",
+		  "https://twitter.com/FireEye/status/1133810364905414656"
+        ]
+      },
+      "uuid": "19224496-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jay Gibble"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/mikesiko?lang=es"
+        ]
+      },
+      "uuid": "192245e0-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Michael Sikorski"
+    },
+	{
+      "description": "Author on the Pentestlab.blog site. Typically publishes information regarding offensive security methods.",
+      "meta": {
+        "refs": [
+          "https://pentestlab.blog/author/worm1984/",
+		  "https://twitter.com/netbiosX?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ]
+      },
+      "uuid": "19224716-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "netbiosX"
+    },
+	{
+      "description": "Francesca Fionda is an investigative journalist based in Vancouver reporting for Attention Control. The podcast explores misinformation, technology and data during our upcoming federal election. She has also worked as a data reporter at the community-driven journalism organization, The Discourse and on investigative teams at Global News and the CBC.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/francescafionda",
+		  "https://www.ctvnews.ca/more/ctvnews-ca-team/francesca-fionda-1.4571483"
+        ]
+      },
+      "uuid": "9190dfb2-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Francesca Fionda"
+    },
+	{
+      "description": "Staff journalist for news site HAARETZ.",
+      "meta": {
+        "refs": [
+          "https://www.haaretz.com/misc/writers/WRITER-1.4968424",
+		  "https://www.linkedin.com/company/haaretz/"
+        ]
+      },
+      "uuid": "9190e318-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Hagai Amit"
+    },
+	{
+      "description": "Ionut Ilascu is freelancing as a technology writer with a focus on all things cybersecurity. The topics he writes about include malware, vulnerabilities, exploits and security defenses, as well as research and innovation in information security. His work has been published by Bitdefender, Netgear, The Security Ledger and Softpedia.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/author/ionut-ilascu/"
+        ]
+      },
+      "uuid": "9190e46c-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Ionut Ilascu"
+    },
+	{
+      "description": "Author group as an extension of the Symantec Security Blog.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/"
+        ]
+      },
+      "uuid": "9190e62e-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Symantec Security Response Attack Investigation Team"
+    },
+	{
+      "description": "Author and blogger with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/the-latest-on-bluekeep-and-dejablue.html",
+		  "https://blog.talosintelligence.com/2018/12/Netgate-pfsense-command-injection-vulns.html",
+		  "https://blogs.cisco.com/security/talos/firepower-encrypted-rdp-detection"
+        ]
+      },
+      "uuid": "0fa70a6a-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brandon Stultz"
+    },
+	{
+      "description": "Holger is a long term security enthusiast started to work for Siemens as a telecommunication specialist building Hicom PBX systems and later networking systems. After passing the CCIE exam, he moved to Cisco 16 years ago, worked as penetration tester and as security consultant supporting large customer projects. His last job role at Cisco was leading the Cyber Security Technical Advisor Group in EMEA. Holger is now working as a Security Researcher in TALOS. He did security research in a couple of sectors like botnet technology, sandbox bypassing, VPN MITM and developed several tools for penetration testing.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/holger-unterbrink-5aa8501/",
+		  "https://twitter.com/hunterbr72?lang=en",
+		  "https://blogs.cisco.com/author/holgerunterbrink"
+        ]
+      },
+      "uuid": "0fa70f10-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Holger Unterbrink"
+    },
+	{
+      "description": "Edmund Brumaghin is a threat researcher with Cisco Talos. He has spent the past several years protecting environments across a number of different industries including nuclear energy, financial services, etc. He currently spends his days hunting malware and analyzing various threats as they emerge and continue to evolve. In his time with Talos he has researched ransomware and other threats being distributed using various attack vectors. He has also worked to expose large scale malware campaigns and raise awareness of security threats observed across the threat landscape.",
+      "meta": {
+        "refs": [
+          "https://blogs.cisco.com/author/edmundbrumaghin?dtid=osscdc000283"
+        ]
+      },
+      "uuid": "0fa71096-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Edmund Brumaghin"
+    },
+	{
+      "description": "Charlie Osborne is a cybersecurity journalist and photographer who writes for ZDNet and CNET from London.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/charlie-osborne/",
+		  "@SecurityCharlie",
+		  "https://twitter.com/SecurityCharlie"
+        ]
+      },
+      "uuid": "0fa711cc-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Charlie Osborne"
+    },
+	{
+      "description": "Author name for research published by the anti-virus company ESET.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/author/esetresearch/",
+		  "https://www.welivesecurity.com"
+        ]
+      },
+      "uuid": "0fa7130c-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "ESET Research"
+    },
+	{
+      "description": "Security researcher with both Checkpoint and Kaspersky.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/_marklech_?lang=en",
+		  "https://www.linkedin.com/in/mark-lechtik-18977ba7/"
+        ],
+		"synonyms": [
+		"@_marklech_"
+		]
+      },
+      "uuid": "bc5753e0-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Mark Lechtik"
+    },
+	{
+      "description": "Security research with Checkpoint.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/NadavGrossman",
+		  "https://www.linkedin.com/in/nadav-grossman/"
+        ],
+		"synonyms": [
+		"@NadavGrossman"
+		]
+      },
+      "uuid": "bc575656-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Nadav Grossman"
+    },
+	{
+      "description": "CTU researchers use a wide variety of commercial and proprietary toolsets to produce, analyze and validate threat intelligence. CTU researchers perform thorough analysis to discover new attack techniques and threats.",
+      "meta": {
+        "refs": [
+          "https://www.secureworks.com/counter-threat-unit",
+		  "https://www.secureworks.com"
+        ]
+      },
+      "uuid": "bc5757be-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Secureworks COUNTER THREAT UNIT RESEARCH TEAM"
+    },
+	{
+      "description": "Pseudonym used for publications from security vendor Fortinet.",
+      "meta": {
+        "refs": [
+          "https://www.fortinet.com/blog/search.html?author=FortiGuard+SE+Team",
+		  "https://www.fortinet.com",
+		  "https://www.facebook.com/fortinet",
+		  "https://www.twitter.com/fortinet"
+        ]
+      },
+      "uuid": "bc575908-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "FortiGuard SE Team"
+    },
+	{
+      "description": "Vitali oversees subject matter expert collection efforts and leads a technical team that specializes in researching and investigating complex cyber attacks, network intrusions, data breaches, and hacking incidents. Vitali is a strong believer in responsible disclosure and has helped enterprises and government agencies deliver indictments of many high-profile investigations involving data breaches, network intrusions, ransomware, computer hacking, intellectual property theft, credit card fraud, money laundering, and identity theft. Previously, Vitali enjoyed a rewarding career as a Cybercrime Investigative Analyst for the New York County District Attorney's Office.",
+      "meta": {
+        "refs": [
+          "https://www.vkremez.com",
+		  "https://www.linkedin.com/in/vitali-kremez-021905104/",
+		  "https://twitter.com/VK_Intel"
+        ],
+		"synonyms": [
+		"@VK_Intel"
+		]
+      },
+      "uuid": "bc575ba6-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Vitali Kremez"
+    },
+	{
+      "description": "Author and researcher with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/watchbog-patching.html"
+        ]
+      },
+      "uuid": "e502cbc8-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Luke DuCharme"
+    },
+	{
+      "description": "Author and researcher with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/watchbog-patching.html",
+		  "https://www.linkedin.com/in/linkedinpaullee/"
+        ]
+      },
+      "uuid": "e502ce48-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Paul Lee"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/johnlerytriunfante/"
+        ]
+      },
+      "uuid": "e502cfa6-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Johnlery Triunfante"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell/"
+        ]
+      },
+      "uuid": "e502d348-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Earle Earnshaw"
+    },
+	{
+      "description": "Security Researcher at Zscaler.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/sahil-antil/"
+        ]
+      },
+      "uuid": "0a277f1e-db1f-11e9-8a34-2a2ae2dbcce4",
+      "value": "Sahil Antil"
+    },
+	{
+      "description": "Malware Analyst and IDS signature creation. ",
+      "meta": {
+        "refs": [
+          "https://twitter.com/rohit_secres",
+		  "https://www.linkedin.com/in/rohit-chaturvedi-a5b161141/"
+        ]
+      },
+      "uuid": "0a278360-db1f-11e9-8a34-2a2ae2dbcce4",
+      "value": "Rohit Chaturvedi"
+    },
+	{
+      "description": "Reporter at International Business Times, Singapore Edition. A highly motivated and result driven individual. Studied about Films,Editing (Print & Electronic), Article Writing. Passionate about learning and utilizing own skills to make a positive difference to the organization or in society. Excellent communication skills (verbal & written), interpersonal skills, decision making skills, result oriented and a team player.",
+      "meta": {
+        "refs": [
+          "https://www.ibtimes.sg/reporters/bhaswati-guha-majumder",
+		  "https://www.linkedin.com/in/bhaswati-guha-majumder-85399586/",
+		  "https://www.instagram.com/bhaswatiguha/?hl=en"
+        ]
+      },
+      "uuid": "0a2784dc-db1f-11e9-8a34-2a2ae2dbcce4",
+      "value": "Bhaswati Guha Majumder"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.caller.com/staff/arodriguez/alexandria-rodriguez/",
+		  "Alexandria.Rodriguez@Caller.com",
+		  "https://twitter.com/caller_ar?lang=en"
+        ]
+      },
+      "uuid": "0a278626-db1f-11e9-8a34-2a2ae2dbcce4",
+      "value": "Alexandria Rodriguez"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/skidmap-linux-malware-uses-rootkit-capabilities-to-hide-cryptocurrency-mining-payload/"
+        ]
+      },
+      "uuid": "54e8fdce-db20-11e9-9d36-2a2ae2dbcce4",
+      "value": "Augusto Remillano II"
+    },
+	{
+      "description": "Senior Cyber Defense Researcher at Trend Micro.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/jakuburbanec",
+		  "https://www.linkedin.com/in/urbanec/"
+        ]
+      },
+      "uuid": "54e9004e-db20-11e9-9d36-2a2ae2dbcce4",
+      "value": "Jakub Urbanec"
+    },
+	{
+      "description": "Aaron Riley is a Cyber Threat Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
+      "meta": {
+        "refs": [
+          "https://cofense.com/author/aaron-riley/",
+		  "https://www.linkedin.com/in/aaron-riley-8a110994/",
+		  "https://twitter.com/MalwarePI"
+        ]
+      },
+      "uuid": "54e9035a-db20-11e9-9d36-2a2ae2dbcce4",
+      "value": "Aaron Riley"
+    },
+	{
+      "description": "Senior Reporter at WTVY.",
+      "meta": {
+        "refs": [
+          "https://www.wtvy.com/content/bios/303464831.html",
+		  "https://www.linkedin.com/in/ken-curtis-15a94645/",
+		  "https://twitter.com/dothannewsdean?lang=en"
+        ]
+      },
+      "uuid": "54e904b8-db20-11e9-9d36-2a2ae2dbcce4",
+      "value": "Ken Curtis"
+    },
+	{
+      "description": "Author for The Star Online, an online news resource.",
+      "meta": {
+        "refs": [
+          "https://www.thestar.com.my/news/nation/2019/09/19/health-ministry-investigating-leak-of-patient-records"
+        ]
+      },
+      "uuid": "54e905ee-db20-11e9-9d36-2a2ae2dbcce4",
+      "value": "Sira Habibu"
+    },
+	{
+      "description": "Threat Researcher at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/ccevans002",
+		  "https://www.linkedin.com/in/christopher-evans-981693a8/"
+        ]
+      },
+      "uuid": "2a980572-db22-11e9-9d36-2a2ae2dbcce4",
+      "value": "Christopher Evans"
+    },
+	{
+      "description": "Head of Strategic Intelligence at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/chinahanddave?lang=en",
+		  "https://www.linkedin.com/in/davidliebenberg/"
+        ]
+      },
+      "uuid": "2a9807e8-db22-11e9-9d36-2a2ae2dbcce4",
+      "value": "David Liebenberg"
+    },
+	{
+      "description": "Research Engineer at Talos at Cisco",
+      "meta": {
+        "refs": [
+          "https://twitter.com/colingrady?lang=en",
+		  "https://www.linkedin.com/in/colingrady/"
+        ]
+      },
+      "uuid": "2a980946-db22-11e9-9d36-2a2ae2dbcce4",
+      "value": "Colin Grady"
+    },
+	{
+      "description": "Threat Researcher for Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/security_will?lang=en",
+		  "https://www.linkedin.com/in/william-largent-7338484/"
+        ]
+      },
+      "uuid": "2a980a86-db22-11e9-9d36-2a2ae2dbcce4",
+      "value": "William Largent"
+    },
+	{
+      "description": "Threat Researcher for Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/jaesonschultz?lang=en"
+        ]
+      },
+      "uuid": "2a980d2e-db22-11e9-9d36-2a2ae2dbcce4",
+      "value": "Jaeson Schultz"
+    },
+	{
+      "description": "Author on SenseCy research blog.",
+      "meta": {
+        "refs": [
+          "https://blog.sensecy.com/author/cyberthreatinsider/"
+        ]
+      },
+      "uuid": "b5ef11e6-db23-11e9-8a34-2a2ae2dbcce4",
+      "value": "cyberthreatinsider"
+    },
+	{
+      "description": "Mark Niesse covers Georgia government. He previously covered DeKalb government and Atlanta schools. Before coming to the AJC, he worked for The Associated Press and The Daily Report.",
+      "meta": {
+        "refs": [
+          "https://www.ajc.com/online/contacts/mark-niesse/yctfV8fQZo5oBMSdp19ZQJ/",
+		  "https://twitter.com/markniesse",
+		  "mark.niesse@ajc.com"
+        ]
+      },
+      "uuid": "b5ef14ca-db23-11e9-8a34-2a2ae2dbcce4",
+      "value": "Mark Niesse"
+    },
+	{
+      "description": "Arielle Kass covers Fulton County. She joined The Atlanta Journal-Constitution in 2010 and has covered Gwinnett County, housing, money and retail business at the AJC. Arielle, an Emory graduate, has also worked at Crain’s Cleveland Business and the Gwinnett Daily Post.",
+      "meta": {
+        "refs": [
+          "https://www.ajc.com/online/contacts/arielle-kass/jXuWnR8R6ZmxR1NFC9YI0K/",
+		  "akass@ajc.com"
+        ]
+      },
+      "uuid": "b5ef1902-db23-11e9-8a34-2a2ae2dbcce4",
+      "value": "Arielle Kass"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/carl-maverick-pascual-66aa18116/"
+        ]
+      },
+      "uuid": "b5ef1a92-db23-11e9-8a34-2a2ae2dbcce4",
+      "value": "Carl Maverick Pascual"
+    },
+	{
+      "description": "Lawrence Abrams is the creator and owner of BleepingComputer.com. Lawrence’s area of expertise includes security, malware research, ransomware, and computer forensics. Lawrence Abrams is also a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and technical editor for Rootkits for Dummies.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/author/lawrence-abrams/",
+		  "https://twitter.com/lawrenceabrams?lang=en",
+		  "https://www.linkedin.com/in/lawrence-abrams-43074a10/"
+        ]
+      },
+      "uuid": "b5ef1bf0-db23-11e9-8a34-2a2ae2dbcce4",
+      "value": "Lawrence Abrams"
+    },
+	{
+      "description": "Ophir Harpaz is a security researcher at Guardicore Labs. At work, she delves into Cyber attacks targeting data centers and analyzes malware. BSc in Computer Science and Linguistics from Tel Aviv University.",
+      "meta": {
+        "refs": [
+          "https://www.guardicore.com/author/ophir/",
+		  "https://begin.re",
+		  "https://ophirharpaz.github.io",
+		  "https://twitter.com/ophirharpaz?lang=en",
+		  "ophirharpaz@gmail.com"
+        ]
+      },
+      "uuid": "806ffc0a-ce68-11e9-a32f-2a2ae2dbcce4",
+      "value": "Ophir Harpaz"
+    },
+	{
+      "description": "Daniel is a security research expert at Guardicore, where he is responsible for tracking the latest security intelligence, including detailed analysis of hackers' methodologies, for use in implementing advanced countermeasures into Guardicore products and services. Daniel has over 10 years of cyber security research experience. Prior to Guardicore, he served as a captain in the Israel Defense Forces (IDF).",
+      "meta": {
+        "refs": [
+          "https://www.guardicore.com/author/danielgguardicore-com/",
+		  "danielg@guardicore.com"
+        ]
+      },
+      "uuid": "806ffc0a-ce68-11e9-a32f-2a2ae2dbcce4",
+      "value": "Daniel Goldberg"
+    },
+	{
+      "description": "Andrew Weber is a digital reporter for KUT News. A graduate of St. Edward's University with a degree in English, Andrew has previously interned with The Texas Tribune, The Austin American-Statesman and KOOP Radio.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/andrew-weber-b8ba8b6a/",
+		  "https://twitter.com/England_Weber?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ]
+      },
+      "uuid": "15b723ce-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Andrew Webber"
+    },
+	{
+      "description": "Security researcher affiliated with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mac-malware-that-spoofs-trading-app-steals-user-information-uploads-it-to-website/"
+        ]
+      },
+      "uuid": "15b7291e-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Luis Magisa"
+    },
+	{
+      "description": "Malware Analyst and Security Researcher presso Cybaze SpA",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/luigi-martire/?originalSubdomain=it",
+		  "https://www.yoroi.company/about-us.html"
+        ]
+      },
+      "uuid": "15b72aa4-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Luigi Martire"
+    },
+	{
+      "description": "Security researcher with Yoroi.",
+      "meta": {
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+		  ""
+        ]
+      },
+      "uuid": "15b72bf8-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Luca Mella"
+    },
+	{
+      "description": "Flexible and adaptive professional, currently working in journalism. I'm fast to pick up new areas and ways of working, and I bring with me a talent for breaking complex issues down to their essentials, as well as a solid working knowledge of technological and engineering matters. In news terms I am a general duties reporter specialising in technology, court reporting, business and defence and security matters.",
+      "meta": {
+        "refs": [
+          "gcorfield@theregister.co.uk",
+		  "@GazTheJourno",
+		  "https://www.linkedin.com/in/gareth-corfield-61952439/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "15b72d38-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Gareth Corfield"
+    },
+	{
+      "description": "General Assignment Reporter at Gillette News Record.",
+      "meta": {
+        "refs": [
+          "jgallardo@gillettenewsrecord.net",
+		  "https://www.linkedin.com/in/jonathan-gallardo-27061495/"
+        ]
+      },
+      "uuid": "15b72e6e-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Jonathan Gallardo"
+    },
+	{
+      "description": "Malware Analyst with Cofense.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/milo-salvia/?originalSubdomain=uk",
+		  "https://twitter.com/milosalvia"
+        ]
+      },
+      "uuid": "15b72fa4-dd78-11e9-8a34-2a2ae2dbcce4",
+      "value": "Milo Salvia"
+    },
+	{
+      "description": "Devin Fehely is an Emmy award winning general assignment reporter/MMJ for KPIX 5. Before joining KPIX 5 Devin was at WXIA in Atlanta where spent four years reporting. During that time, he won numerous awards, including three Murrow Awards and the Gannett Foundation Award for Innovation in Investigative Journalism from the National Association of Black Journalists (NABJ) for a series of stories that helped free a wrongfully convicted man. Prior to WXIA, Devin reported for WAGA in Atlanta, WDSU in New Orleans, KSBW in Monterey and KNTV in San Jose. Devin is a native of San Jose. He studied journalism at San Jose State and received a BA in psychology from Brown University. Devin makes his home in San Jose.",
+      "meta": {
+        "refs": [
+          "https://sanfrancisco.cbslocal.com/personality/devin-fehely/",
+		  "https://twitter.com/DevinFehely",
+		  "dfehely@cbs.com"
+        ]
+      },
+      "uuid": "4fef96cc-e1f4-11e9-81b4-2a2ae2dbcce4",
+      "value": "Devin Fehely"
+    },
+	{
+      "description": "Security researcher and penetration tester for anti-virus vendor Kaspersky.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/konstantin-zykov-86b19239/?locale=en_US"
+        ]
+      },
+      "uuid": "4fef9988-e1f4-11e9-81b4-2a2ae2dbcce4",
+      "value": "Konstantin Zykov"
+    },
+	{
+      "description": "Warren Mercer joined Talos coming from a Network Security background, having worked for previous vendors and the financial sector. Focusing on Security Research and Threat Intelligence, Warren finds himself in the deep, dark and dirty areas of the Internet and enjoys the thrill of the chase when it comes to tracking down new malware and the bad guys. Warren has spent time in various roles throughout his career ranging from NOC engineer to leading teams of other passionate security engineers. Warren enjoys keeping up to speed with all the latest security trends, gadgets and gizmos; anything that makes his life easier in work helps. Warren holds various professional certifications from SANS, ISC2, Microsoft, Citrix, and of course Cisco.",
+      "meta": {
+        "refs": [
+          "https://blogs.cisco.com/author/warrenmercer",
+		  "https://www.linkedin.com/in/warrenmercer/?originalSubdomain=uk",
+		  "https://twitter.com/securitybeard?lang=en"
+        ]
+      },
+      "uuid": "4fef9adc-e1f4-11e9-81b4-2a2ae2dbcce4",
+      "value": "Warren Mercer"
+    },
+	{
+      "description": "Security researcher and penetration tester with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/r00tbsd?lang=en"
+        ]
+      },
+      "uuid": "4fef9c1c-e1f4-11e9-81b4-2a2ae2dbcce4",
+      "value": "Paul Rascagneres"
+    },
+	{
+      "description": "Security researcher and penetration tester with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jungsoo-jason-an-b114525b/",
+		  "https://twitter.com/JSSJHJTS"
+        ]
+      },
+      "uuid": "4fef9d52-e1f4-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jungsoo An"
+    },
+	{
+      "description": "Senior journalist at Stuff.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/pullarstrecker?lang=en",
+		  "https://www.linkedin.com/in/tomp1/?originalSubdomain=nz"
+        ]
+      },
+      "uuid": "a1c8b364-e1f6-11e9-81b4-2a2ae2dbcce4",
+      "value": "Tom Pullar-Strecker"
+    },
+	{
+      "description": "Journalist at The Sun, UK.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/rpattthesun?lang=en"
+        ]
+      },
+      "uuid": "a1c8b648-e1f6-11e9-81b4-2a2ae2dbcce4",
+      "value": "Rob Pattinson"
+    },
+	{
+      "description": "Intelligence analyst focusing on cyber intelligence with years experience conducting intelligence research, enhanced due diligence, and digital threat analysis. I have worked extensively in the private sector conducting work on behalf of the United States foremost corporations and financial service institutions. Through this work I have developed an expertise in proprietary database platforms regarding both public records research and intelligence monitoring. Advanced focus on strategic and tactical intelligence production to identify cyber threats including APT adversaries in Asia, the Middle East, and other emerging geographic subsets. Historic concentrations included commodity threats and vulnerability tracking. Additionally I am have been employed as a Fine art theft and recovery expert having assisted both the FBI and the Southern District of New York in fine art recovery - recovering over 60 works of art by the foremost post-war and contemporary American Artists exceeding $11 million USD. Through several years of professional experience working in the foremost American art galleries as an art dealer I have developed an expertise and familiarity with Fine Art that facilitates locating and recovering rare artworks that were the subject of theft or fine art fraud. I have been published in mainstream media outlets regarding illegal Fine Art and Antiquity trafficking as it relates to terrorist funding networks and support activism for protecting the cultural patrimony of ancient civilizations in conflict zones.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/michael-august-raggi-532b3939/"
+        ]
+      },
+      "uuid": "a1c8b85a-e1f6-11e9-81b4-2a2ae2dbcce4",
+      "value": "Michael Raggi"
+    },
+	{
+      "description": "Generic name used to describe various researcher from the security vendor Proofpoint.",
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight"
+        ]
+      },
+      "uuid": "a1c8ba94-e1f6-11e9-81b4-2a2ae2dbcce4",
+      "value": "The Proofpoint Threat Insight Team"
+    },
+	{
+      "description": "Generic name used to describe various journalists from the local Fox News affiliate WFXR, VA.",
+      "meta": {
+        "refs": [
+          "https://www.wfxrtv.com"
+        ]
+      },
+      "uuid": "a1c8bda0-e1f6-11e9-81b4-2a2ae2dbcce4",
+      "value": "WFXRtv.com Digital Desk"
+    },
+	{
+      "description": "Security researcher at Intezer Labs.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/omri9741?lang=en"
+        ]
+      },
+      "uuid": "1d886b60-e1f8-11e9-81b4-2a2ae2dbcce4",
+      "value": "Omri Ben Bassat"
+    },
+	{
+      "description": "Ambitious, logical and autodidact security enthusiast with years of thorough hands-on experience with malware research, hunting operations, computer and network forensics, incident response and almost everything security related. Core member of radare2 and a maintainer of Cutter. The author of megabeets.net, a security blog focused on making advanced security topics accessible for free. Security Researcher at security vendor Check Point.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/itay-cohen/?originalSubdomain=il",
+		  "https://twitter.com/megabeets_?lang=en",
+		  "https://github.com/ITAYC0HEN"
+        ]
+      },
+      "uuid": "1d886e9e-e1f8-11e9-81b4-2a2ae2dbcce4",
+      "value": "Itay Cohen"
+    },
+	{
+      "description": "VP of Research at Intezer.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/ari-eitan-04b47b70/?originalSubdomain=il",
+		  "https://twitter.com/arieitan?lang=en"
+        ]
+      },
+      "uuid": "1d8872cc-e1f8-11e9-81b4-2a2ae2dbcce4",
+      "value": "Ari Eitan"
+    },
+	{
+      "description": "Security Researcher at Intezer.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/paul-litvak-7b35a7133/?originalSubdomain=il",
+		  "https://twitter.com/polarply"
+        ]
+      },
+      "uuid": "1d88742a-e1f8-11e9-81b4-2a2ae2dbcce4",
+      "value": "Paul Litvak"
+    },
+	{
+      "description": "Reporter and photographer for the Woodstock Sentinel Review. Also guest journalist at the London Free Press.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/kathleen-saylors-2761486a/?originalSubdomain=ca",
+		  "https://twitter.com/kathleenatwsr"
+        ]
+      },
+      "uuid": "1d887560-e1f8-11e9-81b4-2a2ae2dbcce4",
+      "value": "Kathleen Saylors"
+    },
+	{
+      "description": "Generic journalist name given to authors at the online cybersecurity news site E Hacking News.",
+      "meta": {
+        "refs": [
+          "https://www.ehackingnews.com"
+        ]
+      },
+      "uuid": "ac026eda-e1f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "E Hacking News"
+    },
+	{
+      "description": "Journalist for IT News Africa.",
+      "meta": {
+        "refs": [
+          "https://muckrack.com/fundi-maseko"
+        ]
+      },
+      "uuid": "ac027146-e1f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Fundisiwe Maseko"
+    },
+	{
+      "description": "Security research with Proof Point Threat Insight Team.",
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/blog"
+        ]
+      },
+      "uuid": "ac02729a-e1f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Bryan Campbell"
+    },
+	{
+      "description": "Security Research Engineer at Proofpoint. Professional experience includes UNIX administration, scripting, and malware analysis. Studies a mix of digital forensics and network forensics, and dynamic malware analysis for the past two years. Avid C, C++, Python programmer for PoC programs to develop student talent in RCE methodology.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jeremy-hedges-62940b49/"
+        ]
+      },
+      "uuid": "ac027628-e1f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jeremy Hedges"
+    },
+	{
+      "description": "Sergiu Gatlan is a reporter who covered cybersecurity, technology, Apple, Google, and a few other topics at Softpedia for more than a decade.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/author/sergiu-gatlan/",
+		  "sergiu@bleepingcomputer.com",
+		  "https://twitter.com/serghei"
+        ]
+      },
+      "uuid": "ac027786-e1f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Sergui Gatlan"
+    },
+	{
+      "description": "Generic author name given to a group of researchers with the cybersecurity vendor ClearSky.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/ClearskySec",
+		  "https://www.clearskysec.com/blog/"
+        ]
+      },
+      "uuid": "a5afdcf0-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "ClearSky Research Team"
+    },
+	{
+      "description": "Research Scientist at ICSI; Research Fellow at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/bill-marczak-46535456/",
+		  "https://twitter.com/billmarczak?lang=en"
+        ]
+      },
+      "uuid": "c876c7f8-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Bill Marczak"
+    },
+	{
+      "description": "Research fellow at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/cyberclues?lang=en"
+        ]
+      },
+      "uuid": "c876ca78-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Adam Hulcoop"
+    },
+	{
+      "description": "Author at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://citizenlab.ca/author/etiennemaynier/"
+        ]
+      },
+      "uuid": "c876cbe0-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Etienne Maynier"
+    },
+	{
+      "description": "Author at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://citizenlab.ca/author/bahrabdulrazzak/"
+        ]
+      },
+      "uuid": "c876cd2a-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Bahr Abdul Razzak"
+    },
+	{
+      "description": "Author at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://citizenlab.ca/author/masashi/"
+        ]
+      },
+      "uuid": "c876ce60-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Masashi Crete-Nishihata"
+    },
+	{
+      "description": "Research and applied work in cybersecurity, cyber warfare and disinformation. Author at Citizen Lab.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/jsrailton?lang=en",
+		  "https://www.linkedin.com/in/johnscottrailton/"
+        ]
+      },
+      "uuid": "c876cfa0-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "John Scott-Railton"
+    },
+	{
+      "description": "Director, The Citizen Lab, Munk School of Global Affairs & Public Policy, University of Toronto. Ron Deibert, (OOnt, PhD, University of British Columbia) is Professor of Political Science, and Director of the Citizen Lab at the Munk School of Global Affairs & Public Policy, University of Toronto. The Citizen Lab is an interdisciplinary laboratory focusing on research, development, and high-level strategic policy and legal engagement at the intersection of information and communication technologies, human rights, and global security. He was a co-founder and a principal investigator of the OpenNet Initiative (2003-2014) and Information Warfare Monitor (2003-2012) projects. Deibert was one of the founders and (former) VP of global policy and outreach for Psiphon, one of the world’s leading digital censorship circumvention services. Deibert has published numerous articles, chapters, and books on issues related technology, media, and world politics. He was one of the authors of the landmark Tracking Ghostnet (2009) and the Shadows in the Cloud (2010) reports, which documented two separate major global cyber espionage networks, and the Great Cannon report, which documented a new offensive cyber weapon co-located with China’s Great Firewall. He is a co-editor of three major volumes with MIT Press, Access Denied, The practice and policy of Internet Filtering (2008), Access Controlled: The shaping of power, rights, and rule in cyberspace (2010), and Access Contested: Security, Identity, and Resistance in Asian Cyberspace (2011). He is the author of Parchment, Printing, and Hypermedia Communications in World Order Transformation (New York Columbia University Press, 1997), and Black Code Inside the Battle for Cyberspace (Signal McClelland & Stewart Random House, 2013). Deibert presently serves on the editorial boards of the journals International Political Sociology, Security Dialogue, Explorations in Media Ecology, Review of Policy Research, Journal of Global Security Studies, and Astropolitics.  He has served on the advisory boards of Access Now, Privacy International, and is currently on the advisory boards of PEN Canada and the Design4Democracy Coalition, the technical advisory groups of Amnesty International and Human Rights Watch, and the Steering Committee of the World Movement for Democracy.",
+      "meta": {
+        "refs": [
+          "https://deibert.citizenlab.ca",
+		  "https://deibert.citizenlab.ca/bio/",
+		  "https://twitter.com/rondeibert?lang=en"
+        ]
+      },
+      "uuid": "c876d2a2-e1fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Ron Deibert"
+    },
+	{
+      "description": "Senior Security Researcher at Palo Alto Networks. Experienced Security Researcher with a demonstrated history of working in the computer and network security industry. Skilled in Security Research in Reverse Engineering, Embedded Operating Systems, Python, Web Applications, and Network Security. ",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/aviv-sasson-b5875915b/"
+        ]
+      },
+      "uuid": "8a66c802-e60e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Aviv Sasson"
+    },
+	{
+      "description": "Generic name for malware authors who blog at Malware Must Die.",
+      "meta": {
+        "refs": [
+          "https://blog.malwaremustdie.org"
+        ]
+      },
+      "uuid": "8a66ca5a-e60e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Malware Must Die"
+    },
+	{
+      "description": "The Fidelis Threat Research team is comprised of expert security researchers whose sole focus is generating accurate and actionable intelligence to better secure customers. Together, they represent over 75 years of collective experience in the space of research and intelligence.",
+      "meta": {
+        "refs": [
+          "https://www.fidelissecurity.com/threatgeek/author/threat-research-team/"
+        ]
+      },
+      "uuid": "8a66cc3a-e60e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Fidelis Threat Research Team"
+    },
+	{
+      "description": "Security researcher with over 10 years of experience focused on malware and reverse engineering.",
+      "meta": {
+        "refs": [
+          "https://forums.juniper.net/t5/user/viewprofilepage/user-id/165266"
+        ]
+      },
+      "uuid": "8a66cd98-e60e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Paul Kimayong"
+    },
+	{
+      "description": "Generic name used for journalist postings from WIBC Indianapolis, Indiana.",
+      "meta": {
+        "refs": [
+          "https://www.wibc.com"
+        ]
+      },
+      "uuid": "8a66d04a-e60e-11e9-81b4-2a2ae2dbcce4",
+      "value": "WIBC News Room"
+    },
+	{
+      "description": "Christoper Kiefer is a threat hunt and intelligence analyst for the IBM X-Force IRIS team. Christopher has 7 years of information security experience (IS). Christopher holds the following certifications: GCIA, GWAPT, GCFE, GCFA, GNFA, GREM, and Security Plus.",
+      "meta": {
+        "refs": [
+          "https://securityintelligence.com/author/christopher-kiefer/",
+		  "https://www.linkedin.com/in/ckiefer1/"
+        ]
+      },
+      "uuid": "b9f10d2a-e60f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Christopher Kiefer"
+    },
+	{
+      "description": "Limor Kessem, CISO, CISM, is one of the top cyber intelligence experts at IBM Security. She is a seasoned security advocate, public speaker, and a prolific author of cybersecurity thought leadership. Helping security professionals understand and manage business risk, Limor is considered an authority on emerging cybercrime threats. With her unique position at the intersection of multiple research teams at IBM, and her fingers on the pulse of current day threats, Limor covers the full spectrum of information security trends affecting consumers, corporations, and the industry as a whole. On the social side, Limor tweets security items as @iCyberFighter and is an avid Brazilian Jiu Jitsu fighter.",
+      "meta": {
+        "refs": [
+          "https://securityintelligence.com/author/limor-kessem/",
+		  "https://twitter.com/icyberfighter",
+		  "https://www.linkedin.com/in/limor-sylvie-kessem/"
+        ]
+      },
+      "uuid": "b9f10fe6-e60f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Limor Kessem"
+    },
+	{
+      "description": "Threat Intelligence Analyst at Palo Alto Networks",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/r0bf4lc/",
+		  "https://twitter.com/r0bf4lc?lang=en"
+        ]
+      },
+      "uuid": "b9f11464-e60f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Robert Falcone"
+    },
+	{
+      "description": "Security researcher and author with Palo Alto Unit 42.",
+      "meta": {
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/brittany-ash/"
+        ]
+      },
+      "uuid": "b9f115c2-e60f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Brittany Ash"
+    },
+	{
+      "description": "Sam Varghese has been writing for iTWire since 2006, a year after the site came into existence. For nearly a decade thereafter, he wrote mostly about free and open source software, based on his own use of this genre of software. Since May 2016, he has been writing across many areas of technology. He has been a journalist for nearly 40 years in India (Indian Express and Deccan Herald), the UAE (Khaleej Times) and Australia (Daily Commercial News (now defunct) and The Age). His personal blog is titled Irregular Expression.",
+      "meta": {
+        "refs": [
+          "https://www.itwire.com/journalist/sam-varghese.html",
+		  "https://sams-blog.com"
+        ]
+      },
+      "uuid": "b9f116ee-e60f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Sam Varghese"
+    },
+	{
+      "description": "Technology, Security, and Blockchain Enthusiast. Security Engineering & Research at Confiant.",
+      "meta": {
+        "refs": [
+          "https://blog.confiant.com/@eliya_54207",
+		  "https://twitter.com/eliyastein?lang=en",
+		  "https://www.linkedin.com/in/eliya-stein-74b9007/"
+        ]
+      },
+      "uuid": "80e02186-e87d-11e9-81b4-2a2ae2dbcce4",
+      "value": "Eliya Stein"
+    },
+	{
+      "description": "Generic author name used by the WRAL News Desk.",
+      "meta": {
+        "refs": [
+          "https://www.wral.com"
+        ]
+      },
+      "uuid": "80e024ec-e87d-11e9-81b4-2a2ae2dbcce4",
+      "value": "WRAL News Desk"
+    },
+	{
+      "description": "Staff Malware Reverse Engineer at FireEye",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/controlling-ida-pro-with-voice-control-software.html",
+		  "https://twitter.com/jtbennettjr?lang=en",
+		  "https://www.linkedin.com/in/james-bennett-87b0b15/"
+        ]
+      },
+      "uuid": "80e026a4-e87d-11e9-81b4-2a2ae2dbcce4",
+      "value": "James T. Bennett"
+    },
+	{
+      "description": "Senior Security Researcher at Confiant.",
+      "meta": {
+        "refs": [
+          "https://blog.confiant.com/@taha.karim",
+		  "https://twitter.com/lordx64",
+		  "https://twitter.com/tephracore",
+		  "https://t.co/kbQqJJHCfs?amp=1"
+        ]
+      },
+      "uuid": "80e027e4-e87d-11e9-81b4-2a2ae2dbcce4",
+      "value": "Taha Karim"
+    },
+	{
+      "description": "Cybersecurity Research & Development at Netskope.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/abhinavbom?lang=en",
+		  "https://www.linkedin.com/in/abhinavbom/"
+        ]
+      },
+      "uuid": "80e02a3c-e87d-11e9-81b4-2a2ae2dbcce4",
+      "value": "Abhinav Singh"
+    },
+	{
+      "description": "Security researcher who has done work for the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/head-fake-tackling-disruptive-ransomware-attacks.html"
+        ]
+      },
+      "uuid": "c4a6f43e-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Bryce Abdo"
+    },
+	{
+      "description": "Senior Consultant at Mandiant",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/k-s-brandan/",
+		  "https://twitter.com/4real_br4nd4n?lang=en"
+        ]
+      },
+      "uuid": "c4a6f79a-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Brandan Schondorfer"
+    },
+	{
+      "description": "Security researcher who has done work for the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/head-fake-tackling-disruptive-ransomware-attacks.html"
+        ]
+      },
+      "uuid": "c4a6f902-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Kareem Hamdan"
+    },
+	{
+      "description": "Manager, Intelligence Analysis at FireEye, Inc.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/kimberly-goody-8486327b/"
+        ]
+      },
+      "uuid": "c4a6fae2-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Kimberly Goody"
+    },
+	{
+      "description": "Security researcher who has done work for the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/head-fake-tackling-disruptive-ransomware-attacks.html"
+        ]
+      },
+      "uuid": "c4a6fcae-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Noah Klapprodt"
+    },
+	{
+      "description": "Security researcher who has done work for the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/head-fake-tackling-disruptive-ransomware-attacks.html"
+        ]
+      },
+      "uuid": "c4a6ff06-e87e-11e9-81b4-2a2ae2dbcce4",
+      "value": "Matt Bromiley"
+    },
+	{
+      "description": "Crane Hassold is the Sr. Director of Threat Research at Agari, where he leads an intelligence team responsible for researching enterprise-focused phishing threats. Prior to moving to the private sector in 2015, Crane served as an Analyst at the FBI for more than 11 years, providing strategic and tactical analytical support to cyber, financial crime, and violent crime cases.",
+      "meta": {
+        "refs": [
+          "https://www.agari.com/email-security-blog/author/crane-hassold/",
+		  "https://www.linkedin.com/in/cranehassold/",
+		  "https://twitter.com/cranehassold?lang=en"
+        ]
+      },
+      "uuid": "f7a3a728-e87f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Crane Hassold"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity news site E Hacking News.",
+      "meta": {
+        "refs": [
+          "https://www.ehackingnews.com"
+        ]
+      },
+      "uuid": "f7a3a976-e87f-11e9-81b4-2a2ae2dbcce4",
+      "value": "E Hacking News"
+    },
+	{
+      "description": "Jeff is the managing editor of The Avast Blog. He is a former Wall Street Journal tech reporter, the former head of digital media for Wikipedia, the former editor of The Salesforce Blog, and former senior writer and editor for McAfee. He also once met Johnny Cash.",
+      "meta": {
+        "refs": [
+          "https://blog.avast.com/author/jeff-elder",
+		  "https://twitter.com/JeffElder"
+        ]
+      },
+      "uuid": "f7a3aac0-e87f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jeff Elder"
+    },
+	{
+      "description": "Security Researcher at Prevailion.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/dadamitis"
+        ]
+      },
+      "uuid": "f7a3abec-e87f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Danny Adamitis"
+    },
+	{
+      "description": "Security Researcher at Prevailion.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/fuzziphy"
+        ]
+      },
+      "uuid": "f7a3ad18-e87f-11e9-81b4-2a2ae2dbcce4",
+      "value": "Matt Thompson"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity vendor McAfee.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/category/other-blogs/mcafee-labs/"
+        ]
+      },
+      "uuid": "06d15dac-e881-11e9-81b4-2a2ae2dbcce4",
+      "value": "McAfee Labs"
+    },
+	{
+      "description": "I have been with Patch since 2014 in varying roles and currently cover breaking news across our network. I graduated with a bachelor's degree in journalism and a minor in French from Indiana University in Bloomington.",
+      "meta": {
+        "refs": [
+          "https://patch.com/users/ferozedhanoa",
+		  "@FADhanoa",
+		  "https://twitter.com/fadhanoa?lang=en",
+		  "feroze.dhanoa@patch.com"
+        ]
+      },
+      "uuid": "06d16144-e881-11e9-81b4-2a2ae2dbcce4",
+      "value": "Feroze Dhanoa"
+    },
+	{
+      "description": "Reporter at ZDNet. London, Greater London, United Kingdom",
+      "meta": {
+        "refs": [
+          "https://twitter.com/daphneleprince?lang=en",
+		  "https://www.linkedin.com/in/daphne-leprince-ringuet/",
+		  "https://daphstelegraph.wordpress.com/"
+        ],
+		"synonyms": [
+		"@daphneleprince"
+		]
+      },
+      "uuid": "118b6dac-f0f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Daphne Leprince-Ringuet"
+    },
+	{
+      "description": "John Fokker is Head of Cyber Investigations for McAfee Advanced Threat Research. Prior to joining McAfee, he worked at the National High Tech Crime Unit (NHTCU), the Dutch national police unit dedicated to investigating advanced forms of cybercrime. Within NHTCU he led the data science group, which focused on threat intelligence research. During his career he has supervised numerous large-scale cybercrime investigations and takedowns. Fokker is also one of the cofounders of the NoMoreRansom Project. He started his career with the Netherlands Police Agency as a digital forensics investigator within a task force against organized crime. Before joining the national police, he served in the special operations and counterterrorism group of the Royal Netherlands Marine Corps.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/john-fokker/",
+		  "https://twitter.com/john_fokker?lang=en"
+        ],
+		"synonyms": [
+		"@John_Fokker"
+		]
+      },
+      "uuid": "118b7018-f0f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "John Fokker"
+    },
+	{
+      "description": "Christiaan Beek, lead scientist and sr. principal engineer is part of Mcafee’s Office of the CTO leading strategic threat intelligence research within Mcafee. He coordinates and leads passionately the research in advanced attacks, plays a key-role in cyberattack take-down operations and participates in the NoMoreRansom project. In previous roles, Beek was Director of Threat Intelligence in McAfee Labs and Director of Incident Response and Forensics at Foundstone, McAfee’s forensic services arm. At Foundstone, he led a team of forensic specialists in Europe, the Middle East, and Africa during major breaches. Beek develops threat intelligence strategy, designs threat intelligence systems, performs malware and forensic analysis, pentesting and coaches security teams around the globe. He is a passionate cybercrime specialist who has developed training courses, workshops, and presentations. He speaks regularly at conferences, including BlackHat, RSA, BlueHat and Botconf. Besides conferences, he is also frequently teaching at universities, Police Academies and public schools to recruit, mentor and train the next generation of cyber-security specialists. Beek contributed to the best-selling security book Hacking Exposed and has two patents pending.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/christiaan-beek/",
+		  "https://twitter.com/christiaanbeek?lang=en",
+		  "https://www.linkedin.com/in/christiaanbeek/"
+        ],
+		"synonyms": [
+		"@ChristiaanBeek"
+		]
+		
+      },
+      "uuid": "118b716c-f0f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Christiaan Beek"
+    },
+	{
+      "description": "Threat Intelligence Lead Engineer and GREM at Certego",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/matteo-lodi-689a6a107/",
+		  "https://twitter.com/matte_lodi"
+        ],
+		"synonyms": [
+		"@matte_lodi"
+		]
+      },
+      "uuid": "118b74be-f0f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Matteo Lodi"
+    },
+	{
+      "description": "Cyber Security Analyst at Certego Correggio, Emilia-Romagna, Italy",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/marco-bompani-09562590",
+		  "https://twitter.com/BompaniMarco"
+        ],
+		"synonyms": [
+		"@BompaniMarco"
+		]
+      },
+      "uuid": "118b7612-f0f9-11e9-81b4-2a2ae2dbcce4",
+      "value": "Marco Bompani"
+    },
+	{
+      "description": "Threat Intelligence Analyst at Unit 42, Palo Alto Networks.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/alexanderhinchliffe/"
+        ]
+      },
+      "uuid": "cd05d36e-f0fa-11e9-81b4-2a2ae2dbcce4",
+      "value": "Alex Hinchliffe"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company Sophos.",
+      "meta": {
+        "refs": [
+          "https://news.sophos.com/en-us/author/rajeshnataraj/"
+        ]
+      },
+      "uuid": "cd05d5e4-f0fa-11e9-81b4-2a2ae2dbcce4",
+      "value": "Rajesh Nataraj"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company Sophos.",
+      "meta": {
+        "refs": [
+          "https://news.sophos.com/en-us/author/vikas-singh/"
+        ]
+      },
+      "uuid": "cd05d95e-f0fa-11e9-81b4-2a2ae2dbcce4",
+      "value": "Vikas Singh"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company Sophos.",
+      "meta": {
+        "refs": [
+          "https://news.sophos.com/en-us/author/michael-wood/"
+        ]
+      },
+      "uuid": "cd05daee-f0fa-11e9-81b4-2a2ae2dbcce4",
+      "value": "Michael Wood"
+    },
+	{
+      "description": "Security Content Analyst & Researcher at Trusteer (IBM)",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/itzik-chimino-8b719967/?locale=de_DE"
+        ]
+      },
+      "uuid": "cd05dcec-f0fa-11e9-81b4-2a2ae2dbcce4",
+      "value": "Itzik Chimino"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity company Malwarebytes.",
+      "meta": {
+        "refs": [
+          "https://blog.malwarebytes.com/"
+        ]
+      },
+      "uuid": "df6677c4-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Malwarebytes Threat Intelligence Team"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/10/vuln-spotlight-schneider-electric-m580-part-2-sept-2019.html"
+        ]
+      },
+      "uuid": "df667a3a-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jared Rittle"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/pat_r10t?lang=en"
+        ],
+		"synonyms": [
+		"@pat_r10t"
+		]
+      },
+      "uuid": "df667b84-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Patrick DeSantis"
+    },
+	{
+      "description": "Staff writer. Adam is a web curator at PhillyVoice.com. He grew up on the other side of Pennsylvania but was raised versed in Philadelphia culture. He’s a graduate of Drexel University, where he studied journalism and history. Adam has written for the Inquirer, Daily News, Philadelphia magazine, and NCAA.com. He used to write about sports (and still does now and then) but is also interested in environmental policy and very fresh produce.",
+      "meta": {
+        "refs": [
+          "https://www.phillyvoice.com/staff-contributors/adam-hermann/",
+		  "adam@phillyvoice.com",
+		  "https://www.linkedin.com/in/adamwhermann",
+		  "https://twitter.com/AdamWHermann"
+        ],
+		"synonyms": [
+		"@adamwhermann"
+		]
+      },
+      "uuid": "df667d64-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Adam Hermann"
+    },
+	{
+      "description": "Online Reporter at MailOnline.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/henry-martin-75264a171/"
+        ]
+      },
+      "uuid": "df667eb8-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Henry Martin"
+    },
+	{
+      "description": "Reporter at Stuff Auckland, New Zealand",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/hannah-martin-713559115/"
+        ]
+      },
+      "uuid": "df66821e-f0fb-11e9-81b4-2a2ae2dbcce4",
+      "value": "Hannah Martin"
+    },
+	{
+      "description": "Security researcher and OSINT author. Global Red Team Lead at Mandiant, a FireEye Company.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/evan-pena-06a9221b/"
+        ]
+      },
+      "uuid": "3ac10836-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Evan Pena"
+    },
+	{
+      "description": "Security researcher and OSINT author. Consultant at Mandiant Washington D.C. Metro Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/casey-erikson-770a9228/"
+        ]
+      },
+      "uuid": "3ac10aac-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Casey Erikson"
+    },
+	{
+      "description": "Security researcher and OSINT author. Director, Advanced Practices at FireEye.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/itsreallynick?lang=en"
+        ],
+		"synonyms": [
+		"@ItsReallyNick"
+		]
+      },
+      "uuid": "a3a4e566-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Nick Carr"
+    },
+	{
+      "description": "Security researcher and OSINT author. Security Consultant at Mandiant.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/joshua-yoder-0652686b/"
+        ]
+      },
+      "uuid": "a3a4e7a0-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Josh Yoder"
+    },
+	{
+      "description": "Security researcher and OSINT author. Security Consultant at Mandiant.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/scott-runnels-19127747/",
+		  "https://twitter.com/srunnels?lang=en",
+		  "http://ryesecurity.blogspot.com/"
+        ],
+		"synonyms": [
+		"@srunnels"
+		]
+      },
+      "uuid": "a3a4e8ea-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Scott Runnels"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with cybersecurity company FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html"
+        ]
+      },
+      "uuid": "a3a4ebe2-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jeremy Kennelly"
+    },
+	{
+      "description": "Security research and OSINT author. Senior Cyber Threat Intelligence Analyst at FireEye, Inc.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jordan-nuce-82329460/"
+        ]
+      },
+      "uuid": "a3a4ed36-f0fd-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jordan Nuce "
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with cybersecurity company FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/leveraging-apple-remote-desktop-for-good-and-evil.html"
+        ]
+      },
+      "uuid": "c8e7d120-f0fe-11e9-81b4-2a2ae2dbcce4",
+      "value": "Jake Nicastro"
+    },
+	{
+      "description": "Security researcher and OSINT author. William Ballenthin is a reverse engineer on FireEye’s FLARE team. He enjoys developing novel investigative techniques for incident responders. Recently, William has researched function similarity metrics, implemented file system drivers, and reverse engineered Android malware. Prior to seven years at Mandiant FireEye, he graduated from Columbia University with a degree in Computer Science. Specialties - Reverse Engineering, Incident Response, Malware Analysis, Computer Forensics, Programming in C, Programming in Python.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/ballenthin/",
+		  "http://www.williballenthin.com/",
+		  "https://twitter.com/williballenthin?lang=en"
+        ],
+		"synonyms": [
+		"@williballenthin"
+		]
+      },
+      "uuid": "c8e7d382-f0fe-11e9-81b4-2a2ae2dbcce4",
+      "value": "Willi Ballenthin"
+    },
+	{
+      "description": "Malware Analyst at the anti-virus company ESET.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/zuzana_hromcova?lang=en"
+        ],
+		"synonyms": [
+		"@zuzana_hromcova"
+		]
+      },
+      "uuid": "c8e7d71a-f0fe-11e9-81b4-2a2ae2dbcce4",
+      "value": "Zuzana Hromcová"
+    },
+	{
+      "description": "Malware Researcher at ESET. Montreal, Canada Area",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/author/marc-etienne/",
+		  "https://www.linkedin.com/in/marc-etienne/?originalSubdomain=ca",
+		  "https://twitter.com/marc_etienne_?lang=en"
+        ],
+		"synonyms": [
+		"@marc_etienne_"
+		]
+      },
+      "uuid": "82f8539e-01c3-11ea-8d71-362b9e155667",
+      "value": "Marc-Etienne M.Leveille"
+    },
+	{
+      "description": "A malware researcher at ESET Montreal. Always eager to learn and understand how things work. After a PhD in Physics, I worked on x-ray imaging as a research associate at CEA-Leti (Grenoble, France) and on real-time simulation as a C++ software developper at OPAL-RT technologies (Montreal, CA). I studied astroparticles and subatomic physics in Grenoble where I defended my PhD thesis on the search for ultra-high energy neutrinos at the Pierre Auger Observatory within the Laboratoire de Physique Subatomique et de Cosmologie (CNRS IN2P3).",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/mathieu-tartare-6b256954/?originalSubdomain=ca",
+		  "https://mathieutartare.net/",
+		  "https://twitter.com/mathieutartare",
+		  "contact@mathieutartare.net"
+        ],
+		"synonyms": [
+		"@mathieutartare"
+		]
+      },
+      "uuid": "82f85664-01c3-11ea-8d71-362b9e155667",
+      "value": "Mathieu Tartare"
+    },
+	{
+      "description": "Marco Ramilli is an international cyber security expert, entrepreneur, writer and white-hat hacker. Ramilli received his PhD on Information Communication Technology from University of Bologna joining University of California at Davis. During his PhD program he worked for US Government (NIST) where he performed intensive researches on Malware evasion techniques and penetration testing methodologies in order to improve USA electronic voting systems. In 2015 he decided to found Yoroi, an innovative Managed Cyber Security Service Provider.",
+      "meta": {
+        "refs": [
+          "https://marcoramilli.com/",
+		  "marco@marcoramilli.com",
+		  "https://twitter.com/Marco_Ramilli",
+		  "https://www.linkedin.com/in/marcoramilli/"
+        ],
+		"synonyms": [
+		"@Marco_Ramilli"
+		]
+      },
+      "uuid": "82f857a4-01c3-11ea-8d71-362b9e155667",
+      "value": "Marco Ramilli"
+    },
+	{
+      "description": "Security Researcher Adam Kozy came to CrowdStrike, bringing forward several years of experience in security and threat intelligence analysis from the government sector where he conducted research at both a tactical and strategic level. He is a recognized cultural, political, and security pundit on East Asia and speaks Japanese and Mandarin. He has delivered presentations and research findings to a variety of key cybersecurity influencers, including senior government officials and private-sector CEOs. He has also been a guest lecturer at several universities on cyber intelligence and recently presented at BlackHat USA on Chinese cyber weapons and monitoring capabilities.",
+      "meta": {
+        "refs": [
+          "https://www.crowdstrike.com/blog/author/kozy/"
+        ]
+      },
+      "uuid": "82f85c4a-01c3-11ea-8d71-362b9e155667",
+      "value": "Adam Kozy"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/lowkey-hunting-for-the-missing-volume-serial-id.html"
+        ]
+      },
+      "uuid": "82f85da8-01c3-11ea-8d71-362b9e155667",
+      "value": "Tobias Krueger"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity vendor Anomali.",
+      "meta": {
+        "refs": [
+          "https://www.anomali.com/blog"
+        ]
+      },
+      "uuid": "64679928-01c6-11ea-8d71-362b9e155667",
+      "value": "Anomali Labs"
+    },
+	{
+      "description": "Jay has extensive research experience in DevOps security, Blockchain security, and edge computing. His current research focuses on reducing the attack surface of container platforms, e.g., Docker, Docker Swarm, Kubernetes. He also led the Blockchain research in Accenture Cyber Tech Lab. In the past, he worked on optimizing the security, energy-efficiency, and load-balancing for mobile cloud. Jay has authored and co-authored 12 conference and journal papers.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jaychen2015/"
+        ]
+      },
+      "uuid": "64679c16-01c6-11ea-8d71-362b9e155667",
+      "value": "Jay Chen"
+    },
+	{
+      "description": "Security Analyst at Check Point Software Technologies, Ltd.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/gilmansharov/?originalSubdomain=il",
+		  "https://twitter.com/GMansharov"
+        ],
+		"synonyms": [
+		"@GMansharov"
+		]
+      },
+      "uuid": "64679d60-01c6-11ea-8d71-362b9e155667",
+      "value": "Gil Mansharov"
+    },
+	{
+      "description": "Reverse Engineer – Check Point Software Technologies, Ltd.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/alexey-bukhteyev-77a67817b/"
+        ]
+      },
+      "uuid": "64679f36-01c6-11ea-8d71-362b9e155667",
+      "value": "Alexey Bukhteyev"
+    },
+	{
+      "description": "Senior Malware Researcher at the cybersecurity vendor ESET.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/anton-cherepanov-b8653276/?originalSubdomain=sk",
+		  "https://twitter.com/cherepanov74"
+        ],
+		"synonyms": [
+		"@cherepanov74"
+		]
+      },
+      "uuid": "6467a08a-01c6-11ea-8d71-362b9e155667",
+      "value": "Anton Cherepanov"
+    },
+	{
+      "description": "General author name used by the cybersecurity vendor Advanced Intelligence, LLC.",
+      "meta": {
+        "refs": [
+          "https://www.advanced-intel.com/",
+		  "https://twitter.com/IntelAdvanced",
+		  "https://www.linkedin.com/company/advanced-intelligence-llc/"
+        ]
+      },
+      "uuid": "9c485fe2-0227-11ea-a69e-362b9e155667",
+      "value": "Advanced Intelligence, LLC (AdvIntel)"
+    },
+	{
+      "description": "Eric is based out of the Orange County Register and reports on crime and public safety for the Southern California News Group. He was born in the Philippines, was raised in the San Fernando Valley and has previously written about immigration, poverty and entertainment for Inquirer.net and The Asian Journal. He enjoys photographing concerts and sporting events or jamming on one of his personally customized guitars in his free time. His inspirations include Kurt Vonnegut, Tom Wolfe, Ronnie James Dio and Randy (The Macho Man) Savage.",
+      "meta": {
+        "refs": [
+          "https://www.sbsun.com/author/eric-licas/",
+		  "elicas@scng.com",
+		  "https://www.linkedin.com/in/eric-anthony-licas-323a1b11a/",
+		  "https://ericlicas.wordpress.com/"
+        ]
+      },
+      "uuid": "9c48623a-0227-11ea-a69e-362b9e155667",
+      "value": "Eric Licas"
+    },
+	{
+      "description": "Managing Editor at Flathead Beacon and Flathead Living. Kalispell, Montana",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/myers-reece-b6581212/",
+		  "https://twitter.com/MyersReece"
+        ],
+		"synonyms": [
+		"@MyersReece"
+		]
+      },
+      "uuid": "9c486384-0227-11ea-a69e-362b9e155667",
+      "value": "Myers Reece"
+    },
+	{
+      "description": "With a degree in networking and a degree in information technology, Jessica has a background in the tech field for almost two decades. Being fluent in Spanish has steered her to Latin America where she worked with various businesses in the private sector, hunting IOC and monitoring the threat landscape for any new variants. Jessica thrives on being detailed and thorough in all aspects of life, and is well aligned with McAfee’s mission and future.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/jessica-saavedra-morales/",
+		  "https://www.linkedin.com/in/jessica-saavedramorales-a58373177/"
+        ]
+      },
+      "uuid": "9c48660e-0227-11ea-a69e-362b9e155667",
+      "value": "Jessica Saavedra-Morales"
+    },
+	{
+      "description": "Ryan specializes in threat intelligence in the Asia Pacific Region where he conducts cutting edge research into new adversarial techniques and adapts those to better monitor the threat landscape. He formerly was the Chief Corporate Evangelist at Panda Security, where he managed the US strategic response for new and emerging threats. Ryan is widely recognized as a security & cloud computing expert throughout the country.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/ryan-sherstobitoff/",
+		  "https://twitter.com/r_sherstobitoff",
+		  "https://www.linkedin.com/in/ryan-sherstobitoff-a1334a5/"
+        ],
+		"synonyms": [
+		"@R_Sherstobitoff"
+		]
+      },
+      "uuid": "9c486744-0227-11ea-a69e-362b9e155667",
+      "value": "Ryan Sherstobitoff "
+    },
+	{
+      "description": "Technical Lead and Senior Security Researcher - Talos Security at Cisco. Lisbon Area, Portugal. ",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/vitor-ventura/?originalSubdomain=pt"
+        ]
+      },
+      "uuid": "f35b8c58-0229-11ea-9a9f-362b9e155667",
+      "value": "Vitor Ventura"
+    },
+	{
+      "description": "Outreach Researcher at Cisco Talos Intelligence Group. Vacaville, California. Experienced Data Security Analyst with a demonstrated history of working in the banking industry. OSCP certified. Skilled in Vulnerability Management, Incident Response, Networking, Reverse Engineering and Penetration Testing.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/chris-neal-3079b0161/"
+        ]
+      },
+      "uuid": "f35b8eb0-0229-11ea-9a9f-362b9e155667",
+      "value": "Chris Neal"
+    },
+	{
+      "description": "Information technology professional and generally cool, educated in computer forensics, with experience in incident response, systems administration, signals analysis and intelligence program management. Interests include rippin pcap, malware analysis, threat intel, adversary methods, crowdsourcing, terrestrial RF, and emergency management.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/stevenumiller/",
+		  "https://github.com/stvemillertime",
+		  "https://twitter.com/stvemillertime"
+        ],
+		"synonyms": [
+		"@stvemillertime"
+		]
+      },
+      "uuid": "f35b9004-0229-11ea-9a9f-362b9e155667",
+      "value": "Steve Miller"
+    },
+	{
+      "description": "Sr. Applied Security Researcher at FireEye, Inc. Greater Los Angeles Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/evan-reese-161b2653/",
+		  "https://twitter.com/reesespcres?lang=en"
+        ],
+		"synonyms": [
+		"@reesespcres"
+		]
+      },
+      "uuid": "f35b913a-0229-11ea-9a9f-362b9e155667",
+      "value": "Evan Reese"
+    },
+	{
+      "description": "Senior Security Researcher with the cybersecurity vendor Malwarebytes.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/jeromesegura"
+        ],
+		"synonyms": [
+		"@jeromesegura"
+		]
+      },
+      "uuid": "f35b9266-0229-11ea-9a9f-362b9e155667",
+      "value": "Jerome Segura"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor Malwarebytes.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/agnosis88"
+        ],
+		"synonyms": [
+		"@agnosis88"
+		]
+      },
+      "uuid": "f35b95fe-0229-11ea-9a9f-362b9e155667",
+      "value": "William Tsing"
+    },
+	{
+      "description": "Threat Research and Intelligence at Malwarebytes. Saint Petersburg, Florida.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/adam-thomas-7800b35/",
+		  "https://twitter.com/adamt5Six"
+        ],
+		"synonyms": [
+		"@adamt5Six"
+		]
+      },
+      "uuid": "f35b9752-0229-11ea-9a9f-362b9e155667",
+      "value": "Adam Thomas"
+    },
+	{
+      "description": "Sr. Director, Head of Threat Research at Cybereason. London, United Kingdom.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/assaf-dahan-a98226108/"
+        ]
+      },
+      "uuid": "813c7292-022c-11ea-8d71-362b9e155667",
+      "value": "Assaf Dahan"
+    },
+	{
+      "description": "Security analyst at Cybereason. Israel.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/lior-rochberger/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "813c74f4-022c-11ea-8d71-362b9e155667",
+      "value": "Lior Rochberger"
+    },
+	{
+      "description": "Software Engineer affiliated with cybersecurity vendor Symantec. Singapore.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/may-ying-tee-36145167/?originalSubdomain=sg"
+        ]
+      },
+      "uuid": "813c76f2-022c-11ea-8d71-362b9e155667",
+      "value": "May Ying Tee"
+    },
+	{
+      "description": "Senior Principal Security and Softerware Engineer at Symantec. Singapore.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/tommy-dong-8513881a/?originalSubdomain=sg"
+        ]
+      },
+      "uuid": "813c78f0-022c-11ea-8d71-362b9e155667",
+      "value": "Tommy Dong"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research.html/category/etc/tags/fireeye-blog-authors/niall-errity"
+        ]
+      },
+      "uuid": "813c7bb6-022c-11ea-8d71-362b9e155667",
+      "value": "Niall Errity"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor FireEye.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research.html/category/etc/tags/fireeye-blog-authors/eoin-jennings"
+        ]
+      },
+      "uuid": "813c7d14-022c-11ea-8d71-362b9e155667",
+      "value": "Eoin Jennings"
+    },
+	{
+      "description": "Cyber Security Analyst and Threat Hunter. Manassas, Virginia.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/farzin-maghsoudi/"
+        ]
+      },
+      "uuid": "813c7ec2-022c-11ea-8d71-362b9e155667",
+      "value": "Farzin Maghsoudi"
+    },
+	{
+      "description": "Raymond Leong is a Principal Threat Analyst on FireEye Advanced Practices Team. In this capacity, Raymond tracks high-priority nation-state cyber threats across FireEye's dataset to include Mandiant incident responses, Managed Defense investigations and internal and external telemetry. Prior to joining FireEye, Raymond was a Senior Cyber Threat Analyst at DoD and a Task Force Officer with the FBI focused on nation-state cyber threats. He is also a current Army Reserve Cyber Officer.",
+      "meta": {
+        "refs": [
+          "https://summit.fireeye.com/learn/speakers/raymond-leong.html"
+        ]
+      },
+      "uuid": "cc43a2fe-0328-11ea-9a9f-362b9e155667",
+      "value": "Raymond Leong"
+    },
+	{
+      "description": "Principal Threat Analyst at FireEye, Inc.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/mrdanperez?lang=en",
+		  "https://www.linkedin.com/in/daniel-perez-b91aa029/"
+        ],
+		"synonyms": [
+		"@MrDanPerez"
+		]
+      },
+      "uuid": "cc43a556-0328-11ea-9a9f-362b9e155667",
+      "value": "Dan Perez"
+    },
+	{
+      "description": "Staff Reverse Engineer at FireEye, Inc. Greater Denver Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/tylerdean/",
+		  "https://twitter.com/spresec"
+        ],
+		"synonyms": [
+		"@spresec"
+		]
+      },
+      "uuid": "cc43a6a0-0328-11ea-9a9f-362b9e155667",
+      "value": "Tyler Dean"
+    },
+	{
+      "description": "Generic pen name for cybersecurity vendor Kryptos Logic blog.",
+      "meta": {
+        "refs": [
+          "https://www.kryptoslogic.com/blog/",
+		  "https://twitter.com/kryptoslogic",
+		  "https://www.linkedin.com/company/kryptos-logic/",
+		  "https://github.com/kryptoslogic"
+        ]
+      },
+      "uuid": "fc3cb604-0962-11ea-9a9f-362b9e155667",
+      "value": "Kryptos Logic"
+    },
+	{
+      "description": "Cybersecurity researcher and owner of OpenSecurity.global.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/GossiTheDog",
+		  "https://opensecurity.global/",
+		  "https://doublepulsar.com/"
+        ]
+      },
+      "uuid": "fc3cb85c-0962-11ea-9a9f-362b9e155667",
+      "value": "Kevin Beaumont"
+    },
+	{
+      "description": "Generic pen name for cybersecurity vendor Kaspersky.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Kaspersky_Lab"
+        ]
+      },
+      "uuid": "fc3cb9b0-0962-11ea-9a9f-362b9e155667",
+      "value": "Kaspersky AMR (Anti-Malware Research)"
+    },
+	{
+      "description": "Generic pen name for cybersecurity vendor Kaspersky.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Kaspersky_Lab"
+        ]
+      },
+      "uuid": "fc3cbcda-0962-11ea-9a9f-362b9e155667",
+      "value": "Kaspersky GReAT (Global Research & Analysis Team)"
+    },
+	{
+      "description": "Suweera is a Principal Security Research Analyst on NETSCOUT's ASERT Team. Her duties are researching and evaluating the threat landscape to identify prevalent malware campaigns. This includes reversing engineering malicious code and their communication protocols; to develop policies for attack mitigation and automating internal threat analysis systems. Prior to NETSCOUT, she worked at Google with the SafeBrowsing team where she investigated and reverse-engineered large scale unwanted software. Suweera has over 8 years of experience in Malware Analysis and also occasionally takes part in CTF competitions.",
+      "meta": {
+        "refs": [
+          "https://www.netscout.com/blog/asert/suweera-de-souza",
+		  "https://twitter.com/0x737577?lang=en",
+		  "https://medium.com/@0xd0cf11e",
+		  "https://github.com/0xd0cf11e"
+        ],
+		"synonyms": [
+		"@0x737577",
+		"Cafe Babe",
+		"@0xd0cf11e"
+		]
+      },
+      "uuid": "fc3cbe56-0962-11ea-9a9f-362b9e155667",
+      "value": "Suweera De Souza"
+    },
+	{
+      "description": "Hoang Giang is a member of the Threat Engineering team in Symantec’s Security Technology and Response (STAR) division. He analyzes and creates protection for various threats and monitors for botnets and APT attacks.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet"
+        ]
+      },
+      "uuid": "36736648-0967-11ea-8d71-362b9e155667",
+      "value": "Nguyen Hoang Giang"
+    },
+	{
+      "description": "Eduardo is a member of Symantec’s Security Technology and Response (STAR) team who are focused on providing round-the-clock protection against current and future cyber threats.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet"
+        ]
+      },
+      "uuid": "36736936-0967-11ea-8d71-362b9e155667",
+      "value": "Eduardo Altares"
+    },
+	{
+      "description": "Hasib is a member of Symantec’s Security Technology and Response (STAR) team who are focused on providing round-the-clock protection against current and future cyber threats.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet"
+        ]
+      },
+      "uuid": "36736b84-0967-11ea-8d71-362b9e155667",
+      "value": "Muhammad Hasib Latif"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cyber security vendor McAfee.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/buran-ransomware-the-evolution-of-vegalocker/"
+        ]
+      },
+      "uuid": "36736cce-0967-11ea-8d71-362b9e155667",
+      "value": "Alexandre Mundo"
+    },
+	{
+      "description": "Threat Researcher at McAfee, Advanced Threat Research, CTA member, and Director CyberSecurity. Barcelona Area, Spain.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/seifreed/?locale=en_US",
+		  "https://twitter.com/seifreed?lang=en"
+        ],
+		"synonyms": [
+		"@Seifreed"
+		]
+      },
+      "uuid": "36736fa8-0967-11ea-8d71-362b9e155667",
+      "value": "Marc Rivero Lopez"
+    },
+	{
+      "description": "Security researcher. Currently working in Trend Micro. Previous job is an electrical engineer worked in SGCC.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/elli0tn0phacker"
+        ],
+		"synonyms": [
+		"@elli0tn0phacker"
+		]
+      },
+      "uuid": "2bac3346-0d65-11ea-8d71-362b9e155667",
+      "value": "Elliot Cao"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse/"
+        ]
+      },
+      "uuid": "2bac35a8-0d65-11ea-8d71-362b9e155667",
+      "value": "William Gamazo Sanchez"
+    },
+	{
+      "description": "Threat Researcher at Trend Micro. Amsterdam Area, Netherlands.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/feike-hacquebord-33902b5/"
+        ]
+      },
+      "uuid": "2bac386e-0d65-11ea-8d71-362b9e155667",
+      "value": "Feike Hacquebord"
+    },
+	{
+      "description": "Senior Threat Researcher at Trend Micro, Author of Securite et espionnage informatique - connaissance de la menace APT.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/cpernet/",
+		  "http://bl0g.cedricpernet.net/",
+		  "https://twitter.com/cedricpernet?lang=en"
+        ],
+		"synonyms": [
+		"@cedricpernet"
+		]
+      },
+      "uuid": "2bac39b8-0d65-11ea-8d71-362b9e155667",
+      "value": "Cedric Pernet"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/"
+        ]
+      },
+      "uuid": "2bac3ada-0d65-11ea-8d71-362b9e155667",
+      "value": "Kenney Lu"
+    },
+	{
+      "description": "Outreach Researcher - Cisco Talos. Croatia.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/vanja-svajcer-9517423/",
+		  "https://twitter.com/vanjasvajcer"
+        ],
+		"synonyms": [
+		"@vanjasvajcer"
+		]
+      },
+      "uuid": "a099be98-0d66-11ea-8d71-362b9e155667",
+      "value": "Vanja Svajcer"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/"
+        ]
+      },
+      "uuid": "a099c104-0d66-11ea-8d71-362b9e155667",
+      "value": "Gabrielle Joyce Mabutas"
+    },
+	{
+      "description": "Reporter and Video Journalist at Global News. Winnipeg, Canada Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/amber-mcguckin-10a29574/",
+		  "https://twitter.com/globalnewsamber?lang=en"
+        ],
+		"synonyms": [
+		"@GlobalNewsAmber"
+		]
+      },
+      "uuid": "532b1fe6-0fb7-11ea-8d71-362b9e155667",
+      "value": "Amber McGuckin"
+    },
+	{
+      "description": "Brian Rokos writes about public safety issues such as policing, criminal justice, scams, how law affects public safety, firefighting tactics and wildland fire danger. He has also covered the cities of San Bernardino, Corona, Norco, Lake Elsinore, Perris, Canyon Lake and Hemet. Before that he supervised reporters and worked as a copy editor. For some reason, he enjoys movies where the Earth is threatened with extinction.",
+      "meta": {
+        "refs": [
+          "brokos@scng.com",
+		  "https://www.dailybulletin.com/author/brian-rokos/",
+		  "https://twitter.com/Brian_Rokos"
+        ],
+		"synonyms": [
+		"@Brian_Rokos"
+		]
+      },
+      "uuid": "532b22c0-0fb7-11ea-8d71-362b9e155667",
+      "value": "Brian Rokos"
+    },
+	{
+      "description": "Security Researcher at Trustwave. Auckland, New Zealand.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/diana-lopera-39087159/",
+		  "https://twitter.com/dianalopera"
+        ]
+      },
+      "uuid": "532b2464-0fb7-11ea-8d71-362b9e155667",
+      "value": "Diana Lopera"
+    },
+	{
+      "description": "Security Researcher at Intezer. United States.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/ignacio-sanmillan-1aa244b8/",
+		  "https://twitter.com/ulexec?lang=en"
+        ],
+		"synonyms": [
+		"Nacho Sanmillan",
+		"@ulexec"
+		]
+      },
+      "uuid": "c966dc76-1152-11ea-8d71-362b9e155667",
+      "value": "Ignacio Sanmillan"
+    },
+	{
+      "description": "Blog author for affiliated with the cybersecurity vendor Netlab 360.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/author/alex/"
+        ]
+      },
+      "uuid": "c966e446-1152-11ea-8d71-362b9e155667",
+      "value": "Alex Turing"
+    },
+	{
+      "description": "Network Security Researcher affiliated with the cybersecurity vendor Netlab 360.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/author/yegenshen/",
+		  "https://twitter.com/zom3y3"
+        ],
+		"synonyms": [
+		"zom3y3",
+		"@zom3y3"
+		]
+      },
+      "uuid": "c966e7ac-1152-11ea-8d71-362b9e155667",
+      "value": "Test OSRS-OSINT-Source-Authors Value"
+    },
+	{
+      "description": "Malware Analyst at G DATA CyberDefense AG. Cologne Area, Germany.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/karsten-hahn-73782570/",
+		  "https://twitter.com/struppigel?lang=en"
+        ],
+		"synonyms": [
+		"@struppigel"
+		]
+      },
+      "uuid": "c966e928-1152-11ea-8d71-362b9e155667",
+      "value": "Karsten Hahn"
+    },
+	{
+      "description": "Security research affilitated with the cybersecurity vendor PaloAlto Networks and Unit42.",
+      "meta": {
+        "refs": [
+          "https://blog.paloaltonetworks.com/author/bduncan/"
+        ]
+      },
+      "uuid": "c966ea5e-1152-11ea-8d71-362b9e155667",
+      "value": "Brad Duncan"
+    },
+	{
+      "description": "Malware Analyst at COFENSE. Birmingham, Alabama Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/max-gannon-34b775111/"
+        ]
+      },
+      "uuid": "8684219a-1155-11ea-8d71-362b9e155667",
+      "value": "Max Gannon"
+    },
+	{
+      "description": "Security research and author affiliated with the cybersecurity vendor Cofense.",
+      "meta": {
+        "refs": [
+          "https://cofense.com/raccoon-stealer-found-rummaging-past-symantec-microsoft-gateways/"
+        ]
+      },
+      "uuid": "868425f0-1155-11ea-8d71-362b9e155667",
+      "value": "Alan Rainer"
+    },
+	{
+      "description": "Generic author name used for the blog affiliated with the cybersecurity vendor Cofense.",
+      "meta": {
+        "refs": [
+          "https://cofense.com/raccoon-stealer-found-rummaging-past-symantec-microsoft-gateways/"
+        ]
+      },
+      "uuid": "868427da-1155-11ea-8d71-362b9e155667",
+      "value": "Cofense Intelligence"
+    },
+	{
+      "description": "Security researcher and author affiliated with the anit-virus vendor ESET. Joined ESET as a Junior Malware Analyst in 2017. Studying Applied Computer Science at the Comenius University in Bratislava.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/author/vhrcka/"
+        ]
+      },
+      "uuid": "86842a50-1155-11ea-8d71-362b9e155667",
+      "value": "Vladislav Hrcka"
+    },
+	{
+      "description": "Generic author name affiliated with the technology vendor Microsoft and the Microsoft cybersecurity blog.",
+      "meta": {
+        "refs": [
+          "https://www.microsoft.com/security/blog/"
+        ]
+      },
+      "uuid": "86842ba4-1155-11ea-8d71-362b9e155667",
+      "value": "Microsoft Defender ATP Research Team"
+    },
+	{
+      "description": "Security researcher affiliated with the technology vendor Microsoft and the Microsoft cybersecurity blog.",
+      "meta": {
+        "refs": [
+          "https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/"
+        ]
+      },
+      "uuid": "86842e4c-1155-11ea-8d71-362b9e155667",
+      "value": "Hazel Kim"
+    },
+	{
+      "description": "Senior Editor at Threatpost. Springfield, Massachusetts Area.",
+      "meta": {
+        "refs": [
+          "Tara.Seals@Kaspersky.com",
+		  "https://www.linkedin.com/in/tara-seals-763a2155/",
+		  "https://twitter.com/wirelesswench?lang=en"
+        ],
+		"synonyms": [
+		"@wirelesswench"
+		]
+      },
+      "uuid": "775734c8-153d-11ea-8d71-362b9e155667",
+      "value": "Tara Seals"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity vendor ThreatFabric.",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs.html"
+        ]
+      },
+      "uuid": "17878afa-16ca-11ea-8d71-362b9e155667",
+      "value": "ThreatFabric"
+    },
+	{
+      "description": "Threat Researcher at RiskIQ. San Francisco Bay Area.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/ydklijnsma/",
+		  "https://blog.0x3a.com/",
+		  "https://twitter.com/ydklijnsma"
+        ],
+		"synonyms": [
+		"@ydklijnsma"
+		]
+      },
+      "uuid": "17878da2-16ca-11ea-8d71-362b9e155667",
+      "value": "Yonathan Klijnsma"
+    },
+	{
+      "description": "Mobile Threat Response Engineer affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/ecularx/"
+        ]
+      },
+      "uuid": "b73a5718-17b4-11ea-8d71-362b9e155667",
+      "value": "Ecular Xu"
+    },
+	{
+      "description": "Generic author named used by the cybersecurity vendor Palo Alto for their Unit 42 intelligence blog.",
+      "meta": {
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/unit42/"
+        ]
+      },
+      "uuid": "9636568c-1856-11ea-8d71-362b9e155667",
+      "value": "Unit 42"
+    },
+	{
+      "description": "Generic author named used by the Turn to 10 News Desk.",
+      "meta": {
+        "refs": [
+          "https://turnto10.com/"
+        ]
+      },
+      "uuid": "d84ee56e-1f92-11ea-978f-2e728ce88125",
+      "value": "Turn to 10 News Desk"
+    },
+	{
+      "description": "Principal Researcher - Unit 42, Asia Pacific at Palo Alto Networks. Singapore.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/vickray/?originalSubdomain=sg",
+		  "https://twitter.com/0xvk?lang=en"
+        ],
+		"synonyms": [
+		"@0xVK"
+		]
+      },
+      "uuid": "d84ee7da-1f92-11ea-978f-2e728ce88125",
+      "value": "Vicky Ray"
+    },
+	{
+      "description": "Cyberthreat analyst affiliated with the cybersecurity vendor Proofpoint.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/kemerriman/"
+        ]
+      },
+      "uuid": "d84ee92e-1f92-11ea-978f-2e728ce88125",
+      "value": "Kelsey Merriman"
+    },
+	{
+      "description": "Cyberthreat analyst affiliated with the cybersecurity vendor Proofpoint.",
+      "meta": {
+        "refs": [
+          "http://tildedennis.blogspot.com/",
+		  "https://twitter.com/tildedennis?lang=en",
+		  "https://github.com/tildedennis"
+        ],
+		"synonyms": [
+		"@tildedennis",
+		"tildedennis"
+		]
+      },
+      "uuid": "d84eec76-1f92-11ea-978f-2e728ce88125",
+      "value": "Dennis Schwarz"
+    },
+	{
+      "description": "Charlie Smith likes to say he's been extremely lucky to work at the Georgia Straight for 25 years. For seven years, he also taught investigative techniques at Kwantlen Polytechnic University (then known as Kwantlen University College) and worked at CBC Radio for 13 years. In addition, he's researched and reported stories on CBC TV and Global TV (then known as BCTV) newscasts, written for various publications, worked in private radio, and edited a business magazine. He's won two Western Magazine Awards for business writing and twice been nominated for Jack Webster Foundation Awards for his business and science writing. In addition, Charlie has received an antiracism award from Spice Radio, a medal from Radical Desi for countering racist narratives in media, and a community builder award from the Vancouver Asian Heritage Month Society.",
+      "meta": {
+        "refs": [
+          "https://www.straight.com/users/charlie-smith",
+		  "https://twitter.com/intent/user?screen_name=charliesmithvcr"
+        ],
+		"synonyms": [
+		"@charliesmithvcr"
+		]
+      },
+      "uuid": "d84eee74-1f92-11ea-978f-2e728ce88125",
+      "value": "Charlie Smith"
+    },
+	{
+      "description": "Principal Researcher (Unit 42) at Palo Alto Networks. San Jose, California.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/obiwanblee/",
+		  "https://twitter.com/obiwanblee?lang=en"
+        ],
+		"synonyms": [
+		"@obiwanblee"
+		]
+      },
+      "uuid": "81bde28e-1f94-11ea-978f-2e728ce88125",
+      "value": "Bryan Lee"
+    },
+	{
+      "description": "Security researcher affiliated with cybersecurity vendor Palo Alto.",
+      "meta": {
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/mike-harbison/"
+        ]
+      },
+      "uuid": "81bde52c-1f94-11ea-978f-2e728ce88125",
+      "value": "Mike Harbinson"
+    },
+	{
+      "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/philmunc33/?originalSubdomain=uk",
+		  "http://www.philmuncaster.com/",
+		  "http://www.infosecurity-magazine.com/",
+		  "https://twitter.com/philmuncaster"
+        ]
+      },
+      "uuid": "0a588636-ce77-11e9-a32f-2a2ae2dbcce4",
+      "value": "Phil-Muncaster"
+    }
+	  ],
+	"version": 23
+}
