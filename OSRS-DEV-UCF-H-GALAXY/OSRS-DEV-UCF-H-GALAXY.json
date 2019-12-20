@@ -5,7 +5,11 @@
     "category-one": [
       "Category One | Section One",
       "Category One | Section Two"
-    ] 
+    ], 
+  "kill_chain_order": {
+    "category-two": [
+      "Category Two | Section One"
+      ]
   },
   "name": "OSRS-DEV-UCF-H-GALAXY",
   "namespace": "OSRS-DEV-UCF-H-GALAXY",
