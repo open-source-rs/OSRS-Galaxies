@@ -2,7 +2,7 @@
   "description": "OSRS development galaxy used for testing the creation of MISP galaxy maps.",
   "icon": "map",
   "kill_chain_order": {
-    "Category One": [
+    "category-one": [
       "Category One | Section One"
     ] 
   },
