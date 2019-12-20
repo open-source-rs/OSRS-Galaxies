@@ -2,13 +2,13 @@
   "description": "OSRS development galaxy used for testing the creation of MISP galaxy maps.",
   "icon": "map",
   "kill_chain_order": {
+        "category-two": [
+      "Category Two | Section One"
+      ],
     "category-one": [
       "Category One | Section One",
       "Category One | Section Two"
-    ], 
-    "category-two": [
-      "Category Two | Section One"
-      ]
+    ]
   },
   "name": "OSRS-DEV-UCF-H-GALAXY",
   "namespace": "OSRS-DEV-UCF-H-GALAXY",
