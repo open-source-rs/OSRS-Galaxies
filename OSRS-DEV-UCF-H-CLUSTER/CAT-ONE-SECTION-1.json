@@ -1,0 +1,24 @@
+{
+  "category": "CATEGORY-ONE-SECTION-ONE",
+  "description": "Test Category One | Section One",
+  "name": "CATEGORY-ONE-SECTION-ONE",
+  "source": "OSRS DEV",
+  "type": "OSRS-DEV-UCF-H-GALAXY",
+  "uuid": "c3f5f826-233b-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Test Category One | Section One",
+      "meta": {
+	  "kill_chain": [
+          "Category One | Section One"
+        ],
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag11.htm"
+        ]
+      },
+      "uuid": "631ddcf2-233c-11ea-978f-2e728ce88125",
+      "value": "Test Category One | Section One Value"
+    }
+	  ],
+	"version": 1
+}
