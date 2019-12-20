@@ -10,7 +10,7 @@
       "description": "Test Category One | Section One",
       "meta": {
 	  "kill_chain": [
-          "Category One:Category One | Section One"
+          "category-one:Category One | Section One"
         ],
         "refs": [
           "https://www.bls.gov/iag/tgs/iag11.htm"
