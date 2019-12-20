@@ -6,7 +6,6 @@
       "Category One | Section One",
       "Category One | Section Two"
     ], 
-  "kill_chain_order": {
     "category-two": [
       "Category Two | Section One"
       ]
