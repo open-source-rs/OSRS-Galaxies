@@ -3,12 +3,7 @@
   "icon": "map",
   "kill_chain_order": {
     "Category One": [
-      "Category One | Section One",
-      "Category One | Section Two"
-    ], 
-	"Category Two": [
-      "Category Two | Section One",
-      "Category Two | Section Two"
+      "Category One | Section One"
     ] 
   },
   "name": "OSRS-DEV-UCF-H-GALAXY",
