@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-SOURCE-A-THRU-H",
+  "description": "OSRS OSINT sources A thru H.",
+  "name": "OSINT-SOURCE-A-THRU-H",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Source Index:OSINT Source A thru H"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "9854fda8-25ce-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Advanced Intelligence, LLC (AdvIntel)"
+    }
+	  ],
+	"version": 1
+}
