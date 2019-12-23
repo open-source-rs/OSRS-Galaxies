@@ -1,7 +1,7 @@
 {
   "category": "OSRS-CMCF-B-H-EVENT-TYPE",
   "description": "This cluster is for the use in conjunction with the OSRS CMCF Block-H galaxy mapping. This cluster in particular covers the tracked OSRS OSINT artifiact common artifact types (Data Breach US, Tool, Backdoor, etc.)",
-  "name": "OSRS-CMCF-BLOCK-H",
+  "name": "OSRS-CMCF-B-H-EVENT-TYPE",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
