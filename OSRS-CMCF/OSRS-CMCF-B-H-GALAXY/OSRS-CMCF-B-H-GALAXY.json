@@ -83,7 +83,7 @@
 	  "Business Continuity",
 	  "Compliance",
 	  "Privacy",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
     ],
     "Operational Framework": [
       "Environmental Threat",
@@ -92,7 +92,7 @@
 	  "Existential Threat",
 	  "Human Threat",
 	  "Nefarious Threat",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE Pre-ATTACK": [
       "Priority Definition Planning",
@@ -110,7 +110,7 @@
 	  "Build Capabilities",
 	  "Test Capabilities",
 	  "Stage Capabilities",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK Windows": [
       "Initial Access",
@@ -125,7 +125,7 @@
 	  "Command and Control",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK Linux": [
       "Initial Access",
@@ -140,7 +140,7 @@
 	  "Command and Control",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK AWS": [
       "Initial Access",
@@ -152,7 +152,7 @@
 	  "Collection",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK GCP": [
       "Initial Access",
@@ -164,7 +164,7 @@
 	  "Collection",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK Azure": [
       "Initial Access",
@@ -176,7 +176,7 @@
 	  "Collection",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE ATTACK SaaS": [
       "Initial Access",
@@ -188,7 +188,7 @@
 	  "Collection",
 	  "Exfiltration",
 	  "Impact",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
     "MITRE CWE SFP Base": [
       "Risky Values",
@@ -212,7 +212,7 @@
 	  "Predictability",
 	  "UI",
 	  "Other",
-	  "Information Drawbacks"
+	  "Informational Drawbacks"
       ],
 	"OSRS Actors and Campaigns": [
       "OSRS AnC A thru H",
