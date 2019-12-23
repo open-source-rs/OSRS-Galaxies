@@ -1,1 +1,24 @@
-PH
+{
+  "category": "OSRS-CMCF-B-H-EVENT-TYPE",
+  "description": "This cluster is for the use in conjunction with the OSRS CMCF Block-H galaxy mapping. This cluster in particular covers any errors or missing information regarding the artifacts within this cluster set.",
+  "name": "OSRS-CMCF-BLOCK-H",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS Event Type:Informational Drawbacks"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "80d7ad9c-25bf-11ea-978f-2e728ce88125",
+      "value": "ET Info Drawback: Information Discrepancy"
+    }
+	  ],
+	"version": 1
+}
