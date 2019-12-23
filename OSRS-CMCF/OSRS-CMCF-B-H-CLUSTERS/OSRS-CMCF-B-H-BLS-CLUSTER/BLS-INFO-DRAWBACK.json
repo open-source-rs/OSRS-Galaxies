@@ -1,0 +1,24 @@
+{
+  "category": "BLS-INFO-DRAWBACK",
+  "description": "This cluster is for assigning artifacts within the BLS cluster set tags that have information errors or are missing information.",
+  "name": "BLS-INFO-DRAWBACK",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS General BLS Index:Informational Drawbacks"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "ac33f5b6-25c6-11ea-978f-2e728ce88125",
+      "value": "BLS Info Drawback: Information Discrepancy"
+    }
+	  ],
+	"version": 1
+}
