@@ -1,5 +1,5 @@
 {
-  "category": "OSRS-CMCF-B-H-EVENT-TYPE",
+  "category": "EVENT-TYPE-INFO-DRAWBACK",
   "description": "This cluster is for the use in conjunction with the OSRS CMCF Block-H galaxy mapping. This cluster in particular covers any errors or missing information regarding the artifacts within this cluster set.",
   "name": "OSRS-CMCF-BLOCK-H",
   "source": "OSRS DEV",
