@@ -1,6 +1,6 @@
 {
   "category": "BLS-1-THRU-100",
-  "description": "This cluster is for the use in conjunction with the OSRS CMCF Block-H galaxy mapping. This cluster in particular covers any errors or missing information regarding the artifacts within this cluster set.",
+  "description": "This cluster, to be used in conjunction with the OSRS CMCF Block-H mapping, covers BLS NAICS class codes ranging from 1 to 100.",
   "name": "BLS-1-THRU-100.",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
