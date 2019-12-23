@@ -1,0 +1,24 @@
+{
+  "category": "BLS-301-THRU-400",
+  "description": "This cluster, to be used in conjunction with the OSRS CMCF Block-H mapping, covers BLS NAICS class codes ranging from 301 to 400.",
+  "name": "BLS-301-THRU-400",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS General BLS Index:BLS 301 thru 400"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "ad3b91b4-25c4-11ea-978f-2e728ce88125",
+      "value": "NAICS 311: Food Manufacturing"
+    }
+	  ],
+	"version": 1
+}
