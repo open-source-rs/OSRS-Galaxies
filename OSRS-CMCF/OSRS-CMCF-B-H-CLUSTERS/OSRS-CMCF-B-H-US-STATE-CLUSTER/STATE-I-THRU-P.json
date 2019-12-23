@@ -1,0 +1,24 @@
+{
+  "category": "STATE-I-THRU-P",
+  "description": "US states starting with I thru P.",
+  "name": "STATE-I-THRU-P",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS State Index:US State I thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "39a09ca0-25cd-11ea-978f-2e728ce88125",
+      "value": "Idaho, ID"
+    }
+	  ],
+	"version": 1
+}
