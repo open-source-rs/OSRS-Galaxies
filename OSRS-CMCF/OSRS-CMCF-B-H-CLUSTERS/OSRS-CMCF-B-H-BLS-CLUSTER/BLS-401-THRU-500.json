@@ -1,0 +1,24 @@
+{
+  "category": "BLS-401-THRU-500",
+  "description": "This cluster, to be used in conjunction with the OSRS CMCF Block-H mapping, covers BLS NAICS class codes ranging from 401 to 500.",
+  "name": "BLS-401-THRU-500",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS General BLS Index:BLS 401 thru 500"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "d3a450b6-25c4-11ea-978f-2e728ce88125",
+      "value": "NAICS 423: Merchant Wholesalers and Durable Goods"
+    }
+	  ],
+	"version": 1
+}
