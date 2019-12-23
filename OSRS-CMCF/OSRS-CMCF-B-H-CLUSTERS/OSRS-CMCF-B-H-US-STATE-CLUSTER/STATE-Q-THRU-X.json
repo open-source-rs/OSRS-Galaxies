@@ -1,0 +1,24 @@
+{
+  "category": "STATE-Q-THRU-X",
+  "description": "US states starting with A thru H.",
+  "name": "STATE-Q-THRU-X",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS State Index:US State Q thru X"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "668d960a-25cd-11ea-978f-2e728ce88125",
+      "value": "Rhode Island, RI"
+    }
+	  ],
+	"version": 1
+}
