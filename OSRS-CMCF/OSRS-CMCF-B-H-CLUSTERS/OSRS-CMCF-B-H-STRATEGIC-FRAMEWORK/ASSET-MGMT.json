@@ -10,7 +10,7 @@
       "description": "Assets associated with information and information processing facilities are identified and an inventory of these assets are drawn up and maintained.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Asset Management"
+          "strategic-framework-h:Asset Management"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
