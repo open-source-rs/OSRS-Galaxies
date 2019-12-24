@@ -4,7 +4,7 @@
   "name": "SUPPLY-CHAIN",
   "source": "HITRUST CSF",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "Information security requirements for mitigating the risks associated with supplier’s access to the organization’s assets are agreed with the supplier and documented.",
