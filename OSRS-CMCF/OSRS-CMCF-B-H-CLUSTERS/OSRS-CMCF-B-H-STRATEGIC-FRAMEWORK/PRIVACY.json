@@ -1,0 +1,24 @@
+{
+  "category": "PRIVACY",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the development and management of organizational information security privacy activities.",
+  "name": "PRIVACY",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Data Subjects have a right to adequate and easily accessible notice of the use and disclosures of their PII that may be made by the organization, and of the data subject's rights and the organization's legal duties with respect to PII.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0d301962-2667-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 15.a Privacy Notice"
+    }
+	  ],
+	"version": 1
+}
