@@ -4,7 +4,7 @@
   "name": "ASSET-MGMT",
   "source": "HITRUST CSF",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "Assets associated with information and information processing facilities are identified and an inventory of these assets are drawn up and maintained.",
