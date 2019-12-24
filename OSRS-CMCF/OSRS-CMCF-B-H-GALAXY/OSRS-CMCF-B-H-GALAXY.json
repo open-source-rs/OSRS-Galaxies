@@ -2,15 +2,15 @@
   "description": "The OSRS CMCF Block-H is used for the collection and organization of informational artifacts.  Block-H represents a version of the CMCF alignment towards Healthcare. For more information regarding the development of the CMCF refer to this website: https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-",
   "icon": "map",
   "kill_chain_order": {
-    "OSRS Event Type": [
+    "osrs-event-type": [
       "OSRS Event Type",
 	  "Informational Drawbacks"
       ],
-	"OSRS Generic Data Breach Index": [
+	"osrs-generic-data-breach-index": [
       "Generic Data Breach Index",
 	  "Informational Drawbacks"
       ],  
-	"OSRS General BLS Index": [
+	"osrs-general-bls-index": [
       "BLS 1 thru 100",
 	  "BLS 101 thru 200",
 	  "BLS 201 thru 300",
@@ -22,19 +22,19 @@
 	  "BLS 801 thru 900",
 	  "Informational Drawbacks"
       ],
-	"OSRS GECI Index": [
+	"osrs-geci-index": [
       "Local GECI",
 	  "State GECI",
 	  "Federal OR National GECI",
 	  "Informational Drawbacks"
       ],
-	"OSRS State Index": [
+	"osrs-state-index": [
       "US State A thru H",
 	  "US State I thru P",
 	  "US State Q thru X",
 	  "Informational Drawbacks"
       ],
-	"OSRS OSINT Source Index": [
+	"osrs-osint-source-index": [
       "OSINT Source A thru H",
 	  "OSINT Source I thru P",
 	  "OSINT Source Q thru X",
@@ -43,7 +43,7 @@
 	  "Vulnerability Source Index",
 	  "Informational Drawbacks"
       ],  
-	"OSRS OSINT Author Index": [
+	"osrs-osint-author-index": [
       "OSINT Author A thru H",
 	  "OSINT Author I thru P",
 	  "OSINT Author Q thru X",
@@ -66,7 +66,7 @@
 	  "Project Zero Author Number String",
 	  "Informational Drawbacks"
       ],
-    "Strategic Framework H": [
+    "strategic-framework-h": [
       "Risk Management Program",
 	  "Information Protection Policy",
 	  "Information Protection Organization",
@@ -85,7 +85,7 @@
 	  "Privacy",
 	  "Informational Drawbacks"
     ],
-    "Operational Framework": [
+    "operational-framework": [
       "Environmental Threat",
 	  "Failure Threat",
 	  "Organizationl Threat",
@@ -94,7 +94,7 @@
 	  "Nefarious Threat",
 	  "Informational Drawbacks"
       ],
-    "MITRE Pre-ATTACK": [
+    "osrs-mitire-pre-attack": [
       "Priority Definition Planning",
 	  "Priority Definition Direction",
 	  "Target Selection",
@@ -112,7 +112,7 @@
 	  "Stage Capabilities",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK Windows": [
+    "osrs-mitre-attack-windows": [
       "Initial Access",
 	  "Execution",
 	  "Persistence",
@@ -127,7 +127,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK Linux": [
+    "osrs-mitre-attack-linux": [
       "Initial Access",
 	  "Execution",
 	  "Persistence",
@@ -142,7 +142,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK AWS": [
+    "osrs-mitre-attack-aws": [
       "Initial Access",
 	  "Persistence",
 	  "Privilege Escalation",
@@ -154,7 +154,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK GCP": [
+    "osrs-mitre-attack-gcp": [
       "Initial Access",
 	  "Persistence",
 	  "Privilege Escalation",
@@ -166,7 +166,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK Azure": [
+    "osrs-mitre-attack-azure": [
       "Initial Access",
 	  "Persistence",
 	  "Privilege Escalation",
@@ -178,7 +178,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE ATTACK SaaS": [
+    "osrs-mitre-attack-sass": [
       "Initial Access",
 	  "Persistence",
 	  "Privilege Escalation",
@@ -190,7 +190,7 @@
 	  "Impact",
 	  "Informational Drawbacks"
       ],
-    "MITRE CWE SFP Base": [
+    "osrs-mitre-cwe-sfp-base": [
       "Risky Values",
 	  "Unused Entities",
 	  "API",
@@ -214,7 +214,7 @@
 	  "Other",
 	  "Informational Drawbacks"
       ],
-	"OSRS Actors and Campaigns": [
+	"osrs-actors-and-campaigns": [
       "OSRS AnC A thru H",
 	  "OSRS AnC I thru P",
 	  "OSRS AnC Q thru X",
@@ -222,7 +222,7 @@
 	  "OSRS AnC Number String",
 	  "Informational Drawbacks"
       ],
-	"OSRS Backdoor": [
+	"osrs-backdoor": [
       "OSRS Backdoor A thru H",
 	  "OSRS Backdoor I thru P",
 	  "OSRS Backdoor Q thru X",
@@ -230,7 +230,7 @@
 	  "OSRS Backdoor Number String",
 	  "Informational Drawbacks"
       ],
-	"OSRS Botnet": [
+	"osrs-botnet": [
       "OSRS Botnet A thru H",
 	  "OSRS Botnet I thru P",
 	  "OSRS Botnet Q thru X",
@@ -238,7 +238,7 @@
 	  "OSRS Botnet Number String",
 	  "Informational Drawbacks"
       ],
-	"OSRS Ransomware": [
+	"osrs-ransomware": [
       "OSRS Ransomware A thru H",
 	  "OSRS Ransomware I thru P",
 	  "OSRS Ransomware Q thru X",
@@ -246,7 +246,7 @@
 	  "OSRS Ransomware Number String",
 	  "Informational Drawbacks"
       ],
-	"OSRS Tool": [
+	"osrs-tool": [
       "OSRS Tool A thru H",
 	  "OSRS Tool I thru P",
 	  "OSRS Tool Q Thru X",
@@ -254,7 +254,7 @@
 	  "OSRS Tool Number String",
 	  "Informational Drawbacks"
       ],
-	"OSRS Security Tool Index": [
+	"osrs-security-tool-index": [
       "OSRS Security Tool A thru H",
 	  "OSRS Security Tool I thru P",
 	  "OSRS Security Tool Q thru X",
