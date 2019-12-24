@@ -10,7 +10,7 @@
       "description": "Description placeholder value.",
       "meta": {
 	  "kill_chain": [
-          "OSRS OSINT Author Index:Project Zero Author Y thru Z"
+          "osrs-osint-author-index:Project Zero Author Y thru Z"
         ],
         "refs": [
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
