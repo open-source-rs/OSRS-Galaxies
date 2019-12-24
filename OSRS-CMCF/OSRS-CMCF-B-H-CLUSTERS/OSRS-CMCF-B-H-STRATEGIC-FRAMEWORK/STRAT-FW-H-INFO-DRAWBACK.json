@@ -1,0 +1,24 @@
+{
+  "category": "STRAT-FW-H-INFO-DRAWBACK",
+  "description": "This cluster is for assigning artifacts tags that have information errors or are missing information.",
+  "name": "STRAT-FW-H-INFO-DRAWBACK",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Informational Drawbacks"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "62c64536-2667-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework Info Drawback: Information Discrepancy"
+    }
+	  ],
+	"version": 1
+}
