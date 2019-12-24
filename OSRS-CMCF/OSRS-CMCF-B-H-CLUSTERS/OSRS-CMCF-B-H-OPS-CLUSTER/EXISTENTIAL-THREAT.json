@@ -10,7 +10,7 @@
       "description": "Deliberate actions aimed to cause disruption or damage to information and or IT assets for financial or personal gain.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Existential Threat"
+          "operational-framework:Existential Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
