@@ -10,7 +10,7 @@
       "description": "Analysts assess current information available against requirements that outline needs and wants as part of the research baselining process to begin satisfying a requirement.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Environmental Threat"
+          "osrs-mitire-pre-attack:Priority Definition Planning"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/"
