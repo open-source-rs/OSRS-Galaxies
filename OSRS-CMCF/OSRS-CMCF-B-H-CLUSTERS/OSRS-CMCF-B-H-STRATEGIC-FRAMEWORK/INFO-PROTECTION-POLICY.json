@@ -10,7 +10,7 @@
       "description": "Policies for information security are approved by management, published and communicated to employees and relevant external parties.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Information Protection Policy"
+          "strategic-framework-h:Information Protection Policy"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
