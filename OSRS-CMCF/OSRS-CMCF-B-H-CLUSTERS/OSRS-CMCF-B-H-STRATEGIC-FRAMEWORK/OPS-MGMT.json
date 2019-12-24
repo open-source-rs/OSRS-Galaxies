@@ -10,7 +10,7 @@
       "description": "Operating procedures are documented and made available to all users who need them.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Operations"
+          "strategic-framework-h:Operations"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
