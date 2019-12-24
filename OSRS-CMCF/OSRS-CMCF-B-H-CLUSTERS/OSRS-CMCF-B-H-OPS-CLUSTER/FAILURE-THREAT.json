@@ -4,7 +4,7 @@
   "name": "FAILURE-THREAT",
   "source": "The HITRUST Threat Catalogue v1 and the ENISA Threat Taxonomy",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "Failure or disruption of third party services required for proper operation of information systems. Example - Resources Or Supporting systems.",
