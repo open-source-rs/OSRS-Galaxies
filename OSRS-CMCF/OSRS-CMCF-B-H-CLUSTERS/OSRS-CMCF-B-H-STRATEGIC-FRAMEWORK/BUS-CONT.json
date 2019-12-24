@@ -4,7 +4,7 @@
   "name": "BUS-CONT",
   "source": "HITRUST CSF",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "Requirements are determined for information security and the continuity of information security management in adverse situations, e.g. during a crisis or disaster.",
