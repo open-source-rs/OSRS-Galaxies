@@ -2,7 +2,7 @@
   "category": "NEFARIOUS-THREAT",
   "description": "This cluster is for assigning artifacts tags that are just below the level of strategic language, but above the terminology used at the tactical level of cybersecurity.  This cluster in particular aligns to terminology used to describe intentional nefarious threats to cybersecurity.",
   "name": "NEFARIOUS-THREAT",
-  "source": "OSRS DEV",
+  "source": "The HITRUST Threat Catalogue v1 and the ENISA Threat Taxonomy",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
   "values": [
