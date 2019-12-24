@@ -10,7 +10,7 @@
       "description": "A formal user registration and de-registration process is used to verify a user's identity and enable assignment of access rights.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Access Control"
+          "strategic-framework-h:Access Control"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
