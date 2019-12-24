@@ -10,7 +10,7 @@
       "description": "Information security requirements for mitigating the risks associated with supplier’s access to the organization’s assets are agreed with the supplier and documented.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Supply Chain"
+          "strategic-framework-h:Supply Chain"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
