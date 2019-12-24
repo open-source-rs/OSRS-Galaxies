@@ -10,7 +10,7 @@
       "description": "Requirements on the use of cryptographic controls for information protection are formally developed and implemented.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Cryptography"
+          "strategic-framework-h:Cryptography"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
