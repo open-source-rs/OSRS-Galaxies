@@ -10,7 +10,7 @@
       "description": "Information security related requirements are included in the requirements for new information systems or enhancements to existing information systems.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:System Acquisition AND Development"
+          "strategic-framework-h:System Acquisition AND Development"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
