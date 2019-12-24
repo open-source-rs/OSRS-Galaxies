@@ -1,0 +1,24 @@
+{
+  "category": "ASSET-MGMT",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the management of organizational assets.",
+  "name": "ASSET-MGMT",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Assets associated with information and information processing facilities are identified and an inventory of these assets are drawn up and maintained.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "88826da6-2660-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 04.a Inventory of Assets"
+    }
+	  ],
+	"version": 1
+}
