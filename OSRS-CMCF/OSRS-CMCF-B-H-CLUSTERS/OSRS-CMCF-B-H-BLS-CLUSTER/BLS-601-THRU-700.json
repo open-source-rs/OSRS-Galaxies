@@ -10,7 +10,7 @@
       "description": "Description placeholder value.",
       "meta": {
 	  "kill_chain": [
-          "OSRS General BLS Index:BLS 601 thru 700"
+          "osrs-general-bls-index:BLS 601 thru 700"
         ],
         "refs": [
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
