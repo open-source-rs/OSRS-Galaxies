@@ -4,7 +4,7 @@
   "name": "ORGANIZATIONAL-THREAT",
   "source": "The HITRUST Threat Catalogue v1 and the ENISA Threat Taxonomy",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
