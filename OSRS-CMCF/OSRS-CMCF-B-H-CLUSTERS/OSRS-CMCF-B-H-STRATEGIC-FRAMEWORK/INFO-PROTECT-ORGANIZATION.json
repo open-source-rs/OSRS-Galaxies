@@ -1,0 +1,24 @@
+{
+  "category": "INFO-PROTECT-ORGANIZATION",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the development and management of an Information Protection Organization.",
+  "name": "INFO-PROTECT-ORGANIZATION",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Information security responsibilities are defined and allocated.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "dcf448ec-265f-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 02.a Information Security Roles and Responsibilities"
+    }
+	  ],
+	"version": 1
+}
