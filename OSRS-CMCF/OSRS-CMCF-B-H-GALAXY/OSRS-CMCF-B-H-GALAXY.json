@@ -3,7 +3,7 @@
   "icon": "map",
   "kill_chain_order": {
     "osrs-event-type": [
-      "OSRS Event Type",
+      "Event Type",
 	  "Informational Drawbacks"
       ],
 	"osrs-generic-data-breach-index": [
