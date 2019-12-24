@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-SOURCE-Y-THRU-Z",
+  "description": "OSRS OSINT sources Y thru Z.",
+  "name": "OSINT-SOURCE-Y-THRU-Z",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Source Index:OSINT Source Y thru Z"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "d9aa1f2c-2650-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: ZDNet"
+    }
+	  ],
+	"version": 1
+}
