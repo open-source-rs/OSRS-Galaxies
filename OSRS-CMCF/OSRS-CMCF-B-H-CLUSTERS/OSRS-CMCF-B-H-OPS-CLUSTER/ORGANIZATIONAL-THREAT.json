@@ -10,7 +10,7 @@
       "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Organizationl Threat"
+          "operational-framework:Organizationl Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
