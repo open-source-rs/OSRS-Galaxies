@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-SOURCE-I-THRU-P",
+  "description": "OSRS OSINT sources I thru P.",
+  "name": "OSINT-SOURCE-I-THRU-P",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Source Index:OSINT Source I thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "36c43d4c-2650-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: IBM X-Force Threat Research"
+    }
+	  ],
+	"version": 1
+}
