@@ -10,7 +10,7 @@
       "description": "Description placeholder value.",
       "meta": {
 	  "kill_chain": [
-          "OSRS State Index:Informational Drawbacks"
+          "osrs-state-index:Informational Drawbacks"
         ],
         "refs": [
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
