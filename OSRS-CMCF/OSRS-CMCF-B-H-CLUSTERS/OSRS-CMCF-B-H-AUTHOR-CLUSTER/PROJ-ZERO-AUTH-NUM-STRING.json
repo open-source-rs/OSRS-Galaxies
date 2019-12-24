@@ -1,0 +1,24 @@
+{
+  "category": "PROJ-ZERO-AUTH-NUM-STRING",
+  "description": "OSRS Google Project Zero authors whose name contains a both numbers and strings.",
+  "name": "PROJ-ZERO-AUTH-NUM-STRING",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Author Index:Project Zero Author Number String"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "d15f433a-265d-11ea-978f-2e728ce88125",
+      "value": "OSRS Google Project Zero Author: OSRS Vulnerability Tester"
+    }
+	  ],
+	"version": 1
+}
