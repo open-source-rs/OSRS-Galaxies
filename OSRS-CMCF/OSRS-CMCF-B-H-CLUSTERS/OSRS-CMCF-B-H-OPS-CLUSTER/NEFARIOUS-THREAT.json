@@ -10,7 +10,7 @@
       "description": "Using authorized access to perform illegitimate actions.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Nefarious Threat"
+          "operational-framework:Nefarious Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
