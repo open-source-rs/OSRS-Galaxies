@@ -10,7 +10,7 @@
       "description": "Unintentional distribution of covered information to an unauthorized entity by an employee or employees.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Human Threat"
+          "operational-framework:Human Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
