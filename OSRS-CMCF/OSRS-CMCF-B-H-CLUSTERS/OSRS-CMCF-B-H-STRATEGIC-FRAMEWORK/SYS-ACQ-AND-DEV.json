@@ -4,7 +4,7 @@
   "name": "SYS-ACQ-AND-DEV",
   "source": "HITRUST CSF",
   "type": "OSRS-CMCF-BLOCK-H",
-  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
       "description": "Information security related requirements are included in the requirements for new information systems or enhancements to existing information systems.",
