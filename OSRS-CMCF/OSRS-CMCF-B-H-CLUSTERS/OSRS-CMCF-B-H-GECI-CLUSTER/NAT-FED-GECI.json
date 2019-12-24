@@ -10,7 +10,7 @@
       "description": "Description placeholder value.",
       "meta": {
 	  "kill_chain": [
-          "OSRS GECI Index:Federal OR National GECI"
+          "osrs-geci-index:Federal OR National GECI"
         ],
         "refs": [
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
