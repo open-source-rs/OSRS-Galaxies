@@ -10,7 +10,7 @@
       "description": "Management establishes a quick, effective and orderly response to information security incidents.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Incident Management"
+          "strategic-framework-h:Incident Management"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
