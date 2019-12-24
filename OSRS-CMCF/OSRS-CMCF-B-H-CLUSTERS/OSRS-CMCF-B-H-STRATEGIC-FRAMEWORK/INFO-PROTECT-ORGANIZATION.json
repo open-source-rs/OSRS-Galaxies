@@ -10,7 +10,7 @@
       "description": "Information security responsibilities are defined and allocated.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Information Protection Organization"
+          "strategic-framework-h:Information Protection Organization"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
