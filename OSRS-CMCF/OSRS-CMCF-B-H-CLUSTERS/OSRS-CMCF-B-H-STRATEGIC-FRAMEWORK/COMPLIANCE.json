@@ -10,7 +10,7 @@
       "description": "All relevant legislative statutory, regulatory, contractual requirements and the organization’s approach to meet these requirements are explicitly identified, documented and kept up to date for each information system and the organization.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Compliance"
+          "strategic-framework-h:Compliance"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
