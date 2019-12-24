@@ -10,7 +10,7 @@
       "description": "Prolonged period of abnormally low rainfall, and a shortage of water causing damage to assets.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Environmental Threat"
+          "operational-framework:Environmental Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
