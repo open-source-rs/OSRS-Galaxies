@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-AUTHOR-I-THRU-P",
+  "description": "OSRS OSINT authors I thru P.",
+  "name": "OSINT-AUTHOR-I-THRU-P",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Author Index:OSINT Author I thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "9cae8d9a-2652-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Author: Ignacio Sanmillan"
+    }
+	  ],
+	"version": 1
+}
