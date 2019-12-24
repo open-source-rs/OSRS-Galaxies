@@ -10,7 +10,7 @@
       "description": "Description placeholder value.",
       "meta": {
 	  "kill_chain": [
-          "OSRS Generic Data Breach Index:Generic Data Breach Index"
+          "osrs-generic-data-breach-index:GDBI"
         ],
         "refs": [
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
