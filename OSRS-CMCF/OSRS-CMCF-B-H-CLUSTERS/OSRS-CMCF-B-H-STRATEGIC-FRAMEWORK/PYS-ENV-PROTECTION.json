@@ -10,7 +10,7 @@
       "description": "Security perimeters are defined and used to protect areas that contain either sensitive or critical information and information processing facilities.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Physical AND Environmental Protection"
+          "strategic-framework-h:Physical AND Environmental Protection"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
