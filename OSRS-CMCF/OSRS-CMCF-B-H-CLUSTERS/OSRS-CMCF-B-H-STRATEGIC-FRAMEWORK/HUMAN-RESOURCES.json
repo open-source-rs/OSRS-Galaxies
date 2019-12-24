@@ -10,7 +10,7 @@
       "description": "Background verification checks on all candidates for employment are carried out in accordance with relevant laws, regulations and ethics and shall be proportional to the business requirements, the classification of the information to be accessed and the perceived risks.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Human Resources"
+          "strategic-framework-h:Human Resources"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
