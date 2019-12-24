@@ -1,0 +1,24 @@
+{
+  "category": "SUPPLY-CHAIN",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the development and management of organizational supply chains.",
+  "name": "SUPPLY-CHAIN",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Information security requirements for mitigating the risks associated with supplier’s access to the organization’s assets are agreed with the supplier and documented.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Supply Chain"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3517f944-2663-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 11.a Information Security in Supplier Relationships"
+    }
+	  ],
+	"version": 1
+}
