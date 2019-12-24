@@ -10,7 +10,7 @@
       "description": "Failure or disruption of third party services required for proper operation of information systems. Example - Resources Or Supporting systems.",
       "meta": {
 	  "kill_chain": [
-          "Operational Framework:Failure Threat"
+          "operational-framework:Failure Threat"
         ],
         "refs": [
           "https://hitrustalliance.net/threat-catalogue/",
