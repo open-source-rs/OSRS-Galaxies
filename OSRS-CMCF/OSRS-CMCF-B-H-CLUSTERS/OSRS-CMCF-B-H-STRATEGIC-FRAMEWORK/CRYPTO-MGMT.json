@@ -1,0 +1,24 @@
+{
+  "category": "CRYPTO-MGMT",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the implementation and management of organizational cryptographic activities.",
+  "name": "CRYPTO-MGMT",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Requirements on the use of cryptographic controls for information protection are formally developed and implemented.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Cryptography"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "6c5a4760-2661-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 06.a Use of Cryptographic Controls"
+    }
+	  ],
+	"version": 1
+}
