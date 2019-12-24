@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-SOURCE-NUMBER-STRING",
+  "description": "OSRS OSINT sources that have a name that contains a combination of numbers and strings.",
+  "name": "OSINT-SOURCE-NUMBER-STRING",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Description placeholder value.",
+      "meta": {
+	  "kill_chain": [
+          "OSRS OSINT Source Index:OSINT Source Number String"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+        ]
+      },
+      "uuid": "3882bd10-2651-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: 360 Netlab Blog"
+    }
+	  ],
+	"version": 1
+}
