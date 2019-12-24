@@ -10,7 +10,7 @@
       "description": "Data Subjects have a right to adequate and easily accessible notice of the use and disclosures of their PII that may be made by the organization, and of the data subject's rights and the organization's legal duties with respect to PII.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Privacy"
+          "strategic-framework-h:Privacy"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
