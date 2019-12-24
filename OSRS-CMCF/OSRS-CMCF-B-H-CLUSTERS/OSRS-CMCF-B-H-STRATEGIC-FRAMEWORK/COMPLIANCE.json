@@ -1,0 +1,24 @@
+{
+  "category": "COMPLIANCE",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the development and management of organizational information security compliance activities.",
+  "name": "COMPLIANCE",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "All relevant legislative statutory, regulatory, contractual requirements and the organization’s approach to meet these requirements are explicitly identified, documented and kept up to date for each information system and the organization.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "d7fcb714-2666-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 14.a Identification of Applicable Legislation and Contractual Requirements"
+    }
+	  ],
+	"version": 1
+}
