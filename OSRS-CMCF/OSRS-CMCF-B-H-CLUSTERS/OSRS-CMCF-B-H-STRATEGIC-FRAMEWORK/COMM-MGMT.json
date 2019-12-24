@@ -10,7 +10,7 @@
       "description": "Networks are managed and controlled to protect information in systems and applications.",
       "meta": {
 	  "kill_chain": [
-          "Strategic Framework H:Risk Management Program"
+          "Strategic Framework H:Communications"
         ],
         "refs": [
           "https://hitrustalliance.net/hitrust-csf/"
