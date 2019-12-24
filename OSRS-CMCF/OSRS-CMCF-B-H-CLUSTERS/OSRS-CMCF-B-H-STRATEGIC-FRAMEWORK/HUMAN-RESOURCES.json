@@ -1,0 +1,24 @@
+{
+  "category": "HUMAN-RESOURCES",
+  "description": "As taken from the HITRUST CSF, this section cover strategic risk managment items. Specifically in this cluster, the tags deal with the development and management of human resource practices as they relate to information security.",
+  "name": "HUMAN-RESOURCES",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "38187680-25b6-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Background verification checks on all candidates for employment are carried out in accordance with relevant laws, regulations and ethics and shall be proportional to the business requirements, the classification of the information to be accessed and the perceived risks.",
+      "meta": {
+	  "kill_chain": [
+          "Strategic Framework H:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "543fe2da-2660-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF Strategic Framework: 03.a Screening"
+    }
+	  ],
+	"version": 1
+}
