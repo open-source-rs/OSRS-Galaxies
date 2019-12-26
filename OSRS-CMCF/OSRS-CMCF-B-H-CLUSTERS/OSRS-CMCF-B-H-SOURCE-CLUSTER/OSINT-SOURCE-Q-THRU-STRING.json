@@ -1,0 +1,25 @@
+{
+  "category": "OSINT-SOURCE-Q-THRU-STRING",
+  "description": "OSRS OSINT sources Q thru String, where string can be a combination of letters and numbers.",
+  "name": "OSINT-SOURCE-Q-THRU-STRING",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "RiskIQ is the leader in digital threat management, providing the most comprehensive discovery, intelligence, and mitigation of threats associated with an organization’s digital presence. RiskIQ allows enterprises to gain unified insight and control over web, social, and mobile exposures. Our platform combines advanced internet data reconnaissance and analytics to expedite investigations, understand attack surfaces, assess risk, and take action against digital threats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-osint-source-index:OSINT Source Q thru String"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/category/labs/",
+          "https://www.riskiq.com/"
+        ]
+      },
+      "uuid": "2c44336e-27ee-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: OSRS OSINT Source: RiskIQ Labs"
+    }
+	  ],
+	"version": 1
+}
