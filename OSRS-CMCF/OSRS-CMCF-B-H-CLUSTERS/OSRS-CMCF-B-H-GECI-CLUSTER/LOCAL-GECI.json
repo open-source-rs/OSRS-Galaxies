@@ -7,7 +7,7 @@
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Description placeholder value.",
+      "description": "Administration at the local level includes entities like mayor offices, city administration, etc.",
       "meta": {
 	  "kill_chain": [
           "osrs-geci-index:Local GECI"
