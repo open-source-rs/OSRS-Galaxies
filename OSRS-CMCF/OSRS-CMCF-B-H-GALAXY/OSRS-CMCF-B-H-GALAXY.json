@@ -153,6 +153,10 @@
 	  "Exfiltration",
 	  "Impact"
       ],
+	"osrs-exploit-db": [
+	  "Type",
+	  "Platform"
+	  ],
     "osrs-mitre-cwe-sfp-base": [
       "Risky Values",
 	  "Unused Entities",
@@ -201,11 +205,19 @@
 	  "OSRS Security Tool Q thru String",
 	  "OSRS Security Tool Type A thru P",
 	  "OSRS Security Tool Type Q thru String"
-      ]	  
+      ],
+	"info-drawbacks": [
+	  "Event Drawbacks",
+	  "Author OR Source Drawback",
+	  "Framework Drawback",
+	  "Maltech Drawback",
+	  "Exploit OR Vulnerability Drawback",
+	  "SecTool Drawback"
+	  ]
   },
   "name": "OSRS-CMCF-BLOCK-H",
   "namespace": "OSRS-CMCF-BLOCK-H",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
-  "version": 2
+  "version": 3
 }
