@@ -1,0 +1,24 @@
+{
+  "category": "SEC-TOOL-A-THRU-P",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to various tools used by cybersecurity personnel for various purposes.",
+  "name": "OSRS Security Tool Index",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": ".NET Reactor is a powerful code protection and software licensing system for software written for the .NET Framework, and supports all languages that generate .NET assemblies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A-P"
+        ],
+        "refs": [
+          "https://www.eziriz.com/dotnet_reactor.htm"
+        ]
+      },
+      "uuid": "69d02cfa-2826-11ea-978f-2e728ce88125",
+      "value": "OSRS SecTool: .NET Reactor"
+    }
+	  ],
+	"version": 1
+}
