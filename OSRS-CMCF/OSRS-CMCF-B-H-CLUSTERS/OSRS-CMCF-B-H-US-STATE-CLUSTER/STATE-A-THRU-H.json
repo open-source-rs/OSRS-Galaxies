@@ -7,18 +7,18 @@
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Description placeholder value.",
+      "description": "Alabama is a southeastern U.S. state that’s home to significant landmarks from the American Civil Rights Movement. The city of Birmingham's 16th Street Baptist Church, now a museum, was a protest headquarters in the 1960s. Martin Luther King, Jr.'s church and the Rosa Parks Museum, dedicated to the activist, can be found in the capital of Montgomery.",
       "meta": {
 	  "kill_chain": [
           "osrs-state-index:US State A thru H"
         ],
         "refs": [
-          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+          "https://en.wikipedia.org/wiki/Alabama"
         ]
       },
       "uuid": "f561118c-25cc-11ea-978f-2e728ce88125",
       "value": "OSRS State Index: Alabama, AL"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
