@@ -1,0 +1,29 @@
+{
+  "category": "PROJ-ZERO-AUTH-Q-THRU-STRING",
+  "description": "OSRS Google Project Zero authors Q thru String, where string can be any combination of letters and numbers.",
+  "name": "PROJ-ZERO-AUTH-Q-THRU-STRING",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Works at Google Project Zero.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-osint-author-index:Project Zero Author Q thru String"
+        ],
+        "refs": [
+          "https://twitter.com/5aelo?lang=en",
+          "https://github.com/saelo",
+          "https://saelo.github.io"
+        ],
+        "synonyms": [
+        "@5aelo"
+        ]
+      },
+      "uuid": "df8d9d94-27f2-11ea-978f-2e728ce88125",
+      "value": "OSRS Google Project Zero Author: Samuel GroB"
+    }
+	  ],
+	"version": 1
+}
