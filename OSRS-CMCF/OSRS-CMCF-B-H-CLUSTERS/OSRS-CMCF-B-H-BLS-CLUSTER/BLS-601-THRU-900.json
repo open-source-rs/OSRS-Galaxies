@@ -1,0 +1,24 @@
+{
+  "category": "BLS-601-THRU-900",
+  "description": "This cluster, to be used in conjunction with the OSRS CMCF Block-H mapping, covers BLS NAICS class codes ranging from 601 to 900.",
+  "name": "BLS-601-THRU-900",
+  "source": "U.S. Bureau of Labor Statistics",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Industries in the Ambulatory Health Care Services subsector provide health care services directly or indirectly to ambulatory patients and do not usually provide inpatient services. Health practitioners in this subsector provide outpatient services, with the facilities and equipment not usually being the most significant part of the production process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-general-bls-index:BLS 601 thru 900"
+        ],
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag_index_alpha.htm"
+        ]
+      },
+      "uuid": "78e07c26-27eb-11ea-978f-2e728ce88125",
+      "value": "NAICS 621: Ambulatory Health Care Services"
+    }
+	  ],
+	"version": 1
+}
