@@ -10,7 +10,7 @@
       "description": "The Agriculture, Forestry, Fishing and Hunting sector comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural habitats.",
       "meta": {
 	  "kill_chain": [
-          "osrs-general-bls-index:BLS 1 thru 100"
+          "osrs-general-bls-index:BLS 1 thru 300"
         ],
         "refs": [
           "https://www.bls.gov/iag/tgs/iag_index_alpha.htm"
