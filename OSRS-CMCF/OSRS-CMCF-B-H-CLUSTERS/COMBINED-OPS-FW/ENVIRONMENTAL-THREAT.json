@@ -1,0 +1,25 @@
+{
+  "category": "ENVIRONMENTAL-THREAT",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to the taxonomy language found in either the HITRUST Threat Catalogue or the ENISA Threat Taxonomy.",
+  "name": "OSRS Operational Framewrok",
+  "source": "HITRUST Threat Catalogue and the ENISA Threat Taxonomy",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Prolonged period of abnormally low rainfall, and a shortage of water causing damage to assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "3a953ca8-2823-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: PFC1 Drought"
+    }
+	  ],
+	"version": 1
+}
