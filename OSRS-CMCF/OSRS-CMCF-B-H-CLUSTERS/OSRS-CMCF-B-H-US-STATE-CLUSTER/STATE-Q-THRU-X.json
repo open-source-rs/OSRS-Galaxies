@@ -7,18 +7,18 @@
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Description placeholder value.",
+      "description": "Rhode Island, a U.S. state in New England, is known for sandy shores and seaside Colonial towns. It's home to several large cities, including Newport, which is famed for sailing and Gilded Age mansions, such as The Breakers. Providence, its capital, is home to Brown University, green Roger Williams Park, landscaped Waterplace Park and Riverwalk, with the famed WaterFire art installation.",
       "meta": {
 	  "kill_chain": [
           "osrs-state-index:US State Q thru X"
         ],
         "refs": [
-          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
+          "https://en.wikipedia.org/wiki/Rhode_Island"
         ]
       },
       "uuid": "668d960a-25cd-11ea-978f-2e728ce88125",
       "value": "OSRS State Index: Rhode Island, RI"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
