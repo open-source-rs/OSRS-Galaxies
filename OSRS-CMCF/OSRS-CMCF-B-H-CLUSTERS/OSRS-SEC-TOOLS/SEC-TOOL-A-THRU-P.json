@@ -10,7 +10,7 @@
       "description": ".NET Reactor is a powerful code protection and software licensing system for software written for the .NET Framework, and supports all languages that generate .NET assemblies.",
       "meta": {
 	  "kill_chain": [
-          "osrs-sec-tool:SecTool A-P"
+          "osrs-sec-tool:SecTool A thru P"
         ],
         "refs": [
           "https://www.eziriz.com/dotnet_reactor.htm"
