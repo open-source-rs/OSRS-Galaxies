@@ -1,23 +1,28 @@
 {
-  "category": "OSINT-AUTHOR-A-THRU-H",
-  "description": "OSRS OSINT authors A thru H.",
-  "name": "OSINT-AUTHOR-A-THRU-H",
+  "category": "OSINT-AUTHOR-A-THRU-P",
+  "description": "OSRS OSINT authors A thru P.",
+  "name": "OSINT-AUTHOR-A-THRU-P",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "
-    Aaron Riley is a Cyber Threat Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
+      "description": "Aaron Riley is a Cyber Threat Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
       "meta": {
 	  "kill_chain": [
-          "osrs-osint-author-index:OSINT Author A thru H"
+          "osrs-osint-author-index:OSINT Author A thru P"
         ],
         "refs": [
-          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-"
-        ]
+          "https://cofense.com/author/aaron-riley/",
+	  "https://www.linkedin.com/in/aaron-riley-8a110994/",
+	  "https://twitter.com/MalwarePI"
+        ],
+	"synonyms": [
+	  "MalwarePI",
+	  "@MalwarePI"	
+	]
       },
-      "uuid": "6716acbc-2652-11ea-978f-2e728ce88125",
+      "uuid": "bdef32fe-27ef-11ea-978f-2e728ce88125",
       "value": "OSRS OSINT Author: Aaron Riley"
     }
 	  ],
