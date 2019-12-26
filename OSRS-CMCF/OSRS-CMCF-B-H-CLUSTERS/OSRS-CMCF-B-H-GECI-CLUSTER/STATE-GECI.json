@@ -7,7 +7,7 @@
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Description placeholder value.",
+      "description": "State level government entitites such as the Secretary of State or state.",
       "meta": {
 	  "kill_chain": [
           "osrs-geci-index:State GECI"
@@ -20,5 +20,5 @@
       "value": "State GECI: Administration"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
