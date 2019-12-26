@@ -16,7 +16,7 @@
           "https://attack.mitre.org/techniques/T1189/"
         ]
       },
-      "uuid": "047c32b8-2803-11ea-978f-2e728ce88125",
+      "uuid": "856c28e2-2803-11ea-978f-2e728ce88125",
       "value": "OSRS CMCF MITRE ENT ATK UX - Initial Access: T1189 Drive-by Compromise"
     }
 	  ],
