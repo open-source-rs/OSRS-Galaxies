@@ -1,0 +1,24 @@
+{
+  "category": "RISK-MGMT-PROGRAM",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity Risk Management.",
+  "name": "HITRUST CSF - Risk Management Program",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "A framework is used to provide the foundation and organizational arrangement for the design, implementation, monitoring, review and continuous improvement of a comprehensive information security and privacy risk management program.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Risk Management Program"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3967a8a8-2822-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Risk Mgmt Program: 0.a Risk Management Framework"
+    }
+	  ],
+	"version": 1
+}
