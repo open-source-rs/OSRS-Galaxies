@@ -142,7 +142,7 @@
 	  "Exfiltration",
 	  "Impact"
       ],
-    "osrs-mitre-attack-sass": [
+    "osrs-mitre-attack-saas": [
       "Initial Access",
 	  "Persistence",
 	  "Privilege Escalation",
