@@ -1,0 +1,25 @@
+{
+  "category": "OSINT-SOURCE-A-THRU-P",
+  "description": "OSRS OSINT sources A thru P.",
+  "name": "OSINT-SOURCE-A-THRU-P",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Launched by seasoned Subject Matter Experts, Advanced Intelligence, LLC is a fraud prevention and risk management company providing state-of-the-art advisory solutions for businesses aspiring to prevent financial losses. We provide immediate alerting, applied intelligence, and long-term strategic services to assist the private sector and government organizations in overcoming any obstacles posed by the existing and emerging cyber threats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-osint-source-index:OSINT Source A thru P"
+        ],
+        "refs": [
+          "https://www.advanced-intel.com/blog",
+          "https://www.linkedin.com/company/advanced-intelligence-llc/"
+        ]
+      },
+      "uuid": "8a2d1e7e-27ed-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Advanced Intelligence, LLC (AdvIntel)"
+    }
+	  ],
+	"version": 1
+}
