@@ -7,7 +7,7 @@
   "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Description placeholder value.",
+      "description": "Federal or national level administrative services. Sometimes this could be entities such as national registries etc.",
       "meta": {
 	  "kill_chain": [
           "osrs-geci-index:Federal OR National GECI"
@@ -20,5 +20,5 @@
       "value": "National or Federal GECI: Administration"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
