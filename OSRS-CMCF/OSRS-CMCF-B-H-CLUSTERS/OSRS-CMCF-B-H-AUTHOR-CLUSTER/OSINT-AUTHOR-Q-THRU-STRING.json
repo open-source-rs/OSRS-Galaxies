@@ -1,0 +1,24 @@
+{
+  "category": "OSINT-AUTHOR-Q-THRU-STRING",
+  "description": "OSRS OSINT authors A thru P, where string can be any combination of letters and numbers.",
+  "name": "OSINT-AUTHOR-Q-THRU-STRING",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "22b3fcee-2582-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company Sophos.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-osint-author-index:OSINT Author Q thru String"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/author/rajeshnataraj/"
+        ]
+      },
+      "uuid": "3c53d26c-27f0-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Author: Rajesh Nataraj"
+    }
+	  ],
+	"version": 1
+}
