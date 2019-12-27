@@ -1,0 +1,25 @@
+{
+  "category": "ORGANIZATIONAL-WEAKNESS-ID",
+  "description": "Organizational weakness identification consists of identifying and analyzing weaknesses and vulnerabilities from the intelligence gathering phases which can be leveraged to gain access to target or intermediate target organizations of interest.",
+  "name": "OSRS MITRE Pre-ATT&CK Matrix - Organizational Weakness Identification",
+  "source": "MITRE Pre-ATT&CK Matrix",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Analysts assess current information available against requirements that outline needs and wants as part of the research baselining process to begin satisfying a requirement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1301"
+        ]
+      },
+      "uuid": "c836ea3e-2823-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1236 Assess current holdings, needs, and wants"
+    }
+	  ],
+	"version": 1
+}
