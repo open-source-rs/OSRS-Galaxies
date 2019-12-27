@@ -1,0 +1,24 @@
+{
+  "category": "ACCESS-CTL",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to the development and implementation of access control policy and procedures.",
+  "name": "HITRUST CSF - Access Control",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Access control requirements are formally established, documented and reviewed based on business and information security requirements.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "2456bc20-28c6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.a Access Control"
+    }
+	  ],
+	"version": 1
+}
