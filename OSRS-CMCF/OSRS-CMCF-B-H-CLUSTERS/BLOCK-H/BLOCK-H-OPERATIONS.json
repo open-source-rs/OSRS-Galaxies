@@ -1,0 +1,24 @@
+{
+  "category": "BLOCK-H-OPERATIONS",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity operations.",
+  "name": "HITRUST CSF - Operations",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Operating procedures are documented and made available to all users who need them.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "62dad872-28c7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.a Documented Operating Procedures"
+    }
+	  ],
+	"version": 1
+}
