@@ -1,0 +1,25 @@
+{
+  "category": "TECHNICAL-WEAKNESS-ID",
+  "description": "Technical weakness identification consists of identifying and analyzing weaknesses and vulnerabilities collected during the intelligence gathering phases to determine best approach based on technical complexity and adversary priorities (e.g., expediency, stealthiness).",
+  "name": "OSRS MITRE Pre-ATT&CK Matrix - Technical Weakness Identification",
+  "source": "MITRE Pre-ATT&CK Matrix",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "An adversary can probe a victim's network to determine configurations. The configurations may provide opportunities to route traffic through the network in an undetected or less detectable way.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1293"
+        ]
+      },
+      "uuid": "6cdde480-28dc-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1293 Analyze application security posture"
+    }
+	  ],
+	"version": 1
+}
