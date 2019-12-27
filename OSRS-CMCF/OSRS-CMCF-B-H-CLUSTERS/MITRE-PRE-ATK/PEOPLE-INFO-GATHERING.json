@@ -1,0 +1,25 @@
+{
+  "category": "PEOPLE-INFO-GATHERING",
+  "description": "People Information Gathering consists of the process of identifying critical personnel elements of intelligence an adversary will need about a target in order to best attack.  People intelligence gathering focuses on identifying key personnel or individuals with critical accesses in order to best approach a target for attack.  It may involve aspects of social engineering, elicitation, mining social media sources, or be thought of as understanding the personnel element of competitive intelligence.",
+  "name": "OSRS MITRE Pre-ATT&CK Matrix - People Information Gathering",
+  "source": "MITRE Pre-ATT&CK Matrix",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Open source intelligence (OSINT) provides free, readily available information about a target while providing the target no indication they are of interest. Such information can assist an adversary in crafting a successful approach for compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:People Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0016/",
+          "https://attack.mitre.org/techniques/T1266"
+        ]
+      },
+      "uuid": "a07c6b0a-28db-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK People Information Gathering: T1266 Acquire OSINT data sets and information"
+    }
+	  ],
+	"version": 1
+}
