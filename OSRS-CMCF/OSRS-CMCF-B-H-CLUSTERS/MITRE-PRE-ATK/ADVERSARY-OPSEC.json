@@ -1,0 +1,25 @@
+{
+  "category": "ADVERSARY-OPSEC",
+  "description": "Adversary OPSEC consists of the use of various technologies or 3rd party services to obfuscate, hide, or blend in with accepted network traffic or system behavior. The adversary may use these techniques to evade defenses, reduce attribution, minimize discovery, and/or increase the time and effort required to analyze.",
+  "name": "OSRS MITRE Pre-ATT&CK Matrix - Adversary OPSEC",
+  "source": "MITRE Pre-ATT&CK Matrix",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "A wide variety of cloud, virtual private services, hosting, compute, and storage solutions are available. Additionally botnets are available for rent or purchase. Use of these solutions allow an adversary to stage, launch, and execute an attack from infrastructure that does not physically tie back to them and can be rapidly provisioned, modified, and shut down.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Adversary OPSEC"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0021/",
+          "https://attack.mitre.org/techniques/T1307"
+        ]
+      },
+      "uuid": "b03cc1f4-28e3-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Adversary OPSEC: T1307 Acquire and (or) use 3rd party infrastructure services"
+    }
+	  ],
+	"version": 1
+}
