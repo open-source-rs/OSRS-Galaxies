@@ -1,6 +1,6 @@
 {
   "category": "GDBI",
-  "description": "This cluster is designed to place generic causalities to recorded data breach type artifacts (i.e. insider, BEC, etc.).",
+  "description": "This Generic Data Breach Index (GDBI) is designed to place generic causalities to recorded data breach type artifacts (i.e. insider, BEC, etc.).",
   "name": "OSRS Backdoor",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
