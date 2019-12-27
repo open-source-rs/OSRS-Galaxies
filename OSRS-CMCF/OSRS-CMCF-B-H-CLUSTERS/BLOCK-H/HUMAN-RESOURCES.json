@@ -1,0 +1,24 @@
+{
+  "category": "HUMAN-RESOURCES",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity Risk Management.",
+  "name": "HITRUST CSF - Human Resources",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Background verification checks on all candidates for employment are carried out in accordance with relevant laws, regulations and ethics and shall be proportional to the business requirements, the classification of the information to be accessed and the perceived risks.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "1807d374-28c5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.a Screening"
+    }
+	  ],
+	"version": 1
+}
