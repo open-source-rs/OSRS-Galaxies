@@ -7,7 +7,7 @@
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "Failure or disruption of third party services required for proper operation of information systems. For example, resources or supporting systems.",
+      "description": "Using authorized access to perform illegitimate actions.",
       "meta": {
 	  "kill_chain": [
           "combined-ops-framework:Nefarious Threat"
@@ -21,7 +21,7 @@
       "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN1 Abuse of Authorizations"
     },
 	  {
-      "description": "Threat of failure of IT hardware and, or software assets or its parts. May include failure of defective data media, hardware failures, application failures, and failure of device parts.",
+      "description": "Threat of locating and possible exploite connection to the wireless network.",
       "meta": {
 	  "kill_chain": [
           "combined-ops-framework:Nefarious Threat"
