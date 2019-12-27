@@ -1,0 +1,25 @@
+{
+  "category": "US-STATE-INDEX",
+  "description": "Cluster designed for tagging OSINT artifacts that require the associated tag for their respective U.S. states (i.e. Alabama, Michigan, etc.).",
+  "name": "OSRS U.S. State Index",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Alabama is a southeastern U.S. state that’s home to significant landmarks from the American Civil Rights Movement. The city of Birmingham's 16th Street Baptist Church, now a museum, was a protest headquarters in the 1960s. Martin Luther King, Jr.'s church and the Rosa Parks Museum, dedicated to the activist, can be found in the capital of Montgomery.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:US State Index"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Alabama"
+        ]
+      },
+      "uuid": "9cb8870e-28b0-11ea-978f-2e728ce88125",
+      "value": "OSRS US State Index: Alabama, AL"
+    }
+	  ],
+	"version": 1
+}
