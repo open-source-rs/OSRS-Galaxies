@@ -1,0 +1,39 @@
+{
+  "category": "EXISTENTIAL-THREAT",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to the taxonomy language found in either the HITRUST Threat Catalogue or the ENISA Threat Taxonomy.",
+  "name": "OSRS Operational Framewrok - Existential Threat",
+  "source": "HITRUST Threat Catalogue and the ENISA Threat Taxonomy",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Damage to assets, facilities, and employees due to war or armed conflict.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0386334e-28d6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST LIC4 Warfare"
+    },
+	  {
+      "description": "Fraud made by human. May also include fraud by employees.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "038635ce-28d6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Fraud"
+    }	  
+	  ],
+	"version": 1
+}
