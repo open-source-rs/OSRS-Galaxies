@@ -1,0 +1,39 @@
+{
+  "category": "HUMAN-THREAT",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to the taxonomy language found in either the HITRUST Threat Catalogue or the ENISA Threat Taxonomy.",
+  "name": "OSRS Operational Framewrok - Human Threat",
+  "source": "HITRUST Threat Catalogue and the ENISA Threat Taxonomy",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Deliberate actions aimed to cause disruption or damage to information and/or IT assets for financial or personal gain.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b063eb10-28d6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIC1 Sabotage"
+    },
+	  {
+      "description": "Threat of unintentional but damaging distribution of information due to human error.  May include accidental leaks by employees, leaks via mobile applications, leaks via web applications, or leaks of information transfered over network mediums.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b063edfe-28d6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Information Leakage OR Sharing Due to Human Error"
+    }	  
+	  ],
+	"version": 1
+}
