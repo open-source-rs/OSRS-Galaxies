@@ -1,0 +1,25 @@
+{
+  "category": "BLS-A-THRU-P",
+  "description": "Cluster designed for tagging OSINT artifacts appropriate U.S. Bureau of Labor Statistics class codes. This cluster covers class codes A thru P.",
+  "name": "OSRS Bureau of Labor Statistics - A thru P",
+  "source": "US Bureau of Labor Statistics - Industries at a Glance",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Industries in the Accommodation subsector provide lodging or short-term accommodations for travelers, vacationers, and others. There is a wide range of establishments in these industries. Some provide lodging only; while others provide meals, laundry services, and recreational facilities, as well as lodging. Lodging establishments are classified in this subsector even if the provision of complementary services generates more revenue. The types of complementary services provided vary from establishment to establishment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag721.htm"
+        ]
+      },
+      "uuid": "81aafb26-28b1-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 721 Accommodation"
+    }
+	  ],
+	"version": 1
+}
