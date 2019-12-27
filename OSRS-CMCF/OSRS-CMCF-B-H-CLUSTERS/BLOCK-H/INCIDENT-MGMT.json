@@ -1,0 +1,24 @@
+{
+  "category": "INCIDENT-MGMT",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity management of information security incidents.",
+  "name": "HITRUST CSF - Incident Management",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Management establishes a quick, effective and orderly response to information security incidents.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fb69e71c-28c8-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.a Incident Management Program"
+    }
+	  ],
+	"version": 1
+}
