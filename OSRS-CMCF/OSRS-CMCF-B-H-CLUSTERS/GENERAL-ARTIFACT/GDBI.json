@@ -1,0 +1,25 @@
+{
+  "category": "GDBI",
+  "description": "This cluster is designed to place generic causalities to recorded data breach type artifacts (i.e. insider, BEC, etc.).",
+  "name": "OSRS Backdoor",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Business email compromise attacks (BEC) is a form of cyber crime which uses email fraud to attack commercial, Government and non-profit organizations to achieve a specific outcome which negatively impacts the targets organization. Examples of common BEC attacks include invoice scams and spear phishing spoof attacks which are designed to gather data for other criminal activities. Often consumer privacy breaches occur as a results of a BEC attack. Typically an attack targets specific employee roles within an organization by sending a spoof email (or series of spoof emails) which fraudulently represent a senior colleague (CEO or similar) or a trusted customer. The email will issue instructions such as approving payments or releasing client data. The emails often use social engineering to trick the victim into making money transfers to the bank accounts of the fraudster.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Business_email_compromise"
+        ]
+      },
+      "uuid": "9e5870bc-28ae-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Business-Email-Compromise(BEC)"
+    }
+	  ],
+	"version": 1
+}
