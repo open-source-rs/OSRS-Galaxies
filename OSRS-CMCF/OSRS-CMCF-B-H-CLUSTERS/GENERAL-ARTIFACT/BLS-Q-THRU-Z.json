@@ -1,0 +1,25 @@
+{
+  "category": "BLS-A-THRU-P",
+  "description": "Cluster designed for tagging OSINT artifacts appropriate U.S. Bureau of Labor Statistics class codes. This cluster covers class codes Q thru Z.",
+  "name": "OSRS Bureau of Labor Statistics - Q thru Z",
+  "source": "US Bureau of Labor Statistics - Industries at a Glance",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Industries in the Rail Transportation subsector provide rail transportation of passengers and or cargo using railroad rolling stock. The railroads in this subsector primarily either operate on networks, with physical facilities, labor force, and equipment spread over an extensive geographic area, or operate over a short distance on a local rail line.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index Q thru Z"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag482.htm"
+        ]
+      },
+      "uuid": "0b361c9a-28b2-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 482 Rail Transportation"
+    }
+	  ],
+	"version": 1
+}
