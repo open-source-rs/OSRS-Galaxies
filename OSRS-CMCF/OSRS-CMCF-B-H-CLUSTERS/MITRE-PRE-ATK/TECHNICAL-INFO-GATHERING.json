@@ -1,0 +1,25 @@
+{
+  "category": "TECHNICAL-INFO-GATHERING",
+  "description": "Technical information gathering consists of the process of identifying critical technical elements of intelligence an adversary will need about a target in order to best attack.  Technical intelligence gathering includes, but is not limited to, understanding the target's network architecture, IP space, network services, email format, and security procedures.",
+  "name": "OSRS MITRE Pre-ATT&CK Matrix - Technical Information Gathering",
+  "source": "MITRE Pre-ATT&CK Matrix",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Open source intelligence (OSINT) is intelligence gathered from publicly available sources. This can include both information gathered on-line, such as from search engines, as well as in the physical world.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0015/",
+          "https://attack.mitre.org/techniques/T1247"
+        ]
+      },
+      "uuid": "1d36ad8c-28db-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Information Gathering: T1247 Acquire OSINT data sets and information"
+    }
+	  ],
+	"version": 1
+}
