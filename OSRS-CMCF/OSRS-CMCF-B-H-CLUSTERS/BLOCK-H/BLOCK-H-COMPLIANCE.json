@@ -1,0 +1,24 @@
+{
+  "category": "BLOCK-H-COMPLIANCE",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity Compliance based policy and procedure.",
+  "name": "HITRUST CSF - Compliance",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "All relevant legislative statutory, regulatory, contractual requirements and the organization’s approach to meet these requirements are explicitly identified, documented and kept up to date for each information system and the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "be44a9f2-28c9-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.a Identification of Applicable Legislation and Contractual Requirements"
+    }
+	  ],
+	"version": 1
+}
