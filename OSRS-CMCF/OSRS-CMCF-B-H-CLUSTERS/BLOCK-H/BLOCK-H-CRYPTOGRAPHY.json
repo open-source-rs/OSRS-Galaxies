@@ -1,0 +1,24 @@
+{
+  "category": "BLOCK-H-CRYPTOGRAPHY",
+  "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity cryptographic development and implementation.",
+  "name": "HITRUST CSF - Cryptography",
+  "source": "HITRUST CSF",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Requirements on the use of cryptographic controls for information protection are formally developed and implemented.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Cryptography"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7fc50ecc-28c6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Cryptography: 06.a Use of Cryptographic Controls"
+    }
+	  ],
+	"version": 1
+}
