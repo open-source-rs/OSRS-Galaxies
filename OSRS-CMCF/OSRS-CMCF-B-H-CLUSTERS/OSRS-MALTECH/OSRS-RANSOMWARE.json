@@ -1,0 +1,24 @@
+{
+  "category": "OSRS-RANSOMWARE",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious ransomware.",
+  "name": "OSRS Ransomware",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "The Anatova ransomware is a 64bits application with the compile date of January 1st, 2019. The file size of this particular hash is 307kb, but it can change due to the amount of resources used in the sample. If we remove all these resources, the size is 32kb; a very small program with a powerful mechanism inside.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/happy-new-year-2019-anatova-is-here/"
+        ]
+      },
+      "uuid": "07eb9b56-29bf-11ea-978f-2e728ce88125",
+      "value": "OSRS Ransomware: Anatova"
+    }
+	  ],
+	"version": 1
+}
