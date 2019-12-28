@@ -10,7 +10,7 @@
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
@@ -18,13 +18,13 @@
         ]
       },
       "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
+      "value": "OSRS Combined MITRE ATK Persistence Windows: T1189 Drive-by Compromise"
     },
 {
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
@@ -38,7 +38,7 @@
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
@@ -52,7 +52,7 @@
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
@@ -66,7 +66,7 @@
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
@@ -80,7 +80,7 @@
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
-          "osrs-combined-mitre-atk:Initial Access"
+          "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
