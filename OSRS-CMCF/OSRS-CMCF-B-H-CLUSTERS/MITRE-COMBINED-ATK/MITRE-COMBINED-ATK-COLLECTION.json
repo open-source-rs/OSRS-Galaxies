@@ -1,0 +1,95 @@
+{
+  "category": "MITRE-COMBINED-ATK-COLLECTION",
+  "description": "The adversary is trying to gather data of interest to their goal. Collection consists of techniques adversaries may use to gather information and the sources information is collected from that are relevant to following through on the adversary's objectives. Frequently, the next goal after collecting data is to steal (exfiltrate) the data. Common target sources include various drive types, browsers, audio, video, and email. Common collection methods include capturing screenshots and keyboard input.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Collection",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "An adversary can leverage a computer's peripheral devices (e.g., microphones and webcams) or applications (e.g., voice and video call services) to capture audio recordings for the purpose of listening into sensitive conversations to gather information. Malware or scripts may be used to interact with the devices through an available API provided by the operating system or an application to capture audio. Audio files may be written to disk and exfiltrated later.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1123/"
+        ]
+      },
+      "uuid": "408ceb12-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection Windows: T1123 Audio Capture"
+    },
+{
+      "description": "An adversary can leverage a computer's peripheral devices (e.g., microphones and webcams) or applications (e.g., voice and video call services) to capture audio recordings for the purpose of listening into sensitive conversations to gather information. Malware or scripts may be used to interact with the devices through an available API provided by the operating system or an application to capture audio. Audio files may be written to disk and exfiltrated later.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1123/"
+        ]
+      },
+      "uuid": "408cedba-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection Linux: T1123 Audio Capture"
+    },
+{
+      "description": "Adversaries may access data objects from improperly secured cloud storage. Many cloud service providers offer solutions for online data storage such as Amazon S3, Azure Storage, and Google Cloud Storage. These solutions differ from other storage solutions (such as SQL or Elasticsearch) in that there is no overarching application. Data from these solutions can be retrieved directly using the cloud provider's APIs. Solution providers typically offer security guides to help end users configure systems. Misconfiguration by end users is a common problem. There have been numerous incidents where cloud storage has been improperly secured (typically by unintentionally allowing public access by unauthenticated users or overly-broad access by all users), allowing open access to credit cards, personally identifiable information, medical records, and other sensitive information. Adversaries may also obtain leaked credentials in source repositories, logs, or other means as a way to gain access to cloud storage objects that have access permission controls.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1530/"
+        ]
+      },
+      "uuid": "408cef18-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection AWS: T1530 Data from Cloud Storage Object"
+    },	  
+{
+      "description": "Adversaries may access data objects from improperly secured cloud storage. Many cloud service providers offer solutions for online data storage such as Amazon S3, Azure Storage, and Google Cloud Storage. These solutions differ from other storage solutions (such as SQL or Elasticsearch) in that there is no overarching application. Data from these solutions can be retrieved directly using the cloud provider's APIs. Solution providers typically offer security guides to help end users configure systems. Misconfiguration by end users is a common problem. There have been numerous incidents where cloud storage has been improperly secured (typically by unintentionally allowing public access by unauthenticated users or overly-broad access by all users), allowing open access to credit cards, personally identifiable information, medical records, and other sensitive information. Adversaries may also obtain leaked credentials in source repositories, logs, or other means as a way to gain access to cloud storage objects that have access permission controls.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1530/"
+        ]
+      },
+      "uuid": "408cf062-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection GCP: T1530 Data from Cloud Storage Object"
+    },	  	  
+	  {
+      "description": "Adversaries may access data objects from improperly secured cloud storage. Many cloud service providers offer solutions for online data storage such as Amazon S3, Azure Storage, and Google Cloud Storage. These solutions differ from other storage solutions (such as SQL or Elasticsearch) in that there is no overarching application. Data from these solutions can be retrieved directly using the cloud provider's APIs. Solution providers typically offer security guides to help end users configure systems. Misconfiguration by end users is a common problem. There have been numerous incidents where cloud storage has been improperly secured (typically by unintentionally allowing public access by unauthenticated users or overly-broad access by all users), allowing open access to credit cards, personally identifiable information, medical records, and other sensitive information. Adversaries may also obtain leaked credentials in source repositories, logs, or other means as a way to gain access to cloud storage objects that have access permission controls.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1530/"
+        ]
+      },
+      "uuid": "408cf1a2-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection Azure: T1530 Data from Cloud Storage Object"
+    },		  
+{
+      "description": "Adversaries may leverage information repositories to mine valuable information. Information repositories are tools that allow for storage of information, typically to facilitate collaboration or information sharing between users, and can store a wide variety of data that may aid adversaries in further objectives, or direct access to the target information. Adversaries may also collect information from shared storage repositories hosted on cloud infrastructure or in software-as-a-service (SaaS) applications, as storage is one of the more fundamental requirements for cloud services and systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Collection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0009/",
+          "https://attack.mitre.org/techniques/T1213/"
+        ]
+      },
+      "uuid": "408cf562-29a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Collection SaaS: T1213 Data from Information Repositories"
+    }
+	  ],
+	"version": 1
+}
