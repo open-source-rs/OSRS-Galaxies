@@ -1,7 +1,7 @@
 {
   "category": "SEC-TOOL-A-THRU-P",
   "description": "Cluster designed for tagging OSINT artifacts that relate to various tools used by cybersecurity personnel for various purposes.",
-  "name": "OSRS Security Tool Index",
+  "name": "OSRS Security Tool Index - SecTool A thru P",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
