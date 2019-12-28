@@ -1,0 +1,95 @@
+{
+  "category": "MITRE-COMBINED-ATK-CRED-ACCESS",
+  "description": "The adversary is trying to steal account names and passwords. Credential Access consists of techniques for stealing credentials like account names and passwords. Techniques used to get credentials include keylogging or credential dumping. Using legitimate credentials can give adversaries access to systems, make them harder to detect, and provide the opportunity to create more accounts to help achieve their goals.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Credential Access",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1098"
+        ]
+      },
+      "uuid": "3ff235fc-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access Windows: T1098 Account Manipulation"
+    },
+{
+      "description": "Bash keeps track of the commands users type on the command-line with the history utility. Once a user logs out, the history is flushed to the user’s .bash_history file. For each user, this file resides at the same location .bash_history. Typically, this file keeps track of the user’s last 500 commands. Users often type usernames and passwords on the command-line as parameters to programs, which then get saved to this file when they log out. Attackers can abuse this by looking through the file for potential credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1139/"
+        ]
+      },
+      "uuid": "3ff239b2-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access Linux: T1139 Bash History"
+    },
+{
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1098/"
+        ]
+      },
+      "uuid": "3ff23b1a-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access AWS: T1098 Account Manipulation"
+    },	  
+{
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1098/"
+        ]
+      },
+      "uuid": "3ff23d0e-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access GCP: T1098 Account Manipulation"
+    },	  	  
+	  {
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1098/"
+        ]
+      },
+      "uuid": "3ff23ee4-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access Azure: T1098 Account Manipulation"
+    },		  
+{
+      "description": "Adversaries may use brute force techniques to attempt access to accounts when passwords are unknown or when password hashes are obtained. Credential Dumping is used to obtain password hashes, this may only get an adversary so far when Pass the Hash is not an option. Techniques to systematically guess the passwords used to compute hashes are available, or the adversary may use a pre-computed rainbow table to crack hashes. Cracking hashes is usually done on adversary-controlled systems outside of the target network. Adversaries may attempt to brute force logins without knowledge of passwords or hashes during an operation either with zero knowledge or by attempting a list of known or possible passwords. This is a riskier option because it could cause numerous authentication failures and account lockouts, depending on the organization's login failure policies. A related technique called password spraying uses one password (e.g. Password01), or a small list of passwords, that matches the complexity policy of the domain and may be a commonly used password. Logins are attempted with that password and many different accounts on a network to avoid account lockouts that would normally occur when brute forcing a single account with many passwords.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Credential Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0006/",
+          "https://attack.mitre.org/techniques/T1110/"
+        ]
+      },
+      "uuid": "3ff240d8-299f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Credential Access SaaS: T1110 Brute Force"
+    }
+	  ],
+	"version": 1
+}
