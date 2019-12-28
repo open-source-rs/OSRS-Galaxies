@@ -19,7 +19,62 @@
       },
       "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
-    }
+    },
+	  
+	  
+{
+      "description": "",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
+    },
+	  
+	  
+{
+      "description": "",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
+    },	  
+	  
+{
+      "description": "",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
+    }	  	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
 	  ],
 	"version": 1
 }
