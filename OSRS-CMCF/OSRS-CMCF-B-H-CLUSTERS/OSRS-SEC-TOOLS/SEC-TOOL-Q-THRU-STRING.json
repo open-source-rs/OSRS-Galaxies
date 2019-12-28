@@ -1,0 +1,24 @@
+{
+  "category": "SEC-TOOL-Q-THRU-STRING",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to various tools used by cybersecurity personnel for various purposes.",
+  "name": "OSRS Security Tool Index - SecTool Q thru String",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Open-source jailbreaking tool for many iOS devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/axi0mX/ipwndfu"
+        ]
+      },
+      "uuid": "c71e67cc-29c1-11ea-978f-2e728ce88125",
+      "value": "OSRS SecTool: checkm8"
+    }
+	  ],
+	"version": 1
+}
