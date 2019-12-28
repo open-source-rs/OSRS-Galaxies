@@ -1,0 +1,24 @@
+{
+  "category": "OSRS-BACKDOORS",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious backdoors.",
+  "name": "OSRS Backdoor",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "A backdoor that can be used on linux and windows systems. Both instances of this malware are practically identical in terms of overall functionality, with minor implementation differences. Both malware instances share the same protocol to communicate with the same CNC server. However, these instances have different delivery vectors. The windows instance has been observed being delivered by the Fallout Exploit Kit. The main function is not obfuscated and appears to be straightforward in logic. In the Windows variant we can see how some strings are decoded in the beginning of the function. After initial string decoding the malware serializes the victim by collecting architecture, system, and MAC address information. The way the Windows variant collects this information is by calling the correspondent Windows API functions in order to retrieve the subject information such as IsWow64Process. The Linux variant, on the other hand, uses a different technique that mainly relies on uname system call to retrieve architecture and system information, in addition to a combination of socket as well as ioctl system calls to retrieve the MAC address. After victim information has been serialized, the malware will apply some persistence mechanisms. The Windows instance will initialize a registry entry so that the malware will be executed on system start-up. The Linux instance will set up various symbolic links and add an initrd script for the malware to also run on system start-up.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-acbackdoor-analysis-of-a-new-multiplatform-backdoor/"
+        ]
+      },
+      "uuid": "2186503c-29bb-11ea-978f-2e728ce88125",
+      "value": "OSRS Backdoor: ACBackdoor"
+    }
+	  ],
+	"version": 1
+}
