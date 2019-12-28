@@ -1,94 +1,94 @@
 {
   "category": "MITRE-COMBINED-ATK-PERSISTENCE",
-  "description": "Initial Access consists of techniques that use various entry vectors to gain their initial foothold within a network. Techniques used to gain a foothold include targeted spearphishing and exploiting weaknesses on public-facing web servers. Footholds gained through initial access may allow for continued access, like valid accounts and use of external remote services, or may be limited-use due to changing passwords. The OSRS MITRE Combined Enterprise ATT&CK combines the following matrices - Windows, Linux, AWS, GCP, Azure, and SaaS into a single MISP mapping.",
+  "description": "The adversary is trying to maintain their foothold. Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
   "name": "OSRS Combined MITRE ATT&CK Matrix - Persistence",
   "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	  {
-      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "description": "Windows contains accessibility features that may be launched with a key combination before a user has logged in (for example, when the user is on the Windows logon screen). An adversary can modify the way these programs are launched to get a command prompt or backdoor without logging in to the system.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1189"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1015/"
         ]
       },
-      "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence Windows: T1189 Drive-by Compromise"
+      "uuid": "a3aeb13e-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence Windows: T1015 Accessibility Features"
     },
 {
-      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "description": "These files are executed in a user's context when a new shell opens or when a user logs in so that their environment is set correctly. This means that when a user logs in (via username and password) to the console (either locally or remotely via something like SSH), the .bash_profile script is executed before the initial command prompt is returned to the user. After that, every time a new shell is opened, the .bashrc script is executed. This allows users more fine-grained control over when they want certain commands executed. These shell scripts are meant to be written to by the local user to configure their own environment.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1189"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1156/"
         ]
       },
-      "uuid": "dd28db08-2988-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1189 Drive-by Compromise"
+      "uuid": "a3aeb3be-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence Linux: T1156 .bash_profile and .bashrc"
     },
 {
-      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1190/"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1098/"
         ]
       },
-      "uuid": "dd28ddd8-2988-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access AWS: T1190 Exploit Public-Facing Application"
+      "uuid": "a3aeb864-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence AWS: T1098 Account Manipulation"
     },	  
 {
-      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1190/"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1098/"
         ]
       },
-      "uuid": "47c72c26-2989-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access GCP: T1190 Exploit Public-Facing Application"
+      "uuid": "a3aeb9fe-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence GCP: T1098 Account Manipulation"
     },	  	  
 	  {
-      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1189"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1098/"
         ]
       },
-      "uuid": "47c72e92-2989-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access Azure: T1190 Exploit Public-Facing Application"
+      "uuid": "a3aebb52-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence Azure: T1098 Account Manipulation"
     },		  
 {
-      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated. If one type of tool is detected and blocked or removed as a response but the organization did not gain a full understanding of the adversary's tools and access, then the adversary will be able to retain access to the network. Adversaries may also attempt to gain access to Valid Accounts to use External Remote Services such as external VPNs as a way to maintain access despite interruptions to remote access tools deployed within a target network. Adversaries may also retain access through cloud-based infrastructure and applications. Use of a Web Shell is one such way to maintain access to a network through an externally accessible Web server.",
       "meta": {
 	  "kill_chain": [
           "osrs-combined-mitre-atk:Persistence"
         ],
         "refs": [
-          "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1189"
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108/"
         ]
       },
-      "uuid": "3c30a2b0-298a-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1189 Drive-by Compromise"
+      "uuid": "a3aebc9c-298f-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence SaaS: T1108 Redundant Access"
     }
 	  ],
 	"version": 1
