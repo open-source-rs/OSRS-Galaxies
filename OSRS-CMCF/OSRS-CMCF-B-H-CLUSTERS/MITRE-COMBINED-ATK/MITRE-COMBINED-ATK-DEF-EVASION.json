@@ -1,0 +1,95 @@
+{
+  "category": "MITRE-COMBINED-ATK-DEF-EVASION",
+  "description": "The adversary is trying to avoid being detected. Defense Evasion consists of techniques that adversaries use to avoid detection throughout their compromise. Techniques used for defense evasion include uninstalling (or) disabling security software or obfuscating (or) encrypting data and scripts. Adversaries also leverage and abuse trusted processes to hide and masquerade their malware. Other tactics’ techniques are cross-listed here when those techniques include the added benefit of subverting defenses.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Defense Evasion",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion Windows: T1189 Drive-by Compromise"
+    },
+{
+      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "dd28db08-2988-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion Linux: T1189 Drive-by Compromise"
+    },
+{
+      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1190/"
+        ]
+      },
+      "uuid": "dd28ddd8-2988-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion AWS: T1190 Exploit Public-Facing Application"
+    },	  
+{
+      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1190/"
+        ]
+      },
+      "uuid": "47c72c26-2989-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion GCP: T1190 Exploit Public-Facing Application"
+    },	  	  
+	  {
+      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "47c72e92-2989-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion Azure: T1190 Exploit Public-Facing Application"
+    },		  
+{
+      "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Defense Evasion"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1189"
+        ]
+      },
+      "uuid": "3c30a2b0-298a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Defense Evasion SaaS: T1189 Drive-by Compromise"
+    }
+	  ],
+	"version": 1
+}
