@@ -1,7 +1,7 @@
 {
   "category": "MITRE-COMBINED-ATK-EXECUTION",
   "description": "The adversary is trying to run malicious code. Execution consists of techniques that result in adversary-controlled code running on a local or remote system. Techniques that run malicious code are often paired with techniques from all other tactics to achieve broader goals, like exploring a network or stealing data. For example, an adversary might use a remote access tool to run a PowerShell script that does Remote System Discovery.",
-  "name": "OSRS Combined MITRE ATT&CK Matrix",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Execution",
   "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
