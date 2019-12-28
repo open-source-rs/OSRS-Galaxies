@@ -1,0 +1,24 @@
+{
+  "category": "GENERAL-ARTIFACT-INFO-DRAWBACKS",
+  "description": "Informational drawbacks within the OSRS CMCF are related to instances where information from an artifiact is found missing, irrelevant, not congruent, or not complete based on the information supplied within the artifact.  The informational drawbacks allow for the tracking of these types of informational defficiencies.",
+  "name": "OSRS SecTool Informational Drawbacks",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "An information discrepency within the General Artifact category typically means that there was a lack of compatibility between the information supplied by the artifact and the OSRS CMCF.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:SecTool"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "9291ef44-29c4-11ea-978f-2e728ce88125",
+      "value": "OSRS CMCF SecTool Informational Drawback: Information Discrepancy"
+    }
+	  ],
+	"version": 1
+}
