@@ -1,0 +1,81 @@
+{
+  "category": "MITRE-COMBINED-ATK-EXFIL",
+  "description": "The adversary is trying to steal data. Exfiltration consists of techniques that adversaries may use to steal data from your network. Once they’ve collected data, adversaries often package it to avoid detection while removing it. This can include compression and encryption. Techniques for getting data out of a target network typically include transferring it over their command and control channel or an alternate channel and may also include putting size limits on the transmission.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Exfiltration",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Data, such as sensitive documents, may be exfiltrated through the use of automated processing or Scripting after being gathered during Collection. When automated exfiltration is used, other exfiltration techniques likely apply as well to transfer the information out of the network, such as Exfiltration Over Command and Control Channel and Exfiltration Over Alternative Protocol.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Exfiltration"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/",
+          "https://attack.mitre.org/techniques/T1020/"
+        ]
+      },
+      "uuid": "d17c5d04-29a9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Exfiltration Windows: T1020 Automated Exfiltration"
+    },
+{
+      "description": "Data, such as sensitive documents, may be exfiltrated through the use of automated processing or Scripting after being gathered during Collection. When automated exfiltration is used, other exfiltration techniques likely apply as well to transfer the information out of the network, such as Exfiltration Over Command and Control Channel and Exfiltration Over Alternative Protocol.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Exfiltration"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/",
+          "https://attack.mitre.org/techniques/T1020/"
+        ]
+      },
+      "uuid": "d17c5f7a-29a9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Exfiltration Linux: T1020 Automated Exfiltration"
+    },
+{
+      "description": "An adversary may exfiltrate data by transferring the data, including backups of cloud environments, to another cloud account they control on the same service to avoid typical file transfers (or) downloads and network-based exfiltration detection. A defender who is monitoring for large transfers to outside the cloud environment through normal file transfers or over command and control channels may not be watching for data transfers to another account within the same cloud provider. Such transfers may utilize existing cloud provider APIs and the internal address space of the cloud provider to blend into normal traffic or avoid data transfers over external network interfaces. Incidents have been observed where adversaries have created backups of cloud instances and transferred them to separate accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Exfiltration"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/",
+          "https://attack.mitre.org/techniques/T1537/"
+        ]
+      },
+      "uuid": "d17c6222-29a9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Exfiltration AWS: T1537 Transfer Data to Cloud Account"
+    },	  
+{
+      "description": "An adversary may exfiltrate data by transferring the data, including backups of cloud environments, to another cloud account they control on the same service to avoid typical file transfers (or) downloads and network-based exfiltration detection. A defender who is monitoring for large transfers to outside the cloud environment through normal file transfers or over command and control channels may not be watching for data transfers to another account within the same cloud provider. Such transfers may utilize existing cloud provider APIs and the internal address space of the cloud provider to blend into normal traffic or avoid data transfers over external network interfaces. Incidents have been observed where adversaries have created backups of cloud instances and transferred them to separate accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Exfiltration"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/",
+          "https://attack.mitre.org/techniques/T1537/"
+        ]
+      },
+      "uuid": "d17c60d8-29a9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Exfiltration GCP: T1537 Transfer Data to Cloud Account"
+    },	  	  
+	  {
+      "description": "An adversary may exfiltrate data by transferring the data, including backups of cloud environments, to another cloud account they control on the same service to avoid typical file transfers (or) downloads and network-based exfiltration detection. A defender who is monitoring for large transfers to outside the cloud environment through normal file transfers or over command and control channels may not be watching for data transfers to another account within the same cloud provider. Such transfers may utilize existing cloud provider APIs and the internal address space of the cloud provider to blend into normal traffic or avoid data transfers over external network interfaces. Incidents have been observed where adversaries have created backups of cloud instances and transferred them to separate accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Exfiltration"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0010/",
+          "https://attack.mitre.org/techniques/T1537/"
+        ]
+      },
+      "uuid": "d17c64f2-29a9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Exfiltration Azure: T1537 Transfer Data to Cloud Account"
+    }		  
+	  ],
+	"version": 1
+}
