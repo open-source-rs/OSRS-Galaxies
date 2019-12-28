@@ -1,0 +1,39 @@
+{
+  "category": "MITRE-COMBINED-ATK-C2",
+  "description": "The adversary is trying to communicate with compromised systems to control them. Command and Control consists of techniques that adversaries may use to communicate with systems under their control within a victim network. Adversaries commonly attempt to mimic normal, expected traffic to avoid detection. There are many ways an adversary can establish command and control with various levels of stealth depending on the victim’s network structure and defenses.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Command and Control",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Adversaries may communicate over a commonly used port to bypass firewalls or network detection systems and to blend with normal network activity to avoid more detailed inspection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Command and Control"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0011/",
+          "https://attack.mitre.org/techniques/T1043"
+        ]
+      },
+      "uuid": "f034aef0-29a8-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Command and Control Windows: T1043 Commonly Used Port"
+    },
+{
+      "description": "Adversaries may communicate over a commonly used port to bypass firewalls or network detection systems and to blend with normal network activity to avoid more detailed inspection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Command and Control"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0011/",
+          "https://attack.mitre.org/techniques/T1043"
+        ]
+      },
+      "uuid": "f034b350-29a8-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Command and Control Linux: T1043 Commonly Used Port"
+    }
+	  ],
+	"version": 1
+}
