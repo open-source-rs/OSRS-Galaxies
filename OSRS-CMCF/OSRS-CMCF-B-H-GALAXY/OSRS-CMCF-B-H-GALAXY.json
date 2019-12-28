@@ -79,6 +79,7 @@
 		"CWE 301 thru 600",
 		"CWE 601 thru 900",
 		"Exploit DB Type",
+		"Verification",
 		"Exploit DB Platform"
 	  ],
 	"osrs-maltech": [
