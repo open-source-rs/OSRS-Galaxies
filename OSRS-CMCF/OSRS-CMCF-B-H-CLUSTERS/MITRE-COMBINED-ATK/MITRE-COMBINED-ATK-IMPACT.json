@@ -1,0 +1,81 @@
+{
+  "category": "MITRE-COMBINED-ATK-IMPACT",
+  "description": "The adversary is trying to manipulate, interrupt, or destroy your systems and data. Impact consists of techniques that adversaries use to disrupt availability or compromise integrity by manipulating business and operational processes. Techniques used for impact can include destroying or tampering with data. In some cases, business processes can look fine, but may have been altered to benefit the adversaries’ goals. These techniques might be used by adversaries to follow through on their end goal or to provide cover for a confidentiality breach.",
+  "name": "OSRS Combined MITRE ATT&CK Matrix - Impact",
+  "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Adversaries may interrupt availability of system and network resources by inhibiting access to accounts utilized by legitimate users. Accounts may be deleted, locked, or manipulated (ex: changed credentials) to remove access to accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1531"
+        ]
+      },
+      "uuid": "01e37a32-29ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact Windows: T1531 Account Access Removal"
+    },
+{
+      "description": "Adversaries may interrupt availability of system and network resources by inhibiting access to accounts utilized by legitimate users. Accounts may be deleted, locked, or manipulated (ex: changed credentials) to remove access to accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1531"
+        ]
+      },
+      "uuid": "01e37e24-29ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact Linux: T1531 Account Access Removal"
+    },
+{
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1496/"
+        ]
+      },
+      "uuid": "01e37fa0-29ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact AWS: T1496 Resource Hijacking"
+    },	  
+{
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1496/"
+        ]
+      },
+      "uuid": "01e3831a-29ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact GCP: T1496 Resource Hijacking"
+    },	  	  
+	  {
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1496/"
+        ]
+      },
+      "uuid": "01e3852c-29ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact Azure: T1496 Resource Hijacking"
+    }		  
+	  ],
+	"version": 1
+}
