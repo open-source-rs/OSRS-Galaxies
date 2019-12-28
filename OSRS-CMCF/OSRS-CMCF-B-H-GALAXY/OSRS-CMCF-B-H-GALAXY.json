@@ -76,7 +76,7 @@
 	  ],
 	"cwe-exploit-db": [
 		"CWE 1 thru 300",
-		"CWE 310 thru 600",
+		"CWE 301 thru 600",
 		"CWE 601 thru 900",
 		"CWE 901 thru 1200",
 		"Exploit DB Type",
