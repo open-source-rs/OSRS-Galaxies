@@ -87,7 +87,7 @@
           "https://attack.mitre.org/techniques/T1189"
         ]
       },
-      "uuid": "47c72e92-2989-11ea-978f-2e728ce88125",
+      "uuid": "3c30a2b0-298a-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1189 Drive-by Compromise"
     }
 	  ],
