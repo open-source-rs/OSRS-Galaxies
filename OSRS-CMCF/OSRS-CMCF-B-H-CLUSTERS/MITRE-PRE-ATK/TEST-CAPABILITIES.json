@@ -17,7 +17,7 @@
           "https://attack.mitre.org/techniques/T1358"
         ]
       },
-      "uuid": "b03cc1f4-28e3-11ea-978f-2e728ce88125",
+      "uuid": "7a432fe2-297f-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Test Capabilities: T1358 Review logs and residual traces"
     }
 	  ],
