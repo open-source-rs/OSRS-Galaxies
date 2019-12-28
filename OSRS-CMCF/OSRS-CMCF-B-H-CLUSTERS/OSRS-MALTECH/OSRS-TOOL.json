@@ -1,0 +1,24 @@
+{
+  "category": "OSRS-TOOL",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious tools (trojans, RATs, etc.).",
+  "name": "OSRS Tool",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "This malware reads the C2 IP and port from the registry where it was saved by the previous stager. It processes the following commands from its C2 that are received encrypted over HTTP.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/"
+        ]
+      },
+      "uuid": "9044890e-29bf-11ea-978f-2e728ce88125",
+      "value": "OSRS Tool: .NET RocketMan Trojan"
+    }
+	  ],
+	"version": 1
+}
