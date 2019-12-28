@@ -1,0 +1,24 @@
+{
+  "category": "SEC-TOOL-TYPE",
+  "description": "Cluster designed for tagging OSINT artifacts that relate to various tools used by cybersecurity personnel for various purposes.",
+  "name": "OSRS Security Type Index",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Tools used to take over user or system accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Computer_access_control"
+        ]
+      },
+      "uuid": "09a2018a-29c2-11ea-978f-2e728ce88125",
+      "value": "OSRS SecTool Type: Account Control"
+    }
+	  ],
+	"version": 1
+}
