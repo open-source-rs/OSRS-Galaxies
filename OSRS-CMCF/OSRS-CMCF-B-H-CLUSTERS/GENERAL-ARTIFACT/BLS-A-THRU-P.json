@@ -19,7 +19,511 @@
       },
       "uuid": "81aafb26-28b1-11ea-978f-2e728ce88125",
       "value": "OSRS BLS: NAICS 721 Accommodation"
+    },
+	{
+      "description": "Industries in the Administrative and Support Services subsector group establishments engaged in activities that support the day-to-day operations of other organizations. The processes employed in this sector (e.g., general management, personnel administration, clerical activities, cleaning activities) are often integral parts of the activities of establishments found in all sectors of the economy. The establishments classified in this subsector have specialization in one or more of these activities and can, therefore, provide services to clients in a variety of industries and, in some cases, to households. The individual industries of this subsector are defined on the basis of the particular process that they are engaged in and the particular services they provide.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag561.htm"
+        ]
+      },
+      "uuid": "79cd7790-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 561 Administrative and Support Services"
+    },
+	{
+      "description": "The Administrative and Support and Waste Management and Remediation Services sector comprises establishments performing routine support activities for the day-to-day operations of other organizations. These essential activities are often undertaken in-house by establishments in many sectors of the economy. The establishments in this sector specialize in one or more of these support activities and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include office administration, hiring and placing of personnel, document preparation and similar clerical services, solicitation, collection, security and surveillance services, cleaning, and waste disposal services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag56.htm"
+        ]
+      },
+      "uuid": "79cd7dd0-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 56 Administrative and Support and Waste Management and Remediation Services"
+    },
+	{
+      "description": "The Agriculture, Forestry, Fishing and Hunting sector comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural habitats. The establishments in this sector are often described as farms, ranches, dairies, greenhouses, nurseries, orchards, or hatcheries. A farm may consist of a single tract of land or a number of separate tracts which may be held under different tenures. For example, one tract may be owned by the farm operator and another rented. It may be operated by the operator alone or with the assistance of members of the household or hired employees, or it may be operated by a partnership, corporation, or other type of organization. When a landowner has one or more tenants, renters, croppers, or managers, the land operated by each is considered a farm.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag11.htm"
+        ]
+      },
+      "uuid": "79cd7f60-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 11 Agriculture, Forestry, Fishing and Hunting"
+    },
+	{
+      "description": "Industries in the Air Transportation subsector provide air transportation of passengers and (or) cargo using aircraft, such as airplanes and helicopters. The subsector distinguishes scheduled from nonscheduled air transportation. Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded. Nonscheduled carriers often operate during nonpeak time slots at busy airports. These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics. Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services. Specialty flying services establishments use general-purpose aircraft to provide a variety of specialized flying services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag481.htm"
+        ]
+      },
+      "uuid": "79cd80aa-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 481 Air Transportation"
+    },
+	{
+      "description": "Industries in the Ambulatory Health Care Services subsector provide health care services directly or indirectly to ambulatory patients and do not usually provide inpatient services. Health practitioners in this subsector provide outpatient services, with the facilities and equipment not usually being the most significant part of the production process.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag621.htm"
+        ]
+      },
+      "uuid": "79cd81ea-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 621 Ambulatory Health Care Services"
+    },
+	{
+      "description": "Industries in the Amusement, Gambling, and Recreation Industries subsector (1) operate facilities where patrons can primarily engage in sports, recreation, amusement, or gambling activities and (or) (2) provide other amusement and recreation services, such as supplying and servicing amusement devices in places of business operated by others, operating sports teams, clubs, or leagues engaged in playing games for recreational purposes, and guiding tours without using transportation equipment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag713.htm"
+        ]
+      },
+      "uuid": "89bf0de8-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 713 Amusement, Gambling, and Recreation Industries"
+    },
+	{
+      "description": "Industries in the Animal Production subsector raise or fatten animals for the sale of animals or animal products. The subsector comprises establishments, such as ranches, farms, and feedlots primarily engaged in keeping, grazing, breeding, or feeding animals. These animals are kept for the products they produce or for eventual sale. The animals are generally raised in various environments, from total confinement or captivity to feeding on an open range pasture. Establishments primarily engaged in the farm raising and production of aquatic animals or plants in controlled or selected aquatic environments are included in this subsector.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag112.htm"
+        ]
+      },
+      "uuid": "89bf10d6-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 112 Animal Production"
+    },
+	{
+      "description": "Industries in the Apparel Manufacturing subsector group establishments with two distinct manufacturing processes: (1) cut and sew (i.e., purchasing fabric and cutting and sewing to make a garment), and (2) the manufacture of garments in establishments that first knit fabric and then cut and sew the fabric into a garment. The Apparel Manufacturing subsector includes a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel, apparel contractors, performing cutting or sewing operations on materials owned by others, jobbers performing entrepreneurial functions involved in apparel manufacture, and tailors, manufacturing custom garments for individual clients are all included. Knitting, when done alone, is classified in the Textile Mills subsector, but when knitting is combined with the production of complete garments, the activity is classified in Apparel Manufacturing.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag315.htm"
+        ]
+      },
+      "uuid": "89bf123e-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 315 Apparel Manufacturing"
+    },
+	{
+      "description": "The Arts, Entertainment, and Recreation sector includes a wide range of establishments that operate facilities or provide services to meet varied cultural, entertainment, and recreational interests of their patrons. This sector comprises (1) establishments that are involved in producing, promoting, or participating in live performances, events, or exhibits intended for public viewing, (2) establishments that preserve and exhibit objects and sites of historical, cultural, or educational interest, and (3) establishments that operate facilities or provide services that enable patrons to participate in recreational activities or pursue amusement, hobby, and leisure-time interests.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag71.htm"
+        ]
+      },
+      "uuid": "89bf1388-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 71 Arts, Entertainment, and Recreation"
+    },
+	{
+      "description": "Industries in the Beverage and Tobacco Product Manufacturing subsector manufacture beverages and tobacco products. The industry group, Beverage Manufacturing, includes three types of establishments (1) those that manufacture nonalcoholic beverages, (2) those that manufacture alcoholic beverages through the fermentation process, and (3) those that produce distilled alcoholic beverages. Ice manufacturing, while not a beverage, is included with nonalcoholic beverage manufacturing because it uses the same production process as water purification. The industry group, Tobacco Manufacturing, includes two types of establishments (1) those engaged in redrying and stemming tobacco and, (2) those that manufacture tobacco products, such as cigarettes and cigars.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag312.htm"
+        ]
+      },
+      "uuid": "89bf17b6-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 312 Beverage and Tobacco Product Manufacturing"
+    },
+	{
+      "description": "Industries in the Broadcasting (except Internet) subsector include establishments that create content or acquire the right to distribute content and subsequently broadcast the content. The industry groups (Radio and Television Broadcasting and Cable and Other Subscription Programming) are based on differences in the methods of communication and the nature of services provided. The Radio and Television Broadcasting industry group includes establishments that operate broadcasting studios and facilities for over the air or satellite delivery of radio and television programs of entertainment, news, talk, and the like. These establishments are often engaged in the production and purchase of programs and generating revenues from the sale of air time to advertisers and from donations, subsidies, and (or) the sale of programs. The Cable and Other Subscription Programming industry group includes establishments operating studios and facilities for the broadcasting of programs that are typically narrowcast in nature (limited format, such as news, sports, education, and youth-oriented programming) on a subscription or fee basis.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag515.htm"
+        ]
+      },
+      "uuid": "89bf190a-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 515 Broadcasting (except Internet)"
+    },
+	{
+      "description": "Industries in the Building Material and Garden Equipment and Supplies Dealers subsector retail new building material and garden equipment and supplies from fixed point-of-sale locations. Establishments in this subsector have display equipment designed to handle lumber and related products and garden equipment and supplies that may be kept either indoors or outdoors under covered areas. The staff is usually knowledgeable in the use of the specific products being retailed in the construction, repair, and maintenance of the home and associated grounds.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag444.htm"
+        ]
+      },
+      "uuid": "89bf1afe-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 444 Building Material and Garden Equipment and Supplies Dealers"
+    },
+	{
+      "description": "The Chemical Manufacturing subsector is based on the transformation of organic and inorganic raw materials by a chemical process and the formulation of products. This subsector distinguishes the production of basic chemicals that comprise the first industry group from the production of intermediate and end products produced by further processing of basic chemicals that make up the remaining industry groups.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag325.htm"
+        ]
+      },
+      "uuid": "89bf1c48-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 325 Chemical Manufacturing"
+    },
+	{
+      "description": "Industries in the Clothing and Clothing Accessories Stores subsector retail new clothing and clothing accessories merchandise from fixed point-of-sale locations. Establishments in this subsector have similar display equipment and staff that is knowledgeable regarding fashion trends and the proper match of styles, colors, and combinations of clothing and accessories to the characteristics and tastes of the customer.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag448.htm"
+        ]
+      },
+      "uuid": "89bf1d88-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 448 Clothing and Clothing Accessories Stores"
+    },
+	{
+      "description": "Industries in the Computer and Electronic Product Manufacturing subsector group establishments that manufacture computers, computer peripherals, communications equipment, and similar electronic products, and establishments that manufacture components for such products. The Computer and Electronic Product Manufacturing industries have been combined in the hierarchy of NAICS because of the economic significance they have attained. Their rapid growth suggests that they will become even more important to the economies of all three North American countries in the future, and in addition their manufacturing processes are fundamentally different from the manufacturing processes of other machinery and equipment. The design and use of integrated circuits and the application of highly specialized miniaturization technologies are common elements in the production technologies of the computer and electronic subsector.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag334.htm"
+        ]
+      },
+      "uuid": "89bf1ebe-2a82-11ea-85fa-2e728ce88125",
+      "value": "OSRS BLS: NAICS 334 Computer and Electronic Product Manufacturing"
+    },
+	{
+      "description": "The construction sector comprises establishments primarily engaged in the construction of buildings or engineering projects (e.g., highways and utility systems). Establishments primarily engaged in the preparation of sites for new construction and establishments primarily engaged in subdividing land for sale as building sites also are included in this sector. Construction work done may include new work, additions, alterations, or maintenance and repairs. Activities of these establishments generally are managed at a fixed place of business, but they usually perform construction activities at multiple project sites. Production responsibilities for establishments in this sector are usually specified in (1) contracts with the owners of construction projects (prime contracts) or (2) contracts with other construction establishments (subcontracts).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag23.htm"
+        ]
+      },
+      "uuid": "835983fa-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 23 Construction"
+    },
+	{
+      "description": "The Construction of Buildings subsector comprises establishments primarily responsible for the construction of buildings. The work performed may include new work, additions, alterations, or maintenance and repairs. The on-site assembly of precut, panelized, and prefabricated buildings and construction of temporary buildings are included in this subsector. Part or all of the production work for which the establishments in this subsector have responsibility may be subcontracted to other construction establishments—usually specialty trade contractors.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag236.htm"
+        ]
+      },
+      "uuid": "835986e8-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 236 Construction of Buildings"
+    },
+	{
+      "description": "Industries in the Couriers and Messengers subsector provide intercity and (or) local delivery of parcels and documents (including express delivery services) without operating under a universal service obligation. These articles can be described as those that may be handled by one person without using special equipment. This allows the collection, pick-up, and delivery operations to be done with limited labor costs and minimal equipment. Sorting and transportation activities, where necessary, are generally mechanized. The restriction to small parcels partly distinguishes these establishments from those in the transportation industries. The complete network of courier services establishments also distinguishes these transportation services from local messenger and delivery establishments in this subsector. This includes the establishments that perform intercity transportation as well as establishments that, under contract to them, perform local pick-up and delivery. Messengers, which usually deliver within a metropolitan or single urban area, may use bicycle, foot, small truck, or van.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag492.htm"
+        ]
+      },
+      "uuid": "83598850-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 492 Couriers and Messengers"
+    },
+	{
+      "description": "Industries in the Credit Intermediation and Related Activities subsector group establishments that (1) lend funds raised from depositors, (2) lend funds raised from credit market borrowing, or (3) facilitate the lending of funds or issuance of credit by engaging in such activities as mortgage and loan brokerage, clearinghouse and reserve services, and check cashing services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag522.htm"
+        ]
+      },
+      "uuid": "83598bd4-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 522 Credit Intermediation and Related Activities"
+    },
+	{
+      "description": "Industries in the Crop Production subsector grow crops mainly for food and fiber. The subsector comprises establishments, such as farms, orchards, groves, greenhouses, and nurseries, primarily engaged in growing crops, plants, vines, or trees and their seeds.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag111.htm"
+        ]
+      },
+      "uuid": "83598d50-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 111 Crop Production"
+    },
+	{
+      "description": "Industries in the Data Processing, Hosting, and Related Services subsector group establishments that provide the infrastructure for hosting and (or) data processing services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag518.htm"
+        ]
+      },
+      "uuid": "83598e9a-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 518 Data Processing, Hosting, and Related Services"
+    },
+	{
+      "description": "The Educational Services sector comprises establishments that provide instruction and training in a wide variety of subjects. This instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers. These establishments may be privately owned and operated for profit or not for profit, or they may be publicly owned and operated. They may also offer food and (or) accommodation services to their students. Educational services are usually delivered by teachers or instructors that explain, tell, demonstrate, supervise, and direct learning. Instruction is imparted in diverse settings, such as educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods. The training provided by these establishments may include the use of simulators and simulation methods. It can be adapted to the particular needs of the students, for example sign language can replace verbal language for teaching students with hearing impairments. All industries in the sector share this commonality of process, namely, labor inputs of instructors with the requisite subject matter expertise and teaching ability.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag61.htm"
+        ]
+      },
+      "uuid": "83598fda-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 61 Educational Services"
+    },
+	{
+      "description": "Industries in the Electrical Equipment, Appliance, and Component Manufacturing subsector manufacture products that generate, distribute and use electrical power. Electric Lighting Equipment Manufacturing establishments produce electric lamp bulbs, lighting fixtures, and parts. Household Appliance Manufacturing establishments make both small and major electrical appliances and parts. Electrical Equipment Manufacturing establishments make goods, such as electric motors, generators, transformers, and switchgear apparatus. Other Electrical Equipment and Component Manufacturing establishments make devices for storing electrical power (e.g., batteries), for transmitting electricity (e.g., insulated wire), and wiring devices (e.g., electrical outlets, fuse boxes, and light switches).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag335.htm"
+        ]
+      },
+      "uuid": "8359911a-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 335 Electrical Equipment, Appliance, and Component Manufacturing"
+    },
+	{
+      "description": "Industries in the Electronics and Appliance Stores subsector retail new electronics and appliances from point-of-sale locations. Establishments in this subsector often operate from locations that have special provisions for floor displays requiring special electrical capacity to accommodate the proper demonstration of the products. The staff includes sales personnel knowledgeable in the characteristics and warranties of the line of goods retailed and may also include trained repair persons to handle the maintenance and repair of the electronic equipment and appliances. The classifications within this subsector are made principally on the type of product and knowledge required to operate each type of store.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag443.htm"
+        ]
+      },
+      "uuid": "83599264-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 443 Electronics and Appliance Stores"
+    },
+	{
+      "description": "Industries in the Fabricated Metal Product Manufacturing subsector transform metal into intermediate or end products, other than machinery, computers and electronics, and metal furniture, or treat metals and metal formed products fabricated elsewhere. Important fabricated metal processes are forging, stamping, bending, forming, and machining, used to shape individual pieces of metal; and other processes, such as welding and assembling, used to join separate parts together. Establishments in this subsector may use one of these processes or a combination of these processes.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag332.htm"
+        ]
+      },
+      "uuid": "8359939a-2a84-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 332 Fabricated Metal Product Manufacturing"
+    },
+	{
+      "description": "The Finance and Insurance sector comprises establishments primarily engaged in financial transactions (transactions involving the creation, liquidation, or change in ownership of financial assets) and (or) in facilitating financial transactions. Three principal types of activities are identified - 1. Raising funds by taking deposits and (or) issuing securities and, in the process, incurring liabilities. Establishments engaged in this activity use raised funds to acquire financial assets by making loans and (or) purchasing securities. Putting themselves at risk, they channel funds from lenders to borrowers and transform or repackage the funds with respect to maturity, scale, and risk. This activity is known as financial intermediation. 2. Pooling of risk by underwriting insurance and annuities. Establishments engaged in this activity collect fees, insurance premiums, or annuity considerations, build up reserves, invest those reserves, and make contractual payments. Fees are based on the expected incidence of the insured risk and the expected return on investment. 3. Providing specialized services facilitating or supporting financial intermediation, insurance, and employee benefit programs. In addition, monetary authorities charged with monetary control are included in this sector.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag52.htm"
+        ]
+      },
+      "uuid": "660ab16e-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 52 Finance and Insurance"
+    },
+	{
+      "description": "Industries in the Fishing, Hunting, and Trapping subsector harvest fish and other wild animals from their natural habitats and are dependent upon a continued supply of the natural resource. The harvesting of fish is the predominant economic activity of this subsector and it usually requires specialized vessels that, by the nature of their size, configuration and equipment, are not suitable for any other type of production, such as transportation.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag114.htm"
+        ]
+      },
+      "uuid": "660ab420-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 114 Fishing, Hunting and Trapping"
+    },
+	{
+      "description": "Industries in the Food Manufacturing subsector transform livestock and agricultural products into products for intermediate or final consumption. The industry groups are distinguished by the raw materials (generally of animal or vegetable origin) processed into food products. The food products manufactured in these establishments are typically sold to wholesalers or retailers for distribution to consumers, but establishments primarily engaged in retailing bakery and candy products made on the premises not for immediate consumption are included.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag311.htm"
+        ]
+      },
+      "uuid": "660ab696-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 311 Food Manufacturing"
+    },
+	{
+      "description": "Industries in the Food Services and Drinking Places subsector prepare meals, snacks, and beverages to customer order for immediate on-premises and off-premises consumption. There is a wide range of establishments in these industries. Some provide food and drink only, while others provide various combinations of seating space, waiter (or) waitress services and incidental amenities, such as limited entertainment. The industries in the subsector are grouped based on the type and level of services provided. The industry groups are full-service restaurants, limited-service eating places, special food services, such as food service contractors, caterers, and mobile food services, and drinking places.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag722.htm"
+        ]
+      },
+      "uuid": "660ab7f4-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 722 Food Services and Drinking Places"
+    },
+	{
+      "description": "Industries in the Food and Beverage Stores subsector usually retail food and beverages merchandise from fixed point-of-sale locations. Establishments in this subsector have special equipment (e.g., freezers, refrigerated display cases, refrigerators) for displaying food and beverage goods. They have staff trained in the processing of food products to guarantee the proper storage and sanitary conditions required by regulatory authority.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag445.htm"
+        ]
+      },
+      "uuid": "660aba60-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 445 Food and Beverage Stores"
+    },
+	{
+      "description": "Industries in the Forestry and Logging subsector grow and harvest timber on a long production cycle (i.e., of 10 years or more). Long production cycles use different production processes than short production cycles, which require more horticultural interventions prior to harvest, resulting in processes more similar to those found in the Crop Production subsector. Consequently, Christmas tree production and other production involving production cycles of less than 10 years, are classified in the Crop Production subsector.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag113.htm"
+        ]
+      },
+      "uuid": "660abbbe-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 113 Forestry and Logging"
+    },
+	{
+      "description": "Industries in the Funds, Trusts, and Other Financial Vehicles subsector are comprised of legal entities (i.e., funds, plans, and (or) programs) organized to pool securities or other assets on behalf of shareholders or beneficiaries of employee benefit or other trust funds. The portfolios are customized to achieve specific investment characteristics, such as diversification, risk, rate of return, and price volatility. These entities earn interest, dividends, and other investment income, but have little or no employment and no revenue from the sale of services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag525.htm"
+        ]
+      },
+      "uuid": "660abdb2-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 525 Funds, Trusts, and Other Financial Vehicles"
+    },
+	{
+      "description": "Industries in the Furniture and Home Furnishings Stores subsector retail new furniture and home furnishings from fixed point-of-sale locations. Establishments in this subsector usually operate from showrooms and have substantial areas for the presentation of their products. Many offer interior decorating services in addition to the sale of products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag442.htm"
+        ]
+      },
+      "uuid": "660abf06-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 442 Furniture and Home Furnishings Stores"
+    },
+	{
+      "description": "Industries in the Furniture and Related Product Manufacturing subsector make furniture and related articles, such as mattresses, window blinds, cabinets, and fixtures. The processes used in the manufacture of furniture include the cutting, bending, molding, laminating, and assembly of such materials as wood, metal, glass, plastics, and rattan. However, the production process for furniture is not solely bending metal, cutting and shaping wood, or extruding and molding plastics. Design and fashion trends play an important part in the production of furniture. The integrated design of the article for both esthetic and functional qualities is also a major part of the process of manufacturing furniture. Design services may be performed by the furniture establishment's work force or may be purchased from industrial designers.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag337.htm"
+        ]
+      },
+      "uuid": "660ac0f0-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 337 Furniture and Related Product Manufacturing"
+    },
+	{
+      "description": "Industries in the Gasoline Stations subsector retail automotive fuels (e.g., gasoline, diesel fuel, gasohol) and automotive oils or retail these products in combination with convenience store items. These establishments have specialized equipment for the storage and dispensing of automotive fuels.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag447.htm"
+        ]
+      },
+      "uuid": "660ac398-2a8b-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 447 Gasoline Stations"
+    },
+	{
+      "description": "The Accommodation and Food Services sector comprises establishments providing customers with lodging and (or) preparing meals, snacks, and beverages for immediate consumption. The sector includes both accommodation and food services establishments because the two activities are often combined at the same establishment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag72.htm"
+        ]
+      },
+      "uuid": "5433bdf0-2a81-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 72 Accommodation and Food Services"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
