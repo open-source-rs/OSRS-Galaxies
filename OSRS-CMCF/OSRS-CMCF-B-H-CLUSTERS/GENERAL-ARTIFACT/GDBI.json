@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Business email compromise attacks (BEC) is a form of cyber crime which uses email fraud to attack commercial, Government and non-profit organizations to achieve a specific outcome which negatively impacts the targets organization. Examples of common BEC attacks include invoice scams and spear phishing spoof attacks which are designed to gather data for other criminal activities. Often consumer privacy breaches occur as a results of a BEC attack. Typically an attack targets specific employee roles within an organization by sending a spoof email (or series of spoof emails) which fraudulently represent a senior colleague (CEO or similar) or a trusted customer. The email will issue instructions such as approving payments or releasing client data. The emails often use social engineering to trick the victim into making money transfers to the bank accounts of the fraudster.",
       "meta": {
 	  "kill_chain": [
@@ -19,7 +19,199 @@
       },
       "uuid": "9e5870bc-28ae-11ea-978f-2e728ce88125",
       "value": "OSRS GDBI: Business-Email-Compromise(BEC)"
+    },
+	{
+      "description": "An insider threat is a malicious threat to an organization that comes from people within the organization, such as employees, former employees, contractors or business associates, who have inside information concerning the organization's security practices, data and computer systems. The threat may involve fraud, the theft of confidential or commercially valuable information, the theft of intellectual property, or the sabotage of computer systems. The insider threat comes in three categories - malicious insiders, which are people who take advantage of their access to inflict harm on an organization, negligent insiders which are people who make errors and disregard policies which place their organizations at risk, and Infiltrators who are external actors that obtain legitimate access credentials without authorization.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Insider_threat"
+        ]
+      },
+      "uuid": "20603a28-2a43-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Insider"
+    },
+	{
+      "description": "Malware (a portmanteau for malicious software) is any software intentionally designed to cause damage to a computer, server, client, or computer network (by contrast, software that causes unintentional harm due to some deficiency is typically described as a software bug). A wide variety of types of malware exist, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, and scareware.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Malware"
+        ]
+      },
+      "uuid": "20603c9e-2a43-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Malware"
+    },
+	{
+      "description": "An incorrect or inappropriate configuration.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wiktionary.org/wiki/misconfiguration"
+        ]
+      },
+      "uuid": "20603dfc-2a43-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Misconfiguration"
+    },
+	{
+      "description": "Negligence is a failure to exercise appropriate and or ethical ruled care expected to be exercised amongst specified circumstances. The area of tort law known as negligence involves harm caused by failing to act as a form of carelessness possibly with extenuating circumstances. The core concept of negligence is that people should exercise reasonable care in their actions, by taking account of the potential harm that they might foreseeably cause to other people or property.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Negligence"
+        ]
+      },
+      "uuid": "2060427a-2a43-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Negligent Handling"
+    },
+	{
+      "description": "Phishing is the fraudulent attempt to obtain sensitive information such as usernames, passwords and credit card details by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing or instant messaging, it often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site. Phishing is an example of social engineering techniques being used to deceive users. Users are often lured by communications purporting to be from trusted parties such as social web sites, auction sites, banks, online payment processors or IT administrators.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Phishing"
+        ]
+      },
+      "uuid": "547ba8b4-2a44-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Phishing Scam"
+    },
+	{
+      "description": "Burglary, also called breaking and entering and sometimes housebreaking, is an unlawful entry into a building or other location for the purposes of committing an offence. Usually that offence is theft, but most jurisdictions include others within the ambit of burglary. To engage in the act of burglary is to burgle in British English, a term back-formed from the word burglar, or to burglarize in American English.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Burglary"
+        ]
+      },
+      "uuid": "547bae2c-2a44-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Physical Break-in"
+    },
+	{
+      "description": "Ransomware is a type of malware from cryptovirology that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid. While some simple ransomware may lock the system in a way which is not difficult for a knowledgeable person to reverse, more advanced malware uses a technique called cryptoviral extortion, in which it encrypts the victim's files, making them inaccessible, and demands a ransom payment to decrypt them. In a properly implemented cryptoviral extortion attack, recovering the files without the decryption key is an intractable problem – and difficult to trace digital currencies such as Ukash or Bitcoin and other cryptocurrency are used for the ransoms, making tracing and prosecuting the perpetrators difficult. Ransomware attacks are typically carried out using a Trojan that is disguised as a legitimate file that the user is tricked into downloading or opening when it arrives as an email attachment. However, one high-profile example, the WannaCry worm, travelled automatically between computers without user interaction.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Ransomware"
+        ]
+      },
+      "uuid": "547bafd0-2a44-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Ransomware"
+    },
+	{
+      "description": "In common usage, theft is the taking of another person's property or services without that person's permission or consent with the intent to deprive the rightful owner of it. The word is also used as an informal shorthand term for some crimes against property, such as burglary, embezzlement, larceny, looting, robbery, shoplifting, library theft or fraud. In some jurisdictions, theft is considered to be synonymous with larceny; in others, theft has replaced larceny. Someone who carries out an act of or makes a career of theft is known as a thief. The act of theft is also known by other terms such as stealing, thieving, and filching.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Theft"
+        ]
+      },
+      "uuid": "547bb124-2a44-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Stolen Device"
+    },
+	{
+      "description": "In business and finance, supply chain is a system of organizations, people, activities, information, and resources involved in moving a product or service from supplier to customer. Supply chain activities involve the transformation of natural resources, raw materials, and components into a finished product that is delivered to the end customer. In sophisticated supply chain systems, used products may re-enter the supply chain at any point where residual value is recyclable. Supply chains link value chains.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Supply_chain"
+        ]
+      },
+      "uuid": "547bb25a-2a44-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Supply Chain"
+    },
+	{
+      "description": "Someone not directly involved in a transaction; an entity beyond the seller (first party) and customer (second party).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+		  "https://en.wiktionary.org/wiki/third_party"
+        ]
+      },
+      "uuid": "6c5b5780-2a45-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Unauthorized Third-party"
+    },
+	{
+      "description": "Cause of breach is determined to be due to weather related activity.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "6c5b59f6-2a45-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Weather Related"
+    },
+	{
+      "description": "Information was improperly sent to an email address not attributed to the rightful recipient of the information.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "6c5b5b4a-2a45-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Wrong E-mail Address"
+    },
+	{
+      "description": "Information was improperly sent to an physical mailing address not attributed to the rightful recipient of the information.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "3cde01be-2a46-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Wrong Physical Mailing Address"
+    },
+	{
+      "description": "The cause for the data breach is either too ambiguously reported or not reported at all. However, a public statement has been published regarding a data breach event at a particular organization.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GDBI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "2060440a-2a43-11ea-978f-2e728ce88125",
+      "value": "OSRS GDBI: Cause Unknown"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

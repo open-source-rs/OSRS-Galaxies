@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The management of public affairs; government. For this particular cluster object the administration level is set at the Federal or National level depending on country specific jurisdiction (i.e. ministries or executive branches of government).",
       "meta": {
 	  "kill_chain": [
@@ -19,7 +19,1211 @@
       },
       "uuid": "40deb73c-28b0-11ea-978f-2e728ce88125",
       "value": "OSRS GECI: Federal Administration"
+    },
+	{
+      "description": "The civil service is a collective term for a sector of government composed mainly of career bureaucrats hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership. A civil servant or public servant is a person so employed in the public sector employed for a government department or agency. Civil (or public) servants work for government departments, and answer to the government, not a political party. The extent of civil servants of a state as part of the civil service varies from country to country. In the United Kingdom, for instance, only Crown (national government) employees are referred to as civil servants whereas country or city employees are not. Many consider the study of service to be a part of the field of public administration. Workers in non-departmental public bodies (sometimes called QUANGOs) may also be classed as civil servants for the purpose of statistics and possibly for their terms and conditions. Collectively a state's civil servants form its civil service or public service.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Civil_service"
+        ]
+      },
+      "uuid": "73cffdb6-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Civil Service"
+    },
+	{
+      "description": "A comptroller is a management-level position responsible for supervising the quality of accounting and financial reporting of an organization. A financial comptroller is a senior-level executive who acts as the head of accounting, and oversees the preparation of financial reports, such as balance sheets and income statements. In most Commonwealth countries, the comptroller general, auditor general, or comptroller and auditor general is the external auditor of the budget execution of the government and of government-owned companies. Typically, the independent institution headed by the comptroller general is a member of the International Organization of Supreme Audit Institutions (INTOSAI). In American government, the comptroller is effectively the chief financial officer of a public body. In business management, the comptroller is closer to a chief audit executive, holding a senior role in internal audit functions. Generally, the title encompasses a variety of responsibilities, from overseeing accounting and monitoring internal controls to countersigning on expenses and commitments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Comptroller"
+        ]
+      },
+      "uuid": "73d00022-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Comptroller"
+    },
+	{
+      "description": "Consumer protection is the practice of protecting consumers from unfair practices in the marketplace. Consumer protection measures are often established by law, and efforts for consumer protection are also undertaken by non-governmental organizations. Consumer protection laws are designed to prevent businesses that engage in fraud or specified unfair practices from gaining an advantage over competitors or consumers of a certain product or goods. They may also provide additional protection for those most vulnerable in society. For example, a government may require businesses to disclose detailed information about products—particularly in areas where safety or public health is an issue, such as food. Consumer protection is linked to the idea of consumer rights and to the formation of consumer organizations, which helps consumers make better choices in the marketplace and get help with consumer complaints. Other organizations that promote consumer protection include government organizations and self-regulating business organizations such as consumer protection agencies and organisations, the Federal Trade Commission in America and Better Business Bureaus in America, Canada, England, etc. A consumer is defined as someone who acquires goods or services for direct use or ownership rather than for resale or use in production and manufacturing. Consumer interests can also serve consumers, consistent with economic efficiency, but this topic is treated in competition law. Consumer protection can also be asserted via non-government organizations and individuals as consumer activism.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Administration_(government)"
+        ]
+      },
+      "uuid": "73d002e8-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Consumer Protection"
+    },
+	{
+      "description": "In criminal justice, particularly in North America, correction, corrections, and correctional, are umbrella terms describing a variety of functions typically carried out by government agencies, and involving the punishment, treatment, and supervision of persons who have been convicted of crimes. These functions commonly include imprisonment, parole, and probation. A typical correctional institution is a prison. A correctional system, also known as a penal system, thus refers to a network of agencies that administer a jurisdiction's prisons, and community-based programs like parole, and probation boards. This system is part of the larger criminal justice system, which additionally includes police, prosecution and courts. Jurisdictions throughout Canada and the US have ministries or departments, respectively, of corrections, correctional services, or similarly-named agencies.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Corrections"
+        ]
+      },
+      "uuid": "73d00450-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Corrections"
+    },
+	{
+      "description": "Economic development is the process by which the economic well-being and quality of life of a nation, region or local community are improved. The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for centuries. Modernization, Westernization, and especially industrialization are other terms often used while discussing economic development.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Economic_development"
+        ]
+      },
+      "uuid": "73d00590-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Economic Development"
+    },
+	{
+      "description": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research. Education frequently takes place under the guidance of educators, however learners can also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. Formal education is commonly divided formally into such stages as preschool or kindergarten, primary school, secondary school and then college, university, or apprenticeship.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Education"
+        ]
+      },
+      "uuid": "73d006d0-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Education"
+    },
+	{
+      "description": "Emergency management is the organization and management of the resources and responsibilities for dealing with all humanitarian aspects of emergencies (preparedness, response, mitigation, and recovery). The aim is to reduce the harmful effects of all hazards, including disasters. The World Health Organization defines an emergency as the state in which normal procedures are interrupted, and immediate measures need to be taken to prevent that state turning into a disaster. Thus, emergency management is crucial to avoid the disruption transforming into a disaster, which is even harder to recover from. Emergency management is a related term but should not be equated to disaster management.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Emergency_management"
+        ]
+      },
+      "uuid": "73d00806-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Emergency Management"
+    },
+	{
+      "description": "Government entities that deal with the saftey, security, promotion, and management of energy resources.  For example, at the national level, the U.S. Department of Energy.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Energy"
+        ]
+      },
+      "uuid": "73d00af4-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Energy"
+    },
+	{
+      "description": "Environmental protection is the practice of protecting the natural environment by individuals, organizations and governments. Its objectives are to conserve natural resources and the existing natural environment and, where possible, to repair damage and reverse trends. Due to the pressures of overconsumption, population growth and technology, the biophysical environment is being degraded, sometimes permanently. This has been recognized, and governments have begun placing restraints on activities that cause environmental degradation. Since the 1960s, environmental movements have created more awareness of the multiple environmental problems. There is disagreement on the extent of the environmental impact of human activity and even scientific dishonesty occurs, so protection measures are occasionally debated.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Environmental_protection"
+        ]
+      },
+      "uuid": "73d00c3e-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Environment"
+    },
+	{
+      "description": "Fire protection is the study and practice of mitigating the unwanted effects of potentially destructive fires. It involves the study of the behaviour, compartmentalisation, suppression and investigation of fire and its related emergencies, as well as the research and development, production, testing and application of mitigating systems. In structures, be they land-based, offshore or even ships, the owners and operators are responsible to maintain their facilities in accordance with a design-basis that is rooted in laws, including the local building code and fire code, which are enforced by the Authority Having Jurisdiction.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Fire_protection"
+        ]
+      },
+      "uuid": "73d00d7e-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Fire Protection"
+    },
+	{
+      "description": "Health care, health-care, or healthcare is the maintenance or improvement of health via the prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals in allied health fields. Physicians and physician associates are a part of these health professionals. Dentistry, pharmacy, midwifery, nursing, medicine, optometry, audiology, psychology, occupational therapy, physical therapy and other health professions are all part of health care. It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health. Access to health care may vary across countries, communities, and individuals, influenced by social and economic conditions as well as health policies. Providing health care services means the timely use of personal health services to achieve the best possible health outcomes. Factors to consider in terms of healthcare access include financial limitations (such as insurance coverage), geographic barriers (such as additional transportation costs, possibility to take paid time off of work to use such services), and personal limitations (lack of ability to communicate with healthcare providers, poor health literacy, low income). Limitations to health care services affects negatively the use of medical services, efficacy of treatments, and overall outcome (well-being, mortality rates). Health care systems are organizations established to meet the health needs of targeted populations. According to the World Health Organization (WHO), a well-functioning health care system requires a financing mechanism, a well-trained and adequately paid workforce, reliable information on which to base decisions and policies, and well maintained health facilities to deliver quality medicines and technologies. An efficient health care system can contribute to a significant part of a country's economy, development and industrialization. Health care is conventionally regarded as an important determinant in promoting the general physical and mental health and well-being of people around the world. An example of this was the worldwide eradication of smallpox in 1980, declared by the WHO as the first disease in human history to be completely eliminated by deliberate health care interventions.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Health_care"
+        ]
+      },
+      "uuid": "e7a1115e-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Health Care"
+    },
+	{
+      "description": "Housing, or more generally living spaces, refers to the construction and assigned usage of houses or buildings collectively, for the purpose of sheltering people — the planning or provision delivered by an authority, with related meanings. The social issue is of ensuring that members of society have a home in which to live, whether this is a house, or some other kind of dwelling, lodging, or shelter. Many governments have one or more housing authorities, sometimes also called a housing ministry, or housing department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Housing"
+        ]
+      },
+      "uuid": "e7a11708-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Housing"
+    },
+	{
+      "description": "Insurance is a means of protection from financial loss. It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss. An entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter. A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss. The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship. The insured receives a contract, called the insurance policy, which details the conditions and circumstances under which the insurer will compensate the insured. The amount of money charged by the insurer to the policyholder for the coverage set forth in the insurance policy is called the premium. If the insured experiences a loss which is potentially covered by the insurance policy, the insured submits a claim to the insurer for processing by a claims adjuster. The insurer may hedge its own risk by taking out reinsurance, whereby another insurance company agrees to carry some of the risk, especially if the primary insurer deems the risk too large for it to carry.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Insurance"
+        ]
+      },
+      "uuid": "e7a11898-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Insurance"
+    },
+	{
+      "description": "The judiciary (also known as the judicial system, judicature, judicial branch, Judiciative Branch, or court system) is the system of courts that interprets and applies the law in legal cases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Judiciary"
+        ]
+      },
+      "uuid": "e7a119ec-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Judiciary"
+    },
+	{
+      "description": "Government labor entities are responsible for occupational safety, wage and hour standards, unemployment insurance benefits, reemployment services, and some economic statistics. Additionally the purpose of these departments is to foster, promote, and develop the wellbeing of the wage earners, job seekers, and retirees of the United States, improve working conditions, advance opportunities for profitable employment, and assure work-related benefits and rights.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Labor"
+        ]
+      },
+      "uuid": "e7a13256-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Labor"
+    },
+	{
+      "description": "Law enforcement is any system by which some members of society act in an organized manner to enforce the law by discovering, deterring, rehabilitating, or punishing people who violate the rules and norms governing that society. Although the term encompasses entities such as courts and corrections, it is most frequently applied to those who directly engage in patrols or surveillance to dissuade and discover criminal activity, and those who investigate crimes and apprehend offenders, a task typically carried out by the police, Sheriff or another law enforcement organization. Furthermore, although law enforcement may be most concerned with the prevention and punishment of crimes, organizations exist to discourage a wide variety of non-criminal violations of rules and norms, effected through the imposition of less severe consequences.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Law_enforcement"
+        ]
+      },
+      "uuid": "e7a1340e-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Law Enforcement"
+    },
+	{
+      "description": "Military affairs comprise a range of topics from military personnel and veterans to equipment and facilities as well as the methods, doctrines, organizational concepts, and technologies that support the military's strategic or tactical goals.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.rand.org/topics/military-affairs.html"
+        ]
+      },
+      "uuid": "e7a13562-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Military Affairs"
+    },
+	{
+      "description": "Government agencies that deal with the promotion of safe driving, safe vehicles, as well as policy and regulation regarding these matters.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles"
+        ]
+      },
+      "uuid": "e7a136a2-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Motor Vehicles"
+    },
+	{
+      "description": "Occupational safety and health (OSH), also commonly referred to as occupational health and safety (OHS), occupational health, or workplace health and safety (WHS), is a multidisciplinary field concerned with the safety, health, and welfare of people at work. These terms also refer to the goals of this field, so their use in the sense of this article was originally an abbreviation of occupational safety and health program/department etc. The goal of occupational safety and health programs is to foster a safe and healthy work environment. OSH may also protect co-workers, family members, employers, customers, and many others who might be affected by the workplace environment. In the United States, the term occupational health and safety is referred to as occupational health and occupational and non-occupational safety and includes safety for activities outside of work. In common-law jurisdictions, employers have a common law duty to take reasonable care of the safety of their employees. Statute law may in addition impose other general duties, introduce specific duties, and create government bodies with powers to regulate workplace safety issues.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+        ]
+      },
+      "uuid": "e7a13abc-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Occupational Safety and Health"
+    },
+	{
+      "description": "A park is an area of natural, semi-natural or planted space set aside for human enjoyment and recreation or for the protection of wildlife or natural habitats. Urban parks are green spaces set aside for recreation inside towns and cities. National parks and country parks are green spaces used for recreation in the countryside. State parks and provincial parks are administered by sub-national government states and agencies. Parks may consist of grassy areas, rocks, soil and trees, but may also contain buildings and other artifacts such as monuments, fountains or playground structures. Many parks have fields for playing sports such as soccer, baseball and football, and paved areas for games such as basketball. Many parks have trails for walking, biking and other activities. Some parks are built adjacent to bodies of water or watercourses and may comprise a beach or boat dock area. Urban parks often have benches for sitting and may contain picnic tables and barbecue grills.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Park"
+        ]
+      },
+      "uuid": "e7a13c2e-2a4b-11ea-85fa-2e728ce88125",
+      "value": "OSRS GECI: Federal Parks"
+    },
+	{
+      "description": "A pension is a fund into which a sum of money is added during an employee's employment years and from which payments are drawn to support the person's retirement from work in the form of periodic payments. A pension may be a defined benefit plan, where a fixed sum is paid regularly to a person, or a defined contribution plan, under which a fixed sum is invested that then becomes available at retirement age. A pension created by an employer for the benefit of an employee is commonly referred to as an occupational or employer pension. Labor unions, the government, or other organizations may also fund pensions. Occupational pensions are a form of deferred compensation, usually advantageous to employee and employer for tax reasons. Many pensions also contain an additional insurance aspect, since they often will pay benefits to survivors or disabled beneficiaries. Other vehicles (certain lottery payouts, for example, or an annuity) may provide a similar stream of payments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Pension"
+        ]
+      },
+      "uuid": "f782bb46-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Pensions"
+    },
+	{
+      "description": "Public health has been defined as the science and art of preventing disease, prolonging life and promoting human health through organized efforts and informed choices of society, organizations, public and private, communities and individuals. Analyzing the health of a population and the threats it faces is the basis for public health. The public can be as small as a handful of people or as large as a village or an entire city, in the case of a pandemic it may encompass several continents. The concept of health takes into account physical, psychological and social well-being. As such, according to the World Health Organization, it is not merely the absence of disease or infirmity. Public health aims to improve the quality of life through prevention and treatment of disease, including mental health. This is done through the surveillance of cases and health indicators, and through the promotion of healthy behaviors. Common public health initiatives include promotion of handwashing and breastfeeding, delivery of vaccinations, suicide prevention, and distribution of condoms to control the spread of sexually transmitted diseases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Public_health"
+        ]
+      },
+      "uuid": "f782bdda-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Public Health"
+    },
+	{
+      "description": "An officer of state who superintends a government administrative department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.merriam-webster.com/dictionary/secretary"
+        ]
+      },
+      "uuid": "f782bf4c-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Secretary"
+    },
+	{
+      "description": "Transport or transportation is the movement of humans, animals and goods from one location to another. In other words, the action of transport is defined as a particular movement of an organism or thing from a point A to a Point B. Modes of transport include air, land (rail and road), water, cable, pipeline and space. The field can be divided into infrastructure, vehicles and operations. Transport enables trade between people, which is essential for the development of civilizations.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Transport"
+        ]
+      },
+      "uuid": "f782c096-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Transportation"
+    },
+	{
+      "description": "Unemployment, according to the Organisation for Economic Co-operation and Development (OECD), is when persons above a specified age (usually above 15) are not in paid employment or self-employment and are currently available for work during the reference period. Unemployment is measured by the unemployment rate as the number of persons who are unemployed as a percentage of the labour force (the total number of people employed plus unemployed). Unemployment can have many sources like new technologies and inventions, the status of the economy which could be influenced by a recession, competition due to globalization and international trade, policies of the government, as well as regulation and market. Unemployment and the status of the economy can be influenced by a country through for example fiscal policy. Furthermore, the monetary authority of a country like the central bank could influence the availability and cost for money through its monetary policy. In addition to theories of unemployment, there are a few categorizations of unemployment that are used to more precisely model the effects of unemployment within the economic system. Some of the main types of unemployment include structural unemployment and frictional unemployment, as well as cyclical unemployment, involuntary unemployment, and classical unemployment. Structural unemployment focuses on foundational problems in the economy and inefficiencies inherent in labor markets, including a mismatch between the supply and demand of laborers with necessary skill sets. Structural arguments emphasize causes and solutions related to disruptive technologies and globalization. Discussions of frictional unemployment focus on voluntary decisions to work based on each individuals' valuation of their own work and how that compares to current wage rates plus the time and effort required to find a job. Causes and solutions for frictional unemployment often address job entry threshold and wage rates.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Unemployment"
+        ]
+      },
+      "uuid": "f782c1e0-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Unemployment"
+    },
+	{
+      "description": "Veterans' affairs is an area of public policy concerned with relations between a government and its communities of military veterans. Some jurisdictions have a designated government agency or department, a Department of Veterans' Affairs, Ministry of Veterans' Affairs, or the like, which oversees issues relating to veterans' affairs. These departments provide a variety of services for veterans. The particular services provided can vary by jurisdiction, but can include things such as resolving issues regarding compensation due following service, provision of military pensions, assistance with housing, assistance obtaining post-service employment, provision of treatment for service-related injuries, and arranging for burial in cemeteries designated for veterans.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Veterans%27_affairs"
+        ]
+      },
+      "uuid": "f782c320-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Veteran Affairs"
+    },
+	{
+      "description": "Workers' compensation (which formerly was known as workmen's compensation until the name was changed to make it gender neutral) is a form of insurance providing wage replacement and medical benefits to employees injured in the course of employment in exchange for mandatory relinquishment of the employee's right to sue their employer for the tort of negligence. The trade-off between assured, limited coverage and lack of recourse outside the worker compensation system is known as the compensation bargain. One of the problems that the compensation bargain solved is the problem of employers becoming insolvent as a result of high damage awards. The system of collective liability was created to prevent that, and thus to ensure security of compensation to the workers. Individual immunity is the necessary corollary to collective liability. While plans differ among jurisdictions, provision can be made for weekly payments in place of wages (functioning in this case as a form of disability insurance), compensation for economic loss (past and future), reimbursement or payment of medical and like expenses (functioning in this case as a form of health insurance), and benefits payable to the dependents of workers killed during employment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Workers%27_compensation"
+        ]
+      },
+      "uuid": "f782c456-2a4f-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Worker Compensation"
+    },
+	{
+      "description": "The management of public affairs; government. For this particular cluster object the administration level is set at the Local or National level depending on country specific jurisdiction (i.e. ministries or executive branches of government).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Administration_(government)"
+        ]
+      },
+      "uuid": "c8415e90-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Administration"
+    },
+	{
+      "description": "The civil service is a collective term for a sector of government composed mainly of career bureaucrats hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership. A civil servant or public servant is a person so employed in the public sector employed for a government department or agency. Civil (or public) servants work for government departments, and answer to the government, not a political party. The extent of civil servants of a state as part of the civil service varies from country to country. In the United Kingdom, for instance, only Crown (national government) employees are referred to as civil servants whereas country or city employees are not. Many consider the study of service to be a part of the field of public administration. Workers in non-departmental public bodies (sometimes called QUANGOs) may also be classed as civil servants for the purpose of statistics and possibly for their terms and conditions. Collectively a state's civil servants form its civil service or public service.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Civil_service"
+        ]
+      },
+      "uuid": "c8416246-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Civil Service"
+    },
+	{
+      "description": "A comptroller is a management-level position responsible for supervising the quality of accounting and financial reporting of an organization. A financial comptroller is a senior-level executive who acts as the head of accounting, and oversees the preparation of financial reports, such as balance sheets and income statements. In most Commonwealth countries, the comptroller general, auditor general, or comptroller and auditor general is the external auditor of the budget execution of the government and of government-owned companies. Typically, the independent institution headed by the comptroller general is a member of the International Organization of Supreme Audit Institutions (INTOSAI). In American government, the comptroller is effectively the chief financial officer of a public body. In business management, the comptroller is closer to a chief audit executive, holding a senior role in internal audit functions. Generally, the title encompasses a variety of responsibilities, from overseeing accounting and monitoring internal controls to countersigning on expenses and commitments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Comptroller"
+        ]
+      },
+      "uuid": "c84163ae-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Comptroller"
+    },
+	{
+      "description": "Consumer protection is the practice of protecting consumers from unfair practices in the marketplace. Consumer protection measures are often established by law, and efforts for consumer protection are also undertaken by non-governmental organizations. Consumer protection laws are designed to prevent businesses that engage in fraud or specified unfair practices from gaining an advantage over competitors or consumers of a certain product or goods. They may also provide additional protection for those most vulnerable in society. For example, a government may require businesses to disclose detailed information about products—particularly in areas where safety or public health is an issue, such as food. Consumer protection is linked to the idea of consumer rights and to the formation of consumer organizations, which helps consumers make better choices in the marketplace and get help with consumer complaints. Other organizations that promote consumer protection include government organizations and self-regulating business organizations such as consumer protection agencies and organisations, the Local Trade Commission in America and Better Business Bureaus in America, Canada, England, etc. A consumer is defined as someone who acquires goods or services for direct use or ownership rather than for resale or use in production and manufacturing. Consumer interests can also serve consumers, consistent with economic efficiency, but this topic is treated in competition law. Consumer protection can also be asserted via non-government organizations and individuals as consumer activism.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Administration_(government)"
+        ]
+      },
+      "uuid": "c84164ee-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Consumer Protection"
+    },
+	{
+      "description": "In criminal justice, particularly in North America, correction, corrections, and correctional, are umbrella terms describing a variety of functions typically carried out by government agencies, and involving the punishment, treatment, and supervision of persons who have been convicted of crimes. These functions commonly include imprisonment, parole, and probation. A typical correctional institution is a prison. A correctional system, also known as a penal system, thus refers to a network of agencies that administer a jurisdiction's prisons, and community-based programs like parole, and probation boards. This system is part of the larger criminal justice system, which additionally includes police, prosecution and courts. Jurisdictions throughout Canada and the US have ministries or departments, respectively, of corrections, correctional services, or similarly-named agencies.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Corrections"
+        ]
+      },
+      "uuid": "c84166b0-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Corrections"
+    },
+	{
+      "description": "Economic development is the process by which the economic well-being and quality of life of a nation, region or local community are improved. The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for centuries. Modernization, Westernization, and especially industrialization are other terms often used while discussing economic development.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Economic_development"
+        ]
+      },
+      "uuid": "c841699e-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Economic Development"
+    },
+	{
+      "description": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research. Education frequently takes place under the guidance of educators, however learners can also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. Formal education is commonly divided formally into such stages as preschool or kindergarten, primary school, secondary school and then college, university, or apprenticeship.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Education"
+        ]
+      },
+      "uuid": "c8416af2-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Education"
+    },
+	{
+      "description": "Emergency management is the organization and management of the resources and responsibilities for dealing with all humanitarian aspects of emergencies (preparedness, response, mitigation, and recovery). The aim is to reduce the harmful effects of all hazards, including disasters. The World Health Organization defines an emergency as the state in which normal procedures are interrupted, and immediate measures need to be taken to prevent that state turning into a disaster. Thus, emergency management is crucial to avoid the disruption transforming into a disaster, which is even harder to recover from. Emergency management is a related term but should not be equated to disaster management.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Emergency_management"
+        ]
+      },
+      "uuid": "c8416c32-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Emergency Management"
+    },
+	{
+      "description": "Government entities that deal with the saftey, security, promotion, and management of energy resources.  For example, at the national level, the U.S. Department of Energy.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Energy"
+        ]
+      },
+      "uuid": "c8416d68-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Energy"
+    },
+	{
+      "description": "Environmental protection is the practice of protecting the natural environment by individuals, organizations and governments. Its objectives are to conserve natural resources and the existing natural environment and, where possible, to repair damage and reverse trends. Due to the pressures of overconsumption, population growth and technology, the biophysical environment is being degraded, sometimes permanently. This has been recognized, and governments have begun placing restraints on activities that cause environmental degradation. Since the 1960s, environmental movements have created more awareness of the multiple environmental problems. There is disagreement on the extent of the environmental impact of human activity and even scientific dishonesty occurs, so protection measures are occasionally debated.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Environmental_protection"
+        ]
+      },
+      "uuid": "c8416e9e-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Environment"
+    },
+	{
+      "description": "Fire protection is the study and practice of mitigating the unwanted effects of potentially destructive fires. It involves the study of the behaviour, compartmentalisation, suppression and investigation of fire and its related emergencies, as well as the research and development, production, testing and application of mitigating systems. In structures, be they land-based, offshore or even ships, the owners and operators are responsible to maintain their facilities in accordance with a design-basis that is rooted in laws, including the local building code and fire code, which are enforced by the Authority Having Jurisdiction.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Fire_protection"
+        ]
+      },
+      "uuid": "ffbc574e-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Fire Protection"
+    },
+	{
+      "description": "Health care, health-care, or healthcare is the maintenance or improvement of health via the prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals in allied health fields. Physicians and physician associates are a part of these health professionals. Dentistry, pharmacy, midwifery, nursing, medicine, optometry, audiology, psychology, occupational therapy, physical therapy and other health professions are all part of health care. It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health. Access to health care may vary across countries, communities, and individuals, influenced by social and economic conditions as well as health policies. Providing health care services means the timely use of personal health services to achieve the best possible health outcomes. Factors to consider in terms of healthcare access include financial limitations (such as insurance coverage), geographic barriers (such as additional transportation costs, possibility to take paid time off of work to use such services), and personal limitations (lack of ability to communicate with healthcare providers, poor health literacy, low income). Limitations to health care services affects negatively the use of medical services, efficacy of treatments, and overall outcome (well-being, mortality rates). Health care systems are organizations established to meet the health needs of targeted populations. According to the World Health Organization (WHO), a well-functioning health care system requires a financing mechanism, a well-trained and adequately paid workforce, reliable information on which to base decisions and policies, and well maintained health facilities to deliver quality medicines and technologies. An efficient health care system can contribute to a significant part of a country's economy, development and industrialization. Health care is conventionally regarded as an important determinant in promoting the general physical and mental health and well-being of people around the world. An example of this was the worldwide eradication of smallpox in 1980, declared by the WHO as the first disease in human history to be completely eliminated by deliberate health care interventions.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Health_care"
+        ]
+      },
+      "uuid": "ffbc59b0-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Health Care"
+    },
+	{
+      "description": "Housing, or more generally living spaces, refers to the construction and assigned usage of houses or buildings collectively, for the purpose of sheltering people — the planning or provision delivered by an authority, with related meanings. The social issue is of ensuring that members of society have a home in which to live, whether this is a house, or some other kind of dwelling, lodging, or shelter. Many governments have one or more housing authorities, sometimes also called a housing ministry, or housing department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Housing"
+        ]
+      },
+      "uuid": "ffbc5d16-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Housing"
+    },
+	{
+      "description": "Insurance is a means of protection from financial loss. It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss. An entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter. A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss. The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship. The insured receives a contract, called the insurance policy, which details the conditions and circumstances under which the insurer will compensate the insured. The amount of money charged by the insurer to the policyholder for the coverage set forth in the insurance policy is called the premium. If the insured experiences a loss which is potentially covered by the insurance policy, the insured submits a claim to the insurer for processing by a claims adjuster. The insurer may hedge its own risk by taking out reinsurance, whereby another insurance company agrees to carry some of the risk, especially if the primary insurer deems the risk too large for it to carry.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Insurance"
+        ]
+      },
+      "uuid": "ffbc5e88-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Insurance"
+    },
+	{
+      "description": "The judiciary (also known as the judicial system, judicature, judicial branch, Judiciative Branch, or court system) is the system of courts that interprets and applies the law in legal cases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Judiciary"
+        ]
+      },
+      "uuid": "ffbc5fc8-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Judiciary"
+    },
+	{
+      "description": "Government labor entities are responsible for occupational safety, wage and hour standards, unemployment insurance benefits, reemployment services, and some economic statistics. Additionally the purpose of these departments is to foster, promote, and develop the wellbeing of the wage earners, job seekers, and retirees of the United States, improve working conditions, advance opportunities for profitable employment, and assure work-related benefits and rights.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Labor"
+        ]
+      },
+      "uuid": "ffbc6108-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Labor"
+    },
+	{
+      "description": "Law enforcement is any system by which some members of society act in an organized manner to enforce the law by discovering, deterring, rehabilitating, or punishing people who violate the rules and norms governing that society. Although the term encompasses entities such as courts and corrections, it is most frequently applied to those who directly engage in patrols or surveillance to dissuade and discover criminal activity, and those who investigate crimes and apprehend offenders, a task typically carried out by the police, Sheriff or another law enforcement organization. Furthermore, although law enforcement may be most concerned with the prevention and punishment of crimes, organizations exist to discourage a wide variety of non-criminal violations of rules and norms, effected through the imposition of less severe consequences.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Law_enforcement"
+        ]
+      },
+      "uuid": "ffbc623e-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Law Enforcement"
+    },
+	{
+      "description": "Military affairs comprise a range of topics from military personnel and veterans to equipment and facilities as well as the methods, doctrines, organizational concepts, and technologies that support the military's strategic or tactical goals.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.rand.org/topics/military-affairs.html"
+        ]
+      },
+      "uuid": "ffbc6374-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Military Affairs"
+    },
+	{
+      "description": "Government agencies that deal with the promotion of safe driving, safe vehicles, as well as policy and regulation regarding these matters.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles"
+        ]
+      },
+      "uuid": "ffbc64aa-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Motor Vehicles"
+    },
+	{
+      "description": "Occupational safety and health (OSH), also commonly referred to as occupational health and safety (OHS), occupational health, or workplace health and safety (WHS), is a multidisciplinary field concerned with the safety, health, and welfare of people at work. These terms also refer to the goals of this field, so their use in the sense of this article was originally an abbreviation of occupational safety and health program/department etc. The goal of occupational safety and health programs is to foster a safe and healthy work environment. OSH may also protect co-workers, family members, employers, customers, and many others who might be affected by the workplace environment. In the United States, the term occupational health and safety is referred to as occupational health and occupational and non-occupational safety and includes safety for activities outside of work. In common-law jurisdictions, employers have a common law duty to take reasonable care of the safety of their employees. Statute law may in addition impose other general duties, introduce specific duties, and create government bodies with powers to regulate workplace safety issues.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+        ]
+      },
+      "uuid": "ffbc6824-2a55-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Occupational Safety and Health"
+    },
+	{
+      "description": "A park is an area of natural, semi-natural or planted space set aside for human enjoyment and recreation or for the protection of wildlife or natural habitats. Urban parks are green spaces set aside for recreation inside towns and cities. National parks and country parks are green spaces used for recreation in the countryside. State parks and provincial parks are administered by sub-national government states and agencies. Parks may consist of grassy areas, rocks, soil and trees, but may also contain buildings and other artifacts such as monuments, fountains or playground structures. Many parks have fields for playing sports such as soccer, baseball and football, and paved areas for games such as basketball. Many parks have trails for walking, biking and other activities. Some parks are built adjacent to bodies of water or watercourses and may comprise a beach or boat dock area. Urban parks often have benches for sitting and may contain picnic tables and barbecue grills.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Park"
+        ]
+      },
+      "uuid": "2e73731a-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Parks"
+    },
+	{
+      "description": "A pension is a fund into which a sum of money is added during an employee's employment years and from which payments are drawn to support the person's retirement from work in the form of periodic payments. A pension may be a defined benefit plan, where a fixed sum is paid regularly to a person, or a defined contribution plan, under which a fixed sum is invested that then becomes available at retirement age. A pension created by an employer for the benefit of an employee is commonly referred to as an occupational or employer pension. Labor unions, the government, or other organizations may also fund pensions. Occupational pensions are a form of deferred compensation, usually advantageous to employee and employer for tax reasons. Many pensions also contain an additional insurance aspect, since they often will pay benefits to survivors or disabled beneficiaries. Other vehicles (certain lottery payouts, for example, or an annuity) may provide a similar stream of payments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Pension"
+        ]
+      },
+      "uuid": "2e7378f6-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Pensions"
+    },
+	{
+      "description": "Public health has been defined as the science and art of preventing disease, prolonging life and promoting human health through organized efforts and informed choices of society, organizations, public and private, communities and individuals. Analyzing the health of a population and the threats it faces is the basis for public health. The public can be as small as a handful of people or as large as a village or an entire city, in the case of a pandemic it may encompass several continents. The concept of health takes into account physical, psychological and social well-being. As such, according to the World Health Organization, it is not merely the absence of disease or infirmity. Public health aims to improve the quality of life through prevention and treatment of disease, including mental health. This is done through the surveillance of cases and health indicators, and through the promotion of healthy behaviors. Common public health initiatives include promotion of handwashing and breastfeeding, delivery of vaccinations, suicide prevention, and distribution of condoms to control the spread of sexually transmitted diseases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Public_health"
+        ]
+      },
+      "uuid": "2e737a90-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Public Health"
+    },
+	{
+      "description": "An officer of state who superintends a government administrative department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.merriam-webster.com/dictionary/secretary"
+        ]
+      },
+      "uuid": "2e737bda-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Secretary"
+    },
+	{
+      "description": "Transport or transportation is the movement of humans, animals and goods from one location to another. In other words, the action of transport is defined as a particular movement of an organism or thing from a point A to a Point B. Modes of transport include air, land (rail and road), water, cable, pipeline and space. The field can be divided into infrastructure, vehicles and operations. Transport enables trade between people, which is essential for the development of civilizations.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Transport"
+        ]
+      },
+      "uuid": "2e737d24-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Transportation"
+    },
+	{
+      "description": "Unemployment, according to the Organisation for Economic Co-operation and Development (OECD), is when persons above a specified age (usually above 15) are not in paid employment or self-employment and are currently available for work during the reference period. Unemployment is measured by the unemployment rate as the number of persons who are unemployed as a percentage of the labour force (the total number of people employed plus unemployed). Unemployment can have many sources like new technologies and inventions, the status of the economy which could be influenced by a recession, competition due to globalization and international trade, policies of the government, as well as regulation and market. Unemployment and the status of the economy can be influenced by a country through for example fiscal policy. Furthermore, the monetary authority of a country like the central bank could influence the availability and cost for money through its monetary policy. In addition to theories of unemployment, there are a few categorizations of unemployment that are used to more precisely model the effects of unemployment within the economic system. Some of the main types of unemployment include structural unemployment and frictional unemployment, as well as cyclical unemployment, involuntary unemployment, and classical unemployment. Structural unemployment focuses on foundational problems in the economy and inefficiencies inherent in labor markets, including a mismatch between the supply and demand of laborers with necessary skill sets. Structural arguments emphasize causes and solutions related to disruptive technologies and globalization. Discussions of frictional unemployment focus on voluntary decisions to work based on each individuals' valuation of their own work and how that compares to current wage rates plus the time and effort required to find a job. Causes and solutions for frictional unemployment often address job entry threshold and wage rates.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Unemployment"
+        ]
+      },
+      "uuid": "2e737e5a-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Unemployment"
+    },
+	{
+      "description": "Veterans' affairs is an area of public policy concerned with relations between a government and its communities of military veterans. Some jurisdictions have a designated government agency or department, a Department of Veterans' Affairs, Ministry of Veterans' Affairs, or the like, which oversees issues relating to veterans' affairs. These departments provide a variety of services for veterans. The particular services provided can vary by jurisdiction, but can include things such as resolving issues regarding compensation due following service, provision of military pensions, assistance with housing, assistance obtaining post-service employment, provision of treatment for service-related injuries, and arranging for burial in cemeteries designated for veterans.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Veterans%27_affairs"
+        ]
+      },
+      "uuid": "2e737f90-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Veteran Affairs"
+    },
+	{
+      "description": "Workers' compensation (which formerly was known as workmen's compensation until the name was changed to make it gender neutral) is a form of insurance providing wage replacement and medical benefits to employees injured in the course of employment in exchange for mandatory relinquishment of the employee's right to sue their employer for the tort of negligence. The trade-off between assured, limited coverage and lack of recourse outside the worker compensation system is known as the compensation bargain. One of the problems that the compensation bargain solved is the problem of employers becoming insolvent as a result of high damage awards. The system of collective liability was created to prevent that, and thus to ensure security of compensation to the workers. Individual immunity is the necessary corollary to collective liability. While plans differ among jurisdictions, provision can be made for weekly payments in place of wages (functioning in this case as a form of disability insurance), compensation for economic loss (past and future), reimbursement or payment of medical and like expenses (functioning in this case as a form of health insurance), and benefits payable to the dependents of workers killed during employment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Workers%27_compensation"
+        ]
+      },
+      "uuid": "2e7380da-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Worker Compensation"
+    },
+	{
+      "description": "Federal or national level department responsible for developing and executing federal laws related to farming, forestry, rural economic development, and food. It aims to meet the needs of farmers and ranchers, promotes agricultural trade and production, works to assure food safety, protects natural resources, fosters rural communities and works to end hunger in the United States and internationally. For example the U.S. Department of Agriculture.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture"
+        ]
+      },
+      "uuid": "2e7384f4-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Local Agriculture"
+    },	
+	{
+      "description": "The management of public affairs; government. For this particular cluster object the administration level is set at the State or National level depending on country specific jurisdiction (i.e. ministries or executive branches of government).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Administration_(government)"
+        ]
+      },
+      "uuid": "8a9ae36c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Administration"
+    },
+	{
+      "description": "The civil service is a collective term for a sector of government composed mainly of career bureaucrats hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership. A civil servant or public servant is a person so employed in the public sector employed for a government department or agency. Civil (or public) servants work for government departments, and answer to the government, not a political party. The extent of civil servants of a state as part of the civil service varies from country to country. In the United Kingdom, for instance, only Crown (national government) employees are referred to as civil servants whereas country or city employees are not. Many consider the study of service to be a part of the field of public administration. Workers in non-departmental public bodies (sometimes called QUANGOs) may also be classed as civil servants for the purpose of statistics and possibly for their terms and conditions. Collectively a state's civil servants form its civil service or public service.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Civil_service"
+        ]
+      },
+      "uuid": "8a9ae63c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Civil Service"
+    },
+	{
+      "description": "A comptroller is a management-level position responsible for supervising the quality of accounting and financial reporting of an organization. A financial comptroller is a senior-level executive who acts as the head of accounting, and oversees the preparation of financial reports, such as balance sheets and income statements. In most Commonwealth countries, the comptroller general, auditor general, or comptroller and auditor general is the external auditor of the budget execution of the government and of government-owned companies. Typically, the independent institution headed by the comptroller general is a member of the International Organization of Supreme Audit Institutions (INTOSAI). In American government, the comptroller is effectively the chief financial officer of a public body. In business management, the comptroller is closer to a chief audit executive, holding a senior role in internal audit functions. Generally, the title encompasses a variety of responsibilities, from overseeing accounting and monitoring internal controls to countersigning on expenses and commitments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Comptroller"
+        ]
+      },
+      "uuid": "8a9ae79a-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Comptroller"
+    },
+	{
+      "description": "Consumer protection is the practice of protecting consumers from unfair practices in the marketplace. Consumer protection measures are often established by law, and efforts for consumer protection are also undertaken by non-governmental organizations. Consumer protection laws are designed to prevent businesses that engage in fraud or specified unfair practices from gaining an advantage over competitors or consumers of a certain product or goods. They may also provide additional protection for those most vulnerable in society. For example, a government may require businesses to disclose detailed information about products—particularly in areas where safety or public health is an issue, such as food. Consumer protection is linked to the idea of consumer rights and to the formation of consumer organizations, which helps consumers make better choices in the marketplace and get help with consumer complaints. Other organizations that promote consumer protection include government organizations and self-regulating business organizations such as consumer protection agencies and organisations, the State Trade Commission in America and Better Business Bureaus in America, Canada, England, etc. A consumer is defined as someone who acquires goods or services for direct use or ownership rather than for resale or use in production and manufacturing. Consumer interests can also serve consumers, consistent with economic efficiency, but this topic is treated in competition law. Consumer protection can also be asserted via non-government organizations and individuals as consumer activism.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Administration_(government)"
+        ]
+      },
+      "uuid": "8a9aeb1e-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Consumer Protection"
+    },
+	{
+      "description": "In criminal justice, particularly in North America, correction, corrections, and correctional, are umbrella terms describing a variety of functions typically carried out by government agencies, and involving the punishment, treatment, and supervision of persons who have been convicted of crimes. These functions commonly include imprisonment, parole, and probation. A typical correctional institution is a prison. A correctional system, also known as a penal system, thus refers to a network of agencies that administer a jurisdiction's prisons, and community-based programs like parole, and probation boards. This system is part of the larger criminal justice system, which additionally includes police, prosecution and courts. Jurisdictions throughout Canada and the US have ministries or departments, respectively, of corrections, correctional services, or similarly-named agencies.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Corrections"
+        ]
+      },
+      "uuid": "8a9aec86-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Corrections"
+    },
+	{
+      "description": "Economic development is the process by which the economic well-being and quality of life of a nation, region or State community are improved. The term has been used frequently in the 20th and 21st centuries, but the concept has existed in the West for centuries. Modernization, Westernization, and especially industrialization are other terms often used while discussing economic development.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Economic_development"
+        ]
+      },
+      "uuid": "8a9aedc6-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Economic Development"
+    },
+	{
+      "description": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research. Education frequently takes place under the guidance of educators, however learners can also educate themselves. Education can take place in formal or informal settings and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy. Formal education is commonly divided formally into such stages as preschool or kindergarten, primary school, secondary school and then college, university, or apprenticeship.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Education"
+        ]
+      },
+      "uuid": "8a9aeefc-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Education"
+    },
+	{
+      "description": "Emergency management is the organization and management of the resources and responsibilities for dealing with all humanitarian aspects of emergencies (preparedness, response, mitigation, and recovery). The aim is to reduce the harmful effects of all hazards, including disasters. The World Health Organization defines an emergency as the state in which normal procedures are interrupted, and immediate measures need to be taken to prevent that state turning into a disaster. Thus, emergency management is crucial to avoid the disruption transforming into a disaster, which is even harder to recover from. Emergency management is a related term but should not be equated to disaster management.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Emergency_management"
+        ]
+      },
+      "uuid": "8a9af03c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Emergency Management"
+    },
+	{
+      "description": "Government entities that deal with the saftey, security, promotion, and management of energy resources.  For example, at the national level, the U.S. Department of Energy.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Energy"
+        ]
+      },
+      "uuid": "8a9af172-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Energy"
+    },
+	{
+      "description": "Environmental protection is the practice of protecting the natural environment by individuals, organizations and governments. Its objectives are to conserve natural resources and the existing natural environment and, where possible, to repair damage and reverse trends. Due to the pressures of overconsumption, population growth and technology, the biophysical environment is being degraded, sometimes permanently. This has been recognized, and governments have begun placing restraints on activities that cause environmental degradation. Since the 1960s, environmental movements have created more awareness of the multiple environmental problems. There is disagreement on the extent of the environmental impact of human activity and even scientific dishonesty occurs, so protection measures are occasionally debated.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Environmental_protection"
+        ]
+      },
+      "uuid": "8a9af51e-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Environment"
+    },
+	{
+      "description": "Fire protection is the study and practice of mitigating the unwanted effects of potentially destructive fires. It involves the study of the behaviour, compartmentalisation, suppression and investigation of fire and its related emergencies, as well as the research and development, production, testing and application of mitigating systems. In structures, be they land-based, offshore or even ships, the owners and operators are responsible to maintain their facilities in accordance with a design-basis that is rooted in laws, including the State building code and fire code, which are enforced by the Authority Having Jurisdiction.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Fire_protection"
+        ]
+      },
+      "uuid": "bb7646fc-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Fire Protection"
+    },
+	{
+      "description": "Health care, health-care, or healthcare is the maintenance or improvement of health via the prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals in allied health fields. Physicians and physician associates are a part of these health professionals. Dentistry, pharmacy, midwifery, nursing, medicine, optometry, audiology, psychology, occupational therapy, physical therapy and other health professions are all part of health care. It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health. Access to health care may vary across countries, communities, and individuals, influenced by social and economic conditions as well as health policies. Providing health care services means the timely use of personal health services to achieve the best possible health outcomes. Factors to consider in terms of healthcare access include financial limitations (such as insurance coverage), geographic barriers (such as additional transportation costs, possibility to take paid time off of work to use such services), and personal limitations (lack of ability to communicate with healthcare providers, poor health literacy, low income). Limitations to health care services affects negatively the use of medical services, efficacy of treatments, and overall outcome (well-being, mortality rates). Health care systems are organizations established to meet the health needs of targeted populations. According to the World Health Organization (WHO), a well-functioning health care system requires a financing mechanism, a well-trained and adequately paid workforce, reliable information on which to base decisions and policies, and well maintained health facilities to deliver quality medicines and technologies. An efficient health care system can contribute to a significant part of a country's economy, development and industrialization. Health care is conventionally regarded as an important determinant in promoting the general physical and mental health and well-being of people around the world. An example of this was the worldwide eradication of smallpox in 1980, declared by the WHO as the first disease in human history to be completely eliminated by deliberate health care interventions.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Health_care"
+        ]
+      },
+      "uuid": "bb76497c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Health Care"
+    },
+	{
+      "description": "Housing, or more generally living spaces, refers to the construction and assigned usage of houses or buildings collectively, for the purpose of sheltering people — the planning or provision delivered by an authority, with related meanings. The social issue is of ensuring that members of society have a home in which to live, whether this is a house, or some other kind of dwelling, lodging, or shelter. Many governments have one or more housing authorities, sometimes also called a housing ministry, or housing department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Housing"
+        ]
+      },
+      "uuid": "bb764ae4-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Housing"
+    },
+	{
+      "description": "Insurance is a means of protection from financial loss. It is a form of risk management, primarily used to hedge against the risk of a contingent or uncertain loss. An entity which provides insurance is known as an insurer, insurance company, insurance carrier or underwriter. A person or entity who buys insurance is known as an insured or as a policyholder. The insurance transaction involves the insured assuming a guaranteed and known relatively small loss in the form of payment to the insurer in exchange for the insurer's promise to compensate the insured in the event of a covered loss. The loss may or may not be financial, but it must be reducible to financial terms, and usually involves something in which the insured has an insurable interest established by ownership, possession, or pre-existing relationship. The insured receives a contract, called the insurance policy, which details the conditions and circumstances under which the insurer will compensate the insured. The amount of money charged by the insurer to the policyholder for the coverage set forth in the insurance policy is called the premium. If the insured experiences a loss which is potentially covered by the insurance policy, the insured submits a claim to the insurer for processing by a claims adjuster. The insurer may hedge its own risk by taking out reinsurance, whereby another insurance company agrees to carry some of the risk, especially if the primary insurer deems the risk too large for it to carry.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Insurance"
+        ]
+      },
+      "uuid": "bb764c24-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Insurance"
+    },
+	{
+      "description": "The judiciary (also known as the judicial system, judicature, judicial branch, Judiciative Branch, or court system) is the system of courts that interprets and applies the law in legal cases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Judiciary"
+        ]
+      },
+      "uuid": "bb764d64-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Judiciary"
+    },
+	{
+      "description": "Government labor entities are responsible for occupational safety, wage and hour standards, unemployment insurance benefits, reemployment services, and some economic statistics. Additionally the purpose of these departments is to foster, promote, and develop the wellbeing of the wage earners, job seekers, and retirees of the United States, improve working conditions, advance opportunities for profitable employment, and assure work-related benefits and rights.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Labor"
+        ]
+      },
+      "uuid": "bb765174-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Labor"
+    },
+	{
+      "description": "Law enforcement is any system by which some members of society act in an organized manner to enforce the law by discovering, deterring, rehabilitating, or punishing people who violate the rules and norms governing that society. Although the term encompasses entities such as courts and corrections, it is most frequently applied to those who directly engage in patrols or surveillance to dissuade and discover criminal activity, and those who investigate crimes and apprehend offenders, a task typically carried out by the police, Sheriff or another law enforcement organization. Furthermore, although law enforcement may be most concerned with the prevention and punishment of crimes, organizations exist to discourage a wide variety of non-criminal violations of rules and norms, effected through the imposition of less severe consequences.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Law_enforcement"
+        ]
+      },
+      "uuid": "bb7652e6-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Law Enforcement"
+    },
+	{
+      "description": "Military affairs comprise a range of topics from military personnel and veterans to equipment and facilities as well as the methods, doctrines, organizational concepts, and technologies that support the military's strategic or tactical goals.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.rand.org/topics/military-affairs.html"
+        ]
+      },
+      "uuid": "bb76543a-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Military Affairs"
+    },
+	{
+      "description": "Government agencies that deal with the promotion of safe driving, safe vehicles, as well as policy and regulation regarding these matters.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Department_of_Motor_Vehicles"
+        ]
+      },
+      "uuid": "bb765570-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Motor Vehicles"
+    },
+	{
+      "description": "Occupational safety and health (OSH), also commonly referred to as occupational health and safety (OHS), occupational health, or workplace health and safety (WHS), is a multidisciplinary field concerned with the safety, health, and welfare of people at work. These terms also refer to the goals of this field, so their use in the sense of this article was originally an abbreviation of occupational safety and health program/department etc. The goal of occupational safety and health programs is to foster a safe and healthy work environment. OSH may also protect co-workers, family members, employers, customers, and many others who might be affected by the workplace environment. In the United States, the term occupational health and safety is referred to as occupational health and occupational and non-occupational safety and includes safety for activities outside of work. In common-law jurisdictions, employers have a common law duty to take reasonable care of the safety of their employees. Statute law may in addition impose other general duties, introduce specific duties, and create government bodies with powers to regulate workplace safety issues.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Occupational_safety_and_health"
+        ]
+      },
+      "uuid": "bb7656a6-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Occupational Safety and Health"
+    },
+	{
+      "description": "A park is an area of natural, semi-natural or planted space set aside for human enjoyment and recreation or for the protection of wildlife or natural habitats. Urban parks are green spaces set aside for recreation inside towns and cities. National parks and country parks are green spaces used for recreation in the countryside. State parks and provincial parks are administered by sub-national government states and agencies. Parks may consist of grassy areas, rocks, soil and trees, but may also contain buildings and other artifacts such as monuments, fountains or playground structures. Many parks have fields for playing sports such as soccer, baseball and football, and paved areas for games such as basketball. Many parks have trails for walking, biking and other activities. Some parks are built adjacent to bodies of water or watercourses and may comprise a beach or boat dock area. Urban parks often have benches for sitting and may contain picnic tables and barbecue grills.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Park"
+        ]
+      },
+      "uuid": "ef143348-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Parks"
+    },
+	{
+      "description": "A pension is a fund into which a sum of money is added during an employee's employment years and from which payments are drawn to support the person's retirement from work in the form of periodic payments. A pension may be a defined benefit plan, where a fixed sum is paid regularly to a person, or a defined contribution plan, under which a fixed sum is invested that then becomes available at retirement age. A pension created by an employer for the benefit of an employee is commonly referred to as an occupational or employer pension. Labor unions, the government, or other organizations may also fund pensions. Occupational pensions are a form of deferred compensation, usually advantageous to employee and employer for tax reasons. Many pensions also contain an additional insurance aspect, since they often will pay benefits to survivors or disabled beneficiaries. Other vehicles (certain lottery payouts, for example, or an annuity) may provide a similar stream of payments.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Pension"
+        ]
+      },
+      "uuid": "ef1436a4-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Pensions"
+    },
+	{
+      "description": "Public health has been defined as the science and art of preventing disease, prolonging life and promoting human health through organized efforts and informed choices of society, organizations, public and private, communities and individuals. Analyzing the health of a population and the threats it faces is the basis for public health. The public can be as small as a handful of people or as large as a village or an entire city, in the case of a pandemic it may encompass several continents. The concept of health takes into account physical, psychological and social well-being. As such, according to the World Health Organization, it is not merely the absence of disease or infirmity. Public health aims to improve the quality of life through prevention and treatment of disease, including mental health. This is done through the surveillance of cases and health indicators, and through the promotion of healthy behaviors. Common public health initiatives include promotion of handwashing and breastfeeding, delivery of vaccinations, suicide prevention, and distribution of condoms to control the spread of sexually transmitted diseases.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Public_health"
+        ]
+      },
+      "uuid": "ef1438d4-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Public Health"
+    },
+	{
+      "description": "An officer of state who superintends a government administrative department.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.merriam-webster.com/dictionary/secretary"
+        ]
+      },
+      "uuid": "ef143adc-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Secretary"
+    },
+	{
+      "description": "Transport or transportation is the movement of humans, animals and goods from one location to another. In other words, the action of transport is defined as a particular movement of an organism or thing from a point A to a Point B. Modes of transport include air, land (rail and road), water, cable, pipeline and space. The field can be divided into infrastructure, vehicles and operations. Transport enables trade between people, which is essential for the development of civilizations.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Transport"
+        ]
+      },
+      "uuid": "ef143ce4-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Transportation"
+    },
+	{
+      "description": "Unemployment, according to the Organisation for Economic Co-operation and Development (OECD), is when persons above a specified age (usually above 15) are not in paid employment or self-employment and are currently available for work during the reference period. Unemployment is measured by the unemployment rate as the number of persons who are unemployed as a percentage of the labour force (the total number of people employed plus unemployed). Unemployment can have many sources like new technologies and inventions, the status of the economy which could be influenced by a recession, competition due to globalization and international trade, policies of the government, as well as regulation and market. Unemployment and the status of the economy can be influenced by a country through for example fiscal policy. Furthermore, the monetary authority of a country like the central bank could influence the availability and cost for money through its monetary policy. In addition to theories of unemployment, there are a few categorizations of unemployment that are used to more precisely model the effects of unemployment within the economic system. Some of the main types of unemployment include structural unemployment and frictional unemployment, as well as cyclical unemployment, involuntary unemployment, and classical unemployment. Structural unemployment focuses on foundational problems in the economy and inefficiencies inherent in labor markets, including a mismatch between the supply and demand of laborers with necessary skill sets. Structural arguments emphasize causes and solutions related to disruptive technologies and globalization. Discussions of frictional unemployment focus on voluntary decisions to work based on each individuals' valuation of their own work and how that compares to current wage rates plus the time and effort required to find a job. Causes and solutions for frictional unemployment often address job entry threshold and wage rates.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Unemployment"
+        ]
+      },
+      "uuid": "ef143e4c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Unemployment"
+    },
+	{
+      "description": "Veterans' affairs is an area of public policy concerned with relations between a government and its communities of military veterans. Some jurisdictions have a designated government agency or department, a Department of Veterans' Affairs, Ministry of Veterans' Affairs, or the like, which oversees issues relating to veterans' affairs. These departments provide a variety of services for veterans. The particular services provided can vary by jurisdiction, but can include things such as resolving issues regarding compensation due following service, provision of military pensions, assistance with housing, assistance obtaining post-service employment, provision of treatment for service-related injuries, and arranging for burial in cemeteries designated for veterans.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Veterans%27_affairs"
+        ]
+      },
+      "uuid": "ef14402c-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Veteran Affairs"
+    },
+	{
+      "description": "Workers' compensation (which formerly was known as workmen's compensation until the name was changed to make it gender neutral) is a form of insurance providing wage replacement and medical benefits to employees injured in the course of employment in exchange for mandatory relinquishment of the employee's right to sue their employer for the tort of negligence. The trade-off between assured, limited coverage and lack of recourse outside the worker compensation system is known as the compensation bargain. One of the problems that the compensation bargain solved is the problem of employers becoming insolvent as a result of high damage awards. The system of collective liability was created to prevent that, and thus to ensure security of compensation to the workers. Individual immunity is the necessary corollary to collective liability. While plans differ among jurisdictions, provision can be made for weekly payments in place of wages (functioning in this case as a form of disability insurance), compensation for economic loss (past and future), reimbursement or payment of medical and like expenses (functioning in this case as a form of health insurance), and benefits payable to the dependents of workers killed during employment.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Workers%27_compensation"
+        ]
+      },
+      "uuid": "ef144216-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Worker Compensation"
+    },
+	{
+      "description": "Federal or national level department responsible for developing and executing federal laws related to farming, forestry, rural economic development, and food. It aims to meet the needs of farmers and ranchers, promotes agricultural trade and production, works to assure food safety, protects natural resources, fosters rural communities and works to end hunger in the United States and internationally. For example the U.S. Department of Agriculture.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture"
+        ]
+      },
+      "uuid": "ef1443a6-2a56-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: State Agriculture"
+    },
+	{
+      "description": "Federal or national level department responsible for developing and executing federal laws related to farming, forestry, rural economic development, and food. It aims to meet the needs of farmers and ranchers, promotes agricultural trade and production, works to assure food safety, protects natural resources, fosters rural communities and works to end hunger in the United States and internationally. For example the U.S. Department of Agriculture.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:GECI"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture"
+        ]
+      },
+      "uuid": "439ddf14-2a47-11ea-978f-2e728ce88125",
+      "value": "OSRS GECI: Federal Agriculture"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
