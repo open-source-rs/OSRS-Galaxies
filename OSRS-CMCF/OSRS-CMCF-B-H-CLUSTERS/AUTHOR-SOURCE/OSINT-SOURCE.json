@@ -20,7 +20,615 @@
       },
       "uuid": "77135ebe-2821-11ea-978f-2e728ce88125",
       "value": "OSRS OSINT Source: 360 Netlab Blog"
+    },
+	{
+      "description": "ABC affiliated news station located in Macon, GA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://41nbc.com/"
+        ]
+      },
+      "uuid": "2239ab3c-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: 41WMGT"
+    },
+	{
+      "description": "News broadcasting station that also has web-based reports located in Indianapolis Indiana, IN.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.wibc.com"
+        ]
+      },
+      "uuid": "2239af92-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: 93.1FM WIBC"
+    },
+	{
+      "description": "Launched by seasoned Subject Matter Experts, Advanced Intelligence, LLC is a fraud prevention and risk management company providing state-of-the-art advisory solutions for businesses aspiring to prevent financial losses. We provide immediate alerting, applied intelligence, and long-term strategic services to assist the private sector and government organizations in overcoming any obstacles posed by the existing and emerging cyber threats.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.advanced-intel.com/blog",
+		  "https://www.linkedin.com/company/advanced-intelligence-llc/about/"
+        ]
+      },
+      "uuid": "2239b10e-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Advanced Intelligence, LLC (AdvIntel)"
+    },
+	{
+      "description": "Agari was founded by the thought leaders behind Cisco’s IronPort solution and co-founders of the DMARC standard for email authentication. Using predictive AI informed by global intelligence from around 2 trillion emails annually, we protect organizations against phishing, business email compromise (BEC) scams and other advanced email threats.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.agari.com"
+        ]
+      },
+      "uuid": "2239b24e-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Agari"
+    },
+	{
+      "description": "The Akamai Blog includes news, insight and perspectives on living and working in a hyperconnected world.  With regular contributions from Akamai strategists, technologists, and product and industry specialists, the Akamai Blog is a forum to discuss, share and reflect on the trends that are driving today's businesses online.  Among the topics we will address are... optimizing the cloud, reaching connected devices, ensuring online security, and the business impact of delivering personalized online experiences and high-quality video. We welcome your feedback, comments, and exchange of ideas.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blogs.akamai.com/sitr/"
+        ]
+      },
+      "uuid": "2239b38e-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Akamai Security Intelligence & Threat Research"
+    },
+	{
+      "description": "Rearch group affiliated with the cybersecurity vendor Anomali. Anomali helps organizations find and respond to cyber threats. That's our mission. We bring to your security team the one thing that's been missing - external context. With Anomali you can now identify suspicious or malicious traffic before it even reaches your network. We turn threat intelligence into your cyber no-fly list, and seamlessly integrate this with your internal security and IT systems.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.anomali.com/blog/category/research"
+        ]
+      },
+      "uuid": "2239b4c4-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Anomali Labs"
+    },
+	{
+      "description": "Rearch blog affiliated with the cybersecurity vendor Avast.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.avast.com"
+        ]
+      },
+      "uuid": "2239b5fa-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Avast Blog"
+    },
+	{
+      "description": "Bleeping Computer is an information security and technology news publication created in 2004. Millions of visitors come to BleepingComputer.com every month to learn about the latest security threats, technology news, ways to stay protected online, and how to use their computer more efficiently. For our work in analyzing ransomware, issuing news alerts about the latest security threats, and offering free ransomware decryptors, BleepingComputer is the first news and support site to be added as a partner of the No More Ransom Project. This project was started in 2016 as an alliance between Europol's European Cybercrime Centre, the National High Tech Crime Unit of the Netherlands police, and McAfee in order to battle ransomware. In addition to news, we provide a wide array of free technical support services, downloads, and self-education tools that allow a user to resolve issues on their computer.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.bleepingcomputer.com"
+        ]
+      },
+      "uuid": "2239b94c-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: BleepingComputer"
+    },
+	{
+      "description": "CBC.ca is the English-language online service of the Canadian Broadcasting Corporation. It was introduced in 1996. Under its previous names, the CBC's online service first went live in 1993. The Web-based service of the CBC is one of Canada's most visited web sites. It currently contains over one million pages of information. CBC also runs the French-language website Ici.Radio-Canada.ca.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.cbc.ca/",
+		  "https://en.wikipedia.org/wiki/CBC.ca"
+        ]
+      },
+      "uuid": "2239baa0-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: CBC.ca"
+    },
+	{
+      "description": "Canadian news station located in Toronto, Ontario, Canada, Ca.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.ctvnews.ca"
+        ]
+      },
+      "uuid": "cd414d26-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: CTV News"
+    },
+	{
+      "description": "Local news group affiliated with the USA Today Network located in South Texas, TX.  ",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.caller.com"
+        ]
+      },
+      "uuid": "cd414fd8-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Caller Times"
+    },
+	{
+      "description": "Check Point Research provides leading cyber threat intelligence to Check Point Software customers and the greater intelligence community. The research team collects and analyzes global cyber attack data stored on ThreatCloud to keep hackers at bay, while ensuring all Check Point products are updated with the latest protections. From the moment a breach is initiated, ThreatCloud begins sharing data across the entire network, providing researchers with the intelligence they need to deeply analyze and report on attacks. Check Point Research publications and intelligence sharing fuel the discovery of new cyber threats and the development of the international threat intelligence community to keep you secure.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://research.checkpoint.com"
+        ]
+      },
+      "uuid": "cd415140-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Check Point Research"
+    },
+	{
+      "description": "Cisco Talos is one of the largest and most trusted providers of cutting-edge security research globally. We provide the data Cisco Security products and services use to take action. The key differentiator of Talos is our process — seeing what is happening broadly across the threat landscape, acting on that data rapidly and meaningfully, and driving protection. Integral to that process is that Talos has more visibility than any other security vendor in the world and unique capabilities and scale in intelligence. The core mission at Talos is to provide verifiable and customizable defensive technologies and techniques that help customers quickly protect their assets. Our job is protecting your network.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.talosintelligence.com",
+		  "https://www.linkedin.com/company/cisco-talos-intelligence-group/about/"
+        ]
+      },
+      "uuid": "cd41558c-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Cisco Talos Intelligence Group"
+    },
+	{
+      "description": "ClearSky cyber security provides cyber solutions, focused on threat intelligence services, mainly for the financial sector, critical infrastructure, public sector and the pharma sector. ClearSky focuses on creating a unique cyber suite to meet each client’s needs, ranging from threat intelligence, assessing and preparing the company for emerging threats, identifying possible threat actors targeting companies, Cyber TTX and developing a new defense layer to prevent, detect and mitigate cyberattacks. ClearSky is part of the Cyber security Consortium deploying cyber solutions in many countries around the globe. ClearSky brings to the table solutions such as providing the Consortium with Cyber Intelligence Services, Cyber Strategy, Deploying National CERT, Cyber Training and Cyber Solution Architecture.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.clearskysec.com"
+        ]
+      },
+      "uuid": "cd4156e0-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: ClearSky"
+    },
+	{
+      "description": "We analyze millions of messages daily from a wide variety of sources – automatically dissecting them to identify new and emerging phishing and malware threats. PhishMe Intelligence is then published in MRTI for easy integration into other security solutions and in human-readable formats for deeper research and diagnostics. Cofense Intelligence provides accurate and timely alerts so that you can be ready to take fast action when under attack. Cofense Analysts and Researchers work to analyze and verify phishing threats delivering ransomware, key loggers, RATs, and other types of crimeware. This high-fidelity data is delivered in multiple forms to effectively prepare and respond to attacks.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://cofense.com/blog/",
+		  "https://www.linkedin.com/company/malcovery-security/about/"
+        ]
+      },
+      "uuid": "cd415820-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Cofense Intelligence"
+    },
+	{
+      "description": "Confiant was formed out of a recognition that the world’s most sophisticated advertisers aren’t Verizon or P&G, but criminals using the industry for their own, selfish ends. We believe in the intelligent application of technology to fight back and make media safe for everyone.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.confiant.com"
+        ]
+      },
+      "uuid": "cd41596a-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Confiant"
+    },
+	{
+      "description": "Threat blog affiliated with the cybersecurity vendor CrowdStrike. CrowdStrike is the leader in cloud-delivered endpoint security. Leveraging artificial intelligence (AI), the CrowdStrike Falcon platform offers instant visibility and protection across the enterprise and prevents attacks on endpoints on or off the network. CrowdStrike Falcon deploys in minutes to deliver real-time protection and actionable threat intelligence from Day One. It seamlessly unifies next-generation AV with best-in-class endpoint detection and response, backed by 24-by-7 managed threat hunting. Its cloud infrastructure and single-agent architecture take away complexity and add scalability, manageability, and speed. CrowdStrike Falcon protects customers against all cyber attack types, using sophisticated signatureless AI and Indicator-of-Attack (IoA) based threat prevention to stop known and unknown threats in real time. Powered by the CrowdStrike Threat Graph, Falcon instantly correlates 2 trillion security events a week from across the globe to immediately prevent and detect threats.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.crowdstrike.com/blog/"
+        ]
+      },
+      "uuid": "cd415aa0-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: CrowdStrike Threat Blog"
+    },
+	{
+      "description": "Security intelligence blog affiliated with the cybersecurity vendor Cybereason. Founded by elite intelligence professionals born and bred in offense-first hunting, Cybereason gives enterprises the upper hand over cyber adversaries. The Cybereason platform is powered by a custom-built in-memory graph, the only truly automated hunting engine anywhere. It detects behavioral patterns across every endpoint and surfaces malicious operations in an exceptionally user-friendly interface. Cybereason is privately held and headquartered in Boston with offices in London, Tel Aviv, and Tokyo.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.cybereason.com/blog",
+		  "https://www.linkedin.com/company/cybereason/about/"
+        ]
+      },
+      "uuid": "cd415cd0-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Cybereason Blog"
+    },
+	{
+      "description": "The Daily Mail is a British daily middle-market newspaper published in London in a tabloid format. Founded in 1896, it is the United Kingdom's third-highest-circulation daily newspaper, after Metro and The Sun. Its sister paper The Mail on Sunday was launched in 1982, while Scottish and Irish editions of the daily paper were launched in 1947 and 2006 respectively. Content from the paper appears on the MailOnline website, although the website is managed separately and has its own editor. The paper is owned by the Daily Mail and General Trust. Jonathan Harmsworth, 4th Viscount Rothermere, a great-grandson of one of the original co-founders, is the current chairman and controlling shareholder of the Daily Mail and General Trust, while day-to-day editorial decisions for the newspaper are usually made by a team led by the editor, Geordie Greig, who succeeded Paul Dacre in September 2018.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.dailymail.co.uk/home/index.html",
+		  "https://en.wikipedia.org/wiki/Daily_Mail"
+        ]
+      },
+      "uuid": "cd415fe6-2b34-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Daily Mail.com UK"
+    },
+	{
+      "description": "Data breach resource site. This site is a combination of news aggregation, investigative reporting, and commentary.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.databreaches.net"
+        ]
+      },
+      "uuid": "a53e5f86-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Databreachs.net"
+    },
+	{
+      "description": "Cybersecurity reserach blog affiliated with the cybersecurity vendor Dell Secureworks. Secureworks is a part of the Dell Technologies family of brands.  Dell Technologies is a unique family of businesses that provides the essential infrastructure for organizations to build their digital future, transform IT and protect their most important asset: information. The company services customers of all sizes across 180 countries – ranging from 98 percent of the Fortune 500 to individual consumers – with the industry's most comprehensive and innovative portfolio from the edge to the core to the cloud.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.secureworks.com/blog",
+		  "https://www.linkedin.com/company/secureworks/about/"
+        ]
+      },
+      "uuid": "a53e626a-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Dell Secureworks Blog"
+    },
+	{
+      "description": "Online news resource that discusses the various topics regarding cybersecurity.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.ehackingnews.com"
+        ]
+      },
+      "uuid": "a53e63d2-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: E Hacking News"
+    },
+	{
+      "description": "WeLiveSecurity comes from the brains at ESET – experienced researchers with in-depth knowledge of the latest threats and security trends. It’s an editorial outlet for internet security news, views and insight, covering the latest, breaking security news, alongside video tutorials, in-depth features, and podcasts. The site aims to cater for all skill levels, from battle-hardened coders to people just looking for advice on how to secure their data effectively.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.welivesecurity.com/research/"
+        ]
+      },
+      "uuid": "a53e6756-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: ESET Research"
+    },
+	{
+      "description": "Cybersecurity blog affiliated with the cybersecurity vendor Fidelis. Fidelis Cybersecurity is a leading provider of threat detection, hunting and response solutions. Fidelis combats the full spectrum of cyber-crime, data theft and espionage by providing full visibility across hybrid cloud and on-prem environments, automating threat and data theft detection, empowering threat hunting and optimizing incident response with context, speed and accuracy.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.fidelissecurity.com/threatgeek/threat-intelligence/",
+		  "https://www.linkedin.com/company/fideliscybersecurity/about/"
+        ]
+      },
+      "uuid": "a53e68be-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Fidelis Cybersecurity Blog"
+    },
+	{
+      "description": "FireEye posts blog entries under threat research to present and discuss cyber attacks and threat intelligence from a technical perspective. These blog posts cover everything from exploits and vulnerabilities, to advanced malware and targeted attacks.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.fireeye.com/blog/threat-research.html"
+        ]
+      },
+      "uuid": "a53e69fe-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: FireEye Threat Research"
+    },
+	{
+      "description": "Local news station based in Kalispell, Montana.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://flatheadbeacon.com/"
+        ]
+      },
+      "uuid": "a53e6b3e-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Flathead Beacon"
+    },
+	{
+      "description": "Threat research blog affiliated with the cybersecurity vendor Fortinet. Fortinet provides top-rated network and content security, as well as secure access products that share intelligence and work together to form a cooperative fabric. Fortinet's unique Security Fabric combines Security Processors, an intuitive operating system, and applied threat intelligence to give you proven security, exceptional performance, and better visibility and control--while providing easier administration. The Fortinet Security Fabric delivers a unified approach that is broad, integrated, and automated. Reduce and manage the attack surface through integrated broad visibility, stop advanced threats through integrated AI-driven breach prevention, and reduce complexity through automated operations and orchestration. Fortinet flagship enterprise firewall platform, FortiGate, is available in a wide range of sizes and form factors to fit any environment and provides a broad array of next-generation security and networking functions.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.fortinet.com/blog"
+        ]
+      },
+      "uuid": "a53e6c7e-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Fortinet Blog"
+    },
+	{
+      "description": "Security intelligence blog affiliated with the cybersecurity vendor G Data, and Germany based Managed Security Service Provider (MSSP). ",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.gdatasoftware.com/blog"
+        ]
+      },
+      "uuid": "a53e6dbe-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: GData Software"
+    },
+	{
+      "description": "Local news station located in Gillette, Wyoming.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.gillettenewsrecord.com"
+        ]
+      },
+      "uuid": "a53e6efe-2b38-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Gillettte News Record"
+    },
+	{
+      "description": "Through analysis and insights from hundreds of the brightest minds in the cybersecurity industry, Security Intelligence empowers professionals around the globe to prove compliance, grow business and stop threats.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://securityintelligence.com/category/x-force/"
+        ]
+      },
+      "uuid": "460da5ec-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: IBM X-Force Threat Research"
+    },
+	{
+      "description": "Inc42 is a leading Indian media and information platform, known for its end-to-end coverage of the Indian startup ecosystem. We work with the mission to empower, connect & grow the Indian Startup Ecosystem by providing a deep understanding of the startup economy through data-backed news and analysis.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://inc42.com"
+        ]
+      },
+      "uuid": "460da90c-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: INC42"
+    },
+	{
+      "description": "Online web-based African news resource.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.itnewsafrica.com"
+        ]
+      },
+      "uuid": "460dab96-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: IT News Africa"
+    },
+	{
+      "description": "Infosecurity Magazine has over ten years of experience providing knowledge and insight into the information security industry. Its multiple award winning editorial content provides compelling features both online and in print that focus on hot topics and trends, in-depth news analysis and opinion columns from industry experts. Infosecurity Magazine also provides free educational content featuring:  an established webinar channel, whitepaper syndication programs & industry leading virtual conferences all of which are endorsed by all major industry accreditation bodies, making Infosecurity Magazine a key learning resource for industry professionals.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.infosecurity-magazine.com"
+        ]
+      },
+      "uuid": "460dacf4-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Infosecurity Magazine"
+    },
+	{
+      "description": "International Business Times (IBTimes) is a growing digital global news publication that delivers international business news to an audience of over 15 million people in India (as of Feb 2019) and 80 million worldwide every month through its network of digital publishing platforms. IBTimes provides comprehensive content around the most important business, economic and political news from around the world, besides covering some niche areas of interest to our global readers. IB Times is produced in 7 editions in 4 different languages, offering in-depth coverage that is relevant and specific to each global market. IBTimes is currently the main business unit of IBT Media. Our global headquarters is in New York City and the European Headquarters is in London.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.ibtimes.sg/corporate/about"
+        ]
+      },
+      "uuid": "460daf6a-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: International Business Times (IBTimes)"
+    },
+	{
+      "description": "Cybersecurity reserach blog affiliated with the cybersecurity vendor Intezer. Intezer introduces a Genetic Malware Analysis technology, offering enterprises automated malware analysis for improving their security operations and accelerating incident response. Intezer’s platform provides a fast, in-depth understanding of any device or file by mapping its code DNA at the gene level. By identifying the origins of every single piece of code within seconds, Intezer can quickly detect code reuse to known malware, as well as code that was seen in trusted applications.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.intezer.com/blog/"
+        ]
+      },
+      "uuid": "460db0be-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Intezer Blog"
+    },
+	{
+      "description": "Globalnews.ca offers Canadians from coast to coast a host of news and information – from breaking news in their community to deep engaging content that puts complex world issues in perspective. Our 21 local newsrooms provide up-to-the-minute community-based news, weather and information, while our national coverage features stories, analysis and deep, engaging content about issues in Canada and abroad. We leverage the strength of Corus Entertainment, Inc. – to tell our stories in ways that make a difference: through video, text, photographs and interactive features. And we deliver those stories to Canadians wherever and whenever they want through the web, mobile devices, email alerts, RSS feeds, and the world of social media.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://globalnews.ca/"
+        ]
+      },
+      "uuid": "460db208-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Global News CA"
+    },
+	{
+      "description": "Guardicore Labs is a global research team, consisting of hackers, cybersecurity researchers and industry experts. We publish our cyber security research and provide analysis, insights and response methodologies to the latest cyber threats as well as lead and participate in academic research. We are also the core maintainers of the Infection Monkey, a popular open-source network resiliency test tool.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.guardicore.com/labs/"
+        ]
+      },
+      "uuid": "460db49c-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Guardicore Labs"
+    },
+	{
+      "description": "Haaretz.com, the online edition of Haaretz Newspaper in Israel, and analysis from Israel and the Middle East. Haaretz.com provides extensive and in-depth coverage of Israel, the Jewish World and the Middle East, including defense, diplomacy, the Arab-Israeli conflict, the peace process, Israeli politics, Jerusalem affairs, international relations, Iran, Iraq, Syria, Lebanon, the Palestinian Authority, the West Bank and the Gaza Strip, the Israeli business world and Jewish life in Israel and the Diaspora.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.haaretz.com"
+        ]
+      },
+      "uuid": "460db6a4-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Haaretz"
+    },
+	{
+      "description": "Data breach notification site that stores searchable breached data.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://haveibeenpwned.com"
+        ]
+      },
+      "uuid": "460db7f8-2b3f-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: Have I Been Pwned"
+    },
+	{
+      "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://medium.com/csis-techblog"
+        ]
+      },
+      "uuid": "2239bbe0-2b32-11ea-978f-2e728ce88125",
+      "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
