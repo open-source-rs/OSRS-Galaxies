@@ -511,6 +511,566 @@
       "value": "OSRS BLS: NAICS 447 Gasoline Stations"
     },
 	{
+      "description": "Industries in the General Merchandise Stores subsector retail new general merchandise from fixed point-of-sale locations. Establishments in this subsector are unique in that they have the equipment and staff capable of retailing a large variety of goods from a single location. This includes a variety of display equipment and staff trained to provide information on many lines of products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag452.htm"
+        ]
+      },
+      "uuid": "c51328e4-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 452 General Merchandise Stores"
+    },
+	{
+      "description": "The Health Care and Social Assistance sector comprises establishments providing health care and social assistance for individuals. The sector includes both health care and social assistance because it is sometimes difficult to distinguish between the boundaries of these two activities. The industries in this sector are arranged on a continuum starting with those establishments providing medical care exclusively, continuing with those providing health care and social assistance, and finally finishing with those providing only social assistance. The services provided by establishments in this sector are delivered by trained professionals. All industries in the sector share this commonality of process, namely, labor inputs of health practitioners or social workers with the requisite expertise. Many of the industries in the sector are defined based on the educational degree held by the practitioners included in the industry.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag62.htm"
+        ]
+      },
+      "uuid": "c5132c90-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 62 Health Care and Social Assistance"
+    },
+	{
+      "description": "Industries in the Health and Personal Care Stores subsector retail health and personal care merchandise from fixed point-of-sale locations. Establishments in this subsector are characterized principally by the products they retail, and some health and personal care stores may have specialized staff trained in dealing with the products. Staff may include pharmacists, opticians, and other professionals engaged in retailing, advising customers, and (or) fitting the product sold to the customer's needs.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag446.htm"
+        ]
+      },
+      "uuid": "c5133032-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 446 Health and Personal Care Stores"
+    },
+	{
+      "description": "The Heavy and Civil Engineering Construction subsector comprises establishments whose primary activity is the construction of entire engineering projects (e.g., highways and dams), and specialty trade contractors, whose primary activity is the production of a specific component for such projects. Specialty trade contractors in Heavy and Civil Engineering Construction generally are performing activities that are specific to heavy and civil engineering construction projects and are not normally performed on buildings. The work performed may include new work, additions, alterations, or maintenance and repairs.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag237.htm"
+        ]
+      },
+      "uuid": "c51331c2-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 237 Heavy and Civil Engineering Construction"
+    },
+	{
+      "description": "Industries in the Hospitals subsector provide medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag622.htm"
+        ]
+      },
+      "uuid": "c5133302-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 622 Hospitals"
+    },
+	{
+      "description": "The Information sector comprises establishments engaged in the following processes (a) producing and distributing information and cultural products, (b) providing the means to transmit or distribute these products as well as data or communications, and (c) processing data. The main components of this sector are the publishing industries, including software publishing, and both traditional publishing and publishing exclusively on the Internet, the motion picture and sound recording industries, the broadcasting industries, including traditional broadcasting and those broadcasting exclusively over the Internet, the telecommunications industries, Web search portals, data processing industries, and the information services industries. The Information sector groups three types of establishments (1) those engaged in producing and distributing information and cultural products, (2) those that provide the means to transmit or distribute these products as well as data or communications, and (3) those that process data.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag51.htm"
+        ]
+      },
+      "uuid": "c513342e-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 51 Information"
+    },
+	{
+      "description": "Industries in the Insurance Carriers and Related Activities subsector group establishments that are primarily engaged in one of the following (1) underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies or (2) facilitating such underwriting by selling insurance policies, and by providing other insurance and employee-benefit related services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag524.htm"
+        ]
+      },
+      "uuid": "c513356e-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 524 Insurance Carriers and Related Activities"
+    },
+	{
+      "description": "Establishments in the Leather and Allied Product Manufacturing subsector transform hides into leather by tanning or curing and fabricating the leather into products for final consumption. It also includes the manufacture of similar products from other materials, including products (except apparel) made from leather substitutes, such as rubber, plastics, or textiles. Rubber footwear, textile luggage, and plastics purses or wallets are examples of leather substitute products included in this group. The products made from leather substitutes are included in this subsector because they are made in similar ways leather products are made (e.g., luggage). They are made in the same establishments, so it is not practical to separate them.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag316.htm"
+        ]
+      },
+      "uuid": "c51336a4-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 316 Leather and Allied Product Manufacturing"
+    },
+	{
+      "description": "Industries in the Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) subsector include establishments that are primarily engaged in assigning rights to assets, such as patents, trademarks, brand names, and (or) franchise agreements for which a royalty payment or licensing fee is paid to the asset holder. Establishments in this subsector own the patents, trademarks, and (or) franchise agreements that they allow others to use or reproduce for a fee and may or may not have created those assets.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag533.htm"
+        ]
+      },
+      "uuid": "c51339c4-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 533 Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+    },
+	{
+      "description": "Industries in the Machinery Manufacturing subsector create end products that apply mechanical force, for example, the application of gears and levers, to perform work. Some important processes for the manufacture of machinery are forging, stamping, bending, forming, and machining that are used to shape individual pieces of metal. Processes, such as welding and assembling are used to join separate parts together. Although these processes are similar to those used in metal fabricating establishments, machinery manufacturing is different because it typically employs multiple metal forming processes in manufacturing the various parts of the machine. Moreover, complex assembly operations are an inherent part of the production process.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag333.htm"
+        ]
+      },
+      "uuid": "c5133b2c-2b12-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 333 Machinery Manufacturing"
+    },
+	{
+      "description": "The Management of Companies and Enterprises sector comprises (1) establishments that hold the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing management decisions or (2) establishments (except government establishments) that administer, oversee, and manage establishments of the company or enterprise and that normally undertake the strategic or organizational planning and decision making role of the company or enterprise. Establishments that administer, oversee, and manage may hold the securities of the company or enterprise. Establishments in this sector perform essential activities that are often undertaken, in-house, by establishments in many sectors of the economy. By consolidating the performance of these activities of the enterprise at one establishment, economies of scale are achieved.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag55.htm"
+        ]
+      },
+      "uuid": "2d98a93c-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 55 Management of Companies and Enterprises"
+    },
+	{
+      "description": "The Manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products. Establishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and materials-handling equipment. However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector. Manufacturing establishments may process materials or may contract with other establishments to process their materials for them. Both types of establishments are included in manufacturing.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag31-33.htm"
+        ]
+      },
+      "uuid": "2d98ac16-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 31-33 Manufacturing"
+    },
+	{
+      "description": "Industries in the Merchant Wholesalers, Durable Goods subsector sell capital or durable goods to other businesses. Merchant wholesalers generally take title to the goods that they sell, in other words, they buy and sell goods on their own account. Durable goods are new or used items generally with a normal life expectancy of three years or more. Durable goods merchant wholesale trade establishments are engaged in wholesaling products, such as motor vehicles, furniture, construction materials, machinery and equipment (including household-type appliances), metals and minerals (except petroleum), sporting goods, toys and hobby goods, recyclable materials, and parts.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag423.htm"
+        ]
+      },
+      "uuid": "2d98b0a8-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 423 Merchant Wholesalers, Durable Goods"
+    },
+	{
+      "description": "Industries in the Merchant Wholesalers, Nondurable Goods subsector sell nondurable goods to other businesses. Nondurable goods are items generally with a normal life expectancy of less than three years. Nondurable goods merchant wholesale trade establishments are engaged in wholesaling products, such as paper and paper products, chemicals and chemical products, drugs, textiles and textile products, apparel, footwear, groceries, farm products, petroleum and petroleum products, alcoholic beverages, books, magazines, newspapers, flowers and nursery stock, and tobacco products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag424.htm"
+        ]
+      },
+      "uuid": "2d98b21a-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 424 Merchant Wholesalers, Nondurable Goods"
+    },
+	{
+      "description": "Industries in the Mining (except Oil and Gas) subsector primarily engage in mining, mine site development, and beneficiating (i.e., preparing) metallic minerals and nonmetallic minerals, including coal. The term mining is used in the broad sense to include ore extraction, quarrying, and beneficiating (e.g., crushing, screening, washing, sizing, concentrating, and flotation), customarily done at the mine site.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag212.htm"
+        ]
+      },
+      "uuid": "2d98b36e-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 212 Mining (except Oil and Gas)"
+    },
+	{
+      "description": "The Mining sector comprises establishments that extract naturally occurring mineral solids, such as coal and ores liquid minerals, such as crude petroleum and gases, such as natural gas. The term mining is used in the broad sense to include quarrying, well operations, beneficiating (e.g., crushing, screening, washing, and flotation), and other preparation customarily performed at the mine site, or as a part of mining activity.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag21.htm"
+        ]
+      },
+      "uuid": "2d98b4ae-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 21 Mining, Quarrying, and Oil and Gas Extraction"
+    },
+	{
+      "description": "Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. Processes used by these establishments vary significantly, both among and within industries. For example, a variety of manufacturing processes are used in manufacturing sporting and athletic goods that include products such as tennis racquets and golf balls. The processes for these products differ from each other, and the processes differ significantly from the fabrication processes used in making dolls or toys, the melting and shaping of precious metals to make jewelry, and the bending, forming, and assembly used in making medical products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag339.htm"
+        ]
+      },
+      "uuid": "2d98b5ee-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 339 Miscellaneous Manufacturing"
+    },
+	{
+      "description": "Industries in the Miscellaneous Store Retailers subsector retail merchandise from fixed point-of-sale locations (except new or used motor vehicles and parts, new furniture and home furnishings, new appliances and electronic products, new building materials and garden equipment and supplies, food and beverages, health and personal care goods, gasoline, new clothing and accessories, and new sporting goods, hobby goods, books, and music). Establishments in this subsector include stores with unique characteristics like florists, used merchandise stores, and pet and pet supply stores as well as other store retailers.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag453.htm"
+        ]
+      },
+      "uuid": "2d98b72e-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 453 Miscellaneous Store Retailers"
+    },
+	{
+      "description": "The Monetary Authorities-Central Bank subsector groups establishments that engage in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as a fiscal agent for the central government.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag521.htm"
+        ]
+      },
+      "uuid": "2d98b864-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 521 Monetary Authorities - Central Bank"
+    },
+	{
+      "description": "Industries in the Motion Picture and Sound Recording Industries subsector group establishments involved in the production and distribution of motion pictures and sound recordings. While producers and distributors of motion pictures and sound recordings issue works for sale as traditional publishers do, the processes are sufficiently different to warrant placing establishments engaged in these activities in a separate subsector. Production is typically a complex process that involves several distinct types of establishments that are engaged in activities, such as contracting with performers, creating the film or sound content, and providing technical postproduction services. Film distribution is often to exhibitors, such as theaters and broadcasters, rather than through the wholesale and retail distribution chain. When the product is in a mass-produced form, NAICS treats production and distribution as the major economic activity as it does in the Publishing Industries subsector, rather than as a subsidiary activity to the manufacture of such products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag512.htm"
+        ]
+      },
+      "uuid": "2d98c0de-2b15-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 512 Motion Picture and Sound Recording Industries"
+    },
+	{
+      "description": "Industries in the Motor Vehicle and Parts Dealers subsector retail motor vehicles and parts from fixed point-of-sale locations. Establishments in this subsector typically operate from a showroom and (or) an open lot where the vehicles are on display. The display of vehicles and the related parts require little by way of display equipment. The personnel generally include both the sales and sales support staff familiar with the requirements for registering and financing a vehicle as well as a staff of parts experts and mechanics trained to provide repair and maintenance services for the vehicles. Specific industries have been included in this subsector to identify the type of vehicle being retailed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag441.htm"
+        ]
+      },
+      "uuid": "2f63ab8e-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 441 Motor Vehicle and Parts Dealers"
+    },
+	{
+      "description": "Industries in the Museums, Historical Sites, and Similar Institutions subsector engage in the preservation and exhibition of objects, sites, and natural wonders of historical, cultural, and (or) educational value.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag712.htm"
+        ]
+      },
+      "uuid": "2f63af8a-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 712 Museums, Historical Sites, and Similar Institutions"
+    },
+	{
+      "description": "The Nonmetallic Mineral Product Manufacturing subsector transforms mined or quarried nonmetallic minerals, such as sand, gravel, stone, clay, and refractory materials, into products for intermediate or final consumption. Processes used include grinding, mixing, cutting, shaping, and honing. Heat often is used in the process and chemicals are frequently mixed to change the composition, purity, and chemical properties for the intended product. For example, glass is produced by heating silica sand to the melting point (sometimes combined with cullet or recycled glass) and then drawn, floated, or blow molded to the desired shape or thickness. Refractory materials are heated and then formed into bricks or other shapes for use in industrial applications.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag327.htm"
+        ]
+      },
+      "uuid": "2f63b106-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 327 Nonmetallic Mineral Product Manufacturing"
+    },
+	{
+      "description": "Industries in the Nonstore Retailers subsector retail merchandise using methods, such as the broadcasting of infomercials, the broadcasting and publishing of direct-response advertising, the publishing of paper and electronic catalogs, door-to-door solicitation, in-home demonstration, selling from portable stalls and distribution through vending machines. Establishments in this subsector include mail-order houses, vending machine operators, home delivery sales, door-to-door sales, party plan sales, electronic shopping, and sales through portable stalls (e.g., street vendors, except food). Establishments engaged in the direct sale (i.e., nonstore) of products, such as home heating oil dealers and newspaper delivery service providers are included in this subsector.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag454.htm"
+        ]
+      },
+      "uuid": "2f63b250-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 454 Nonstore Retailers"
+    },
+	{
+      "description": "Industries in the Nursing and Residential Care Facilities subsector provide residential care combined with either nursing, supervisory, or other types of care as required by the residents. In this subsector, the facilities are a significant part of the production process and the care provided is a mix of health and social services with the health services being largely some level of nursing services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag623.htm"
+        ]
+      },
+      "uuid": "2f63b3a4-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 623 Nursing and Residential Care Facilities"
+    },
+	{
+      "description": "Industries in the Oil and Gas Extraction subsector operate and (or) develop oil and gas field properties. Such activities may include exploration for crude petroleum and natural gas, drilling, completing, and equipping wells, operating separators, emulsion breakers, desilting equipment, and field gathering lines for crude petroleum and natural gas, and all other activities in the preparation of oil and gas up to the point of shipment from the producing property. This subsector includes the production of crude petroleum, the mining and extraction of oil from oil shale and oil sands, and the production of natural gas, sulfur recovery from natural gas, and recovery of hydrocarbon liquids.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag211.htm"
+        ]
+      },
+      "uuid": "2f63b4e4-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 211 Oil and Gas Extraction"
+    },
+	{
+      "description": "Industries in the Other Information Services subsector group establishments supplying information, storing and providing access to information, searching and retrieving information, operating Web sites that use search engines to allow for searching information on the Internet, or publishing and (or) broadcasting content exclusively on the Internet. The main components of the subsector are news syndicates, libraries, archives, exclusive Internet publishing and (or) broadcasting, and Web Search Portals.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag519.htm"
+        ]
+      },
+      "uuid": "2f63b61a-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 519 Other Information Services"
+    },
+	{
+      "description": "The Other Services (except Public Administration) sector comprises establishments engaged in providing services not specifically provided for elsewhere in the classification system. Establishments in this sector are primarily engaged in activities, such as equipment and machinery repairing, promoting or administering religious activities, grantmaking, advocacy, and providing drycleaning and laundry services, personal care services, death care services, pet care services, photofinishing services, temporary parking services, and dating services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag81.htm"
+        ]
+      },
+      "uuid": "2f63b822-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 81 Other Services (except Public Administration)"
+    },
+	{
+      "description": "Industries in the Paper Manufacturing subsector make pulp, paper, or converted paper products. The manufacturing of these products is grouped together because they constitute a series of vertically connected processes. More than one is often carried out in a single establishment. There are essentially three activities. The manufacturing of pulp involves separating the cellulose fibers from other impurities in wood or used paper. The manufacturing of paper involves matting these fibers into a sheet. Converted paper products are made from paper and other materials by various cutting and shaping techniques and include coating and laminating activities.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag322.htm"
+        ]
+      },
+      "uuid": "2f63b96c-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 322 Paper Manufacturing"
+    },
+	{
+      "description": "Industries in the Performing Arts, Spectator Sports, and Related Industries subsector group establishments that produce or organize and promote live presentations involving the performances of actors and actresses, singers, dancers, musical groups and artists, athletes, and other entertainers, including independent (i.e., freelance) entertainers and the establishments that manage their careers. The classification recognizes four basic processes (1) producing (i.e., presenting) events, (2) organizing, managing, and (or) promoting events, (3) managing and representing entertainers, and (4) providing the artistic, creative and technical skills necessary to the production of these live events. Also, this subsector contains four industries for performing arts companies. Each is defined on the basis of the particular skills of the entertainers involved in the presentations.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag711.htm"
+        ]
+      },
+      "uuid": "2f63baac-2b17-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 711 Performing Arts, Spectator Sports, and Related Industries"
+    },
+	{
+      "description": "Industries in the Personal and Laundry Services subsector group establishments that provide personal and laundry services to individuals, households, and businesses. Services performed include personal care services, death care services, laundry and drycleaning services, and a wide range of other personal services, such as pet care (except veterinary) services, photofinishing services, temporary parking services, and dating services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag812.htm"
+        ]
+      },
+      "uuid": "bffeaf20-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 812 Personal and Laundry Services"
+    },
+	{
+      "description": "The Petroleum and Coal Products Manufacturing subsector is based on the transformation of crude petroleum and coal into usable products. The dominant process is petroleum refining that involves the separation of crude petroleum into component products through such techniques as cracking and distillation. In addition, this subsector includes establishments that primarily further process refined petroleum and coal products and produce products, such as asphalt coatings and petroleum lubricating oils.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag324.htm"
+        ]
+      },
+      "uuid": "bffeb2fe-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 324 Petroleum and Coal Products Manufacturing"
+    },
+	{
+      "description": "Industries in the Pipeline Transportation subsector use transmission pipelines to transport products, such as crude oil, natural gas, refined petroleum products, and slurry. Industries are identified based on the products transported (i.e., pipeline transportation of crude oil, natural gas, refined petroleum products, and other products). The Pipeline Transportation of Natural Gas industry includes the storage of natural gas because the storage is usually done by the pipeline establishment and because a pipeline is inherently a network in which all the nodes are interdependent.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag486.htm"
+        ]
+      },
+      "uuid": "bffeb560-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 486 Pipeline Transportation"
+    },
+	{
+      "description": "Industries in the Plastics and Rubber Products Manufacturing subsector make goods by processing plastics materials and raw rubber. The core technology employed by establishments in this subsector is that of plastics or rubber product production. Plastics and rubber are combined in the same subsector because plastics are increasingly being used as a substitute for rubber, however the subsector is generally restricted to the production of products made of just one material, either solely plastics or rubber.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag326.htm"
+        ]
+      },
+      "uuid": "bffeb7c2-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 326 Plastics and Rubber Products Manufacturing"
+    },
+	{
+      "description": "The Postal Service subsector includes the activities of the National Post Office and its subcontractors operating under a universal service obligation to provide mail services, and using the infrastructure required to fulfill that obligation. These services include delivering letters and small parcels. These articles can be described as those that can be handled by one person without using special equipment. This allows the collection, pick-up, and delivery operations to be done with limited labor costs and minimal equipment. Sorting and transportation activities, where necessary, are generally mechanized. The restriction to small parcels distinguishes these establishments from those in the transportation industries. These establishments may also provide express delivery services using the infrastructure established for provision of basic mail services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag491.htm"
+        ]
+      },
+      "uuid": "bffeba42-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 491 Postal Service"
+    },
+	{
+      "description": "Industries in the Primary Metal Manufacturing subsector smelt and (or) refine ferrous and nonferrous metals from ore, pig or scrap, using electrometallurgical and other process metallurgical techniques. Establishments in this subsector also manufacture metal alloys and superalloys by introducing other chemical elements to pure metals. The output of smelting and refining, usually in ingot form, is used in rolling, drawing, and extruding operations to make sheet, strip, bar, rod, or wire, and in molten form to make castings and other basic metal products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag331.htm"
+        ]
+      },
+      "uuid": "bffebe3e-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 331 Primary Metal Manufacturing"
+    },
+	{
+      "description": "Industries in the Printing and Related Support Activities subsector print products, such as newspapers, books, labels, business cards, stationery, business forms, and other materials, and perform support activities, such as data imaging, platemaking services, and bookbinding. The support activities included here are an integral part of the printing industry, and a product (a printing plate, a bound book, or a computer disk or file) that is an integral part of the printing industry is almost always provided by these operations.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag323.htm"
+        ]
+      },
+      "uuid": "c001417c-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 323 Printing and Related Support Activities"
+    },
+	{
+      "description": "Industries in the Private Households subsector include private households that engage in employing workers on or about the premises in activities primarily concerned with the operation of the household. These private households may employ individuals, such as cooks, maids, butlers, and outside workers, such as gardeners, caretakers, and other maintenance workers.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag814.htm"
+        ]
+      },
+      "uuid": "c001458c-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 814 Private Households"
+    },
+	{
+      "description": "The Professional, Scientific, and Technical Services sector comprises establishments that specialize in performing professional, scientific, and technical activities for others. These activities require a high degree of expertise and training. The establishments in this sector specialize according to expertise and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include legal advice and representation, accounting, bookkeeping, and payroll services, architectural, engineering, and specialized design services, computer services, consulting services, research services, advertising services, photographic services, translation and interpretation services, veterinary services, and other professional, scientific, and technical services.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag54.htm"
+        ]
+      },
+      "uuid": "c00147da-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 54 Professional, Scientific, and Technical Services"
+    },
+	{
+      "description": "Industries in the Publishing Industries (except Internet) subsector group establishments engaged in the publishing of newspapers, magazines, other periodicals, and books, as well as directory and mailing list and software publishing. In general, these establishments, which are known as publishers, issue copies of works for which they usually possess copyright. Works may be in one or more formats including traditional print form, CD-ROM, or proprietary electronic networks. Publishers may publish works originally created by others for which they have obtained the rights and (or) works that they have created in-house. Software publishing is included here because the activity, creation of a copyrighted product and bringing it to market, is equivalent to the creation process for other types of intellectual products.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:BLS Index A thru P"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://www.bls.gov/iag/tgs/iag511.htm"
+        ]
+      },
+      "uuid": "c0014af0-2b19-11ea-978f-2e728ce88125",
+      "value": "OSRS BLS: NAICS 511 Publishing Industries (except Internet)"
+    },
+	{
       "description": "The Accommodation and Food Services sector comprises establishments providing customers with lodging and (or) preparing meals, snacks, and beverages for immediate consumption. The sector includes both accommodation and food services establishments because the two activities are often combined at the same establishment.",
       "meta": {
 	  "kill_chain": [
