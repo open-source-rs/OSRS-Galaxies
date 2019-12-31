@@ -18,7 +18,137 @@
       },
       "uuid": "a76459ac-28c5-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Asset Management: 04.a Inventory of Assets"
+    },
+	{
+      "description": "Assets maintained in the inventory are owned by an inidividual or a designated part of the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fb58c-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.b Ownership of Assets"
+    },
+	{
+      "description": "Rules for the acceptable use of information and of assets associated with information and information processing facilities are identified, documented and implemented.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fb802-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.c Acceptable Use of Assets"
+    },
+	{
+      "description": "Employees and external party users return all of the organizational assets in their possession upon termination of their employment, contract or agreement.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fbb90-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.d Return of Assets"
+    },
+	{
+      "description": "Information is classified in terms of legal requirements, value, criticality and sensitivity to unauthorized disclosure or modification.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fbd16-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.e Classification of Information"
+    },
+	{
+      "description": "The development of an appropriate set of procedures for information labeling and implemented in accordance with the information classification scheme adopted by the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fbe6a-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.f Labeling of Information"
+    },
+	{
+      "description": "Assets are handled in accordance with the information classification scheme adopted by the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fbfa0-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.g Handling of Asset"
+    },
+	{
+      "description": "Removable media are managed in accordance with the classification scheme adopted by the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fc0ea-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.h Management of Removable Media"
+    },
+	{
+      "description": "Media is disposed of securely when no longer required.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fc22a-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.i Disposal of Media"
+    },
+	{
+      "description": "Media containing information are protected against unauthorized access, misuse or corruption during transportation.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fc36a-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.j Physical Media Transfer"
+    },
+	{
+      "description": "System documentation is protected against unauthorized access.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Asset Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "4d4fc75c-2bd7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Asset Management: 04.k Security of System Documentation"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

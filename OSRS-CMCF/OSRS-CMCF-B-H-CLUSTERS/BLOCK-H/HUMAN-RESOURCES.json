@@ -18,6 +18,71 @@
       },
       "uuid": "1807d374-28c5-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Human Resources: 03.a Screening"
+    },
+	{
+      "description": "Contractual agreements with employees and contractors state their and the organization’s responsibilities for information security.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "80126196-2bd6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.b Terms and Conditions of Employment"
+    },
+	{
+      "description": "Management requires all employees and contractors to apply information security in accordance with the established policies and procedures of the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "8012643e-2bd6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.c Management Responsibilities"
+    },
+	{
+      "description": "Employees of the organization and, where relevant, contractors receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "8012659c-2bd6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.d Information Security Awareness, Education and Training"
+    },
+	{
+      "description": "A formal disciplinary process is in place and communicated to employees, and action is taken against employees who have committed an information security violation.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "801266dc-2bd6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.e Disciplinary Process"
+    },
+	{
+      "description": "Information security responsibilities and duties that remain valid after termination or change of employment are defined, communicated to the employee or contractor, and enforced.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Human Resources"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "8012681c-2bd6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Human Resources: 03.f Termination or Change of Employment Responsibilities"
     }
 	  ],
 	"version": 1

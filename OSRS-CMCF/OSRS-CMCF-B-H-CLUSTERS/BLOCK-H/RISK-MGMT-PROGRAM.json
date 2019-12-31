@@ -18,7 +18,46 @@
       },
       "uuid": "3967a8a8-2822-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Risk Mgmt Program: 0.a Risk Management Framework"
+    },
+	{
+      "description": "Risks are identified, analyzed, and evaluated against organizational risk criteria.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Risk Management Program"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "9190ea0c-2bd4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Risk Mgmt Program: 0.b Risk Assessment"
+    },
+	{
+      "description": "Appropriate risk treatments are identified and residual risk is managed to an acceptable level.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Risk Management Program"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "9190ecdc-2bd4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Risk Mgmt Program: 0.c Risk Treatment"
+    },
+	{
+      "description": "Risk is continually monitored and reviewed.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Risk Management Program"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "9190ee44-2bd4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Risk Mgmt Program: 0.d Risk Monitoring and Review"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

@@ -18,7 +18,101 @@
       },
       "uuid": "56dae86c-28c4-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Information Protection Organization: 02.a Information Security Roles and Responsibilities"
+    },
+	{
+      "description": "Conflicting duties and areas of responsibility are segregated to reduce opportunities for unauthorized or unintentional modification or misuse of the organization's assets.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "70131b9c-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.b Segregation of Duties"
+    },
+	{
+      "description": "Appropriate contacts with relevant authorities are maintained.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "70131e12-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.c Contact with Authorities"
+    },
+	{
+      "description": "Appropriate contacts with special interest groups or other specialist security forums and professional associations are maintained.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "70131f66-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.d Contact with Special Interest Groups"
+    },
+	{
+      "description": "Information security is addressed in project management, regardless of the type of project.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "701320a6-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.e Information Security in Project Management"
+    },
+	{
+      "description": "Risks introduced by using mobile devices are managed.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "701321f0-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.f Mobile Devices"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+      "description": "Information accessed, processed or stored at teleworking sites is protected.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Organization"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "70132326-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Organization: 02.g Teleworking"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

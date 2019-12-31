@@ -18,7 +18,20 @@
       },
       "uuid": "f450c266-28c3-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Information Protection Policy: 01.a Policies for Information Security"
+    },
+	{
+      "description": "Policies for information security are reviewed at planned intervals or if significant changes occur to ensure their continuing suitability, adequacy and effectiveness.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Information Protection Policy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "2e82dab4-2bd5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Information Protection Policy: 01.b Review of the Policies for Information Security"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
