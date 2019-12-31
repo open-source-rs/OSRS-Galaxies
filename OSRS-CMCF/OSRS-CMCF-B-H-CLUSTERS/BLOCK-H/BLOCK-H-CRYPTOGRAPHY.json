@@ -18,7 +18,20 @@
       },
       "uuid": "7fc50ecc-28c6-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Cryptography: 06.a Use of Cryptographic Controls"
+    },
+	{
+      "description": "Requirements for the use, protection and lifetime of cryptographic keys is developed and implemented through their whole lifecycle.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Cryptography"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "c5e5c464-2bdc-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Cryptography: 06.b Key Management"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

@@ -18,7 +18,189 @@
       },
       "uuid": "2456bc20-28c6-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Access Control: 05.a Access Control"
+    },
+	{
+      "description": "Users are only be provided with access to the network and network services that they have been specifically authorized to use.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2ac40-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.b Access to Networks and Network Services"
+    },
+	{
+      "description": "A formal user registration and de-registration process is used to verify a user's identity and enable assignment of access rights.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2af60-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.c User Registration and De-Registration"
+    },
+	{
+      "description": "User access rights are assigned, modified and revoked as needed for all user types to all systems and services.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2b19a-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.d User Access Provisioning"
+    },
+	{
+      "description": "The allocation and use of privileged access rights are restricted and controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2b2f8-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.e Management of Privileged Access Rights"
+    },
+	{
+      "description": "The allocation of secret authentication information is strictly controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2b442-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.f Management of Secret Authentication Information of Users"
+    },
+	{
+      "description": "Asset owners review users’ access rights at regular intervals.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2b62c-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.g Review of User Access Rights"
+    },
+	{
+      "description": "The access rights of all employees and external party users to information and information processing facilities are removed upon termination of their employment, contract or agreement, or adjusted upon change.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2b80c-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.h Removal or Adjustment of Access Rights"
+    },
+	{
+      "description": "Users are required to follow the organization’s practices in the use of secret authentication information.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2ba00-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.i Use of Secret Authentication Information"
+    },
+	{
+      "description": "Access to information and application system functions are restricted in accordance with the access control policy.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2bd3e-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.j Information Access Restriction"
+    },
+	{
+      "description": "Password management systems are interactive and ensure quality passwords.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "1e549bd0-2bdc-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.l Password Management System"
+    },
+	{
+      "description": "The use of utility programs that might be capable of overriding system and application controls are restricted and tightly controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "1e54a076-2bdc-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.m Use of Privileged Utility Programs"
+    },
+	{
+      "description": "Access to program source code is restricted.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "1e54a256-2bdc-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.n Access Control to Program Source Code"
+    },
+	{
+      "description": "User sessions are automatically terminated as needed to protect  information and information systems.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "1e54a56c-2bdc-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.o Session Termination"
+    },
+	{
+      "description": "Where required by the access control policy, access to systems and applications are controlled by a secure log-on procedures.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Access Control"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0af2bb4a-2bdb-11ea-85fa-2e728ce88125",
+      "value": "OSRS HITRUST CSF Access Control: 05.k Secure Log-On Procedures"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

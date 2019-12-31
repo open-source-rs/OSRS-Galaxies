@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Security perimeters are defined and used to protect areas that contain either sensitive or critical information and information processing facilities.",
       "meta": {
 	  "kill_chain": [
@@ -18,7 +18,189 @@
       },
       "uuid": "0e0c6d9c-28c7-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.a Physical Security Perimeter"
-    }
+    },
+	{
+      "description": "Secure areas are protected by appropriate entry controls only authorized personnel are allowed access.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638cbc2-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.b Physical Entry Controls"
+	},
+	{
+      "description": "Physical security for offices, rooms and facilities are designed and applied.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638ce38-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.c Securing Offices, Rooms and Facilities"
+	},
+	{
+      "description": "Physical protection against natural disasters, malicious attack or accidents are designed and applied.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638cf96-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.d Protecting Against External and Environmental Threats"
+	},
+	{
+      "description": "Procedures for working in secure areas are designed and applied.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638d0d6-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.e Working in Secure Areas"
+	},
+	{
+      "description": "Access points such as delivery and loading areas and other points where unauthorized persons could enter the premises are controlled and, if possible, isolated from information processing facilities to avoid unauthorized access.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638d522-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.f Delivery and Loading Areas"
+	},
+	{
+      "description": "Equipment is sited and protected to reduce the risks from environmental threats and hazards, and opportunities for unauthorized access.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638d932-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.g Equipment Siting and Protection"
+	},
+	{
+      "description": "Equipment is protected from power failures and other disruptions caused by failures in supporting utilities.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638da90-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.h Supporting Utilities"
+	},
+	{
+      "description": "Power and telecommunications cabling carrying data or supporting information services are protected from interception, interference or damage.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638dbc6-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.i Cabling Security"
+	},
+	{
+      "description": "Equipment is correctly maintained its continued availability and integrity.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638dd06-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.j Equipment Maintenance"
+	},
+	{
+      "description": "Security is applied to off-site assets taking into account the different risks of working outside the organization’s premises.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fcb2ba18-2bde-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.l Security of Equipment and Assets Off-Premises"
+	},
+	{
+      "description": "All items of equipment containing storage media are verified any sensitive data and licensed software has been removed or securely overwritten prior to disposal or re-use.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fcb2bec8-2bde-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.m Secure Disposal or Reuse of Equipment"
+	},
+	{
+      "description": "",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fcb2c04e-2bde-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.n Unattended User Equipment"
+	},
+	{
+      "description": "Clear desk  requirements for papers and removable storage media and a clear screen  requirements for information processing facilities is are adopted.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fcb2c1b6-2bde-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.o Clear Desk and Clear Screen Requirements"
+	},
+	{
+      "description": "Equipment, information or software is not be taken off-site without prior authorization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Physical AND Environmental Protection"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "7638dfb8-2bdd-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Physical AND Environmental Protection: 07.k Removal of Assets"
+	}
 	  ],
-	"version": 1
+	"version": 2
 }

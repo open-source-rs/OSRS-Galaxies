@@ -18,7 +18,176 @@
       },
       "uuid": "62dad872-28c7-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Operations: 08.a Documented Operating Procedures"
+    },
+	{
+      "description": "Changes to the organization, business processes, information processing facilities and systems that affect information security are controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a27667e2-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.b Change Management"
+    },
+	{
+      "description": "The use of resources is monitored, tuned and projections made of future capacity requirements the required system performance.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a2766cb0-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.c Capacity Management"
+    },
+	{
+      "description": "Development, testing, and operational environments are separated to reduce the risks of unauthorized access or changes to the operational environment.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a2766e40-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.d Separation of Development, Testing and Operational Environments"
+    },
+	{
+      "description": "Detection, prevention and recovery controls to protect against malware are implemented, combined with appropriate user awareness.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a27670ac-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.e Controls Against Malware"
+    },
+	{
+      "description": "Backup copies of information, software and system images are taken and tested regularly in accordance with an agreed backup policy.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a276734a-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.f Information Backup"
+    },
+	{
+      "description": "Event logs recording user activities, exceptions, faults and information security events are produced, kept and regularly reviewed.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a276749e-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.g Event Logging"
+    },
+	{
+      "description": "Logging facilities and log information shall be protected against tampering and unauthorized access.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a27676c4-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.h Protection of Log Information"
+    },
+	{
+      "description": "System administrator and system operator activities are logged and the logs protected and regularly reviewed.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a27678d6-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.i Administrator and Operator Logs"
+    },
+	{
+      "description": "The clocks of all relevant information processing systems within an organization or security domain are synchronized to a single reference time source.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a2767b2e-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.j Clock Synchronization"
+    },
+	{
+      "description": "Information about technical vulnerabilities of information systems being used are obtained in a timely fashion, the organization’s exposure to such vulnerabilities are evaluated, and appropriate measures are taken to address the associated risk.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "62dad872-28c7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.l Management of Technical Vulnerabilities"
+    },
+	{
+      "description": "Rules governing the installation of software by users are established and implemented.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "62dad872-28c7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.m Restrictions on Software Installation"
+    },
+	{
+      "description": "Audit requirements and activities involving verification of operational systems are carefully planned and agreed to minimize disruptions to business processes.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "62dad872-28c7-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.n Information Systems Audit Controls"
+    },
+	{
+      "description": "The installation of software on operational systems is controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Operations"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "a2767c8c-2bdf-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Operations: 08.k Installation of Software on Operational Systems"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
