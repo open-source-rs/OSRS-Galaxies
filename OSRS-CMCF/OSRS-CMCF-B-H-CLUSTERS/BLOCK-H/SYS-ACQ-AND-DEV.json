@@ -18,7 +18,189 @@
       },
       "uuid": "2d71bdee-28c8-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.a Information Security Requirements Analysis and Specification"
+    },
+	{
+      "description": "Information involved in application services passing over public networks are protected from fraudulent activity, contract dispute and unauthorized disclosure and modification.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc498738-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.b Securing Application Services on Public Networks"
+    },
+	{
+      "description": "Information involved in application service transactions are protected to prevent incomplete transmission, mis-routing, unauthorized message alteration, unauthorized disclosure, unauthorized message duplication or replay.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc4989b8-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.c Protecting Application Services Transactions"
+    },
+	{
+      "description": "Information is protected when interconnecting business information components and systems.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc498b2a-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.d Internal System Connections"
+    },
+	{
+      "description": "Rules for the development of software and systems are established and applied to developments within the organization.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc498c74-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.e Secure Development Policy"
+    },
+	{
+      "description": "Changes to systems within the development lifecycle are controlled by the use of formal change control procedures.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc498e54-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.f System Change Control Procedures"
+    },
+	{
+      "description": "Business critical applications are reviewed and tested when operating platforms are changed to ensure there are no adverse impact on organizational operations or security.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc4991ce-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.g Technical Review of Applications After Operating Platform Changes"
+    },
+	{
+      "description": "Modifications to software packages are discouraged, limited to necessary changes and all changes are strictly controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc49932c-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.h Restrictions on Changes to Software Packages"
+    },
+	{
+      "description": "Principles for engineering secure systems are established, documented, maintained and applied to any information system implementation effort.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc499480-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.i Secure System Engineering Principles"
+    },
+	{
+      "description": "Secure development environments for system development and integration efforts that cover the entire system development lifecycle are established and provide an appropriate level of protection.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc4995c0-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.j Secure Development Environment"
+    },
+	{
+      "description": "Testing of security functionality is carried out during development.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f1ccf4ec-2ca6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.l System Security Testing"
+    },
+	{
+      "description": "Acceptance testing programs and related criteria are established for the acceptance of new information systems, upgrades and new versions.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f1ccf9b0-2ca6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.m System Acceptance"
+    },
+	{
+      "description": "Test data is selected carefully, protected and controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f1ccfb2c-2ca6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.n Protection of Test Data"
+    },
+	{
+      "description": "Errors, loss, unauthorized modification or misuse of information while processing information in applications is prevented.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f1ccfc6c-2ca6-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.o Processing Integrity"
+    },
+	{
+      "description": "The activity of out- sourced system development is supervised and monitored.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:System Acquisition AND Development"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "fc4996f6-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF System Acquisition AND Development: 10.k Outsourced Development"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

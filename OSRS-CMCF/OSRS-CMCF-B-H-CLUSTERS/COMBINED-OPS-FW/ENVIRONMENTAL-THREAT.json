@@ -20,7 +20,147 @@
       "uuid": "3a953ca8-2823-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Environmental Threat: HITRUST PFC1 Drought"
     },
-	  {
+	{
+      "description": "Water vapor in the air that can collect as condensation causing water damage to assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a1669aec-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFE1 Humidity"
+    },
+	{
+      "description": "The collection of tiny foreign particles that can have an adverse effect on assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a1669dbc-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFE2 Contaminants"
+    },
+	{
+      "description": "Chemical (i.e. gaseous or liquid) contaminants causing corrosion of assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a1669f2e-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFE3 Corrosion"
+    },
+	{
+      "description": "A mass of snow, ice, and rocks falling rapidly down a mountainside damaging structures or assets in its path.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a082-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG1 Avalanche"
+    },
+	{
+      "description": "Sudden movement of a block of the Earth’s crust along a geological fault and associated ground shaking with the potential to damage assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a1c2-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG2 Earthquake"
+    },
+	{
+      "description": "The sliding down of a mass of earth or rock from a mountain or cliff damaging structures or assets in its path.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a302-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG3 Landslide"
+    },
+	{
+      "description": "A large hole that suddenly appears in the ground when the surface of the ground is no longer supported causing damage to anything resting on that surface.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a6c2-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG4 Sinkhole"
+    },
+	{
+      "description": "Damage of asset caused by eruption and lava.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a820-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG5 Volcano"
+    },
+	{
+      "description": "An uncontrolled or non-prescribed combustion of burning vegetation in a natural setting with the potential to damage or disrupt.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166a956-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFG6 Wildfires"
+    },
+	{
+      "description": "Eroding of a surface by water causing damage to structures and assets on the surface.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a166aa96-2ca3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFH1 Erosion"
+    },
+	{
       "description": "Large scale and large effects natural disasters. May include natural earthquakes, floods, landslides, heavy rains, and heavy winds.",
       "meta": {
 	  "kill_chain": [
@@ -34,8 +174,6 @@
       "uuid": "b8987844-28d3-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Environmental Threat: ENISA Disaster"
     }	  
-	  
-	  
 	  ],
 	"version": 1
 }

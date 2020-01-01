@@ -18,7 +18,85 @@
       },
       "uuid": "cab9b60c-28c7-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Communications: 09.a Network Controls"
+    },
+	{
+      "description": "Security mechanisms, service levels and management requirements of all network services are identified and included in network services agreements, whether these services are provided in-house or outsourced.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b8868-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.b Security of Network Services"
+    },
+	{
+      "description": "Groups of information services, users and information systems are segregated on networks.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b8b42-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.c Segregation in Networks"
+    },
+	{
+      "description": "Protections for the transfer of information are formally managed and controlled.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b8cb4-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.d Information Transfer"
+    },
+	{
+      "description": "Agreements address the secure transfer of business information between the organization and external parties.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b8e12-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.e Agreements on Information Transfer"
+    },
+	{
+      "description": "Information involved in electronic messaging is appropriately protected.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b8f70-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.f Electronic Messaging"
+    },
+	{
+      "description": "Requirements for confidentiality or non-disclosure agreements reflecting the organization’s needs for the protection of information are identified, regularly reviewed and documented.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Communications"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "3a7b90ce-2ca5-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Communications: 09.g Confidentiality or Non-Disclosure Agreement"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
