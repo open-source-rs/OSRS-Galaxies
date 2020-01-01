@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
@@ -20,7 +20,7 @@
       "uuid": "9123d024-2824-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access Windows: T1189 Drive-by Compromise"
     },
-{
+	{
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
@@ -34,7 +34,7 @@
       "uuid": "dd28db08-2988-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access Linux: T1189 Drive-by Compromise"
     },
-{
+	{
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
@@ -48,7 +48,7 @@
       "uuid": "dd28ddd8-2988-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access AWS: T1190 Exploit Public-Facing Application"
     },	  
-{
+	{
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
@@ -62,7 +62,7 @@
       "uuid": "47c72c26-2989-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access GCP: T1190 Exploit Public-Facing Application"
     },	  	  
-	  {
+	{
       "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
       "meta": {
 	  "kill_chain": [
@@ -70,13 +70,391 @@
         ],
         "refs": [
           "https://attack.mitre.org/tactics/TA0001/",
-          "https://attack.mitre.org/techniques/T1189"
+          "https://attack.mitre.org/techniques/T1190"
         ]
       },
       "uuid": "47c72e92-2989-11ea-978f-2e728ce88125",
       "value": "OSRS Combined MITRE ATK Initial Access Azure: T1190 Exploit Public-Facing Application"
-    },		  
-{
+    },
+	{
+      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1190"
+        ]
+      },
+      "uuid": "d991fade-2cac-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1190 Exploit Public-Facing Application"
+    },
+	{
+      "description": "The use of software, data, or commands to take advantage of a weakness in an Internet-facing computer system or program in order to cause unintended or unanticipated behavior. The weakness in the system can be a bug, a glitch, or a design vulnerability. These applications are often websites, but can include databases (like SQL), standard services (like SMB or SSH), and any other applications with Internet accessible open sockets, such as web servers and related services. Depending on the flaw being exploited this may include Exploitation for Defense Evasion. If an application is hosted on cloud-based infrastructure, then exploiting it may lead to compromise of the underlying instance. This can allow an adversary a path to access the cloud APIs or to take advantage of weak identity and access management policies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1190"
+        ]
+      },
+      "uuid": "d991fd54-2cac-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1190 Exploit Public-Facing Application"
+    },
+	{
+      "description": "Adversaries may introduce computer accessories, computers, or networking hardware into a system or network that can be used as a vector to gain access. While public references of usage by APT groups are scarce, many penetration testers leverage hardware additions for initial access. Commercial and open source products are leveraged with capabilities such as passive network tapping , man-in-the middle encryption breaking , keystroke injection , kernel memory reading via DMA , adding new wireless access to an existing network, and others.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1200"
+        ]
+      },
+      "uuid": "4bc7eee2-2cad-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1200 Hardware Additions"
+    },
+	{
+      "description": "Adversaries may introduce computer accessories, computers, or networking hardware into a system or network that can be used as a vector to gain access. While public references of usage by APT groups are scarce, many penetration testers leverage hardware additions for initial access. Commercial and open source products are leveraged with capabilities such as passive network tapping , man-in-the middle encryption breaking , keystroke injection , kernel memory reading via DMA , adding new wireless access to an existing network, and others.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1200"
+        ]
+      },
+      "uuid": "4bc7f3a6-2cad-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1200 Hardware Additions"
+    },
+	{
+      "description": "Spearphishing with a link is a specific variant of spearphishing. It is different from other forms of spearphishing in that it employs the use of links to download malware contained in email, instead of attaching malicious files to the email itself, to avoid defenses that may inspect email attachments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1192"
+        ]
+      },
+      "uuid": "c655346c-2cad-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1192 Spearphishing Link"
+    },
+	{
+      "description": "Spearphishing with a link is a specific variant of spearphishing. It is different from other forms of spearphishing in that it employs the use of links to download malware contained in email, instead of attaching malicious files to the email itself, to avoid defenses that may inspect email attachments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1192"
+        ]
+      },
+      "uuid": "c65538ea-2cad-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1192 Spearphishing Link"
+    },
+	{
+      "description": "Spearphishing with a link is a specific variant of spearphishing. It is different from other forms of spearphishing in that it employs the use of links to download malware contained in email, instead of attaching malicious files to the email itself, to avoid defenses that may inspect email attachments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1192"
+        ]
+      },
+      "uuid": "c6553a5c-2cad-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1192 Spearphishing Link"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c6c62-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c73c4-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c755e-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access AWS: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c76bc-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access GCP: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c787e-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Azure: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "225c79e6-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f532c-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f55ac-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f5930-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access AWS: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f5a84-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access GCP: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f5c6e-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Azure: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Adversaries may breach or otherwise leverage organizations who have access to intended victims. Access through trusted third party relationship exploits an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1199"
+        ]
+      },
+      "uuid": "b86f5db8-2cae-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1199 Trusted Relationship"
+    },
+	{
+      "description": "Spearphishing attachment is a specific variant of spearphishing. Spearphishing attachment is different from other forms of spearphishing in that it employs the use of malware attached to an email. All forms of spearphishing are electronically delivered social engineering targeted at a specific individual, company, or industry. In this scenario, adversaries attach a file to the spearphishing email and usually rely upon User Execution to gain execution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1193"
+        ]
+      },
+      "uuid": "4e840e16-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1193 Spearphishing Attachment"
+    },
+	{
+      "description": "Spearphishing attachment is a specific variant of spearphishing. Spearphishing attachment is different from other forms of spearphishing in that it employs the use of malware attached to an email. All forms of spearphishing are electronically delivered social engineering targeted at a specific individual, company, or industry. In this scenario, adversaries attach a file to the spearphishing email and usually rely upon User Execution to gain execution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1193"
+        ]
+      },
+      "uuid": "4e84108c-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1193 Spearphishing Attachment"
+    },
+	{
+      "description": "Spearphishing via service is a specific variant of spearphishing. It is different from other forms of spearphishing in that it employs the use of third party services rather than directly via enterprise email channels.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1194"
+        ]
+      },
+      "uuid": "9479d46e-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1194 Spearphishing via Service"
+    },
+	{
+      "description": "Spearphishing via service is a specific variant of spearphishing. It is different from other forms of spearphishing in that it employs the use of third party services rather than directly via enterprise email channels.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1194"
+        ]
+      },
+      "uuid": "9479d8f6-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1194 Spearphishing via Service"
+    },
+	{
+      "description": "Supply chain compromise is the manipulation of products or product delivery mechanisms prior to receipt by a final consumer for the purpose of data or system compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1195"
+        ]
+      },
+      "uuid": "dd89e982-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1195 Supply Chain Compromise"
+    },
+	{
+      "description": "Supply chain compromise is the manipulation of products or product delivery mechanisms prior to receipt by a final consumer for the purpose of data or system compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1195"
+        ]
+      },
+      "uuid": "dd89ecca-2caf-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Linux: T1195 Supply Chain Compromise"
+    },
+	{
+      "description": "Remote services such as VPNs, Citrix, and other access mechanisms allow users to connect to internal enterprise network resources from external locations. There are often remote service gateways that manage connections and credential authentication for these services. Services such as Windows Remote Management can also be used externally.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1133"
+        ]
+      },
+      "uuid": "289292f8-2cb0-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1133 External Remote Services"
+    },
+	{
+      "description": "Adversaries may move onto systems, possibly those on disconnected or air-gapped networks, by copying malware to removable media and taking advantage of Autorun features when the media is inserted into a system and executes. In the case of Lateral Movement, this may occur through modification of executable files stored on removable media or by copying malware and renaming it to look like a legitimate file to trick users into executing it on a separate system. In the case of Initial Access, this may occur through manual manipulation of the media, modification of systems used to initially format the media, or modification to the media's firmware itself.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Initial Access"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0001/",
+          "https://attack.mitre.org/techniques/T1091"
+        ]
+      },
+      "uuid": "289295c8-2cb0-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Initial Access Windows: T1091 Replication Through Removable Media"
+    },
+	{
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",
       "meta": {
 	  "kill_chain": [
@@ -91,5 +469,5 @@
       "value": "OSRS Combined MITRE ATK Initial Access SaaS: T1189 Drive-by Compromise"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
