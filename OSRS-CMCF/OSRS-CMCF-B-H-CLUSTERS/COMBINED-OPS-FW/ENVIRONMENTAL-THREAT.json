@@ -161,6 +161,118 @@
       "value": "OSRS Operational Framework Environmental Threat: HITRUST PFH1 Erosion"
     },
 	{
+      "description": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land causing damage to assets in the flood path.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09cd8e-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFH2 Flood"
+    },
+	{
+      "description": "Damage from a long high sea wave caused by a underwater earthquake, landslide or other disturbance.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d05e-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFH3 Tsunami"
+    },
+	{
+      "description": "Severe snowstorm with high winds and low visibility that can cause damage or accessibility issues.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d1bc-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM1 Blizzard"
+    },
+	{
+      "description": "Rapid circulation of air around a low pressure center with destructive surrounding weather causing damage and accessibility issues.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d306-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM2 Cyclonic Storms"
+    },
+	{
+      "description": "A storm that produces hail which reaches the surface causing damage.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d450-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM3 Hailstorm"
+    },
+	{
+      "description": "A prolonged period of abnormally hot weather that can impact people and electronic systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d874-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM4 Heat Waves"
+    },
+	{
+      "description": "A storm of freezing rain which can damage assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09d9fa-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM5 Ice Storm"
+    },
+	{
+      "description": "Damage of asset caused by a lightning strike (electrical overvoltage).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e09db3a-2d8e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM6 Lightning"
+    },
+	{
       "description": "Large scale and large effects natural disasters. May include natural earthquakes, floods, landslides, heavy rains, and heavy winds.",
       "meta": {
 	  "kill_chain": [

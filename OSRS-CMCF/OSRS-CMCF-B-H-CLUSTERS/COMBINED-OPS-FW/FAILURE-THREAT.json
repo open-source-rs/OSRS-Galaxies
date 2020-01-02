@@ -20,7 +20,147 @@
       "uuid": "6f870db8-28d4-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Failure Threat: HITRUST LUF1 3rd Party Services"
     },
-	  {
+	{
+      "description": "A database failure which may result in systems or applications not being available, which can have a significant impact to business operations resulting in financial loss or potential brand damage.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400f02c-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF2 Database Systems"
+    },
+	{
+      "description": "When the bandwidth of the network is insufficient, the transmission rate in the network and eventually the availability in the network will be severely limited to the organization's users resulting in potential business disruptions.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400f2fc-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF3 Network Bandwidth"
+    },
+	{
+      "description": "The process of selecting a path for traffic in a network, or between or across multiple networks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400f720-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF4 Network Routing"
+    },
+	{
+      "description": "The failure of programs and other operations used by a computer.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400f86a-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF5 Software OR Code"
+    },
+	{
+      "description": "The retention of retrievable data on a computer or other electronic system (memory).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400f9b4-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF6 Storage"
+    },
+	{
+      "description": "The failure and (or) malfunction of Virtual parts and components of IT hardware (e.g. motherboard, CPU, RAM, video card, hard drive, power supply). Failure of Virtual IT.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400faea-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST LUF7 Virtual Parts & Components"
+    },
+	{
+      "description": "Failure or disruption of third party services required for proper operation of information systems. For example, supplies or resources.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400fc20-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF1 3rd Party Services"
+    },
+	{
+      "description": "Failure of communications links due to problems with cable networks.  For example, copper or fiber cabling.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9400fd56-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF2 Cable"
+    },
+	{
+      "description": "a special form of line impairment, caused by currents and voltages of signals transmitted over adjacent lines. This may result in the disclosure of sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "940119f8-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF3 Cross-talk"
+    },
+	{
+      "description": "Power failure with the potential to cause asset damage or unavailability.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "94011bb0-2d8f-11ea-8a91-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF4 Electric Power"
+    },
+	{
       "description": "Threat of failure of IT hardware and, or software assets or its parts. May include failure of defective data media, hardware failures, application failures, and failure of device parts.",
       "meta": {
 	  "kill_chain": [
