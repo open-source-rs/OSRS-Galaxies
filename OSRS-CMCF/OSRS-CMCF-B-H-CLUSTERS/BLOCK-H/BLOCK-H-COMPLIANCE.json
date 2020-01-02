@@ -18,7 +18,98 @@
       },
       "uuid": "be44a9f2-28c9-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.a Identification of Applicable Legislation and Contractual Requirements"
+    },
+	{
+      "description": "Appropriate procedures are implemented compliance with legislative, regulatory and contractual requirements related to intellectual property rights and use of proprietary software products.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b9358-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.b Intellectual Property Rights"
+    },
+	{
+      "description": "Records are protected from loss, destruction, falsification, unauthorized access and unauthorized release, in accordance with legislator, regulatory, contractual and business requirements.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b961e-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.c Protection of Records"
+    },
+	{
+      "description": "The privacy and protection of personally identifiable information is provided as required in relevant legislation and regulation where applicable.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b9772-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.d Privacy and Protection of Personally Identifiable Information"
+    },
+	{
+      "description": "Cryptographic controls are used in compliance with all relevant agreements, legislation and regulations.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b98bc-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.e Regulation of Cryptographic Controls"
+    },
+	{
+      "description": "The approach to managing information security and its implementation (i.e. control objectives, controls, policies, processes and procedures for information security) are reviewed independently at planned intervals or when significant changes occur.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b9cd6-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.f Independent Review of Information Security"
+    },
+	{
+      "description": "Managers regularly review the compliance of information processing and procedures within their area of responsibility with the appropriate security policies, standards and any other security requirements.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b9e3e-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.g Compliance with Security Policies and Standards"
+    },
+	{
+      "description": "Information systems are regularly reviewed for compliance with the organization’s information security policies and standards.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Compliance"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "f24b9f88-2d8a-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Compliance: 14.h Technical Compliance Review"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

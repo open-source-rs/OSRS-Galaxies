@@ -18,7 +18,267 @@
       },
       "uuid": "10a7bc84-28ca-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Privacy: 15.a Privacy Notice"
+    },
+	{
+      "description": "Data subjects are provided with clear and easily accessible information about the organization's policies, procedures and practices with respect to the handling of PII.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd3436-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.b Openness and Transparency"
+    },
+	{
+      "description": "Data subjects are provided an accurate and timely accounting of the disclosures made of their PII, whether the disclosures are made by a PII controller, processor or subcontractor.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd3710-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.c Accounting of Disclosures"
+    },
+	{
+      "description": "Data subjects are made active participants in the decision-making process regarding the processing of their PII, except as otherwise limited by legislation and regulations, through the exercise of meaningful, informed and freely given consent.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd386e-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.d Consent"
+    },
+	{
+      "description": "Data subjects, where appropriate and feasible, are presented the choice to not  allow the processing of their PII, the right to refuse or withdraw consent or oppose a specific type of processing, and the implications of granting or refusing consent.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd3a80-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.e Choice"
+    },
+	{
+      "description": "Data subjects are given the ability to access and review their PII and to challenge its accuracy and completeness.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd3be8-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.f Principle Access"
+    },
+	{
+      "description": "The purpose(s) for processing PII complies with applicable laws and relies on a permissible legal ground.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd3d32-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.g Purpose Legitimacy"
+    },
+	{
+      "description": "The purposes for which PII are collected are specified no later than at the time of PII collection where feasible and limit the subsequence use to the fulfillment of original purposes.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd40c0-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.h Purpose Specification"
+    },
+	{
+      "description": "The collection of PII is limited to that which is within the boundaries of applicable law and strictly necessary for the specified purpose(s).",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd4228-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.i Collection Limitation"
+    },
+	{
+      "description": "The processing of PII is minimized to what is strictly necessary for the legitimate interest pursued by the PII controller and the disclosure of PII is limited to a minimum number of internal and external parties.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd4368-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.j Data Minimization"
+    },
+	{
+      "description": "PII is retained no longer than necessary to fulfill the stated purpose(s) or to abide by applicable laws.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f6047c-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.l Retention and Disposal"
+    },
+	{
+      "description": "Processed PII is accurate, complete, up-to-date, adequate and relevant for the purpose of use.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f60742-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.m Accuracy and Quality"
+    },
+	{
+      "description": "Data subjects have the ability to challenge the accuracy of applicable PII and, where reasonable and appropriate, have the information amended or deleted.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f608a0-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.n Redress and Participation"
+    },
+	{
+      "description": "Internal complaint handling and redress procedures are established and available for use by data subjects.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f609e0-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.o Complaint Management"
+    },
+	{
+      "description": "Efficient governance for PII processing is established.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f60e2c-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.p Governance"
+    },
+	{
+      "description": "A privacy impact assessment process is established and a privacy impact assessment is performed as necessary.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f60f8a-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.q Privacy Impact Assessment"
+    },
+	{
+      "description": "Third party recipients provide at least equivalent levels of PII protection, as required through contractual or other means.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f610ca-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.r Privacy Requirement for Contractors and Processors"
+    },
+	{
+      "description": "PII protection controls and the effectiveness of internal PII protection policy are monitored and audited.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f61200-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.s Privacy Monitoring and Auditing"
+    },
+	{
+      "description": "Workforce members, including contractors where relevant, who have access to PII receive appropriate privacy awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f613c2-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.t Privacy Protection Awareness and Training"
+    },
+	{
+      "description": "PII protection reports are developed, disseminated and updated.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "00f6152a-2d8d-11ea-8a91-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.u Privacy Protection Reporting"
+    },
+	{
+      "description": "The  use and disclosure of PII is limited to specific, explicit and legitimate purposes.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Privacy"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0abd449e-2d8c-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Privacy: 15.k Use and Disclosure"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
