@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Damage to assets, facilities, and employees due to war or armed conflict.",
       "meta": {
 	  "kill_chain": [
@@ -20,7 +20,91 @@
       "uuid": "0386334e-28d6-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Existential Threat: HITRUST LIC4 Warfare"
     },
-	  {
+	{
+      "description": "Intentionally setting fire to assets causing damage.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd654bb2-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC1 Arson"
+    },
+	{
+      "description": "Disruption leading to adverse operations (i.e., demonstrations, riots, strikes, and protests).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd654e32-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC2 Large Events"
+    },
+	{
+      "description": "Deliberately destroy, damage, or obstruct (something), especially for political or military advantage.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd655166-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC3 Sabotage"
+    },
+	{
+      "description": "The use of intentionally indiscriminate violence as a means to create terror among masses of people; or fear to achieve a financial, political, religious or ideological aim through physical violence.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd6552b0-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC4 Terrorism"
+    },
+	{
+      "description": "Action involving deliberate destruction of or damage to property.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd6553f0-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC5 Vandalism"
+    },
+	{
+      "description": "Damage to assets, facilities, and employees due to physical war or armed conflict. (e.g. bombing).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "fd655526-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: HITRUST PIC6 Warfare"
+    },
+	{
       "description": "Fraud made by human. May also include fraud by employees.",
       "meta": {
 	  "kill_chain": [

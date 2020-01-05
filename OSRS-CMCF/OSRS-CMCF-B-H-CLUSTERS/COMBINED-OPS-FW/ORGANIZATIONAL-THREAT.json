@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
       "meta": {
 	  "kill_chain": [
@@ -20,7 +20,77 @@
       "uuid": "679698c0-28d5-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCC1 Civil"
     },
-	  {
+	{
+      "description": "Specifically deals with the such administrative agencies’ decision-making capabilities, as they carry out laws passed by state and federal legislatures. Differ from regular civil and criminal courts, and their authority is limited to making administrative decisions.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0e67005a-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCR1 Administrative"
+    },
+	{
+      "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0e67038e-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCR2 Civil"
+    },
+	{
+      "description": "Of going to trial in a criminal court to either prosecute or defend oneself in a criminal matter.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0e670762-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCR3 Criminal"
+    },
+	{
+      "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0e670a46-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCS1 Civil"
+    },
+	{
+      "description": "Of going to trial in a criminal court to either prosecute or defend oneself in a criminal matter.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0e670c58-2fc4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCS2 Criminal"
+    },
+	{
       "description": "Threat of finacial or legal penatly or lost of trust of customers and collaborators due to violation of law or regulations.",
       "meta": {
 	  "kill_chain": [

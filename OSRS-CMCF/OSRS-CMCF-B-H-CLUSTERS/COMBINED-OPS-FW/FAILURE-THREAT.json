@@ -161,6 +161,90 @@
       "value": "OSRS Operational Framework Failure Threat: HITRUST PUF4 Electric Power"
     },
 	{
+      "description": "Unexpected combustion of electronic equipment.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da359540-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF5 Equipment Fire"
+    },
+	{
+      "description": "Failure to maintain atmospheric conditions for assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da3597b6-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF6 Heating, Ventilation, and Air Conditioning (HVAC)"
+    },
+	{
+      "description": "Failure or malfunction of parts and components of IT hardware (e.g. motherboard, CPU, RAM, video card, hard drive, power supply).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da35991e-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF7 IT Hardware"
+    },
+	{
+      "description": "Failure of facility plumbing including gas and water systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da359c16-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF8 Plumbing"
+    },
+	{
+      "description": "Fluctuations in the supply voltage can result in malfunctions and damage to IT systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da359d74-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF9 Voltage"
+    },
+	{
+      "description": "Failure of communications links due to problems with wireless networks. e.g. radio or RF.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "da359f0e-2fc2-11ea-aec2-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: HITRUST PUF10 Wireless"
+    },
+	{
       "description": "Threat of failure of IT hardware and, or software assets or its parts. May include failure of defective data media, hardware failures, application failures, and failure of device parts.",
       "meta": {
 	  "kill_chain": [

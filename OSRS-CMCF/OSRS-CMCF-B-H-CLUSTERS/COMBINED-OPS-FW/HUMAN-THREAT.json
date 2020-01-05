@@ -20,7 +20,91 @@
       "uuid": "b063eb10-28d6-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Human Threat: HITRUST LIC1 Sabotage"
     },
-	  {
+	{
+      "description": "The use of violence as a means to create terror among masses of people; or fear to achieve a financial, political, religious or ideological aim.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "d3983a5a-2fc5-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIC2 Terrorism"
+    },
+	{
+      "description": "Deliberate destruction or damage to information and (or) IT assets but, not for personal gain.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "d3983cf8-2fc5-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIC3 Vandalism"
+    },
+	{
+      "description": "To appropriate something, such as property entrusted to one's care fraudulently to one's own use. A form of theft through fraud.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "1faa1382-2fc6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIM1 Embezzlement"
+    },
+	{
+      "description": "The act of obtaining money, property, or services from an organization through coercion.  A form of theft through use of force or intimidation to obtain compliance.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "1faa1602-2fc6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIM2 Extortion"
+    },
+	{
+      "description": "Deliberate deception to secure unfair or unlawful gain, or to deprive a victim of a legal right.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "1faa176a-2fc6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIM3 Fraud"
+    },
+	{
+      "description": "The act of logically stealing and (or) removing of the property with intent to deprive the rightful owner of it.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "1faa1a1c-2fc6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LIM4 Theft"
+    },
+    {
       "description": "Threat of unintentional but damaging distribution of information due to human error.  May include accidental leaks by employees, leaks via mobile applications, leaks via web applications, or leaks of information transfered over network mediums.",
       "meta": {
 	  "kill_chain": [
