@@ -273,6 +273,146 @@
       "value": "OSRS Operational Framework Environmental Threat: HITRUST PFM6 Lightning"
     },
 	{
+      "description": "Threat of fire.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fce9994-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Fire"
+    },
+	{
+      "description": "Threat of disruption of work of IT systems (hardware) dur to pollution, dust or corrosion (arising from the air).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fce9e8a-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Pollution, Dust, or Corrosion"
+    },
+	{
+      "description": "Threat of damage of IT hardware caused by the thunder strike (the electrical overvoltage).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea006-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Thunder Strike"
+    },
+	{
+      "description": "Threat of damage of IT hardware caused by the water.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea150-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Water"
+    },
+	{
+      "description": "Threat of damage or disruption via explosive force.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea290-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Explosion"
+    },
+	{
+      "description": "Threat of damage or disruption via exposure to harmful radioactive effects.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea3c6-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Dangerous Radiation Leak"
+    },
+	{
+      "description": "Threat of disruption of work of IT systems due to climatic conditions that have the negative effect on hardware. For example, extensive heat or humidity.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea4fc-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Unfavorable Climatic Conditions"
+    },
+	{
+      "description": "Threat from major evenvironmental events such as heavy rains or high winds.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea830-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Major Environment Events"
+    },
+	{
+      "description": "Threats of the negative impact of solar radiation (harmful rays) to a satellites and radio wave communication systems - Electromagnetic storm.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fcea998-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Threats from Space or Electromagnetic Storm"
+    },
+	{
+      "description": "Threat of damage or disruption via local wildlife (i.e. squirrel chew).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Environmental Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2fceaad8-30a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Environmental Threat: ENISA Wildlife"
+    },
+	{
       "description": "Large scale and large effects natural disasters. May include natural earthquakes, floods, landslides, heavy rains, and heavy winds.",
       "meta": {
 	  "kill_chain": [

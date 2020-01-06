@@ -91,6 +91,62 @@
       "value": "OSRS Operational Framework Organizationl Threat: HITRUST OCS2 Criminal"
     },
 	{
+      "description": "Threat of finacial penatly or lost of trust of customers and collaborators due to failure to meet contractual requirements. This may also include failure to meet contractual requirements by third parties.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5efbc806-30a6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: ENISA Failure to Meet Contractual Requirements"
+    },
+	{
+      "description": "Threat of finacial or legal penatly or lost of trust of customers and collaborators due to improper (or) illegal use of copyrights material. This also includes the use of file sharing services for such purposes.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5efbcc5c-30a6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: ENISA Unauthorized Use of IPR Protected Resources"
+    },
+	{
+      "description": "Threat of illegal use personal data.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5efbcdec-30a6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: ENISA Abuse of Personal Data"
+    },
+	{
+      "description": "Threat of court outcomes that may adversely affect the organization.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Organizationl Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5efbcf36-30a6-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Organizationl Threat: ENISA Judiciary Decisions or Court Orders"
+    },
+	{
       "description": "Threat of finacial or legal penatly or lost of trust of customers and collaborators due to violation of law or regulations.",
       "meta": {
 	  "kill_chain": [
@@ -102,7 +158,7 @@
         ]
       },
       "uuid": "679698c0-28d5-11ea-978f-2e728ce88125",
-      "value": "OSRS Operational Framework Organizationl Threat: ENISA Violation of Laws or Regulations OR Breach of Legislation"
+      "value": "OSRS Operational Framework Organizationl Threat: ENISA Violation of Laws or Regulations or Breach of Legislation"
     }	  
 	  ],
 	"version": 1

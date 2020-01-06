@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Using authorized access to perform illegitimate actions.",
       "meta": {
 	  "kill_chain": [
@@ -20,7 +20,1323 @@
       "uuid": "57b4a882-28d7-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN1 Abuse of Authorizations"
     },
-	  {
+	{
+      "description": "The illegitimate takeover of groups of IP addresses.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb91bbe-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN2 Address Space Hijacking"
+    },
+	{
+      "description": "Unauthorized modifications to code or configuration data, attacking its integrity.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb91e34-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN3 Alteration of Software"
+    },
+	{
+      "description": "Access of web sites through chains of HTTP proxies (obfuscation), bypassing the security mechanism(s).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb91f92-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN4 Anonymous Proxies"
+    },
+	{
+      "description": "Overtaking, by the attacker, the ownership of a whole autonomous system and its prefixes despite origin validation.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb920c8-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN5 Autonomous System Hijacking"
+    },
+	{
+      "description": "Unauthorized access via systematically checking all possible keys or passwords until the correct one is found.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb92500-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN6 Brute Force"
+    },
+	{
+      "description": "Exploiting a bugs, design flaws or configuration oversights in an operating system or software application to gain elevated access to resources.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb9267c-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN7 Code Injections"
+    },
+	{
+      "description": "Execution of arbitrary commands on the host operating system via a vulnerable application. This attack differs from Code Injection, in that code injection allows the attacker to add his own code that is then executed by the application. In Command Injection, the attacker extends the default functionality of the application, which execute system commands, without the necessity of injecting code. Also know as Remote Command Execution.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb9285c-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN8 Command Injection"
+    },
+	{
+      "description": "An account id (or) username has been used (or) accessed by a non authorized means.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb929b0-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN9 Compromised Credentials"
+    },
+	{
+      "description": "Service unavailability due to a massive number of requests for services from a single point.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb92ae6-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN10 Denial of Service"
+    },
+	{
+      "description": "Service unavailability due to a massive number of requests for access to network services from multiple malicious clients.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2cb92c1c-3097-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN11 Distributed Denial of Service"
+    },
+	{
+      "description": "Domain name server cache poising or spoofing to divert traffic to malicious servers.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "643108b2-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN12 DNS Spoofing"
+    },
+	{
+      "description": "A compromised website that has a user unintentionally download malware.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "64310b3c-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN13 Drive By Download"
+    },
+	{
+      "description": "Roles or permissions with more than the normal level of access that if compromised could allow a person to exploit the systems for personal gain or illicit purpose.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "64310c9a-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN14 Elevated Privileges"
+    },
+	{
+      "description": "Spying on information through capturing emanations from operational equipment.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "64310dda-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN15 Emission Attacks"
+    },
+	{
+      "description": "A type of injection in which malicious scripts are injected into otherwise benign and trusted websites.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "64310f24-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN16 HTML Script Injection"
+    },
+	{
+      "description": "The deliberate sharing of information with unauthorized entities such as emailing sensitive information or file transfers.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "643111f4-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN17 Information Sharing"
+    },
+	{
+      "description": "IP spoofing is a method of attack under which incorrect IP addresses are used to disguise the attackers’ identity to the system being attacked.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "6431133e-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN18 IP Spoofing"
+    },
+	{
+      "description": "To exploit web based applications that construct LDAP statements based on user input.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "64311474-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN19 LDAP Injection"
+    },
+	{
+      "description": "An attacker can change the Media Access Control (MAC) address of his device and send Ethernet frames in the network segment with a different ID, which can result in the possible circumvention of security mechanisms which are based solely on the use of a MAC address.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "643115b4-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN20 MAC Spoofing"
+    },
+	{
+      "description": "Injection of malicious code to extend the functionality of an application or information system without having to execute commands.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "6431185c-3098-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN21 Malicious Code Execution"
+    },
+	{
+      "description": "A type of eavesdropping attack that occurs when a malicious actor inserts himself as a relay (or) proxy into a communication session between people or systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b36e1c-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN22 Man in the Middle"
+    },
+	{
+      "description": "Modification of an encryption module in order to read secret keys, change keys, or change security parameters.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37362-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN23 Manipulation of an Encryption Module"
+    },
+	{
+      "description": "The modification of data with the intent to cause loss of integrity.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b374e8-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN24 Manipulation of Data"
+    },
+	{
+      "description": "Lying or decieving to pretend to be someone one is not.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37632-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN25 Masquerade OR Pretexting"
+    },
+	{
+      "description": "Threat in which a valid data transmission is maliciously or fraudulently repeated or delayed.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37772-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN26 Message Replay"
+    },
+	{
+      "description": "The malicious use of network scanning tools to discover open and possibly unused ports, protocols, and services as well as vulnerabilities.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b378b2-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN27 Misuse of Audit Tools"
+    },
+	{
+      "description": "Unauthorized access to network.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37c18-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN28 Network Intrusion"
+    },
+	{
+      "description": "Identifying information about a network to find security weaknesses.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37d80-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN29 Network Sniffing"
+    },
+	{
+      "description": "An email fraud method in which the perpetrator sends out legitimate-looking email in an attempt to gather personal and financial information from recipients. Typically, the messages appear to come from well-known and trustworthy websites.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b37f60-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN30 Phishing"
+    },
+	{
+      "description": "The attacker promises to provide a benefit or service in the return of vital access or details.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "93b380a0-3099-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN31 Quid Pro Quo"
+    },
+	{
+      "description": "Infection of a computer system or device by malware that restricts access to the system and information while demanding that the user pays a ransom to remove the restriction.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f2114ca-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN32 Ransomware"
+    },
+	{
+      "description": "Remote administration capabilities allowing an attacker to control the victim's computer.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f211740-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN33 Remote Access Trojan (RAT)"
+    },
+	{
+      "description": "Intentional data manipulation to repudiate action.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f2118a8-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN34 Repudiation of Actions"
+    },
+	{
+      "description": "The process by which a man-made object is deconstructed to reveal its design, architecture, or to extract knowledge from the object.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f211aa6-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN35 Reverse Engineering (RE)"
+    },
+	{
+      "description": "Unauthorized access via unmanaged access points to an organizations managed network.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f211cd6-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN36 Rogue Access Points"
+    },
+	{
+      "description": "Use of rogue certificates that are valid certificates by a legitimate certificate authority which are untrustworthy.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f211e34-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN37 Rogue Certificates"
+    },
+	{
+      "description": "Malicious software that misleads users about their computers security in order to manipulate them.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f211f74-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN38 Rogue Security Software"
+    },
+	{
+      "description": "A set of software tools that enable an unauthorized user to gain control of a computer system without being detected.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f212294-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN39 Rootkits"
+    },
+	{
+      "description": "Routing network packets to IP addresses not intended by sender via unauthorized manipulation of routing table.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f2123e8-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN40 Routing Table Manipulation"
+    },
+	{
+      "description": "Deliberate manipulation of search engine indexes to direct a user to malicious content on falsified sites.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "9f21271c-309e-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN41 Search Engine Poisoning"
+    },
+	{
+      "description": "Allows the exploitation of a web application by injecting scripts in HTML pages or executing arbitrary codes remotely.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224c5da-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN42 Server-Side Includes (SSI) Injection"
+    },
+	{
+      "description": "Receiving unsolicited, undesired, or illegal email messages.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224c86e-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN43 SPAM"
+    },
+	{
+      "description": "Phishing while tailoring the email to a specific audience.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224c9c2-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN44 Spear Phishing"
+    },
+	{
+      "description": "Software that aims to gather information about a person or organization without their knowledge.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224caf8-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN45 Spyware"
+    },
+	{
+      "description": "Takes advantage of the syntax of SQL to inject commands that can read or modify a database, or compromise the meaning of the original query.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224cc38-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN46 SQL injection"
+    },
+	{
+      "description": "Any malicious computer program which misleads users of its true intent.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224cf6c-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN47 Trojan"
+    },
+	{
+      "description": "Not abiding by the rules defined as acceptable by the governing or owning entity.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224d0ca-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN48 Unacceptable Use"
+    },
+	{
+      "description": "Attaining logical access without permission or approval.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224d200-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN49 Unauthorized Access"
+    },
+	{
+      "description": "Use of an unauthorized (insecure) encryption module can lead to a false sense of protection the encryption was meant to protect.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224d336-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN50 Unauthorized Encryption"
+    },
+	{
+      "description": "The intentional installation of unmanaged or unauthorized software.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "a224d46c-309f-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN51 Unauthorized Software Installation"
+    },
+	{
+      "description": "A computer program that can copy itself and infect a computer without permission or knowledge of the user. A virus might corrupt or delete data on a computer, use e-mail programs to spread itself to other computers, or even erase everything on a hard disk.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd85b9c-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN52 Virus"
+    },
+	{
+      "description": "A form of fraud using voice over internet protocol in which individuals are tricked into revealing unauthorized access to sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd85eee-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN53 Vishing"
+    },
+	{
+      "description": "The act of locating and possibly exploiting wireless networks; example access point mapping.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd8606a-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN54 War Driving"
+    },
+	{
+      "description": "Malware residing on the websites which a group often uses.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd86272-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN55 Watering Holes"
+    },
+	{
+      "description": "Web spoofing occurs when an attacker forges an existing website (i.e., an attacker designs a fake website in such a way that it looks like the website of a known organization) The attacker attempts to draw users to the website with the objective of launching further attacks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd863da-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN56 Web Spoofing"
+    },
+	{
+      "description": "A form of spear phishing that targets senior management, executives, or prominent individuals in order to gain access to sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd86556-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN57 Whaling"
+    },
+	{
+      "description": "The surreptitious electronic monitoring of Internet-based communications.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd86768-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN58 Wire Tapping"
+    },
+	{
+      "description": "Self propagating standalone malicious software.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ccd868bc-30a0-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST LIN59 Worms"
+    },
+	{
+      "description": "An employee that applies their authority incorrectly, or oversteps their level of authority.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f50f61c-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN1 Abuse of Authority"
+    },
+	{
+      "description": "Searching through discarded assets with the intent of personal gain and (or) damage.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f50f892-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN2 Dumpster Diving"
+    },
+	{
+      "description": "The deliberate sharing of non-public information with unauthorized entities, such as physically giving sensitive documents.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f50fb80-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN3 Information Sharing"
+    },
+	{
+      "description": "Unauthorized changes of hardware devices such as removing memory or hard drive.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f50fcfc-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN4 Manipulation of Hardware"
+    },
+	{
+      "description": "Lying or decieving to pretend to be someone one is not.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f51001c-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN5 Masquerade or Pretexting"
+    },
+	{
+      "description": "The attacker promises to provide a benefit or service in the return of vital access or details.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f51017a-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN6 Quid Pro Quo"
+    },
+	{
+      "description": "The process by which a man-made object is deconstructed to reveal its design, architecture, or to extract knowledge from the object.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f5102ba-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN7 Reverse Engineering (RE)"
+    },
+	{
+      "description": "Manipulation due to unauthorized hardware.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f5103f0-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN8 Rogue Hardware"
+    },
+	{
+      "description": "Unauthorized access by someone else's means of access at their time of entry.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f510526-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN9 Tailgating"
+    },
+	{
+      "description": "Not abiding by the rules defined as acceptable by the governing or owning entity.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f51065c-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN10 Unacceptable Use"
+    },
+	{
+      "description": "Attaining physical access without premission or approval.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7f510792-30a1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: HITRUST PIN11 Unauthorized Access"
+    },
+	{
+      "description": "Threat of disclosure transmitted information using interception and analysis of compromising emission.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eaa0a-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Intercepting Compromising Emissions"
+    },
+	{
+      "description": "Threat of interception of information improperly secured in transmission or through improper actions of the staff. This may also included corporate or nation state espionage as well as information lost via unsecured Wi-Fi (or, rogue access points).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eacb2-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Interception of Information"
+    },
+	{
+      "description": "Threat of failure of IT hardware or transmission connection due to electromagnetic induction or electromagnetic radiation emitted from an another source.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eae2e-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Interfering Radiation"
+    },
+	{
+      "description": "Threat in which valid data transmission is maliciously or fraudulently repeated or delayed.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eaf82-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Replay of Messages"
+    },
+	{
+      "description": "Threat of identifying information about network to find security weaknesses.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eb0cc-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Network Reconnaissance, Network Traffic Manipulation and Information gathering"
+    },
+	{
+      "description": "Threats that relay on alters of communication between two parties.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eb464-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Man in the Middle or Session Hijacking"
+    },
+	{
+      "description": "Threat of identity theft action. This may also be the result of malicious software like credential stealing trojans.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eb5c2-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Identity Theft, Identity Fraud, or Account Abuse"
+    },
+	{
+      "description": "Threat of receive of unsolicited E-mail that affect for information security and efficienty of work. This also includes SPAM or unsolcited infected malicious e-mails.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eb70c-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Receive of Unsolicited E-mail"
+    },
+	{
+      "description": "Threat of Denial of Service type attacks at information systems or services. This includes malformed packets, flooding, XDoS, DDoS, amplification attacks etc.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9eba68-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Denial of Service"
+    },
+	{
+      "description": "Threat of malicious code or software execution. This includes abuse of resources, search engine poisoning, exploitation of social media trust, worms, trojans, rootkits, web application attacks (XSS), spyware, viruses, rogue security software, and exploit kits.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "0f9ebbe4-30ae-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Malicious Code, Software, or Activity"
+    },
+	{
+      "description": "Social engineering is the deliberate attempt at manipulating a person or group's decision making process. Often this tactic is used to achieve privileges within a system or obtain organizational assets. This may be through direct physical contact, or may include phishing as well as spear phishing attacks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af335966-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Social Engineering"
+    },
+	{
+      "description": "Abusing information gained via unauthorized access and then exploiting this information against the target organization. Information leaks may be derived from mobile applications, network traffic, local systems, or cloud services.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af335be6-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Abuse of Information Leakage"
+    },
+	{
+      "description": "Threat of use of rogue certificates. This may cause a loss of certificate integrity, man-in-the-middle attacks, session hijacking, use of signed malware, and installation of fake SSL certificates.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af335d44-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Generation and Use of Rogue Certificates"
+    },
+	{
+      "description": "Threat of unauthorized manipulation of hardware and software. This may allow the use of anonamous proxies, the abuse of computing power, the abuse of vulnerabilities (0-day), unauthorized access to web sites, access to local device software, alteration of local device software, or the installation of rogue hardware.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af335e8e-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Manipulation of Hardware and Software"
+    },
+	{
+      "description": "Threat of intentional data manipulation to mislead information systems or an individual in order to cover other nefarious activities (loss of integrity of information). This may include repudiation of actions, address space hijacking, DNS manipulation, falsification of web records, adress space hijacking, address space manipulation, or falsification of system configuration.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af33624e-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Manipulation of Information"
+    },
+	{
+      "description": "Threat of nefarious actions with use of audit tools (i.e. used to discovery security weaknesses in information systems).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af336460-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Misuse of Audit Tools"
+    },
+	{
+      "description": "Threat of nefarious action due to misuse of information or information systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af3365c8-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Misuse of Information or Information Systems"
+    },
+	{
+      "description": "Threat of activities not authorized to the user or group within an organization. This may include unuthorized use of devices, unauthorized administration of devices, unauthorized use of software, unauthorized access to devices, network intrusion, or an unauthorized change of records.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af3366fe-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Unauthorized Activities"
+    },
+	{
+      "description": "Threat of unauthorized installation of software. This may also include such things as drive-by downloads or browser based attacks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af336924-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Unauthorized Installation of Software"
+    },
+	{
+      "description": "Threat of data breach.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "af336a82-30af-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Compromising Confidential Information (Data Breaches)"
+    },
+	{
+      "description": "Threat of disruption of work due to False rumor and (or) a fake warning.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b9dba268-30b1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Hoax"
+    },
+	{
+      "description": "Threat of remote activity over controled IT Assets. This may include Remote Command Execution, Remote Code Execution (RCE), Remote Access Tools (RAT), or botnets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b9dba4f2-30b1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Remote Activity or Execution"
+    },
+	{
+      "description": "Threat of sophisticated targetes attack with combination of many attack techniques (i.e. Advanced Persistent Threat - APT). A targeted attack may include the use of mobile malware, spear phishing attacks, installation of sophisticated malware, or watering hole type attacks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b9dba646-30b1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Targeted Attacks"
+    },
+	{
+      "description": "Threat of repeated attempts at cracking account passwords or encryption algorythms.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b9dba77c-30b1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Brute Force"
+    },
+	{
+      "description": "Malicious abuse of sanctioned user or group authorization to systems or information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Nefarious Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "b9dba8bc-30b1-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Nefarious Threat: ENISA Abuse of Authorizations"
+    },
+	{
       "description": "Threat of locating and possible exploite connection to the wireless network.",
       "meta": {
 	  "kill_chain": [

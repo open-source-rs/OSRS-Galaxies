@@ -104,6 +104,692 @@
       "uuid": "1faa1a1c-2fc6-11ea-978f-2e728ce88125",
       "value": "OSRS Operational Framework Human Threat: HITRUST LIM4 Theft"
     },
+	{
+      "description": "Unintentional distribution of covered information to an unauthorized entity by an employee or employees.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ed9e253c-3091-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUH1 Data Sharing or Leakage"
+    },
+	{
+      "description": "Changing of data and records (information) stored in devices and storage media.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ed9e27b2-3091-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUH2 Improper Data Modification."
+    },
+	{
+      "description": "Inappropriate or inadequate labeling or classifying of media.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ed9e2906-3091-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUH3 Misclassifying of Data"
+    },
+	{
+      "description": " Unintentional mishandling of passwords leading to leakage of covered information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ed9e2c76-3091-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUH4 Mishandling of Passwords"
+    },
+	{
+      "description": "Loss of integrity of certificates used for authorization services.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5eb450-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM1 Certificate Integrity Loss"
+    },
+	{
+      "description": "An account id or username has been used (or) accessed by a non-authorized means.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5eb6b2-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM2 Compromised Credentials"
+    },
+	{
+      "description": "Storage media that retains stored information in a retrievable/intact manner longer than desired (failure to totally erase).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5eb810-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM3 Data Remanence"
+    },
+	{
+      "description": "Loss of a data-storage medium.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5eb95a-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM4 Data Storage Media Loss"
+    },
+	{
+      "description": "Loss of the integrity or consistency of a database may result in the data being incorrect or in a corrupt state and as a result may not be accessed or processed correctly.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5eba90-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM5 Database Integrity Loss"
+    },
+	{
+      "description": "Roles or permissions that if misused could allow a person to exploit the  systems for his or her own gain or purpose.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5ebe3c-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM6 Elevated Privileges"
+    },
+	{
+      "description": "Loss due to improper IT asset or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy (or) procedure flows, design errors, and changes).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5ebfb8-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM7 Improperly Designing Information Systems"
+    },
+	{
+      "description": "Depending on the requirements defined by the organization, a poorly planned network infrastructure may impact the confidentiality of data and the integrity of the network, which may lead to unauthorized disclosure of sensitive information to unauthorized users.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5ec0f8-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM8 Improperly Designing Network Infrastructure"
+    },
+	{
+      "description": "Management of cryptographic keys in a cryptosystem. This includes dealing with the generation, exchange, storage, use, crypto-shredding (destruction) and replacement of keys.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5ec22e-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM9 Inappropriate or Inadequate Key Management"
+    },
+	{
+      "description": "Inadequate testing on new systems may result in possible errors in the hardware or software or that they may remain undetected or may result in significant disruption to IT operations or systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7a5ec364-3092-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM10 Insufficiently or Inadequately Following Release Procedures"
+    },
+	{
+      "description": "Lack of or insufficient logging may prevent the organization from determining whether security specifications were violated or whether attacks were attempted. Additionally, organizations may not be able to assess whether logged information can be used for error analysis in the event of damage and for determining the causes or for integrity tests.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e755746-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM11 Lack-of or Insufficient Logging"
+    },
+	{
+      "description": "Loss of records by improper or unauthorized use of storage devices.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e755a16-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM12 Loss Due to Unauthorized Storage"
+    },
+	{
+      "description": "The malicious use of network scanning tools to discover open and possibly unused ports, protocols, and services as well as vulnerabilities.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e755b74-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM13 Misuse of Audit Tools"
+    },
+	{
+      "description": "Leaking covered information as a result of using mobile device applications.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e755cb4-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM14 Mobile Device Applications Data Leakage"
+    },
+	{
+      "description": "Information leak, sharing, or damage caused by misuse of information assets (lack of awareness of application features) (or) wrong (or) improper information assets configuration or management.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e755dfe-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM15 System Configuration Errors"
+    },
+	{
+      "description": "A violation of the set of rules applied by senior management or the asset (or) resource owner of a network, website, or service, that restrict the ways in which the network, website or system may be used and sets guidelines as to how it should be used.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e7561e6-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM16 Unacceptable Use"
+    },
+	{
+      "description": "Does not allow for prescription of information protection.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e756358-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM17 Unmanaged Data"
+    },
+	{
+      "description": "Leakage of covered information  when using web applications.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "7e7564ac-3093-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST LUM18 Web Applications Data Leakage."
+    },
+	{
+      "description": "To appropriate something, such as property entrusted to one's care fraudulently to one's own use. A form of theft through fraud.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ba32473e-3094-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PIM1 Embezzlement"
+    },
+	{
+      "description": "The act of obtaining money, property, or services from an organization through coercion.  A form of theft through use of force or intimidation to obtain compliance.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ba324a22-3094-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PIM2 Extortion"
+    },
+	{
+      "description": "Deliberate deception to secure unfair or unlawful gain, or to deprive a victim of a legal right. A form of theft through deception.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ba324b80-3094-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PIM3 Fraud"
+    },
+	{
+      "description": "The act of physically stealing, taking and removing of the property with intent to deprive the rightful owner of it.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "ba324cd4-3094-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PIM4 Theft"
+    },
+	{
+      "description": "Unavailability of key personnel, their competencies, skills, and knowledge.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7ebd0-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH1 Absence of Personnel"
+    },
+	{
+      "description": "Sudden damage as a result of an unexpected and non-deliberate action.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7eea0-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH2 Accidental Damage"
+    },
+	{
+      "description": "Fire unintentionally set by a human.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7effe-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH3 Accidental Fire"
+    },
+	{
+      "description": "Accidently or unintentionally losing any physical IT Asset.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7f38c-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH4 Loss of IT Assets"
+    },
+	{
+      "description": " Unintentional mishandling of passwords leading to leakage of covered information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7f4f4-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH5 Mishandling of Passwords"
+    },
+	{
+      "description": "Accidental verbal disclosure of sensitive information by unauthorized individuals overhearing.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "5bc7f634-3095-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUH6 Unintentional Information Sharing"
+    },
+	{
+      "description": "Loss of information due to errors in installation or system configuration.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036e264-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM1 Configuration Errors"
+    },
+	{
+      "description": "Loss due to improper IT asset or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy, procedure flows, design errors, and changes).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036e4e4-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM2 Improperly Designing Information Systems"
+    },
+	{
+      "description": "Depending on the requirements defined by the organization, a poorly planned network infrastructure may impact the confidentiality of data and the integrity of the network, which may lead to unauthorized disclosure of sensitive information to unauthorized users.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036e6ec-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM3 Improperly Designing Network Infrastructure"
+    },
+	{
+      "description": "Unauthorized changes of hardware devices such as removing memory or hard drive.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036e840-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM4 Manipulation of Hardware"
+    },
+	{
+      "description": "Manipulation due to unauthorized hardware.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036e98a-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM5 Rogue Hardware"
+    },
+	{
+      "description": "Unauthorized access by convienence or courtesy.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036eaca-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM6 Tailgating"
+    },
+	{
+      "description": "A set of rules applied by senior management and (or) the owner of the equipment, information, and etc. may be used and sets guidelines as to how it should be used.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "2036ec0a-3096-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: HITRUST PUM7 Unacceptable Use"
+    },
+	{
+      "description": "Information leakage, sharing, or damage as the result of IT asset misuse by user lack of awareness of application features (or) improper configuration of IT assets. This may cause loss of information from operator error, configuration erro, or user error. Erroneous use of administration devices may also hamper system recovery times.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6098-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Erroneous Use or Administration of Devices and Systems"
+    },
+	{
+      "description": "Poor decision making based on unreliable sources of information or unchecked information.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6368-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Using Information from an Unreliable Source"
+    },
+	{
+      "description": "Loss of information integrity due to human error (information system user mistake).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd67c8-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Unintentional Change of Data in an Information System"
+    },
+	{
+      "description": "Threats caused by improper IT assets or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy, procedure flows, or design errors).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd693a-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Inadequate Design and Planning or Improper Adaptation"
+    },
+	{
+      "description": "Threats of damage of IT Assets caused by third party. This may also include security failures by third parties.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6a84-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Damage Caused by a Third Party "
+    },
+	{
+      "description": "Threats to information systems caused by improper or unprepared IT penetration testing activities.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6bba-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Damages Resulting from Penetration Testing"
+    },
+	{
+      "description": "Threats of loosing information or data stored in the cloud.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6cf0-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Loss of Information in the Cloud"
+    },
+	{
+      "description": "Threats of loosing information or data (or changing) information classified as sensitive. This may include loss of certificate integrity as well.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd6e30-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Loss of or Integrity of Sensitive Information"
+    },
+	{
+      "description": "Threats of the lack of availability (loosing) of IT Assets and documents. This may be the result of lost mobile devices, storage media, or documentation.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd706a-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Loss of Devices, Storage Media, or Documents"
+    },
+	{
+      "description": "Threats of the lack of availability (destruction) of data and records (information) stored in devices and storage media. This may also include infected removable media or storage abuse.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Human Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "efbd748e-30ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Human Threat: ENISA Destruction of Records"
+    },
     {
       "description": "Threat of unintentional but damaging distribution of information due to human error.  May include accidental leaks by employees, leaks via mobile applications, leaks via web applications, or leaks of information transfered over network mediums.",
       "meta": {

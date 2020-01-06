@@ -105,6 +105,118 @@
       "value": "OSRS Operational Framework Existential Threat: HITRUST PIC6 Warfare"
     },
 	{
+      "description": "Intentional actions (non-fulfillment or defective fulfillment of personal duties) aimed to cause disruption or damage of IT Assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba4a78-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Sabotage"
+    },
+	{
+      "description": "Act of physically damage of IT Assets.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba4cee-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Vandalism"
+    },
+	{
+      "description": "Stealing of information or IT Assets (robbery). This may include the theft of mobile devices, fixed hardware, documents, or storage devices.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba4e56-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Theft"
+    },
+	{
+      "description": "Sharing information with unauthorised entities. Loss of information confidentiality due to intentional human actions.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba4fa0-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Information Leakage or Sharing"
+    },
+	{
+      "description": "Unapproved access to facility or location.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba50ea-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Unauthorized Physical Access or Unauthorised Entry to Premises"
+    },
+	{
+      "description": "Actions caused by coercion, extortion or corruption.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba5446-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Coercion, Extortion or Corruption"
+    },
+	{
+      "description": "Threats of direct impact of warfare activities.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba5590-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Damage from Warfare"
+    },
+	{
+      "description": "Threats of bombing or other actions that counts as terrorists attacks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Existential Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "41ba56bc-30a7-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Existential Threat: ENISA Terrorists Attack"
+    },
+	{
       "description": "Fraud made by human. May also include fraud by employees.",
       "meta": {
 	  "kill_chain": [

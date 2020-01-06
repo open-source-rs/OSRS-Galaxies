@@ -245,6 +245,146 @@
       "value": "OSRS Operational Framework Failure Threat: HITRUST PUF10 Wireless"
     },
 	{
+      "description": "Threat of failure or malfunction of communications links. This may include, in any combination, the failure of cable, wireless, and mobile networks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e05f86c-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Failure or Disruption of Communication Links or Communication Networks"
+    },
+	{
+      "description": "Threat of failure or disruption of supply required for information systems. This may include such things as power supply or a failure of the cooling infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e05fb64-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Failure or Disruption of Main Supply"
+    },
+	{
+      "description": "Threat of failure or disruption of third party services required for proper operation of information systems.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e05fcd6-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Failure or Disruption of Service Providers or Supply Chain"
+    },
+	{
+      "description": "Threat of malfunction of IT hardware and (or) software assets or its parts.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e05fe2a-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Malfunction of Equipment, Devices, or Systems"
+    },
+	{
+      "description": "Unavailability of resources (supply) required for proper operation of information system. This may include loss of electricity or proper cooling.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e05ff74-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Loss of Resources"
+    },
+	{
+      "description": "Unavailability of key personnel and their competences.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e0600be-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Absence of Personnel"
+    },
+	{
+      "description": "Unavailability of staff due strike (large scale absence of personnel).",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e060a00-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Strike"
+    },
+	{
+      "description": "Unavailability of support services required for proper operation of information system.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e060b9a-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Loss of Support Services"
+    },
+	{
+      "description": "Unavailability of the Internet connection.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e060cda-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Internet Outage"
+    },
+	{
+      "description": "Unavailability of communication links.  This may include, in any combination, an outage that includes cable, wireless, or mobile networks.",
+      "meta": {
+	  "kill_chain": [
+          "combined-ops-framework:Failure Threat"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/",
+          "https://data.europa.eu/euodp/en/data/dataset/enisa-threat-taxonomy-1"
+        ]
+      },
+      "uuid": "8e060e1a-30a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Operational Framework Failure Threat: ENISA Network Outage"
+    },
+	{
       "description": "Threat of failure of IT hardware and, or software assets or its parts. May include failure of defective data media, hardware failures, application failures, and failure of device parts.",
       "meta": {
 	  "kill_chain": [
