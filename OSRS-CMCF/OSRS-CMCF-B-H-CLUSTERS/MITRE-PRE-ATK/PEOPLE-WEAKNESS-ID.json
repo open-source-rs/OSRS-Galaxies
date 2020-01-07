@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Understanding organizational skillsets and deficiencies could provide insight in to weakness in defenses, or opportunities for exploitation.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,34 @@
       },
       "uuid": "f194bc62-28dc-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK People Weakness Identification: T1297 Analyze organizational skillsets and deficiencies"
+    },
+	{
+      "description": "Social media provides insight into the target's affiliations with groups and organizations. Certification information can explain their technical associations and professional associations. Personal information can provide data for exploitation or even blackmail.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:People Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0019/",
+          "https://attack.mitre.org/techniques/T1295"
+        ]
+      },
+      "uuid": "1be5788c-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK People Weakness Identification: T1295 Analyze social and business relationships, interests, and affiliations"
+    },
+	{
+      "description": "An adversary may assess a target's operational security (OPSEC) practices in order to identify targeting options. A target may share different information in different settings or be more of less cautious in different environments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:People Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0019/",
+          "https://attack.mitre.org/techniques/T1296"
+        ]
+      },
+      "uuid": "f194bc62-28dc-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK People Weakness Identification: T1296 Assess targeting options"
     }
 	  ],
 	"version": 1

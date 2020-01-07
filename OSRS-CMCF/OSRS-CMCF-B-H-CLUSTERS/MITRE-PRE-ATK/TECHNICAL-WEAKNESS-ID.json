@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "An adversary can probe a victim's network to determine configurations. The configurations may provide opportunities to route traffic through the network in an undetected or less detectable way.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,118 @@
       },
       "uuid": "6cdde480-28dc-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1293 Analyze application security posture"
+    },
+	{
+      "description": "An adversary will assess collected information such as software and (or) hardware versions, vulnerabilities, patch level, etc. They will analyze technical scanning results to identify weaknesses in the confirmation or architecture.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1287"
+        ]
+      },
+      "uuid": "a674f7ae-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1287 Analyze data collected"
+    },
+	{
+      "description": "An adversary can probe a victim's network to determine configurations. The configurations may provide opportunities to route traffic through the network in an undetected or less detectable way.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1294"
+        ]
+      },
+      "uuid": "a674fa7e-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1294 Analyze hardware and (or) software security defensive capabilities"
+    },
+	{
+      "description": "Analyze strengths and weaknesses of the target for potential areas of where to focus compromise efforts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1289"
+        ]
+      },
+      "uuid": "a674fc18-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1289 Analyze organizational skillsets and deficiencies"
+    },
+	{
+      "description": "Many applications use third-party software libraries, often without full knowledge of the behavior of the libraries by the application developer. For example, mobile applications often incorporate advertising libraries to generate revenue for the application developer. Vulnerabilities in these third-party libraries could potentially be exploited in any application that uses the library, and even if the vulnerabilities are fixed, many applications may still use older, vulnerable versions of the library.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1389"
+        ]
+      },
+      "uuid": "a674fd62-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1389 Identify vulnerabilities in third-party software libraries"
+    },
+	{
+      "description": "Common Vulnerability Enumeration (CVE) is a dictionary of publicly known information about security vulnerabilities and exposures. An adversary can use this information to target specific software that may be vulnerable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1291"
+        ]
+      },
+      "uuid": "a674feac-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1291 Research relevant vulnerabilities and (or) CVEs"
+    },
+	{
+      "description": "If an adversary can identify which security tools a victim is using they may be able to identify ways around those tools.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1290"
+        ]
+      },
+      "uuid": "a6750460-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1290 Research visibility gap of security vendors"
+    },
+	{
+      "description": "An adversary can test the detections of malicious emails or files by using publicly available services, such as virus total, to see if their files or emails cause an alert. They can also use similar services that are not openly available and don't publicly publish results or they can test on their own internal infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1292"
+        ]
+      },
+      "uuid": "a67505e6-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1292 Test signature detection"
+    },
+	{
+      "description": "An adversary may analyze technical scanning results to identify weaknesses in the configuration or architecture of a victim network. These weaknesses could include architectural flaws, misconfigurations, or improper security controls.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Technical Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0018/",
+          "https://attack.mitre.org/techniques/T1288"
+        ]
+      },
+      "uuid": "7e4d7a62-3162-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Technical Weakness Identification: T1288 Analyze architecture and configuration posture"
     }
 	  ],
 	"version": 1

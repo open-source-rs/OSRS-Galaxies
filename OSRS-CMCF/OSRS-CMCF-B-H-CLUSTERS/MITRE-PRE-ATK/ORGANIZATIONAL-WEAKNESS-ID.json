@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Business processes, such as who typically communicates with who, or what the supply chain is for a particular part, provide opportunities for social engineering or other.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,76 @@
       },
       "uuid": "2248d112-28e3-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1301 Analyze business processes"
+    },
+	{
+      "description": "Outsourcing, the arrangement of one company providing goods or services to another company for something that could be done in-house, provides another avenue for an adversary to target. Businesses often have networks, portals, or other technical connections between themselves and their outsourced and (or) partner organizations that could be exploited. Additionally, outsourced/partner organization information could provide opportunities for phishing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1303"
+        ]
+      },
+      "uuid": "ab438c08-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1303 Analyze presence of outsourced capabilities"
+    },
+	{
+      "description": "During mergers, divestitures, or other period of change in joint infrastructure or business processes there may be an opportunity for exploitation. During this type of churn, unusual requests, or other non standard practices may not be as noticeable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1299"
+        ]
+      },
+      "uuid": "ab438e6a-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1299 Assess opportunities created by business deals"
+    },
+	{
+      "description": "Physical access may be required for certain types of adversarial actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1302"
+        ]
+      },
+      "uuid": "ab438fd2-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1302 Assess security posture of physical locations"
+    },
+	{
+      "description": "Once a 3rd party vendor has been identified as being of interest it can be probed for vulnerabilities just like the main target would be.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1298"
+        ]
+      },
+      "uuid": "ab43911c-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1298 Assess vulnerability of 3rd party vendors"
+    },
+	{
+      "description": "Analyze strengths and weaknesses of the target for potential areas of where to focus compromise efforts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Weakness Identification"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0020/",
+          "https://attack.mitre.org/techniques/T1300"
+        ]
+      },
+      "uuid": "a36b1fdc-3164-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Weakness Identification: T1300 Analyze organizational skillsets and deficiencies"
     }
 	  ],
 	"version": 1

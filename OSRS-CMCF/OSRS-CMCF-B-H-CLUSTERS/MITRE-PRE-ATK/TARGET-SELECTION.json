@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The approach or attack vector outlines the specifics behind how the adversary would like to attack the target. As additional information is known through the other phases of PRE-ATT&CK, an adversary may update the approach or attack vector.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,62 @@
       },
       "uuid": "bcc9d776-28da-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Target Selection: T1245 Determine approach OR attack vector"
+    },
+	{
+      "description": "If going from strategic down to tactical or vice versa, an adversary would next consider the operational element. For example, the specific company within an industry or agency within a government.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Target Selection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0014/",
+          "https://attack.mitre.org/techniques/T1242"
+        ]
+      },
+      "uuid": "e8fa2a0e-3153-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Target Selection: T1242 Determine operational element"
+    },
+	{
+      "description": "The secondary level tactical element the adversary seeks to attack is the specific network or area of a network that is vulnerable to attack. Within the corporate network example, the secondary level tactical element might be a SQL server or a domain controller with a known vulnerability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Target Selection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0014/",
+          "https://attack.mitre.org/techniques/T1244"
+        ]
+      },
+      "uuid": "e8fa2cf2-3153-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Target Selection: T1244 Determine secondary level tactical element"
+    },
+	{
+      "description": "An adversary undergoes an iterative target selection process that may begin either broadly and narrow down into specifics (strategic to tactical) or narrowly and expand outward (tactical to strategic). As part of this process, an adversary may determine a high level target they wish to attack. One example of this may be a particular country, government, or commercial sector.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Target Selection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0014/",
+          "https://attack.mitre.org/techniques/T1241"
+        ]
+      },
+      "uuid": "e8fa2e46-3153-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Target Selection: T1241 Determine strategic target"
+    },
+	{
+      "description": "From a tactical viewpoint, an adversary could potentially have a primary and secondary level target. The primary target represents the highest level tactical element the adversary wishes to attack. For example, the corporate network within a corporation or the division within an agency.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Target Selection"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0014/",
+          "https://attack.mitre.org/techniques/T1243"
+        ]
+      },
+      "uuid": "b7aad5de-3153-11ea-aec2-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Target Selection: T1243 Determine highest level tactical element"
     }
 	  ],
 	"version": 1

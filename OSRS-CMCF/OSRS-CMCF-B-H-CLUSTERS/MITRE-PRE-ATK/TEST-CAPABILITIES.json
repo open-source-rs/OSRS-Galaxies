@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Execution of code and network communications often result in logging or other system or network forensic artifacts. An adversary can run their code to identify what is recorded under different conditions. This may result in changes to their code or adding additional actions (such as deleting a record from a log) to the code.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,90 @@
       },
       "uuid": "7a432fe2-297f-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Test Capabilities: T1358 Review logs and residual traces"
+    },
+	{
+      "description": "Callbacks are malware communications seeking instructions. An adversary will test their malware to ensure the appropriate instructions are conveyed and the callback software can be reached.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1356"
+        ]
+      },
+      "uuid": "af1dc090-316f-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1356 Test callback functionality"
+    },
+	{
+      "description": "Malware may perform differently on different platforms (computer vs handheld) and different operating systems (Ubuntu vs OS X), and versions (Windows 7 vs 10) so malicious actors will test their malware in the environment(s) where they most expect it to be executed.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1357"
+        ]
+      },
+      "uuid": "af1dc342-316f-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1357 Test malware in various execution environments"
+    },
+	{
+      "description": "An adversary can run their code on systems with cyber security protections, such as antivirus products, in place to see if their code is detected. They can also test their malware on freely available public services.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1359"
+        ]
+      },
+      "uuid": "af1dc4aa-316f-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1359 Test malware to evade detection"
+    },
+	{
+      "description": "An adversary can test physical access options in preparation for the actual attack. This could range from observing behaviors and noting security precautions to actually attempting access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1360"
+        ]
+      },
+      "uuid": "af1dc5e0-316f-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1360 Test physical access"
+    },
+	{
+      "description": "An adversary can test their planned method of attack against existing security products such as email filters or intrusion detection sensors (IDS).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1361"
+        ]
+      },
+      "uuid": "af1dc8ec-316f-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1361 Test signature detection for file upload and (or) email filters"
+    },
+	{
+      "description": "Many mobile devices are configured to only allow applications to be installed from the mainstream vendor app stores (e.g., Apple App Store and Google Play Store). An adversary can submit multiple code samples to these stores deliberately designed to probe the stores' security analysis capabilities, with the goal of determining effective techniques to place malicious applications in the stores that could then be delivered to targeted devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Test Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0025/",
+          "https://attack.mitre.org/techniques/T1393"
+        ]
+      },
+      "uuid": "68433fec-316f-11ea-aec2-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Test Capabilities: T1393 Test ability to evade automated mobile application security analysis performed by app stores"
     }
 	  ],
 	"version": 1

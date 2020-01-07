@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Removable media containing malware can be injected in to a supply chain at large or small scale. It can also be physically placed for someone to find or can be sent to someone in a more targeted manner. The intent is to have the user utilize the removable media on a system where the adversary is trying to gain access.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,76 @@
       },
       "uuid": "fac712a0-297f-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1379 Disseminate removable media"
+    },
+	{
+      "description": "An adversary could distribute malicious software development tools (e.g., compiler) that hide malicious behavior in software built using the tools.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Stage Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0026/",
+          "https://attack.mitre.org/techniques/T1394"
+        ]
+      },
+      "uuid": "876a3e38-3170-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1394 Distribute malicious software development tools"
+    },
+	{
+      "description": "A form of social engineering designed build trust and to lay the foundation for future interactions or attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Stage Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0026/",
+          "https://attack.mitre.org/techniques/T1364"
+        ]
+      },
+      "uuid": "876a40a4-3170-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1364 Friend, follow, connect to targets of interest"
+    },
+	{
+      "description": "During production and distribution, the placement of software, firmware, or a CPU chip in a computer, handheld, or other electronic device that enables an adversary to gain illegal entrance.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Stage Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0026/",
+          "https://attack.mitre.org/techniques/T1365"
+        ]
+      },
+      "uuid": "876a422a-3170-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1365 Hardware or software supply chain implant"
+    },
+	{
+      "description": "Redirecting a communication request from one address and port number combination to another. May be set up to obfuscate the final location of communications that will occur in later stages of an attack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Stage Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0026/",
+          "https://attack.mitre.org/techniques/T1363"
+        ]
+      },
+      "uuid": "876a437e-3170-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1363 Port redirector"
+    },
+	{
+      "description": "An adversary may stage software and tools for use during later stages of an attack. The software and tools may be placed on systems legitimately in use by the adversary or may be placed on previously compromised infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Stage Capabilities"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0026/",
+          "https://attack.mitre.org/techniques/T1362"
+        ]
+      },
+      "uuid": "876a44d2-3170-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Stage Capabilities: T1362 Upload, install, and configure software and (or) tools"
     }
 	  ],
 	"version": 1

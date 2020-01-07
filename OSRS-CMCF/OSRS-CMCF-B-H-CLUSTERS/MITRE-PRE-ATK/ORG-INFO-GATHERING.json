@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Data sets can be anything from Security Exchange Commission (SEC) filings to public phone numbers. Many datasets are now either publicly available for free or can be purchased from a variety of data vendors. Open source intelligence (OSINT) is intelligence gathered from publicly available sources. This can include both information gathered on-line as well as in the physical world.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,146 @@
       },
       "uuid": "0133efd6-28dc-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1277 Acquire OSINT data sets and information"
+    },
+	{
+      "description": "A wide variety of cloud, virtual private services, hosting, compute, and storage solutions are available as 3rd party infrastructure services. These services could provide an adversary with another avenue of approach or compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1284"
+        ]
+      },
+      "uuid": "87711dfa-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1284 Determine 3rd party infrastructure services"
+    },
+	{
+      "description": "Determining if a corporate help desk exists, the degree of access and control it has, and whether there are edge units that may have different support processes and standards.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1285"
+        ]
+      },
+      "uuid": "87712246-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1285 Determine centralization of IT management"
+    },
+	{
+      "description": "Physical locality information may be used by an adversary to shape social engineering attempts (language, culture, events, weather, etc.) or to plan for physical actions such as dumpster diving or attempting to access a facility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1282"
+        ]
+      },
+      "uuid": "877123c2-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1282 Determine physical locations"
+    },
+	{
+      "description": "Dumpster diving is looking through waste for information on technology, people, and (or) organizational items of interest.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1286"
+        ]
+      },
+      "uuid": "8771250c-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1286 Dumpster dive"
+    },
+	{
+      "description": "Understanding an organizations business processes and tempo may allow an adversary to more effectively craft social engineering attempts or to better hide technical actions, such as those that generate network traffic.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1280"
+        ]
+      },
+      "uuid": "8771264c-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1280 Identify business processes and (or) tempo"
+    },
+	{
+      "description": "Business relationship information may be used by an adversary to shape social engineering attempts (exploiting who a target expects to hear from) or to plan for technical actions such as exploiting network trust relationship.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1283"
+        ]
+      },
+      "uuid": "8771278c-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1283 Identify business relationships"
+    },
+	{
+      "description": "Job postings, on either company sites, or in other forums, provide information on organizational structure, needs, and gaps in an organization. This may give an adversary an indication of weakness in an organization (such as under-resourced IT shop). Job postings can also provide information on an organizations structure which could be valuable in social engineering attempts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1278"
+        ]
+      },
+      "uuid": "877128c2-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1278 Identify job postings and needs and (or) gaps"
+    },
+	{
+      "description": "Supply chains include the people, processes, and technologies used to move a product or service from a supplier to a consumer. Understanding supply chains may provide an adversary with opportunities to exploit organizational relationships.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1276"
+        ]
+      },
+      "uuid": "87712b56-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1276 Identify supply chains"
+    },
+	{
+      "description": "Templates and branding materials may be used by an adversary to add authenticity to social engineering message.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1281"
+        ]
+      },
+      "uuid": "87712caa-315e-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1281 Obtain templates and (or) branding materials"
+    },
+	{
+      "description": "Social Engineering is the practice of manipulating people in order to get them to divulge information or take an action.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Organizational Information Gathering"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0017/",
+          "https://attack.mitre.org/techniques/T1279"
+        ]
+      },
+      "uuid": "7cbc8c0a-315e-11ea-850d-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Organizational Information Gathering: T1279 Conduct social engineering"
     }
 	  ],
 	"version": 1

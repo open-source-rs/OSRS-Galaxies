@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "A wide variety of cloud, virtual private services, hosting, compute, and storage solutions are available. Additionally botnets are available for rent or purchase. Use of these solutions allow an adversary to stage, launch, and execute an attack from infrastructure that does not physically tie back to them and can be rapidly provisioned, modified, and shut down.",
       "meta": {
 	  "kill_chain": [
@@ -19,6 +19,216 @@
       },
       "uuid": "21e8c5e6-28e4-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1329 Acquire and (or) use 3rd party infrastructure services"
+    },
+	{
+      "description": "Code signing is the process of digitally signing executables and scripts to confirm the software author and guarantee that the code has not been altered or corrupted. Users may trust a signed piece of code more than an unsigned piece of code even if they don't know who issued the certificate or who the author is.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1332"
+        ]
+      },
+      "uuid": "b1f53460-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1332 Acquire or compromise 3rd party signing certificates"
+    },
+	{
+      "description": "Domain Names are the human readable names used to represent one or more IP addresses. They can be purchased or, in some cases, acquired for free.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1328"
+        ]
+      },
+      "uuid": "b1f539b0-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1328 Buy domain name"
+    },
+	{
+      "description": "Instead of buying, leasing, or renting infrastructure an adversary may compromise infrastructure and use it for some or all of the attack cycle.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1334"
+        ]
+      },
+      "uuid": "b1f53b7c-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1334 Compromise 3rd party infrastructure to support delivery"
+    },
+	{
+      "description": "Backup infrastructure allows an adversary to recover from environmental and system failures. It also facilitates recovery or movement to other infrastructure if the primary infrastructure is discovered or otherwise is no longer viable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1339"
+        ]
+      },
+      "uuid": "b1f53d70-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1339 Create backup infrastructure"
+    },
+	{
+      "description": "Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1326"
+        ]
+      },
+      "uuid": "b1f53f28-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1326 Domain registration hijacking"
+    },
+	{
+      "description": "Dynamic DNS is a automated method to rapidly update the domain name system mapping of hostnames to IPs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1333"
+        ]
+      },
+      "uuid": "b1f54072-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1333 Dynamic DNS"
+    },
+	{
+      "description": "An adversary needs the necessary skills to set up procured equipment and software to create their desired infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1336"
+        ]
+      },
+      "uuid": "b1f54252-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1336 Install and configure hardware, network, and systems"
+    },
+	{
+      "description": "Obfuscation is hiding the day-to-day building and testing of new tools, chat servers, etc.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1331"
+        ]
+      },
+      "uuid": "b1f54540-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1331 Obfuscate infrastructure"
+    },
+	{
+      "description": "Configure and setup booter and (or) stressor services, often intended for server stress testing, to enable denial of service attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1396"
+        ]
+      },
+      "uuid": "b1f546a8-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1396 Obtain booter and (or) stressor subscription"
+    },
+	{
+      "description": "An adversary will require some physical hardware and software. They may only need a lightweight set-up if most of their activities will take place using on-line infrastructure. Or, they may need to build extensive infrastructure if they want to test, communicate, and control other aspects of their activities on their own systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1335"
+        ]
+      },
+      "uuid": "b1f547de-316a-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1335 Procure required equipment and software"
+    },
+	{
+      "description": "The process of gathering domain account credentials in order to silently create subdomains pointed at malicious servers without tipping off the actual owner.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1340"
+        ]
+      },
+      "uuid": "0a886a38-316c-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1340 Shadow DNS"
+    },
+	{
+      "description": "Certificates are designed to instill trust. They include information about the key, information about its owner's identity, and the digital signature of an entity that has verified the certificate's contents are correct. If the signature is valid, and the person examining the certificate trusts the signer, then they know they can use that key to communicate with its owner. Acquiring a certificate for a domain name similar to one that is expected to be trusted may allow an adversary to trick a user in to trusting the domain (e.g., vvachovia instead of Wachovia -- homoglyphs).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1337"
+        ]
+      },
+      "uuid": "0a886f88-316c-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1337 SSL certificate acquisition for domain"
+    },
+	{
+      "description": "Fake certificates can be acquired by legal process or coercion. Or, an adversary can trick a Certificate Authority into issuing a certificate. These fake certificates can be used as a part of Man-in-the-Middle attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1338"
+        ]
+      },
+      "uuid": "0a887122-316c-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1338 SSL certificate acquisition for trust breaking"
+    },
+	{
+      "description": "A technique used by the adversary similar to Dynamic DNS with the exception that the use of multiple DNS infrastructures likely have whois records.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1327"
+        ]
+      },
+      "uuid": "0a887276-316c-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1327 Use multiple DNS infrastructures"
+    },
+	{
+      "description": "A wide variety of 3rd party software services are available (e.g., Twitter, Dropbox, GoogleDocs). Use of these solutions allow an adversary to stage, launch, and execute an attack from infrastructure that does not physically tie back to them and can be rapidly provisioned, modified, and shut down.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Establish & Maintain Infrastructure"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0022/",
+          "https://attack.mitre.org/techniques/T1330"
+        ]
+      },
+      "uuid": "8be2d124-316a-11ea-aec2-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Establish & Maintain Infrastructure: T1330 Acquire and (or) use 3rd party software services"
     }
 	  ],
 	"version": 1

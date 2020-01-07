@@ -19,6 +19,48 @@
       },
       "uuid": "58fd9e94-28da-11ea-978f-2e728ce88125",
       "value": "OSRS MITRE Pre-ATK Priority Definition Direction: T1238 Assign KITs, KIQs, and(or) intelligence requirements"
+    },
+	{
+      "description": "Once they have been created, intelligence requirements, Key Intelligence Topics (KITs), and Key Intelligence Questions (KIQs) are submitted into a central management system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Priority Definition Direction"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0013/",
+          "https://attack.mitre.org/techniques/T1237"
+        ]
+      },
+      "uuid": "e80a3888-3152-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Priority Definition Direction: T1237 Submit KITs, KIQs, and intelligence requirements"
+    },
+	{
+      "description": "Once divided into the most granular parts, analysts work with collection managers to task the collection management system with requirements and sub-requirements.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Priority Definition Direction"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0013/",
+          "https://attack.mitre.org/techniques/T1240"
+        ]
+      },
+      "uuid": "e80a39e6-3152-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Priority Definition Direction: T1240 Task requirements"
+    },
+	{
+      "description": "Applicable agencies and (or) personnel receive intelligence requirements and evaluate them to determine sub-requirements related to topics, questions, or requirements. For example, an adversary's nuclear energy requirements may be further divided into nuclear facilities versus nuclear warhead capabilities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-mitre-pre-atk:Priority Definition Direction"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0013/",
+          "https://attack.mitre.org/techniques/T1239"
+        ]
+      },
+      "uuid": "e80a35ae-3152-11ea-978f-2e728ce88125",
+      "value": "OSRS MITRE Pre-ATK Priority Definition Direction: T1239 Receive KITs OR KIQs and determine requirements"
     }
 	  ],
 	"version": 1
