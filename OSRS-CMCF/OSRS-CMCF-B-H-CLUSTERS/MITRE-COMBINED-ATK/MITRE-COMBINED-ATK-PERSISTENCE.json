@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Windows contains accessibility features that may be launched with a key combination before a user has logged in (for example, when the user is on the Windows logon screen). An adversary can modify the way these programs are launched to get a command prompt or backdoor without logging in to the system.",
       "meta": {
 	  "kill_chain": [
@@ -18,9 +18,9 @@
         ]
       },
       "uuid": "a3aeb13e-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence Windows: T1015 Accessibility Features"
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1015 Accessibility Features"
     },
-{
+	{
       "description": "These files are executed in a user's context when a new shell opens or when a user logs in so that their environment is set correctly. This means that when a user logs in (via username and password) to the console (either locally or remotely via something like SSH), the .bash_profile script is executed before the initial command prompt is returned to the user. After that, every time a new shell is opened, the .bashrc script is executed. This allows users more fine-grained control over when they want certain commands executed. These shell scripts are meant to be written to by the local user to configure their own environment.",
       "meta": {
 	  "kill_chain": [
@@ -32,9 +32,9 @@
         ]
       },
       "uuid": "a3aeb3be-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence Linux: T1156 .bash_profile and .bashrc"
+      "value": "OSRS Combined MITRE ATK Persistence: Linux T1156 .bash_profile and .bashrc"
     },
-{
+	{
       "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
@@ -46,9 +46,9 @@
         ]
       },
       "uuid": "a3aeb864-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence AWS: T1098 Account Manipulation"
+      "value": "OSRS Combined MITRE ATK Persistence: AWS T1098 Account Manipulation"
     },	  
-{
+	{
       "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
@@ -60,9 +60,9 @@
         ]
       },
       "uuid": "a3aeb9fe-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence GCP: T1098 Account Manipulation"
+      "value": "OSRS Combined MITRE ATK Persistence: GCP T1098 Account Manipulation"
     },	  	  
-	  {
+	{
       "description": "Account manipulation may aid adversaries in maintaining access to credentials and certain permission levels within an environment. Manipulation could consist of modifying permissions, modifying credentials, adding or changing permission groups, modifying account settings, or modifying how authentication is performed. These actions could also include account activity designed to subvert security policies, such as performing iterative password updates to subvert password duration policies and preserve the life of compromised credentials. In order to create or manipulate accounts, the adversary must already have sufficient permissions on systems or the domain.",
       "meta": {
 	  "kill_chain": [
@@ -74,9 +74,233 @@
         ]
       },
       "uuid": "a3aebb52-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence Azure: T1098 Account Manipulation"
-    },		  
-{
+      "value": "OSRS Combined MITRE ATK Persistence: Azure T1098 Account Manipulation"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad796e-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad7f2c-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Linux T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad80bc-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: AWS T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad81fc-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: GCP T1078 Valid Accounts"
+    },	
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad8346-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Azure T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "a2ad8652-3178-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: SaaS T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries with a sufficient level of access may create a local system, domain, or cloud tenant account. Such accounts may be used for persistence that do not require persistent remote access tools to be deployed on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1136"
+        ]
+      },
+      "uuid": "d6948320-3179-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1136 Create Account"
+    },
+	{
+      "description": "Adversaries with a sufficient level of access may create a local system, domain, or cloud tenant account. Such accounts may be used for persistence that do not require persistent remote access tools to be deployed on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1136"
+        ]
+      },
+      "uuid": "d69485dc-3179-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Linux T1136 Create Account"
+    },
+	{
+      "description": "Adversaries with a sufficient level of access may create a local system, domain, or cloud tenant account. Such accounts may be used for persistence that do not require persistent remote access tools to be deployed on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1136"
+        ]
+      },
+      "uuid": "d69487b2-3179-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: AWS T1136 Create Account"
+    },
+	{
+      "description": "Adversaries with a sufficient level of access may create a local system, domain, or cloud tenant account. Such accounts may be used for persistence that do not require persistent remote access tools to be deployed on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1136"
+        ]
+      },
+      "uuid": "d6948992-3179-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: GCP T1136 Create Account"
+    },	
+	{
+      "description": "Adversaries with a sufficient level of access may create a local system, domain, or cloud tenant account. Such accounts may be used for persistence that do not require persistent remote access tools to be deployed on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1136"
+        ]
+      },
+      "uuid": "d6948b5e-3179-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Azure T1136 Create Account"
+    },
+	{
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108"
+        ]
+      },
+      "uuid": "71213e2e-317a-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1108 Redundant Access"
+    },
+	{
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108"
+        ]
+      },
+      "uuid": "712140a4-317a-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Linux T1108 Redundant Access"
+    },
+	{
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108"
+        ]
+      },
+      "uuid": "7121481a-317a-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: AWS T1108 Redundant Access"
+    },
+	{
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108"
+        ]
+      },
+      "uuid": "712149b4-317a-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: GCP T1108 Redundant Access"
+    },	
+	{
+      "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1108"
+        ]
+      },
+      "uuid": "71214b08-317a-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Azure T1108 Redundant Access"
+    },
+	{
       "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated. If one type of tool is detected and blocked or removed as a response but the organization did not gain a full understanding of the adversary's tools and access, then the adversary will be able to retain access to the network. Adversaries may also attempt to gain access to Valid Accounts to use External Remote Services such as external VPNs as a way to maintain access despite interruptions to remote access tools deployed within a target network. Adversaries may also retain access through cloud-based infrastructure and applications. Use of a Web Shell is one such way to maintain access to a network through an externally accessible Web server.",
       "meta": {
 	  "kill_chain": [
@@ -88,7 +312,7 @@
         ]
       },
       "uuid": "a3aebc9c-298f-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence SaaS: T1108 Redundant Access"
+      "value": "OSRS Combined MITRE ATK Persistence: SaaS T1108 Redundant Access"
     }
 	  ],
 	"version": 1

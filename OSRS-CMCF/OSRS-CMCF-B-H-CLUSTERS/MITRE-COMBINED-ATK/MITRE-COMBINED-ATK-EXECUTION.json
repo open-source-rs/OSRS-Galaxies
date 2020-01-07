@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The Microsoft Connection Manager Profile Installer (CMSTP.exe) is a command-line program used to install Connection Manager service profiles. CMSTP.exe accepts an installation information file (INF) as a parameter and installs a service profile leveraged for remote access connections. Adversaries may supply CMSTP.exe with INF files infected with malicious commands. Similar to Regsvr32 OR Squiblydoo, CMSTP.exe may be abused to load and execute DLLs and (or) COM scriptlets (SCT) from remote servers. This execution may also bypass AppLocker and other whitelisting defenses since CMSTP.exe is a legitimate, signed Microsoft application. CMSTP.exe can also be abused to Bypass User Account Control and execute arbitrary commands from a malicious INF through an auto-elevated COM interface.",
       "meta": {
 	  "kill_chain": [
@@ -18,9 +18,149 @@
         ]
       },
       "uuid": "f6e40228-298a-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Execution Windows: T1191 CMSTP"
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1191 CMSTP"
     },
-{
+	{
+      "description": "Vulnerabilities can exist in software due to unsecure coding practices that can lead to unanticipated behavior. Adversaries can take advantage of certain vulnerabilities through targeted exploitation for the purpose of arbitrary code execution. Oftentimes the most valuable exploits to an offensive toolkit are those that can be used to obtain code execution on a remote system because they can be used to gain access to that system. Users will expect to see files related to the applications they commonly used to do work, so they are a useful target for exploit research and development because of their high utility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1203"
+        ]
+      },
+      "uuid": "8db30fd0-3176-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1203 Exploitation for Client Execution"
+    },
+	{
+      "description": "Vulnerabilities can exist in software due to unsecure coding practices that can lead to unanticipated behavior. Adversaries can take advantage of certain vulnerabilities through targeted exploitation for the purpose of arbitrary code execution. Oftentimes the most valuable exploits to an offensive toolkit are those that can be used to obtain code execution on a remote system because they can be used to gain access to that system. Users will expect to see files related to the applications they commonly used to do work, so they are a useful target for exploit research and development because of their high utility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1203"
+        ]
+      },
+      "uuid": "8db31232-3176-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1203 Exploitation for Client Execution"
+    },
+	{
+      "description": "The Graphical User Interfaces (GUI) is a common way to interact with an operating system. Adversaries may use a system's GUI during an operation, commonly through a remote interactive session such as Remote Desktop Protocol, instead of through a Command-Line Interface, to search for information and execute files via mouse double-click events, the Windows Run command , or other potentially difficult to monitor interactions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1061"
+        ]
+      },
+      "uuid": "d734e3a4-3176-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1061 Graphical User Interface"
+    },
+	{
+      "description": "The Graphical User Interfaces (GUI) is a common way to interact with an operating system. Adversaries may use a system's GUI during an operation, commonly through a remote interactive session such as Remote Desktop Protocol, instead of through a Command-Line Interface, to search for information and execute files via mouse double-click events, the Windows Run command , or other potentially difficult to monitor interactions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1061"
+        ]
+      },
+      "uuid": "d734e624-3176-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1061 Graphical User Interface"
+    },
+	{
+      "description": "Adversaries may use scripts to aid in operations and perform multiple actions that would otherwise be manual. Scripting is useful for speeding up operational tasks and reducing the time required to gain access to critical resources. Some scripting languages may be used to bypass process monitoring mechanisms by directly interacting with the operating system at an API level instead of calling other programs. Common scripting languages for Windows include VBScript and PowerShell but could also be in the form of command-line batch scripts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1064"
+        ]
+      },
+      "uuid": "491c9fac-3177-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1064 Scripting"
+    },
+	{
+      "description": "Adversaries may use scripts to aid in operations and perform multiple actions that would otherwise be manual. Scripting is useful for speeding up operational tasks and reducing the time required to gain access to critical resources. Some scripting languages may be used to bypass process monitoring mechanisms by directly interacting with the operating system at an API level instead of calling other programs. Common scripting languages for Windows include VBScript and PowerShell but could also be in the form of command-line batch scripts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1064"
+        ]
+      },
+      "uuid": "491ca36c-3177-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1064 Scripting"
+    },
+	{
+      "description": "Third-party applications and software deployment systems may be in use in the network environment for administration purposes (e.g., SCCM, VNC, HBSS, Altiris, etc.). If an adversary gains access to these systems, then they may be able to execute code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1072"
+        ]
+      },
+      "uuid": "f6e40228-298a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1072 Third-party Software"
+    },
+	{
+      "description": "Third-party applications and software deployment systems may be in use in the network environment for administration purposes (e.g., SCCM, VNC, HBSS, Altiris, etc.). If an adversary gains access to these systems, then they may be able to execute code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1072"
+        ]
+      },
+      "uuid": "f6e404a8-298a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1072 Third-party Software"
+    },
+	{
+      "description": "An adversary may rely upon specific actions by a user in order to gain execution. This may be direct code execution, such as when a user opens a malicious executable delivered via Spearphishing Attachment with the icon and apparent extension of a document file. It also may lead to other execution techniques, such as when a user clicks on a link delivered via Spearphishing Link that leads to exploitation of a browser or application vulnerability via Exploitation for Client Execution. Adversaries may use several types of files that require a user to execute them, including .doc, .pdf, .xls, .rtf, .scr, .exe, .lnk, .pif, and .cpl.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1204"
+        ]
+      },
+      "uuid": "e9f37770-3177-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Windows T1204 User Execution"
+    },
+	{
+      "description": "An adversary may rely upon specific actions by a user in order to gain execution. This may be direct code execution, such as when a user opens a malicious executable delivered via Spearphishing Attachment with the icon and apparent extension of a document file. It also may lead to other execution techniques, such as when a user clicks on a link delivered via Spearphishing Link that leads to exploitation of a browser or application vulnerability via Exploitation for Client Execution. Adversaries may use several types of files that require a user to execute them, including .doc, .pdf, .xls, .rtf, .scr, .exe, .lnk, .pif, and .cpl.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Execution"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0002/",
+          "https://attack.mitre.org/techniques/T1204"
+        ]
+      },
+      "uuid": "e9f37b62-3177-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1204 User Execution"
+    },
+	{
       "description": "Command-line interfaces provide a way of interacting with computer systems and is a common feature across many types of operating system platforms. One example command-line interface on Windows systems is cmd, which can be used to perform a number of tasks including execution of other software. Command-line interfaces can be interacted with locally or remotely via a remote desktop application, reverse shell session, etc. Commands that are executed run with the current permission level of the command-line interface process unless the command includes process invocation that changes permissions context for that execution (e.g. Scheduled Task). Adversaries may use command-line interfaces to interact with systems and execute other software during the course of an operation.",
       "meta": {
 	  "kill_chain": [
@@ -32,7 +172,7 @@
         ]
       },
       "uuid": "f6e404a8-298a-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Execution Linux: T1059 Command-Line Interface"
+      "value": "OSRS Combined MITRE ATK Execution: Linux T1059 Command-Line Interface"
     }
 	  ],
 	"version": 1
