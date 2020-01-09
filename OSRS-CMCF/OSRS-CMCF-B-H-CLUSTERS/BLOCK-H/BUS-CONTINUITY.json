@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Requirements are determined for information security and the continuity of information security management in adverse situations, e.g. during a crisis or disaster.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,45 @@
       },
       "uuid": "5e2d236e-28c9-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Business Continuity: 13.a Planning Information Security Continuity"
+    },
+	{
+      "description": "The establishment and implemention of information security continuity controls is verified at regular intervals to ensure they are valid and effective during adverse situations.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Business Continuity"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "53cfe5a2-32f4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Business Continuity: 13.c Verify, Review and Evaluate Information Security Continuity"
+    },
+	{
+      "description": "Information processing facilities are implemented with redundancy sufficient to meet availability requirements.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Business Continuity"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "53cffed4-32f4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Business Continuity: 13.d Availability of Information Processing Facilities"
+    },
+	{
+      "description": "The required level of continuity for information security is established, implemented, and maintained during an adverse situation.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Business Continuity"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "53d00078-32f4-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Business Continuity: 13.b Implementing Information Security Continuity"
     }
 	  ],
 	"version": 1

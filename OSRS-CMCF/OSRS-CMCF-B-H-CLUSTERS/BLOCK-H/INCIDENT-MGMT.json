@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Management establishes a quick, effective and orderly response to information security incidents.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,84 @@
       },
       "uuid": "fb69e71c-28c8-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Incident Management: 12.a Incident Management Program"
+    },
+	{
+      "description": "Employees and contractors using the organization’s information systems and services are required to note and report any observed or suspected information security weaknesses in systems or services.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "272a5e9e-32f2-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.c Reporting Information Security Weaknesses"
+    },
+	{
+      "description": "Information security events are assessed and classified as information security incidents if appropriate.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "272a6128-32f2-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.d Assessments of and Decision on Information Security Events"
+    },
+	{
+      "description": "Responses to information security incidents are conducted accordance with the documented procedures.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "272a63ee-32f2-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.e Response to Information Security Incidents"
+    },
+	{
+      "description": "Knowledge gained from analyzing and resolving information security incidents are used to reduce the likelihood or impact of future incidents.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "272a654c-32f2-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.f Learning from Information Security Incidents"
+    },
+	{
+      "description": "Evidence is identified, collected, acquired and preserved.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "272a67ea-32f2-11ea-978f-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.g Collection of Evidence"
+    },
+	{
+      "description": "Information security events are reported through appropriate  channels as quickly as possible.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Incident Management"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "0e184704-32f2-11ea-850d-2e728ce88125",
+      "value": "OSRS HITRUST CSF Incident Management: 12.b Reporting Information Security Events"
     }
 	  ],
 	"version": 1

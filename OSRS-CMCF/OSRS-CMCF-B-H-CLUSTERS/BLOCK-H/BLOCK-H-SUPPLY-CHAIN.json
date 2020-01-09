@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Information security requirements for mitigating the risks associated with supplier’s access to the organization’s assets are agreed with the supplier and documented.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,58 @@
       },
       "uuid": "84d93a8a-28c8-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Supply Chain: 11.a Information Security in Supplier Relationships"
+    },
+	{
+      "description": "Agreements with suppliers include requirements to address the information security risks associated with information and communications technology services and product supply chain.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Supply Chain"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "e6036466-32f0-11ea-aec2-2e728ce88125",
+      "value": "OSRS HITRUST CSF Supply Chain: 11.c Information and Communication Technology Supply Chain"
+    },
+	{
+      "description": "Supplier service delivery is regularly monitored, reviewed and audited.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Supply Chain"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "e60365ba-32f0-11ea-aec2-2e728ce88125",
+      "value": "OSRS HITRUST CSF Supply Chain: 11.d Monitoring and Review of Supplier Services"
+    },
+	{
+      "description": "Changes to the provision of services by suppliers, including maintaining and improving existing information security policies, procedures and controls, are managed, taking account of the criticality of business information, systems and processes involved and re-assessment of risks.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Supply Chain"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "e60366fa-32f0-11ea-aec2-2e728ce88125",
+      "value": "OSRS HITRUST CSF Supply Chain: 11.e Managing Changes to Supplier Services"
+    },
+	{
+      "description": "All relevant information security requirements are established and agreed  with each supplier that may access, process, store, or communicate the organization's information, or provide IT infrastructure components for such use.",
+      "meta": {
+	  "kill_chain": [
+          "block-h:Supply Chain"
+        ],
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "e60361fa-32f0-11ea-aec2-2e728ce88125",
+      "value": "OSRS HITRUST CSF Supply Chain: 11.b Addressing Security Within Supplier Agreements"
     }
 	  ],
 	"version": 1
