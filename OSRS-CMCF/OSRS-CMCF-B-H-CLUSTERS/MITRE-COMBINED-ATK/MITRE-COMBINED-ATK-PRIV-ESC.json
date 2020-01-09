@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Windows uses access tokens to determine the ownership of a running process. A user can manipulate access tokens to make a running process appear as though it belongs to someone other than the user that started the process. When this occurs, the process also takes on the security context associated with the new token. For example, Microsoft promotes the use of access tokens as a security best practice. Administrators should log in as a standard user but run their tools with administrator privileges using the built-in access token manipulation command runas. Adversaries may use access tokens to operate under a different user or system security context to perform actions and evade detection. An adversary can use built-in Windows API functions to copy access tokens from existing processes; this is known as token stealing. An adversary must already be in a privileged user context (i.e. administrator) to steal a token. However, adversaries commonly use token stealing to elevate their security context from the administrator level to the SYSTEM level. An adversary can use a token to authenticate to a remote system as the account for that token if the account has appropriate permissions on the remote system.",
       "meta": {
 	  "kill_chain": [
@@ -18,9 +18,9 @@
         ]
       },
       "uuid": "97e61d4a-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation Windows: T1134 Access Token Manipulation"
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1134 Access Token Manipulation"
     },
-{
+	{
       "description": "Exploitation of a software vulnerability occurs when an adversary takes advantage of a programming error in a program, service, or within the operating system software or kernel itself to execute adversary-controlled code. Security constructs such as permission levels will often hinder access to information and use of certain techniques, so adversaries will likely need to perform Privilege Escalation to include use of software exploitation to circumvent those restrictions.",
       "meta": {
 	  "kill_chain": [
@@ -32,9 +32,9 @@
         ]
       },
       "uuid": "97e62218-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation Linux: T1068 Exploitation for Privilege Escalation"
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1068 Exploitation for Privilege Escalation"
     },
-{
+	{
       "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access. Accounts that an adversary may use can fall into three categories - default, local, and domain accounts. Default accounts are those that are built-into an OS such as Guest or Administrator account on Windows systems or default factory/provider set accounts on other types of systems, software, or devices. Local accounts are those configured by an organization for use by users, remote support, services, or for administration on a single system or service. Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. Domain accounts can cover users, administrators, and services. Compromised credentials may be used to bypass access controls placed on various resources on systems within the network and may even be used for persistent access to remote systems and externally available services, such as VPNs, Outlook Web Access and remote desktop. Compromised credentials may also grant an adversary increased privilege to specific systems or access to restricted areas of the network. Adversaries may choose not to use malware or tools in conjunction with the legitimate access those credentials provide to make it harder to detect their presence. Default accounts are also not limited to Guest and Administrator on client machines, they also include accounts that are preset for equipment such as network devices and computer applications whether they are internal, open source, or COTS. Appliances that come preset with a username and password combination pose a serious threat to organizations that do not change it post installation, as they are easy targets for an adversary. Similarly, adversaries may also utilize publicly disclosed private keys, or stolen private keys, to legitimately connect to remote environments via Remote Services. The overlap of account access, credentials, and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator) to bypass access controls set within the enterprise.",
       "meta": {
 	  "kill_chain": [
@@ -46,9 +46,9 @@
         ]
       },
       "uuid": "97e6239e-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation AWS: T1078 Valid Accounts"
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: AWS T1078 Valid Accounts"
     },	  
-{
+	{
       "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access. Accounts that an adversary may use can fall into three categories - default, local, and domain accounts. Default accounts are those that are built-into an OS such as Guest or Administrator account on Windows systems or default factory/provider set accounts on other types of systems, software, or devices. Local accounts are those configured by an organization for use by users, remote support, services, or for administration on a single system or service. Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. Domain accounts can cover users, administrators, and services. Compromised credentials may be used to bypass access controls placed on various resources on systems within the network and may even be used for persistent access to remote systems and externally available services, such as VPNs, Outlook Web Access and remote desktop. Compromised credentials may also grant an adversary increased privilege to specific systems or access to restricted areas of the network. Adversaries may choose not to use malware or tools in conjunction with the legitimate access those credentials provide to make it harder to detect their presence. Default accounts are also not limited to Guest and Administrator on client machines, they also include accounts that are preset for equipment such as network devices and computer applications whether they are internal, open source, or COTS. Appliances that come preset with a username and password combination pose a serious threat to organizations that do not change it post installation, as they are easy targets for an adversary. Similarly, adversaries may also utilize publicly disclosed private keys, or stolen private keys, to legitimately connect to remote environments via Remote Services. The overlap of account access, credentials, and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator) to bypass access controls set within the enterprise.",
       "meta": {
 	  "kill_chain": [
@@ -60,9 +60,9 @@
         ]
       },
       "uuid": "97e624e8-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation GCP: T1078 Valid Accounts"
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: GCP T1078 Valid Accounts"
     },	  	  
-	  {
+	{
       "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access. Accounts that an adversary may use can fall into three categories - default, local, and domain accounts. Default accounts are those that are built-into an OS such as Guest or Administrator account on Windows systems or default factory/provider set accounts on other types of systems, software, or devices. Local accounts are those configured by an organization for use by users, remote support, services, or for administration on a single system or service. Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. Domain accounts can cover users, administrators, and services. Compromised credentials may be used to bypass access controls placed on various resources on systems within the network and may even be used for persistent access to remote systems and externally available services, such as VPNs, Outlook Web Access and remote desktop. Compromised credentials may also grant an adversary increased privilege to specific systems or access to restricted areas of the network. Adversaries may choose not to use malware or tools in conjunction with the legitimate access those credentials provide to make it harder to detect their presence. Default accounts are also not limited to Guest and Administrator on client machines, they also include accounts that are preset for equipment such as network devices and computer applications whether they are internal, open source, or COTS. Appliances that come preset with a username and password combination pose a serious threat to organizations that do not change it post installation, as they are easy targets for an adversary. Similarly, adversaries may also utilize publicly disclosed private keys, or stolen private keys, to legitimately connect to remote environments via Remote Services. The overlap of account access, credentials, and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator) to bypass access controls set within the enterprise.",
       "meta": {
 	  "kill_chain": [
@@ -74,9 +74,93 @@
         ]
       },
       "uuid": "97e62628-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation Azure: T1078 Valid Accounts"
-    },		  
-{
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Azure T1078 Valid Accounts"
+    },
+	{
+      "description": "A Web shell is a Web script that is placed on an openly accessible Web server to allow an adversary to use the Web server as a gateway into a network. A Web shell may provide a set of functions to execute or a command-line interface on the system that hosts the Web server. In addition to a server-side script, a Web shell may have a client interface program that is used to talk to the Web server (see, for example, China Chopper Web shell client).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1100"
+        ]
+      },
+      "uuid": "271299b0-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1100 Web Shell"
+    },
+	{
+      "description": "A Web shell is a Web script that is placed on an openly accessible Web server to allow an adversary to use the Web server as a gateway into a network. A Web shell may provide a set of functions to execute or a command-line interface on the system that hosts the Web server. In addition to a server-side script, a Web shell may have a client interface program that is used to talk to the Web server (see, for example, China Chopper Web shell client).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1100"
+        ]
+      },
+      "uuid": "27129c12-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1100 Web Shell"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "c8a8e55e-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1078 Valid Accounts"
+    },
+	{
+      "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1078"
+        ]
+      },
+      "uuid": "c8a8e7d4-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1078 Valid Accounts"
+    },
+	{
+      "description": "Process injection is a method of executing arbitrary code in the address space of a separate live process. Running code in the context of another process may allow access to the process's memory, system and (or) network resources, and possibly elevated privileges. Execution via process injection may also evade detection from security products since the execution is masked under a legitimate process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1055"
+        ]
+      },
+      "uuid": "d4e53d72-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1055 Process Injection"
+    },
+	{
+      "description": "Process injection is a method of executing arbitrary code in the address space of a separate live process. Running code in the context of another process may allow access to the process's memory, system and (or) network resources, and possibly elevated privileges. Execution via process injection may also evade detection from security products since the execution is masked under a legitimate process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1055"
+        ]
+      },
+      "uuid": "d4e53ffc-32f9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1055 Process Injection"
+    },
+	{
       "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access. Accounts that an adversary may use can fall into three categories - default, local, and domain accounts. Default accounts are those that are built-into an OS such as Guest or Administrator account on Windows systems or default factory/provider set accounts on other types of systems, software, or devices. Local accounts are those configured by an organization for use by users, remote support, services, or for administration on a single system or service. Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. Domain accounts can cover users, administrators, and services. Compromised credentials may be used to bypass access controls placed on various resources on systems within the network and may even be used for persistent access to remote systems and externally available services, such as VPNs, Outlook Web Access and remote desktop. Compromised credentials may also grant an adversary increased privilege to specific systems or access to restricted areas of the network. Adversaries may choose not to use malware or tools in conjunction with the legitimate access those credentials provide to make it harder to detect their presence. Default accounts are also not limited to Guest and Administrator on client machines, they also include accounts that are preset for equipment such as network devices and computer applications whether they are internal, open source, or COTS. Appliances that come preset with a username and password combination pose a serious threat to organizations that do not change it post installation, as they are easy targets for an adversary. Similarly, adversaries may also utilize publicly disclosed private keys, or stolen private keys, to legitimately connect to remote environments via Remote Services. The overlap of account access, credentials, and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator) to bypass access controls set within the enterprise.",
       "meta": {
 	  "kill_chain": [
@@ -88,7 +172,7 @@
         ]
       },
       "uuid": "97e627fe-2991-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Privilege Escalation SaaS: T1078 Valid Accounts"
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: SaaS T1078 Valid Accounts"
     }
 	  ],
 	"version": 1
