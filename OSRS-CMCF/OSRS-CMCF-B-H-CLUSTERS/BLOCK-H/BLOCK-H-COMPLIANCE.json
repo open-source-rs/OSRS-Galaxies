@@ -98,7 +98,7 @@
       "value": "OSRS HITRUST CSF Compliance: 14.g Compliance with Security Policies and Standards"
     },
 	{
-      "description": "",
+      "description": "Information systems are regularly reviewed for compliance with the organizational information security policies and standards.",
       "meta": {
 	  "kill_chain": [
           "block-h:Compliance"
