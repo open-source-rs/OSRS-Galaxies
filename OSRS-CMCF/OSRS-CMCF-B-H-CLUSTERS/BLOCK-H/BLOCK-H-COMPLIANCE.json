@@ -16,7 +16,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "be44a9f2-28c9-11ea-978f-2e728ce88125",
+      "uuid": "8405039a-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.a Identification of Applicable Legislation and Contractual Requirements"
     },
 	{
@@ -29,7 +29,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b9358-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "840506d8-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.b Intellectual Property Rights"
     },
 	{
@@ -42,7 +42,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b961e-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "84050aac-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.c Protection of Records"
     },
 	{
@@ -55,7 +55,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b9772-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "84050e58-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.d Privacy and Protection of Personally Identifiable Information"
     },
 	{
@@ -68,7 +68,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b98bc-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "8405109c-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.e Regulation of Cryptographic Controls"
     },
 	{
@@ -81,7 +81,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b9cd6-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "840511fa-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.f Independent Review of Information Security"
     },
 	{
@@ -94,7 +94,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b9e3e-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "840513a8-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.g Compliance with Security Policies and Standards"
     },
 	{
@@ -107,7 +107,7 @@
           "https://hitrustalliance.net/hitrust-csf/"
         ]
       },
-      "uuid": "f24b9f88-2d8a-11ea-978f-2e728ce88125",
+      "uuid": "84051588-33be-11ea-978f-2e728ce88125",
       "value": "OSRS HITRUST CSF Compliance: 14.h Technical Compliance Review"
     }
 	  ],
