@@ -1,5 +1,5 @@
 {
-  "category": "BLOCK-H-COMPLIANCE",
+  "category": "COMPLIANCE",
   "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity Compliance based policy and procedure.",
   "name": "HITRUST CSF - Compliance",
   "source": "HITRUST CSF",
