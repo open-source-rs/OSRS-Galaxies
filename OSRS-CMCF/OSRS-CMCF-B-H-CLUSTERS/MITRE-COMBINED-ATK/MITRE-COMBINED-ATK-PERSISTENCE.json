@@ -707,6 +707,356 @@
       "value": "OSRS Combined MITRE ATK Persistence: Windows T1038 DLL Search Order Hijacking"
     },
 	{
+      "description": "Remote services such as VPNs, Citrix, and other access mechanisms allow users to connect to internal enterprise network resources from external locations. There are often remote service gateways that manage connections and credential authentication for these services. Services such as Windows Remote Management can also be used externally.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1133"
+        ]
+      },
+      "uuid": "bff30ec0-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1133 External Remote Services"
+    },
+	{
+      "description": "Processes may automatically execute specific binaries as part of their functionality or to perform other actions. If the permissions on the file system directory containing a target binary, or permissions on the binary itself, are improperly set, then the target binary may be overwritten with another binary using user-level permissions and executed by the original process. If the original process and thread are running under a higher permissions level, then the replaced binary will also execute under higher-level permissions, which could include SYSTEM.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1044"
+        ]
+      },
+      "uuid": "bff31168-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1044 File System Permissions Weakness"
+    },
+	{
+      "description": "Windows processes often leverage application programming interface (API) functions to perform tasks that require reusable system resources. Windows API functions are typically stored in dynamic-link libraries (DLLs) as exported functions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1179"
+        ]
+      },
+      "uuid": "bff3130c-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1179 Hooking"
+    },
+	{
+      "description": "A type-1 hypervisor is a software layer that sits between the guest operating systems and system's hardware. It presents a virtual running environment to an operating system. An example of a common hypervisor is Xen. A type-1 hypervisor operates at a level below the operating system and could be designed with Rootkit functionality to hide its existence from the guest operating system. A malicious hypervisor of this nature could be used to persist on systems through interruption.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1062"
+        ]
+      },
+      "uuid": "bff3150a-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1062 Hypervisor"
+    },
+	{
+      "description": "Image File Execution Options (IFEO) enable a developer to attach a debugger to an application. When a process is created, a debugger present in an application’s IFEO will be prepended to the application’s name, effectively launching the new process under the debugger.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1183"
+        ]
+      },
+      "uuid": "bff31654-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1183 Image File Execution Options Injection"
+    },
+	{
+      "description": "Windows allows logon scripts to be run whenever a specific user or group of users log into a system. The scripts can be used to perform administrative functions, which may often execute other programs or send information to an internal logging server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1037"
+        ]
+      },
+      "uuid": "bff31852-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1037 Logon Scripts"
+    },
+	{
+      "description": "The Windows security subsystem is a set of components that manage and enforce the security policy for a computer or domain. The Local Security Authority (LSA) is the main component responsible for local security policy and user authentication. The LSA includes multiple dynamic link libraries (DLLs) associated with various other security functions, all of which run in the context of the LSA Subsystem Service (LSASS) lsass.exe process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1177"
+        ]
+      },
+      "uuid": "bff31992-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1177 LSASS Driver"
+    },
+	{
+      "description": "Windows service configuration information, including the file path to the service's executable or recovery programs and (or) commands, is stored in the Registry. Service configurations can be modified using utilities such as sc.exe and Reg.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1031"
+        ]
+      },
+      "uuid": "bff31b5e-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1031 Modify Existing Service"
+    },
+	{
+      "description": "Netsh.exe (also referred to as Netshell) is a command-line scripting utility used to interact with the network configuration of a system. It contains functionality to add helper DLLs for extending functionality of the utility. The paths to registered netsh.exe helper DLLs are entered into the Windows Registry at HKLM_SOFTWARE_Microsoft_Netsh.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1128"
+        ]
+      },
+      "uuid": "bff31dac-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1128 Netsh Helper DLL"
+    },
+	{
+      "description": "When operating systems boot up, they can start programs or applications called services that perform background system functions. A service's configuration information, including the file path to the service's executable, is stored in the Windows Registry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1050"
+        ]
+      },
+      "uuid": "bff31f1e-3543-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1050 New Service"
+    },
+	{
+      "description": "Microsoft Office is a fairly common application suite on Windows-based operating systems within an enterprise network. There are multiple mechanisms that can be used with Office for persistence when an Office-based application is started.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1137"
+        ]
+      },
+      "uuid": "bc9ea930-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1137 Office Application Startup"
+    },
+	{
+      "description": "Path interception occurs when an executable is placed in a specific path so that it is executed by an application instead of the intended target. One example of this was the use of a copy of cmd in the current working directory of a vulnerable application that loads a CMD or BAT file with the CreateProcess function.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1034"
+        ]
+      },
+      "uuid": "bc9eab92-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1034 Path Interception"
+    },
+	{
+      "description": "A port monitor can be set through the API call to set a DLL to be loaded at startup. This DLL can be located in C_Windows_System32 and will be loaded by the print spooler service, spoolsv.exe, on boot. The spoolsv.exe process also runs under SYSTEM level permissions. Alternatively, an arbitrary DLL can be loaded if permissions allow writing a fully-qualified pathname for that DLL to HKLM_SYSTEM_CurrentControlSet_Control_Print_Monitors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1013"
+        ]
+      },
+      "uuid": "bc9eaf70-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1013 Port Monitors"
+    },
+	{
+      "description": "Adversaries may gain persistence and elevate privileges in certain situations by abusing PowerShell profiles. A PowerShell profile (profile.ps1) is a script that runs when PowerShell starts and can be used as a logon script to customize user environments. PowerShell supports several profiles depending on the user or host program. For example, there can be different profiles for PowerShell host programs such as the PowerShell console, PowerShell ISE or Visual Studio Code. An administrator can also configure a profile that applies to all users and host programs on the local computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1504"
+        ]
+      },
+      "uuid": "bc9eb100-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1504 PowerShell Profile"
+    },
+	{
+      "description": "Adding an entry to the run keys in the Registry or startup folder will cause the program referenced to be executed when a user logs in. These programs will be executed under the context of the user and will have the account's associated permissions level.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1060"
+        ]
+      },
+      "uuid": "bc9eb240-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1060 Registry Run Keys and (or) Startup Folder"
+    },
+	{
+      "description": "Utilities such as at and schtasks, along with the Windows Task Scheduler, can be used to schedule programs or scripts to be executed at a date and time. A task can also be scheduled on a remote system, provided the proper authentication is met to use RPC and file and printer sharing is turned on. Scheduling a task on a remote system typically required being a member of the Administrators group on the remote system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1053"
+        ]
+      },
+      "uuid": "bc9eb376-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1053 Scheduled Task"
+    },
+	{
+      "description": "Screensavers are programs that execute after a configurable time of user inactivity and consist of Portable Executable (PE) files with a .scr file extension. The Windows screensaver application scrnsave.scr is located in C_Windows_System32_, and C_Windows_sysWOW64_ on 64-bit Windows systems, along with screensavers included with base Windows installations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1180"
+        ]
+      },
+      "uuid": "bc9eb4ac-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1180 Screensaver"
+    },
+	{
+      "description": "Windows Security Support Provider (SSP) DLLs are loaded into the Local Security Authority (LSA) process at system start. Once loaded into the LSA, SSP DLLs have access to encrypted and plaintext passwords that are stored in Windows, such as any logged-on user's Domain password or smart card PINs. The SSP configuration is stored in two Registry keys HKLM_SYSTEM_CurrentControlSet_Control_Lsa_Security Packages and HKLM_SYSTEM_CurrentControlSet_Control_Lsa_OSConfig_Security Packages. An adversary may modify these Registry keys to add new SSPs, which will be loaded the next time the system boots, or when the AddSecurityPackage Windows API function is called.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1101"
+        ]
+      },
+      "uuid": "bc9eb5e2-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1101 Security Support Provider"
+    },
+	{
+      "description": "Windows stores local service configuration information in the Registry under HKLM_SYSTEM_CurrentControlSet_Services. The information stored under a service's Registry keys can be manipulated to modify a service's execution parameters through tools such as the service controller, sc.exe, PowerShell, or Reg. Access to Registry keys is controlled through Access Control Lists and permissions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1058"
+        ]
+      },
+      "uuid": "bc9eb722-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1058 Service Registry Permissions Weakness"
+    },
+	{
+      "description": "Shortcuts or symbolic links are ways of referencing other files or programs that will be opened or executed when the shortcut is clicked or executed by a system startup process. Adversaries could use shortcuts to execute their tools for persistence. They may create a new shortcut as a means of indirection that may use Masquerading to look like a legitimate program. Adversaries could also edit the target path or entirely replace an existing shortcut so their tools will be executed instead of the intended legitimate program.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1023"
+        ]
+      },
+      "uuid": "bc9eba42-3545-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1023 Shortcut Modification"
+    },
+	{
+      "description": "In user mode, Windows Authenticode digital signatures are used to verify a file's origin and integrity, variables that may be used to establish trust in signed code (ex: a driver with a valid Microsoft signature may be handled as safe). The signature validation process is handled via the WinVerifyTrust application programming interface (API) function, which accepts an inquiry and coordinates with the appropriate trust provider, which is responsible for validating parameters of a signature.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1198"
+        ]
+      },
+      "uuid": "bda4f526-3547-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1198 SIP and Trust Provider Hijacking"
+    },
+	{
+      "description": "The BIOS (Basic Input and Output System) and The Unified Extensible Firmware Interface (UEFI) or Extensible Firmware Interface (EFI) are examples of system firmware that operate as the software interface between the operating system and hardware of a computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1019"
+        ]
+      },
+      "uuid": "bda4f788-3547-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1019 System Firmware"
+    },
+	{
+      "description": "The Windows Time service (W32Time) enables time synchronization across and within domains. W32Time time providers are responsible for retrieving time stamps from hardware and (or) network resources and outputting these values to other network clients.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1209"
+        ]
+      },
+      "uuid": "bda4f8e6-3547-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1209 Time Providers"
+    },
+	{
+      "description": "Windows Management Instrumentation (WMI) can be used to install event filters, providers, consumers, and bindings that execute code when a defined event occurs. Adversaries may use the capabilities of WMI to subscribe to an event and execute arbitrary code when that event occurs, providing persistence on a system. Adversaries may attempt to evade detection of this technique by compiling WMI scripts into Windows Management Object (MOF) files (.mof extension). Examples of events that may be subscribed to are the wall clock time or the computer's uptime. Several threat groups have reportedly used this technique to maintain persistence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1084"
+        ]
+      },
+      "uuid": "bda4fbc0-3547-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1084 Windows Management Instrumentation Event Subscription"
+    },
+	{
+      "description": "Winlogon.exe is a Windows component responsible for actions at logon and (or) logoff as well as the secure attention sequence (SAS) triggered by Ctrl-Alt-Delete. Registry entries in HKLM_Software-Wow6432Node-Microsoft_Windows NT_CurrentVersion_Winlogon_ and HKCU_Software_Microsoft_Windows NT_CurrentVersion_Winlogon_ are used to manage additional helper programs and functionalities that support Winlogon.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Persistence"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/",
+          "https://attack.mitre.org/techniques/T1004"
+        ]
+      },
+      "uuid": "bda4fd1e-3547-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1004 Winlogon Helper DLL"
+    },
+	{
       "description": "Adversaries may use more than one remote access tool with varying command and control protocols or credentialed access to remote services so they can maintain access if an access mechanism is detected or mitigated. If one type of tool is detected and blocked or removed as a response but the organization did not gain a full understanding of the adversary's tools and access, then the adversary will be able to retain access to the network. Adversaries may also attempt to gain access to Valid Accounts to use External Remote Services such as external VPNs as a way to maintain access despite interruptions to remote access tools deployed within a target network. Adversaries may also retain access through cloud-based infrastructure and applications. Use of a Web Shell is one such way to maintain access to a network through an externally accessible Web server.",
       "meta": {
 	  "kill_chain": [
