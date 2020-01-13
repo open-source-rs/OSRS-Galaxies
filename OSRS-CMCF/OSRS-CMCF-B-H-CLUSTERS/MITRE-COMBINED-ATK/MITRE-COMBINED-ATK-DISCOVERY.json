@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Adversaries may attempt to get a listing of local system or domain accounts.",
       "meta": {
 	  "kill_chain": [
@@ -18,9 +18,9 @@
         ]
       },
       "uuid": "ff349d14-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery Windows: T1087 Account Discovery"
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1087 Account Discovery"
     },
-{
+	{
       "description": "Adversaries may attempt to get a listing of local system or domain accounts.",
       "meta": {
 	  "kill_chain": [
@@ -32,9 +32,9 @@
         ]
       },
       "uuid": "ff349fc6-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery Linux: T1087 Account Discovery"
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1087 Account Discovery"
     },
-{
+	{
       "description": "An adversary may use a cloud service dashboard GUI with stolen credentials to gain useful information from an operational cloud environment, such as specific services, resources, and features. For example, the GCP Command Center can be used to view all assets, findings of potential security risks, and to run additional queries, such as finding public IP addresses and open ports. Depending on the configuration of the environment, an adversary may be able to enumerate more information via the graphical dashboard than an API. This allows the adversary to gain information without making any API requests.",
       "meta": {
 	  "kill_chain": [
@@ -46,9 +46,9 @@
         ]
       },
       "uuid": "ff34a11a-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery AWS: T1538 Cloud Service Dashboard"
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1538 Cloud Service Dashboard"
     },	  
-{
+	{
       "description": "An adversary may use a cloud service dashboard GUI with stolen credentials to gain useful information from an operational cloud environment, such as specific services, resources, and features. For example, the GCP Command Center can be used to view all assets, findings of potential security risks, and to run additional queries, such as finding public IP addresses and open ports. Depending on the configuration of the environment, an adversary may be able to enumerate more information via the graphical dashboard than an API. This allows the adversary to gain information without making any API requests.",
       "meta": {
 	  "kill_chain": [
@@ -60,9 +60,9 @@
         ]
       },
       "uuid": "ff34a4f8-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery GCP: T1538 Cloud Service Dashboard"
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1538 Cloud Service Dashboard"
     },	  	  
-	  {
+	{
       "description": "An adversary may use a cloud service dashboard GUI with stolen credentials to gain useful information from an operational cloud environment, such as specific services, resources, and features. For example, the GCP Command Center can be used to view all assets, findings of potential security risks, and to run additional queries, such as finding public IP addresses and open ports. Depending on the configuration of the environment, an adversary may be able to enumerate more information via the graphical dashboard than an API. This allows the adversary to gain information without making any API requests.",
       "meta": {
 	  "kill_chain": [
@@ -74,9 +74,79 @@
         ]
       },
       "uuid": "ff34a66a-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery Azure: T1538 Cloud Service Dashboard"
-    },		  
-{
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1538 Cloud Service Dashboard"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "f3ff2d84-363d-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1049 System Network Connections Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "f3ff300e-363d-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1049 System Network Connections Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "f3ff331a-363d-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1049 System Network Connections Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "f3ff36e4-363d-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1049 System Network Connections Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "f3ff3856-363d-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1049 System Network Connections Discovery"
+    },
+	{
       "description": "An adversary may attempt to enumerate the cloud services running on a system after gaining access. These methods can differ depending on if it's platform-as-a-service (PaaS), infrastructure-as-a-service (IaaS), or software-as-a-service (SaaS). Many different services exist throughout the various cloud providers and can include continuous integration and continuous delivery (CI or CD), Lambda Functions, Azure AD, etc. Adversaries may attempt to discover information about the services enabled throughout the environment. Pacu, an open source AWS exploitation framework, supports several methods for discovering cloud services.",
       "meta": {
 	  "kill_chain": [
@@ -88,7 +158,7 @@
         ]
       },
       "uuid": "ff34a7a0-29a0-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Discovery SaaS: T1526 Cloud Service Discovery"
+      "value": "OSRS Combined MITRE ATK Discovery: SaaS T1526 Cloud Service Discovery"
     }
 	  ],
 	"version": 1
