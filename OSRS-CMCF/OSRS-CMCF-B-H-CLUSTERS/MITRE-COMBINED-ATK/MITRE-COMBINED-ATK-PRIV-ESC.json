@@ -161,6 +161,314 @@
       "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1055 Process Injection"
     },
 	{
+      "description": "The sudo command allows a system administrator to delegate authority to give certain users (or groups of users) the ability to run some (or all) commands as root or another user while providing an audit trail of the commands and their arguments. Since sudo was made for the system administrator, it has some useful configuration features such as a timestamp_timeout that is the amount of time in minutes between instances of sudo before it will re-prompt for a password. This is because sudo has the ability to cache credentials for a period of time. Sudo creates (or touches) a file at _var_db_sudo with a timestamp of when sudo was last run to determine this timeout. Additionally, there is a tty_tickets variable that treats each new tty (terminal session) in isolation. This means that, for example, the sudo timeout of one tty will not affect another tty (you will have to type the password again).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1206"
+        ]
+      },
+      "uuid": "272a29e6-3618-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1206 Sudo Caching"
+    },
+	{
+      "description": "The sudoers file, _etc_sudoers, describes which users can run which commands and from which terminals. This also describes which commands users can run as other users or groups. This provides the idea of least privilege such that users are running in their lowest possible permissions for most of the time and only elevate to other users or permissions as needed, typically by prompting for a password. However, the sudoers file can also specify when to not prompt users for passwords.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1169"
+        ]
+      },
+      "uuid": "272a2c7a-3618-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1169 Sudo"
+    },
+	{
+      "description": "When the setuid or setgid bits are set on Linux or macOS for an application, this means that the application will run with the privileges of the owning user or group respectively . Normally an application is run in the current user’s context, regardless of which user or group owns the application. There are instances where programs need to be executed in an elevated context to function properly, but the user running them doesn’t need the elevated privileges. Instead of creating an entry in the sudoers file, which must be done by root, any user can specify the setuid or setgid flag to be set for their own applications. These bits are indicated with an s instead of an x when viewing a file's attributes via ls -l. The chmod program can set these bits with via bitmasking, chmod 4777 or via shorthand naming, chmod u+s.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1166"
+        ]
+      },
+      "uuid": "272a2dd8-3618-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Linux T1166 Setuid and Setgid"
+    },
+	{
+      "description": "Windows contains accessibility features that may be launched with a key combination before a user has logged in (for example, when the user is on the Windows logon screen). An adversary can modify the way these programs are launched to get a command prompt or backdoor without logging in to the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1015"
+        ]
+      },
+      "uuid": "18e33368-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1015 Accessibility Features"
+    },
+	{
+      "description": "Dynamic-link libraries (DLLs) that are specified in the AppCertDLLs Registry key under HKEY_LOCAL_MACHINE_System_CurrentControlSet_Control_Session Manager are loaded into every process that calls the ubiquitously used application programming interface (API) functions CreateProcess, CreateProcessAsUser, CreateProcessWithLoginW, CreateProcessWithTokenW, or WinExec.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1182"
+        ]
+      },
+      "uuid": "18e33638-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1182 AppCert DLLs"
+    },
+	{
+      "description": "Dynamic-link libraries (DLLs) that are specified in the AppInit_DLLs value in the Registry keys HKEY_LOCAL_MACHINE_Software_Microsoft_Windows NT_CurrentVersion_Windows or HKEY_LOCAL_MACHINE_Software_Wow6432Node_Microsoft_Windows NT_CurrentVersion_Windows are loaded by user32.dll into every process that loads user32.dll. In practice this is nearly every program, since user32.dll is a very common library. Similar to Process Injection, these values can be abused to obtain persistence and privilege escalation by causing a malicious DLL to be loaded and run in the context of separate processes on the computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1103"
+        ]
+      },
+      "uuid": "18e33a2a-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1103 AppInit DLLs"
+    },
+	{
+      "description": "The Microsoft Windows Application Compatibility Infrastructure and (or) Framework (Application Shim) was created to allow for backward compatibility of software as the operating system codebase changes over time. For example, the application shimming feature allows developers to apply fixes to applications (without rewriting code) that were created for Windows XP so that it will work with Windows 10. Within the framework, shims are created to act as a buffer between the program (or more specifically, the Import Address Table) and the Windows OS. When a program is executed, the shim cache is referenced to determine if the program requires the use of the shim database (.sdb). If so, the shim database uses Hooking to redirect the code as necessary in order to communicate with the OS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1138"
+        ]
+      },
+      "uuid": "18e33b88-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1138 Application Shimming"
+    },
+	{
+      "description": "Windows User Account Control (UAC) allows a program to elevate its privileges to perform a task under administrator-level permissions by prompting the user for confirmation. The impact to the user ranges from denying the operation under high enforcement to allowing the user to perform the action if they are in the local administrators group and click through the prompt or allowing them to enter an administrator password to complete the action.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1088"
+        ]
+      },
+      "uuid": "18e33cc8-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1088 Bypass User Account Control"
+    },
+	{
+      "description": "Windows systems use a common method to look for required DLLs to load into a program. Adversaries may take advantage of the Windows DLL search order and programs that ambiguously specify DLLs to gain privilege escalation and persistence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1038"
+        ]
+      },
+      "uuid": "18e33dfe-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1038 DLL Search Order Hijacking"
+    },
+	{
+      "description": "Exploitation of a software vulnerability occurs when an adversary takes advantage of a programming error in a program, service, or within the operating system software or kernel itself to execute adversary-controlled code. Security constructs such as permission levels will often hinder access to information and use of certain techniques, so adversaries will likely need to perform Privilege Escalation to include use of software exploitation to circumvent those restrictions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1068"
+        ]
+      },
+      "uuid": "18e33f34-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1068 Exploitation for Privilege Escalation"
+    },
+	{
+      "description": "Before creating a window, graphical Windows-based processes must prescribe to or register a windows class, which stipulate appearance and behavior via windows procedures, which are functions that handle input and (or) output of data. Registration of new windows classes can include a request for up to 40 bytes of extra window memory (EWM) to be appended to the allocated memory of each instance of that class. This EWM is intended to store data specific to that window and has specific application programming interface (API) functions to set and get its value.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1181"
+        ]
+      },
+      "uuid": "18e342a4-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1181 Extra Window Memory Injection"
+    },
+	{
+      "description": "Processes may automatically execute specific binaries as part of their functionality or to perform other actions. If the permissions on the file system directory containing a target binary, or permissions on the binary itself, are improperly set, then the target binary may be overwritten with another binary using user-level permissions and executed by the original process. If the original process and thread are running under a higher permissions level, then the replaced binary will also execute under higher-level permissions, which could include SYSTEM.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1044"
+        ]
+      },
+      "uuid": "18e34628-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1044 File System Permissions Weakness"
+    },
+	{
+      "description": "Windows processes often leverage application programming interface (API) functions to perform tasks that require reusable system resources. Windows API functions are typically stored in dynamic-link libraries (DLLs) as exported functions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1179"
+        ]
+      },
+      "uuid": "18e3477c-3619-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1179 Hooking"
+    },
+	{
+      "description": "Image File Execution Options (IFEO) enable a developer to attach a debugger to an application. When a process is created, a debugger present in an application’s IFEO will be prepended to the application’s name, effectively launching the new process under the debugger (e.g., C_dbg_ntsd.exe -g notepad.exe).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1183"
+        ]
+      },
+      "uuid": "eec186e6-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1183 Image File Execution Options Injection"
+    },
+	{
+      "description": "When operating systems boot up, they can start programs or applications called services that perform background system functions. A service's configuration information, including the file path to the service's executable, is stored in the Windows Registry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1050"
+        ]
+      },
+      "uuid": "eec18baa-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1050 New Service"
+    },
+	{
+      "description": "Adversaries may spoof the parent process identifier (PPID) of a new process to evade process-monitoring defenses or to elevate privileges. New processes are typically spawned directly from their parent, or calling, process unless explicitly specified. One way of explicitly assigning the PPID of a new process is via the CreateProcess API call, which supports a parameter that defines the PPID to use. This functionality is used by Windows features such as User Account Control (UAC) to correctly set the PPID after a requested elevated process is spawned by SYSTEM (typically via svchost.exe or consent.exe) rather than the current user context.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1502"
+        ]
+      },
+      "uuid": "eec18d3a-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1502 Parent PID Spoofing"
+    },
+	{
+      "description": "Path interception occurs when an executable is placed in a specific path so that it is executed by an application instead of the intended target. One example of this was the use of a copy of cmd in the current working directory of a vulnerable application that loads a CMD or BAT file with the CreateProcess function.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1034"
+        ]
+      },
+      "uuid": "eec18e7a-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1034 Path Interception"
+    },
+	{
+      "description": "A port monitor can be set through the API call to set a DLL to be loaded at startup. This DLL can be located in C_Windows_System32 and will be loaded by the print spooler service, spoolsv.exe, on boot. The spoolsv.exe process also runs under SYSTEM level permissions. Alternatively, an arbitrary DLL can be loaded if permissions allow writing a fully-qualified pathname for that DLL to HKLM_SYSTEM_CurrentControlSet_Control_Print_Monitors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1013"
+        ]
+      },
+      "uuid": "eec18fba-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1013 Port Monitors"
+    },
+	{
+      "description": "Adversaries may gain persistence and elevate privileges in certain situations by abusing PowerShell profiles. A PowerShell profile (profile.ps1) is a script that runs when PowerShell starts and can be used as a logon script to customize user environments. PowerShell supports several profiles depending on the user or host program. For example, there can be different profiles for PowerShell host programs such as the PowerShell console, PowerShell ISE or Visual Studio Code. An administrator can also configure a profile that applies to all users and host programs on the local computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1504"
+        ]
+      },
+      "uuid": "eec194c4-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1504 PowerShell Profile"
+    },
+	{
+      "description": "Utilities such as at and schtasks, along with the Windows Task Scheduler, can be used to schedule programs or scripts to be executed at a date and time. A task can also be scheduled on a remote system, provided the proper authentication is met to use RPC and file and printer sharing is turned on. Scheduling a task on a remote system typically required being a member of the Administrators group on the remote system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1053"
+        ]
+      },
+      "uuid": "eec1960e-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1053 Scheduled Task"
+    },
+	{
+      "description": "Windows stores local service configuration information in the Registry under HKLM_SYSTEM_CurrentControlSet_Services. The information stored under a service's Registry keys can be manipulated to modify a service's execution parameters through tools such as the service controller, sc.exe, PowerShell, or Reg. Access to Registry keys is controlled through Access Control Lists and permissions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1058"
+        ]
+      },
+      "uuid": "eec1974e-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1058 Service Registry Permissions Weakness"
+    },
+	{
+      "description": "The Windows security identifier (SID) is a unique value that identifies a user or group account. SIDs are used by Windows security in both security descriptors and access tokens. An account can hold additional SIDs in the SID-History Active Directory attribute , allowing inter-operable account migration between domains (e.g., all values in SID-History are included in access tokens).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Privilege Escalation"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/",
+          "https://attack.mitre.org/techniques/T1178"
+        ]
+      },
+      "uuid": "eec19a50-361a-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Privilege Escalation: Windows T1178 SID-History Injection"
+    },
+	{
       "description": "Adversaries may steal the credentials of a specific user or service account using Credential Access techniques or capture credentials earlier in their reconnaissance process through social engineering for means of gaining Initial Access. Accounts that an adversary may use can fall into three categories - default, local, and domain accounts. Default accounts are those that are built-into an OS such as Guest or Administrator account on Windows systems or default factory/provider set accounts on other types of systems, software, or devices. Local accounts are those configured by an organization for use by users, remote support, services, or for administration on a single system or service. Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. Domain accounts can cover users, administrators, and services. Compromised credentials may be used to bypass access controls placed on various resources on systems within the network and may even be used for persistent access to remote systems and externally available services, such as VPNs, Outlook Web Access and remote desktop. Compromised credentials may also grant an adversary increased privilege to specific systems or access to restricted areas of the network. Adversaries may choose not to use malware or tools in conjunction with the legitimate access those credentials provide to make it harder to detect their presence. Default accounts are also not limited to Guest and Administrator on client machines, they also include accounts that are preset for equipment such as network devices and computer applications whether they are internal, open source, or COTS. Appliances that come preset with a username and password combination pose a serious threat to organizations that do not change it post installation, as they are easy targets for an adversary. Similarly, adversaries may also utilize publicly disclosed private keys, or stolen private keys, to legitimately connect to remote environments via Remote Services. The overlap of account access, credentials, and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator) to bypass access controls set within the enterprise.",
       "meta": {
 	  "kill_chain": [
