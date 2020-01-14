@@ -147,6 +147,650 @@
       "value": "OSRS Combined MITRE ATK Discovery: Azure T1049 System Network Connections Discovery"
     },
 	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "7a102dac-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1082 System Information Discovery"
+    },
+	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "7a103220-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1082 System Information Discovery"
+    },
+	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "7a10339c-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1082 System Information Discovery"
+    },
+	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "7a1034dc-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1082 System Information Discovery"
+    },
+	{
+      "description": "An adversary may attempt to get detailed information about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture. Adversaries may use the information from System Information Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1082"
+        ]
+      },
+      "uuid": "7a10361c-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1082 System Information Discovery"
+    },	
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "fd520730-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1018 Remote System Discovery"
+    },
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "fd5209b0-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1018 Remote System Discovery"
+    },
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "fd520b0e-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1018 Remote System Discovery"
+    },
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "fd520c4e-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1018 Remote System Discovery"
+    },
+	{
+      "description": "Adversaries will likely attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for Lateral Movement from the current system. Functionality could exist within remote access tools to enable this, but utilities available on the operating system could also be used. Adversaries may also use local host files in order to discover the hostname to IP address mappings of remote systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1018"
+        ]
+      },
+      "uuid": "fd520d8e-36d8-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1018 Remote System Discovery"
+    },	
+	{
+      "description": "Networks often contain shared network drives and folders that enable users to access file directories on various systems across a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1135"
+        ]
+      },
+      "uuid": "7f449262-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1135 Network Share Discovery"
+    },
+	{
+      "description": "Networks often contain shared network drives and folders that enable users to access file directories on various systems across a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1135"
+        ]
+      },
+      "uuid": "7f4496a4-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1135 Network Share Discovery"
+    },
+	{
+      "description": "Networks often contain shared network drives and folders that enable users to access file directories on various systems across a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1135"
+        ]
+      },
+      "uuid": "7f449816-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1135 Network Share Discovery"
+    },
+	{
+      "description": "Networks often contain shared network drives and folders that enable users to access file directories on various systems across a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1135"
+        ]
+      },
+      "uuid": "7f449956-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1135 Network Share Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "dd8de472-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1046 Network Service Scanning"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "dd8de864-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1046 Network Service Scanning"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "dd8de9e0-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: AWS T1046 Network Service Scanning"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "dd8deb20-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: GCP T1046 Network Service Scanning"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation. Methods to acquire this information include port scans and vulnerability scans using tools that are brought onto a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1046"
+        ]
+      },
+      "uuid": "dd8dec60-36d9-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Azure T1046 Network Service Scanning"
+    },
+	{
+      "description": "Adversaries may attempt to identify the primary user, currently logged in user, set of users that commonly uses a system, or whether a user is actively using the system. They may do this, for example, by retrieving account usernames or by using Credential Dumping. The information may be collected in a number of different ways using other Discovery techniques, because user and username details are prevalent throughout a system and include running process ownership, file and (or) directory ownership, session information, and system logs. Adversaries may use the information from System Owner and (or) User Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1033"
+        ]
+      },
+      "uuid": "60f564e8-36da-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1033 System Owner and (or) User Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to identify the primary user, currently logged in user, set of users that commonly uses a system, or whether a user is actively using the system. They may do this, for example, by retrieving account usernames or by using Credential Dumping. The information may be collected in a number of different ways using other Discovery techniques, because user and username details are prevalent throughout a system and include running process ownership, file and (or) directory ownership, session information, and system logs. Adversaries may use the information from System Owner and (or) User Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1033"
+        ]
+      },
+      "uuid": "60f56b50-36da-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1033 System Owner and (or) User Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of network connections to or from the compromised system they are currently accessing or from remote systems by querying for information over the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1049"
+        ]
+      },
+      "uuid": "60f57398-36da-11ea-aec2-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1049 System Network Connections Discovery"
+    },
+	{
+      "description": "Adversaries will likely look for details about the network configuration and settings of systems they access or through information discovery of remote systems. Several operating system administration utilities exist that can be used to gather this information. Examples include Arp, ipconfig, ifconfig, nbtstat, and route.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1016"
+        ]
+      },
+      "uuid": "f15819b8-36da-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1016 System Network Configuration Discovery"
+    },
+	{
+      "description": "Adversaries will likely look for details about the network configuration and settings of systems they access or through information discovery of remote systems. Several operating system administration utilities exist that can be used to gather this information. Examples include Arp, ipconfig, ifconfig, nbtstat, and route.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1016"
+        ]
+      },
+      "uuid": "f1581cc4-36da-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1016 System Network Configuration Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of non-security related software that is installed on the system. Adversaries may use the information from Software Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1518"
+        ]
+      },
+      "uuid": "f1581e36-36da-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1518 Software Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of non-security related software that is installed on the system. Adversaries may use the information from Software Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1518"
+        ]
+      },
+      "uuid": "f15821ba-36da-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1518 Software Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get information about running processes on a system. Information obtained could be used to gain an understanding of common software running on systems within the network. Adversaries may use the information from Process Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1057"
+        ]
+      },
+      "uuid": "77897c5c-36db-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1057 Process Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get information about running processes on a system. Information obtained could be used to gain an understanding of common software running on systems within the network. Adversaries may use the information from Process Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1057"
+        ]
+      },
+      "uuid": "77897ebe-36db-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1057 Process Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to find local system or domain-level groups and permissions settings.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1069"
+        ]
+      },
+      "uuid": "7789c5a4-36db-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1069 Permission Groups Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to find local system or domain-level groups and permissions settings.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1069"
+        ]
+      },
+      "uuid": "7789c7f2-36db-11ea-850d-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1069 Permission Groups Discovery"
+    },
+	{
+      "description": "Password policies for networks are a way to enforce complex passwords that are difficult to guess or crack through Brute Force. An adversary may attempt to access detailed information about the password policy used within an enterprise network. This would help the adversary to create a list of common passwords and launch dictionary and (or) brute force attacks which adheres to the policy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1201"
+        ]
+      },
+      "uuid": "f71c8630-36db-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1201 Password Policy Discovery"
+    },
+	{
+      "description": "Password policies for networks are a way to enforce complex passwords that are difficult to guess or crack through Brute Force. An adversary may attempt to access detailed information about the password policy used within an enterprise network. This would help the adversary to create a list of common passwords and launch dictionary and (or) brute force attacks which adheres to the policy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1201"
+        ]
+      },
+      "uuid": "f71c8982-36db-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1201 Password Policy Discovery"
+    },
+	{
+      "description": "Network sniffing refers to using the network interface on a system to monitor or capture information sent over a wired or wireless connection. An adversary may place a network interface into promiscuous mode to passively access data in transit over the network, or use span ports to capture a larger amount of data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1040"
+        ]
+      },
+      "uuid": "f71c8cf2-36db-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1040 Network Sniffing"
+    },
+	{
+      "description": "Network sniffing refers to using the network interface on a system to monitor or capture information sent over a wired or wireless connection. An adversary may place a network interface into promiscuous mode to passively access data in transit over the network, or use span ports to capture a larger amount of data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1040"
+        ]
+      },
+      "uuid": "f71c8e5a-36db-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1040 Network Sniffing"
+    },
+	{
+      "description": "Adversaries may enumerate files and directories or may search in specific locations of a host or network share for certain information within a file system. Adversaries may use the information from File and Directory Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1083"
+        ]
+      },
+      "uuid": "bdffe90e-36dc-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1083 File and Directory Discovery"
+    },
+	{
+      "description": "Adversaries may enumerate files and directories or may search in specific locations of a host or network share for certain information within a file system. Adversaries may use the information from File and Directory Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1083"
+        ]
+      },
+      "uuid": "bdffed6e-36dc-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1083 File and Directory Discovery"
+    },
+	{
+      "description": "Adversaries may enumerate browser bookmarks to learn more about compromised hosts. Browser bookmarks may reveal personal information about users (example, banking sites, interests, social media, etc.) as well as details about internal network resources such as servers, tools, dashboards, or other related infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1217"
+        ]
+      },
+      "uuid": "bdffeefe-36dc-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1217 Browser Bookmark Discovery"
+    },
+	{
+      "description": "Adversaries may enumerate browser bookmarks to learn more about compromised hosts. Browser bookmarks may reveal personal information about users (example, banking sites, interests, social media, etc.) as well as details about internal network resources such as servers, tools, dashboards, or other related infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1217"
+        ]
+      },
+      "uuid": "bdfff048-36dc-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Linux T1217 Browser Bookmark Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of open application windows. Window listings could convey information about how the system is used or give context to information collected by a keylogger.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1010"
+        ]
+      },
+      "uuid": "1c412568-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1010 Application Window Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to gather information on domain trust relationships that may be used to identify Lateral Movement opportunities in Windows multi-domain and (or) forest environments. Domain trusts provide a mechanism for a domain to allow access to resources based on the authentication procedures of another domain. Domain trusts allow the users of the trusted domain to access resources in the trusting domain. The information discovered may help the adversary conduct SID-History Injection, Pass the Ticket, and Kerberoasting. Domain trusts can be enumerated using the DSEnumerateDomainTrusts() Win32 API call, .NET methods, and LDAP. The Windows utility Nltest is known to be used by adversaries to enumerate domain trusts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1482"
+        ]
+      },
+      "uuid": "1c4129e6-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1482 Domain Trust Discovery"
+    },
+	{
+      "description": "Adversaries may attempt to gather information about attached peripheral devices and components connected to a computer system. The information may be used to enhance their awareness of the system and network environment or may be used for further actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1120"
+        ]
+      },
+      "uuid": "1c412b6c-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1120 Peripheral Device Discovery"
+    },
+	{
+      "description": "Adversaries may interact with the Windows Registry to gather information about the system, configuration, and installed software.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1012"
+        ]
+      },
+      "uuid": "1c412cb6-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1012 Query Registry"
+    },
+	{
+      "description": "Adversaries may attempt to get a listing of security software, configurations, defensive tools, and sensors that are installed on the system. This may include things such as local firewall rules and anti-virus. Adversaries may use the information from Security Software Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1063"
+        ]
+      },
+      "uuid": "1c412df6-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1063 Security Software Discovery"
+    },
+	{
+      "description": "Adversaries may try to get information about registered services. Adversaries may use the information from System Service Discovery during automated discovery to shape follow-on behaviors, including whether or not the adversary fully infects the target and (or) attempts specific actions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1007"
+        ]
+      },
+      "uuid": "1c412f2c-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1007 System Service Discovery"
+    },
+	{
+      "description": "The system time is set and stored by the Windows Time Service within a domain to maintain time synchronization between systems and services in an enterprise network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1124"
+        ]
+      },
+      "uuid": "1c413058-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1124 System Time Discovery"
+    },
+	{
+      "description": "Adversaries may check for the presence of a virtual machine environment (VME) or sandbox to avoid potential detection of tools and activities. If the adversary detects a VME, they may alter their malware to conceal the core functions of the implant or disengage from the victim. They may also search for VME artifacts before dropping secondary or additional payloads. Adversaries may use the information from learned from Virtualization and (or) Sandbox Evasion during automated discovery to shape follow-on behaviors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Discovery"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0007/",
+          "https://attack.mitre.org/techniques/T1497"
+        ]
+      },
+      "uuid": "1c41318e-36de-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Discovery: Windows T1497 Virtualization and (or) Sandbox Evasion"
+    },
+	{
       "description": "An adversary may attempt to enumerate the cloud services running on a system after gaining access. These methods can differ depending on if it's platform-as-a-service (PaaS), infrastructure-as-a-service (IaaS), or software-as-a-service (SaaS). Many different services exist throughout the various cloud providers and can include continuous integration and continuous delivery (CI or CD), Lambda Functions, Azure AD, etc. Adversaries may attempt to discover information about the services enabled throughout the environment. Pacu, an open source AWS exploitation framework, supports several methods for discovering cloud services.",
       "meta": {
 	  "kill_chain": [
