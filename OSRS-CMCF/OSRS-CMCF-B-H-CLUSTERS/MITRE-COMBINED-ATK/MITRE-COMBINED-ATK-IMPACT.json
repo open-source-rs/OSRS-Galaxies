@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Adversaries may interrupt availability of system and network resources by inhibiting access to accounts utilized by legitimate users. Accounts may be deleted, locked, or manipulated (ex: changed credentials) to remove access to accounts.",
       "meta": {
 	  "kill_chain": [
@@ -18,9 +18,9 @@
         ]
       },
       "uuid": "01e37a32-29ae-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Impact Windows: T1531 Account Access Removal"
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1531 Account Access Removal"
     },
-{
+	{
       "description": "Adversaries may interrupt availability of system and network resources by inhibiting access to accounts utilized by legitimate users. Accounts may be deleted, locked, or manipulated (ex: changed credentials) to remove access to accounts.",
       "meta": {
 	  "kill_chain": [
@@ -32,9 +32,9 @@
         ]
       },
       "uuid": "01e37e24-29ae-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Impact Linux: T1531 Account Access Removal"
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1531 Account Access Removal"
     },
-{
+	{
       "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
       "meta": {
 	  "kill_chain": [
@@ -46,9 +46,9 @@
         ]
       },
       "uuid": "01e37fa0-29ae-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Impact AWS: T1496 Resource Hijacking"
+      "value": "OSRS Combined MITRE ATK Impact: AWS T1496 Resource Hijacking"
     },	  
-{
+	{
       "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
       "meta": {
 	  "kill_chain": [
@@ -60,9 +60,415 @@
         ]
       },
       "uuid": "01e3831a-29ae-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Impact GCP: T1496 Resource Hijacking"
-    },	  	  
-	  {
+      "value": "OSRS Combined MITRE ATK Impact: GCP T1496 Resource Hijacking"
+    },
+	{
+      "description": "Adversaries may alter data en route to storage or other systems in order to manipulate external outcomes or hide activity. By manipulating transmitted data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1493"
+        ]
+      },
+      "uuid": "547e7d20-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1493 Transmitted Data Manipulation"
+    },
+	{
+      "description": "Adversaries may alter data en route to storage or other systems in order to manipulate external outcomes or hide activity. By manipulating transmitted data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1493"
+        ]
+      },
+      "uuid": "547e7faa-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1493 Transmitted Data Manipulation"
+    },
+	{
+      "description": "Adversaries may shutdown or reboot systems to interrupt access to, or aid in the destruction of, those systems. Operating systems may contain commands to initiate a shutdown or reboot of a machine. In some cases, these commands may also be used to initiate a shutdown or reboot of a remote computer. Shutting down or rebooting systems may disrupt access to computer resources for legitimate users.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1529"
+        ]
+      },
+      "uuid": "547e8112-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1529 System Shutdown or Reboot"
+    },
+	{
+      "description": "Adversaries may shutdown or reboot systems to interrupt access to, or aid in the destruction of, those systems. Operating systems may contain commands to initiate a shutdown or reboot of a machine. In some cases, these commands may also be used to initiate a shutdown or reboot of a remote computer. Shutting down or rebooting systems may disrupt access to computer resources for legitimate users.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1529"
+        ]
+      },
+      "uuid": "547e8252-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1529 System Shutdown or Reboot"
+    },
+	{
+      "description": "Adversaries may insert, delete, or manipulate data at rest in order to manipulate external outcomes or hide activity. By manipulating stored data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1492"
+        ]
+      },
+      "uuid": "547e8392-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1492 Stored Data Manipulation"
+    },
+	{
+      "description": "Adversaries may insert, delete, or manipulate data at rest in order to manipulate external outcomes or hide activity. By manipulating stored data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1492"
+        ]
+      },
+      "uuid": "547e84d2-37a3-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1492 Stored Data Manipulation"
+    },
+	{
+      "description": "Adversaries may modify systems in order to manipulate the data as it is accessed and displayed to an end user. By manipulating runtime data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1494"
+        ]
+      },
+      "uuid": "41e57adc-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1494 Runtime Data Manipulation"
+    },
+	{
+      "description": "Adversaries may modify systems in order to manipulate the data as it is accessed and displayed to an end user. By manipulating runtime data, adversaries may attempt to affect a business process, organizational understanding, and decision making.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1494"
+        ]
+      },
+      "uuid": "41e57f96-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1494 Runtime Data Manipulation"
+    },
+	{
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and (or) hosted service availability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1496"
+        ]
+      },
+      "uuid": "41e58108-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1496 Resource Hijacking"
+    },
+	{
+      "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and (or) hosted service availability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1496"
+        ]
+      },
+      "uuid": "41e58360-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1496 Resource Hijacking"
+    },
+	{
+      "description": "Adversaries may perform Network Denial of Service (DoS) attacks to degrade or block the availability of targeted resources to users. Network DoS can be performed by exhausting the network bandwidth services rely on. Example resources include specific websites, email services, DNS, and web-based applications. Adversaries have been observed conducting network DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1498"
+        ]
+      },
+      "uuid": "41e585ea-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1498 Network Denial of Service"
+    },
+	{
+      "description": "Adversaries may perform Network Denial of Service (DoS) attacks to degrade or block the availability of targeted resources to users. Network DoS can be performed by exhausting the network bandwidth services rely on. Example resources include specific websites, email services, DNS, and web-based applications. Adversaries have been observed conducting network DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1498"
+        ]
+      },
+      "uuid": "41e58748-37a4-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1498 Network Denial of Service"
+    },
+	{
+      "description": "Adversaries may delete or remove built-in operating system data and turn off services designed to aid in the recovery of a corrupted system to prevent recovery. Operating systems may contain features that can help fix corrupted systems, such as a backup catalog, volume shadow copies, and automatic repair features. Adversaries may disable or delete system recovery features to augment the effects of Data Destruction and Data Encrypted for Impact.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1490"
+        ]
+      },
+      "uuid": "02179da8-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1490 Inhibit System Recovery"
+    },
+	{
+      "description": "Adversaries may delete or remove built-in operating system data and turn off services designed to aid in the recovery of a corrupted system to prevent recovery. Operating systems may contain features that can help fix corrupted systems, such as a backup catalog, volume shadow copies, and automatic repair features. Adversaries may disable or delete system recovery features to augment the effects of Data Destruction and Data Encrypted for Impact.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1490"
+        ]
+      },
+      "uuid": "0217a05a-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1490 Inhibit System Recovery"
+    },
+	{
+      "description": "Adversaries may overwrite or corrupt the flash memory contents of system BIOS or other firmware in devices attached to a system in order to render them inoperable or unable to boot. Firmware is software that is loaded and executed from non-volatile memory on hardware devices in order to initialize and manage device functionality. These devices could include the motherboard, hard drive, or video cards.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1495"
+        ]
+      },
+      "uuid": "0217a64a-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1495 Firmware Corruption"
+    },
+	{
+      "description": "Adversaries may overwrite or corrupt the flash memory contents of system BIOS or other firmware in devices attached to a system in order to render them inoperable or unable to boot. Firmware is software that is loaded and executed from non-volatile memory on hardware devices in order to initialize and manage device functionality. These devices could include the motherboard, hard drive, or video cards.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1495"
+        ]
+      },
+      "uuid": "0217a82a-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1495 Firmware Corruption"
+    },
+	{
+      "description": "Adversaries may perform Endpoint Denial of Service (DoS) attacks to degrade or block the availability of services to users. Endpoint DoS can be performed by exhausting the system resources those services are hosted on or exploiting the system to cause a persistent crash condition. Example services include websites, email services, DNS, and web-based applications. Adversaries have been observed conducting DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1499"
+        ]
+      },
+      "uuid": "0217a974-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1499 Endpoint Denial of Service"
+    },
+	{
+      "description": "Adversaries may perform Endpoint Denial of Service (DoS) attacks to degrade or block the availability of services to users. Endpoint DoS can be performed by exhausting the system resources those services are hosted on or exploiting the system to cause a persistent crash condition. Example services include websites, email services, DNS, and web-based applications. Adversaries have been observed conducting DoS attacks for political purposes and to support other malicious activities, including distraction, hacktivism, and extortion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1499"
+        ]
+      },
+      "uuid": "0217aab4-37a5-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1499 Endpoint Denial of Service"
+    },
+	{
+      "description": "Adversaries may corrupt or wipe the disk data structures on hard drive necessary to boot systems; targeting specific critical systems as well as a large number of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1487"
+        ]
+      },
+      "uuid": "a1ae3836-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1487 Disk Structure Wipe"
+    },
+	{
+      "description": "Adversaries may corrupt or wipe the disk data structures on hard drive necessary to boot systems; targeting specific critical systems as well as a large number of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1487"
+        ]
+      },
+      "uuid": "a1ae3aca-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1487 Disk Structure Wipe"
+    },
+	{
+      "description": "Adversaries may erase the contents of storage devices on specific systems as well as large numbers of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1488"
+        ]
+      },
+      "uuid": "a1ae3ebc-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1488 Disk Content Wipe"
+    },
+	{
+      "description": "Adversaries may erase the contents of storage devices on specific systems as well as large numbers of systems in a network to interrupt availability to system and network resources.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1488"
+        ]
+      },
+      "uuid": "a1ae404c-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1488 Disk Content Wipe"
+    },
+	{
+      "description": "Adversaries may modify visual content available internally or externally to an enterprise network. Reasons for Defacement include delivering messaging, intimidation, or claiming (possibly false) credit for an intrusion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1491"
+        ]
+      },
+      "uuid": "a1ae4196-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1491 Defacement"
+    },
+	{
+      "description": "Adversaries may modify visual content available internally or externally to an enterprise network. Reasons for Defacement include delivering messaging, intimidation, or claiming (possibly false) credit for an intrusion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1491"
+        ]
+      },
+      "uuid": "a1ae42d6-37aa-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1491 Defacement"
+    },
+	{
+      "description": "Adversaries may encrypt data on target systems or on large numbers of systems in a network to interrupt availability to system and network resources. They can attempt to render stored data inaccessible by encrypting files or data on local and remote drives and withholding access to a decryption key. This may be done in order to extract monetary compensation from a victim in exchange for decryption or a decryption key (ransomware) or to render data permanently inaccessible in cases where the key is not saved or transmitted. In the case of ransomware, it is typical that common user files like Office documents, PDFs, images, videos, audio, text, and source code files will be encrypted. In some cases, adversaries may encrypt critical system files, disk partitions, and the MBR.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1486"
+        ]
+      },
+      "uuid": "6eeea6dc-37ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1486 Data Encrypted for Impact"
+    },
+	{
+      "description": "Adversaries may encrypt data on target systems or on large numbers of systems in a network to interrupt availability to system and network resources. They can attempt to render stored data inaccessible by encrypting files or data on local and remote drives and withholding access to a decryption key. This may be done in order to extract monetary compensation from a victim in exchange for decryption or a decryption key (ransomware) or to render data permanently inaccessible in cases where the key is not saved or transmitted. In the case of ransomware, it is typical that common user files like Office documents, PDFs, images, videos, audio, text, and source code files will be encrypted. In some cases, adversaries may encrypt critical system files, disk partitions, and the MBR.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1486"
+        ]
+      },
+      "uuid": "6eeea95c-37ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1486 Data Encrypted for Impact"
+    },
+	{
+      "description": "Adversaries may destroy data and files on specific systems or in large numbers on a network to interrupt availability to systems, services, and network resources. Data destruction is likely to render stored data irrecoverable by forensic techniques through overwriting files or data on local and remote drives. Common operating system file deletion commands such as del and rm often only remove pointers to files without wiping the contents of the files themselves, making the files recoverable by proper forensic methodology. This behavior is distinct from Disk Content Wipe and Disk Structure Wipe because individual files are destroyed rather than sections of a storage disk or the disk's logical structure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1485"
+        ]
+      },
+      "uuid": "6eeeaac4-37ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1485 Data Destruction"
+    },
+	{
+      "description": "Adversaries may destroy data and files on specific systems or in large numbers on a network to interrupt availability to systems, services, and network resources. Data destruction is likely to render stored data irrecoverable by forensic techniques through overwriting files or data on local and remote drives. Common operating system file deletion commands such as del and rm often only remove pointers to files without wiping the contents of the files themselves, making the files recoverable by proper forensic methodology. This behavior is distinct from Disk Content Wipe and Disk Structure Wipe because individual files are destroyed rather than sections of a storage disk or the disk's logical structure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1485"
+        ]
+      },
+      "uuid": "6eeeac0e-37ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Linux T1485 Data Destruction"
+    },
+	{
+      "description": "Adversaries may stop or disable services on a system to render those services unavailable to legitimate users. Stopping critical services can inhibit or stop response to an incident or aid in the adversary's overall objectives to cause damage to the environment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-combined-mitre-atk:Impact"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0040/",
+          "https://attack.mitre.org/techniques/T1489"
+        ]
+      },
+      "uuid": "ff2d7746-37ab-11ea-978f-2e728ce88125",
+      "value": "OSRS Combined MITRE ATK Impact: Windows T1489 Service Stop"
+    },
+	{
       "description": "Adversaries may leverage the resources of co-opted systems in order to solve resource intensive problems which may impact system and/or hosted service availability. One common purpose for Resource Hijacking is to validate transactions of cryptocurrency networks and earn virtual currency. Adversaries may consume enough system resources to negatively impact and (or) cause affected machines to become unresponsive. Servers and cloud-based systems are common targets because of the high potential for available resources, but user endpoint systems may also be compromised and used for Resource Hijacking and cryptocurrency mining.",
       "meta": {
 	  "kill_chain": [
@@ -74,7 +480,7 @@
         ]
       },
       "uuid": "01e3852c-29ae-11ea-978f-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Impact Azure: T1496 Resource Hijacking"
+      "value": "OSRS Combined MITRE ATK Impact: Azure T1496 Resource Hijacking"
     }		  
 	  ],
 	"version": 1
