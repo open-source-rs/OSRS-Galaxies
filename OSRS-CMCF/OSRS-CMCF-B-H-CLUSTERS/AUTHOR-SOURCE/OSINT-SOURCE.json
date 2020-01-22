@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Network Security Research Lab at 360. Security visibility through big data.",
       "meta": {
 	  "kill_chain": [
@@ -613,6 +613,818 @@
       },
       "uuid": "460db7f8-2b3f-11ea-978f-2e728ce88125",
       "value": "OSRS OSINT Source: Have I Been Pwned"
+    },
+	{
+      "description": "Stay on top of the latest threat research, information on in-the-wild cyber attacks and cyber operations from Juniper Threat Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://forums.juniper.net/t5/Threat-Research/bg-p/threatresearch"
+        ]
+      },
+      "uuid": "3f310810-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Juniper Threat Research"
+    },
+	{
+      "description": "NBC affiliated news station covering Bakersfield, CA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.kget.com/"
+        ]
+      },
+      "uuid": "3f310b9e-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: KGET.com"
+    },
+	{
+      "description": "CBS affiliated news station covering the San Fransisco Bay Area, CA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://sanfrancisco.cbslocal.com/"
+        ]
+      },
+      "uuid": "3f310ce8-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: KPIX5 SF Bay Area"
+    },
+	{
+      "description": "NPR affiliated news station in Austin, TX.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.kut.org/"
+        ]
+      },
+      "uuid": "3f310ef0-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: KUT 90.5"
+    },
+	{
+      "description": "Intelligence blog affiliated with the cybersecurity vendor Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://securelist.com"
+        ]
+      },
+      "uuid": "3f311152-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Kaspersky Research"
+    },
+	{
+      "description": "Cybersecurity journalist. Brian Krebs worked as a reporter for The Washington Post from 1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as well as hundreds of stories for washingtonpost.com and The Washington Post newspaper, including eight front-page stories in the dead-tree edition and a Post Magazine cover piece on botnet operators. In 2014, he was profiled in The New York Times, Business Week, NPR’s Terry Gross, and by Poynter.org. More recently, he was invited to an Ask Me Anything discussion on Reddit about investigative reporting.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://krebsonsecurity.com"
+        ]
+      },
+      "uuid": "3f3112a6-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Krebs On Security"
+    },
+	{
+      "description": "Cybersecurity vendor that specializes in threat intelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.kryptoslogic.com/blog/"
+        ]
+      },
+      "uuid": "3f3114cc-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Kryptos Logic"
+    },
+	{
+      "description": "MalCrawler provides a comprehensive solution for ICS (Industrial Control System) operators protect OT (Operational Technology) environments (e.g. SCADA, DCS, RTU, PLC, DCS, HMI, EMS etc.) from malware. MalCrawler is an advanced malware protection tool that detects, analyzes, and destroys malware targeting ICS and (or) SCADA devices found in critical infrastructure.MalCrawler protects ICS and (or) SCADA devices across a wide range of industries, including Power, Oil & Gas, Water and Wastewater, Chemical, Manufacturing and Transportation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.malcrawler.com/blog/"
+        ]
+      },
+      "uuid": "3f31160c-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: MalCrawler"
+    },
+	{
+      "description": "MalwareMustDie, NPO as a whitehat security research workgroup, has been launched from August 2012. MalwareMustDie is a registered Nonprofit organization as a medium for IT professionals and security researchers gathered to form a work flow to reduce malware infection in the internet. The group is known for their malware analysis blog. They have a list of Linux malware research and botnet analysis that they have completed. The team communicates information about malware in general and advocates for better detection for Linux malware. MalwareMustDie is also known for their efforts in original analysis for a new emerged malware or botnet, sharing of their found malware source code to the law enforcement and security industry, operations to dismantle several malicious infrastructure, technical analysis on specific malware's infection methods and reports for the cyber crime emerged toolkits.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.malwaremustdie.org"
+        ]
+      },
+      "uuid": "3f311738-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Malware Must Die"
+    },
+	{
+      "description": "Blog resource affiliated with the cybersecurity vendor Malwarebytes.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.malwarebytes.com"
+        ]
+      },
+      "uuid": "3f31199a-3c72-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Malwarebytes Labs"
+    },
+	{
+      "description": "Marco Ramilli is an international cyber security expert, entrepreneur, writer and white-hat hacker. Ramilli received his PhD on Information Communication Technology from University of Bologna joining University of California at Davis. During his PhD program he worked for US Government (NIST) where he performed intensive researches on Malware evasion techniques and penetration testing methodologies in order to improve USA electronic voting systems. In 2015 he decided to found Yoroi, an innovative Managed Cyber Security Service Provider developing one of the most amazing cyber security defence center he has ever experienced. Nowadays Ramilli leads some of the most talented ethical hackers with a unique mission to defend private and public organisation on digital space. Ramilli strongly strongly believes in the role of humanity in the digital age. He often reminds to his credo - Defence Belongs To Humans.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://marcoramilli.com/"
+        ]
+      },
+      "uuid": "42b421c4-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Marco Ramilli Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor McAfee.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://securingtomorrow.mcafee.com/category/other-blogs/mcafee-labs/"
+        ]
+      },
+      "uuid": "42b42624-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: McAfee Labs Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the technology vendor McAfee.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.microsoft.com/security/blog/"
+        ]
+      },
+      "uuid": "42b428f4-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Microsoft Security Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the technology vendor NetScout.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.netscout.com/blog"
+        ]
+      },
+      "uuid": "42b42a5c-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: NetScout Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Netskope.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.netskope.com/blog"
+        ]
+      },
+      "uuid": "42b42b9c-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Netskope Blog"
+    },
+	{
+      "description": "Unit 42 is the global threat intelligence team at Palo Alto Networks and a recognized authority on cyberthreats, frequently sought out by enterprises and government agencies around the world. Their analysts are experts in hunting and collecting unknown threats as well as completely reverse-engineering malware using code analysis. With this expertise, they deliver high-quality, in-depth research that provides insight into tools, techniques, and procedures threat actors execute to compromise organizations. Their goal is to provide context wherever possible, explaining the nuts and bolts of attacks as theyll as who’s executing them and why so that defenders globally can gain visibility into threats to better defend their businesses against them.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://unit42.paloaltonetworks.com"
+        ]
+      },
+      "uuid": "42b51f34-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Palo Alto Networks UNIT42"
+    },
+	{
+      "description": "News collaboration site. Patch is an innovative way to find out about, and participate in, what's going on near you.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://patch.com"
+        ]
+      },
+      "uuid": "42b520ba-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Patch"
+    },
+	{
+      "description": "Pentestlab mission is to provide walkthrough’s on various penetration testing and red teaming techniques. The objective is to educate penetration testers regardless of their level, raise awareness in companies about various attacks and promote the information security industry.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://pentestlab.blog/"
+        ]
+      },
+      "uuid": "42b52204-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Penetration Testing Lab"
+    },
+	{
+      "description": "News station located in Philadelphia, PA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.netlab.360.com/"
+        ]
+      },
+      "uuid": "42b5240c-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Philly Voice"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Prevailion.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.prevailion.com"
+        ]
+      },
+      "uuid": "42b52560-3c7d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Prevailion Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Proofpoint.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.proofpoint.com/us/blog/threat-insight"
+        ]
+      },
+      "uuid": "abec1014-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Proofpoint Threat Insight Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor RiskIQ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.riskiq.com/blog/labs/"
+        ]
+      },
+      "uuid": "abec12b2-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: RiskIQ Labs"
+    },
+	{
+      "description": "SC Media arms information security professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies. We deliver breaking news, comprehensive analysis, cutting-edge features, contributions from thought leaders, and the best, most extensive collection of product reviews in the business. Whether through our comprehensive website, magazine, in-depth eBooks, newsletters, or regularly scheduled digital and live events – such as our SC Awards program and SC Media Risksec Conference – our readers gain all the relevant information they need to safeguard their organizations and, ultimately, contribute to their longevity and success.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.scmagazine.com/"
+        ]
+      },
+      "uuid": "abec1406-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: SC Magazine"
+    },
+	{
+      "description": "Cybersecurity news website hosted by Pierluigi Paganini. ",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://securityaffairs.co/wordpress/",
+		  "https://www.linkedin.com/in/pierluigipaganini/"
+        ]
+      },
+      "uuid": "abec1532-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Security Affairs"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor SenseCy.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.sensecy.com"
+        ]
+      },
+      "uuid": "abec1668-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: SenseCy"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Sophos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://news.sophos.com/en-us/"
+        ]
+      },
+      "uuid": "abec19c4-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Sophos News"
+    },
+	{
+      "description": "Online news related website.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.stuff.co.nz"
+        ]
+      },
+      "uuid": "abec1bd6-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Stuff"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Symantec.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.symantec.com/blogs/"
+        ]
+      },
+      "uuid": "abec1d20-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Symantec Blogs"
+    },
+	{
+      "description": "Online technology news website.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://techcrunch.com/"
+        ]
+      },
+      "uuid": "abec1ef6-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: TechCrunch"
+    },
+	{
+      "description": "Local news station located in Atlanta, GA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.ajc.com"
+        ]
+      },
+      "uuid": "abec2040-3c7f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Atlanta Journal Constitution (ajc.com)"
+    },
+	{
+      "description": "The Citizen Lab is an interdisciplinary laboratory based at the Munk School of Global Affairs & Public Policy, University of Toronto, focusing on research, development, and high-level strategic policy and legal engagement at the intersection of information and communication technologies, human rights, and global security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://citizenlab.ca"
+        ]
+      },
+      "uuid": "e9524728-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Citizen Lab"
+    },
+	{
+      "description": "Local new station located in Rancho Cucamonga, CA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.dailybulletin.com/"
+        ]
+      },
+      "uuid": "e9524a70-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Daily Bulletin"
+    },
+	{
+      "description": "No other city publication knows more about Vancouver than the Georgia Straight. Established as the news, lifestyle, and entertainment weekly in Vancouver for 50 years, the Georgia Straight is an integral part of the active urban West Coast lifestyle with over 816,000 unduplicated readers and (or) visitors print and website per week (Independent survey conducted July 2016 by Vancouver Focus). Every Thursday, the Georgia Straight delivers an award-winning editorial package of features, articles, and reviews. Regular weekly coverage includes news, tech, arts, music, fashion, travel, health, cannabis, and food, plus Vancouver's most comprehensive listings of entertainment activities and special events.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.straight.com/"
+        ]
+      },
+      "uuid": "e9524bf6-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Georgia Straight (Vancouver, BC)"
+    },
+	{
+      "description": "Local news station located in London, Ontario.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://lfpress.com"
+        ]
+      },
+      "uuid": "e9524d36-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The London Free Press"
+    },
+	{
+      "description": "The Register is a leading global online tech publication, with more than nine million monthly unique browsers worldwide. The core audiences are the UK and US, accounting for more than six million. The bulk of the remaining readership are located in Canada, Australia and northern Europe. Starting out in London in 1994 as an occasional email newsletter, The Register began publishing online daily in 1998. Today The Register is headquartered in London, San Francisco and Sydney and the sun never sets on its reporting team around the world.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.theregister.co.uk"
+        ]
+      },
+      "uuid": "e9524e62-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Register"
+    },
+	{
+      "description": "Since its launch on June 23, 1995, as Malaysia's first news website, The Star Online has always striven to provide readers with up to date breaking news, compelling content and insightful opinions. Evolving with the times, our content includes current news, business, sports, community, tech, lifestyle and world news, as well as expert analysis and dynamic videos. The website was recognised in 2014 as one of the best in Asia by the World Association of Newspapers and News Publishers (WAN-IFRA). It serves as the foundation of an online community that has a million strong following on both Twitter and Facebook. As the digital companion to The Star newspaper, The Star Online is part of a portfolio that offers content through print, The Star ePaper and a mobile app.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.thestar.com.my"
+        ]
+      },
+      "uuid": "e9524f98-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Star Online"
+    },
+	{
+      "description": "The Sun was launched in 1969 with the slogan forward with the people, because that is what we believe in. The Sun cares about quality of life, the kind of world we live in, and about people. The Sun is more than a newspaper. It is an instigator, an entertainer, a cultural reference point, a finger on the pulse and a daily relationship. The Sun has been a campaigning newspaper since its inception and continues to be so today, with recent reporting focusing on the plight of refuge shelters for abused women and on male suicide. Politically, The Sun stands for ordinary working people looking to get on, building better lives for themselves and their families, regardless of where they grow up or which school they went to. The Sun has endorsed the election manifestos of both the Labour Party and Conservative Party at different points in its long history. At the most recent General Election, held in 2017, The Sun endorsed the Conservative Party. The Sun strives to the very highest standards of accuracy in its reporting, and continues to invest in original journalism in print and online. The Sun is published by News Group Newspapers, part of News UK & Ireland Ltd. Further information on News UK & Ireland Ltd. News UK & Ireland is part of News Corp, a global media business focused on creating and distributing content that educates, informs and inspires our customers.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.thesun.co.uk"
+        ]
+      },
+      "uuid": "e95251be-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Sun"
+    },
+	{
+      "description": "Local news station located in San Bernadino, CA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.sbsun.com/"
+        ]
+      },
+      "uuid": "e95252f4-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: The Sun (San Bernadino, CA)"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor ThreatFabric.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.threatfabric.com/blogs.html"
+        ]
+      },
+      "uuid": "e9525416-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: ThreatFabric Blog"
+    },
+	{
+      "description": "Threatpost is an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide. Threatpost’s award-winning editorial team produces unique and high-impact content including security news, videos, feature reports and more.  They break important original stories, offer expert commentary on high-priority news aggregated from other sources, and engage with readers to discuss how and why these events matter. Threatpost has been referenced as an authoritative source on information security by leading news outlets including The New York Times, The Wall Street Journal, MSNBC, USA Today and National Public Radio.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://threatpost.com/"
+        ]
+      },
+      "uuid": "e9525542-3c81-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Threatpost"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/"
+        ]
+      },
+      "uuid": "df1ae25e-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: TrendMicro Security Intelligence Blog"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Trustwave.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/"
+        ]
+      },
+      "uuid": "df1ae5d8-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Trustwave SpiderLabs"
+    },
+	{
+      "description": "NBC affiliated news station located in Providence, RI.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://turnto10.com/"
+        ]
+      },
+      "uuid": "df1ae740-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Turn to 10 (NBC Affiliate)"
+    },
+	{
+      "description": "As required by section 13402(e)(4) of the HITECH Act, the Secretary must post a list of breaches of unsecured protected health information affecting 500 or more individuals. This page lists all breaches reported within the last 24 months that are currently under investigation by the Office for Civil Rights.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+        ]
+      },
+      "uuid": "df1ae92a-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: U.S. Department of Health and Human Services Breach Portal"
+    },
+	{
+      "description": "Fox News affiliated news station located in Roanoke, VA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.wfxrtv.com"
+        ]
+      },
+      "uuid": "df1aea6a-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: WFXRtv.com"
+    },
+	{
+      "description": "Local news station located in Raleigh, NC.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.wral.com"
+        ]
+      },
+      "uuid": "df1aec9a-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: WRAL.com"
+    },
+	{
+      "description": "Local news station located in Dothan, AL.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.wtvy.com/"
+        ]
+      },
+      "uuid": "df1aedda-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: WTVY.com"
+    },
+	{
+      "description": "Fox News affiliated news station located in Springfield, MA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.westernmassnews.com/"
+        ]
+      },
+      "uuid": "df1af000-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Western Mass News"
+    },
+	{
+      "description": "Yahoo! is an American web services provider headquartered in Sunnyvale, California, and owned by Verizon Media. The original Yahoo! company was founded by Jerry Yang and David Filo in January 1994 and was incorporated on March 2, 1995. Yahoo was one of the pioneers of the early Internet era in the 1990s. It provides or provided a Web portal, search engine Yahoo! Search, and related services, including Yahoo! Directory, Yahoo! Mail, Yahoo! News, Yahoo! Finance, Yahoo! Groups, Yahoo! Answers, advertising, online mapping, video sharing, fantasy sports, and its social media website. At its height it was one of the most popular sites in the United States. According to third-party web analytics providers Alexa and SimilarWeb, Yahoo was the most widely read news and media website – with over 7 billion views per month – ranking as the sixth-most-visited website globally in 2016.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.yahoo.com/",
+		  "https://en.wikipedia.org/wiki/Yahoo!"
+        ]
+      },
+      "uuid": "df1af140-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: Yahoo.com"
+    },
+	{
+      "description": "ZDNet brings together the reach of global and the depth of local, delivering 24x7 news coverage and analysis on the trends, technologies, and opportunities that matter to IT professionals and decision makers. Whatever your role in the IT buying cycle, ZDNet provides support -- from investigating options to optimizing a solution. Whether you want to follow hot topics or emerging trends, or keep up to date with the latest news and events, ZDNet is the destination for professionals seeking to research technology-related issues, and solve business technology problems.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.zdnet.com/"
+        ]
+      },
+      "uuid": "df1af2ee-3d23-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: ZDNet"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor Yoroi.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://blog.yoroi.company/author/malwarezlab/"
+        ]
+      },
+      "uuid": "20a4659a-3d26-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: ZLAB Yoroi"
+    },
+	{
+      "description": "Cybersecurity related blog affiliated with the cybersecurity vendor ZScaler.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.zscaler.com/blogs"
+        ]
+      },
+      "uuid": "20a46810-3d26-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: ZScaler Blog"
+    },
+	{
+      "description": "ABC affiliated news station located in Phoenix, AZ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.abc15.com"
+        ]
+      },
+      "uuid": "20a46b08-3d26-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: abc15"
+    },
+	{
+      "description": "iTWire is Australia's most read independent technology news source. With 327,505 (Nielsen SiteCensus) visitors a month. iTWire has 70,000+ subscribers to its daily IT&T newsletter.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.itwire.com"
+        ]
+      },
+      "uuid": "20a46c5c-3d26-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Source: iTWire"
     },
 	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",

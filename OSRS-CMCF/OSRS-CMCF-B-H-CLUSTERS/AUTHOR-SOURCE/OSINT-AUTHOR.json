@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Aaron Riley is a Cyber Threat Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
       "meta": {
 	  "kill_chain": [
@@ -24,6 +24,1699 @@
       },
       "uuid": "1d52f03c-28b8-11ea-978f-2e728ce88125",
       "value": "OSRS OSINT Author Index: Aaron Riley"
+    },
+	{
+      "description": "Staff writer. Adam is a web curator at PhillyVoice.com. He grew up on the other side of Pennsylvania but was raised versed in Philadelphia culture. He’s a graduate of Drexel University, where he studied journalism and history. Adam has written for the Inquirer, Daily News, Philadelphia magazine, and NCAA.com. He used to write about sports (and still does now and then) but is also interested in environmental policy and very fresh produce.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.phillyvoice.com/staff-contributors/adam-hermann/",
+          "adam@phillyvoice.com",
+          "https://www.linkedin.com/in/adamwhermann",
+		  "https://twitter.com/AdamWHermann"
+        ],
+        "synonyms": [
+        "@adamwhermann"
+        ]
+      },
+      "uuid": "420444ce-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Adam Hermann"
+    },
+	{
+      "description": "Research Fellow at CitizenLab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/cyberclues?lang=en",
+          "https://t.co/qaOssmpDue?amp=1"
+        ],
+        "synonyms": [
+        "@CyberClues"
+        ]
+      },
+      "uuid": "4204473a-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Adam Hulcoop"
+    },
+	{
+      "description": "Security Researcher Adam Kozy came to CrowdStrike, bringing forward several years of experience in security and threat intelligence analysis from the government sector where he conducted research at both a tactical and strategic level. He is a recognized cultural, political, and security pundit on East Asia and speaks Japanese and Mandarin. He has delivered presentations and research findings to a variety of key cybersecurity influencers, including senior government officials and private-sector CEOs. He has also been a guest lecturer at several universities on cyber intelligence and recently presented at BlackHat USA on Chinese cyber weapons and monitoring capabilities.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/author/kozy/"
+        ]
+      },
+      "uuid": "42044884-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Adam Kozy"
+    },
+	{
+      "description": "Threat Research and Intelligence at Malwarebytes. Saint Petersburg, Florida.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adam-thomas-7800b35/",
+          "https://twitter.com/adamt5Six"
+        ],
+        "synonyms": [
+        "@adamt5Six"
+        ]
+      },
+      "uuid": "42044c1c-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Adam Thomas"
+    },
+	{
+      "description": "General author name used by the cybersecurity vendor Advanced Intelligence, LLC.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.advanced-intel.com/",
+          "https://twitter.com/IntelAdvanced",
+          "https://www.linkedin.com/company/advanced-intelligence-llc/"
+        ]
+      },
+      "uuid": "42044e06-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Advanced Intelligence, LLC (AdvIntel)"
+    },
+	{
+      "description": "Security research and author affiliated with the cybersecurity vendor Cofense.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cofense.com/raccoon-stealer-found-rummaging-past-symantec-microsoft-gateways/"
+        ]
+      },
+      "uuid": "42044f5a-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alan Rainer"
+    },
+	{
+      "description": "Computer security researcher and a software developer, living in Denmark.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://medium.com/@aku_12953",
+          "https://twitter.com/s_metanka",
+          "https://www.linkedin.com/in/aleksejskuprins/"
+        ]
+      },
+      "uuid": "4204507c-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Aleksejs Kuprins"
+    },
+	{
+      "description": "Threat Intelligence Analyst at Unit 42, Palo Alto Networks.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/alexanderhinchliffe/"
+        ]
+      },
+      "uuid": "42045306-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alex Hinchliffe"
+    },
+	{
+      "description": "Blog author for affiliated with the cybersecurity vendor Netlab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/author/alex/"
+        ]
+      },
+      "uuid": "42045450-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alex Turing"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cyber security vendor McAfee.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/buran-ransomware-the-evolution-of-vegalocker/"
+        ]
+      },
+      "uuid": "42045798-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alexandre Mundo"
+    },
+	{
+      "description": "Breaking news and public safety reporter for Caller.com.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.caller.com/staff/arodriguez/alexandria-rodriguez/",
+          "Alexandria.Rodriguez@Caller.com",
+          "https://twitter.com/caller_ar?lang=en"
+        ],
+        "synonyms": [
+        "@Caller_AR"
+        ]
+      },
+      "uuid": "3372abec-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alexandria Rodriguez"
+    },
+	{
+      "description": "Reverse Engineer – Check Point Software Technologies, Ltd.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/alexey-bukhteyev-77a67817b/"
+        ]
+      },
+      "uuid": "3372ae80-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Alexey Bukhteyev"
+    },
+	{
+      "description": "Reporter and Video Journalist at Global News. Winnipeg, Canada Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/amber-mcguckin-10a29574/",
+          "https://twitter.com/globalnewsamber?lang=en"
+        ],
+        "synonyms": [
+        "@GlobalNewsAmber"
+        ]
+      },
+      "uuid": "3372afca-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Amber McGuckin"
+    },
+	{
+      "description": "Malware researcher and author at Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/andrea-marcelli-69377990/",
+          "https://jimmy-sonny.github.io",
+          "https://github.com/Cisco-Talos/Ghidraaas",
+		  "https://twitter.com/_s0nn1_?lang=en"
+        ],
+        "synonyms": [
+        "@_S0nn1_"
+        ]
+      },
+      "uuid": "3372b100-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Andrea Marcelli"
+    },
+	{
+      "description": "Andrew Weber is a digital reporter for KUT News. A graduate of St. Edward's University with a degree in English, Andrew has previously interned with The Texas Tribune, The Austin American-Statesman and KOOP Radio.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/andrew-weber-b8ba8b6a/",
+          "https://twitter.com/England_Weber?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ],
+        "synonyms": [
+        "@England_Weber",
+        "Andrew England Weber"
+        ]
+      },
+      "uuid": "3372b22c-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Andrew Webber"
+    },
+	{
+      "description": "Generic author name used by the cybersecurity vendor Anomali.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.anomali.com/blog"
+        ]
+      },
+      "uuid": "3372b614-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Anomali Labs"
+    },
+	{
+      "description": "Senior Malware Researcher at the cybersecurity vendor ESET.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/anton-cherepanov-b8653276/?originalSubdomain=sk",
+          "https://twitter.com/cherepanov74"
+        ],
+        "synonyms": [
+        "@cherepanov74"
+        ]
+      },
+      "uuid": "3372b786-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Anton Cherepanov"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Software Engineering at the University of Sannio. Antonio is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+          "https://www.linkedin.com/in/antonio-farina-a2528a102/"
+        ]
+      },
+      "uuid": "3372b8d0-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Antonio Farina"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Computer Engineering at the University of Sannio. He is the director of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+          "https://www.researchgate.net/profile/Antonio_Pirozzi2",
+          "https://eucybersummit.com/team/antonio-pirozzi/"
+        ]
+      },
+      "uuid": "3372b9fc-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Antonio Pirozzi"
+    },
+	{
+      "description": "VP of Research at Intezer, a cybersecurity company that specializes in malware analysis.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ari-eitan-04b47b70/?originalSubdomain=il",
+          "https://twitter.com/arieitan?lang=en"
+        ],
+        "synonyms": [
+        "@arieitan"
+        ]
+      },
+      "uuid": "3372bb28-3d2f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Ari Eitan"
+    },
+	{
+      "description": "Arielle Kass covers Fulton County. She joined The Atlanta Journal-Constitution in 2010 and has covered Gwinnett County, housing, money and retail business at the AJC. Arielle, an Emory graduate, has also worked at Crain’s Cleveland Business and the Gwinnett Daily Post.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ajc.com/online/contacts/arielle-kass/jXuWnR8R6ZmxR1NFC9YI0K/",
+          "akass@ajc.com"
+        ]
+      },
+      "uuid": "bea8a7a0-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Arielle Kass"
+    },
+	{
+      "description": "Sr. Director, Head of Threat Research at Cybereason. London, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/assaf-dahan-a98226108/"
+        ]
+      },
+      "uuid": "bea8aa3e-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Assaf Dahan"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity anti-virus vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/skidmap-linux-malware-uses-rootkit-capabilities-to-hide-cryptocurrency-mining-payload/"
+        ]
+      },
+      "uuid": "bea8abb0-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Augusto Remillano II"
+    },
+	{
+      "description": "Senior Security Researcher at Palo Alto Networks. Experienced Security Researcher with a demonstrated history of working in the computer and network security industry. Skilled in Security Research in Reverse Engineering, Embedded Operating Systems, Python, Web Applications, and Network Security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/aviv-sasson-b5875915b/ "
+        ]
+      },
+      "uuid": "bea8ad04-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Aviv Sasson"
+    },
+	{
+      "description": "Author at Citizen Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://citizenlab.ca/author/bahrabdulrazzak/"
+        ]
+      },
+      "uuid": "bea8ae4e-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bahr Abdul Razzak"
+    },
+	{
+      "description": "Reporter at International Business Times, Singapore Edition. A highly motivated and result driven individual. Studied about Films,Editing (Print & Electronic), Article Writing. Passionate about learning and utilizing own skills to make a positive difference to the organization or in society. Excellent communication skills (verbal & written), interpersonal skills, decision making skills, result oriented and a team player.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ibtimes.sg/reporters/bhaswati-guha-majumder",
+          "https://www.linkedin.com/in/bhaswati-guha-majumder-85399586/",
+          "https://www.instagram.com/bhaswatiguha/?hl=en"
+        ]
+      },
+      "uuid": "bea8afa2-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bhaswati Guha Majumder"
+    },
+	{
+      "description": "Research Scientist at ICSI; Research Fellow at Citizen Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/bill-marczak-46535456/",
+          "https://twitter.com/billmarczak?lang=en"
+        ],
+        "synonyms": [
+        "@billmarczak"
+        ]
+      },
+      "uuid": "bea8b0d8-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bill Marczak"
+    },
+	{
+      "description": "Security research affilitated with the cybersecurity vendor PaloAlto Networks and Unit42.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.paloaltonetworks.com/author/bduncan/"
+        ]
+      },
+      "uuid": "bea8b222-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brad Duncan"
+    },
+	{
+      "description": "Senior Consultant at the cybersecurity company Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/k-s-brandan/",
+          "https://twitter.com/4real_br4nd4n?lang=en"
+        ],
+        "synonyms": [
+        "@4real_br4nd4n"
+        ]
+      },
+      "uuid": "bea8b358-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brandan Schondorfer"
+    },
+	{
+      "description": "Author and blogger with Cisco Talos Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/the-latest-on-bluekeep-and-dejablue.html",
+          "https://blog.talosintelligence.com/2018/12/Netgate-pfsense-command-injection-vulns.html",
+          "https://blogs.cisco.com/security/talos/firepower-encrypted-rdp-detection"
+        ]
+      },
+      "uuid": "bea8b48e-3d31-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brandon Stultz"
+    },
+	{
+      "description": "Red Team Consultant with the cybersecurity company Mandiant (FireEye).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/brett-hawkins-ba843037/",
+          "https://twitter.com/h4wkst3r/media",
+		  "https://h4wkst3r.blogspot.com/"
+        ],
+        "synonyms": [
+        "@h4wkst3r"
+        ]
+      },
+      "uuid": "9ae71d9a-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brett Hawkins"
+    },
+	{
+      "description": "Brian Rokos writes about public safety issues such as policing, criminal justice, scams, how law affects public safety, firefighting tactics and wildland fire danger. He has also covered the cities of San Bernardino, Corona, Norco, Lake Elsinore, Perris, Canyon Lake and Hemet. Before that he supervised reporters and worked as a copy editor. For some reason, he enjoys movies where the Earth is threatened with extinction.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "brokos@scng.com",
+          "https://www.dailybulletin.com/author/brian-rokos/",
+          "https://twitter.com/Brian_Rokos"
+        ],
+        "synonyms": [
+        "@Brian_Rokos"
+        ]
+      },
+      "uuid": "9ae7201a-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brian Rokos"
+    },
+	{
+      "description": "Brian Krebs is an American journalist and investigative reporter. He is best known for his coverage of profit-seeking cybercriminals. His interest grew after a computer worm locked him out of his own computer in 2001. Krebs is the author of a daily blog, KrebsOnSecurity.com, covering computer security and cybercrime.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://krebsonsecurity.com/",
+          "https://twitter.com/briankrebs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "https://en.wikipedia.org/wiki/Brian_Krebs",
+		  "https://www.facebook.com/Brian-Krebs-119740914725557/"
+        ]
+      },
+      "uuid": "9ae7220e-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brian Krebs"
+    },
+	{
+      "description": "Security researcher and author with Palo Alto Unit 42.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/brittany-ash/"
+        ]
+      },
+      "uuid": "9ae72362-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Brittany Ash"
+    },
+	{
+      "description": "Security research affiliated with the Proofpoint Threat Insight Team.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog"
+        ]
+      },
+      "uuid": "9ae7266e-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bryan Campbell"
+    },
+	{
+      "description": "Principal Researcher (Unit 42) at Palo Alto Networks. San Jose, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/obiwanblee/",
+          "https://twitter.com/obiwanblee?lang=en"
+        ],
+        "synonyms": [
+        "@obiwanblee"
+        ]
+      },
+      "uuid": "9ae727c2-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bryan Lee"
+    },
+	{
+      "description": "Security researcher who has done work for the cybersecurity vendor FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/head-fake-tackling-disruptive-ransomware-attacks.html"
+        ]
+      },
+      "uuid": "9ae728f8-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Bryce Abdo"
+    },
+	{
+      "description": "Security researcher with the cybersecurity anti-virus vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/carl-maverick-pascual-66aa18116/"
+        ]
+      },
+      "uuid": "9ae72a1a-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Carl Maverick Pascual"
+    },
+	{
+      "description": "Security researcher and OSINT author. Consultant at Mandiant Washington D.C. Metro Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/casey-erikson-770a9228/"
+        ]
+      },
+      "uuid": "9ae72b46-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Casey Erikson"
+    },
+	{
+      "description": "Catalin Cimpanu is a security reporter at ZDNet, where he covers cyber-security, data breaches, hacking, and other related topics. He previously served as security reporter for Bleeping Computer and Softpedia. Catalin is based in Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/catalin.cimpanu/",
+          "https://twitter.com/campuscodi",
+          "catalincimpanu@gmail.com",
+		  "https://github.com/campuscodi"
+        ],
+        "synonyms": [
+        "@campuscodi"
+        ]
+      },
+      "uuid": "9ae72c72-3d33-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Catalin Cimpanu"
+    },
+	{
+      "description": "Senior Threat Researcher at Trend Micro, Author of Securite et espionnage informatique - connaissance de la menace APT.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/cpernet/",
+          "http://bl0g.cedricpernet.net/",
+          "https://twitter.com/cedricpernet?lang=en"
+        ],
+        "synonyms": [
+        "@cedricpernet"
+        ]
+      },
+      "uuid": "96526a80-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Cedric Pernet"
+    },
+	{
+      "description": "Charlie Osborne is a cybersecurity journalist and photographer who writes for ZDNet and CNET from London.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/charlie-osborne/",
+          "https://twitter.com/SecurityCharlie"
+        ],
+        "synonyms": [
+        "@SecurityCharlie"
+        ]
+      },
+      "uuid": "96526d00-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Charlie Osborne"
+    },
+	{
+      "description": "Charlie Smith likes to say he's been extremely lucky to work at the Georgia Straight for 25 years. For seven years, he also taught investigative techniques at Kwantlen Polytechnic University (then known as Kwantlen University College) and worked at CBC Radio for 13 years. In addition, he's researched and reported stories on CBC TV and Global TV (then known as BCTV) newscasts, written for various publications, worked in private radio, and edited a business magazine. He's won two Western Magazine Awards for business writing and twice been nominated for Jack Webster Foundation Awards for his business and science writing. In addition, Charlie has received an antiracism award from Spice Radio, a medal from Radical Desi for countering racist narratives in media, and a community builder award from the Vancouver Asian Heritage Month Society.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.straight.com/users/charlie-smith",
+          "https://twitter.com/intent/user?screen_name=charliesmithvcr"
+        ],
+        "synonyms": [
+        "@charliesmithvcr"
+        ]
+      },
+      "uuid": "96526e68-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Charlie Smith"
+    },
+	{
+      "description": "Outreach Researcher at Cisco Talos Intelligence Group. Vacaville, California. Experienced Data Security Analyst with a demonstrated history of working in the banking industry. OSCP certified. Skilled in Vulnerability Management, Incident Response, Networking, Reverse Engineering and Penetration Testing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/chris-neal-3079b0161/"
+        ]
+      },
+      "uuid": "96526fa8-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Chris Neal"
+    },
+	{
+      "description": "Christiaan Beek, lead scientist and sr. principal engineer is part of Mcafee’s Office of the CTO leading strategic threat intelligence research within Mcafee. He coordinates and leads passionately the research in advanced attacks, plays a key-role in cyberattack take-down operations and participates in the NoMoreRansom project. In previous roles, Beek was Director of Threat Intelligence in McAfee Labs and Director of Incident Response and Forensics at Foundstone, McAfee’s forensic services arm. At Foundstone, he led a team of forensic specialists in Europe, the Middle East, and Africa during major breaches. Beek develops threat intelligence strategy, designs threat intelligence systems, performs malware and forensic analysis, pentesting and coaches security teams around the globe. He is a passionate cybercrime specialist who has developed training courses, workshops, and presentations. He speaks regularly at conferences, including BlackHat, RSA, BlueHat and Botconf. Besides conferences, he is also frequently teaching at universities, Police Academies and public schools to recruit, mentor and train the next generation of cyber-security specialists. Beek contributed to the best-selling security book Hacking Exposed and has two patents pending.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/christiaan-beek/",
+          "https://twitter.com/christiaanbeek?lang=en",
+          "https://www.linkedin.com/in/christiaanbeek/"
+        ],
+        "synonyms": [
+        "@ChristiaanBeek"
+        ]
+      },
+      "uuid": "96527318-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Christiaan Beek"
+    },
+	{
+      "description": "Threat Researcher at Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/ccevans002",
+          "https://www.linkedin.com/in/christopher-evans-981693a8/"
+        ],
+        "synonyms": [
+        "@ccevans002"
+        ]
+      },
+      "uuid": "96527480-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Christopher Evans"
+    },
+	{
+      "description": "Christoper Kiefer is a threat hunt and intelligence analyst for the IBM X-Force IRIS team. Christopher has 7 years of information security experience (IS). Christopher holds the following certifications: GCIA, GWAPT, GCFE, GCFA, GNFA, GREM, and Security Plus.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/author/christopher-kiefer/",
+          "https://www.linkedin.com/in/ckiefer1/"
+        ]
+      },
+      "uuid": "965275ac-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Christopher Kiefer"
+    },
+	{
+      "description": "Generic author name given to a group of researchers with the cybersecurity vendor ClearSky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/ClearskySec",
+          "https://www.clearskysec.com/blog/"
+        ],
+        "synonyms": [
+        "@ClearskySec"
+        ]
+      },
+      "uuid": "965276d8-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: ClearSky Research Team"
+    },
+	{
+      "description": "Generic author name used for the blog affiliated with the cybersecurity vendor Cofense.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cofense.com/raccoon-stealer-found-rummaging-past-symantec-microsoft-gateways/"
+        ]
+      },
+      "uuid": "96527804-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Cofense Intelligence"
+    },
+	{
+      "description": "Research Engineer affiliated with the cybersecurity intelligence group Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/colingrady?lang=en",
+          "https://www.linkedin.com/in/colingrady/"
+        ],
+        "synonyms": [
+        "@ColinGrady"
+        ]
+      },
+      "uuid": "96527930-3d35-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Colin Grady"
+    },
+	{
+      "description": "Crane Hassold is the Sr. Director of Threat Research at Agari, where he leads an intelligence team responsible for researching enterprise-focused phishing threats. Prior to moving to the private sector in 2015, Crane served as an Analyst at the FBI for more than 11 years, providing strategic and tactical analytical support to cyber, financial crime, and violent crime cases.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.agari.com/email-security-blog/author/crane-hassold/",
+          "https://www.linkedin.com/in/cranehassold/",
+          "https://twitter.com/cranehassold?lang=en"
+        ],
+        "synonyms": [
+        "@CraneHassold"
+        ]
+      },
+      "uuid": "8fee667e-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Crane Hassold"
+    },
+	{
+      "description": "Principal Threat Analyst at FireEye, Inc.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/mrdanperez?lang=en",
+          "https://www.linkedin.com/in/daniel-perez-b91aa029/"
+        ],
+        "synonyms": [
+        "@MrDanPerez"
+        ]
+      },
+      "uuid": "8fee6a48-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Dan Perez"
+    },
+	{
+      "description": "Daniel is a security research expert at Guardicore, where he is responsible for tracking the latest security intelligence, including detailed analysis of hackers' methodologies, for use in implementing advanced countermeasures into Guardicore products and services. Daniel has over 10 years of cyber security research experience. Prior to Guardicore, he served as a captain in the Israel Defense Forces (IDF).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.guardicore.com/author/danielgguardicore-com/",
+          "danielg@guardicore.com"
+        ]
+      },
+      "uuid": "8fee6df4-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Daniel Goldberg"
+    },
+	{
+      "description": "Security Researcher at Prevailion.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/dadamitis"
+        ],
+        "synonyms": [
+        "@dadamitis"
+        ]
+      },
+      "uuid": "8fee6f3e-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Danny Adamitis"
+    },
+	{
+      "description": "Reporter at ZDNet. London, Greater London, United Kingdom",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/daphneleprince?lang=en",
+          "https://www.linkedin.com/in/daphne-leprince-ringuet/",
+          "https://daphstelegraph.wordpress.com/"
+        ],
+        "synonyms": [
+        "@daphneleprince"
+        ]
+      },
+      "uuid": "8fee7074-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Daphne Leprince-Ringuet"
+    },
+	{
+      "description": "Security researcher, Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/vuln-spotlight-Netgear-N300-routers-DoS-sept-2019.html",
+          "https://blog.talosintelligence.com/2019/06/vulnerability-spotlight-two-bugs-in.html"
+        ]
+      },
+      "uuid": "8fee72a4-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Dave McDaniel"
+    },
+	{
+      "description": "Head of Strategic Intelligence at Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/chinahanddave?lang=en",
+          "https://www.linkedin.com/in/davidliebenberg/"
+        ],
+        "synonyms": [
+        "@ChinaHandDave"
+        ]
+      },
+      "uuid": "8fee73ee-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: David Liebenberg"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Davide graduated in Software Engineering at the University of Sannio. Davide is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/davidetesta94/",
+          "https://www.yoroi.company/about-us.html"
+        ]
+      },
+      "uuid": "8fee7524-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Davide Testa"
+    },
+	{
+      "description": "Cyberthreat analyst affiliated with the cybersecurity vendor Proofpoint.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://tildedennis.blogspot.com/",
+          "https://twitter.com/tildedennis?lang=en",
+          "https://github.com/tildedennis"
+        ],
+        "synonyms": [
+        "@tildedennis",
+        "tildedennis"
+        ]
+      },
+      "uuid": "8fee784e-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Dennis Schwarz"
+    },
+	{
+      "description": "Devin Fehely is an Emmy award winning general assignment reporter/MMJ for KPIX 5. Before joining KPIX 5 Devin was at WXIA in Atlanta where spent four years reporting. During that time, he won numerous awards, including three Murrow Awards and the Gannett Foundation Award for Innovation in Investigative Journalism from the National Association of Black Journalists (NABJ) for a series of stories that helped free a wrongfully convicted man. Prior to WXIA, Devin reported for WAGA in Atlanta, WDSU in New Orleans, KSBW in Monterey and KNTV in San Jose. Devin is a native of San Jose. He studied journalism at San Jose State and received a BA in psychology from Brown University. Devin makes his home in San Jose.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://sanfrancisco.cbslocal.com/personality/devin-fehely/",
+          "https://twitter.com/DevinFehely",
+          "dfehely@cbs.com"
+        ],
+        "synonyms": [
+        "@DevinFehely"
+        ]
+      },
+      "uuid": "8fee79a2-3d37-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Devin Fehely"
+    },
+	{
+      "description": "Security Researcher at Trustwave. Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/diana-lopera-39087159/",
+          "https://twitter.com/dianalopera"
+        ],
+        "synonyms": [
+        "@dianalopera"
+        ]
+      },
+      "uuid": "506967e8-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Diana Lopera"
+    },
+	{
+      "description": "Generic journalist name given to authors at the online cybersecurity news site E Hacking News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ehackingnews.com"
+        ]
+      },
+      "uuid": "50696a4a-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: E Hacking News"
+    },
+	{
+      "description": "Author name for research published by the anti-virus company ESET.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/author/esetresearch/",
+          "https://www.welivesecurity.com"
+        ]
+      },
+      "uuid": "50696b94-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: ESET Research"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity anti-virus vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell/"
+        ]
+      },
+      "uuid": "50696cc0-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Earle Earnshaw"
+    },
+	{
+      "description": "Mobile Threat Response Engineer affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/ecularx/"
+        ]
+      },
+      "uuid": "50696dec-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Ecular Xu"
+    },
+	{
+      "description": "Edmund Brumaghin is a threat researcher with Cisco Talos. He has spent the past several years protecting environments across a number of different industries including nuclear energy, financial services, etc. He currently spends his days hunting malware and analyzing various threats as they emerge and continue to evolve. In his time with Talos he has researched ransomware and other threats being distributed using various attack vectors. He has also worked to expose large scale malware campaigns and raise awareness of security threats observed across the threat landscape.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blogs.cisco.com/author/edmundbrumaghin?dtid=osscdc000283"
+        ]
+      },
+      "uuid": "506970b2-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Edmund Brumaghin"
+    },
+	{
+      "description": "Eduardo is a member of Symantec’s Security Technology and Response (STAR) team who are focused on providing round-the-clock protection against current and future cyber threats.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet"
+        ]
+      },
+      "uuid": "506975da-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Eduardo Altares"
+    },
+	{
+      "description": "Technology, Security, and Blockchain Enthusiast. Security Engineering & Research at Confiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.confiant.com/@eliya_54207",
+          "https://twitter.com/eliyastein?lang=en",
+          "https://www.linkedin.com/in/eliya-stein-74b9007/"
+        ],
+        "synonyms": [
+        "@eliyastein"
+        ]
+      },
+      "uuid": "50697738-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Eliya Stein"
+    },
+	{
+      "description": "Security researcher. Currently working in Trend Micro. Previous job is an electrical engineer worked in SGCC.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/elli0tn0phacker"
+        ],
+        "synonyms": [
+        "@elli0tn0phacker"
+        ]
+      },
+      "uuid": "50697864-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Elliot Cao"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research.html/category/etc/tags/fireeye-blog-authors/eoin-jennings"
+        ]
+      },
+      "uuid": "50697990-3d45-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Eoin Jennings"
+    },
+	{
+      "description": "Eric is based out of the Orange County Register and reports on crime and public safety for the Southern California News Group. He was born in the Philippines, was raised in the San Fernando Valley and has previously written about immigration, poverty and entertainment for Inquirer.net and The Asian Journal. He enjoys photographing concerts and sporting events or jamming on one of his personally customized guitars in his free time. His inspirations include Kurt Vonnegut, Tom Wolfe, Ronnie James Dio and Randy (The Macho Man) Savage.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.sbsun.com/author/eric-licas/",
+          "elicas@scng.com",
+          "https://www.linkedin.com/in/eric-anthony-licas-323a1b11a/",
+		  "https://ericlicas.wordpress.com/"
+        ]
+      },
+      "uuid": "3defb890-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Aaron Riley"
+    },
+	{
+      "description": "Author at Citizen Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://citizenlab.ca/author/etiennemaynier/"
+        ]
+      },
+      "uuid": "3defbb42-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Etienne Maynier"
+    },
+	{
+      "description": "Security researcher and OSINT author. Global Red Team Lead at Mandiant, a FireEye Company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/evan-pena-06a9221b/"
+        ]
+      },
+      "uuid": "3defd42e-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Evan Pena"
+    },
+	{
+      "description": "Sr. Applied Security Researcher at FireEye, Inc. Greater Los Angeles Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/evan-reese-161b2653/",
+          "https://twitter.com/reesespcres?lang=en"
+        ],
+        "synonyms": [
+        "@reesespcres"
+        ]
+      },
+      "uuid": "3defd5d2-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Evan Reese"
+    },
+	{
+      "description": "Cyber Security Analyst and Threat Hunter. Manassas, Virginia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/farzin-maghsoudi/"
+        ]
+      },
+      "uuid": "3defd71c-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Farzin Maghsoudi"
+    },
+	{
+      "description": "Threat Researcher affiliated with they cybersecurity anti-virus company Trend Micro. Amsterdam Area, Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/feike-hacquebord-33902b5/"
+        ]
+      },
+      "uuid": "3defd85c-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Feike Hacquebord"
+    },
+	{
+      "description": "I have been with Patch since 2014 in varying roles and currently cover breaking news across our network. I graduated with a bachelor's degree in journalism and a minor in French from Indiana University in Bloomington.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://patch.com/users/ferozedhanoa",
+          "https://twitter.com/fadhanoa?lang=en",
+          "feroze.dhanoa@patch.com"
+        ],
+        "synonyms": [
+        "@FADhanoa"
+        ]
+      },
+      "uuid": "3defd9a6-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Feroze Dhanoa"
+    },
+	{
+      "description": "The Fidelis Threat Research team is comprised of expert security researchers whose sole focus is generating accurate and actionable intelligence to better secure customers. Together, they represent over 75 years of collective experience in the space of research and intelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fidelissecurity.com/threatgeek/author/threat-research-team/"
+        ]
+      },
+      "uuid": "3defdd3e-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Fidelis Threat Research Team"
+    },
+	{
+      "description": "Pseudonym used for publications from security vendor Fortinet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/search.html?author=FortiGuard+SE+Team",
+          "https://www.fortinet.com",
+          "https://www.facebook.com/fortinet",
+		  "https://www.twitter.com/fortinet"
+        ],
+        "synonyms": [
+        "@Fortinet"
+        ]
+      },
+      "uuid": "3defdee2-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: FortiGuard SE Team"
+    },
+	{
+      "description": "Francesca Fionda is an investigative journalist based in Vancouver reporting for Attention Control. The podcast explores misinformation, technology and data during our upcoming federal election. She has also worked as a data reporter at the community-driven journalism organization, The Discourse and on investigative teams at Global News and the CBC.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/francescafionda",
+          "https://www.ctvnews.ca/more/ctvnews-ca-team/francesca-fionda-1.4571483"
+        ],
+        "synonyms": [
+        "@FrancescaFionda"
+        ]
+      },
+      "uuid": "3defe02c-3d4c-11ea-b947-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Francesca Fionda"
+    },
+	{
+      "description": "Journalist for IT News Africa.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://muckrack.com/fundi-maseko"
+        ]
+      },
+      "uuid": "02ab57e2-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Fundisiwe Maseko"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/"
+        ]
+      },
+      "uuid": "02ab5b16-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Gabrielle Joyce Mabutas"
+    },
+	{
+      "description": "Flexible and adaptive professional, currently working in journalism. I'm fast to pick up new areas and ways of working, and I bring with me a talent for breaking complex issues down to their essentials, as well as a solid working knowledge of technological and engineering matters. In news terms I am a general duties reporter specialising in technology, court reporting, business and defence and security matters.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "gcorfield@theregister.co.uk",
+          "https://www.linkedin.com/in/gareth-corfield-61952439/?originalSubdomain=uk"
+        ],
+        "synonyms": [
+        "@GazTheJourno"
+        ]
+      },
+      "uuid": "02ab5f1c-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Gareth Corfield"
+    },
+	{
+      "description": "Security Analyst at Check Point Software Technologies, Ltd.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/gilmansharov/?originalSubdomain=il",
+          "https://twitter.com/GMansharov"
+        ],
+        "synonyms": [
+        "@GMansharov"
+        ]
+      },
+      "uuid": "02ab6084-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Gil Mansharov"
+    },
+	{
+      "description": "Staff journalist for news site HAARETZ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.haaretz.com/misc/writers/WRITER-1.4968424",
+          "https://www.linkedin.com/company/haaretz/"
+        ]
+      },
+      "uuid": "02ab61ba-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Hagai Amit"
+    },
+	{
+      "description": "Reporter at Stuff Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/hannah-martin-713559115/"
+        ]
+      },
+      "uuid": "02ab62e6-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Hannah Martin"
+    },
+	{
+      "description": "Security researcher affiliated with the technology vendor Microsoft and the Microsoft cybersecurity blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/"
+        ]
+      },
+      "uuid": "02ab641c-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Hazel Kim"
+    },
+	{
+      "description": "Online Reporter at MailOnline.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/henry-martin-75264a171/"
+        ]
+      },
+      "uuid": "02ab653e-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Henry Martin"
+    },
+	{
+      "description": "Holger is a long term security enthusiast started to work for Siemens as a telecommunication specialist building Hicom PBX systems and later networking systems. After passing the CCIE exam, he moved to Cisco 16 years ago, worked as penetration tester and as security consultant supporting large customer projects. His last job role at Cisco was leading the Cyber Security Technical Advisor Group in EMEA. Holger is now working as a Security Researcher in TALOS. He did security research in a couple of sectors like botnet technology, sandbox bypassing, VPN MITM and developed several tools for penetration testing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/holger-unterbrink-5aa8501/",
+          "https://twitter.com/hunterbr72?lang=en",
+          "https://blogs.cisco.com/author/holgerunterbrink"
+        ],
+        "synonyms": [
+        "@hunterbr72"
+        ]
+      },
+      "uuid": "02ab6822-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Holger Unterbrink"
+    },
+	{
+      "description": "Security Researcher at Intezer. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ignacio-sanmillan-1aa244b8/",
+          "https://twitter.com/ulexec?lang=en"
+        ],
+        "synonyms": [
+        "Nacho Sanmillan",
+        "@ulexec"
+        ]
+      },
+      "uuid": "02ab6962-3d4e-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Ignacio Sanmillan"
+    },
+	{
+      "description": "Ionut Ilascu is freelancing as a technology writer with a focus on all things cybersecurity. The topics he writes about include malware, vulnerabilities, exploits and security defenses, as well as research and innovation in information security. His work has been published by Bitdefender, Netgear, The Security Ledger and Softpedia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/author/ionut-ilascu/"
+        ]
+      },
+      "uuid": "fbb984f2-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Ionut Ilascu"
+    },
+	{
+      "description": "Ambitious, logical and autodidact security enthusiast with years of thorough hands-on experience with malware research, hunting operations, computer and network forensics, incident response and almost everything security related. Core member of radare2 and a maintainer of Cutter. The author of megabeets.net, a security blog focused on making advanced security topics accessible for free. Security Researcher at security vendor Check Point.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/itay-cohen/?originalSubdomain=il",
+          "https://twitter.com/megabeets_?lang=en",
+          "https://github.com/ITAYC0HEN"
+        ],
+        "synonyms": [
+        "@megabeets_"
+        ]
+      },
+      "uuid": "fbb98998-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Itay Cohen"
+    },
+	{
+      "description": "Security Content Analyst & Researcher at Trusteer (IBM).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/itzik-chimino-8b719967/?locale=de_DE"
+        ]
+      },
+      "uuid": "fbb98b14-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Itzik Chimino"
+    },
+	{
+      "description": "Technical Leader for Cisco's Talos Security Intelligence & Research Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/jaesonschultz?lang=en"
+        ],
+        "synonyms": [
+        "@jaesonschultz"
+        ]
+      },
+      "uuid": "fbb98e7a-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jaeson Schultz"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/leveraging-apple-remote-desktop-for-good-and-evil.html"
+        ]
+      },
+      "uuid": "fbb990b4-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jake Nicastro"
+    },
+	{
+      "description": "Senior Cyber Defense Researcher at Trend Micro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/jakuburbanec",
+          "https://www.linkedin.com/in/urbanec/"
+        ],
+        "synonyms": [
+        "@JakubUrbanec"
+        ]
+      },
+      "uuid": "fbb992ee-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jakub Urbanec"
+    },
+	{
+      "description": "Staff Malware Reverse Engineer at they cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/controlling-ida-pro-with-voice-control-software.html",
+          "https://twitter.com/jtbennettjr?lang=en",
+          "https://www.linkedin.com/in/james-bennett-87b0b15/"
+        ],
+        "synonyms": [
+        "@jtbennettjr"
+        ]
+      },
+      "uuid": "fbb99460-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: James T. Bennett"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with Cisco Talos Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/10/vuln-spotlight-schneider-electric-m580-part-2-sept-2019.html"
+        ]
+      },
+      "uuid": "fbb99596-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jared Rittle"
+    },
+	{
+      "description": "Reverse engineer with a deep knowledge of x86 and x64 assembly, proficient in using several debuggers and disassemblers (OllyDBG, WinDBG, IDA) and other reversing tools. Abilities include reversing applications under Windows, Linux and Android platforms, exploits (OLE, PDF, Java) and scripts. Has detailed knowledge of PE executables and Windows internals. Software engineer with experience in developing applications in C as well as C++ and Java. Prolific blogger and IT security conference speaker.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jaromirhorejsi/",
+          "https://twitter.com/JaromirHorejsi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/jaromirh/"
+        ],
+        "synonyms": [
+        "@JaromirHorejsi"
+        ]
+      },
+      "uuid": "fbb996cc-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jaromir Horejsi"
+    },
+	{
+      "description": "Jay has extensive research experience in DevOps security, Blockchain security, and edge computing. His current research focuses on reducing the attack surface of container platforms, e.g., Docker, Docker Swarm, Kubernetes. He also led the Blockchain research in Accenture Cyber Tech Lab. In the past, he worked on optimizing the security, energy-efficiency, and load-balancing for mobile cloud. Jay has authored and co-authored 12 conference and journal papers.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jaychen2015/"
+        ]
+      },
+      "uuid": "fbb997f8-3d4f-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jay Chen"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/fireeye/status/1134202881786167297?lang=en",
+          "https://twitter.com/FireEye/status/1133810364905414656"
+        ]
+      },
+      "uuid": "191c5518-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jay Gibble"
+    },
+	{
+      "description": "Jeff is the managing editor of The Avast Blog. He is a former Wall Street Journal tech reporter, the former head of digital media for Wikipedia, the former editor of The Salesforce Blog, and former senior writer and editor for McAfee. He also once met Johnny Cash.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.avast.com/author/jeff-elder",
+          "https://twitter.com/JeffElder"
+        ],
+        "synonyms": [
+        "@JeffElder"
+        ]
+      },
+      "uuid": "191c57de-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jeff Elder"
+    },
+	{
+      "description": "Security Research Engineer at Proofpoint. Professional experience includes UNIX administration, scripting, and malware analysis. Studies a mix of digital forensics and network forensics, and dynamic malware analysis for the past two years. Avid C, C++, Python programmer for PoC programs to develop student talent in RCE methodology.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jeremy-hedges-62940b49/"
+        ]
+      },
+      "uuid": "191c593c-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jeremy Hedges"
+    },
+	{
+      "description": "Security researcher and OSINT author. Affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html"
+        ]
+      },
+      "uuid": "191c5c48-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jeremy Kennelly"
+    },
+	{
+      "description": "Senior Security Researcher with the cybersecurity vendor Malwarebytes.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/jeromesegura"
+        ],
+        "synonyms": [
+        "@jeromesegura"
+        ]
+      },
+      "uuid": "191c5d88-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jerome Segura"
+    },
+	{
+      "description": "With a degree in networking and a degree in information technology, Jessica has a background in the tech field for almost two decades. Being fluent in Spanish has steered her to Latin America where she worked with various businesses in the private sector, hunting IOC and monitoring the threat landscape for any new variants. Jessica thrives on being detailed and thorough in all aspects of life, and is well aligned with McAfee’s mission and future.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/jessica-saavedra-morales/",
+          "https://www.linkedin.com/in/jessica-saavedramorales-a58373177/"
+        ]
+      },
+      "uuid": "191c5eb4-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jessica Saavedra-Morales"
+    },
+	{
+      "description": "John Fokker is Head of Cyber Investigations for McAfee Advanced Threat Research. Prior to joining McAfee, he worked at the National High Tech Crime Unit (NHTCU), the Dutch national police unit dedicated to investigating advanced forms of cybercrime. Within NHTCU he led the data science group, which focused on threat intelligence research. During his career he has supervised numerous large-scale cybercrime investigations and takedowns. Fokker is also one of the cofounders of the NoMoreRansom Project. He started his career with the Netherlands Police Agency as a digital forensics investigator within a task force against organized crime. Before joining the national police, he served in the special operations and counterterrorism group of the Royal Netherlands Marine Corps.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/author/john-fokker/",
+          "https://twitter.com/john_fokker?lang=en"
+        ],
+        "synonyms": [
+        "@John_Fokker"
+        ]
+      },
+      "uuid": "191c5fd6-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: John Fokker"
+    },
+	{
+      "description": "Research and applied work in cybersecurity, cyber warfare and disinformation. Author at Citizen Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/jsrailton?lang=en",
+          "https://www.linkedin.com/in/johnscottrailton/",
+		  "https://www.johnscottrailton.com/"
+        ],
+        "synonyms": [
+        "@jsrailton"
+        ]
+      },
+      "uuid": "191c6102-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: John Scott-Railton"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity anti-virus vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/johnlerytriunfante/"
+        ]
+      },
+      "uuid": "191c6468-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Johnlery Triunfante"
+    },
+	{
+      "description": "Only a few years removed from college, I am using my training as a journalist to inform consumers, researchers and executives in the cybersecurity field now as a technical editor and writer at Cisco Talos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.blogger.com/profile/13414456218583234191",
+          "https://www.linkedin.com/in/jonmunshaw/"
+        ]
+      },
+      "uuid": "191c65b2-3d52-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Jon Munshaw"
+    },
+	{
+      "description": "Cybersecurity Research & Development at Netskope.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/abhinavbom?lang=en",
+          "https://www.linkedin.com/in/abhinavbom/"
+        ],
+        "synonyms": [
+        "@abhinavbom"
+        ]
+      },
+      "uuid": "369a0e34-3d2d-11ea-b77f-2e728ce88125",
+      "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
 	"version": 1
