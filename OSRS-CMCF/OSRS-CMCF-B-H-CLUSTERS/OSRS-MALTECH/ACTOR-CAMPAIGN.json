@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Threat actor identified by Advanced Intelligence LLC researchers and is attributed to selling Access-As-A-Service (AAAS) to groups seeking to deploy Sodinokibi (a.k.a. REvil) ransomware.",
       "meta": {
 	  "kill_chain": [
@@ -21,6 +21,857 @@
       },
       "uuid": "f341ef38-2825-11ea-978f-2e728ce88125",
       "value": "OSRS Actors AND Campaigns: -TMT-"
+    },
+	{
+      "description": "A China-nexus dual espionage and financially-focused group, APT41 targets industries such as gaming, healthcare, high-tech, higher education, telecommunications, and travel services. APT41 is known to adapt quickly to changes and detections within victim environments, often recompiling malware within hours of incident responder activity. In multiple situations, we also identified APT41 utilizing recently-disclosed vulnerabilities, often weaponzing and exploiting within a matter of days.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html"
+        ]
+      },
+      "uuid": "e60cd01c-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: APT41"
+    },
+	{
+      "description": "Achilles is an English-speaking threat actor primarily operating on various English-language underground hacking forums as well as through secure messengers. Achilles specializes in obtaining accesses to high-value corporate internal networks. Achilles victims are primarily private sector entities; however, the actor also targeted public domains, government-affiliated companies, and international organizations. Targeted verticals include defense, energy, tourism, finance, real estate, and information technology. Achilles was likely operating under the alias the.Joker on a now-defunct top-tier English-language darkweb forum KickAss as they made an identical offer using both aliases. The actor may be potentially affiliated with an Iranian cybercrime domain; however, this association may only be supported by secondary evidence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.advanced-intel.com/blog/achilles-hacker-behind-attacks-on-military-shipbuilders-unicef-international-corporations"
+        ],
+        "synonyms": [
+        "the.Joker"
+        ]
+      },
+      "uuid": "e60cd29c-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Achilles"
+    },
+	{
+      "description": "Unit 42 refers to the activity described in this blog as the Aggah Campaign based on the actor’s alias hagga, which was used to split data sent to the RevengeRAT C2 server and was the name of one of the Pastebin accounts used to host the RevengeRAT payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/"
+        ]
+      },
+      "uuid": "e60cd404-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Aggah Campaign"
+    },
+	{
+      "description": "Beapy is a cryptojacking campaign impacting enterprises that uses the EternalBlue exploit and stolen and hardcoded credentials to spread rapidly across networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/84512/malware/beapy-miner-eternalblue-doublepulsar.html"
+        ]
+      },
+      "uuid": "e60cd544-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Beapy"
+    },
+	{
+      "description": "Another nomenclature for the threat actor Lotus Blossom. Billbug is a long-established espionage group, active since at least January 2009. Similar to the Thrip sub-group, the wider Billbug group is known for specializing in operations against targets in South Asia. Billbug targets are usually compromised by either spear-phishing emails or watering hole attacks. The group spear-phishing attacks have tended to use exploits in Microsoft Office and PDF documents to drop its malware onto victims computers. To date, many of the group targets have been governments or military organizations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia"
+        ],
+        "synonyms": [
+        "Lotus Blossom"
+        ]
+      },
+      "uuid": "e60cd8b4-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Billbug"
+    },
+	{
+      "description": "Campaign discovered by Cisco Talos with suspected links to the threat actor MuddyWater. Targets primarily included Turkey-based entities. TTP includes use of Powershell and weaponized documents.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html"
+        ]
+      },
+      "uuid": "e60cd9f4-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: BlackWater Campaign"
+    },
+	{
+      "description": "Boris Bullet-Dodger is the threat actor claiming responsibility for the hack of Perceptics. Perceptics is a leader in license plate readers (LPRs), license plate recognition systems and vehicle identification products. The company was hacked and attackers stole data and offered business plans, financial documents, and personal information for free on the dark web.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/86177/data-breach/perceptics-hacked.html"
+        ]
+      },
+      "uuid": "e60cdb20-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Boris Bullet-Dodger"
+    },
+	{
+      "description": "A cyberespionage campaign targeting Middle Eastern countries. Name based on the malware’s code in the package named golf. The malware involved, is notable for its wide range of cyberespionage capabilities. Malicious codes are embedded in apps that the operators repackaged from legitimate applications. Monitoring the command and control (C&C) servers used by Bouncing Golf, observed more than 660 Android devices infected with GolfSpy. Much of the information being stolen appear to be military-related.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
+        ]
+      },
+      "uuid": "e60cdc42-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Bouncing Golf"
+    },
+	{
+      "description": "Campaign identified by the cybersecurity vendor TrendMicro. The campaign used masquerading as legitimate Android apps to lure victims into using the applications and then stealing user as well as system information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-distributed-through-callerspy-mounts-initial-phase-of-a-targeted-attack/"
+        ]
+      },
+      "uuid": "e60cdd64-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: CallerSpy Campaign"
+    },
+	{
+      "description": "An Iran-linked APT known as Chafer has been spotted targeting various entities based in Iran with an enhanced version of a custom malware that takes a very unique approach to communication by using the Microsoft Background Intelligent Transfer Service (BITS) mechanism over HTTP.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/sandcat"
+        ]
+      },
+      "uuid": "e60cde90-4134-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Chafer"
+    },
+	{
+      "description": "Charming Kitten, also known as APT35 or Ajax, is an Iranian cyberespionage group active since 2014. Their primary targets are Iranian experts working in the Academy, human rights activists and media personnel. Most victims are in the Middle East, US and the UK.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-Are-Back-in-Town-Charming-Kitten-Sep-2019.pdf"
+        ],
+        "synonyms": [
+        "APT35",
+		"Ajax",
+		"Phosphorus"
+        ]
+      },
+      "uuid": "6a19ccce-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Charming Kitten (Threat Actor Group)"
+    },
+	{
+      "description": "Operates like FIN7. At the end of 2018, while searching for new FIN7 campaigns via telemetry, we discovered a set of activity that we temporarily called CopyPaste from a previously unknown APT. Interestingly, this actor targeted financial entities and companies in one African country, which lead us to think that CopyPaste was associated with cybermercenaries or a training center.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/"
+        ]
+      },
+      "uuid": "6a19cf26-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: CopyPaste"
+    },
+	{
+      "description": "Threat actor attributed to building the DarkUniverse Framework. Syria, Iran, Afghanistan, Tanzania, Ethiopia, Sudan, Russia, Belarus and the United Arab Emirates. The victims included both civilian and military organizations.This APT has been active for at least eight years, from 2009 until 2017. It is assess with medium confidence that DarkUniverse is a part of the ItaDuke set of activities due to unique code overlaps. ItaDuke is an actor known since 2013. ItaDuke used PDF exploits for dropping malware and Twitter accounts to store C2 server urls.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/darkuniverse-the-mysterious-apt-framework-27/94897/"
+        ]
+      },
+      "uuid": "6a19d07a-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: DarkUniverse"
+    },
+	{
+      "description": "The author of the 16Shop phishing kit. This actor was involved in the Indonesian hacking group Indonesian Cyber Army. Several websites were defaced by this group and tagged by DevilScreaM in 2012. DevilScreaM also created the site Newbie-Security.or.id, an Indonesian site of hacking tools frequented by members of the Indonesian Cyber Army. DevilScreaM stopped defacing websites and created an anti-malware product, ScreaMAV, for the Indonesian market. This white hat activity did not last. In mid-2013 they began defacing sites again and posting exploits on 0day.today mostly around WordPress vulnerabilities. DevilScreaM’s GitHub page contains various tools, including a PHP remote shell used on compromised websites as well as commits on the z1miner Monero (XMR) miner tool. in late 2017 DevilScreaM created the 16Shop phishing kit and set up a Facebook group to sell licenses and support. In November 2018. this private group had over 200 members. We checked the group in mid-June 2019 and it now has over 300 members and over 200 posts. Despite the questionable content, the group not only persists unchanged on social media, but continues to grow.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Threat_actor"
+        ]
+      },
+      "uuid": "6a19d1ba-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: DevilScreaM"
+    },
+	{
+      "description": "Threat group attributed with releasing sensitive information belonging to the Cayman National Bank. It is believed that this group did not directly hack the bank. Rather the information was obtained via another threat actor Phineas Fisher.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/94136/data-breach/cayman-national-bank-data-leak.html"
+        ]
+      },
+      "uuid": "6a19d4f8-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Distributed Denial of Secrets"
+    },
+	{
+      "description": "Through the use of mobile applications, those behind the attack use fake decoy content to entice their victims to download such applications, which are in fact loaded with spyware, to then collect sensitive information about them. Interestingly, these targets include Kurdish and Turkish natives and ISIS supporters. Most interesting of all, though, is that all these targets are actually Iranians citizens.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/domestic-kitten-an-iranian-surveillance-operation/"
+        ]
+      },
+      "uuid": "6a19d64c-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Domestic Kitten"
+    },
+	{
+      "description": "Chinese threat actor group that targets the Uyghur population within China.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://thenextweb.com/security/2019/09/03/uyghur-muslims-targeted-by-surveillance-campaign-affected-not-just-ios-but-android-too/",
+		  "https://thenextweb.com/security/2019/09/25/mobile-malware-campaign-targeting-uyghur-muslims-impacted-tibetans-too/",
+		  "https://www.volexity.com/blog/2019/09/02/digital-crackdown-large-scale-surveillance-and-exploitation-of-uyghurs/",
+		  "https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/"
+        ]
+      },
+      "uuid": "6a19d778-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Evil Eye"
+    },
+	{
+      "description": "Threat actor attributed to targeted attacks against officials within government finance authorities and representatives in several embassies in Europe. The attack, which starts with a malicious attachment disguised as a top secret US document, weaponizes TeamViewer, the popular remote access and desktop sharing software, to gain full control of the infected computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/finteam-trojanized-teamviewer-against-government-targets/"
+        ]
+      },
+      "uuid": "6a19d8a4-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: FINTEAM"
+    },
+	{
+      "description": "Frankenstein — the name refers to the actor(s) ability to piece together several unrelated components — leveraged four different open-source techniques to build the tools used during the campaign. The campaign used components of (1) An article to detect when your sample is being run in a VM, (2) A GitHub project that leverages MSbuild to execute a PowerShell command, (3) A component of GitHub project called Fruityc2 to build a stager, and (4) A GitHub project called PowerShell Empire for their agents. The actor(s) preference for open-source solutions appears to be part of a broader trend in which adversaries are increasingly using publicly available solutions, possibly to improve operational security.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/06/frankenstein-campaign.html"
+        ]
+      },
+      "uuid": "6a19d9da-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Frankenstien Campaign"
+    },
+	{
+      "description": "Threat actor identified by cybersecurity vendor RiskIQ. This threat actor leverages phishing along with card skimming attacks like Magecart. While the two parts of this group’s operation are mainly split, there is a slight overlap in their attack infrastructure on domain-to-IP address resolution data, which is shown in the middle. The sales platforms this group operates also have infrastructure overlap with the infrastructure tied to the group’s operations that steal cards or payment credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/labs/fullz-house/"
+        ]
+      },
+      "uuid": "6a19db06-4136-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Full(z) House"
+    },
+	{
+      "description": "Fxmsp is a high-profile Russian and English speaking hacking collective. They specialize in breaching highly secure protected networks to access private corporate and government information. They have a long-standing reputation for selling sensitive information from high-profile global government and corporate entities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.advanced-intel.com/blog/top-tier-russian-hacking-collective-claims-breaches-of-three-major-anti-virus-companies"
+        ]
+      },
+      "uuid": "a634eba2-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Fxmsp"
+    },
+	{
+      "description": "Nomenclature given to a threat actor group that notably leverages the TrickBot malware family.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.secureworks.com/blog/trickbot-modifications-target-us-mobile-users"
+        ]
+      },
+      "uuid": "a634ee68-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: GOLD BLACKBURN"
+    },
+	{
+      "description": "GnosticPlayers has been responsible for some of the largest data dumps recorded. Along with the Australian company Canva they have also been responsible for the following...Pizap (Photo editor) — 60 million, Jobandtalent (Online job portal) — 11 million, Gfycat (GIF hosting service) — 8 million, Storybird (Online publishing platform) — 4 million, Legendas.tv (Movie streaming site) — 3.8 million, Onebip (Mobile payment service) — 2.6 million, Classpass (Fitness and Yoga center) — 1.5 million, and Streeteasy (Real estate) — 990,000 (1 million).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.databreaches.net/australian-tech-unicorn-canva-suffers-security-breach/",
+		  "https://securityaffairs.co/wordpress/81340/breaking-news/gnosticplayers-data-breaches.html",
+		  "https://www.scmagazine.com/home/security-news/a-hacker-dubbed-gnosticplayers-and-is-known-for-selling-personal-information-recently-posted-26-42-million-stolen-user-records-for-sale-on-the-dark-web/"
+        ]
+      },
+      "uuid": "a634efb2-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: GnosticPlayers"
+    },
+	{
+      "description": "A campaign identified by TrendMicro researchers that leverages phishing attacks to steal PayPal and credit card information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/heatstroke-campaign-uses-multistage-phishing-attack-to-steal-paypal-and-credit-card-information/"
+        ]
+      },
+      "uuid": "a634f1e2-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Heatstroke"
+    },
+	{
+      "description": "The group targeted third-party companies, like telco service providers, to hit the final target in a classic supply chain attack. HEXANE leverages on weaponized documents used to drop the malware and compromise the target network. The threat actor shows similarities with other groups such as Magnallium and Chrysene, both active since at least 2017 and involved in attacks on oil and gas companies. Anyway, experts pointed out that the Hexane group has differed TTPs and has its own arsenal. Stylistically, the observed tradecraft resembles activity from groups such as COBALT GYPSY (which is related to OilRig, Crambus, and APT34) and COBALT TRINITY (also known as Elfin and APT33). However, none of the collected malware or infrastructure associated with LYCEUM has direct links to observed activity from these or other known threat groups. As of this publication, there is insufficient technical evidence to support an attribution assessment. When CTU researchers first published information about LYCEUM to Secureworks Threat Intelligence clients, no public documentation on the group existed. Since then, reporting has emerged that refers to the threat group as HEXANE.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/89249/apt/hexane-threat-actor.html",
+		  "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+        ],
+        "synonyms": [
+        "Lyceum"
+        ]
+      },
+      "uuid": "a634f322-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Hexane"
+    },
+	{
+      "description": "INDRIK SPIDER is a sophisticated eCrime group that has been operating Dridex since June 2014. In 2015 and 2016, Dridex was one of the most prolific eCrime banking trojans on the market and, since 2014, those efforts are thought to have netted INDRIK SPIDER millions of dollars in criminal profits. Throughout its years of operation, Dridex has received multiple updates with new modules developed and new anti-analysis features added to the malware. In August 2017, a new ransomware variant identified as BitPaymer was reported to have ransomed the U.K.’s National Health Service (NHS), with a high ransom demand of 53 BTC (approximately $200,000 USD). The targeting of an organization rather than individuals, and the high ransom demands, made BitPaymer stand out from other contemporary ransomware at the time. Though the encryption and ransom functionality of BitPaymer was not technically sophisticated, the malware contained multiple anti-analysis features that overlapped with Dridex. Later technical analysis of BitPaymer indicated that it had been developed by INDRIK SPIDER, suggesting the group had expanded its criminal operation to include ransomware as a monetization strategy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/",
+		  "https://malpedia.caad.fkie.fraunhofer.de/actor/indrik_spider"
+        ]
+      },
+      "uuid": "a634f534-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: INDIRK SPIDER"
+    },
+	{
+      "description": "Additional nomenclature for threat actor FIN6.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/"
+        ],
+        "synonyms": [
+        "FIN6"
+        ]
+      },
+      "uuid": "a634f674-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: ITG08"
+    },
+	{
+      "description": "Research indicates that the attack on Parliament is a part of a multi-year cyberespionage campaign orchestrated by a nation-state actor whom we are calling IRIDIUM. This actor targets sensitive government, diplomatic, and military resources in the countries comprising the Five Eyes intelligence alliance (which includes Australia, Canada, New Zealand, the United Kingdom and the United States).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/iridium",
+		  "https://resecurity.com/blog/parliament_races/",
+		  "https://www.nbcnews.com/politics/national-security/iranian-backed-hackers-stole-data-major-u-s-government-contractor-n980986",
+		  "https://www.zdnet.com/article/citrix-discloses-security-breach-of-internal-network/"
+        ]
+      },
+      "uuid": "a634f7a0-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Iridium"
+    },
+	{
+      "description": "ItaDuke uses PDF exploits to deliver malware to their targets, which also include the exploitation of CVE-2013-0158, CVE-2010-3333, and CVE-2009-0563. It is assessed that ItaDuke targeted Tibetan and Uyghur activists. Earliest reports regarding ItaDuke date to March, 2013.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/new-uyghur-and-tibetan-themed-attacks-using-pdf-exploits/35465/"
+        ]
+      },
+      "uuid": "a634f9c6-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: ItaDuke"
+    },
+	{
+      "description": "A Capesand campaign that uses a particular obfuscation tool who's strings are KurdishCoder.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/obfuscation-tools-found-in-the-capesand-exploit-kit-possibly-used-in-kurdishcoder-campaign/"
+        ]
+      },
+      "uuid": "a634fafc-413c-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: KurdishCoder Campaign"
+    },
+	{
+      "description": "A credential harvesting campaign that mostly targets South Asian governments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.netscout.com/blog/asert/lucky-elephant-campaign-masquerading"
+        ]
+      },
+      "uuid": "bcd84456-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: LUCKY ELEPHANT"
+    },
+	{
+      "description": "Leviathan is an espionage actor targeting organizations and high-value targets in defense and government. Active since at least 2014, this actor has long-standing interest in maritime industries, naval defense contractors, and associated research institutions in the United States and Western Europe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/leviathan"
+        ],
+        "synonyms": [
+        "TEMP.Periscope",
+		"TEMP.Jumper",
+		"APT 40",
+		"APT40"
+        ]
+      },
+      "uuid": "bcd84816-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Leviathan"
+    },
+	{
+      "description": "Threat actor group discovered by Group-IB known for conducting fraudulent activities masquerading as legitimate web sites and applications.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html"
+        ]
+      },
+      "uuid": "bcd84974-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Lotsy"
+    },
+	{
+      "description": "The Luhansk People's Republic, also known as Lugansk People's Republic, usually abbreviated as LPR or LNR, is a landlocked proto-state in the Donbass region, in eastern Ukraine. Along with the Donetsk People's Republic DPR, the LPR declared independence from Ukraine in the aftermath of the 2014 Ukrainian revolution. An armed conflict with Ukraine followed its declaration of independence, during which the LPR and DPR received military and humanitarian assistance from Russia. This conflict is still ongoing as of April 2019. LPR remains unrecognized by any UN member state, including Russia—although Russia recognizes documents issued by the LPR government, such as identity documents, diplomas, birth and marriage certificates and vehicle registration plates.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic"
+        ]
+      },
+      "uuid": "bcd84aaa-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Luhansk People's Republic"
+    },
+	{
+      "description": "Group 4 is described as advanced and uses techniques to blend in with normal traffic. For instance, Magecart will register domain names that appear to be tied to advertisers or analytic providers. Another interesting aspect from the report is that Group 4 is suspected to have had a history in banking malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2019/10/magecart-group-4-a-link-with-cobalt-group/"
+        ]
+      },
+      "uuid": "bcd84be0-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Magecart Group 4"
+    },
+	{
+      "description": "MG5 uses malicious code designed for injection into benign JavaScript files loaded by commercial-grade layer 7 (L7) routers. These routers are typically used by airports, casinos, hotels and resorts, to name a few. MG5 has likely devised an attack scenario in which it could inject its malicious payment card stealing code into a popular open-source JavaScript library. This open-source code is provided as a free, licensed tool designed to help make websites compatible with mobile browsing. By infecting that code, MG5 can potentially infect and compromise the data of mobile device users that install booby-trapped apps and then shop online.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/leading-magecart-group-targeting-captive-wi-fi-users-via-l7-routers/"
+        ],
+        "synonyms": [
+        "MG5"
+        ]
+      },
+      "uuid": "bcd84d2a-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Magecart Group 5"
+    },
+	{
+      "description": "The online credit card skimming attack known as Magecart or E-Skimming was actively operating on 3,126 online shops. Data shows that the attack started on September 7, 2019. All of the impacted online shops are hosted on the cloud platform of the e-commerce service provider Volusion, one of the top e-commerce platforms in the market. Discovery of malicious code injected into a JavaScript library provided by Volusion to their client shops. The injected code loaded another JavaScript stored on a Google Storage service. The loaded script is almost a direct copy of a normal JavaScript library but has a credit card skimmer carefully integrated. When customers submit their payment information, the skimmer will copy and send the personal information and credit card details to an exfiltration server belonging to the attackers. During an investigation, it was found that the attackers seemed more experienced and thoughtful than many other skimmer groups. They did not simply add their malicious code at the top or end of a script; instead, they carefully integrated the code into the original script to be part of the execution flow of the program. The code was also written as simply as possible, making it difficult to be identified in a big library. Furthermore, they registered the domain of their exfiltration server in a similar style to a legitimate Volusion domain. Considering the modus operandi, it is believed the attackers are from Magecart Group 6, which has also been identified as the notorious threat actor FIN6. Similarities in the code used in this attack and the code used in FIN6’s previous attacks on British Airways and Newegg.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/fin6-compromised-e-commerce-platform-via-magecart-to-inject-credit-card-skimmers-into-thousands-of-online-shops/"
+        ],
+        "synonyms": [
+        "FIN6"
+        ]
+      },
+      "uuid": "bcd84f32-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Magecart Group 6"
+    },
+	{
+      "description": "Threat actor claiming responsibility for hacking the Murfreesboro Water Department bill payment system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.databreaches.net/tn-murfreesboro-water-departments-bill-pay-website-hacked/"
+        ]
+      },
+      "uuid": "bcd85072-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Mamad Warning"
+    },
+	{
+      "description": "A campaign that targeted the Italian Naval industry in 2018. The campaign used the MartyMCFly malware against its targets. Several references to this malware and the campaign can be found attached to this cluster item.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/77195/malware/martymcfly-malware-cyber-espionage.html",
+		  "https://blog.yoroi.company/research/cyber-espionage-campaign-targeting-the-naval-industry-martymcfly/",
+		  "https://marcoramilli.com/2019/10/28/sweed-targeting-precision-engineering-companies-in-italy/",
+		  "https://marcoramilli.com/2018/10/17/martymcfly-malware-targeting-naval-industry/"
+        ]
+      },
+      "uuid": "bcd851b2-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: MartyMCFly"
+    },
+	{
+      "description": "MassMiner stands out as a worm that not only spreads itself through number of different exploits, but also brute-forces access to Microsoft SQL Servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.alienvault.com/blogs/labs-research/massminer-malware-targeting-web-servers",
+		  "https://blog.talosintelligence.com/2019/09/panda-evolution.html"
+        ]
+      },
+      "uuid": "bcd852f2-413e-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: MassMiner Campaign"
+    },
+	{
+      "description": "Threat actor attributed to attacks against multiple campus store websites on April 14, during which the sites were injected with a malicious skimming script (detected by Trend Micro as Trojan.JS.MIRRORTHEIF.AA) at their payment checkout pages. The skimming script can scrape credit card information, as well as personal details entered on the payment page. The stolen information is consequently sent to a remote server. After looking into this attack, we learned that the attackers compromised PrismWeb, which is an e-commerce platform designed for college stores by company PrismRBS, a subsidiary of Nebraska Book Company.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mirrorthief-group-uses-magecart-skimming-attack-to-hit-hundreds-of-campus-online-stores-in-us-and-canada/"
+        ]
+      },
+      "uuid": "7cf22f30-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: MirrorThief"
+    },
+	{
+      "description": "The origins of digital espionage remain hidden in the dark. In most cases, codenames and fragments of stories are all that remains of the ‘prehistoric’ actors that pioneered the nowubiquitous practice of computer network exploitation. The origins of early operations, tools, and tradecraft are largely unknown: official documents will remain classified for years and decades to come; memories of investigators are eroding as time passes; and often precious forensic evidence is discarded, destroyed, or simply lost as storage devices age. Even Moonlight Maze, perhaps the oldest publicly acknowledged state actor, has evaded open forensic analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
+        ]
+      },
+      "uuid": "7cf2319c-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Moonlight Maze"
+    },
+	{
+      "description": "A phishing campaign targeting Korean and Japanese Android users.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/moqhao-related-android-spyware-targeting-japan-and-korea-found-on-google-play/"
+        ],
+        "synonyms": [
+        "XLoader",
+		"Roaming Mantis"
+        ]
+      },
+      "uuid": "7cf232fa-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: MoqHao Phishing Campaign"
+    },
+	{
+      "description": "Actor taking credit for the attack on the Bangladesh Oil, Gas and Mineral Corporation Petrobangla.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.databreaches.net/petrobangla-website-hacked-again/"
+        ],
+        "synonyms": [
+        "b33"
+        ]
+      },
+      "uuid": "7cf23430-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: N33LOB33"
+    },
+	{
+      "description": "Nansh0u is a China-based campaign which aimed to infect Windows MS-SQL and phpMyAdmin servers worldwide. Breached machines include over 50,000 servers belonging to companies in the healthcare, telecommunications, media and IT sectors. Once compromised, the targeted servers were infected with malicious payloads. These, in turn, dropped a crypto-miner and installed a sophisticated kernel-mode rootkit to prevent the malware from being terminated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.guardicore.com/2019/05/nansh0u-campaign-hackers-arsenal-grows-stronger/"
+        ]
+      },
+      "uuid": "7cf238b8-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Nansh0u Campaign"
+    },
+	{
+      "description": "#OpJerusalem2019, an operation that was conducted to deliver the JCry ransomware. #OpJerusalem2019 is recently launched a cyber attack against the Israeli Government and the private websites including Coca-Cola, ToysRUs, McDonalds. In result, An anonymous hacker group compromised hundreds of websites and destroyed nearly 1 million Israeli based webpages that belong to some of the leading brands. Attackers goal was “erasing Israel from the Internet” in protest against the Israeli government’s conduct in the Israel-Palestine conflict.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/82030/hacking/opjerusalem-2019-jcry-ransomware.html",
+		  "https://gbhackers.com/jcry-ransomware/"
+        ]
+      },
+      "uuid": "7cf23a0c-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: OpJerusalem2019"
+    },
+	{
+      "description": "Operation conducted by threat actor TICK (a.k.a. Bronze Butler, RedBaldKnight). Focus of the campaign is to target defense, aerospace, chemical, and satellite industries in Japan who also has subsidiaries in China.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/"
+        ]
+      },
+      "uuid": "7cf23b2e-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation ENDTRADE"
+    },
+	{
+      "description": "The Dukes (aka APT29 and Cozy Bear) have been in the spotlight after their suspected involvement in the breach of the Democratic National Committee in the run-up to the 2016 US elections. Since then, except for a one-off, suspected comeback in November 2018, with a phishing campaign targeting several US-based organizations, no activity has been confidently attributed to the Dukes. This held true until recent months, when we researchers from the cybersecurity vendor ESET uncovered three new malware families that were attribute to the Dukes – PolyglotDuke, RegDuke and FatDuke. These new implants were used until very recently, with the latest observed sample being deployed in June 2019. This means the Dukes have been quite active since 2016, developing new implants and compromising high-value targets. These newly uncovered Dukes activities, collectively, have been placed under the campaign taxonomy Operation Ghost. It is believed by the ESET researchers that Operation Ghost started in 2013 and it is still ongoing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/"
+        ]
+      },
+      "uuid": "7cf23c5a-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation Ghost"
+    },
+	{
+      "description": "The campaign is named after a GitHub account that provided partial source codes of a malware. An analysis revealed that the malware is a backdoor written in Python. A peculiar Italian-origin malware campaign has been discovered by security researchers. It appears that this campaign has been active since 2016, and came to light only this year. First analyzed by TG Soft and then by Yoroi-Zlab, the attacker group is speculated to be Italian since many file names and scripts were in the Italian language, as well as C2 servers being from Italy. It was also observed that the Pistacchietto campaign targeted both mobile and desktop systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cyware.com/news/operation-pistacchietto-a-new-italian-malware-campaign-5a32edd6",
+		  "https://securityaffairs.co/wordpress/82066/cyber-crime/op-pistacchietto-hacking-campaign.html"
+        ]
+      },
+      "uuid": "7cf23d90-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation Pistacchietto"
+    },
+	{
+      "description": "A coordinated operation conducted by law enforcement agencies from Europe, Canada, and the United States targeted vendors and buyers of illegal goods on dark web marketplaces.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/82974/deep-web/operation-sabotor-dark-web.html"
+        ]
+      },
+      "uuid": "7cf23ebc-4140-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation SaboTor"
+    },
+	{
+      "description": "Operation ShadowHammer, a newly discovered supply chain attack that leveraged ASUS Live Update software.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/operation-shadowhammer/89992/"
+        ]
+      },
+      "uuid": "09de1b4c-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation ShadowHammer"
+    },
+	{
+      "description": "Operation Windigo – the vivisection of a large Linux server-side credential-stealing malware campaign. The gang behind Operation Windigo uses infected systems to steal credentials, redirect web traffic to malicious content, and send spam messages.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2014/03/18/operation-windigo-the-vivisection-of-a-large-linux-server-side-credential-stealing-malware-campaign/"
+        ]
+      },
+      "uuid": "09de1dfe-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation Windigo"
+    },
+	{
+      "description": "Operation WizardOpium, name give by cybersecurity vendor Kaspersky, leveraged CVE-2019-13720 to attract and exploit individuals using compromised websites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/"
+        ]
+      },
+      "uuid": "09de1f52-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Operation WizardOpium"
+    },
+	{
+      "description": "The Outlaw Hacking Group is typically responsible for DDoS attacks against organizations. They also offer DDoS as a service to the online gaming community.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-hacking-groups-botnet-observed-spreading-miner-perl-based-backdoor/"
+        ]
+      },
+      "uuid": "09de26c8-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Outlaw Hacking Group"
+    },
+	{
+      "description": "For three years, Unit 42 has tracked a set of cyber espionage attack campaigns across Asia, which used a mix of publicly available and custom malware. Unit 42 created the moniker PKPLUG for the threat actor group, or groups, behind these and other documented attacks referenced later in this report. The name comes from the tactic of delivering PlugX malware inside ZIP archive files as part of a DLL side-loading package. The ZIP file format contains the ASCII magic-bytes PK in its header, hence PKPLUG. While tracking these attackers, Unit 42 discovered additional, mostly custom malware families being used by PKPLUG beyond that of just PlugX. The additional payloads include HenBox, an Android app, and Farseer, a Windows backdoor. The attackers also use the 9002 Trojan, which is believed to be shared among a small subset of attack groups. Other publicly available malware seen in relation to PKPLUG activity includes Poison Ivy and Zupdax. Currently victims lay mainly in and around the Southeast Asia region, particularly Myanmar, Taiwan, Vietnam, and Indonesia; and likely also in various other areas in Asia, such as Tibet, Xinjiang, and Mongolia. Based on targeting, content in some of the malware and ties to infrastructure previously documented publicly as being linked to Chinese nation-state adversaries, Unit 42 believes with high confidence that PKPLUG has similar origins.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/pkplug_chinese_cyber_espionage_group_attacking_asia/"
+        ]
+      },
+      "uuid": "09de284e-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: PKPLUG"
+    },
+	{
+      "description": "Between November 2018 and May 2019, senior members of Tibetan groups received malicious links in individually tailored WhatsApp text exchanges with operators posing as NGO workers, journalists, and other fake personas. The links led to code designed to exploit web browser vulnerabilities to install spyware on iOS and Android devices, and in some cases to OAuth phishing pages. This campaign was carried out by what appears to be a single threat operator POISON CARP. POISON CARP employs a total of eight Android browser exploits and one Android spyware kit, as well as one iOS exploit chain and iOS spyware. None of the exploits observed were zero days. POISON CARP overlaps with two recently reported campaigns against the Uyghur community. The iOS exploit and spyware we observed was used in watering hole attacks reported by Google Project Zero, and a website used to serve exploits by POISON CARP was also observed in a campaign called Evil Eye reported by Volexity. The Android malware used in the campaign is a fully featured spyware kit that has not been previously documented. POISON CARP appears to have used Android browser exploits from a variety of sources. In one case, POISON CARP used a working exploit publicly released by Exodus Intelligence for a Google Chrome bug that was fixed in source, but whose patch had not yet been distributed to Chrome users. In other cases, POISON CARP used lightly modified versions of Chrome exploit code published on the personal GitHub pages of a member of Qihoo 360’s Vulcan Team, a member of Tencent’s Xuanwu Lab, and by a Google Project Zero member on the Chrome Bug Tracker. This campaign is the first documented case of one-click mobile exploits used to target Tibetan groups, and reflects an escalation in the sophistication of digital espionage threats targeting the community.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/"
+        ]
+      },
+      "uuid": "09de2a88-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: POISON CARP"
+    },
+	{
+      "description": "Panda has generated thousands of dollars worth of the Monero cryptocurrency through the use of remote access tools (RATs) and illicit cryptocurrency-mining malware. Panda's willingness to persistently exploit vulnerable web applications worldwide, their tools allowing them to traverse throughout networks, and their use of RATs, means that organizations worldwide are at risk of having their system resources misused for mining purposes or worse, such as exfiltration of valuable information. Panda has shown time and again they will update their infrastructure and exploits on the fly as security researchers publicize indicators of compromises and proof of concepts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/panda-evolution.html"
+        ]
+      },
+      "uuid": "09de2bc8-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Panda"
+    },
+	{
+      "description": "Threat actor attributed for hacking and stealing information from the spyware maker Hacking Team. Denies working for Russian government, and has released several sensitive databases to the public. Along with the release of Hacking Team data, Phineas Fisher has also targetd banks and oil companies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/94136/data-breach/cayman-national-bank-data-leak.html",
+		  "https://www.vice.com/en_us/topic/phineas-fisher",
+		  "https://www.vice.com/en_us/article/qv7y8m/vigilante-hacker-phineas-fisher-denies-working-for-the-russian-government",
+		  "https://www.vice.com/en_us/article/vb5agy/phineas-fisher-offers-dollar100000-bounty-for-hacks-against-banks-and-oil-companies"
+        ]
+      },
+      "uuid": "09de2cf4-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: Phineas Fisher"
+    },
+	{
+      "description": "Threat actor identified by the cybersecurity vendor Kaspersky and associated with the RevengHotels campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/revengehotels/95229/"
+        ]
+      },
+      "uuid": "09de2e16-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: ProCC Threat Actor"
+    },
+	{
+      "description": "Threat actor identified by the cybersecurity vendor Kaspersky and associated with the RevengHotels campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/revengehotels/95229/"
+        ]
+      },
+      "uuid": "09de2f38-4142-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: RevengHotels Threat Actor"
+    },
+	{
+      "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/88657/intelligence/fsb-contractor-sytech-hacked.html"
+        ],
+        "synonyms": [
+        "truniger"
+        ]
+      },
+      "uuid": "7d87df84-4132-11ea-b77f-2e728ce88125",
+      "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
 	"version": 1
