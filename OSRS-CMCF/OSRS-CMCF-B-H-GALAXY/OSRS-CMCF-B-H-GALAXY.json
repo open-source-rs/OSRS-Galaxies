@@ -15,7 +15,8 @@
 		"Vulnerability Source",
 		"OSINT Author",
 		"Exploit Author",
-		"CVE Author"
+		"CVE Author",
+		"Project Zero Author"
 	  ],
 	"block-h": [
 		"Risk Management Program",
