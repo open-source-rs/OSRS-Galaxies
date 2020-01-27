@@ -7,35 +7,73 @@
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{
-      "description": "Security researcher and vulnerability author.",
+      "description": "Ian Beer is a British computer security expert and white hat hacker, currently residing in Switzerland and working for Google as part of its Project Zero. There are those who consider him as one of the best iOS hackers. Beer was the first security expert to publish his findings under the Project Zero name in the spring of 2014; at this time, the project was not yet revealed and crediting the newly discovered vulnerabilities to it led to some speculation. He is known for discovering a large number of security vulnerabilities in Apple products, including iOS, Safari and macOS, as well as helping create jailbreaks for iOS versions. One such discovery forced Apple to rewrite significant parts of the macOS and iOS kernel. Beer is also a vocal critic of Apple concerning its bug bounty program for iOS announced in 2016. The invite only program has been accused of low payouts. Beer has also criticized the company for not disclosing to its users why updates that fix the bugs should be installed.",
       "meta": {
 	  "kill_chain": [
           "author-source:Project Zero Author"
         ],
         "refs": [
-          "aaron@securitymetrics.com"
+          "https://en.wikipedia.org/wiki/Ian_Beer",
+		  "https://twitter.com/i41nbeer?lang=en"
+        ],
+        "synonyms": [
+        "@i41nbeer"
         ]
       },
-      "uuid": "e0a899a0-28b9-11ea-978f-2e728ce88125",
-      "value": "OSRS CVE Author Index: Aaron Bishop"
+      "uuid": "d153b674-412d-11ea-b77f-2e728ce88125",
+      "value": "OSRS CVE Author Index: Ian Beer"
     },
-
-    {
+	{
+      "description": "Security researcher in Google Project Zero. Author of Attacking Network Protocols. Tweets are my own etc.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:Project Zero Author"
+        ],
+        "refs": [
+          "https://twitter.com/tiraniddo?lang=en",
+		  "https://tyranidslair.blogspot.com"
+        ],
+        "synonyms": [
+        "@tiraniddo"
+        ]
+      },
+      "uuid": "d153b93a-412d-11ea-b77f-2e728ce88125",
+      "value": "OSRS CVE Author Index: James Forshaw"
+    },
+	{
+      "description": "Security Researcher @Google Project Zero | Reverse engineering is my favorite. Love all things bytes, assembly, and glitter. My opinions are my own.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:Project Zero Author"
+        ],
+        "refs": [
+          "https://twitter.com/maddiestone?lang=en",
+		  "https://github.com/maddiestone"
+        ],
+        "synonyms": [
+        "@maddiestone"
+        ]
+      },
+      "uuid": "d153ba8e-412d-11ea-b77f-2e728ce88125",
+      "value": "OSRS CVE Author Index: Maddie Stone"
+    },
+	{
       "description": "Security researcher and CVE author. Information Security Specialist - Intern at Trend Micro.",
       "meta": {
 	  "kill_chain": [
           "author-source:Project Zero Author"
         ],
         "refs": [
-          "https://www.linkedin.com/in/ashishvermarox/",
-		  "https://twitter.com/ashishvermarox"
+          "https://twitter.com/5aelo?lang=en",
+		  "https://github.com/saelo",
+		  "https://saelo.github.io"
         ],
 		"synonyms": [
-		"@ashishvermarox"
+		"@5aelo"
 		]
       },
-      "uuid": "b59dc158-2d88-11ea-978f-2e728ce88125",
-      "value": "OSRS CVE Author Index: Ashish Verma"
+      "uuid": "d153bcaa-412d-11ea-b77f-2e728ce88125",
+      "value": "OSRS CVE Author Index: Samuel Groß"
     }
 	  ],
 	"version": 1
