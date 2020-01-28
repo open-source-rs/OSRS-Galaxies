@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The Anatova ransomware is a 64bits application with the compile date of January 1st, 2019. The file size of this particular hash is 307kb, but it can change due to the amount of resources used in the sample. If we remove all these resources, the size is 32kb; a very small program with a powerful mechanism inside.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,516 @@
       },
       "uuid": "07eb9b56-29bf-11ea-978f-2e728ce88125",
       "value": "OSRS Ransomware: Anatova"
+    },
+	{
+      "description": "B0r0nt0K ransomware infects both Linux and Windows servers. The ransom encrypts all files and renames them by appending .rontok extension to the file names. When the B0r0nt0K ransomware encrypts a file it will base64 the encrypted data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/81627/malware/b0r0nt0k-ransomware.html"
+        ]
+      },
+      "uuid": "ad6335d8-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: B0r0nt0K"
+    },
+	{
+      "description": "Sometimes delievered by the RIG exploit kit, the Buran ransomware will skip all files that have certain extensions, reside under certain folders, or have certain file names. When encrypting files, the ransomware will append the victim's unique ID as an extension to the encrypted file. For example, if a victim has an ID of 173C0FE5-3871-B991-E67D-24FEBA3FC981, then a file named 4.jpg would be encrypted and renamed to 4.jpg.173C0FE5-3871-B991-E67D-24FEBA3FC981.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/the-rig-exploit-kit-is-now-pushing-the-buran-ransomware/"
+        ]
+      },
+      "uuid": "ad63384e-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Buran Ransomware"
+    },
+	{
+      "description": "This new ransomware was discovered by Michael Gillespie on 8 February 2019 and it is still improving over time. The Clop ransomware is usually packed to hide its inner workings. Signing a malicious binary, in this case ransomware, may trick security solutions to trust the binary and let it pass. Clop ransomware shows some characteristics that enterprises are its intended targets instead of end consumers. The authors displayed some creative technical solutions, to detect the victim’s language settings and installed programs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/clop-ransomware/"
+        ]
+      },
+      "uuid": "ad633998-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Clop Ransomware"
+    },
+	{
+      "description": "Cr1ptT0r ransomware is built for embedded systems targets network attached storage (NAS) equipment exposed to the internet to encrypt data available on it. The malware drops two plain text files on the infected devices. One is the ransom note called _FILES_ENCRYPTED_README.txt, which gives information to the victim on how to get more details about what happened and how to reach the ransomware operators to pay the ransom in exchange for the file decryption key. The other text file has the name _cr1ptt0r_support.txt and stores the address of a website in the Tor network. This is a support URL that victims can provide if they are at a loss about what to do; it enables a remote shell on an infected device if it is online. The Cr1ptT0r group member added that the URLs and IP addresses are not logged, so there is no correlation between data and the victim.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/cr1ptt0r-ransomware-infects-d-link-nas-devices-targets-embedded-systems/"
+        ]
+      },
+      "uuid": "ad633cb8-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Cr1ptT0r"
+    },
+	{
+      "description": "Cyborg ransomware uses the open source service GitHub to download new code to infected systems. The Github account Cyborg-Ransomware contains two repositories - Cyborg-Builder-Ransomware, and Cyborg-russian-version. The first repository has the ransomware builder binaries while the second one contains a link to the Russian version of the said builder hosted at another website. The Cyborg Ransomware can be created and spread by anyone who gets hold of the builder. It can be spammed using other themes and be attached in different forms to evade email gateways. Attackers can craft this ransomware to use a known ransomware file extension to mislead the infected user from the identity of this ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/fake-windows-update-spam-leads-to-cyborg-ransomware-and-its-builder/"
+        ]
+      },
+      "uuid": "ad634046-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Cyborg Ransomware"
+    },
+	{
+      "description": "When DeathRansom was first being distributed, it pretended to encrypt files, but researchers and users found that they could just remove the appended .wctc extension and the files would become usable again. Starting around November 20th, though, something changed. Not only were victim's files actually becoming encrypted, but there was a surge of submissions related to DeathRansom on the ransomware identification site, ID Ransomware. when DeathRansom is launched it will attempt to clear shadow volume copies. It will then encrypt all files on the victim's computer other than those found whose full pathnames contain the following strings - programdata, recycle.bin, program files, windows, all users, appdata, read_me.txt, autoexec.bat, desktop.ini, autorun.inf, ntuser.dat, iconcache.db, bootsect.bak, boot.ini, ntuser.dat.log, and thumbs.db. Unlike the previous non-encryption version, the working DeathRansom variants do not append an extension to encrypted files and they just retain their original name. The data in these files is encrypted. In every folder that a file is encrypted, the ransomware will create a ransom note named read_me.txt that contains a unique LOCK-ID for the victim and an email address to contact the ransomware developer or affiliate. One strange thing that was noticed is that numerous victims who have been infected by DeathRansom were also infected by the STOP Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-deathransom-ransomware-begins-to-make-a-name-for-itself/"
+        ]
+      },
+      "uuid": "ad6341b8-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: DeathRansom Ransomware"
+    },
+	{
+      "description": "The first known victims of DoppelPaymer were targeted in June 2019. Earlier builds are missing many of the new features found in later variants, so it is not clear if they were deployed to victims or if they were simply built for testing. So far there have been eight distinct variant builds and three confirmed victims with ransom amounts of 2 BTC, 40 BTC and 100 BTC. Based on the USD to BTC exchange rate these ransom amounts vary from approximately $25,000 to over $1,200,000. The ransom note used by DoppelPaymer is similar to those used by the original BitPaymer in 2018. The note does not include the ransom amount; however, it does contain a URL for a TOR-based payment portal, and instead of using the keyword KEY to identify the encrypted key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/"
+        ]
+      },
+      "uuid": "ad6342ee-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: DoppelPaymer Ransomware"
+    },
+	{
+      "description": "Ransomware fully written in PowerShell. Delievered via fake documents. Uses JasperLoader for backdoor capabilities. FTCODE checks for all the drives with at least 50 KB of free space. After finding any files that end with particular extensions it encrypts the first 40960 bytes of each of them using the Rijndael symmetric key encryption. The key is created based on the previous generated key and the hardcoded string BXCODE hack your system. The initialization vector is also based on another hardcoded string BXCODE INIT. Finally it appends the extension .FTCODE and creates the file READ_ME_NOW.htm in the folders that contain the encrypted files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.certego.net/en/news/malware-tales-ftcode/"
+        ]
+      },
+      "uuid": "ad63441a-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: FTCode"
+    },
+	{
+      "description": "It is a Delphi binary that sometimes comes packed. It was mainly distributed during February and March of 2019. It implements the expected behavior of ransomware, discovering local drives and network shares and encrypting files found on these devices. It doesn’t require an internet connection to encrypt its victims’ files, since it doesn’t communicate with a server to send the encryption keys. Instead, it appends a token at the end of the ransom message and demands that the victims communicate with the operators via email or Bitmessage.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+        ]
+      },
+      "uuid": "ad63453c-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Filecoder.Buhtrap"
+    },
+	{
+      "description": "A new ransomware has been discovered called FuxSocy that borrows much of its behavior from the notorious and now-defunct Cerber Ransomware. Discovered by MalwareHunterTeam, this ransomware calls itself FuxSocy Encryptor, which is named after the FSociety hacking group in the Mr. Robot television series.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-fuxsocy-ransomware-impersonates-the-notorious-cerber/"
+        ]
+      },
+      "uuid": "ad634668-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: FuxSocy Ransomware"
+    },
+	{
+      "description": "Win.Ransomware.Generickdz is often a generic detection name for a Windows trojan. This particular signature detects malware in the Ursnif family. Ursnif is used to steal sensitive information from an infected host and can also act as a malware downloader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/threat-roundup-0125-0201.html"
+        ]
+      },
+      "uuid": "e86028da-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Generickdz"
+    },
+	{
+      "description": "After compromising a computer and deleting files, GermanWiper leaves a ransom note indicating that the data was encrypted and would not be decrypted unless a BTC ammount is transferred to a listed bitcoin address. Even if a victim pays the ransom, the money is wasted because the malware does not encrypt the data but overwrites it with zeroes and ones; destroying it. GermanWiper is being distributed in Germany through a spam campaign that pretends to be a job applicant who is submitting their resume. When GermanWiper is first executed, it terminates processes associated with database and other software so that the files can be accessed and wiping becomes possible. It then scans the system for files to destroy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.computing.co.uk/ctg/news/3080040/germanwiper-ransomware-erases-data",
+		  "https://www.bleepingcomputer.com/news/security/germanwiper-ransomware-erases-data-still-asks-for-ransom/"
+        ]
+      },
+      "uuid": "e8602b46-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: GermanWiper"
+    },
+	{
+      "description": "An open-source form of ransomware that is widely available and was available on GitHub for a time. Like various forms of ransomware before it, the code encrypts files and demands a ransom payments with the addition of threats that files will be deleted every two hours until such time that the ransom payment is made.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://siliconangle.com/2019/08/21/fortnite-players-targeted-ransomware-fake-aimbot/"
+        ]
+      },
+      "uuid": "e8602c90-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Hidden-Cry"
+    },
+	{
+      "description": "Ransomware. This is a trojan horse virus that may steal information from the affected machine and download potentially malicious files that spread via removable drives.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/12/threat-roundup-1130-1207.html"
+        ]
+      },
+      "uuid": "e8602dc6-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Imps"
+    },
+	{
+      "description": "The ransomware was involved in the attacks observed by the Qihoo 360 Threat Intelligence Center in the wild, threat actors used an archive named vk_4221345.rar that delivers JNEC.a when its contents are extracted with a vulnerable version of WinRAR. The vulnerability, tracked as CVE-2018-20250, was discovered by experts at Check Point in February, it could allow an attacker to gain control of the target system. The flaw is an “Absolute Path Traversal” issue in the library that could be exploited to execute arbitrary code by using a specially-crafted file archive. The JNEC.a ransomware also drops a ransom note (JNEC.README.TXT) on the infected computer to provide instructions on how to make the payment. JNEC.a is written in .NET, when the archive is decompressed it shows a corrupted image of a girl that triggers an error and shows an incomplete picture, meanwhile the ransomware is already delivered to the computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/82606/malware/jnec-a-ransomware-winrar.html"
+        ]
+      },
+      "uuid": "e8602efc-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: JNEC.a"
+    },
+	{
+      "description": "JSWorm encrypts all the user files appending a new extension to their name. Unlike other ransomware, the extension is composed by many fields, reporting the information the user needs to move on the ransom payment phase. These fields are the same shown in the ransom note, that are Filename.originalExtension.Infection_ID-Attacker_email.JSWRM.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.yoroi.company/research/jsworm-the-4th-version-of-the-infamous-ransomware/"
+        ]
+      },
+      "uuid": "e8603262-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: JSWorm Ransomware"
+    },
+	{
+      "description": "Thousands of web servers have been infected and had their files encrypted by a new strain of ransomware named Lilocked (or Lilu). Infections have been happening since mid-July, and have intensified in the past two weeks, ZDNet has learned. Based on current evidence, the Lilocked ransomware appears to target Linux-based systems only. First reports date to mid-July, after some victims uploaded the Lilocked ransom note/demand on ID Ransomware, a website for identifying the name of the ransomware that infected a victim's system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/thousands-of-servers-infected-with-new-lilocked-lilu-ransomware/"
+        ],
+        "synonyms": [
+        "Lilu"
+        ]
+      },
+      "uuid": "e86033b6-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Lilocked"
+    },
+	{
+      "description": "Despite its evocative nickname, the functionalities of this malware are pretty straight forward, not very different from those belonging to many other ransomware families, but digging into its internals we also found elements suggesting its operators could be able to run large scale campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.yoroi.company/research/loocipher-the-new-infernal-ransomware/"
+        ]
+      },
+      "uuid": "e86034ec-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: LooCipher"
+    },
+	{
+      "description": "A Windows Security Scanner that states it encrypted your files and is distributed by links in malicious emails. This ransomware targets only certain file extension under the C Users folder. Files that have been encrypted by Lost Files will have the extension .Lost_Files_Encrypt.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/lost-files-data-wiper-poses-as-a-windows-security-scanner/"
+        ]
+      },
+      "uuid": "e8603618-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Lost Files Ransomware"
+    },
+	{
+      "description": "A variant of the Maze Ransomware, otherwise known as the ChaCha Ransomware, has been spotted being distributed by the Fallout exploit kit. An interesting feature of this ransomware is that it says the ransom amount will be different depending on whether the victim is a home computer, server, or workstation. The Maze Ransomware utilizes RSA and ChaCha20 encryption as part of the encryption process. It generates an RSA pair on run, so the private of that is likely protected by a master RSA key, and the public is used to encrypt the ChaCha keys for individual files. When executed, the ransomware will scan for files to encrypt and append different extensions to the files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/maze-ransomware-says-computer-type-determines-ransom-amount/"
+        ],
+        "synonyms": [
+        "ChaCha Ransomware"
+        ]
+      },
+      "uuid": "e8603744-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Maze Ransomware"
+    },
+	{
+      "description": "A new ransomware called MedusaLocker is being actively distributed and victims have been seen from all over the world. It is not known at this time, how the attacker is distributing the ransomware. This new ransomware was found by MalwareHunterTeam at the end of September 2019.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/medusalocker-ransomware-wants-its-share-of-your-money/"
+        ]
+      },
+      "uuid": "3aaf1568-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: MedusaLocker"
+    },
+	{
+      "description": "MegaCortex employs leverages both automated and manual components, and appears to involve a high amount of automation to infect a greater number of victims. In attacks, the attackers used a common red-team attack tool script to invoke a meterpreter reverse shell in the victim’s environment. From the reverse shell, the infection chain uses PowerShell scripts, batch files from remote servers, and commands that only trigger the malware to drop encrypted secondary executable payloads that had been embedded in the initial dropped malware on specified machines.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2019/05/03/megacortex-ransomware-wants-to-be-the-one/"
+        ]
+      },
+      "uuid": "3aaf17d4-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: MegaCortex"
+    },
+	{
+      "description": "The name of the ransomware comes after the extension it adds to the encrypted file names, the malicious code also deletes their shadow copies to make in impossible any recovery procedure. Attackers demand the payment of a 0.09981 BTC ransom through a portal hosted on the Tor network. Nemty ransomware is dropped via compromised remote desktop connections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/90396/malware/nemty-ransomware.html"
+        ]
+      },
+      "uuid": "3aaf1914-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Nemty Ransomware"
+    },
+	{
+      "description": "Name NextCry given due to the extension appended to encrypted files and the fact that it targets clients of the NextCloud file sync and share service. NextCry is a Python script compiled in a Linux ELF binary using pyInstaller. AES‌-256 is used for encryption and the key is encrypted with an RSA-2048 public key embedded in the malware code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-nextcry-ransomware-encrypts-data-on-nextcloud-linux-servers/"
+        ]
+      },
+      "uuid": "3aaf1a40-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: NextCry Ransomware"
+    },
+	{
+      "description": "It is a battle with no holds barred between T-Series and PewDiePie, their fans are spreading the PewDiePie ransomware to force users to subscribe to PewDiePie Youtube channel. The story I’m going to tell you is another chapter of the battle between the most followed Youtuber T-Series and PewDiePie. T-Series is an Indian music company, while PewDiePie a Youtuber whom fans are accused to use any means to increase the number of subscribers to its channel.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/82843/malware/pewdiepie-ransomware.html",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/upnp-enabled-connected-devices-in-home-unpatched-known-vulnerabilities/"
+        ]
+      },
+      "uuid": "3aaf1d9c-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: PewDiePie"
+    },
+	{
+      "description": "The malware is carefully designed to evade detection, hiding malicious or dubious behavior in sandbox environments, posing as the Crypto++ cryptographic library, and using functions normally seen in libraries for music playback. For instance, if the malware determines that it's running in a debugger environment, it exits straight away. Furthermore, the payload deletes itself after execution. As far as file encryption is concerned, PureLocker is not different from other ransomware. It uses AES and RSA algorithms and leaves no recovery option by deleting the shadow copies. The malware does not lock all files on a compromised system, avoiding executables. Encrypted items are easy to recognize by the .CR1 extension that is appended after the process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/purelocker-ransomware-can-lock-files-on-windows-linux-and-macos/"
+        ]
+      },
+      "uuid": "3aaf1edc-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: PureLocker Ransomware"
+    },
+	{
+      "description": "We have named the ransomware QNAPCrypt, as this is the name the authors have appeared to label the malware. QNAP is a well-known vendor for selling NAS servers, which the malware was intended to infect and encrypt the containing files for ransom. NAS servers normally store large amounts of important data and files, which make them a valuable target for attackers and especially a viable target for ransomware campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers/"
+        ]
+      },
+      "uuid": "3aaf2008-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: QNAPCrypt"
+    },
+	{
+      "description": "Originally discovered delivering the Gandcrab ransomware family by Cisco Talos researchers. Not long after its first discovery the Gandcrab site declared it would be ending its service. It is believed that REvil is the newer version of Gandcrab. It was also observed leveraging CVE-2018-8453, a privilege escalation vulnerability on Windows systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://krebsonsecurity.com/2019/07/is-revil-the-new-gandcrab-ransomware/",
+		  "https://www.zdnet.com/article/sodinokibi-ransomware-is-now-using-a-former-windows-zero-day/"
+        ],
+        "synonyms": [
+        "Sodin",
+		"Sodinokibi"
+        ]
+      },
+      "uuid": "3aaf2134-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: REvil"
+    },
+	{
+      "description": "The ransomware only targets files on a single system and does not spread through network shares. The ransomware itself does not have any network spreading capabilities. Additionally, the ransomware requires previously obtained administrative priviliges per system. RobbinHood also requires that a public RSA key already be present on the targeted computer in order to begin encryption of the files. Before it begins encryption, RobbinHood malware shuts down all connections to shared network directories with a net use command. The ransomware then runs through 181 Windows service shutdown commands—including the disabling of multiple malware-protection tools, backup agents, and email, database, and Internet Information Server (IIS) administrative services.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://arstechnica.com/information-technology/2019/05/baltimore-city-government-hit-by-robbinhood-ransomware/",
+		  "https://securityboulevard.com/2019/04/robbinhood-ransomware-demands-grow-10k-per-day-after-fourth-day/"
+        ]
+      },
+      "uuid": "3aaf2256-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: RobbinHood Ransomware"
+    },
+	{
+      "description": "Ransomware sometimes delievered via the GreenFlash Sundown exploit kit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2019/06/greenflash-sundown-exploit-kit-expands-via-large-malvertising-campaign/"
+        ]
+      },
+      "uuid": "3aaf2378-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: SEON Ransomware"
+    },
+	{
+      "description": "Attackers are actively exploiting a recently disclosed vulnerability in Oracle WebLogic to install a new variant of ransomware called Sodinokibi. Sodinokibi attempts to encrypt data in a user's directory and delete shadow copy backups to make data recovery more difficult. Oracle first patched the issue on April 26, outside of their normal patch cycle, and assigned it CVE-2019-2725.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html"
+        ]
+      },
+      "uuid": "66f83b54-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Sodinokibi"
+    },
+	{
+      "description": "Ransomware that uses the code from the Hidden-Cry ransomware family. Used to target gamers who play the online shooter Fortnite.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://siliconangle.com/2019/08/21/fortnite-players-targeted-ransomware-fake-aimbot/"
+        ]
+      },
+      "uuid": "66f83dc0-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Syrk Ransomware"
+    },
+	{
+      "description": "TFlower is being installed in a corporate network through exposed Remote Desktop services that are being hacked by attackers. Once the attackers gain access to the machine, they will infect the local machine or may attempt to traverse the network through tools such as PowerShell Empire, PSExec, etc. When executed, the ransomware will display a console that shows the activity being performed by the ransomware while it is encrypting a computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/tflower-ransomware-the-latest-attack-targeting-businesses/"
+        ]
+      },
+      "uuid": "66f844dc-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: TFlower Ransomware"
+    },
+	{
+      "description": "It is not confirmed what infection vectors are employed in propagating the Unlock11@protonmail.com Ransomware. However, it is likely that the creators of the Unlock11@protonmail.com Ransomware may be relying on spam emails containing corrupted attachments, faux application updates, and infected pirated software to spread their threat. Once a system is infiltrated by the Unlock11@protonmail.com Ransomware, the threat would begin a scan. The scan is meant to determine the locations of the files, which the Unlock11@protonmail.com Ransomware is targeting. Then, the Unlock11@protonmail.com Ransomware would start encrypting the targeted data. Once a file is locked by the Unlock11@protonmail.com Ransomware, it will add an extra extension – [Unlock11@protonmail.com].enc. This means that if this threat encrypts a file named white-possum.jpg, it will change the name of the affected file to white-possum.jpg. [Unlock11@protonmail.com].enc. When the encryption process is through, the Unlock11@protonmail.com Ransomware will drop its ransom note. The note is named ReadMeToDecrypte.txt. In the note, the attackers claim to have used the AES-128 and RSA-2048 encryption algorithms. They also offer to unlock three files for free, as long as they do not exceed 5MB in size. However, the attackers do not mention what the ransom fee required is. They do give out an email address where they are meant to be contacted – Unlock11@protonmail.com.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.enigmasoftware.com/unlock11protonmailcomransomware-removal/",
+		  "https://www.computips.org/how-to-remove-unlock11protonmail-com/"
+        ]
+      },
+      "uuid": "66f84658-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Unlock11@protonmail.com Ransomware"
+    },
+	{
+      "description": "A new ransomware called Unnam3d R@nsomware is being distributed via email that will move a victim's files into password protected RAR archives. The ransomware then demands a 50 dollar Amazon gift card code in order to get the archive password.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/unnam3d-ransomware-locks-files-in-protected-archives-demands-gift-cards/"
+        ]
+      },
+      "uuid": "66f84798-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: Unnam3d R@nsomware"
+    },
+	{
+      "description": "Ransomware that tagets network attached storage devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.anomali.com/blog/the-ech0raix-ransomware"
+        ]
+      },
+      "uuid": "66f848ce-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: eCh0raix Ransomware"
+    },
+	{
+      "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.jcry",
+		  "https://gbhackers.com/jcry-ransomware/"
+        ]
+      },
+      "uuid": "66f849fa-41ed-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: jCry"
+    },
+	{
+      "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/strange-antefrigus-ransomware-only-targets-specific-drives/"
+        ]
+      },
+      "uuid": "58551980-41ea-11ea-b77f-2e728ce88125",
+      "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
 	"version": 1
