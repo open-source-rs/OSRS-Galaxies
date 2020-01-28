@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "This malware reads the C2 IP and port from the registry where it was saved by the previous stager. It processes the following commands from its C2 that are received encrypted over HTTP.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,1876 @@
       },
       "uuid": "9044890e-29bf-11ea-978f-2e728ce88125",
       "value": "OSRS Tool: .NET RocketMan Trojan"
+    },
+	{
+      "description": "Doc.Malware.00536d-6731394-0 is a malicious Word document that drops malware. It attempts to download and run a second-stage executable from a number of known malicious domains and IP addresses.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/10/threat-roundup-1019-1026.html"
+        ]
+      },
+      "uuid": "c97fd8f0-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: 00536d"
+    },
+	{
+      "description": "A phishing exploit kit that was created by the threat actor DevilScreaM.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/16shop-now-targets-amazon/"
+        ]
+      },
+      "uuid": "c97fdb84-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: 16Shop"
+    },
+	{
+      "description": "Remote access trojan that can be found online. Has been associated with the RevengeHotels campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/revengehotels/95229/"
+        ]
+      },
+      "uuid": "c97fdce2-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: 888 RAT"
+    },
+	{
+      "description": "Used to for maintaining persistence and moving lateraly on a network of systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "c97fe0a2-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ABPTTS"
+    },
+	{
+      "description": "ACEHASH is a credential theft and password dumping utility that combines the functionality of multiple tools such as Mimikatz, hashdump, and Windows Credential Editor (WCE).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html"
+        ]
+      },
+      "uuid": "c97fe1f6-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ACEHASH"
+    },
+	{
+      "description": "A new version of the AZORult malware family call AZORult++. The presence of lines containing a path to debugging files likely indicates that the malware is still in development, since developers usually try to remove such code as soon as feasible.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/azorult-analysis-history/89922/"
+        ]
+      },
+      "uuid": "c97fe322-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: AZORult++"
+    },
+	{
+      "description": "Linux rootkit adapted for 2.6 and 3.x.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+		  "https://github.com/yaoyumeng/adore-ng"
+        ]
+      },
+      "uuid": "c97fe44e-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Adore-ng"
+    },
+	{
+      "description": "As early as June 29, 2016, the Afraidgate campaign deliver Locky ransomware. This campaign switched between delivering CryptXXX and Locky ransomware during the next two weeks. July 11, 2016, was the last time Afraidgate delivered CryptXXX. Since then, this campaign has been consistently delivering Locky. Like most campaigns, Afraidgate switched to Neutrino EK after Angler EK disappeared in early June 2016. Two other large-scale campaigns also moved from Angler to Neutrino EK - the EITest and pseudo-Darkleech campaigns. For now, Neutrino appears to be distributing the majority of ransomware for EK-based infections. Outliers still exist, like Magnitude EK distributing Cerber ransomware. Rig EK has also been noted for an occasional ransomware infection. But the bulk of EK-based ransomware infections are most often attributed to Neutrino EK.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2019/10/the-forgotten-domain-exploring-a-link-between-magecart-group-5-and-the-carbanak-apt/",
+		  "http://researchcenter.paloaltonetworks.com/2016/07/unit42-afraidgate-major-exploit-kit-campaign-switches-from-cryptxxx-ransomware-back-to-locky/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+PaloAltoNetworks+%28Palo+Alto+Networks+Research+Center%29",
+		  "https://otx.alienvault.com/pulse/579b957c91242f0134cb0488"
+        ]
+      },
+      "uuid": "c97fe570-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: AfraidGate EK"
+    },
+	{
+      "description": "Agent Smith has three primary phases in its attack flow. In the first phase, the attacker lures users to download a dropper application from an app store such as 9Apps. These droppers are usually disguised as free games, utility applications or adult entertainment applications, yet contain an encrypted malicious payload. The dropper application then checks if any popular applications, such apps include WhatsApp, MXplayer, ShareIt and more from the attacker’s pre-determined list, are installed on the device. If any targeted application is found, Agent Smith will then attack those innocent applications at a later stage. In the second phase, after the dropper gains a foothold on victim device, it automatically decrypts the malicious payload into its original form – an APK (Android installation file) file which serves as the core part of Agent Smiths attack. The dropper then abuses several known system vulnerabilities to install the core malware without any user interaction at all. In the third phase, the core malware conducts attacks against each installed application on device which appears on its target list. The core malware quietly extracts a given innocent application’s APK file, patches it with extra malicious modules and finally abuses a further set of system vulnerabilities to silently swap the innocent version with a malicious one.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.checkpoint.com/2019/07/10/agent-smith-android-malware-mobile-phone-hack-virus-google/"
+        ]
+      },
+      "uuid": "c97fe69c-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Agent Smith"
+    },
+	{
+      "description": "AhMyth, the open-source Remote Access Tool from which the Radio Balouch app borrowed its malicious functionality, was made publicly available in late 2017.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/08/22/first-spyware-android-ahmyth-google-play/"
+        ]
+      },
+      "uuid": "c97fe7be-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: AhMyth"
+    },
+	{
+      "description": "Predecessor of the Phoenix Keylogger, and believed to be the beta version prior to mass deployment of the Phoenix Keylogger.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/phoenix-the-tale-of-the-resurrected-alpha-keylogger"
+        ]
+      },
+      "uuid": "f8e742cc-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Alpha Keylogger"
+    },
+	{
+      "description": "Adware targeting Android users that exfiltrates IMEI, IMSI, GPS Location and other device information, and allows the installation of third-party apps and shortcuts on mobile devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.itnewsafrica.com/2019/09/echobot-launches-widespread-attack-against-iot-devices/"
+        ]
+      },
+      "uuid": "f8e745e2-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: AndroidBauts"
+    },
+	{
+      "description": "Anubis II is the Android banking Trojan created and advertised by an actor with the nickname maza-in. This malware family goes beyond the well-known overlay attacks by combining advanced features such as screen streaming, remote file browsing, sound recording, keylogging and even a network proxy, making it an efficient banking malware but also a potential spying tool. Effectively, Anubis can be considered one of the most used Android banking Trojans since late 2017.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Malware"
+        ]
+      },
+      "uuid": "f8e747e0-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Anubis II"
+    },
+	{
+      "description": "In July 2019, Fidelis Threat Research Team (TRT) acquired and began analyzing a sample of Arcane Stealer V. Arcane Stealer V is a .net information stealing malware that is inexpensive and easily acquirable and does not discriminate or restrict operations and infection based on geography or location, as other malware strains are known to do. Data that is collected and extracted upon successful infection includes operating system, browser information, cryptocurrency wallets, and instant messaging sessions. In early August, during the analysis of Arcane Stealer V, TRT identified multiple instant messenger and social media accounts associated with a Russian-language actor that may possibly be involved with the build and distribution of Arcane Stealer V.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fidelissecurity.com/threatgeek/threat-intelligence/arcane-stealer-v/"
+        ]
+      },
+      "uuid": "f8e74920-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Arcane Stealer"
+    },
+	{
+      "description": "Aspxor botnet has the capabilities to send spam, download and execute other samples. This botnet is known for collecting credentials from infected computers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+        ]
+      },
+      "uuid": "f8e74b78-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Aspxor"
+    },
+	{
+      "description": "The Astaroth Trojan spam campaign is a Trojan most recently used to steal passwords and personal information from individuals in Brazil. The Astaroth Trojan disguises its payload as JPEG, GIF, and extensionless files to avoid detection. The campaign exploits legitimate operating system processes as well as security vendor products from companies like Avast and GAS Tecnologia to gain information about the target machine and steal password information, as well as keystate information and clipboard usage.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/information-stealing-malware-targeting-brazil-full-research",
+		  "https://www.cybereason.com/blog/information-stealing-malware-targeting-brazil"
+        ]
+      },
+      "uuid": "f8e74e0c-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Astaroth"
+    },
+	{
+      "description": "A trojan developed by Silence to remotely control ATM dispensers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+        ]
+      },
+      "uuid": "f8e74f92-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Atmosphere"
+    },
+	{
+      "description": "Its GSM plugin uses the AT command protocol, and second, it uses Tor for its network communications. Attor monitors active processes to take screenshots of selected applications. Only certain applications are targeted – those with specific substrings in the process name or window title. The victim’s usage of TrueCrypt is further inspected in another part of Attor. It monitors hard disk devices connected to the compromised computer, and searches for the presence of TrueCrypt. If TrueCrypt is detected, its version is determined by sending IOCTLs to the TrueCrypt driver. As these are TrueCrypt-specific control codes, not standard codes, the authors of the malware must actually understand the open-source code of TrueCrypt installer. Attor consists of a dispatcher and loadable plugins, all of which are implemented as dynamic-link libraries (DLLs). The first step of a compromise comprises dropping all these components on disk and loading the dispatcher DLL. The dispatcher is the core of the whole platform – it serves as a management and synchronization unit for the additional plugins. On each system start, it injects itself into almost all running processes and loads all available plugins within each of these processes. As an exception, Attor avoids injection into some system and security‑product‑related processes. All plugins rely on the dispatcher for implementing basic functionalities. Rather than calling Windows API functions directly, the plugins use a reference to a helper function (a function dispatcher) implemented by the dispatcher DLL. A reference to the function dispatcher is passed to the plugins when they are loaded. Because the plugins are injected in the same process as the dispatcher itself, they share the same address space and are thus able to call this function directly. Calls to the function dispatcher take as their arguments the function type and its numerical identifier. This design makes it harder to analyze individual components of Attor without having access to the dispatcher, as it translates the specified identifier to a meaningful function that is then executed.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform/"
+        ]
+      },
+      "uuid": "f8e75140-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Attor"
+    },
+	{
+      "description": "Autorunner is in the Esfury family. Esfury is a type of worm that commonly spreads via removable drives or platforms with user interaction (e.g. emails, instant messages, web pages). When executed, Esfury modifies multiple registry keys in order to execute when certain Windows applications are opened, including security products, registry editor and task manager. Esfury may also contact a remote server to download and execute arbitrary files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/11/threat-roundup-1102-1109.html"
+        ]
+      },
+      "uuid": "f8e75370-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Autoruner"
+    },
+	{
+      "description": "Avenger has a number of variants and versions depending on the target. For example, some variants have autorun functions while others execute a sleep mode upon system infection. The downloader has three stages. The first stage collects volume information, AV product, and OS bits version from the host, and sends it to the command and control (C&C) server to ensure that the host is the intended target. It then checks if the host matches their C&C server reference. Avenger collects the victim’s detailed information from the system by browsing the folders, files, and domain information. If the host doesn’t exist, Avenger will download an image with an embedded malware hidden via steganography and extract a backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/"
+        ]
+      },
+      "uuid": "f8e754a6-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Avenger"
+    },
+	{
+      "description": "Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit. It is more robust and has additional features, and focuses heavily around anti-debugging and anti detection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+		  "https://github.com/chokepoint/azazel"
+        ]
+      },
+      "uuid": "35eee0f6-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Azazel"
+    },
+	{
+      "description": "Used to escalate privilege.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "35eee650-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BADSIGN"
+    },
+	{
+      "description": "Trojan often seen with Trojan THBAIAI. It is used to infiltrate Microsoft Outlook for stored email address. Once found sends them to a C2 server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/fileless-banking-trojan-targeting-brazilian-banks-downloads-possible-botnet-capability-info-stealers/"
+        ]
+      },
+      "uuid": "35eee7b8-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BANRAP"
+    },
+	{
+      "description": "Used to establish a foothold.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "35eee902-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BEACON"
+    },
+	{
+      "description": "Detected by Trend Micro as TrojanSpy.Win32.BEAHNY.THCACAI is a dropped Trojan — a copy of itself in a larger file size, likely to evade sandboxes — that collects system information from the host - Computer Name, Machine’s GUID, MAC Address, OS Version, Graphics Memory Information, and System Time.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+        ]
+      },
+      "uuid": "35eeea38-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BEAHNY"
+    },
+	{
+      "description": "BOOSTWRITE is a loader crafted to be launched via abuse of the DLL search order of applications which load the legitimate Dwrite.dll provided by the Microsoft DirectX Typography Services. The application loads the gdi library, which loads the gdiplus library, which ultimately loads Dwrite. Mandiant identified instances where BOOSTWRITE was placed on the file system alongside the RDFClient binary to force the application to import DWriteCreateFactory from it rather than the legitimate DWrite.dll.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html"
+        ]
+      },
+      "uuid": "35eeebfa-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BOOSTWRITE"
+    },
+	{
+      "description": "The first samples were found in the wild date to January and February 2019, while so far over 20 different variants have appeared in the Google Play Store, the majority of these pose as an update to the popular instant messaging application WhatsApp. The CVE-2019-3568 WhatsApp patch is one of the topics abused by BRATA threat actor. Once a victim’s device is infected, BRATA enables its keylogging feature, enhancing it with real-time streaming functionality. It uses Android’s Accessibility Service feature to interact with other applications installed on the user device.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/spying-android-rat-from-brazil-brata/92775/"
+        ]
+      },
+      "uuid": "35eeed44-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BRATA"
+    },
+	{
+      "description": "The BalkanRAT part of the malicious Balkan- toolset is more complex compared to its backdoor accomplice. Its goal is to deploy a copy of the Remote Utilities software, which is commercial software by a Russian vendor, Remote Utilities, LLC, used for remote access to a computer or for remote administration. BalkanRAT also provides the attacker with the credentials needed for this remote access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/08/14/balkans-businesses-double-barreled-weapon/"
+        ]
+      },
+      "uuid": "35eef1a4-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BalkanRAT"
+    },
+	{
+      "description": "Beapy W32.Beapy is a file-based coinminer that uses email as an initial infection vector. This campaign demonstrates that while cryptojacking has declined in popularity with cyber criminals since its peak at the start of 2018, it is still a focus for some of them, with enterprises now their primary target.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china"
+        ]
+      },
+      "uuid": "35eef2ee-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Beapy"
+    },
+	{
+      "description": "Once set up in the system, Trojan.Belonard replaces the list of available game servers in the game client and creates proxies on the infected computer to spread the Trojan. As a rule, proxy servers show a lower ping, so other players will see them at the top of the list. By selecting one of them, a player gets redirected to a malicious server where their computer become infected with Trojan.Belonard.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.belonard"
+        ]
+      },
+      "uuid": "35eef41a-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Belonard"
+    },
+	{
+      "description": "Besmtour is a tool developed by APT3 to gain remote code execution on a victim machine using UPSynergy – a combination of an exploit based on EternalRomance and a 0-day found by the group itself. The goal is to deploy a payload on the victim machine which is injected to a running process using an implant. This implant is highly similar to the Equation group’s DoublePulsar. The tool is meant to be run from a command line, and provides 2 modes of operation. In the first, the attacker sends a local file which will be executed on the victim machine with a given command line argument. In the 2nd mode, the attacker runs an arbitrary shell command without the need to send an actual file. These functionalities are supported in both 32 and 64 bit versions. According to Symantec, the 64 bit versions were leveraged solely for executing shell commands, mostly to generate new user accounts in the victim environments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/upsynergy/"
+        ]
+      },
+      "uuid": "63b476e0-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Bemstour"
+    },
+	{
+      "description": "MAC OS cryptocurrency miner. Bird Miner runs via Linux emulation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+        ]
+      },
+      "uuid": "63b47a8c-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Bird Miner"
+    },
+	{
+      "description": "BlackSquid is a malware family that targets web servers, network drives, and removable drives using multiple web server exploits and dictionary attacks. Named BlackSquid after the registries created and main component file names, is particularly dangerous for several reasons. It employs anti-virtualization, anti-debugging, and anti-sandboxing methods to determine whether to continue with installation or not. It also has wormlike behavior for lateral propagation. And it uses some of the most notorious exploits today; EternalBlue; DoublePulsar; the exploits for CVE-2014-6287, CVE-2017-12615, and CVE-2017-8464; and three ThinkPHP exploits for multiple versions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/blacksquid-slithers-into-servers-and-drives-with-8-notorious-exploits-to-drop-xmrig-miner/"
+        ]
+      },
+      "uuid": "63b47c08-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: BlackSquid"
+    },
+	{
+      "description": "Black Remote Controller PRO (Blackremote RAT) is a powerful and full featured systems remote admnistration suite. It allows for full access and control over a remote machine through a countless number of features, giving you the ability to monitor, access or manipulate every activity and data remotely.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/blackremote-money-money-money-a-swedish-actor-peddles-an-expensive-new-rat/"
+        ],
+        "synonyms": [
+        "Black Remote Controller PRO"
+        ]
+      },
+      "uuid": "63b47d52-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Blackremote RAT"
+    },
+	{
+      "description": "Win.Worm.Brontok is an email worm that can copy itself onto USB drives. It can change system configuration to weaken its security settings, conduct distributed denial-of-service attacks, and perform other malicious actions on the infected systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/11/threat-roundup-1102-1109.html"
+        ]
+      },
+      "uuid": "63b47f0a-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Brontok"
+    },
+	{
+      "description": "Brushaloader is an evolving threat that is being actively developed and refined over time as attackers identify areas of improvement and add additional functionality. We have identified multiple iterations of this threat since mid-2018. Most of the malware distribution activity that we observe associated with Brushaloader leverages malicious email campaigns targeting specific geographic regions to distribute various malware payloads, primarily Danabot.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/combing-through-brushaloader.html"
+        ]
+      },
+      "uuid": "63b480ea-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Brushaloader"
+    },
+	{
+      "description": "Loader delivered by malicious attachements. Written in .NET and uses Fast Flux DNS architecture, Buer Loader has been observed delivering several malwares such as Ursnif and The Trick banking trojans.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/buer-new-loader-emerges-underground-marketplace"
+        ]
+      },
+      "uuid": "63b4822a-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Buer Loader"
+    },
+	{
+      "description": "Driverpack leverages 7zip to install malware on the system in the form of an HTA file HTML, which leverages javascript to perform malicious actions on the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/03/threat-roundup-for-mar-01-to-mar-08.html"
+        ]
+      },
+      "uuid": "63b4834c-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Bypassuac"
+    },
+	{
+      "description": "The Microsoft Connection Manager Profile Installer, CMSTP.exe, is a command-line program used to install Connection Manager service profiles. CMSTP accepts an installation information file as a parameter and installs a service profile leveraged for remote access connections. Adversaries may supply CMSTP with INF files infected with malicious commands. Similar to Regsvr32 , CMSTP may be abused to load and execute DLLs and/or COM scriptlets from remote servers. This execution may also bypass AppLocker and other whitelisting defenses since CMSTP is a legitimate, signed Microsoft application. CMSTP can also be abused to Bypass User Account Control and execute arbitrary commands from a malicious INF through an auto-elevated COM interface.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://attack.mitre.org/techniques/T1191/"
+        ]
+      },
+      "uuid": "63b48586-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: CMSTP"
+    },
+	{
+      "description": "Used to escalate privilege.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "63b486bc-41f9-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: COATHOOK"
+    },
+	{
+      "description": "Used to escalate privilege.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "f9aaa7e0-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: COOKIEFISH"
+    },
+	{
+      "description": "Windows trojan that attempts to steal passwords from Google Chrome browsers. Once this information has been captured the trojan then sends the information to a remote MongoDB database.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-chrome-password-stealer-sends-stolen-data-to-a-mongodb-database/"
+        ]
+      },
+      "uuid": "f9aaaab0-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: CStealer"
+    },
+	{
+      "description": "CallerSpy masquerades as a chat app, but is has no chat features at all and for espionage behaviors. When launched, CallerSpy initiates a connection with the C&C server via Socket.IO to monitor upcoming commands. It then utilizes Evernote Android-Job to start scheduling jobs to steal information. CallerSpy sets several scheduling jobs to collect call logs, SMSs, contacts, and files on the device. It also receives commands from the C&C server to take screenshots, which it later sends to the server. All of the stolen information are collected and stored in a local database before they’re uploaded to the C&C server periodically. This spyware targets the following file types: jpg, jpeg, png, docx, xls, xlsx, ppt, pptx, pdf, doc, txt, csv, aac, amr, m4a, opus, wav, and amr. The screenshot gets captured when a command is received from the C&C server. The screenshot image then gets encoded using Base64 and sent back to the server via a preconfigured Socket.IO connection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-distributed-through-callerspy-mounts-initial-phase-of-a-targeted-attack/"
+        ]
+      },
+      "uuid": "f9aaac04-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: CallerSpy"
+    },
+	{
+      "description": "Capesand is an exploit kit that attempts to exploit recent vulnerabilities in Adobe Flash and Microsoft Internet Explorer (IE). Delivered via drive-by downloads similar in function to the Rig EK. Almost all of Capesand‘s functions reuse open-source code, including the exploits, obfuscation, and packing techniques. The Capesand panel is used to check the status of exploit kit usage. Any threat actors using this exploit kit can also download frontend source code which they can deploy on their server. Capesand has been observed exploiting the vulnerabilities CVE-2018-4878 (affects Adobe Flash), CVE-2018-8174, and CVE-2019-0752 (both affecting Microsoft Internet Explorer). CVE-2019-0752 is a vulnerability discovered by Trend Micro ZDI this year. CVE-2019-0752 is also used in a watering-hole attacks that deliver the SLUB malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse/"
+        ]
+      },
+      "uuid": "f9aaae34-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Capesand EK"
+    },
+	{
+      "description": "Android malware, dubbed Cerberus, being rented out on underground forums. Its authors claim that it was used for private operations for two years preceding the start of the rental. They also state that the code is written from scratch and is not using parts of other existing banking Trojans unlike many other Trojans that are either based completely on the source of another Trojan (such as the leaked Anubis source code that is now being resold) or at least borrow parts of other Trojans. After thorough analysis we can confirm that Cerberus was indeed not based on the Anubis source code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/cerberus-a-new-banking-trojan-from-the-underworld.html"
+        ]
+      },
+      "uuid": "f9aaaf74-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Cerberus"
+    },
+	{
+      "description": "These binaries are able to detect virtual machines and instrumented environments. They can also complicate the analysis with anti-disassembly and anti-debugging techniques. This family can install additional software and upload information to a remote server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/threat-roundup-0208-0215.html"
+        ]
+      },
+      "uuid": "f9aab28a-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Cgok"
+    },
+	{
+      "description": "Its role is to monitor the content of the clipboard, looking for cryptocurrency addresses. If a targeted cryptocurrency address is found, it is replaced by an address presumably belonging to the malware operator. Examined samples are not packed, nor obfuscated. The only mechanism used to hide its behavior is string encryption. The operators’ cryptocurrency addresses are encrypted using RC4. Various cryptocurrencies are targeted such as Bitcoin, Bitcoin cash, Dogecoin, Ethereum and Ripple.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+        ]
+      },
+      "uuid": "f9aab3ca-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ClipBanker"
+    },
+	{
+      "description": "ClipBanker.IH is a .NET Windows executable which was distributed in March 2019. Most of the versions examined were packed with ConfuserEx v1.0.0. As with the ClipBanker variant, this component also hijacks the clipboard. It targets a wide range of cryptocurrencies as well as Steam trade offers. Furthermore, it uses the IP Logger service to exfiltrate Bitcoin’s WIF private key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+        ]
+      },
+      "uuid": "f9aab4ec-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ClipBanker.IH"
+    },
+	{
+      "description": "Set of tools and framework used by the threat actor Lamberts. Includes several stages and capabilities depending on the target.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/11/21/deprimon-default-print-monitor-malicious-downloader/",
+		  "https://www.symantec.com/connect/blogs/longhorn-tools-used-cyberespionage-group-linked-vault-7",
+		  "https://securelist.com/unraveling-the-lamberts-toolkit/77990/"
+        ]
+      },
+      "uuid": "f9aab618-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ColoredLambert"
+    },
+	{
+      "description": "Crax, a script associated with Bird Miner, is tasked with ensuring that the malware isn’t being snooped on by pesky security researchers. The first thing it does is check to see if Activity Monitor is running and, if it is, unload the other processes. If Activity Monitor isn’t running, the malware then goes through a series of CPU usage checks. If the results show that it’s pegging the CPU at more than 85 percent, it again unloads everything.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+        ]
+      },
+      "uuid": "f9aab744-41ff-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Crax"
+    },
+	{
+      "description": "This is an Excel-based downloader that uses PowerShell to retrieve the next stage of the malware executable. Microsoft Office displays a warning to the user before the payload actually gets activated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/11/threat-roundup-1019-1102.html"
+        ]
+      },
+      "uuid": "2fb95a84-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Cwsp"
+    },
+	{
+      "description": "Used to escalate privilege.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "2fb95cfa-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DADBOD"
+    },
+	{
+      "description": "Modular tool with several variants. Attributed to the threat actor APT41, DEADEYE is the entry tool used to drop other malwares used by the actor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/lowkey-hunting-for-the-missing-volume-serial-id.html"
+        ],
+        "synonyms": [
+        "DEADEYE.DOWN",
+		"DEADEYE.APPEND",
+		"DEADEYE.EXT"
+        ]
+      },
+      "uuid": "2fb95e4e-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DEADEYE"
+    },
+	{
+      "description": "Used to make the initial compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "2fb95f7a-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DEATHCLOCK"
+    },
+	{
+      "description": "Used to for maintain persistence and move lateraly on a network of systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "2fb96376-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DISHCLOTH"
+    },
+	{
+      "description": "Point-of-sale malware previously only privately sold has been used in breaches of small- and medium-sized businesses in the restaurant and entertainment industries. The malware, known as DMSniff, also uses a domain generation algorithm (DGA) to create lists of command-and-control domains on the fly. This technique is valuable to an attacker because if domains are taken down by law enforcement, technology companies, or hosting providers, the malware can still communicate and receive commands or share stolen data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.flashpoint-intel.com/blog/dmsniff-pos-malware-actively-leveraged-target-medium-sized-businesses/"
+        ]
+      },
+      "uuid": "2fb964ac-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DMSniff"
+    },
+	{
+      "description": "A shell command was remotely executed to download and execute a malicious shell script Trojan.SH.LODEX.J, which in turn downloaded another shell script Trojan.SH.DOGOLOAD.J that finally installed the AESDDoS botnet malware on the affected system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+        ]
+      },
+      "uuid": "2fb965d8-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DOGOLOAD.J"
+    },
+	{
+      "description": "Employed by the threat actor DarkUniverse, this framework gives the threat actor the ability to perform several functions on target machines within a single code set. These functions include, but are not limited to communication with a C2, email intercept, browser identification, self update, collection of system information, and shell code injection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/darkuniverse-the-mysterious-apt-framework-27/94897/"
+        ]
+      },
+      "uuid": "2fb9670e-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: DarkUniverse Framework"
+    },
+	{
+      "description": "DarkKomet is a freeware remote access trojan that was released by an independent software developer. It provides the same functionality you would expect from a remote access tool: keylogging, webcam access, microphone access, remote desktop, URL download, program execution, etc.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/05/threat-roundup-0503-0510.html"
+        ]
+      },
+      "uuid": "2fb9683a-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Darkkomet"
+    },
+	{
+      "description": "A Monero coin-mining binary, Darwin (detected as PUA.Linux.XMRMiner.AA). As with all cryptocurrency miners, it uses the resources of the host system to mine cryptocurrency (Monero in this instance) without the owner’s knowledge. An interesting characteristic of the attack is that it uses a cryptocurrency miner that it is being built from scratch instead of an existing one.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/infected-cryptocurrency-mining-containers-target-docker-hosts-with-exposed-apis-use-shodan-to-find-additional-victims/"
+        ]
+      },
+      "uuid": "2fb96966-4200-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Darwin"
+    },
+	{
+      "description": "DePriMon is a malicious downloader, with several stages and using many non-traditional techniques. To achieve persistence, the malware registers a new local port monitor – a trick falling under the Port Monitors technique in the MITRE ATT&CK knowledgebase. For that, the malware uses the Windows Default Print Monitor name hence the nomenclature DePriMon. Additionally, due to its complexity and modular architecture it is considered a framework. According to telemetry, DePriMon has been active since at least March 2017. DePriMon was detected in a private company, based in Central Europe, and at dozens of computers in the Middle East. Some of the domain names used as C&C servers contain Arabic words, which gives an indication of a region-specific campaign. However, DePriMon deserves attention beyond its targets geographical distribution - it is carefully written malware, with lots of encryption that is used properly.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/11/21/deprimon-default-print-monitor-malicious-downloader/"
+        ]
+      },
+      "uuid": "218c9fdc-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: DePriMon"
+    },
+	{
+      "description": "DealPly is an adware program that installs an add-on for web browsers and displays malicious ads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/03/threat-roundup-0322-0329.html"
+        ]
+      },
+      "uuid": "218ca28e-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dealply"
+    },
+	{
+      "description": "Part of the PoshC2 framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+        ]
+      },
+      "uuid": "218ca3f6-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Decrypt-RDCMan.ps1"
+    },
+	{
+      "description": "An older exploit kit believed to be the prime derivative with regards to the code base for the Capesand EK.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse/"
+        ]
+      },
+      "uuid": "218ca766-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Demon Hunter EK"
+    },
+	{
+      "description": "Demp drops DLL files that are later injected into the explorer process. It is also capable of accepting commands from a command and control (C2) server and exfiltrating system information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/10/threat-roundup-1005-1012.html"
+        ]
+      },
+      "uuid": "218ca8ba-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Demp"
+    },
+	{
+      "description": "The Dexphot attack uses a variety of sophisticated methods to evade security solutions. Layers of obfuscation, encryption, and the use of randomized file names hid the installation process. Dexphot then uses fileless techniques to run malicious code directly in memory, leaving only a few traces that can be used for forensics. It hijacks legitimate system processes to disguise malicious activity. The early stages of a Dexphot infection involves numerous files and processes. During the execution stage, Dexphot writes five key files to disk - An installer with two URLs, an MSI package file downloaded from one of the URLs, a password-protected ZIP archive, a loader DLL (which is extracted from the archive), and an encrypted data file that holds three additional executables that are loaded into system processes via process hollowing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2019/11/26/insights-from-one-year-of-tracking-a-polymorphic-threat/"
+        ]
+      },
+      "uuid": "218ca9f0-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dexphot"
+    },
+	{
+      "description": "DGBV is malware written in Delphi and is packed with Inno Setup, a free software installation system. Once deployed, DGBV collects sensitive information from the infected host and sends it to a C2, including browser password databases.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/10/threat-roundup-1005-1012.html"
+        ]
+      },
+      "uuid": "218cab1c-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dgbv"
+    },
+	{
+      "description": "Divergent uses persistence techniques most commonly associated with fileless malware, leaving behind few artifacts for researchers to look at. This malware can be leveraged by an attacker to target corporate networks and appears to be primarily designed to conduct click-fraud. It also features several characteristics that have been observed in other click-fraud malware, such as Kovter.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/divergent-analysis.html",
+		  "https://www.bleepingcomputer.com/news/security/microsoft-spots-nodersok-malware-campaign-that-zombifies-pcs/"
+        ],
+        "synonyms": [
+        "Nodersok"
+        ]
+      },
+      "uuid": "218cac48-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Divergent"
+    },
+	{
+      "description": "Donoff is a payload delivery Office document that leverages the Windows Command shell to launch PowerShell to download and execute an executable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/11/threat-roundup-1123-1130.html"
+        ]
+      },
+      "uuid": "218cad74-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Donoff"
+    },
+	{
+      "description": "Dorkbot is an IRC-based Worm designed to allow remote code execution by its operator, as well as the download of additional malware to the infected system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.itnewsafrica.com/2019/09/echobot-launches-widespread-attack-against-iot-devices/"
+        ]
+      },
+      "uuid": "218cb0a8-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dorkbot"
+    },
+	{
+      "description": "ATMDTrack is a subset of the DTrack family. They naturally look different despite their similarities. For example, Dtrack’s payload is encrypted within a dropper—unlike the ATMDTrack samples, which were not encrypted at all. But after decrypting the Dtrack payload, it becomes clear that the developers are the same group of people; both projects have the same style and use the same implemented functions. The most obvious function they have in common is the string manipulation function. It checks if there is a CCS_ substring at the beginning of the parameter string, cuts it out and returns a modified one. Otherwise, it uses the first byte as an XOR argument and returns a decrypted string.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/my-name-is-dtrack/93338/"
+        ]
+      },
+      "uuid": "52f23f32-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dtrack RAT"
+    },
+	{
+      "description": "Trojan downloader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2019/11/exploit-kits-fall-2019-review/",
+		  "https://fortiguard.com/encyclopedia/virus/8086018",
+		  "https://otx.alienvault.com/pulse/5b8f04842f7c861c72334b77?utm_medium=InProduct&utm_source=OTX&utm_content=Email&utm_campaign=new_pulse_from_subscribed"
+        ]
+      },
+      "uuid": "52f242e8-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dupzom"
+    },
+	{
+      "description": "This generic malware cluster is packed with Kryptik. It persists through the registry and modifies system settings to enable other actions on the targeted machine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/threat-roundup-0412-0419.html"
+        ]
+      },
+      "uuid": "52f24450-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Dvee"
+    },
+	{
+      "description": "Used to establish a foothold.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "52f24586-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: ESKC2"
+    },
+	{
+      "description": "Used to establish a foothold.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "52f246a8-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: EVILTECH"
+    },
+	{
+      "description": "EYE is a post-exploitation tool first observed in May 2019. However, it contains a Windows Portable Executable (PE) compile time of January 21, 2019. The purpose of this tool is to evade detection by allowing the actor to cover up their activities while they are logged into the compromised system in the event that a legitimate user attempts to log in to the system. Unlike Hisoka, which monitors for local logins and RDP sessions and subsequently logs them to the registry for later exfiltration, EYE monitors for these logins to kill the processes and delete registry keys and files created during the actor's session.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/xhunt-campaign-attacks-on-kuwait-shipping-and-transportation-organizations/"
+        ]
+      },
+      "uuid": "52f2495a-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: EYE"
+    },
+	{
+      "description": "This malware persists with SYSTEM privileges by installing itself as a new service called localNETService.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/03/threat-roundup-for-feb-22-to-march-1.html"
+        ]
+      },
+      "uuid": "52f24a9a-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Ekstak"
+    },
+	{
+      "description": "Malicious malware targeting coin wallets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/cybercrime/2019/04/electrum-bitcoin-wallets-under-siege/"
+        ],
+        "synonyms": [
+        "OSX.ElectrumStealer"
+        ]
+      },
+      "uuid": "52f24bc6-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Electrum.Stealer"
+    },
+	{
+      "description": "Secondary portion of the HiddenWasp malware tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/"
+        ]
+      },
+      "uuid": "52f24ce8-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: Elknot"
+    },
+	{
+      "description": "EmailStealer is an information stealer which steals simple mail transfer protocol (SMTP) credentials and email addresses in the victim’s machine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/"
+        ]
+      },
+      "uuid": "52f24e14-4202-11ea-9331-2e728ce88125",
+      "value": "OSRS Tool: EmailStealer"
+    },
+	{
+      "description": "These malicious Word documents contain embedded VBA macros, spawn new processes, drops files and remove Office resiliency keys.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/10/threat-roundup-0928-1005.html"
+        ]
+      },
+      "uuid": "5d636c1e-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Emooodldr"
+    },
+	{
+      "description": "Based on the open-source Empire project. The program is designed to remotely control the compromised system via the DNS protocol and supports the following commands - changing the CnC address, downloading files from the network, sending a local file to the CnC server, executing commands in the cmd.exe command shell, collecting system information, rebooting and shutting down the system, and tunneling traffic. Used by the Silence threat actor group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
+		  "https://github.com/EmpireProject/Empire"
+        ]
+      },
+      "uuid": "5d636e9e-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: EmpireDNSAgent"
+    },
+	{
+      "description": "Everything is a desktop search utility for Windows that can rapidly find files and folders by name. Since January 2013, Everything has been actively developed after a four-year break. This utility is released under a free software license that allows modification and commercial redistribution, requiring only attribution. When Everything first runs, it creates an index of the names of every file and folder on all NTFS and ReFS volumes on the system from file metadata, in the case of NTFS from the NTFS Master File Table. By default, all mounted NTFS and ReFS volumes are indexed. Once created, the index is continually updated by the application; in the case of NTFS the updates are fetched from the NTFS change journal. Specific folders on any file system can also be added to the index, but the indexing of folders not using NTFS or ReFS will be slow. The actual search using the gathered index will not be slow, though. Regardless of the file system used on the indexed drives and folders, Everything searches its index for file names matching a user search expression, which may be a fragment of the target file name or a regular expression, displaying intermediate and immediate results as the search term is entered. Because Everything doesn't index content and in the case of NTFS drives relies only on the NTFS change journal to filter file updates, the only file system activity it requires on NTFS drives is updating its index, and it uses very little memory and processor time to provide its service when only indexing NTFS and ReFS drives.Take Command Console incorporates the internal command everything to allow command line access to the program.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Everything_(software)",
+		  "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-crescendo/"
+        ]
+      },
+      "uuid": "5d6371c8-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Everything.exe"
+    },
+	{
+      "description": "This implant is delivered in the form of a self-extracting archive shell script created with makeself. makeself.sh is a small shell script that generates a self-extractable compressed tar archive from a directory. The resulting file appears as a shell script (many of those have a .run suffix), and can be launched as is. The archive will then uncompress itself to a temporary directory and an optional arbitrary command will be executed (for example an installation script). This is pretty similar to archives generated with WinZip Self-Extractor in the Windows world. The archive contains four files - 1. gnome-shell-ext – the spy agent executable 2. gnome-shell-ext.sh – checks if gnome-shell-ext is already running and if not, executes it 3. rtp.dat – configuration file for gnome-shell-ext 4. setup.sh – the setup script that is run by makeself after unpacking. The setup script installs the agent to ~/.cache/gnome-software/gnome-shell-extensions/, in an attempt to masquerade itself as a Gnome shell extension. Gnome shell extensions allow tweaking the Gnome desktop and add functionalities. They are the desktop equivalent to browser extensions. Persistence is achieved by registering gnome-shell-ext.sh to run every minute in crontab. Finally, the script executes gnome-shell-ext.sh, which in turn launches the main executable gnome-shell-ext.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+        ]
+      },
+      "uuid": "5d637362-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: EvilGnome"
+    },
+	{
+      "description": "ExileRAT is a simple RAT platform capable of getting information on the system (computer name, username, listing drives, network adapter, process name), getting/pushing files and executing/terminating processes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/exilerat-shares-c2-with-luckycat.html"
+        ]
+      },
+      "uuid": "5d637498-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: ExileRAT"
+    },
+	{
+      "description": "Expiro is a known file infector and information stealer that hinders analysis with anti-debugging and anti-analysis tricks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/threat-roundup-0329-0405.html"
+        ]
+      },
+      "uuid": "5d6375c4-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Expiro"
+    },
+	{
+      "description": "A hijacker could use this malware to change the user's browser's home page, redirect the user to suspicious websites, and then lead them to advertisements and commercial content that generates pay-per-click revenue for its developers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/11/threat-roundup-1019-1102.html"
+        ]
+      },
+      "uuid": "5d6379f2-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Explorerhijack"
+    },
+	{
+      "description": "A DNS-changer that comes with an adware bundler. This DNS-changers blocks access to security-related sites, so the adware victims can’t download and install security software to get rid of the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/trojans/2019/07/extenbro-a-new-dns-changer-trojan-protecting-adware/"
+        ]
+      },
+      "uuid": "5d637d44-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Extenbro"
+    },
+	{
+      "description": "Eyooun downloads and installs additional malicious and non-malicious programs onto the system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+        ]
+      },
+      "uuid": "5d637ea2-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Eyooun"
+    },
+	{
+      "description": "Used to for maintaining persistence on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "5d637fce-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: FIELDGOAL"
+    },
+	{
+      "description": "Used to make the initial compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "8d7ddaf6-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: FINDLOCK"
+    },
+	{
+      "description": "Used to establish a foothold.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "8d7ddf10-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: FRESHAIR"
+    },
+	{
+      "description": "FakeSpy uses SMS as an entry point to deliver an information stealer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/a-look-into-the-connection-between-xloader-and-fakespy-and-their-possible-ties-with-the-yanbian-gang/",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/fakespy-android-information-stealing-malware-targets-japanese-and-korean-speaking-users/",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/new-version-of-xloader-that-disguises-as-android-apps-and-an-ios-profile-holds-new-links-to-fakespy/"
+        ]
+      },
+      "uuid": "8d7de08c-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: FakeSpy"
+    },
+	{
+      "description": "This dropper attempts to access the Firefox Password Manager local database, uses a temporary batch file to perform additional malicious activities and uploads files to remote servers. Additionally, it might inject code, read INI files or use Visual Basic scripts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/10/threat-roundup-0928-1005.html"
+        ]
+      },
+      "uuid": "8d7de1c2-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Fqdq"
+    },
+	{
+      "description": "The FruityC2 agent script, is an open-source framework on GitHub, used to further enumerate the host machine. Recently observed used during the BlackWater campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html"
+        ]
+      },
+      "uuid": "8d7de474-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: FruityC2"
+    },
+	{
+      "description": "Used to escalate privilege.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "8d7de5e6-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: GREENPIG"
+    },
+	{
+      "description": "Used to for maintain persistence on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "8d7de71c-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: GRILLMARK"
+    },
+	{
+      "description": "GUP Proxy is responsible for configuring the local host proxy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/lookback-forges-ahead-continued-targeting-united-states-utilities-sector-reveals"
+        ]
+      },
+      "uuid": "8d7dea00-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: GUP Proxy"
+    },
+	{
+      "description": "Gelup abuses user account control (UAC) bypass and works as a loader for other threats. The tool also uses the packer of FlawedAmmyy, a remote access trojan, from previous campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/"
+        ]
+      },
+      "uuid": "8d7deb54-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Gelup"
+    },
+	{
+      "description": "Dropper. This threat attempts to spread via removable drives and spam email. It uses legitimate SMTP servers to send spam from its victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2018/09/threat-roundup-0914-0921.html"
+        ]
+      },
+      "uuid": "8d7dec80-4204-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Genkryptik"
+    },
+	{
+      "description": "A PowerView-based script from the PowerShell Empire framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+        ]
+      },
+      "uuid": "403d2898-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Get-LAPSP.ps1"
+    },
+	{
+      "description": "Attributed to the threat actor TA505, Get2 is a downloader used to deliver other malwares such as FlawedGrace, FlawedAmmyy, Snatch, and SDBot RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader"
+        ]
+      },
+      "uuid": "403d2b54-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Get2"
+    },
+	{
+      "description": "Ginp was built from scratch being expanded through regular updates, the last of which including code copied from the infamous Anubis banking Trojan, indicating that its author is cherry-picking the most relevant functionality for its malware. In addition, its original target list is extremely narrow and seems to be focused on Spanish banks. Last but not least, all the overlay screens (injects) for the banks include two steps; first stealing the victim's login credentials, then their credit card details.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/ginp_a_malware_patchwork_borrowing_from_anubis.html"
+        ]
+      },
+      "uuid": "403d2cb2-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Ginp"
+    },
+	{
+      "description": "Point-of-sale malware is popular among attackers, as it usually leads to them obtaining credit card numbers and immediately use that information for financial gain. This type of malware is generally deployed on retailers' websites and retail point-of-sale locations with the goal of tracking customers' payment information. If they successfully obtain credit card details, they can use either the proceeds from the sale of that information or use the credit card data directly to obtain additional exploits and resources for other malware. Point-of-sale terminals are often forgotten about in terms of segregation and can represent a soft target for attackers. Cisco Talos recently discovered a new PoS malware that the attackers are selling on a crimeware forum. Our researchers also discovered the associated payloads with the malware, its infrastructure and control panel. We assess with high confidence that this is not the first malware developed by this actor. A few years ago, they were also pushing the DiamondFox L!NK botnet. Known as GlitchPOS, this malware is also being distributed on alternative websites at a higher price than the original.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/03/glitchpos-new-pos-malware-for-sale.html"
+        ]
+      },
+      "uuid": "403d3036-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: GlitchPOS"
+    },
+	{
+      "description": "Malicious macOS based malware that disguises itself as legitimate applications.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mac-malware-that-spoofs-trading-app-steals-user-information-uploads-it-to-website/"
+        ]
+      },
+      "uuid": "403d3194-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Gmera"
+    },
+	{
+      "description": "GolfSpy is notable for its wide range of cyberespionage capabilities. Malicious codes are embedded in apps that the operators repackaged from legitimate applications. Monitoring the command and control (C&C) servers used by Bouncing Golf. Much of the information being stolen appear to be military-related.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
+        ]
+      },
+      "uuid": "403d32ca-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: GolfSpy"
+    },
+	{
+      "description": "The Gon tool was also first observed in May 2019 and contains a variety of functionality. The majority of this functionality indicates that it would likely be used as a post-exploitation tool to help an actor carry out activities after gaining access to a system. Gon provides an actor with the ability to scan for open ports on remote systems, upload and download files, take screenshots, find other systems on the network, run commands on remote systems using WMI or PSEXEC and create an RDP session using the plink utility. Gon can be used as a command-line utility or as a desktop application using the provided GUI. Using the GUI, Gon can use the dsquery tool embedded within it to issue commands to obtain computer, user and group names from an active directory.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/xhunt-campaign-attacks-on-kuwait-shipping-and-transportation-organizations/"
+        ]
+      },
+      "uuid": "403d33f6-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Gon"
+    },
+	{
+      "description": "A cryptojacking worm that spreads through unsecured Docker hosts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/graboid-first-ever-cryptojacking-worm-found-in-images-on-docker-hub/"
+        ]
+      },
+      "uuid": "403d3522-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Graboid"
+    },
+	{
+      "description": "Banking trojan based on the Marcher malware family.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+        ]
+      },
+      "uuid": "403d364e-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: Gustuff"
+    },
+	{
+      "description": "Trojan malware variants used by the North Korean government. This malware variant has been identified as HOPLIGHT. The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA. The HOPLIGHT Trojan implements the following functions - Read, Write, and Move Files. Enumerate System Drives. Create and Terminate Processes. Inject into Running Processes. Create, Start and Stop Services. Modify Registry Settings. Connect to a Remote Host. Upload and Download Files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/83686/apt/hoplight-trojan-hidden-cobra.html",
+		  "https://www.us-cert.gov/ncas/analysis-reports/AR19-100A"
+        ]
+      },
+      "uuid": "403d3784-4207-11ea-b9bd-2e728ce88125",
+      "value": "OSRS Tool: HOPLIGHT"
+    },
+	{
+      "description": "Hidden Bee is a multiple-stage custom executable format, acting also as a downloader to retrieve LUA scripts used by the threat actors behind the Hidden Bee miner botnet. This was perhaps the first case of a bootkit being used to enslave machines mining cryptocurrencies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2019/11/exploit-kits-fall-2019-review/",
+		  "https://blog.malwarebytes.com/threat-analysis/2018/07/hidden-bee-miner-delivered-via-improved-drive-by-download-toolkit/"
+        ]
+      },
+      "uuid": "6d37891a-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Hidden Bee"
+    },
+	{
+      "description": "Unlike common Linux malware, HiddenWasp is not focused on crypto-mining or DDoS activity. It is a trojan purely used for targeted remote control. Evidence shows in high probability that the malware is used in targeted attacks for victims who are already under the attacker’s control, or have gone through a heavy reconnaissance. HiddenWasp authors have adopted a large amount of code from various publicly available open-source malware, such as Mirai and the Azazel rootkit. In addition, there are some similarities between this malware and other Chinese malware families, however the attribution is made with low confidence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/"
+        ]
+      },
+      "uuid": "6d378bc2-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: HiddenWasp"
+    },
+	{
+      "description": "Icloader is a generic malware that largely behaves like adware. The samples are packed and have evasive checks to hinder the analysis and conceal the real activities. This family can inject code in the address space of other processes and upload files to a remote server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/threat-roundup-for-feb-15-to-feb-22.html"
+        ]
+      },
+      "uuid": "6d378d16-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Icloader"
+    },
+	{
+      "description": "Detected by Trend Micro as HackTool.Win32.Impacket.AI is used to gain remote access to other machines.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+        ]
+      },
+      "uuid": "6d378e4c-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Impacket"
+    },
+	{
+      "description": "Inner-Loader.dll is a watch guard for the LOWKEY backdoor. It leverages the GetExtendedTcpTable API to retrieve all processes with an open TCP connection. If a process is listening on TCP port 53 it injects NetAgent.exe into the process. This is done in a loop with a 10 second delay. The loader exits the loop when NetAgent.exe has been successfully injected. After the injection it will create a new thread for the LOWKEY backdoor (SK3.x.exe). The watch guard enters an endless loop that executes every 20 minutes and ensures that the NetAgent.exe and the LOWKEY backdoor are still active. If this is not the case it will relaunch the backdoor or reinject the NetAgent.exe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2019/10/14/connecting-dots-exposing-arsenal-methods-winnti/",
+		  "https://www.fireeye.com/blog/threat-research/2019/10/lowkey-hunting-for-the-missing-volume-serial-id.html"
+        ],
+        "synonyms": [
+        "Inner-Loader.dll"
+        ]
+      },
+      "uuid": "6d37918a-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: InnerLoader"
+    },
+	{
+      "description": "InnfiRAT is designed to access and steal personal information on a user's computer. Among other things, InnfiRAT is written to look for cryptocurrency wallet information, such as Bitcoin and Litecoin. InnfiRAT also grabs browser cookies to steal stored usernames and passwords, as well as session data. In addition, this RAT has ScreenShot functionality so it can grab information from open windows. For example, if the user is reading email, the malware takes a screenshot. It also checks for other applications running on the system, such as an active antivirus program. InnfiRAT sends the data it has collected to its command-and-control (C&C) server and requests further instructions. The C&C can also instruct the malware to download additional payloads onto the infected system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/research/innfirat-new-rat-aiming-your-cryptocurrency-and-more"
+        ]
+      },
+      "uuid": "6d3793e2-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: InnfiRAT"
+    },
+	{
+      "description": "IronPython is an implementation of the Python programming language targeting the .NET Framework and Mono. Jim Hugunin created the project and actively contributed to it up until Version 1.0 which was released on September 5, 2006. IronPython 2.0 was released on December 10, 2008.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html"
+        ]
+      },
+      "uuid": "6d37952c-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: IronPython"
+    },
+	{
+      "description": "This project aims at delivering browser exploits to the victim browser in an encrypted fashion. Ellyptic-curve Diffie-Hellman is used for key agreement and AES is used for encryption. By delivering the exploit code, as well as shellcode to the victim in an encrypted way, the attack can not be replayed. Meanwhile the HTML/JS source is encrypted thus reverse engineering the exploit is significantly harder.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/",
+		  "https://github.com/MRGEffitas/Ironsquirrel"
+        ]
+      },
+      "uuid": "6d379662-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: IronSquirrel"
+    },
+	{
+      "description": "Used to for maintain persistence on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "6d37978e-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: JUMPKICK"
+    },
+	{
+      "description": "Jason is a graphic tool implemented to perform Microsoft exchange account brute-force in order to harvest the highest possible emails and accounts information. Distributed in a ZIP container, the interface is quite intuitive. The Microsoft exchange address and its version shall be provided (even if in the code a DNS-domain discovery mode function is available). Three brute-force methods can be selected; (1) EWS (Exchange Web Service), (2) OAB (Offline Address Book) or both (All). Username and password list can be selected (included in the distributed ZIP file) and threads number should be provided in order to optimize the attack balance.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://marcoramilli.com/2019/06/06/apt34-jason-project/"
+        ]
+      },
+      "uuid": "6d3798ce-4207-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Jason"
+    },
+	{
+      "description": "Distributed via malicious spam campaigns primarily targeting central European countries with a particular focus on Germany and Italy. JasperLoader employs a multi-stage infection process that features several obfuscation techniques that make analysis more difficult. It appears that this loader was designed with resiliency and flexibility in mind, as evidenced in later stages of the infection process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/jasperloader-targets-italy.html"
+        ]
+      },
+      "uuid": "8fa2274c-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: JasperLoader"
+    },
+	{
+      "description": "Johnnie, also known as Mikey, is a malware family that focuses on persistence and is known for its plugin architecture.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/01/threat-roundup-0111-0118.html"
+        ]
+      },
+      "uuid": "8fa22a76-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Johnnie"
+    },
+	{
+      "description": "Jsecoin is JavaScript miner that can be embedded in websites. Jsecoin can run directly in user's browsers in exchange for an ad-free experience, in-game currency and other incentives.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.itnewsafrica.com/2019/09/echobot-launches-widespread-attack-against-iot-devices/"
+        ]
+      },
+      "uuid": "8fa22bde-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Jsecoin"
+    },
+	{
+      "description": "This Rootkit arrives on a system as a file dropped by other malware or as a file downloaded unknowingly by users when visiting malicious sites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/linux-coin-miner-copied-scripts-from-korkerds-removes-all-other-malware-and-miners/"
+        ]
+      },
+      "uuid": "8fa22eea-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: KORKERDS"
+    },
+	{
+      "description": "The malware is lightweight compared to other malware due to its small size and allows remote code execution from the C2 server. There is no obfuscation and the code can be easily disassembled. The malware is a Windows service named MSExchangeClient.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/dnspionage-brings-out-karkoff.html"
+        ]
+      },
+      "uuid": "8fa23048-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Karkoff"
+    },
+	{
+      "description": "Kerberods (detected as Trojan.Linux.KERBERDS.A), is a custom-packed binary that installs itself via cron jobs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-3396-redux-confluence-vulnerability-exploited-to-deliver-cryptocurrency-miner-with-rootkit/"
+        ]
+      },
+      "uuid": "8fa23174-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Kerberods"
+    },
+	{
+      "description": "Port scanner similar to MASSCAN.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-crescendo/"
+        ]
+      },
+      "uuid": "8fa232a0-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Kport"
+    },
+	{
+      "description": "This script, associated with Bird Miner, checks for Activity Monitor and bails out if it’s running, indicating that someone is watching for unusual processor activity. If it’s not open, then it launches an executable named Nigel, and passes a path to another file, Poaceae, as a parameter.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+        ]
+      },
+      "uuid": "8fa233cc-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Krugerite"
+    },
+	{
+      "description": "Kryptik is oftentimes a generic detection name for a Windows trojan. Some of the malicious activities that could be performed by these samples, without the user's knowledge, include collecting system information, downloading/uploading files and dropping additional samples.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/05/threat-roundup-0503-0510.html"
+        ]
+      },
+      "uuid": "8fa234f8-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Kryptik"
+    },
+	{
+      "description": "A shell command was remotely executed to download and execute a malicious shell script Trojan.SH.LODEX.J, which in turn downloaded another shell script Trojan.SH.DOGOLOAD.J that finally installed the AESDDoS botnet malware on the affected system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+        ]
+      },
+      "uuid": "8fa237e6-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LODEX.J"
+    },
+	{
+      "description": "The primary function of LONGWATCH is a keylogger that outputs keystrokes to a log.txt file in the Windows temp folder.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html"
+        ]
+      },
+      "uuid": "baa3a240-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LONGWATCH"
+    },
+	{
+      "description": "Attributed to the threat actor Rocke, LDS Malware is used to to exploit ActiveMQ servers vulnerable to CVE-2016-3088. Additionally, the malware tries to ensure only the threat actor’s miner is running on the infected machine. It does so by killing any other processes with high CPU usage. The LSD malware identifies its miner via the MD5 hash of the file to make sure it doesn’t kill its miner.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.anomali.com/blog/illicit-cryptomining-threat-actor-rocke-changes-tactics-now-more-difficult-to-detect"
+        ]
+      },
+      "uuid": "baa3a524-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LSD Malware"
+    },
+	{
+      "description": "The malware’s detected by Trend Micro as Trojan.PS1.LUDICROUZ.A primary propagation technique involves trying a list of weak credentials to log into other computers connected to the network. Instead of directly sending itself into all the systems connected, the remote command changes the firewall and port forwarding settings of the infected machines, setting up a scheduled task to download and execute an updated copy of the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+        ]
+      },
+      "uuid": "baa3a682-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LUDICROUZ"
+    },
+	{
+      "description": "Used to complete actions on objective.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+        ]
+      },
+      "uuid": "baa3a7b8-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LUNCHMONEY"
+    },
+	{
+      "description": "The LaZagne project is an open source application used to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/recent-cloud-atlas-activity/92016/",
+		  "https://github.com/AlessandroZ/LaZagne"
+        ]
+      },
+      "uuid": "baa3a8ee-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LaZagne"
+    },
+	{
+      "description": "Tool used for cryptomining. Leverages EternalBlue exploit. Scans for common ports 445, 1433, and 65529. Uses brute force as a TTP to attach itself to a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2019/10/01/lemon_duck-powershell-malware-cryptojacks-enterprise-networks/"
+        ]
+      },
+      "uuid": "baa3ac36-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Lemon_Duck"
+    },
+	{
+      "description": "Lilith is a console-based ultra light-weight RAT developed in C++. It features a straight-forward set of commands that allows for near complete control of a machine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://github.com/werkamsus/Lilith",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-endtrade-finding-multi-stage-backdoors-that-tick/"
+        ]
+      },
+      "uuid": "baa3ad6c-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Lilith RAT"
+    },
+	{
+      "description": "LimeRAT is a powerful Remote Administration Tool publicly available to any internet user, it is an open-source project freely available on Github. Comparing its source code to the decompiled sample we were able to confirm there is a high compatibility between the payload and this open-source remote administration tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.yoroi.company/research/limerat-spreads-in-the-wild/"
+        ]
+      },
+      "uuid": "baa3af4c-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LimeRAT"
+    },
+	{
+      "description": "This malware consists of a remote access Trojan (RAT) module and a proxy mechanism used for command and control (C&C) communication.  We believe this may be the work of a state-sponsored APT actor based on overlaps with historical campaigns and macros utilized. The utilization of this distinct delivery methodology coupled with unique LookBack malware highlights the continuing threats posed by sophisticated adversaries to utilities systems and critical infrastructure providers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/lookback-malware-targets-united-states-utilities-sector-phishing-attacks"
+        ]
+      },
+      "uuid": "baa3b082-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: LookBack RAT"
+    },
+	{
+      "description": "It is part of a malvertising chain via the PopCash ad network and uses a compromised site to redirect to a landing page. It uses the ngrok service to craft custom hostnames. This EK typically targets Flash Player vulnerabilities over Internet Explorer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2019/08/say-hello-to-lord-exploit-kit/"
+        ]
+      },
+      "uuid": "baa3b1ae-4209-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: Lord Exploit Kit"
+    },
+	{
+      "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/threat-roundup-0201-0208.html"
+        ]
+      },
+      "uuid": "88d646ea-41f6-11ea-b77f-2e728ce88125",
+      "value": "OSRS Tool: 00519ead"
     }
 	  ],
 	"version": 1
