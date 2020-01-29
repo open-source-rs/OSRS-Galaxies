@@ -154,6 +154,467 @@
       "value": "OSRS SecTool: Security Support Provider (SSP)"
     },
 	{
+      "description": "The samhain open source host-based intrusion detection system (HIDS) provides file integrity checking and logfile monitoring analysis, as well as rootkit detection, port monitoring, detection of rogue SUID executables, and hidden processes. It has been designed to monitor multiple hosts with potentially different operating systems, providing centralized logging and maintenance, although it can also be used as standalone application on a single host.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://la-samhna.de/samhain/",
+		  "https://github.com/pilbender/samhain"
+        ]
+      },
+      "uuid": "5910747c-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Samhain File Integrity Checker"
+    },
+	{
+      "description": "Windows persistence toolkit written in C#. Author - Brett Hawkins (@h4wkst3r).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/fireeye/SharPersist"
+        ]
+      },
+      "uuid": "59107760-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SharPersist"
+    },
+	{
+      "description": "SharpHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment. Attacks can use SharpHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use SharpHound to identify and eliminate those same attack paths. Both blue and red teams can use SharpHound to easily gain a deeper understanding of privilege relationships in an Active Directory environment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/BloodHoundAD/SharpHound"
+        ]
+      },
+      "uuid": "59107922-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SharpHound"
+    },
+	{
+      "description": "SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit. By following the instructions below you should be able to embed both the SharpSploit.dll and System.Management.Automation.dll into the SharpSploitConsole binary, creating a standalone exe you can drop on an appropriate target sytem and run over a non-interactive shell (such as beacon). This concept can be applied to many C# binaries. For example, we could embed the System.Management.Automation.dll into our favorite C# NoPowershell.exe, creating a binary that does not rely on the System.Management.Automation.dll on the target system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/anthemtotheego/SharpSploitConsole"
+        ]
+      },
+      "uuid": "59107abc-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SharpSploitConsole"
+    },
+	{
+      "description": "SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/GhostPack/SharpUp"
+        ]
+      },
+      "uuid": "59107c24-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SharpUp"
+    },
+	{
+      "description": ".NET port of PowerView. PowerView is a PowerShell tool to gain network situational awareness on Windows domains. It contains a set of pure-PowerShell replacements for various windows net commands, which utilize PowerShell AD hooks and underlying Win32 API functions to perform useful Windows domain functionality.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/tevora-threat/SharpView"
+        ]
+      },
+      "uuid": "59107daa-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SharpView"
+    },
+	{
+      "description": "Metasploit encodeing scheme.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/10/shikata-ga-nai-encoder-still-going-strong.html"
+        ]
+      },
+      "uuid": "59107f4e-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Shikata Ga Nai (SGN)"
+    },
+	{
+      "description": "SingleFile is a Web Extension compatible with Chrome, Firefox (Desktop and Mobile), Chromium-based Edge, Vivaldi, Brave, Waterfox, Yandex browser, and Opera. It helps you to save a complete web page into a single HTML file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/gildas-lormeau/SingleFile"
+        ]
+      },
+      "uuid": "5910812e-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SingleFile"
+    },
+	{
+      "description": "SoftEther VPN is free open-source, cross-platform, multi-protocol VPN client and VPN server software, developed as part of Daiyuu Nobori's master's thesis research at the University of Tsukuba.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.softether.org/"
+        ]
+      },
+      "uuid": "591082c8-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: SoftEther VPN"
+    },
+	{
+      "description": "Stegano, a pure Python Steganography module.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/cedricbonhomme/Stegano"
+        ]
+      },
+      "uuid": "5910849e-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Stegano"
+    },
+	{
+      "description": "StringSifter is a machine learning tool that automatically ranks strings based on their relevance for malware analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/fireeye/stringsifter"
+        ]
+      },
+      "uuid": "89d63bfa-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: StringSifter"
+    },
+	{
+      "description": "Suricata is a free and open source, mature, fast and robust network threat detection engine. The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing. Suricata inspects the network traffic using a powerful and extensive rules and signature language, and has powerful Lua scripting support for detection of complex threats. With standard input and output formats like YAML and JSON integrations with tools like existing SIEMs, Splunk, Logstash/Elasticsearch, Kibana, and other database become effortless. Suricata’s fast paced community driven development focuses on security, usability and efficiency. The Suricata project and code is owned and supported by the Open Information Security Foundation (OISF), a non-profit foundation committed to ensuring Suricata’s development and sustained success as an open source project.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://suricata-ids.org/"
+        ]
+      },
+      "uuid": "89d63eac-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Suricata"
+    },
+	{
+      "description": "tcpdump is a common packet analyzer that runs under the command line. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached. Distributed under the BSD license, tcpdump is free software. Tcpdump works on most Unix-like operating systems: Linux, Solaris, FreeBSD, DragonFly BSD, NetBSD, OpenBSD, OpenWrt, macOS, HP-UX 11i, and AIX. In those systems, tcpdump uses the libpcap library to capture packets. The port of tcpdump for Windows is called WinDump; it uses WinPcap, the Windows port of libpcap.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/the-tcpdump-group/",
+		  "https://github.com/the-tcpdump-group/tcpdump",
+		  "https://www.tcpdump.org",
+		  "https://en.wikipedia.org/wiki/Tcpdump"
+        ],
+        "synonyms": [
+        "WinDump"
+        ]
+      },
+      "uuid": "89d64000-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: TCPdump"
+    },
+	{
+      "description": "Tor is free and open-source software for enabling anonymous communication. The name is derived from an acronym for the original software project name The Onion Router. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user; this includes, visits to Web sites, online posts, instant messages, and other communication forms. Tor's intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities from being monitored.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Tor_(anonymity_network)",
+		  "https://packetstormsecurity.com/files/154167/tor-0.4.1.5.tar.gz"
+        ]
+      },
+      "uuid": "89d64370-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: TOR Virtual Network Tunneling Tool"
+    },
+	{
+      "description": "DFIR linux created by veterans of the Backtrack and Deft linux teams.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://tsurugi-linux.org"
+        ]
+      },
+      "uuid": "89d644ce-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: TSURUGI Linux"
+    },
+	{
+      "description": "The Hex-Rays Decompiler brings binary software analysis within reach of millions of programmers. It converts native processor code into a readable C-like pseudocode text. Currently, the decompiler supports compiler generated code for the x86, x64, ARM32, ARM64, and PowerPC processors and we are adding support for other platforms on an ongoing basis. The programmatic API allows you to improve the decompiler output, giving flexibility to your analysis of areas such as vulnerability search, software validation, and coverage. The decompiler runs on all standard platforms - MS Windows, Linux, and Mac OS X, both in GUI and console modes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.hex-rays.com/products/decompiler/index.shtml"
+        ]
+      },
+      "uuid": "89d64604-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: The Hex-Rays Decompiler"
+    },
+	{
+      "description": "This is an IDA processor module for the Tile-GX processor architecture.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/Cisco-Talos/ida_tilegx"
+        ]
+      },
+      "uuid": "89d64730-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Tilera"
+    },
+	{
+      "description": "Tinc is a Virtual Private Network (VPN) daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet. tinc is Free Software and licensed under the GNU General Public License version 2 or later. Because the VPN appears to the IP level network code as a normal network device, there is no need to adapt any existing software. This allows VPN sites to share information with each other over the Internet without exposing any information to others.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.tinc-vpn.org",
+		  "https://packetstormsecurity.com/files/154218/tinc-1.0.36.tar.gz"
+        ]
+      },
+      "uuid": "89d64852-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Tinc Virtual Private Network Daemon"
+    },
+	{
+      "description": "Travesty – A directory and file enumeration tool (post directory traversal exploitation) This tool assists security analysts in identifying interesting directories and files once a directory traversal has been found.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/telspacesystems/travesty/",
+		  "https://blog.telspace.co.za/2019/11/travesty-directory-and-file-enumeration.html"
+        ]
+      },
+      "uuid": "89d64a50-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Travesty"
+    },
+	{
+      "description": "svchost.exe (Service Host, or SvcHost) is a system process that can host from one to many Windows services in the Windows NT family of operating systems. Svchost is essential in the implementation of so-called shared service processes, where a number of services can share a process in order to reduce resource consumption. Grouping multiple services into a single process conserves computing resources, and this consideration was of particular concern to NT designers because creating Windows processes takes more time and consumes more memory than in other operating systems, e.g. in the Unix family. However, if one of the services causes an unhandled exception, the entire process may crash. In addition, identifying component services can be more difficult for end users. Problems with various hosted services, particularly with Windows Update, get reported by users (and headlined by the press) as involving svchost. The svchost process was introduced in Windows 2000, although the underlying support for shared service processes has existed since Windows NT 3.1.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Svchost.exe"
+        ]
+      },
+      "uuid": "89d64df2-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: svchost"
+    },
+	{
+      "description": "Voice-activated control for your PC games and apps.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://voiceattack.com"
+        ]
+      },
+      "uuid": "bad7edb6-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: VoiceAttack"
+    },
+	{
+      "description": "The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibilty into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/volatilityfoundation/volatility"
+        ]
+      },
+      "uuid": "bad7f022-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Volatility"
+    },
+	{
+      "description": "Wapiti allows you to audit the security of your websites or web applications. It performs black-box scans (it does not study the source code) of the web application by crawling the webpages of the deployed webapp, looking for scripts and forms where it can inject data. Once it gets the list of URLs, forms and their inputs, Wapiti acts like a fuzzer, injecting payloads to see if a script is vulnerable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "http://wapiti.sourceforge.net/"
+        ]
+      },
+      "uuid": "bad7f1ee-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Wapiti"
+    },
+	{
+      "description": "Webfwlog is a flexible web-based firewall log analyzer and reporting tool. It supports standard system logs for linux, FreeBSD, OpenBSD, NetBSD, Solaris, Irix, OS X, etc. as well as Windows XP. Supported log file formats are netfilter, ipfilter, ipfw, ipchains and Windows XP. Webfwlog also supports logs saved in a database using the ULOG or NFLOG targets of the linux netfilter project, or any other database logs mapped with a view to the ulogd schema. Versions 1 and 2 of ulogd database schemas are supported.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "http://webfwlog.sourceforge.net/"
+        ]
+      },
+      "uuid": "bad7f34c-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Webfwlog Firewall Log Analyzer"
+    },
+	{
+      "description": "WhatWeb identifies websites. Its goal is to answer the question, What is that Website?. WhatWeb recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices. WhatWeb has over 1800 plugins, each to recognise something different. WhatWeb also identifies version numbers, email addresses, account IDs, web framework modules, SQL errors, and more. WhatWeb can be stealthy and fast, or thorough but slow. WhatWeb supports an aggression level to control the trade off between speed and reliability. When you visit a website in your browser, the transaction includes many hints of what web technologies are powering that website. Sometimes a single webpage visit contains enough information to identify a website but when it does not, WhatWeb can interrogate the website further. The default level of aggression, called stealthy, is the fastest and requires only one HTTP request of a website. This is suitable for scanning public websites. More aggressive modes were developed for use in penetration tests. Most WhatWeb plugins are thorough and recognise a range of cues from subtle to obvious. For example, most WordPress websites can be identified by the meta HTML tag, but a minority of WordPress websites remove this identifying tag but this does not thwart WhatWeb. The WordPress WhatWeb plugin has over 15 tests, which include checking the favicon, default installation files, login pages, and checking for wp-content within relative links.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/urbanadventurer/WhatWeb"
+        ]
+      },
+      "uuid": "bad7f482-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: WhatWeb Scanner"
+    },
+	{
+      "description": "For many years, WinPcap has been recognized as the industry-standard tool for link-layer network access in Windows environments, allowing applications to capture and transmit network packets bypassing the protocol stack, and including kernel-level packet filtering, a network statistics engine and support for remote packet capture.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.winpcap.org"
+        ]
+      },
+      "uuid": "bad7f766-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: WinPcap"
+    },
+	{
+      "description": "Windows Management Instrumentation (WMI) is the infrastructure for management data and operations on Windows-based operating systems. You can write WMI scripts or applications to automate administrative tasks on remote computers but WMI also supplies management data to other parts of the operating system and products, for example System Center Operations Manager, formerly Microsoft Operations Manager (MOM), or Windows Remote Management (WinRM).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmi-start-page"
+        ]
+      },
+      "uuid": "bad7f8b0-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Windows Management Instrumentation (WMI)"
+    },
+	{
+      "description": "Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. Wireshark development thrives thanks to the volunteer contributions of networking experts around the globe and is the continuation of a project started by Gerald Combs in 1998.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.wireshark.org"
+        ]
+      },
+      "uuid": "bad7f9dc-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Wireshark"
+    },
+	{
+      "description": "Cross Site Scripter (aka XSSer) is an automatic framework to detect, exploit and report XSS vulnerabilities in web-based applications. It provides several options to try to bypass certain filters and various special techniques for code injection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/epsylon/xsser"
+        ]
+      },
+      "uuid": "bad7fb08-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: XSSer"
+    },
+	{
+      "description": "Yoda's Protector is a free, open source, Windows 32-bit software protector.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://sourceforge.net/projects/yodap/",
+		  "https://sourceforge.net/p/yodap/wiki/"
+        ]
+      },
+      "uuid": "bad7fcd4-42cc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Yodas Protector"
+    },
+	{
+      "description": ".VBS that creates a .lnk file spoofing the file extension with unicode chars that reverses the .lnk file extension, appends .txt to the end and changes the icon to notepad to make it appear as a textfile. When executed, the payload is a powershell webdl and execute.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/xillwillx/tricky.lnk"
+        ]
+      },
+      "uuid": "36afe42c-42d0-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: tricky.lnk"
+    },
+	{
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. (Zeek is the new name for the long-established Bro system. Note that parts of the system retain the Bro name, and it also often appears in the documentation and distributions.)",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.zeek.org/",
+		  "https://packetstormsecurity.com/files/154248/bro-2.6.4.tar.gz"
+        ],
+        "synonyms": [
+        "Bro Network Security Monitor",
+		"Bro"
+        ]
+      },
+      "uuid": "36afe698-42d0-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Zeek Network Security Monitor"
+    },
+	{
+      "description": "Spices.Net Obfuscator is a .Net code obfuscation, protection and optimization tool that offers the wide range of technologies to completely protect your .Net code and secure your data. Spices.Net Obfuscator rebuilds your .Net assemblies to the new format that is impossible to disassemble, decompile, impossible to understand. .Net Obfuscator is a part of Spices.Net and offered as Visual Studio Integrated package (Spices.VSIP.Obfuscator), standalone GUI program and as console edition. You can use Spices.Net Obfuscator as freeware for non-commercial use, all features of Spices.Net Obfuscator in Free Evaluation version are presented and work without limitations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.9rays.net/Category/55-spicesnet-obfuscator.aspx"
+        ],
+        "synonyms": [
+        "Spices.Net Obfuscator"
+        ]
+      },
+      "uuid": "36afe83c-42d0-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: 9rays"
+    },
+	{
+      "description": "This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/vanhauser-thc/thc-hydra"
+        ]
+      },
+      "uuid": "04000126-42d3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: thc-hydra"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
