@@ -154,6 +154,798 @@
       "value": "OSRS SecTool: Certutil.exe (certutil)"
     },
 	{
+      "description": "Babel Obfuscator is a powerful protection tool for the Microsoft .NET Framework. Programs written in .NET languages, like C# and Visual Basic .NET, are normally easy to reverse engineer because they compile to MSIL (Microsoft Intermediate Language), a CPU-independent instruction set that is embedded into .NET assemblies, along with metadata allowing the reconstruction of original source code. Babel Obfuscator is able to transform assemblies in order to conceal the code, so that reversing is extremely difficult. This transformation process is called obfuscation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "http://www.babelfor.net/products#Obfuscator"
+        ]
+      },
+      "uuid": "bedd21b4-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: babelfor.NET Obfuscator"
+    },
+	{
+      "description": "Decompile binary MOF file (BMF) from WMI buffer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/pali/bmfdec"
+        ]
+      },
+      "uuid": "bedd2466-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: bmfdec"
+    },
+	{
+      "description": "checkra1n is a community project to provide a high-quality semi-tethered jailbreak to all, based on the checkm8 bootrom exploit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://checkra.in/"
+        ]
+      },
+      "uuid": "bedd25ba-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: checkra1n"
+    },
+	{
+      "description": "Clam AntiVirus (ClamAV) is a free software, cross-platform and open-source antivirus software toolkit able to detect many types of malicious software, including viruses. One of its main uses is on mail servers as a server-side email virus scanner. The application was developed for Unix and has third party versions available for AIX, BSD, HP-UX, Linux, macOS, OpenVMS, OSF (Tru64) and Solaris. As of version 0.97.5, ClamAV builds and runs on Microsoft Windows. Both ClamAV and its updates are made available free of charge.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Clam_AntiVirus",
+		  "https://packetstormsecurity.com/files/154185/clamav-0.101.4.tar.gz"
+        ]
+      },
+      "uuid": "bedd26fa-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Clam AntiVirus"
+    },
+	{
+      "description": "With CodeVeil you can encrypt your .NET applications and DLLs. CodeVeil adds native code to the assembly to decrypt the assembly just before the .NET runtime needs access to the data. The decoder includes anti-debugging, anti-tracing, modification tracking, and various other advanced techniques to prevent unauthorized access and modification of your assemblies. And, veiled assemblies can be used just like any other assembly. No third party dll is required with your distribution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://download.cnet.com/CodeVeil/3000-10250_4-10729770.html"
+        ]
+      },
+      "uuid": "bedd2c40-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: CodeVeil"
+    },
+	{
+      "description": "ConfuserEx is an free, open-source protector for .NET applications. It is the successor of Confuser project.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://yck1509.github.io/ConfuserEx/"
+        ]
+      },
+      "uuid": "bedd2da8-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: ConfuserEx"
+    },
+	{
+      "description": "Easily integrate Content-Security-Policy headers into your web application, either from a JSON configuration file, or programatically. CSP Builder was created by Paragon Initiative Enterprises as part of our effort to encourage better application security practices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/paragonie/csp-builder"
+        ]
+      },
+      "uuid": "bedd2ee8-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Content Security Policy Builder (CSPB)"
+    },
+	{
+      "description": "Python 3 REST API & JS GUI for managing hashcat crack jobs in a queuing system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/f0cker/crackq"
+        ]
+      },
+      "uuid": "bedd300a-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: CrackQ"
+    },
+	{
+      "description": "CyberChef is a simple, intuitive web app for carrying out all manner of cyber operations within a web browser. These operations include simple encoding like XOR or Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more. The tool is designed to enable both technical and non-technical analysts to manipulate data in complex ways without having to deal with complex tools or algorithms. It was conceived, designed, built and incrementally improved by an analyst in their 10% innovation time over several years.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://gchq.github.io/CyberChef/",
+		  "https://github.com/gchq/CyberChef"
+        ]
+      },
+      "uuid": "bedd3334-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: CyberChef"
+    },
+	{
+      "description": "Small plugin to detect mobile browser.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/smali-kazmi/detect-mobile-browser"
+        ]
+      },
+      "uuid": "bedd347e-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Detect Mobile Browser"
+    },
+	{
+      "description": "This CLI framework is based on sploitkit and is an attempt to gather hacking techniques and exploits especially focused on drone hacking. For the ease of use, the interface has a layout that looks like Metasploit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/dhondta/dronesploit"
+        ]
+      },
+      "uuid": "ef866e2e-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: DroneSploit"
+    },
+	{
+      "description": "Shellcode runner for all application whitelisting bypasses.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/fireeye/DueDLLigence"
+        ]
+      },
+      "uuid": "ef8672fc-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: DueDLLigence"
+    },
+	{
+      "description": "RawDisk is a legitimate commercial driver from the EldoS Corporation that is used for interacting with files, disks, and partitions. The driver allows for direct modification of data on a local computer's hard drive. In some cases, the tool can enact these raw disk modifications from user-mode processes, circumventing Windows operating system security features.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://attack.mitre.org/software/S0364/"
+        ]
+      },
+      "uuid": "ef867464-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: EldoS RawDisk"
+    },
+	{
+      "description": "Version 1.0.0. This tool is a PoC to demonstrate the ability of an attacker to perform an SMB or HTTP based NTLM relay attack to the EWS endpoint on an on-premise Microsoft Exchange server to compromise the mailbox of the victim. This tool provides the attacker with an OWA looking interface, with access to the user mailbox and contacts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/quickbreach/ExchangeRelayX"
+        ]
+      },
+      "uuid": "ef8675a4-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: ExchangeRelayX"
+    },
+	{
+      "description": "This is a set of utilities wrapping the decompiler API into something sane. This code focus on vulnerability research and bug hunting, however most of the functionality is generic enough to be used for broader reverse engineering purposes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/fireeye/FIDL"
+        ]
+      },
+      "uuid": "ef8676d0-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: FLARE IDA Decompiler Library (FIDL)"
+    },
+	{
+      "description": "Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. Powered by sysdig’s system call capture infrastructure, Falco lets you continuously monitor and detect container, application, host, and network activity—all in one place—from one source of data, with one set of rules. Falco is hosted by the Cloud Native Computing Foundation (CNCF) as a sandbox level project. If you are an organization that wants to help shape the evolution of technologies that are container-packaged, dynamically-scheduled and microservices-oriented, consider joining the CNCF. For details read the Falco CNCF project proposal.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/falcosecurity/falco"
+        ]
+      },
+      "uuid": "ef867806-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Falco"
+    },
+	{
+      "description": "Faraday introduces a new concept - IPE (Integrated Penetration-Test Environment) a multiuser Penetration test IDE. Designed for distributing, indexing, and analyzing the data generated during a security audit. Faraday was made to let you take advantage of the available tools in the community in a truly multiuser way. Designed for simplicity, users should notice no difference between their own terminal application and the one included in Faraday. Developed with a specialized set of functionalities, users improve their own work. Do you remember the last time you programmed without an IDE? What IDEs are to programming, Faraday is to pentesting.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/infobyte/faraday"
+        ]
+      },
+      "uuid": "ef867bc6-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Faraday"
+    },
+	{
+      "description": "Redline, FireEye premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. Use Redline to collect, analyze and filter endpoint data and perform IOC analysis and hit review. In addition, users of FireEye Endpoint Security (HX) can open triage collections directly in Redline for in-depth analysis, allowing the user to establish the timeline and scope of an incident.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://fireeye.market/apps/211364"
+        ]
+      },
+      "uuid": "ef867d06-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: FireEye Redline"
+    },
+	{
+      "description": "Foxit Software, Inc. develops Portable Document Format software and tools used to create, edit, sign, and secure files and digital documents. It is a software company headquartered in Fremont, California, with offices in Berlin, Beijing, Fuzhou, South Yarra, Australia and other locations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.foxitsoftware.com"
+        ]
+      },
+      "uuid": "ef867e32-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Foxit"
+    },
+	{
+      "description": "FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Enjoy the freedom of using your software wherever you want, the way you want it, in a world where interoperability can finally liberate your computing experience.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/FreeRDP/FreeRDP",
+		  "https://www.freerdp.com/",
+		  "https://github.com/FreeRDP/FreeRDP/issues",
+		  "https://pub.freerdp.com/releases/",
+		  "https://pub.freerdp.com/api/"
+        ]
+      },
+      "uuid": "ef867fea-42c3-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: FreeRDP"
+    },
+	{
+      "description": "GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S MIME and Secure Shell (ssh). Since its introduction in 1997, GnuPG is Free Software (meaning that it respects your freedom). It can be freely used, modified and distributed under the terms of the GNU General Public License.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://gnupg.org/"
+        ]
+      },
+      "uuid": "24a99446-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: GNU Privacy Guard"
+    },
+	{
+      "description": "GRR Rapid Response is an incident response framework focused on remote live forensics. GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/google/grr"
+        ]
+      },
+      "uuid": "24a996f8-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: GRR Rapid Response"
+    },
+	{
+      "description": "Open source time provider.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/scottlundgren/w32time"
+        ]
+      },
+      "uuid": "24a99842-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: GameTime"
+    },
+	{
+      "description": "Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs. Gephi is a tool for people that have to explore and understand graphs. Like Photoshop but for graphs, the user interacts with the representation, manipulate the structures, shapes and colors to reveal hidden properties. The goal is to help data analysts to make hypothesis, intuitively discover patterns, isolate structure singularities or faults during data sourcing. It is a complementary tool to traditional statistics, as visual thinking with interactive interfaces is now recognized to facilitate reasoning. This is a software for Exploratory Data Analysis, a paradigm appeared in the Visual Analytics field of research.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://gephi.org",
+		  "https://github.com/gephi/gephi/wiki"
+        ]
+      },
+      "uuid": "24a999f0-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Gephi"
+    },
+	{
+      "description": "GhIDA is an IDA Pro plugin that integrates the Ghidra decompiler in IDA.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/Cisco-Talos/GhIDA"
+        ]
+      },
+      "uuid": "24a99e46-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: GhIDA"
+    },
+	{
+      "description": "THE MAIN CHARACTERISTICS OF Goliath .NET Obfuscator. 100 percent VB.NET & CLSCompliant. Support FW 1.x & 2.0. Support Compilers: C#, VB.NET, Delphi.NET. GUI Wizard Style. Manual Parsing of .NET Assembly. New Renaming Printable or Unprintable Chars. Choose Symbols Overloads. Choose Obfuscation Renaming or Polymorphic. Automatic Renaming Class Resources. Choose Renaming Namespaces. Choose Encryption Code for Strings Static or Polymorphic. Choose Encryption Text by Selection Table. Signing .NET Assembly with a Strong Name. Automatic Support Multi-Language.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://goliath-net-obfuscator.apponic.com"
+        ]
+      },
+      "uuid": "24a99f90-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Goliath.NET Obfuscator"
+    },
+	{
+      "description": "HTTrack is a free (GPL, libre free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer. HTTrack arranges the original site's relative link-structure. Simply open a page of the mirrored website in your browser, and you can browse the site from link to link, as if you were viewing it online. HTTrack can also update an existing mirrored site, and resume interrupted downloads. HTTrack is fully configurable, and has an integrated help system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.httrack.com/"
+        ]
+      },
+      "uuid": "24a9a0c6-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: HTTrack Website Copier"
+    },
+	{
+      "description": "Hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 200 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/hashcat/hashcat"
+        ]
+      },
+      "uuid": "24a9a21a-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: HashCat"
+    },
+	{
+      "description": "Haveged is a daemon that feeds the /dev/random pool on Linux using an adaptation of the HArdware Volatile Entropy Gathering and Expansion algorithm invented at IRISA. The algorithm is self-tuning on machines with cpuid support, and has been tested in both 32-bit and 64-bit environments. The tarball uses the GNU build mechanism, and includes self test targets and a spec file for those who want to build an RPM.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://wiki.archlinux.org/index.php/Haveged",
+		  "https://packetstormsecurity.com/files/154166/haveged-1.9.5-alpha.tar.gz"
+        ]
+      },
+      "uuid": "24a9a346-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Haveged"
+    },
+	{
+      "description": "I2P is an anonymous network built on top of the internet. It allows netizens to create and access content and build online communities on a network that is both distributed and dynamic. It is intended to protect communication and resist monitoring by third parties such as ISPs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://geti2p.net/en/",
+		  "https://packetstormsecurity.com/files/154241/i2psource_0.9.42.tar.bz2"
+        ]
+      },
+      "uuid": "24a9a558-42c4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: I2P"
+    },
+	{
+      "description": "The Interactive Disassembler is a disassembler for computer software which generates assembly language source code from machine-executable code. It supports a variety of executable formats for different processors and operating systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.hex-rays.com/products/ida/"
+        ],
+        "synonyms": [
+        "Interactive Disassembler"
+        ]
+      },
+      "uuid": "0aea25da-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: IDA Pro"
+    },
+	{
+      "description": "Impacket is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself. Packets can be constructed from scratch, as well as parsed from raw data, and the object oriented API makes it simple to work with deep hierarchies of protocols. The library provides a set of tools as examples of what can be done within the context of this library.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Penetration_test"
+        ]
+      },
+      "uuid": "0aea2846-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Impacket"
+    },
+	{
+      "description": "Invoke-ACLpwn is a tool that automates the discovery and pwnage of ACLs in Active Directory that are unsafe configured. Invoke-ACLpwn is designed to run with integrated credentials as well as with specified network credentials. The script works by creating an export of all ACLs in the domain with SharpHound as well as the group membership of the user account that the tool is running under. If the user does not already have writeDACL permissions on the domain object, the tool will enumerate all ACEs of the ACL of the domain. Every identity in an ACE has an ACL of its own, which is added to the enumeration queue. If the identity is a group and the group has members, every group member is added to the enumeration queue as well.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/fox-it/Invoke-ACLPwn"
+        ]
+      },
+      "uuid": "0aea299a-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Invoke-ACLpwn"
+    },
+	{
+      "description": "Kali Linux is an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.kali.org/"
+        ]
+      },
+      "uuid": "0aea2e2c-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Kali Linux"
+    },
+	{
+      "description": "Build interactive map of cameras, printers, tweets and photos. The script creates a map of cameras, printers, tweets and photos based on your coordinates. Everything is clearly presented in form of interactive map with icons and popups.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/woj-ciech/kamerka"
+        ],
+        "synonyms": [
+        "FIST (Flickr, Instagram, Shodan, Twitter)"
+        ]
+      },
+      "uuid": "0aea2f76-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Kamerka"
+    },
+	{
+      "description": "This tool will allow you to generate LNK payloads. Upon rendering or being run, they will exfiltrate data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/Plazmaz/LNKUp"
+        ]
+      },
+      "uuid": "0aea30b6-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: LNKUp"
+    },
+	{
+      "description": "Living Off The Land Binaries and Scripts collection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/LOLBAS-Project/LOLBAS",
+		  "https://lolbas-project.github.io/"
+        ]
+      },
+      "uuid": "0aea31f6-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Living Off The Land Binaries and Scripts (LOLBAS)"
+    },
+	{
+      "description": "The Microsoft Macro Assembler (MASM) is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows. Beginning with MASM 8.0, there are two versions of the assembler - One for 16-bit & 32-bit assembly sources, and another (ML64) for 64-bit sources only. MASM is maintained by Microsoft, but since version 6.12 it has not been sold as a separate product. It is instead supplied with various Microsoft SDKs and C compilers. Recent versions of MASM are included with Microsoft Visual Studio.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler"
+        ]
+      },
+      "uuid": "0aea3340-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: MASM (Microsoft Macro Assembler)"
+    },
+	{
+      "description": "MASSCAN is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine. It's input/output is similar to nmap. Internally, it uses asynchronous tranmissions, similar to port scanners like scanrand, unicornscan, and ZMap. It's more flexible, allowing arbitrary port and address ranges. MASSCAN uses a its own custom TCP/IP stack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/robertdavidgraham/masscan"
+        ]
+      },
+      "uuid": "0aea346c-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: MASSCAN"
+    },
+	{
+      "description": "MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain. MailSniper also includes additional modules for password spraying, enumerating users/domains, gathering the Global Address List from OWA and EWS, and checking mailbox permissions for every Exchange user at an organization.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/dafthack/MailSniper"
+        ]
+      },
+      "uuid": "0aea3886-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: MailSniper"
+    },
+	{
+      "description": "The Mandos system allows computers to have encrypted root file systems and at the same time be capable of remote or unattended reboots. The computers run a small client program in the initial RAM disk environment which will communicate with a server over a network. All network communication is encrypted using TLS. The clients are identified by the server using an OpenPGP key that is unique to each client. The server sends the clients an encrypted password. The encrypted password is decrypted by the clients using the same OpenPGP key, and the password is then used to unlock the root file system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://packetstormsecurity.com/files/154148/mandos_1.8.8.orig.tar.gz",
+		  "https://www.recompile.se/mandos"
+        ]
+      },
+      "uuid": "37ef7526-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Mandos Encrypted File System Unattended Reboot Utility"
+    },
+	{
+      "description": "The Metasploit Framework is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code. The Metasploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks, execute attacks, and evade detection. At its core, the Metasploit Framework is a collection of commonly used tools that provide a complete environment for penetration testing and exploit development.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.metasploit.com/",
+		  "https://metasploit.help.rapid7.com/v1/docs/about-metasploit-framework"
+        ]
+      },
+      "uuid": "37ef77e2-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Metasploit"
+    },
+	{
+      "description": "Mussels is a cross-platform and general-purpose dependency build automation tool. Mussels helps automate the building of applications and their versioned dependency chains using the original build systems intended by the software authors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/Cisco-Talos/Mussels"
+        ]
+      },
+      "uuid": "37ef792c-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Mussels"
+    },
+	{
+      "description": "NebulousAD is a tool for auditing Active Directory user passwords against a database of compromised passwords found in data breaches. The tool was made to help Windows system administrators find and, optionally, remediate the use of compromised passwords. This approach is recommended by NIST 800-63B, and can help protect against credential spraying and stuffing attacks. The Nebulous database current holds over 2.5 billion unique hashes of breached passwords. NebulousAD uses the k-anonymity model by default to preserve the privacy and security of passwords checked against the API. Only the first five characters of a SHA-2 hash are sent to the API. The tool was originally released at BSides Las Vegas 2019.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/NuID/nebulousAD"
+        ]
+      },
+      "uuid": "37ef7a62-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: NebulousAD"
+    },
+	{
+      "description": "Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/samratashok/nishang"
+        ]
+      },
+      "uuid": "37ef7b8e-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Ninshang Framework"
+    },
+	{
+      "description": "Nmap (Network Mapper) is a free and open-source network scanner created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich). Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection. These features are extensible by scripts that provide more advanced service detection, vulnerability detection, and other features. Nmap can adapt to network conditions including latency and congestion during a scan. Nmap started as a Linux utility and was ported to other systems including Windows, macOS, and BSD. Linux is the most popular platform, followed by Windows.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Nmap",
+		  "https://packetstormsecurity.com/files/154000/nmap-7.80.tgz"
+        ]
+      },
+      "uuid": "37ef7cba-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Nmap Port Scanner"
+    },
+	{
+      "description": "Windows File Enumeration Intel Gathering. Standard users can prove existence of privileged user artifacts. Typically, the Windows commands DIR or TYPE hand out a default Access Denied error message, when a file exists or doesn't exist, when restricted access is attempted by another user. However, accessing files directly by attempting to open them from cmd.exe shell, we can determine existence by compare inconsistent Windows error messages.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://seclists.org/bugtraq/2019/Sep/16"
+        ],
+        "synonyms": [
+        "Windows File Enumeration Intel Gathering Tool"
+        ]
+      },
+      "uuid": "37ef7ddc-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: NtFileSins"
+    },
+	{
+      "description": "ntlmRelayToEWS is a tool for performing ntlm relay attacks on Exchange Web Services (EWS). It spawns an SMBListener on port 445 and an HTTPListener on port 80, waiting for incoming connection from the victim. Once the victim connects to one of the listeners, an NTLM negociation occurs and is relayed to the target EWS server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/Arno0x/NtlmRelayToEWS"
+        ]
+      },
+      "uuid": "37ef81a6-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: NtlmRelayToEWS"
+    },
+	{
+      "description": "The native Microsoft command-line utility NetShell has the ability to load custom helper DLLs to extend its functionality. An attacker may leverage this built-in functionality to maintain persistence by crafting a malicious helper DLL. The helper will only execute when netsh.exe is started. Some VPN software runs netsh in the background by default, which may allow an attacker to target remote users who primarily use VPN in their day-to-day tasks. The PoC will need to be built as a dll (x64), then added as a helper to netsh. The PoC spawns a new thread, so netsh will still be usable while a payload is running. However, when netsh ends so will your shell.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/rtcrowley/Offensive-Netsh-Helper"
+        ]
+      },
+      "uuid": "37ef8318-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Offensive Netsh Helper"
+    },
+	{
+      "description": "OnionShare is an open source tool that lets you securely and anonymously share a file of any size.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://onionshare.org/"
+        ]
+      },
+      "uuid": "37ef8444-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: OnionShare"
+    },
+	{
+      "description": "OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.openssl.org/"
+        ]
+      },
+      "uuid": "7857f16a-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: OpenSSL Toolkit"
+    },
+	{
+      "description": "This is a reborn tool, used during the epoche dinosaurs were traipsing the earth. Basically it analyses PDF files for Metadata. You can direct it to a file or directory with pdfs. You can show it the url of a pdf or use the integrated googlesearch (thanx to mario vilas class) to search for pdfs at target site, download and analyse them.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/c0decave/pdfgrab"
+        ]
+      },
+      "uuid": "7857f642-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: PDFgrab"
+    },
+	{
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://packetfence.org/"
+        ]
+      },
+      "uuid": "7857f7c8-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: PacketFence"
+    },
+	{
+      "description": "Ping Castle is a tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework. It does not aim at a perfect evaluation but rather as an efficiency compromise.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/vletoux/pingcastle",
+		  "https://www.pingcastle.com"
+        ]
+      },
+      "uuid": "7857f930-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: PingCastle"
+    },
+	{
+      "description": "Penetration testing analysis tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/chrchang/plink-ng"
+        ]
+      },
+      "uuid": "7857fa66-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: Plink-ng"
+    },
+	{
+      "description": "Power Dump takes a 64 bit Windows 10 powershell process dump made using procdump and retrieves powershell blocks and variables from memory. Basically its strings on steroids with a little extra logic built-in for finding powershell. Only tested and built out right now for or on Windows 10 64 bit Intel.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/chrisjd20/power_dump",
+		  "https://docs.microsoft.com/en-us/sysinternals/downloads/procdump"
+        ]
+      },
+      "uuid": "7857fb9c-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: PowerDump"
+    },
+	{
+      "description": "Open-source jailbreaking tool for many iOS devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/axi0mX/ipwndfu"
+        ]
+      },
+      "uuid": "7857fcc8-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: ipwndfu"
+    },
+	{
+      "description": "The jtool utility started as a companion utility to the 1st edition of MacOS internals, because I wanted to demonstrate Mach-O format intrinstics, and was annoyed with XCode's otool. Along the way, jtool absorbed additional Mach-O commands such as atos, dyldinfo, nm, segedit, pagestuff, strings, and even codesign; and, the informal ldid. Most importantly, it can be run on a variety of platforms - OS X, iOS, and even Linux, where Apple's tools don't exist. jtool provides many many novel features - in-binary search functionality, symbol injection built-in disassembler functionality with (limited but constantly improving) emulation capabilities, which already outdo fancy commercial GUI disassemblers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "http://www.newosxbook.com/tools/jtool.html"
+        ]
+      },
+      "uuid": "7857fdf4-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: jtool"
+    },
+	{
+      "description": "lnk2pwn is a gui tool that automates the process of generating malicious .lnk(Windows shortcut) files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/tommelo/lnk2pwn",
+		  "https://github.com/it-gorillaz/lnk2pwn"
+        ]
+      },
+      "uuid": "785800a6-42c8-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool: lnk2pwn"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
