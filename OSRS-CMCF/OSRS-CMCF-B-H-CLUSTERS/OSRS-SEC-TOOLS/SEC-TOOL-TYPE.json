@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "Tools used to take over user or system accounts.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,628 @@
       },
       "uuid": "09a2018a-29c2-11ea-978f-2e728ce88125",
       "value": "OSRS SecTool Type: Account Control"
+    },
+	{
+      "description": "Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Antivirus_software"
+        ]
+      },
+      "uuid": "b46b20b4-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Anti-Virus"
+    },
+	{
+      "description": "An information technology audit, or information systems audit, is an examination of the management controls within an Information technology (IT) infrastructure. The evaluation of obtained evidence determines if the information systems are safeguarding assets, maintaining data integrity, and operating effectively to achieve the organization's goals or objectives. These reviews may be performed in conjunction with a financial statement audit, internal audit, or other form of attestation engagement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Audit"
+        ]
+      },
+      "uuid": "b46b2316-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Auditing"
+    },
+	{
+      "description": "A decompiler is a computer program that takes an executable file as input, and attempts to create a high level source file which can be recompiled successfully. It is therefore the opposite of a compiler, which takes a source file and makes an executable. Decompilers are usually unable to perfectly reconstruct the original source code, and as such, will frequently produce obfuscated code. Nonetheless, decompilers remain an important tool in the reverse engineering of computer software.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Decompiler"
+        ],
+        "synonyms": [
+        "Disassembler"
+        ]
+      },
+      "uuid": "b46b24e2-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Decompiler"
+    },
+	{
+      "description": "Document text extractors have the ability to load documents like PDF or MS Word documents into memory and then extract text from the pages.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Information_extraction"
+        ]
+      },
+      "uuid": "b46b262c-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Document Text Extractor"
+    },
+	{
+      "description": "Communcations that are encrypted and not displayed openly; thus, requiring a cypher to decrypt for meaning. There are various methods to encrypt communications over a network, and the subject itself is too broad to completely describe here.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Encryption"
+        ]
+      },
+      "uuid": "b46b2758-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Encrypted Communication"
+    },
+	{
+      "description": "Filesystem-level encryption, often called file-based encryption, FBE, or file/folder encryption, is a form of disk encryption where individual files or directories are encrypted by the file system itself. This is in contrast to full disk encryption where the entire partition or disk, in which the file system resides, is encrypted.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Filesystem-level_encryption"
+        ]
+      },
+      "uuid": "b46b28c0-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Encrypted File System"
+    },
+	{
+      "description": "Computer forensics (also known as computer forensic science) is a branch of digital forensic science pertaining to evidence found in computers and digital storage media. The goal of computer forensics is to examine digital media in a forensically sound manner with the aim of identifying, preserving, recovering, analyzing and presenting facts and opinions about the digital information. Although it is most often associated with the investigation of a wide variety of computer crime, computer forensics may also be used in civil proceedings. The discipline involves similar techniques and principles to data recovery, but with additional guidelines and practices designed to create a legal audit trail. Evidence from computer forensics investigations is usually subjected to the same guidelines and practices of other digital evidence. It has been used in a number of high-profile cases and is becoming widely accepted as reliable within U.S. and European court systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Computer_forensics"
+        ]
+      },
+      "uuid": "b46b29ec-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Forensic"
+    },
+	{
+      "description": "Fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failing built-in code assertions, or potential memory leaks. Typically, fuzzers are used to test programs that take structured inputs. This structure is specified, e.g., in a file format or protocol and distinguishes valid from invalid input. An effective fuzzer generates semi-valid inputs that are valid enough in that they are not directly rejected by the parser, but do create unexpected behaviors deeper in the program and are invalid enough to expose corner cases that have not been properly dealt with.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Fuzzing"
+        ]
+      },
+      "uuid": "b46b2dfc-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Fuzzer"
+    },
+	{
+      "description": "Tools with the type of Generic Automation are designed to take repetative tasks and either put those tasks into an automated workflow, or designed to recieve inputs from other software to then automate an additional function.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Computer_Automation"
+        ]
+      },
+      "uuid": "b46b2f64-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Generic Automation"
+    },
+	{
+      "description": "A host-based intrusion detection system (HIDS) is an intrusion detection system that is capable of monitoring and analyzing the internals of a computing system as well as the network packets on its network interfaces, similar to the way a network-based intrusion detection system (NIDS) operates. This was the first type of intrusion detection software to have been designed, with the original target system being the mainframe computer where outside interaction was infrequent.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system"
+        ]
+      },
+      "uuid": "b46b3090-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Host-based Intrusion Detection System (HIDS)"
+    },
+	{
+      "description": "In the fields of computer security and information technology, computer security incident management involves the monitoring and detection of security events on a computer or computer network, and the execution of proper responses to those events. Computer security incident management is a specialized form of incident management, the primary purpose of which is the development of a well understood and predictable response to damaging events and computer intrusions.Incident management requires a process and a response team which follows this process. This definition of computer security incident management follows the standards and definitions described in the National Incident Management System (NIMS). The incident coordinator manages the response to an emergency security incident. In a Natural Disaster or other event requiring response from Emergency services, the incident coordinator would act as a liaison to the emergency services incident manager.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Computer_security_incident_management"
+        ]
+      },
+      "uuid": "e2af2150-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Incident Response"
+    },
+	{
+      "description": "Used to gather information about a system, network, or application.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Data_collection"
+        ]
+      },
+      "uuid": "e2af2402-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Information Gathering"
+    },
+	{
+      "description": "An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. Any malicious activity or violation is typically reported either to an administrator or collected centrally using a security information and event management (SIEM) system. A SIEM system combines outputs from multiple sources, and uses alarm filtering techniques to distinguish malicious activity from false alarms.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Intrusion_detection_system"
+        ]
+      },
+      "uuid": "e2af2560-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Intrusion Detection System (IDS)"
+    },
+	{
+      "description": "Applications used to create .lnk files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Hyperlink"
+        ]
+      },
+      "uuid": "e2af2696-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Link Creator"
+    },
+	{
+      "description": "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Machine_learning"
+        ]
+      },
+      "uuid": "e2af27cc-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Machine Learning"
+    },
+	{
+      "description": "Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Malware or malicious software is any computer software intended to harm the host operating system or to steal sensitive data from users, organizations or companies. Malware may include software that gathers user information without permission.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Malware_analysis"
+        ]
+      },
+      "uuid": "e2af2902-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Malware Analysis"
+    },
+	{
+      "description": "In cryptography and computer security, a man-in-the-middle attack (MITM) is an attack where the attacker secretly relays and possibly alters the communications between two parties who believe they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker. The attacker must be able to intercept all relevant messages passing between the two victims and inject new ones. This is straightforward in many circumstances; for example, an attacker within reception range of an unencrypted wireless access point (Wi-Fi) could insert themselves as a man-in-the-middle.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Man-in-the-middle_attack"
+        ]
+      },
+      "uuid": "e2af2d3a-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Man-in-the-Middle (MITM)"
+    },
+	{
+      "description": "Tool that constantly check the state of a system or application. Some monitoring tools can also do alerting and data correlation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Monitoring"
+        ]
+      },
+      "uuid": "e2af2e98-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Monitoring"
+    },
+	{
+      "description": "Network Access Control (NAC) is an approach to computer security that attempts to unify endpoint security technology (such as antivirus, host intrusion prevention, and vulnerability assessment), user or system authentication and network security enforcement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Network_Access_Control"
+        ]
+      },
+      "uuid": "e2af2fe2-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Network Access Control (NAC)"
+    },
+	{
+      "description": "An intrusion detection tool with added features for preventing intrusions by signature.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Intrusion_detection_system"
+        ]
+      },
+      "uuid": "e2af3104-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Network Intrusion Detection and Prevention Engine (IDPE)"
+    },
+	{
+      "description": "A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. A port scan or portscan is a process that sends client requests to a range of server port addresses on a host, with the goal of finding an active port; this is not a nefarious process in and of itself. The majority of uses of a port scan are not attacks, but rather simple probes to determine services available on a remote machine. To portsweep is to scan multiple hosts for a specific listening port. The latter is typically used to search for a specific service, for example, an SQL-based computer worm may portsweep looking for hosts listening on TCP port 1433.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Port_scanner"
+        ]
+      },
+      "uuid": "0f7bb36a-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Network Scanner"
+    },
+	{
+      "description": "A network analyzer (also known as a network sniffer) is a computer program or piece of computer hardware (such as a network capture appliance) that can intercept and log traffic that passes over a digital network or part of a network. Network capture is the process of intercepting and logging traffic. As data streams flow across the network, the sniffer captures each network and, if needed, decodes the network's raw data, showing the values of various fields in the network, and analyzes its content according to the appropriate RFC or other specifications.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Packet_analyzer"
+        ]
+      },
+      "uuid": "0f7bb6e4-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Network Sniffer"
+    },
+	{
+      "description": "Application that allows for the enumeration of systems on a network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Penetration_test"
+        ]
+      },
+      "uuid": "0f7bb856-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Network System Identifier"
+    },
+	{
+      "description": "In software development, obfuscation is the deliberate act of creating source or machine code that is difficult for humans to understand. Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements. Programmers may deliberately obfuscate code to conceal its purpose (security through obscurity) or its logic or implicit values embedded in it, primarily, in order to prevent tampering, deter reverse engineering, or even as a puzzle or recreational challenge for someone reading the source code. This can be done manually or by using an automated tool, the latter being the preferred technique in industry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Obfuscation_(software)"
+        ]
+      },
+      "uuid": "0f7bbb26-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Obfuscation"
+    },
+	{
+      "description": "An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Operating_system"
+        ]
+      },
+      "uuid": "0f7bbc84-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Operating System"
+    },
+	{
+      "description": "Password cracking is the process of recovering passwords from data that have been stored in or transmitted by a computer system. A common approach (brute-force attack) is to repeatedly try guesses for the password and to check them against an available cryptographic hash of the password.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Password_cracking"
+        ]
+      },
+      "uuid": "0f7bbdb0-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Password Cracking"
+    },
+	{
+      "description": "Tools used to facilitate a penetration test against a system or application.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Penetration_test"
+        ]
+      },
+      "uuid": "0f7bbedc-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Penetration Testing"
+    },
+	{
+      "description": "Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/"
+        ]
+      },
+      "uuid": "0f7bc008-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Persistence"
+    },
+	{
+      "description": "In computing, a plug-in (or plugin, add-in, addin, add-on, or addon) is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Plug-in_(computing)"
+        ]
+      },
+      "uuid": "0f7bc332-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Plugin"
+    },
+	{
+      "description": "Privilege Escalation consists of techniques that adversaries use to gain higher-level permissions on a system or network. Adversaries can often enter and explore a network with unprivileged access but require elevated permissions to follow through on their objectives. Common approaches are to take advantage of system weaknesses, misconfigurations, and vulnerabilities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "0f7bc512-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Privilege Escalation"
+    },
+	{
+      "description": "The type of Reference and Training refers to a set of items that can be used in either academic or private cybersecurity training enviornments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/List_of_computer_security_certifications",
+		  "https://en.wikipedia.org/wiki/SANS_Institute"
+        ]
+      },
+      "uuid": "4041690e-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Reference and Training"
+    },
+	{
+      "description": "Remote administration refers to any method of controlling a computer from a remote location. Software that allows remote administration is becoming increasingly common and is often used when it is difficult or impractical to be physically near a system in order to use it. A remote location may refer to a computer in the next room or one on the other side of the world. It may also refer to both legal and illegal remote administration.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Remote_administration"
+        ]
+      },
+      "uuid": "40416ddc-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Remote Administration"
+    },
+	{
+      "description": "Data reporting is the process of collecting and submitting data which gives rise to accurate analyses of the facts on the ground; inaccurate data reporting can lead to vastly uninformed decision-making based on erroneous evidence. When data is not reported, the problem is known as underreporting; the opposite problem leads to false positives.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Data_reporting"
+        ]
+      },
+      "uuid": "40416f62-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Reporting and Analysis"
+    },
+	{
+      "description": "SQL injection is a code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application's software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/SQL_injection"
+        ]
+      },
+      "uuid": "40417174-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: SQL Injection"
+    },
+	{
+      "description": "The operating system provides support for a variety of hardware devices and network time protocols using the time provider architecture. Input time providers retrieve accurate time stamps from hardware or the network, and output time providers provide time stamps to other clients on the network. Time providers are managed by the time provider manager. It is responsible for loading, starting, and stopping time providers as directed by the service control manager. This interface makes writing a time provider easier than writing a full service.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://docs.microsoft.com/en-us/windows/win32/sysinfo/time-provider"
+        ]
+      },
+      "uuid": "404172dc-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Time Provider"
+    },
+	{
+      "description": "The graphical user interface is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicator such as primary notation, instead of text-based user interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs), which require commands to be typed on a computer keyboard.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Graphical_user_interface"
+        ]
+      },
+      "uuid": "40417408-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: User Interface Addon"
+    },
+	{
+      "description": "A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g. a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common though not an inherent part of a VPN connection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Virtual_private_network"
+        ]
+      },
+      "uuid": "40417764-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Virtual Private Network"
+    },
+	{
+      "description": "A voice-user interface (VUI) makes spoken human interaction with computers possible, using speech recognition to understand spoken commands and answer questions, and typically text to speech to play a reply. A voice command device (VCD) is a device controlled with a voice user interface.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Voice_user_interface"
+        ],
+        "synonyms": [
+        "Voice-User Interface (VUI)"
+        ]
+      },
+      "uuid": "404178a4-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Voice Command"
+    },
+	{
+      "description": "A vulnerability scanner is a computer program designed to assess computers, networks or applications for known weaknesses. In plain words, these scanners are used to discover the weaknesses of a given system. They are utilized in the identification and detection of vulnerabilities arising from mis-configurations or flawed programming within a network-based asset such as a firewall, router, web server, application server, etc. Modern vulnerability scanners allow for both authenticated and unauthenticated scans. Modern scanners are typically available as SaaS (Software as a service); provided over the internet and delivered as a web application. The modern vulnerability scanner often has the ability to customize vulnerability reports as well as the installed software, open ports, certificates and other host information that can be queried as part of its workflow.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Vulnerability_scanner"
+        ]
+      },
+      "uuid": "404179ee-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Vulnerability Scanner"
+    },
+	{
+      "description": "Integrate Content-Security-Policy headers into your web application, either from a JSON configuration file, or programatically.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://github.com/paragonie/csp-builder"
+        ]
+      },
+      "uuid": "40417b1a-42b5-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Web Application Content Security Policy Builder"
+    },
+	{
+      "description": "A web application vulnerability scanner, also known as a web application security scanner, is an automated security tool. It scans web applications for malware, vulnerabilities, and logical flaws. Web application vulnerability scanners use black box tests, as these tests do not require access to the source code but instead launch external attacks to test for security vulnerabilities. These simulated attacks can detect path traversal, cross-site scripting(XSS), and command injection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://www.whitehatsec.com/glossary/content/web-application-vulnerability-scanner"
+        ]
+      },
+      "uuid": "8f663da6-42bb-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Web Application Vulnerability Scanner"
+    },
+	{
+      "description": "An offline reader (sometimes called an offline browser or offline navigator) is computer software that downloads e-mail, newsgroup posts or web pages, making them available when the computer is offline: not connected to the Internet. Offline readers are useful for portable computers and dial-up access. Allows users to download World Wide Web sites from the Internet to a local computer. Uses a Web crawler to download a website.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/HTTrack",
+		  "https://en.wikipedia.org/wiki/Offline_reader"
+        ],
+        "synonyms": [
+        "Offline Reader"
+        ]
+      },
+      "uuid": "8f664012-42bb-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Website Copier"
+    },
+	{
+      "description": "Website Identifier tools have the ability to determine web technologies like Content Management Syustems (CMS) and blogging platforms.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://github.com/urbanadventurer/WhatWeb"
+        ]
+      },
+      "uuid": "8f664166-42bb-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Website Identifier"
+    },
+	{
+      "description": "Tools that are used to exploit Cross-Site Scripting (XSS) vulnerabilities locally or remotely.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Cross-site_scripting"
+        ]
+      },
+      "uuid": "8f664292-42bb-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: XSS Exploitation"
+    },
+	{
+      "description": "iOS jailbreaking is the privilege escalation of an Apple device for the purpose of removing software restrictions imposed by Apple on iOS, tvOS and watchOS operating systems. This is typically done by using a series of kernel patches. Jailbreaking permits root access in Apple's mobile operating system, allowing the installation of software that is unavailable through the official Apple App Store. Many types of jailbreaking are available, for different versions. Because Apple publicly disapproves of jailbreaking, Apple has implemented hardware and software fixes to the vulnerabilities used in jailbreaks, meaning that many versions of iOS are not jailbroken immediately. It is analogous to rooting on Android, although software unavailable on Google Play can be installed on Android without rooting.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/IOS_jailbreaking"
+        ]
+      },
+      "uuid": "8f664616-42bb-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: iOS Jail Break"
+    },
+	{
+      "description": "Tools used to generate random values. Sometimes used in DNS spoofing or encryption.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Random_number_generation"
+        ]
+      },
+      "uuid": "0b8a05fc-42bc-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Random Value Generator"
+    },
+	{
+      "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Analysi"
+        ]
+      },
+      "uuid": "47d9b690-42b4-11ea-b77f-2e728ce88125",
+      "value": "OSRS SecTool Type: Analysis"
     }
 	  ],
 	"version": 1
