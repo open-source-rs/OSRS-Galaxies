@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The artifact contains MITRE Pre ATK related to Priority Definition Planning information that is uncertain, indefinite, or unclear of character or meaning.",
       "meta": {
 	  "kill_chain": [
@@ -17,7 +17,579 @@
         ]
       },
       "uuid": "20b7ab8c-469a-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Informational Drawback: MITRE Pre ATK Artifact Vauge (Priority Definition Planning)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Priority Definition Planning)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Target Selection information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31af08-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Target Selection)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Technical Information Gathering information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31b1ba-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Technical Information Gathering)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to People Information Gathering information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31b340-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (People Information Gathering)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Organizational Information Gathering that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31b480-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Organizational Information Gathering)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Technical Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31b5b6-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Technical Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to People Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31b980-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (People Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Organizational Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31bad4-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Organizational Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Adversary OpSec information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31bc0a-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Adversary OPSEC)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Establishing and Maintaining Infrastructure information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31bd36-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Establish & Maintain Infrastructure)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Persona Development information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31be58-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Persona Development)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Build Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31bf84-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Build Capabilities)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Test Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31c3c6-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Test Capabilities)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Stage Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "1f31c538-46a7-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Stage Capabilities)"
+    },
+	{
+      "description": "The artifact contains Priority Definition Planning related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e36456c-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Priority Definition Planning)"
+    },
+	{
+      "description": "The artifact contains Priority Definition Direction related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364846-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Priority Definition Direction)"
+    },
+	{
+      "description": "The artifact contains Target Selection related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364990-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Target Selection)"
+    },
+	{
+      "description": "The artifact contains Technical Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364ac6-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Technical Information Gathering)"
+    },
+	{
+      "description": "The artifact contains People Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364bfc-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (People Information Gathering)"
+    },
+	{
+      "description": "The artifact contains Organizational Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364d28-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Organizational Information Gathering)"
+    },
+	{
+      "description": "The artifact contains Technical Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e364f4e-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Technical Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains People Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e365304-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (People Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains Organizational Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e36544e-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Organizational Weakness Identification)"
+    },
+	{
+      "description": "The artifact contains Adversary OpSec related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e365570-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Adversary OPSEC)"
+    },
+	{
+      "description": "The artifact contains Establishing and Maintaining Infrastructure related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e365692-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Establish & Maintain Infrastructure)"
+    },
+	{
+      "description": "The artifact contains Persona Development related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e3657b4-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Persona Development)"
+    },
+	{
+      "description": "The artifact contains Build Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e3658e0-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Build Capabilities)"
+    },
+	{
+      "description": "The artifact contains Test Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e365c14-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Test Capabilities)"
+    },
+	{
+      "description": "The artifact contains Stage Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "7e365d5e-46a8-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Stage Capabilities)"
+    },
+	{
+      "description": "The artifact relates to Priority Definition Planning information but does not sufficiently describe the event with enough context to understand which Priority Definition Planning to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe1884-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Priority Definition Planning)"
+    },
+	{
+      "description": "The artifact relates to Priority Definition Direction information but does not sufficiently describe the event with enough context to understand which Priority Definition Direction to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe1b5e-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Priority Definition Direction)"
+    },
+	{
+      "description": "The artifact relates to Target Selection information but does not sufficiently describe the event with enough context to understand which Target Selection to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe1cee-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Target Selection)"
+    },
+	{
+      "description": "The artifact relates to Technical Information Gathering information but does not sufficiently describe the event with enough context to understand which Technical Information Gathering to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2040-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Technical Information Gathering)"
+    },
+	{
+      "description": "The artifact relates to People Information Gathering information but does not sufficiently describe the event with enough context to understand which People Information Gathering to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe21a8-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (People Information Gathering)"
+    },
+	{
+      "description": "The artifact relates to Oganizational Information Gathering information but does not sufficiently describe the event with enough context to understand which Oganizational Information Gathering to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe22de-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Organizational Information Gathering)"
+    },
+	{
+      "description": "The artifact relates to Technical Weakness Identification information but does not sufficiently describe the event with enough context to understand which Technical Weakness Identification to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2414-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Technical Weakness Identification)"
+    },
+	{
+      "description": "The artifact relates to People Weakness Identification information but does not sufficiently describe the event with enough context to understand which People Weakness Identification to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe254a-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (People Weakness Identification)"
+    },
+	{
+      "description": "The artifact relates to Organizational Weakness Identification information but does not sufficiently describe the event with enough context to understand which Organizational Weakness Identification to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2676-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Organizational Weakness Identification)"
+    },
+	{
+      "description": "The artifact relates to Adversary OpSec information but does not sufficiently describe the event with enough context to understand which Adversary OpSec to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2798-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Adversary OPSEC)"
+    },
+	{
+      "description": "The artifact relates to Establish/Maintain Infrastructure information but does not sufficiently describe the event with enough context to understand which Establish/Maintain Infrastructure to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2b80-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Establish & Maintain Infrastructure)"
+    },
+	{
+      "description": "The artifact relates to Persona Development information but does not sufficiently describe the event with enough context to understand which Persona Development to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2cca-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Persona Development)"
+    },
+	{
+      "description": "The artifact relates to Build Capabilities information but does not sufficiently describe the event with enough context to understand which Build Capabilities to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2df6-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Build Capabilities)"
+    },
+	{
+      "description": "The artifact relates to Test Capabilities information but does not sufficiently describe the event with enough context to understand which Test Capabilities to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe2f18-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Test Capabilities)"
+    },
+	{
+      "description": "The artifact relates to Stage Capabilities information but does not sufficiently describe the event with enough context to understand which Stage Capabilities to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "fbfe303a-46a9-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Information Absent (Stage Capabilities)"
+    },
+	{
+      "description": "The artifact contains MITRE Pre ATK related to Priority Definition Direction information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE Pre ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "96d173fa-46a6-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Priority Definition Direction)"
     }
 	  ],
 	"version": 1
