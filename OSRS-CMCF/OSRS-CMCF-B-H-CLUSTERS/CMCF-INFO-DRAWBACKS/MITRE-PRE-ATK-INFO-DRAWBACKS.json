@@ -189,7 +189,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Stage Capabilities)"
     },
 	{
-      "description": "The artifact contains Priority Definition Planning related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Priority Definition Planning related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -202,7 +202,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Priority Definition Planning)"
     },
 	{
-      "description": "The artifact contains Priority Definition Direction related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Priority Definition Direction related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -215,7 +215,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Priority Definition Direction)"
     },
 	{
-      "description": "The artifact contains Target Selection related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Target Selection related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -228,7 +228,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Target Selection)"
     },
 	{
-      "description": "The artifact contains Technical Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Technical Information Gathering related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -241,7 +241,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Technical Information Gathering)"
     },
 	{
-      "description": "The artifact contains People Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains People Information Gathering related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -254,7 +254,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (People Information Gathering)"
     },
 	{
-      "description": "The artifact contains Organizational Information Gathering related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Organizational Information Gathering related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -267,7 +267,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Organizational Information Gathering)"
     },
 	{
-      "description": "The artifact contains Technical Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Technical Weakness Identification related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -280,7 +280,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Technical Weakness Identification)"
     },
 	{
-      "description": "The artifact contains People Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains People Weakness Identification related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -293,7 +293,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (People Weakness Identification)"
     },
 	{
-      "description": "The artifact contains Organizational Weakness Identification related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Organizational Weakness Identification related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -306,7 +306,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Organizational Weakness Identification)"
     },
 	{
-      "description": "The artifact contains Adversary OpSec related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Adversary OpSec related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -319,7 +319,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Adversary OPSEC)"
     },
 	{
-      "description": "The artifact contains Establishing and Maintaining Infrastructure related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Establishing and Maintaining Infrastructure related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -332,7 +332,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Establish & Maintain Infrastructure)"
     },
 	{
-      "description": "The artifact contains Persona Development related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Persona Development related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -345,7 +345,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Persona Development)"
     },
 	{
-      "description": "The artifact contains Build Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Build Capabilities related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -358,7 +358,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Build Capabilities)"
     },
 	{
-      "description": "The artifact contains Test Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Test Capabilities related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"
@@ -371,7 +371,7 @@
       "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK No Relevant Category (Test Capabilities)"
     },
 	{
-      "description": "The artifact contains Stage Capabilities related information that does not align to the current Combined Operational Frameworks mapping.",
+      "description": "The artifact contains Stage Capabilities related information that does not align to the current MITRE Pre ATK mapping.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE Pre ATK"

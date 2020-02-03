@@ -6,8 +6,8 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
-      "description": "The artifact contains MITRE ATK related to Initial Access information that is uncertain, indefinite, or unclear of character or meaning.",
+	{
+      "description": "The artifact contains MITRE ATK information related to Initial Access information that is uncertain, indefinite, or unclear of character or meaning.",
       "meta": {
 	  "kill_chain": [
           "info-drawbacks:MITRE ATK"
@@ -16,8 +16,463 @@
           "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
         ]
       },
-      "uuid": "9523cb68-469a-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Informational Drawback: MITRE ATK Artifact Vauge (Initial Access)"
+      "uuid": "81c0f5d8-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Initial Access)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Persistence information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d39ec-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Persistence)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Privilege Escalation information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d3ee2-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Privilege Escalation)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Defensive Evasion information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d404a-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Defense Evasion)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Credential Access information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d4180-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Credential Access)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Discovery information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d42b6-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Discovery)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Lateral Movement information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d43e2-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Lateral Movement)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Collection information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d450e-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Collection)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Command and Control information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d48ce-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Command and Control)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Exfiltration information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d4a2c-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Exfiltration)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Impact information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "d94d4b62-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Impact)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Initial Access that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04c990c-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Initial Access)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Execution that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04c9c22-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Execution)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Persistence that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04c9d80-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Persistence)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Privilege Escalation that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04c9eb6-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Privilege Escalation)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Defense Evasion that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca2c6-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Defense Evasion)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Credential Access that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca41a-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Credential Access)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Discovery that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca546-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Discovery)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Lateral Movement that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca672-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Lateral Movement)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Collection that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca794-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Collection)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Command and Control that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04ca8c0-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Command and Control)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Exfiltration that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04cac58-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Exfiltration)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK related information regarding Impact that does not align to the current MITRE ATK mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "a04cadac-46ae-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK No Relevant Category (Impact)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Initial Access but does not sufficiently describe the event with enough context to understand which Initial Access to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012acee6-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Initial Access)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Execution but does not sufficiently describe the event with enough context to understand which Execution to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad152-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Execution)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Persistence but does not sufficiently describe the event with enough context to understand which Persistence to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad2a6-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Persistence)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Privilege Escalation but does not sufficiently describe the event with enough context to understand which Privilege Escalation to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad3f0-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Privilege Escalation)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Defense Evasion but does not sufficiently describe the event with enough context to understand which Defense Evasion to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad526-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Defense Evasion)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Credential Access but does not sufficiently describe the event with enough context to understand which Credential Access to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad666-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Credential Access)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Discovery but does not sufficiently describe the event with enough context to understand which Discovery to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ad986-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Discovery)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Lateral Movement but does not sufficiently describe the event with enough context to understand which Lateral Movement to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012adb3e-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Lateral Movement)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Collection but does not sufficiently describe the event with enough context to understand which Collection to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012adc74-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Collection)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Command and Control but does not sufficiently describe the event with enough context to understand which Command and Control to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012addaa-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Command and Control)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Exfiltration but does not sufficiently describe the event with enough context to understand which Exfiltration to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012aded6-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Exfiltration)"
+    },
+	{
+      "description": "The artifact relates to MITRE ATK information related to Impact but does not sufficiently describe the event with enough context to understand which Impact to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "012ae28c-46b0-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Information Absent (Impact)"
+    },
+	{
+      "description": "The artifact contains MITRE ATK information related to Execution information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:MITRE ATK"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "797dac2c-46ad-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Execution)"
     }
 	  ],
 	"version": 1
