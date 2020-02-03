@@ -7,7 +7,7 @@
 		"GDBI",
 		"GECI",
 		"US State Index",
-	        "ENISA DB SE Rating",
+	    "ENISA DB SE Rating",
 		"BLS Index A thru P",
 		"BLS Index Q thru Z"
       ],
@@ -98,13 +98,11 @@
 	  ],
 	"info-drawbacks": [
 		"General Artifact",
-		"Author Source",
 		"Block-H",
 		"Ops Framework",
-		"MITRE",
-		"CWE-Exploit DB",
-		"MalTech",
-		"SecTool"
+		"MITRE Pre ATK",
+		"MITRE ATK",
+		"CWE"
 	  ]
   },
   "name": "OSRS-CMCF-BLOCK-H",
