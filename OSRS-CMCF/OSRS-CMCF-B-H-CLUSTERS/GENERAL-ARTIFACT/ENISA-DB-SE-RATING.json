@@ -1,0 +1,37 @@
+{
+  "category": "ENISA-DB-SE-RATING",
+  "description": "Cluster designed for the use of the ENISA Data Breach Severity rating system.",
+  "name": "OSRS ENISA DB SE Rating",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "Biographical data, contact details, full name, data on education, family life, professional experience, etc.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "6bf1c78c-468a-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Simple Data"
+    },
+	{
+      "description": "Location, traffic data, data on personal preferences and habits, etc.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "6bf1cb42-468a-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Behavioral Data"
+    }
+	  ],
+	"version": 2
+}
