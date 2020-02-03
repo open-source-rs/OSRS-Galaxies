@@ -1,0 +1,24 @@
+{
+  "category": "CWE-INFO-DRAWBACKS",
+  "description": "CWE Informational drawbacks within the OSRS CMCF are related to instances where information from an artifiact is found missing, irrelevant, not congruent, or not complete based on the information supplied within the artifact.  The informational drawbacks allow for the tracking of these types of informational defficiencies.",
+  "name": "OSRS CWE Informational Drawbacks",
+  "source": "OSRS DEV",
+  "type": "OSRS-CMCF-BLOCK-H",
+  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "values": [
+	  {
+      "description": "The artifact contains CWE information that is uncertain, indefinite, or unclear of character or meaning.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:CWE"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "85c6a476-4698-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF CWE Informational Drawback: CWE Artifact Vague"
+    }
+	  ],
+	"version": 1
+}
