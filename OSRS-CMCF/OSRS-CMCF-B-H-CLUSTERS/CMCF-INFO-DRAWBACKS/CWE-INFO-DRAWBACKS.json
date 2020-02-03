@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The artifact contains CWE information that is uncertain, indefinite, or unclear of character or meaning.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,32 @@
       },
       "uuid": "85c6a476-4698-11ea-b77f-2e728ce88125",
       "value": "OSRS CMCF CWE Informational Drawback: CWE Artifact Vague"
+    },
+	{
+      "description": "The artifact contains CWE related information that does not align to the current CWE mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:CWE"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "f661f676-469e-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF CWE Informational Drawback: CWE No Relevant Category"
+    },
+	{
+      "description": "The artifact relates to CWE information but does not sufficiently describe the event with enough context to understand which CWE to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:CWE"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "f661f900-469e-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF CWE Informational Drawback: CWE Information Absent"
     }
 	  ],
 	"version": 1

@@ -6,7 +6,7 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
+	{
       "description": "The artifact contains Block-H related information that is uncertain, indefinite, or unclear of character or meaning.",
       "meta": {
 	  "kill_chain": [
@@ -18,6 +18,32 @@
       },
       "uuid": "bb72e8e2-29c3-11ea-978f-2e728ce88125",
       "value": "OSRS CMCF Block-H Informational Drawback: Block-H Artifact Vauge"
+    },
+	{
+      "description": "The artifact contains Block-H related information that does not align to the current Block-H mapping.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:Block-H"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "469531a4-469e-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF Block-H Informational Drawback: Block-H No Relevant Category"
+    },
+	{
+      "description": "The artifact relates to Block-H information but does not sufficiently describe the event with enough context to understand which Block-H to map to and so therefore the information that would explain this context is considered missing (or) absent.",
+      "meta": {
+	  "kill_chain": [
+          "info-drawbacks:Block-H"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF"
+        ]
+      },
+      "uuid": "469534c4-469e-11ea-b77f-2e728ce88125",
+      "value": "OSRS CMCF Block-H Informational Drawback: Block-H Information Absent"
     }
 	  ],
 	"version": 1
