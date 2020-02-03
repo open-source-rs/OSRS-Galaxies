@@ -1,6 +1,6 @@
 {
   "category": "CWE-INFO-DRAWBACKS",
-  "description": "CWE Informational drawbacks within the OSRS CMCF are related to instances where information from an artifiact is found missing, irrelevant, not congruent, or not complete based on the information supplied within the artifact.  The informational drawbacks allow for the tracking of these types of informational defficiencies.",
+  "description": "CWE informational drawbacks within the OSRS CMCF are related to instances where information from an artifiact is found missing, irrelevant, not congruent, or not complete based on the information supplied within the artifact.  The informational drawbacks allow for the tracking of these types of informational defficiencies.",
   "name": "OSRS CWE Informational Drawbacks",
   "source": "OSRS DEV",
   "type": "OSRS-CMCF-BLOCK-H",
