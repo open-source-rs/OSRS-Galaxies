@@ -6,8 +6,8 @@
   "type": "OSRS-CMCF-BLOCK-H",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
-	  {
-      "description": "Biographical data, contact details, full name, data on education, family life, professional experience, etc.",
+	{
+      "description": "Biographical data, contact details, full name, data on education, family life, professional experience, etc. Basic Score = 1. Increase by 1 if the simple data and/or the characteristics of the controller are such that certain profiling of the individual can be enabled or assumptions about the individual’s social/financial status can be made. Increase by 2 if the simple data and/or the characteristics of the controller can lead to assumptions about the individual’s health status, sexual preferences, political or religious beliefs. Increase by 3 if certain characteristics of the individual (e.g. vulnerable groups, minors), the information can be critical for their personal safety or physical/psychological conditions. If no Simple Data is exposed then the score for this section is 0.",
       "meta": {
 	  "kill_chain": [
           "general-artifact:ENISA DB SE Rating"
@@ -20,7 +20,488 @@
       "value": "ENISA DB SE Rating: Simple Data"
     },
 	{
-      "description": "Location, traffic data, data on personal preferences and habits, etc.",
+      "description": "Any type of financial data (e.g. income, financial transactions, bank statements, investments, credit cards, invoices, etc.). Includes social welfare data related to financial information. Basic Score = 3. Decrease by 2 if the nature of the data set does not provide any substantial insight to the individual’s financial information (e.g. the fact that a person is the customer of a certain bank without further details). Decrease by 1 if the specific data set includes some financial information but still does not provide any significant insight to the individual’s financial status/situation (e.g. simple bank account numbers without further details). Increase by 1 if due to the nature and/or volume of the specific data set, full financial (e.g. credit card) information is disclosed that could enable fraud or an detailed social/financial profile is created. If no Financial Data is exposed then the score for this section is 0.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "6922ff0c-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Financial Data"
+    },
+	{
+      "description": "Any type of sensitive data (e.g. health, political affiliation, sexual life). Basic Score = 4. Decrease by 3 if the nature of the data set does not provide any substantial insight to the individual’s behavioural information or the data can be collected easily (independently from the breach) through publicly available sources (e.g. combination of information from web searches). Decrease by 2 if the nature of the data can lead to general assumptions. Decreased by 1 if the nature of data can lead to assumptions about sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "6923039e-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Sensitive Data"
+    },
+	{
+      "description": "CB = 0 if data exposed to confidentiality risks without evidence that illegal processing has occurred. CB = +.25 if data disposed to a number of known recipients. CB = +.5 if data disposed to an unknown number of recipients.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230510-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Loss of Confidentiality"
+    },
+	{
+      "description": "CB = 0 if data was altered but without any identified incorrect or illegal use. CB = +.25 if data was altered and possibly used in an incorrect or illegal way but with possibility to recover. CB = +.5 if data was altered and possibly used in an incorrect or illegal way without possibility to recover.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230646-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Loss of Integrity"
+    },
+	{
+      "description": "CB = 0 if data being recoverable without any difficulty. CB = +.25 if data is temporarily unavailable. CB = +.5 if full unavailability (i.e. the data cannot be recovered from the controller or the individuals).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230772-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Loss of Availability"
+    },
+	{
+      "description": "CB = +.5 if The breach was due to an intentional action, e.g. in order to cause problem to the data controller (e.g. demonstrate loss of security) and/or in order to harm the individuals.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "6923089e-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Malicious Intent"
+    },
+	{
+      "description": "The total severity rating for the breach artifact based on the following equation SE = (DPC x EI) + CB.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "692309c0-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Total Severity Rating"
+    },
+	{
+      "description": "SE < 2 Low",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230aec-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Severity Low"
+    },
+	{
+      "description": "2 ≤ SE < 3 Medium",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230dc6-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Severity Medium"
+    },
+	{
+      "description": "3 ≤ SE< 4 High",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "69230efc-468b-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Severity High"
+    },
+	{
+      "description": "4 ≤ SE Very High",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "116dcbe6-468d-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Severity Very High"
+    },
+	{
+      "description": "It is considered as the most common direct identifier but EI score may vary depending on the case, since the full name does not always in itself uniquely single out the individual. For example, when identification is performed using only the individual’s full name. EI = 0 if (absent) no full name information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e488bf4-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Full Name Absent"
+    },
+	{
+      "description": "It is considered as the most common direct identifier but EI score may vary depending on the case, since the full name does not always in itself uniquely single out the individual. For example, when identification is performed using only the individual’s full name. EI = .25 if (Negligible) throughout a country’s population where many people share that same full name.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e488e4c-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Full Name Negligible"
+    },
+	{
+      "description": "It is considered as the most common direct identifier but EI score may vary depending on the case, since the full name does not always in itself uniquely single out the individual. For example, when identification is performed using only the individual’s full name. EI = .5 if (Limited) throughout a country’s population where few people share that same full name.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e488fa0-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Full Name Limited"
+    },
+	{
+      "description": "It is considered as the most common direct identifier but EI score may vary depending on the case, since the full name does not always in itself uniquely single out the individual. For example, when identification is performed using only the individual’s full name. EI = .75 if (Significant) throughout a small city’s population where few or no people share that same full name.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e4892c0-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Full Name Significant"
+    },
+	{
+      "description": "It is considered as the most common direct identifier but EI score may vary depending on the case, since the full name does not always in itself uniquely single out the individual. For example, when identification is performed using only the individual’s full name. EI = 1 if (Maximum) throughout a country’s population using also date of birth and email address.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e48941e-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Full Name Maximum"
+    },
+	{
+      "description": "They are all considered as unique identifiers and they can be used to single out the individual, as long as it is possible to link them to a reference database (e.g. linking an ID card to a particular person). For example, when identification is performed using only one of these numbers. EI = 0 if (absent) no ID Card, Passport, or Social Security information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e489554-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: ID Card or Passport or Social Security Number Absent"
+    },
+	{
+      "description": "They are all considered as unique identifiers and they can be used to single out the individual, as long as it is possible to link them to a reference database (e.g. linking an ID card to a particular person). For example, when identification is performed using only one of these numbers. EI = .25 if (Negligible) when no other information is provided about the individual or it is not possible to find additional information unless access to the reference database is obtained.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e48968a-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: ID Card or Passport or Social Security Number Negligible"
+    },
+	{
+      "description": "They are all considered as unique identifiers and they can be used to single out the individual, as long as it is possible to link them to a reference database (e.g. linking an ID card to a particular person). For example, when identification is performed using only one of these numbers. EI = .75 if (Significant) when the identifier reveals additional identification information about the individual (e.g. social security number revealing date of birth) and is linked to other data (e.g. postal address or email).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e4897b6-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: ID Card or Passport or Social Security Number Significant"
+    },
+	{
+      "description": "They are all considered as unique identifiers and they can be used to single out the individual, as long as it is possible to link them to a reference database (e.g. linking an ID card to a particular person). For example, when identification is performed using only one of these numbers. EI = 1 if (Maximum) when information from the reference database is also available (e.g. ID card and full name and/or picture).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e4898e2-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: ID Card or Passport or Social Security Number Maximum"
+    },
+	{
+      "description": "They are both indirect identifiers, which can also be used to communicate with or access the individual. When identification is based only on one of these two identifiers. EI = 0 if (absent) no Telephone Number or Home Address information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "4e489bda-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Telephone Number or Home Address Absent"
+    },
+	{
+      "description": "They are both indirect identifiers, which can also be used to communicate with or access the individual. When identification is based only on one of these two identifiers. EI = .25 if (Negligible) throughout a country’s population when the number/address is not registered in a publicly available register.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2bc60-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Telephone Number or Home Address Negligible"
+    },
+	{
+      "description": "They are both indirect identifiers, which can also be used to communicate with or access the individual. When identification is based only on one of these two identifiers. EI = .5 if (Limited) throughout a small city’s population and the number/address is not registered in a publicly available register (identification possible through communication).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2bf12-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Telephone Number or Home Address Limited"
+    },
+	{
+      "description": "They are both indirect identifiers, which can also be used to communicate with or access the individual. When identification is based only on one of these two identifiers. EI = 1 if (Maximum) throughout a country’s population and the number/address is included in publicly available register.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c098-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Telephone Number or Home Address Maximum"
+    },
+	{
+      "description": "It is also an indirect identifier, which can be used to communicate with the individual and in some cases it may include information about his/her name (first name and/or surname). When identification is based on email. EI = 0 if (absent) no Email Address information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c1d8-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Email Address Absent"
+    },
+	{
+      "description": "It is also an indirect identifier, which can be used to communicate with the individual and in some cases it may include information about his/her name (first name and/or surname). When identification is based on email. EI = .25 if (Negligible) when the email address does not reveal any other identification information (e.g. name) and is not used as a primary address of the individual in internet sites, forums or social networks.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c318-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Email Address Negligible"
+    },
+	{
+      "description": "It is also an indirect identifier, which can be used to communicate with the individual and in some cases it may include information about his/her name (first name and/or surname). When identification is based on email. EI = .75 if (Significant) when the email address does not reveal any other identification information (e.g. name) but is used as a primary address of the individual in internet sites, forums or social networks (searchable on the web).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c444-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Email Address Significant"
+    },
+	{
+      "description": "It is also an indirect identifier, which can be used to communicate with the individual and in some cases it may include information about his/her name (first name and/or surname). When identification is based on email. EI = 1 if (Maximum) when the email address reveals the individual’s name and is used as his/her primary address in internet sites, forums or social networks (searchable on the web).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c570-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Email Address Maximum"
+    },
+	{
+      "description": "It may be a direct or indirect identifier, depending on the case. For example, when identification is based only on a picture. EI = 0 if (absent) no Picture information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2c994-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Picture Absent"
+    },
+	{
+      "description": "It may be a direct or indirect identifier, depending on the case. For example, when identification is based only on a picture. EI = .25 if (Negligible) when the picture is unclear or vague (e.g. CCTV footage from a long distance).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2cade-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Picture Negligible"
+    },
+	{
+      "description": "It may be a direct or indirect identifier, depending on the case. For example, when identification is based only on a picture. EI = .5 if (Limited) when the picture is unclear or vague but it includes additional information (e.g. surroundings that show a specific location) that could lead to the identification of the individual.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "ceb2cce6-4693-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Picture Limited"
+    },
+	{
+      "description": "It may be a direct or indirect identifier, depending on the case. For example, when identification is based only on a picture. EI = .75 if (Significant) when the picture is clear but no other identification information is linked to it.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6e03c-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Picture Significant"
+    },
+	{
+      "description": "It may be a direct or indirect identifier, depending on the case. For example, when identification is based only on a picture. EI = 1 if (Maximum) when the picture is clear and linked to some additional information (e.g. information about membership to a specific group, home address, etc).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6e316-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Picture Maximum"
+    },
+	{
+      "description": "Coding refers to the assignment of a unique ID number to each individual, e.g. in the context of a specific database. The use of aliases is a form of pseudonymisation, in the sense that a specific identifier (usually the individual’s full name) is substituted by an alias (pseudonym). The initials are a type of alias that is extracted from the full name of the individual. Like in the case of unique identifiers, codes and aliases can be used to identify the individual as long as it is possible to link them to a reference database (e.g. linking the code/alias to the full name of  a particular person) When identification is based on coding or use of aliases. EI = 0 if (absent) no Coding, Alias, or Initial information has been exposed.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6e460-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Coding or Alias or Initials Absent"
+    },
+	{
+      "description": "Coding refers to the assignment of a unique ID number to each individual, e.g. in the context of a specific database. The use of aliases is a form of pseudonymisation, in the sense that a specific identifier (usually the individual’s full name) is substituted by an alias (pseudonym). The initials are a type of alias that is extracted from the full name of the individual. Like in the case of unique identifiers, codes and aliases can be used to identify the individual as long as it is possible to link them to a reference database (e.g. linking the code/alias to the full name of  a particular person) When identification is based on coding or use of aliases. EI = .25 if (Negligible) when the code/alias does not reveal and cannot be linked to any other personal data about the individual unless access to the reference database is obtained.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6e5a0-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Coding or Alias or Initials Negligible"
+    },
+	{
+      "description": "Coding refers to the assignment of a unique ID number to each individual, e.g. in the context of a specific database. The use of aliases is a form of pseudonymisation, in the sense that a specific identifier (usually the individual’s full name) is substituted by an alias (pseudonym). The initials are a type of alias that is extracted from the full name of the individual. Like in the case of unique identifiers, codes and aliases can be used to identify the individual as long as it is possible to link them to a reference database (e.g. linking the code/alias to the full name of  a particular person) When identification is based on coding or use of aliases. EI = .75 if (Significant) when the alias reveals some data about the individual (e.g. first name) and is linked to other personal data (e.g. the individual’s email address).",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6e6d6-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Coding or Alias or Initials Significant"
+    },
+	{
+      "description": "Coding refers to the assignment of a unique ID number to each individual, e.g. in the context of a specific database. The use of aliases is a form of pseudonymisation, in the sense that a specific identifier (usually the individual’s full name) is substituted by an alias (pseudonym). The initials are a type of alias that is extracted from the full name of the individual. Like in the case of unique identifiers, codes and aliases can be used to identify the individual as long as it is possible to link them to a reference database (e.g. linking the code/alias to the full name of  a particular person) When identification is based on coding or use of aliases. EI = 1 if (Maximum) when the alias reveals the individual’s full name or data from the reference database are also available.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "f7e6ea78-4695-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Coding or Alias or Initials Maximum"
+    },
+	{
+      "description": "Location, traffic data, data on personal preferences and habits, etc. Basic Score = 2. Decrease by 1 if the nature of the data set does not provide any substantial insight to the individual’s behavioural information or the data can be collected easily (independently from the breach) through publicly available sources (e.g. combination of information from web searches). Increase by 1 if the behavioural data and/or the characteristics of the controller are such that a profile of the individual can be created, exposing detailed information about his/her everyday life and habits. Increase by 2 if a profile based on individual’s sensitive data can be created. If no Behavioral Data is exposed then the score for this section is 0.",
       "meta": {
 	  "kill_chain": [
           "general-artifact:ENISA DB SE Rating"
