@@ -134,7 +134,7 @@
         ]
       },
       "uuid": "f6bbe368-469c-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF General Artifact Informational Drawback: General Artifact BLS State Index No Relevant Category"
+      "value": "OSRS CMCF General Artifact Informational Drawback: General Artifact BLS No Relevant Category"
     },
 	{
       "description": "The artifact relates to BLS information but does not sufficiently describe the event with enough context to understand which BLS to map to and so therefore the information that would explain this context is considered missing (or) absent.",
@@ -147,7 +147,7 @@
         ]
       },
       "uuid": "f6bbe5ca-469c-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF General Artifact Informational Drawback: General Artifact BLS State Index Information Absent"
+      "value": "OSRS CMCF General Artifact Informational Drawback: General Artifact BLS Information Absent"
     },
 	{
       "description": "The artifact contains data breach related information that does not align to the current General Data Breach Index mapping.",
