@@ -3,7 +3,7 @@
   "description": "The adversary is trying to avoid being detected. Defense Evasion consists of techniques that adversaries use to avoid detection throughout their compromise. Techniques used for defense evasion include uninstalling (or) disabling security software or obfuscating (or) encrypting data and scripts. Adversaries also leverage and abuse trusted processes to hide and masquerade their malware. Other tactics’ techniques are cross-listed here when those techniques include the added benefit of subverting defenses.",
   "name": "OSRS Combined MITRE ATT&CK Matrix - Defense Evasion",
   "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{

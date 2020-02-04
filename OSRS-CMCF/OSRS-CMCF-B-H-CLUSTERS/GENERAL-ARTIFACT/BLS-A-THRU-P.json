@@ -3,7 +3,7 @@
   "description": "Cluster designed for tagging OSINT artifacts appropriate U.S. Bureau of Labor Statistics class codes. This cluster covers class codes A thru P.",
   "name": "OSRS Bureau of Labor Statistics - A thru P",
   "source": "US Bureau of Labor Statistics - Industries at a Glance",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	  {

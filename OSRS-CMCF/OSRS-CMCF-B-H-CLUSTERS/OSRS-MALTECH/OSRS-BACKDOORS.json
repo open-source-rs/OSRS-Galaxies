@@ -3,7 +3,7 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious backdoors.",
   "name": "OSRS Backdoor",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{

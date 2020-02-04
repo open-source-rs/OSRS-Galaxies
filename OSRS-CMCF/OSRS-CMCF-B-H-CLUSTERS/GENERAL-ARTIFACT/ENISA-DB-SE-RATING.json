@@ -3,7 +3,7 @@
   "description": "Cluster designed for the use of the ENISA Data Breach Severity rating system.",
   "name": "OSRS ENISA DB SE Rating",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{

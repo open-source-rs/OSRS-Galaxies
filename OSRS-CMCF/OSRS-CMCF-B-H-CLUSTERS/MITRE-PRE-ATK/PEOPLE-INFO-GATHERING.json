@@ -3,7 +3,7 @@
   "description": "People Information Gathering consists of the process of identifying critical personnel elements of intelligence an adversary will need about a target in order to best attack.  People intelligence gathering focuses on identifying key personnel or individuals with critical accesses in order to best approach a target for attack.  It may involve aspects of social engineering, elicitation, mining social media sources, or be thought of as understanding the personnel element of competitive intelligence.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - People Information Gathering",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{

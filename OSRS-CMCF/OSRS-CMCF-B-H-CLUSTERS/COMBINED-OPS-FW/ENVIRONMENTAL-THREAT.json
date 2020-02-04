@@ -3,7 +3,7 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to the taxonomy language found in either the HITRUST Threat Catalogue or the ENISA Threat Taxonomy.",
   "name": "OSRS Operational Framewrok - Environmental Threat",
   "source": "HITRUST Threat Catalogue and the ENISA Threat Taxonomy",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	  {

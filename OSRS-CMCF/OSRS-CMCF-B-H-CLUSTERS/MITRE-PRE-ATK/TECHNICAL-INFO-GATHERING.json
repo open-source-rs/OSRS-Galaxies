@@ -3,7 +3,7 @@
   "description": "Technical information gathering consists of the process of identifying critical technical elements of intelligence an adversary will need about a target in order to best attack.  Technical intelligence gathering includes, but is not limited to, understanding the target's network architecture, IP space, network services, email format, and security procedures.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Technical Information Gathering",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	{

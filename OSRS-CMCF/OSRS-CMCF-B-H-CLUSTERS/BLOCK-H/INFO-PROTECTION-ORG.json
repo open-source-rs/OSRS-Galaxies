@@ -3,7 +3,7 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to development and implementation of an Information Protection Organization.",
   "name": "HITRUST CSF - Information Protection Organization",
   "source": "HITRUST CSF",
-  "type": "OSRS-CMCF-BLOCK-H",
+  "type": "OSRS-CMCF-BLOCK-OSRS",
   "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
   "values": [
 	  {
