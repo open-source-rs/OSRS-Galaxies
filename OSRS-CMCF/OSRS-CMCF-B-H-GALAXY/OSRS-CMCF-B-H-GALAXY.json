@@ -101,7 +101,9 @@
 		"Block-H",
 		"Ops Framework",
 		"MITRE Pre ATK",
-		"MITRE ATK",
+		"MITRE ATK",,
+		"MalTech",
+		"SecTool",
 		"CWE"
 	  ]
   },
