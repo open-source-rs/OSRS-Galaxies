@@ -17,7 +17,7 @@
         ]
       },
       "uuid": "20b7ab8c-469a-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Priority Definition Planning)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Priority Definition Planning)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Target Selection information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -30,7 +30,7 @@
         ]
       },
       "uuid": "1f31af08-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Target Selection)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Target Selection)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Technical Information Gathering information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -43,7 +43,7 @@
         ]
       },
       "uuid": "1f31b1ba-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Technical Information Gathering)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Technical Information Gathering)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to People Information Gathering information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -56,7 +56,7 @@
         ]
       },
       "uuid": "1f31b340-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (People Information Gathering)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (People Information Gathering)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Organizational Information Gathering that is uncertain, indefinite, or unclear of character or meaning.",
@@ -69,7 +69,7 @@
         ]
       },
       "uuid": "1f31b480-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Organizational Information Gathering)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Organizational Information Gathering)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Technical Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -82,7 +82,7 @@
         ]
       },
       "uuid": "1f31b5b6-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Technical Weakness Identification)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Technical Weakness Identification)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to People Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -95,7 +95,7 @@
         ]
       },
       "uuid": "1f31b980-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (People Weakness Identification)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (People Weakness Identification)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Organizational Weakness Identification information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -108,7 +108,7 @@
         ]
       },
       "uuid": "1f31bad4-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Organizational Weakness Identification)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Organizational Weakness Identification)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Adversary OpSec information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -121,7 +121,7 @@
         ]
       },
       "uuid": "1f31bc0a-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Adversary OPSEC)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Adversary OPSEC)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Establishing and Maintaining Infrastructure information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -134,7 +134,7 @@
         ]
       },
       "uuid": "1f31bd36-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Establish & Maintain Infrastructure)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Establish & Maintain Infrastructure)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Persona Development information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -147,7 +147,7 @@
         ]
       },
       "uuid": "1f31be58-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Persona Development)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Persona Development)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Build Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -160,7 +160,7 @@
         ]
       },
       "uuid": "1f31bf84-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Build Capabilities)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Build Capabilities)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Test Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -173,7 +173,7 @@
         ]
       },
       "uuid": "1f31c3c6-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Test Capabilities)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Test Capabilities)"
     },
 	{
       "description": "The artifact contains MITRE Pre ATK related to Stage Capabilities information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -186,7 +186,7 @@
         ]
       },
       "uuid": "1f31c538-46a7-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Stage Capabilities)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Stage Capabilities)"
     },
 	{
       "description": "The artifact contains Priority Definition Planning related information that does not align to the current MITRE Pre ATK mapping.",
@@ -589,7 +589,7 @@
         ]
       },
       "uuid": "96d173fa-46a6-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vauge (Priority Definition Direction)"
+      "value": "OSRS CMCF MITRE Pre ATK Informational Drawback: MITRE Pre ATK Artifact Vague (Priority Definition Direction)"
     }
 	  ],
 	"version": 1

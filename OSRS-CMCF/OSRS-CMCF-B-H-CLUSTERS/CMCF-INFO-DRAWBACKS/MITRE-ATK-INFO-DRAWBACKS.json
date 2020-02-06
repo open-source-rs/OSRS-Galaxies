@@ -17,7 +17,7 @@
         ]
       },
       "uuid": "81c0f5d8-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Initial Access)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Initial Access)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Persistence information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -30,7 +30,7 @@
         ]
       },
       "uuid": "d94d39ec-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Persistence)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Persistence)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Privilege Escalation information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -43,7 +43,7 @@
         ]
       },
       "uuid": "d94d3ee2-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Privilege Escalation)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Privilege Escalation)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Defensive Evasion information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -56,7 +56,7 @@
         ]
       },
       "uuid": "d94d404a-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Defense Evasion)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Defense Evasion)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Credential Access information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -69,7 +69,7 @@
         ]
       },
       "uuid": "d94d4180-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Credential Access)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Credential Access)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Discovery information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -82,7 +82,7 @@
         ]
       },
       "uuid": "d94d42b6-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Discovery)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Discovery)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Lateral Movement information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -95,7 +95,7 @@
         ]
       },
       "uuid": "d94d43e2-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Lateral Movement)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Lateral Movement)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Collection information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -108,7 +108,7 @@
         ]
       },
       "uuid": "d94d450e-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Collection)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Collection)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Command and Control information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -121,7 +121,7 @@
         ]
       },
       "uuid": "d94d48ce-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Command and Control)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Command and Control)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Exfiltration information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -134,7 +134,7 @@
         ]
       },
       "uuid": "d94d4a2c-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Exfiltration)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Exfiltration)"
     },
 	{
       "description": "The artifact contains MITRE ATK information related to Impact information that is uncertain, indefinite, or unclear of character or meaning.",
@@ -147,7 +147,7 @@
         ]
       },
       "uuid": "d94d4b62-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Impact)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Impact)"
     },
 	{
       "description": "The artifact contains MITRE ATK related information regarding Initial Access that does not align to the current MITRE ATK mapping.",
@@ -472,7 +472,7 @@
         ]
       },
       "uuid": "797dac2c-46ad-11ea-b77f-2e728ce88125",
-      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vauge (Execution)"
+      "value": "OSRS CMCF MITRE ATK Informational Drawback: MITRE ATK Artifact Vague (Execution)"
     }
 	  ],
 	"version": 1
