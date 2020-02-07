@@ -107,9 +107,9 @@
 		"CWE"
 	  ]
   },
-  "name": "OSRS-CMCF-BLOCK-OSRS",
-  "namespace": "OSRS-CMCF-BLOCK-OSRS",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "f8c7b74a-49bc-11ea-b77f-2e728ce88125",
+  "name": "CMCF-BLOCK-OSRS",
+  "namespace": "CMCF-BLOCK-OSRS",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "version": 4
 }
