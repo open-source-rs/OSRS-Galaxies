@@ -1,5 +1,5 @@
 {
-  "description": "The OSRS CMCF Block-H is used for the collection and organization of informational artifacts.  Block-H represents a version of the CMCF alignment towards Healthcare. For more information regarding the development of the CMCF refer to this website: https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF-",
+  "description": "The OSRS CMCF Block-OSRS is used for the collection and organization of informational artifacts.  Block-OSRS represents a version of the CMCF alignment towards general cybersecurity as well as healthcare. For more information regarding the development of the CMCF refer to this website: https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
   "icon": "map",
   "kill_chain_order": {
     "general-artifact": [
@@ -101,7 +101,7 @@
 		"Block-H",
 		"Ops Framework",
 		"MITRE Pre ATK",
-		"MITRE ATK",,
+		"MITRE ATK",
 		"MalTech",
 		"SecTool",
 		"CWE"
