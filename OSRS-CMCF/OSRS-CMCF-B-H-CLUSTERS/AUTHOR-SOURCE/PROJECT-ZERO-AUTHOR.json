@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant Google Project Zero author information. Open-source intelligence (OSINT) is data collected from publicly available sources to be used in an intelligence context. In the intelligence community, the term open refers to overt, publicly available sources (as opposed to covert or clandestine sources). It is not related to open-source software or collective intelligence.",
   "name": "OSRS Project Zero Author Index",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Ian Beer is a British computer security expert and white hat hacker, currently residing in Switzerland and working for Google as part of its Project Zero. There are those who consider him as one of the best iOS hackers. Beer was the first security expert to publish his findings under the Project Zero name in the spring of 2014; at this time, the project was not yet revealed and crediting the newly discovered vulnerabilities to it led to some speculation. He is known for discovering a large number of security vulnerabilities in Apple products, including iOS, Safari and macOS, as well as helping create jailbreaks for iOS versions. One such discovery forced Apple to rewrite significant parts of the macOS and iOS kernel. Beer is also a vocal critic of Apple concerning its bug bounty program for iOS announced in 2016. The invite only program has been accused of low payouts. Beer has also criticized the company for not disclosing to its users why updates that fix the bugs should be installed.",

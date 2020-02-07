@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant OSINT author information. Open-source intelligence (OSINT) is data collected from publicly available sources to be used in an intelligence context. In the intelligence community, the term open refers to overt, publicly available sources (as opposed to covert or clandestine sources). It is not related to open-source software or collective intelligence.",
   "name": "OSRS OSINT Author Index",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Aaron Riley is a Cyber Threat Intelligence Analyst with the Cofense Intelligence team. His responsibilities within this team include incident and malware research which require extensive analytical and technical skills. Aaron is an avid proponent of cyber security. He has degrees in networking and programming. Aaron shows great insight within all domains of the cyber security realm and presents regularly on multiple security topics. He is a member of many local and national cyber security groups, and enjoys connecting with other peers in the industry.",
