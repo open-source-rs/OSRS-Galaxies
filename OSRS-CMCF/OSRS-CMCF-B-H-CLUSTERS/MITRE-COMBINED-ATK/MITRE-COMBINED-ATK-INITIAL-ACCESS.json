@@ -3,8 +3,8 @@
   "description": "Initial Access consists of techniques that use various entry vectors to gain their initial foothold within a network. Techniques used to gain a foothold include targeted spearphishing and exploiting weaknesses on public-facing web servers. Footholds gained through initial access may allow for continued access, like valid accounts and use of external remote services, or may be limited-use due to changing passwords. The OSRS MITRE Combined Enterprise ATT&CK combines the following matrices - Windows, Linux, AWS, GCP, Azure, and SaaS into a single MISP mapping.",
   "name": "OSRS Combined MITRE ATT&CK Matrix - Initial Access",
   "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "A drive-by compromise is when an adversary gains access to a system through a user visiting a website over the normal course of browsing. With this technique, the user's web browser is typically targeted for exploitation, but adversaries may also use compromised websites for non-exploitation behavior such as acquiring application access tokens.",

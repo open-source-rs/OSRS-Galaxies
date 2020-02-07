@@ -3,8 +3,8 @@
   "description": "The adversary is trying to maintain their foothold. Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
   "name": "OSRS Combined MITRE ATT&CK Matrix - Persistence",
   "source": "MITRE ATT&CK Matrices Windows, Linux, AWS, GCP, Azure, and SaaS",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Windows contains accessibility features that may be launched with a key combination before a user has logged in (for example, when the user is on the Windows logon screen). An adversary can modify the way these programs are launched to get a command prompt or backdoor without logging in to the system.",

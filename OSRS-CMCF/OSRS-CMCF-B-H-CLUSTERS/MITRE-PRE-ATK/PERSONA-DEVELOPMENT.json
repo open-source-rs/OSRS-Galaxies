@@ -3,8 +3,8 @@
   "description": "Persona development consists of the development of public information, presence, history and appropriate affiliations. This development could be applied to social media, website, or other publicly available information that could be referenced and scrutinized for legitimacy over the course of an operation using that persona or identity.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Persona Development",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "For attacks incorporating social engineering the utilization of an on-line persona is important. These personas may be fictitious or impersonate real people. The persona may exist on a single site or across multiple sites (Facebook, LinkedIn, Twitter, Google+, etc.).",

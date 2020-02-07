@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity operations.",
   "name": "HITRUST CSF - Operations",
   "source": "HITRUST CSF",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	  {
       "description": "Operating procedures are documented and made available to all users who need them.",

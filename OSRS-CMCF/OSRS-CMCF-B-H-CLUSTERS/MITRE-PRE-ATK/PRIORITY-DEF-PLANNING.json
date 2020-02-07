@@ -3,8 +3,8 @@
   "description": "Priority definition planning consists of the process of determining the set of Key Intelligence Topics (KIT) or Key Intelligence Questions (KIQ) required for meeting key strategic, operational, or tactical goals. Leadership outlines the priority definition (may be considered a goal) around which the adversary designs target selection and a plan to achieve. An analyst may outline the priority definition when in the course of determining gaps in existing KITs or KIQs.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Priority Definition Planning",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	  {
       "description": "Analysts assess current information available against requirements that outline needs and wants as part of the research baselining process to begin satisfying a requirement.",

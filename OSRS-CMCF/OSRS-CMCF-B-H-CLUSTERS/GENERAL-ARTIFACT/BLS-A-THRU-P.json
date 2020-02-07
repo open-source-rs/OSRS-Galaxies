@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts appropriate U.S. Bureau of Labor Statistics class codes. This cluster covers class codes A thru P.",
   "name": "OSRS Bureau of Labor Statistics - A thru P",
   "source": "US Bureau of Labor Statistics - Industries at a Glance",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	  {
       "description": "Industries in the Accommodation subsector provide lodging or short-term accommodations for travelers, vacationers, and others. There is a wide range of establishments in these industries. Some provide lodging only; while others provide meals, laundry services, and recreational facilities, as well as lodging. Lodging establishments are classified in this subsector even if the provision of complementary services generates more revenue. The types of complementary services provided vary from establishment to establishment.",

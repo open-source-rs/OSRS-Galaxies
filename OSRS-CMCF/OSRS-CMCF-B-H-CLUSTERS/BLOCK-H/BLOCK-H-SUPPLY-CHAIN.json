@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to Healthcare Cybersecurity supply chain management.",
   "name": "HITRUST CSF - Supply Chain",
   "source": "HITRUST CSF",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Information security requirements for mitigating the risks associated with supplier’s access to the organization’s assets are agreed with the supplier and documented.",

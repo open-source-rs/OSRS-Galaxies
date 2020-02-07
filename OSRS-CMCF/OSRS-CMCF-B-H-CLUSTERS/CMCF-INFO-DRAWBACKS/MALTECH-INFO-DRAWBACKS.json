@@ -3,8 +3,8 @@
   "description": "MalTech informational drawbacks within the OSRS CMCF are related to instances where information from an artifiact is found missing, irrelevant, not congruent, or not complete based on the information supplied within the artifact.  The informational drawbacks allow for the tracking of these types of informational defficiencies.",
   "name": "OSRS MalTech Informational Drawbacks",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "The artifact contains MalTech information that is uncertain, indefinite, or unclear of character or meaning.",

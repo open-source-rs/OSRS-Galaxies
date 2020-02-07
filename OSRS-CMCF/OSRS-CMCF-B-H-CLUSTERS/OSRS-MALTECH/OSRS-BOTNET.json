@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious botnets.",
   "name": "OSRS Botnet",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "AESDDoS botnet malware variant detected by Trend Micro as Backdoor.Linux.AESDDOS.J exploiting a server-side template injection vulnerability CVE-2019-3396 in the Widget Connector macro in Atlassian Confluence Server, a collaboration software program used by DevOps professionals.",

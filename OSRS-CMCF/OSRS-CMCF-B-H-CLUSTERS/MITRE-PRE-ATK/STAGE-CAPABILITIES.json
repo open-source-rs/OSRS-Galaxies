@@ -3,8 +3,8 @@
   "description": "Staging capabilities consists of preparing operational environment required to conduct the operation. This includes activities such as deploying software, uploading data, enabling command and control infrastructure.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Stage Capabilities",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Removable media containing malware can be injected in to a supply chain at large or small scale. It can also be physically placed for someone to find or can be sent to someone in a more targeted manner. The intent is to have the user utilize the removable media on a system where the adversary is trying to gain access.",

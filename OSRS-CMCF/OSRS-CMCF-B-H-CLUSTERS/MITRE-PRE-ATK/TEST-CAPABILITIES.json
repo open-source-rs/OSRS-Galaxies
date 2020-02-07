@@ -3,8 +3,8 @@
   "description": "Testing capabilities takes place when adversaries may need to test capabilities externally to refine development goals and criteria and to ensure success during an operation. Certain testing may be done after a capability is staged.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Test Capabilities",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Execution of code and network communications often result in logging or other system or network forensic artifacts. An adversary can run their code to identify what is recorded under different conditions. This may result in changes to their code or adding additional actions (such as deleting a record from a log) to the code.",

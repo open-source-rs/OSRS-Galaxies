@@ -3,8 +3,8 @@
   "description": "Priority definition direction consists of the process of collecting and assigning requirements for meeting Key Intelligence Topics (KIT) or Key Intelligence Questions (KIQ) as determined by leadership.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Priority Definition Direction",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	  {
       "description": "Once generated, Key Intelligence Topics (KITs), Key Intelligence Questions (KIQs), and/or intelligence requirements are assigned to applicable agencies and/or personnel. For example, an adversary may decide nuclear energy requirements should be assigned to a specific organization based on their mission.",

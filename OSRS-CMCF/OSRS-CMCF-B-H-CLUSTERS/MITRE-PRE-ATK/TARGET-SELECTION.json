@@ -3,8 +3,8 @@
   "description": "Target selection consists of an iterative process in which an adversary determines a target by first beginning at the strategic level and then narrowing down operationally and tactically until a specific target is chosen.  A target may be defined as an entity or object that performs a function considered for possible engagement or other action.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Target Selection",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "The approach or attack vector outlines the specifics behind how the adversary would like to attack the target. As additional information is known through the other phases of PRE-ATT&CK, an adversary may update the approach or attack vector.",

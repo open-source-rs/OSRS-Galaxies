@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts by artifact type (i.e. backdoor, data breach, etc.)",
   "name": "OSRS Artifact Type",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "f8c7b74a-49bc-11ea-b77f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	  {
       "description": "A backdoor is a typically covert method of bypassing normal authentication or encryption in a computer, product, embedded device (e.g. a home router), or its embodiment (e.g. part of a cryptosystem, algorithm, chipset, or even a homunculus computer —a tiny computer-within-a-computer such as that found in Intel's AMT technology). Backdoors are most often used for securing remote access to a computer, or obtaining access to plaintext in cryptographic systems. From there it may be used to gain access to privileged information like passwords, corrupt or delete data on hard drives, or transfer information within autoschediastic networks.",

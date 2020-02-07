@@ -3,8 +3,8 @@
   "description": "People weakness identification consists of identifying and analyzing weaknesses and vulnerabilities from the intelligence gathering phases which can be leveraged to gain access to target or intermediate target persons of interest or social trust relationships.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - People Weakness Identification",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Understanding organizational skillsets and deficiencies could provide insight in to weakness in defenses, or opportunities for exploitation.",

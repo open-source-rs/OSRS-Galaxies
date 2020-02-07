@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious tools (trojans, RATs, etc.).",
   "name": "OSRS Tool",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "This malware reads the C2 IP and port from the registry where it was saved by the previous stager. It processes the following commands from its C2 that are received encrypted over HTTP.",

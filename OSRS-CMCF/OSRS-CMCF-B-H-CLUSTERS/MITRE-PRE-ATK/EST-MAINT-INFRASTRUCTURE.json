@@ -3,8 +3,8 @@
   "description": "Establishing and maintaining infrastructure consists of building, purchasing, co-opting, and maintaining systems and services used to conduct cyber operations. An adversary will need to establish infrastructure used to communicate with and control assets used throughout the course of their operations.",
   "name": "OSRS MITRE Pre-ATT&CK Matrix - Establish & Maintain Infrastructure",
   "source": "MITRE Pre-ATT&CK Matrix",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "A wide variety of cloud, virtual private services, hosting, compute, and storage solutions are available. Additionally botnets are available for rent or purchase. Use of these solutions allow an adversary to stage, launch, and execute an attack from infrastructure that does not physically tie back to them and can be rapidly provisioned, modified, and shut down.",

@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to various tools used by cybersecurity personnel for various purposes.",
   "name": "OSRS Security Type Index",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Tools used to take over user or system accounts.",

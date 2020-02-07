@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts with relevant strategic framework information. Specifically for Block-H, these tags are related to development and implementation of Cybersecurity continious operataions policy and procedure.",
   "name": "HITRUST CSF - Business Continuity",
   "source": "HITRUST CSF",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Requirements are determined for information security and the continuity of information security management in adverse situations, e.g. during a crisis or disaster.",

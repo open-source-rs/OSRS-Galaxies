@@ -3,8 +3,8 @@
   "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious actors and campaigns.",
   "name": "OSRS Actors & Campaigns",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "Threat actor identified by Advanced Intelligence LLC researchers and is attributed to selling Access-As-A-Service (AAAS) to groups seeking to deploy Sodinokibi (a.k.a. REvil) ransomware.",

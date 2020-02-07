@@ -3,8 +3,8 @@
   "description": "The Government Entity Classification Index (GECI) is assigning tags to entities that do not fall within the U.S. Bureau of Labor Statistics class code system (i.e. local law enforcement agencies).",
   "name": "OSRS Government Entity Classification Index (GECI)",
   "source": "OSRS DEV",
-  "type": "OSRS-CMCF-BLOCK-OSRS",
-  "uuid": "feda733c-2817-11ea-978f-2e728ce88125",
+  "type": "CMCF-BLOCK-OSRS",
+  "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
   "values": [
 	{
       "description": "The management of public affairs; government. For this particular cluster object the administration level is set at the Federal or National level depending on country specific jurisdiction (i.e. ministries or executive branches of government).",
