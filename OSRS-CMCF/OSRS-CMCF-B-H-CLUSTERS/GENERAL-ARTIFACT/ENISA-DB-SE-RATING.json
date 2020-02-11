@@ -501,6 +501,45 @@
       "value": "ENISA DB SE Rating: Coding or Alias or Initials Maximum"
     },
 	{
+      "description": "This value represents the sum of modifiers under the Circumstance of Breach category.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "cda0f868-4ce8-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Total Circumstance of Breach (CB) Modifier"
+    },
+	{
+      "description": "This value represents the sum of modifiers under the Ease of Idenfication category.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "cda0fb06-4ce8-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Total Ease of Idenfication (EI) Modifier"
+    },
+	{
+      "description": "This value represents the sum of modifiers under the Data Processing Context category.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "cda0fc50-4ce8-11ea-b77f-2e728ce88125",
+      "value": "ENISA DB SE Rating: Total Data Processing Context (DPC) Modifier"
+    },
+	{
       "description": "Location, traffic data, data on personal preferences and habits, etc. Basic Score = 2. Decrease by 1 if the nature of the data set does not provide any substantial insight to the individual’s behavioural information or the data can be collected easily (independently from the breach) through publicly available sources (e.g. combination of information from web searches). Increase by 1 if the behavioural data and/or the characteristics of the controller are such that a profile of the individual can be created, exposing detailed information about his/her everyday life and habits. Increase by 2 if a profile based on individual’s sensitive data can be created. If no Behavioral Data is exposed then the score for this section is 0.",
       "meta": {
 	  "kill_chain": [

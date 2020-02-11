@@ -578,7 +578,7 @@
         ]
       },
       "uuid": "76da8b32-33cc-11ea-850d-2e728ce88125",
-      "value": "OSRS Combined MITRE ATK Persistence: Windows T1098 	Account Manipulation"
+      "value": "OSRS Combined MITRE ATK Persistence: Windows T1098 Account Manipulation"
     },
 	{
       "description": "Dynamic-link libraries (DLLs) that are specified in the AppCertDLLs Registry key under HKEY_LOCAL_MACHINE_System_CurrentControlSet_Control_Session Manager are loaded into every process that calls the ubiquitously used application programming interface (API) functions CreateProcess, CreateProcessAsUser, CreateProcessWithLoginW, CreateProcessWithTokenW, or WinExec.",
