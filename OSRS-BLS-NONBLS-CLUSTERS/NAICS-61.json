@@ -496,6 +496,16 @@
 			"value": "Baton Rouge Community College"
 		},
 		{
+			"description": "In the place where innovative education, cutting-edge research and community outreach intersect, you'll find Simon Fraser University. Our vision? To be Canada's leading engaged university. Born in 1965, SFU has become Canada's leading comprehensive university with vibrant campuses in British Columbia's largest municipalities — Vancouver, Burnaby and Surrey — and deep roots in partner communities throughout the province and around the world.",
+			"meta": {
+				"refs": [
+					"https://www.sfu.ca/"
+				]
+			},
+			"uuid": "ec4a0e34-6314-11ea-bc55-0242ac130003",
+			"value": "Simon Fraser University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -506,5 +516,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 22
+	"version": 23
 }

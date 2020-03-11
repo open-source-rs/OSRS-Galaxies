@@ -2266,6 +2266,66 @@
 			"value": "The City of Pensacola"
 		},
 		{
+			"description": "We advise the government on arts, culture, heritage, sport and recreation, and broadcasting. Our strategy and common purpose - Promoting a confident and connected culture (He ngākau titikaha, he hononga tangata). The Ministry’s websites include our comprehensive encyclopedia Te Ara and NZHistory.nz.  Grants of over $10.827 million from the Regional Culture and Heritage Fund have gone to support cultural institutions throughout the country and the Heritage EQUIP fund is supporting heritage building owners to earthquake strengthen them. Further afield the Cultural Diplomacy International Programme, backing New Zealand’s reputation and identity internationally. The Ministry works with national cultural agencies such as NZ On Air, Creative New Zealand, the New Zealand Film Commission, and Te Papa Tongarewa. We administer their funding, monitor their activities and support appointees to their boards. The Ministry administers key cultural and heritage legislation, including the Flags, Emblems and Names Protection Act 1981 (to protect objects and symbols of national identity) and the Protected Objects Act 1975.",
+			"meta": {
+				"refs": [
+					"https://mch.govt.nz/about-ministry/overview"
+				]
+			},
+			"uuid": "5ac60e06-6312-11ea-bc55-0242ac130003",
+			"value": "Ministry of Culture and Heritage (MCH)"
+		},
+		{
+			"description": "Hutt Valley High School has been at the centre of the Hutt Valley since 1926. Established on what was once a market garden site and adjacent to the harbour area, the school enjoys living the values implied by sustenance and security, and honours the Te Ati Awa kawa embracing the area where we live. Our school values adopted after last year’s strategic plan exercise are we are welcoming; we are kind; we persevere; we achieve. These apparently simple statements reflect who we are. We are a diverse population - much like New Zealand itself - and we celebrate our differences, believing that we have nothing to fear from those who are different from us and a great deal to learn.",
+			"meta": {
+				"refs": [
+					"https://www.hvhs.school.nz/"
+				]
+			},
+			"uuid": "5ac61072-6312-11ea-bc55-0242ac130003",
+			"value": "Hutt Valley High School"
+		},
+		{
+			"description": "Student achievement is our priority. Education prepares all students for life. All students can learn when provided the appropriate learning opportunities. Our schools strive to foster cooperation between the home, the school, and the community. Attractive and clean schools provide a safe and productive learning environment. Parental and community involvement and support are crucial to the learning process. 121 Wheeler Street, Campobello, SC 29322.",
+			"meta": {
+				"refs": [
+					"http://www.spart1.org/"
+				]
+			},
+			"uuid": "5ac6116c-6312-11ea-bc55-0242ac130003",
+			"value": "Spartanburg County School District One"
+		},
+		{
+			"description": "County located in the United States, Illinois.",
+			"meta": {
+				"refs": [
+					"https://lasallecounty.org/"
+				]
+			},
+			"uuid": "5ac6123e-6312-11ea-bc55-0242ac130003",
+			"value": "LaSalle County"
+		},
+		{
+			"description": "Novi Sad is the second largest city in Serbia and the capital of the autonomous province of Vojvodina. It is located in the southern portion of the Pannonian Plain on the border of the Bačka and Srem geographical regions. Lying on the banks of the Danube river, the city faces the northern slopes of Fruška Gora. According to the 2011 census, Novi Sad proper has a population of 250,439, while its urban area (including the adjacent settlements of Petrovaradin and Sremska Kamenica) comprises 277,522 inhabitants. The population of the administrative area of the city totals 341,625 people. Novi Sad was founded in 1694 when Serb merchants formed a colony across the Danube from the Petrovaradin Fortress, a strategic Habsburg military post. In the following centuries, it transformed into an important trading and manufacturing centre as well as a centre of Serbian culture, earning it the nickname Serbian Athens. The city was heavily devastated in the 1848 Revolution, but was subsequently rebuilt and restored. Today, along with the Serbian capital city of Belgrade, Novi Sad is an industrial and financial centre important to the Serbian economy. Novi Sad is the European Capital of Culture for the year 2021, and European Youth Capital 2019.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Novi_Sad"
+				]
+			},
+			"uuid": "5ac61310-6312-11ea-bc55-0242ac130003",
+			"value": "Novi Sad"
+		},
+		{
+			"description": "We are committed to building a culture of learning and caring. Together, we are ensuring that all students are ready for college, careers, and life! We align the people in our system to engage in continous improvement to support student learning. We focus on strategic goals to ensure the academic success for each student by improving strategies for powerful teaching and learning, effective operations of the district, as well as communication and collaboration with stakeholders. Located 41 miles south of Seattle, 20 miles southeast of Tacoma, the Orting valley community has the best view of Mt. Rainier in the State of Washington.  We serve nearly 2,700 students in 4 schools.",
+			"meta": {
+				"refs": [
+					"https://www.ortingschools.org/domain/304"
+				]
+			},
+			"uuid": "5ac613f6-6312-11ea-bc55-0242ac130003",
+			"value": "Orting School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2276,5 +2336,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 37
+	"version": 38
 }

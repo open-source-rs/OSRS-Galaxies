@@ -77,6 +77,36 @@
       "value": "Rooster Teeth Productions, LLC"
     },
 	{
+      "description": "Four Queens Hotel and Casino has been in operation since 1966. We have consistently concentrated on delivering high quality, traditional Las Vegas gaming and entertainment. The property is across from our sister property, Binion's Gambling Hall in the heart of Fremont Street in downtown Las Vegas. Both properties are owned by TLC Casino Enterprises.",
+      "meta": {
+        "refs": [
+          "http://www.fourqueens.com/"
+        ]
+      },
+      "uuid": "e473351a-6313-11ea-bc55-0242ac130003",
+      "value": "Four Queens Hotel and Casino"
+    },
+	{
+      "description": "Binion's has been making Las Vegas history since 1951 when Texas gambler, Benny Binion, bought the property at 128 Fremont Street. Benny was passionate about giving players excitement, good odds and friendly service, or as he would say - Good Food. Good Whiskey. Good Gamble. When Benny introduced the Horseshoe Club to the Glitter Gulch of downtown Las Vegas, a legacy was born. The Horseshoe Club became the first real gambling hall and saloon in Las Vegas and was soon recognized as the place to go for high roller action and generous comps for all players. While the nostalgic personality of the Horseshoe Club remained the same throughout the years, the property grew in both size and scope when in 1960, Benny purchased the neighboring Boulder Club. In 1988, Benny's sons purchased The Mint Hotel to double the size of the property that today, covers an entire block of Fremont Street as Binion's Gambling Hall & Hotel. Though downtown Las Vegas has evolved since the days of Benny Binion, Benny's enthusiasm still remains at the historic casino and has been picked up by the current owner, TLC Casino Enterprises, that purchased the property in March 2008. In keeping with the storied tradition of the Binion's legacy, the beloved $1 Million Dollar Display is back in a pyramid design of acrylic boxes set up on a poker table. Binion's Gambling Hall & Hotel is continuing to making things great for you!",
+      "meta": {
+        "refs": [
+          "http://www.binions.com/"
+        ]
+      },
+      "uuid": "e47337d6-6313-11ea-bc55-0242ac130003",
+      "value": "Binion's Casino"
+    },
+	{
+      "description": "TLC Casino Enterprises, Inc. is a holding company owned and controlled by Terry L. Caudill which through its subsidiaries, owns and operates casinos. TLC Casinos, Inc. was founded in 2002 and is based in Downtown Las Vegas, Nevada. In addition to Magoo's Gaming Group, Caudill owns 3 casinos - Four Queens, Binion's Gambling Hall and Hotel, and Skinny Dugans Casino & Lounge. In 2009, a landlord filed a lawsuit against TLC Casino Enterprises, seeking back rent and the appointment of a receiver to take over the historic gambling hall after TLC requested rent be lowered due to the recession. TLC currently manages and operates the Hotel Apache which reopened after extensive renovation. According to Tim Lager, general manager of Binion, he wanted to recreate what this hotel was when it opened as what was then a megaresort back in 1932.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/TLC_Casino_Enterprises"
+        ]
+      },
+      "uuid": "e4733bd2-6313-11ea-bc55-0242ac130003",
+      "value": "TLC Casino Enterprises, Inc."
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [
@@ -87,5 +117,5 @@
       "value": "The Shubert Organization"
     }
 	  ],
-	"version": 8
+	"version": 9
 }

@@ -3437,6 +3437,193 @@
       "value": "OSRS OSINT Author Index: netbiosX"
     },
 	{
+      "description": "Regional reporter for East Anglia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://pa.media/",
+		  "https://twitter.com/samrussellpa?lang=en"
+        ],
+        "synonyms": [
+        "@SamRussellPA"
+        ]
+      },
+      "uuid": "9584cdf6-632c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sam Russell, PA"
+    },
+	{
+      "description": "Reporter & Peterborough correspondent. Affiliated with Cambrishire Live.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/leishman_fiona?lang=en",
+		  "https://www.cambridge-news.co.uk/authors/fiona-leishman/"
+        ],
+        "synonyms": [
+        "@leishman_fiona"
+        ]
+      },
+      "uuid": "9584d0d0-632c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Fiona Leishman"
+    },
+	{
+      "description": "Deputy Political Editor — Radio New Zealand",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://muckrack.com/craig-mcculloch",
+		  "https://twitter.com/craigmcculloch?lang=en"
+        ],
+        "synonyms": [
+        "@craigmcculloch"
+        ]
+      },
+      "uuid": "9584d1f2-632c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Craig McCulloch"
+    },
+	{
+      "description": "Reporter covering the city of Spartanburg for GoUpstate.com.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/hjdustin_wyatt?lang=en"
+        ],
+        "synonyms": [
+        "@HJDustin_Wyatt"
+        ]
+      },
+      "uuid": "95865a2c-632c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Dustin Wyatt"
+    },
+	{
+      "description": "Adam Leposa is the online managing editor of Travel Agent Central, which is owned by Questex. He joined the company in 2011, and he was promoted to his current role in 2015. In addition to managing Travel Agent Central, he covers Mexico, Central and South America for Travel Agent Central, Luxury Travel Advisor and Travel Agent magazine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adamleposa/",
+		  "https://www.facebook.com/adam.leposa"
+        ]
+      },
+      "uuid": "95865be4-632c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Adam Leposa"
+    },
+	{
+      "description": "Reporter for Computer Business Review online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://pentestlab.blog/author/worm1984/"
+        ],
+        "synonyms": [
+        "@ClaudiaGlover6"
+        ]
+      },
+      "uuid": "fd0b2a40-632e-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Claudia Glover"
+    },
+	{
+      "description": "Reporter for MITS Izvestia LLC (iz.ru)",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://iz.ru/author/natalia-ilina"
+        ]
+      },
+      "uuid": "fd0b2c70-632e-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Natalya Ilyina"
+    },
+	{
+      "description": "Assistant news editor at Metro.co.uk. Before that Express.co.uk and Africa.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/wanderinwharton?lang=en"
+        ],
+        "synonyms": [
+        "@WanderinWharton"
+        ]
+      },
+      "uuid": "fd0b2d7e-632e-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jane Wharton"
+    },
+	{
+      "description": "Cyber Threat Researcher affiliated with the cybersecurity company Trend Micro. Prague, The Capital, Czech Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vitsembera/"
+        ]
+      },
+      "uuid": "fd0b2e6e-632e-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Vit Sembera"
+    },
+	{
+      "description": "Generic author name used on the online news site Vancouversun.com.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://vancouversun.com/news/local-news/sfu-urges-password-changes-after-ransomware-attack-breaches-personal-info"
+        ]
+      },
+      "uuid": "fd0b2f4a-632e-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Postmedia News"
+    },
+	{
+      "description": "Senior reporter and editor at TechCrunch.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://fortune.com/author/kirsten-korosec/",
+		  "https://www.linkedin.com/in/kirstenkorosec/",
+		  "https://twitter.com/kirstenkorosec"
+        ],
+        "synonyms": [
+        "@kirstenkorosec"
+        ]
+      },
+      "uuid": "ce8b9144-6330-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Kirsten Korosec"
+    },
+	{
+      "description": "Courts Reporter — Tacoma News Tribune",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://muckrack.com/amkrell",
+		  "https://twitter.com/amkrell?lang=en"
+        ],
+        "synonyms": [
+        "@amkrell"
+        ]
+      },
+      "uuid": "ce8b95f4-6330-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alexis Krell"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -3454,5 +3641,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

@@ -15,7 +15,38 @@
       },
       "uuid": "c55c7c92-4904-11e9-8646-d663bd873d93",
       "value": "Test Water Transportation Value"
+    },
+	{
+      "description": "Princess Cruises is a cruise line owned by Carnival Corporation & plc. The company is incorporated in Bermuda and its headquarters are in Santa Clarita, California. As of 2018, it is the second largest cruise line by net revenue. It was previously a subsidiary of P&O Princess Cruises, and is currently under Holland America Group within Carnival Corporation & plc, which holds executive control over the Princess Cruises brand. The line has 18 ships cruising global itineraries that are marketed to both American and international passengers. The company was made famous by the American television series The Love Boat, in which its ship Pacific Princess was featured. In May 2013, Royal Princess, the first Royal-class ship and the largest ship constructed for Princess at the time, became the flagship of Princess Cruises.",
+      "meta": {
+        "refs": [
+          "https://www.princess.com/",
+		  "https://en.wikipedia.org/wiki/Princess_Cruises"
+        ]
+      },
+      "uuid": "ceb91cdc-6316-11ea-bc55-0242ac130003",
+      "value": "Princess Cruises"
+    },
+	{
+      "description": "For 145 years, Holland America Line has been a recognized leader in cruising. If you are looking for some of the most spacious and comfortable ships at sea, award-winning service, exquisite dining, extensive activities and enrichment programs and compelling worldwide itineraries, you've come to the right place. Our fleet of 14 modern classic ships offers more than 500 sailings a year visiting all seven continents. Cruises include both popular and less-traveled ports in the Caribbean, Alaska, Europe, Mexico, South America, the Panama Canal, Australia, New Zealand and Asia — as well as unique voyages to the Amazon, Antarctica and our extended Grand Voyages. Holland America Line is proud of its environmental program. The company earned its initial ISO 14001 certification in June 2006. As the internationally recognized standard for environmental management, ISO 14001 encompasses virtually every aspect of our ships' operations. Holland America Line has been recertified to meet that standard again and again — demonstrating our belief that the safeguarding of our guests, crews, ships and the environment in which we live and operate is not only the right thing to do, it is essential to the successful conduct of our business.",
+      "meta": {
+        "refs": [
+          "https://www.hollandamerica.com/en_US.html"
+        ]
+      },
+      "uuid": "ceb9209c-6316-11ea-bc55-0242ac130003",
+      "value": "Holland America Line"
+    },
+	{
+      "description": "Carnival Corporation & plc, the world’s largest leisure travel company, provides travelers around the globe with extraordinary vacations at an exceptional value. The company’s portfolio of global cruise line brands includes Carnival Cruise Line, Holland America Line, Princess Cruises and Seabourn in North America; P&O Cruises (UK) and Cunard in Southampton, England; AIDA Cruises in Rostock, Germany; Costa Cruises in Genoa, Italy; and P&O Cruises (Australia) in Sydney. Additionally, Carnival Corporation owns a tour company that complements its cruise operations -  Holland America Princess Alaska Tours which operates in Alaska and the Yukon.",
+      "meta": {
+        "refs": [
+          "https://www.carnivalcorp.com/"
+        ]
+      },
+      "uuid": "ceb921b4-6316-11ea-bc55-0242ac130003",
+      "value": "Carnival Corporation & plc"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
