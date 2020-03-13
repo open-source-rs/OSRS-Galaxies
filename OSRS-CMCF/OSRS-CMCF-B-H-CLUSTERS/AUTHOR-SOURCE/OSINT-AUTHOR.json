@@ -3624,6 +3624,40 @@
       "value": "OSRS OSINT Author Index: Alexis Krell"
     },
 	{
+      "description": "Bill Zeeble has been a full-time reporter at KERA since 1992, covering everything from medicine to the Mavericks and education to environmental issues. He’s won numerous awards over the years, with top honors from the Dallas Press Club, Texas Medical Association, the Dallas and Texas Bar Associations, the American Diabetes Association and a national health reporting grant from the Kaiser Family Foundation. Zeeble was born in Philadelphia, Pa. and grew up in the nearby suburb of Cherry Hill, NJ, where he became an accomplished timpanist and drummer. Heading to college near Chicago on a scholarship, he fell in love with public radio, working at the college classical/NPR station, and he has pursued public radio ever since.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.phillyvoice.com/staff-contributors/adam-hermann/",
+		  "https://twitter.com/bzeeble?lang=en"
+        ],
+        "synonyms": [
+        "@bzeeble"
+        ]
+      },
+      "uuid": "f120c5fa-6527-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Bill Zeeble"
+    },
+	{
+      "description": "Senior Security Researcher at Trustwave. Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/rodelm/?originalSubdomain=nz",
+		  "https://twitter.com/drole?lang=en"
+        ],
+        "synonyms": [
+        "@drole"
+        ]
+      },
+      "uuid": "f120c8d4-6527-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Rodel Mendrez"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -3641,5 +3675,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

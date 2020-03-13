@@ -1253,6 +1253,32 @@
       "value": "OSRS Actors AND Campaigns: xHunt Campaign"
     },
 	{
+      "description": "The HeartBeat campaign is an isolated APT case that targets organizations within South Korea only. Based on research, the campaign started by at least November 2009. They target organizations that are directly or in some ways related to the South Korean government. Specifically, the HeartBeat campaign targets the following sectors - political parties, media outfits a national policy research institute, a military branch of South Korean armed forces, a small business sector organization, and branches of South Korean government. Based on their targets, it is believed that the campaign may be politically motivated. In order to gain access over their targets network, they use a custom remote access tool (RAT). Variants of their RAT contains an embedded campaign code that mostly contains strings that describes their respective decoy documents and a campaign date in MMDD format. Additionally, the attackers behind HeartBeat campaign made sure that their operation as well as their identity remain concealed. For instance, they used legitimate looking file name and registry names for their RAT. They also used XOR encryption for their network communications. To hide their identities, on the other hand, they used a site redirection service that redirects to compromised hosts from different countries. These compromised hosts acts as a proxy server that hides the real location of their C&C servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/pulsing-the-heartbeat-apt/"
+        ]
+      },
+      "uuid": "91f4ad84-6523-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Heartbeat Campaign"
+    },
+	{
+      "description": "The Operation Bitter Biscuit campaign is an isolated APT case that targets organizations within South Korea only. Based on research, the campaign started by at least November 2009. They target organizations that are directly or in some ways related to the South Korean government. Specifically, the Operation Bitter Biscuit campaign targets the following sectors - political parties, media outfits a national policy research institute, a military branch of South Korean armed forces, a small business sector organization, and branches of South Korean government. Based on their targets, it is believed that the campaign may be politically motivated. In order to gain access over their targets network, they use a custom remote access tool (RAT). Variants of their RAT contains an embedded campaign code that mostly contains strings that describes their respective decoy documents and a campaign date in MMDD format. Additionally, the attackers behind Operation Bitter Biscuit campaign made sure that their operation as well as their identity remain concealed. For instance, they used legitimate looking file name and registry names for their RAT. They also used XOR encryption for their network communications. To hide their identities, on the other hand, they used a site redirection service that redirects to compromised hosts from different countries. These compromised hosts acts as a proxy server that hides the real location of their C&C servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://image.ahnlab.com/file_upload/asecissue_files/ASEC_REPORT_vol.88.pdf"
+        ]
+      },
+      "uuid": "91f4afb4-6523-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation Bitter Biscuit"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1269,5 +1295,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

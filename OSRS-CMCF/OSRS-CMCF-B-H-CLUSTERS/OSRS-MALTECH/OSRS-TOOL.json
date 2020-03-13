@@ -3711,6 +3711,73 @@
       "value": "OSRS Tool: xfs-disp.exe"
     },
 	{
+      "description": "Attack tool used by the threat actor APT-C-39.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "http://blogs.360.cn/post/APT-C-39_CIA_EN.html"
+        ]
+      },
+      "uuid": "b89ed85c-652c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Grasshopper"
+    },
+	{
+      "description": "Attack tool used by the threat actor APT-C-39.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "http://blogs.360.cn/post/APT-C-39_CIA_EN.html"
+        ]
+      },
+      "uuid": "b89eda82-652c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: WISTFULTOLL (attack plugin)"
+    },
+	{
+      "description": "GuLoader downloader is a portable executable (PE) file that is often observed embedded in a container file such as an .iso or .rar file. We have also observed it being downloaded directly from various cloud hosting platforms. GuLoader is used predominantly to download remote access Trojans (RATs) and information stealers such as Agent Tesla (Origin Logger), FormBook, NanoCore RAT, Netwire RAT, Remcos RAT, Ave Maria (Warzone) RAT and Parallax RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/guloader-popular-new-vb6-downloader-abuses-cloud-services"
+        ]
+      },
+      "uuid": "b89edc8a-652c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: GuLoader"
+    },
+	{
+      "description": "Since early December 2019, the Parallax RAT has been sold on hacker forums where the developers are promoting the software and offering support. In their pitch to would-be buyers, the Parallax Team is promoting their product as having 99% reliability and being suitable for both professionals and beginners. Attackers can purchase a one month license to the RAT for as little as $65 or $175 for a three-month license, which provides the following advertised features - login credential theft, remote Desktop capabilities, upload and download files, execute remote commands on the infected computer, encrypted connections, supports Windows XP through Windows 10, and standard support. While each buyer of the Parallax RAT determines how they will distribute the malware, researchers are commonly seeing it being distributed through spam with malicious attachments. When the attachment is opened, an attempt to exploit the Microsoft Office Equation Editor vulnerability (CVE-2017-11882) will be launched and if the content is enabled, malicious macros will execute to install the RAT. Once Parallax is installed, a shortcut to the launcher will be added to the Windows Startup folder so that it is launched automatically when a user logs into the system. In some cases, scheduled tasks will also be created to launch the malware at various intervals.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/guloader-popular-new-vb6-downloader-abuses-cloud-services",
+		  "https://www.bleepingcomputer.com/news/security/parallax-rat-common-malware-payload-after-hacker-forums-promotion/"
+        ]
+      },
+      "uuid": "b89edd70-652c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Parallax RAT"
+    },
+	{
+      "description": "Attributed to the Molerats threat actor group. JhoneRAT is dropped to the victims via malicious Microsoft Office documents. The dropper, along with the Python RAT, attempts to gather information on the victim's machine and then uses multiple cloud services - Google Drive, Twitter, ImgBB and Google Forms. The RAT attempts to download additional payloads and upload the information gathered during the reconnaissance phase. This particular RAT attempts to target a very specific set of Arabic-speaking countries. The filtering is performed by checking the keyboard layout of the infected systems. Based on the analysed sample, JhoneRAT targets Saudi Arabia, Iraq, Egypt, Libya, Algeria, Morocco, Tunisia, Oman, Yemen, Syria, UAE, Kuwait, Bahrain and Lebanon.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/",
+		  "https://blog.talosintelligence.com/2020/01/jhonerat.html"
+        ]
+      },
+      "uuid": "b89ede38-652c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: JhoneRAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -3724,5 +3791,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
