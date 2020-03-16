@@ -1535,6 +1535,21 @@
       "value": "OSRS OSINT Source: Kera News"
     },
 	{
+      "description": "Cybersecurity blog affiliated with the cybersecurity company Lastline.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.lastline.com/labs/blog/"
+        ]
+      },
+      "uuid": "f4477df4-67b7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Lastline Labs Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
