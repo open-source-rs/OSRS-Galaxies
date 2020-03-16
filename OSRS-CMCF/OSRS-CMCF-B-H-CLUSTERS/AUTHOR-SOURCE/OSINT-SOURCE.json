@@ -1550,6 +1550,21 @@
       "value": "OSRS OSINT Source: Lastline Labs Blog"
     },
 	{
+      "description": "New Zealand Media and Entertainment (NZME) is a result of bringing together three New Zealand media brands, APN NZ, The Radio Network (TRN) and GrabOne and unifying them under one overarching banner. The result is an organisation with a portfolio of radio, digital, e-commerce and print brands producing fantastic content, targeting New Zealand audiences. NZME is all about audiences: New Zealand audiences who want perspective on what’s going on in the world, and a window on what’s coming next. NZME is a leading New Zealand media and entertainment business that reaches 3.2 million kiwis. Whether reading, listening, watching, our audience gets the content they want - where and when they want across digital, print, radio and on-demand video platforms. Prime among these are iconic Kiwi brands such as The New Zealand Herald, Newstalk ZB, The Hits, ZM, WatchMe, and our e-commerce platform GrabOne. In all, we have a network of over 80 media brands, fronted by homegrown talent, that reach audiences the length and breadth of the country.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://github.com/open-source-rs/Comprehensive-Modular-Cybersecurity-Framework-CMCF",
+          "https://en.wikipedia.org/wiki/Open-source_intelligence",
+          "https://www.nzherald.co.nz/"
+        ]
+      },
+      "uuid": "230b9fbe-67d9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: NZ Hearld"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
