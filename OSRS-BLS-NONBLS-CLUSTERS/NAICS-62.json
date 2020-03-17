@@ -1096,6 +1096,36 @@
 			"value": "The Cancer Center of Hawaii"
 		},
 		{
+			"description": "Affordacare is a new approach to health care. Like our name suggests, we provide cutting- edge medical care to you and your family at an affordable price. Instead of making an expensive trip to the ER, visit one of our six locations to get medical treatment, testing, or physicals. Walk-ins are welcome at all Affordacare locations, but you can reserve an appointment online for even faster service. Our Practitioners can provide patients with referrals to primary care physicians, physical therapists, chiropractors, surgeons, and many other specialists to make sure you get the care you need. In addition to high quality medical care, Affordacare offers full on-site x-ray service to assist in the diagnosis of your problem. Each image is carefully examined by a board certified radiologist. Full laboratory services are also available.",
+			"meta": {
+				"refs": [
+					"https://affordacare.com/"
+				]
+			},
+			"uuid": "2261331e-686d-11ea-bc55-0242ac130003",
+			"value": "AffordaCare Urgent Care Clinic"
+		},
+		{
+			"description": "Advanced Urgent Care (AUC) is Key West and Key Largo’s premiere, state-of-the-art urgent care facilities. Established in 2013 by Dr. Bruce Boros, AUC offers a wide variety of treatments for most common medical emergencies and symptoms.",
+			"meta": {
+				"refs": [
+					"http://www.urgentcarefloridakeys.com/"
+				]
+			},
+			"uuid": "2261354e-686d-11ea-bc55-0242ac130003",
+			"value": "Advanced Urgent Care of the Florida Keys"
+		},
+		{
+			"description": "Our mission is to provide the most advanced care and treatment for all eye conditions and diseases. Through the use of our state of the art technology, you will receive the most thorough ocular examination available. We have hundreds of frame styles choose from… rimless, titanium, safety, and sunglasses. Also, our contact lens patients have the benefit of the most current choices, including extended-wear lenses, toric lenses for astigmatism, contacts that eliminate the need for reading glasses, and special contacts for dry eyes. The advanced equipment and instruments we use allow for the detection of glaucoma, cataracts, macular degeneration, and diabetic eye disease, just to name a few.",
+			"meta": {
+				"refs": [
+					"http://www.randlemaneyecenter.com/"
+				]
+			},
+			"uuid": "2261368e-686d-11ea-bc55-0242ac130003",
+			"value": "Randleman Eye Center, NC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1106,5 +1136,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 37
+	"version": 39
 }

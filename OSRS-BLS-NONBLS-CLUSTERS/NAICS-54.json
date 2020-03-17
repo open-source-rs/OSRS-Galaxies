@@ -1578,6 +1578,37 @@
 			"value": "Epiq Global"
 		},
 		{
+			"description": "Antheus Tecnologia Ltda was founded in April 1996 with the objective of developing and placing Brazilian technology on the market in the area of ​​AFIS Systems (Automated Fingerprint Identification Systems). The technological core was obtained from the results of master's theses developed within the Post-Graduate Course in Electrical Engineering and Industrial Informatics at UTFPR - Federal Technological University of Parana.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/antheus-tecnologia-ltda./about/"
+				]
+			},
+			"uuid": "1e906dee-686e-11ea-bc55-0242ac130003",
+			"value": "Antheus Tecnologia Ltda."
+		},
+		{
+			"description": "Northeast Radiology is the regional leader in high quality, high value outpatient medical imaging. With offices in NY and CT, we offer the full range of diagnostic imaging services including MRI, CT, PET(CT), Mammography, Ultrasound, X-Ray, Biopsies & more.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/pg/northeastradiology/about/?ref=page_internal"
+				]
+			},
+			"uuid": "1e90705a-686e-11ea-bc55-0242ac130003",
+			"value": "Northeast Radiology"
+		},
+		{
+			"description": "WhisperText LLC develops mobile applications. The Company develops and manages applications that allows users to share their secrets and meet new people. WhisperText operates in California, USA.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/0861925D:US",
+					"https://en.wikipedia.org/wiki/Whisper_(app)"
+				]
+			},
+			"uuid": "1e90715e-686e-11ea-bc55-0242ac130003",
+			"value": "WhisperText LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1588,5 +1619,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 45
+	"version": 46
 }

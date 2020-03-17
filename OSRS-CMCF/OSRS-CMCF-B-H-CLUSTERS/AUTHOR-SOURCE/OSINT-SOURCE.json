@@ -1565,6 +1565,97 @@
       "value": "OSRS OSINT Source: NZ Hearld"
     },
 	{
+      "description": "Insurance Business Canada is for today’s sophisticated insurance brokers and advice professionals. It focuses on providing practical and accessible advice tailored to the needs of Canada’s insurance professional. The insurance industry is constantly changing due to regulation and significant macro events and it’s important that professionals are kept up to speed with industry developments and the latest business techniques to handle these changes.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.insurancebusinessmag.com/ca/"
+        ]
+      },
+      "uuid": "e3c407d4-6872-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Insurance Business Canada"
+    },
+	{
+      "description": "The Washington Post is a major American daily newspaper published in Washington, D.C. Daily broadsheet editions are printed for the District of Columbia, Maryland, and Virginia. The newspaper has won 47 Pulitzer Prizes.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.washingtonpost.com/"
+        ]
+      },
+      "uuid": "e3c40a0e-6872-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: The Washington Post"
+    },
+	{
+      "description": "Online cybersecurity blog affiliated with the cybersecurity vendor Reason Security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.reasonsecurity.com/"
+        ]
+      },
+      "uuid": "e3c40b26-6872-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Reason Blog"
+    },
+	{
+      "description": "Packet Storm Security is a popular information security website offering current and historical computer security tools, exploits, and security advisories. It is operated by a group of security enthusiasts that publish new security information and offer tools for educational and testing purposes.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://packetstormsecurity.com/"
+        ]
+      },
+      "uuid": "e3c40bf8-6872-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Packet Storm"
+    },
+	{
+      "description": "The editors at HealthITSecurity, part of the Xtelligent Healthcare Media network, connect with security and privacy experts across the continuum of care to help readers address potential threats and adopt best practices for health data security and privacy.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://healthitsecurity.com/"
+        ]
+      },
+      "uuid": "e3c40ce8-6872-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Health IT Security"
+    },
+	{
+      "description": "Cybersecurity blog affiliated with the cybersecurity vendor DomainTools.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.domaintools.com/resources/blog"
+        ]
+      },
+      "uuid": "c2f1d0ee-6873-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: DomainTools Research"
+    },
+	{
+      "description": "he Daily Swig – Keeping you up to date with the latest cybersecurity news from around the world. Brought to you by PortSwigger Web Security, we cover the latest cyber-attacks and data breaches, security vulnerabilities and exploits, cybersecurity policy and legislation, and other industry news and events.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://portswigger.net/daily-swig"
+        ]
+      },
+      "uuid": "c2f1d2a6-6873-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: The Daily Swig"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1580,5 +1671,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

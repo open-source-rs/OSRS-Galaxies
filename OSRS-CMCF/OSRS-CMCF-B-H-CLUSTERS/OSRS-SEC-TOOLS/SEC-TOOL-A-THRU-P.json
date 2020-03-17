@@ -992,6 +992,32 @@
       "value": "OSRS SecTool: MPRESS packer"
     },
 	{
+      "description": "Crescendo is a real time event viewer for macOS that uses the ESF to show process executions and forks, file events, share mounting events, kernel extension loads, and IPC event data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/03/crescendo-real-time-event-viewer-for-macos.html"
+        ]
+      },
+      "uuid": "2f79062c-6876-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: Crescendo"
+    },
+	{
+      "description": "Koadic, or COM Command & Control, is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire. The major difference is that Koadic does most of its operations using Windows Script Host (a.k.a. JScript or VBScript), with compatibility in the core to support a default installation of Windows 2000 with no service packs (and potentially even versions of NT4) all the way through Windows 10.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/zerosum0x0/koadic"
+        ]
+      },
+      "uuid": "2f790834-6876-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: Kodiak Post-Exploitation Rootkit"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1006,5 +1032,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

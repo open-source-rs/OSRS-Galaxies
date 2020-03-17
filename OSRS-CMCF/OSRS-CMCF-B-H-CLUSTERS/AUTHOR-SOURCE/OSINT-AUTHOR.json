@@ -3671,6 +3671,163 @@
       "value": "OSRS OSINT Author Index: James Haughom"
     },
 	{
+      "description": "Lyle Adriano is currently a journalist at Insurance Business. His news articles and features have been published on websites across North America. Lyle’s specialty areas include insurance regulation, cybersecurity, and insurance fraud.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.insurancebusinessmag.com/us/authors/lyle-adriano-22512/",
+		  "https://www.linkedin.com/in/lyle-a-07035851/?originalSubdomain=ph"
+        ]
+      },
+      "uuid": "d615bce8-686f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lyle Adriano"
+    },
+	{
+      "description": "UK Editor-in-Chief ZDNet, TechRepublic. London, Greater London, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/steve-ranger-3970687/",
+		  "https://twitter.com/steveranger",
+		  "https://www.zdnet.com/meet-the-team/uk/steve-ranger/"
+        ],
+        "synonyms": [
+        "@steveranger"
+        ]
+      },
+      "uuid": "d615bef0-686f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Steve Ranger"
+    },
+	{
+      "description": "VP, Security Strategy and Principal researcher, Nocturnus group at Cybereason.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/aserper/"
+        ]
+      },
+      "uuid": "d615c04e-686f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Amit Serper"
+    },
+	{
+      "description": "Sean Gallagher is a Senior Threat Researcher at Sophos. Previously, Gallagher was IT and National Security Editor at Ars Technica, where he focused on information security and digital privacy issues, cybercrime, cyber espionage and cyber warfare. He has been a security researcher, technology journalist and information technology practitioner for over 20 years.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/author/sean-gallagher/"
+        ]
+      },
+      "uuid": "d615c120-686f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sean Gallagher"
+    },
+	{
+      "description": "Sr. Director, Threat Research and Detection at Proofpoint. Atlanta, Georgia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/james-haughom-jr-248748129/"
+        ],
+        "synonyms": [
+        "@sherrod_im"
+        ]
+      },
+      "uuid": "d615c364-686f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sherrod Degrippo"
+    },
+	{
+      "description": "Reporter at The Washington Post. Washington, District Of Columbia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/drewharwell/",
+		  "https://twitter.com/drewharwell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "http://drewharwell.com/",
+		  "drew.harwell@protonmail.com"
+        ],
+        "synonyms": [
+        "@drewharwell"
+        ]
+      },
+      "uuid": "22635172-6871-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Drew Harwell"
+    },
+	{
+      "description": "X-Force IRIS Cyber Threat Researcher at IBM. Austin, Texas.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/megan-roddie/",
+		  "https://about.meganroddie.com/",
+		  "https://twitter.com/megan_roddie",
+		  "https://github.com/megan201296/"
+        ],
+        "synonyms": [
+        "@megan_roddie",
+		"megan201296"
+        ]
+      },
+      "uuid": "226353f2-6871-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Megan Roddie"
+    },
+	{
+      "description": "Senior Editor, HealthITSecurity.com at Xtelligent Media. Portland, Maine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jessica-davis-b576a1126/"
+        ]
+      },
+      "uuid": "2263555a-6871-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jessica Davis"
+    },
+	{
+      "description": "Tarik Saleh is the Senior Security Engineer  and Malware Researcher at DomainTools. He has been a technology hobbyist since he got his first computer at age 10 and has over 7 years experience in Information Security in various blue-team roles such as leading a Threat Hunting team, Incident Response and Security Operations. Tarik has worked in the Security space for enterprise companies such as Amazon and Expedia. Security is more of a passion than a 9-5 job for Tarik. Outside of work, you’ll see Tarik and his dog Roland out enjoying the beautiful Pacific Northwest.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.domaintools.com/authors/tarik-saleh",
+		  "https://www.linkedin.com/in/tarik-saleh-60912417/"
+        ]
+      },
+      "uuid": "226357c6-6871-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Tarik Saleh"
+    },
+	{
+      "description": "Journalist at The Daily Swig. Manchester, Greater Manchester, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adambannister/",
+		  "https://twitter.com/ad_nauseum74"
+        ],
+        "synonyms": [
+        "@Ad_Nauseum74"
+        ]
+      },
+      "uuid": "226359ba-6871-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Adam Bannister"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

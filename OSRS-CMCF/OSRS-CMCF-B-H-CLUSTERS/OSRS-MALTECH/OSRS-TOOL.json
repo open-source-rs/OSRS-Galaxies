@@ -3778,6 +3778,45 @@
       "value": "OSRS Tool: JhoneRAT"
     },
 	{
+      "description": "Cinobi has two versions — the first one has a DLL library injection payload that compromises victims’ web browsers to perform form-grabbing. This Cinobi version can also modify web traffic sent to and received from targeted websites. Investigation found that all the websites targeted were those of Japan-based banks. Aside from form-grabbing, it also has a webinject function that allows cybercriminals to modify accessed webpages. The second version has all the capabilities of the first one plus the ability to communicate with a command-and-control (C&C) server over the Tor proxy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-overtrap-targets-japanese-online-banking-users-via-bottle-exploit-kit-and-brand-new-cinobi-banking-trojan/"
+        ]
+      },
+      "uuid": "ed78333c-6876-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Cinobi"
+    },
+	{
+      "description": "It exploits CVE-2018-15982, a Flash Player use after free vulnerability, as well as CVE-2018-8174, a VBScript remote code execution vulnerability. Victims will be infected with BottleEK’s payload if they access this particular exploit kit’s landing page with unpatched or outdated browsers. Telemetry shows that BottleEK was the most active exploit kit detected in Japan in February 2020.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-overtrap-targets-japanese-online-banking-users-via-bottle-exploit-kit-and-brand-new-cinobi-banking-trojan/"
+        ]
+      },
+      "uuid": "ed783576-6876-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Bottle Exploit Kit"
+    },
+	{
+      "description": "Its main task is to acquire root rights on the victim device, and transfer cookies used by the browser and Facebook app to the cybercriminals’ server. This abuse technique is possible not because of a vulnerability in Facebook app or browser itself. Malware could steal cookie files of any website from other apps in the same way and achieve similar results.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/cookiethief/96332/"
+        ]
+      },
+      "uuid": "ed78368e-6876-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Cookiethief"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -3791,5 +3830,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

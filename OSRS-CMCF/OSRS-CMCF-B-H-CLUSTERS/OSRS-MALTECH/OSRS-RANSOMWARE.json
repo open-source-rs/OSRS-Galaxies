@@ -530,6 +530,64 @@
       "value": "OSRS Ransomware: PwndLocker Ransomware"
     },
 	{
+      "description": "The name PXJ is derived from the file extension that is appended to encrypted files, whereas the alternative name, XVFXGW, is based off both the mutex the malware creates. This code has emerged in the wild in early 2020, and while it performs functions common to most ransomware, it does not appear to share underlying code with known ransomware families. Of the two samples we have analyzed so far, one was packed using UPX, an open-source executable packer, while the other did not leverage any packing. PXJ begins by disabling the user’s ability to recover any files from deleted stores and shadow copies. To prevent potential recovery by breaking the encryption, PXJ uses both AES and RSA algorithms to lock data down. With encryption complete, the ransom note is dropped as a file named LOOK.txt and requests that the user contact the operator via email to pay the ransom in exchange for the decryption key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/pxj-ransomware-campaign-identified-by-x-force-iris/"
+        ],
+        "synonyms": [
+        "XVFXGW Ransomware"
+        ]
+      },
+      "uuid": "573156ee-6874-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: PXJ Ransomware"
+    },
+	{
+      "description": "Ransomware called CoronaVirus has been distributed through a fake web site pretending to promote the system optimization software and utilities from WiseCleaner. With the increasing fears and anxiety of the Coronavirus (COVID-19) outbreak, an attacker has started to build a campaign to distribute a malware cocktail consisting of the CoronaVirus Ransomware and the Kpot information-stealing Trojan. To distribute the malware, the attackers have created a web site that impersonates the legitimate Windows system utility site WiseCleaner.com. Files that are encrypted will be renamed so that it continues to use the same extension, but the file name will be changed to the attacker's email address.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-coronavirus-ransomware-acts-as-cover-for-kpot-infostealer/"
+        ]
+      },
+      "uuid": "57315928-6874-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: CoronaVirus Ransomware"
+    },
+	{
+      "description": "In August 2019 a new ransomware was spotted in ID Ransomware that was named Mailto based on the extension that was appended to encrypted files. The executable attempts to impersonate the Sticky Password software. When executed, the ransomware uses an embedded config that includes the ransom note template, ransom note file names, length of id/extension, whitelisted files, folders, and extensions, and various other configuration options. When encrypting files, the Mailto ransomware will append an extension using the format .mailto.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/mailto-netwalker-ransomware-targets-enterprise-networks/"
+        ],
+        "synonyms": [
+        "Mailto Ransomware"
+        ]
+      },
+      "uuid": "57315a4a-6874-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: NetWalker Ransomware"
+    },
+	{
+      "description": "CovidLock is a new Android ransomware that conducts a lock-screen attack against its victims. As a bit of background, Android applications are generally written in Java. The Java class bytecode is converted to dex bytecode using a Dex compiler. From there, the dex bytecode is ingested and executed in the Android Runtime (ART). Android applications can listen for the BOOT_COMPLETED broadcast to ensure the application will be activated upon device start up, and this is how CovidLock achieves its persistence mechanism.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.domaintools.com/resources/blog/covidlock-update-coronavirus-ransomware"
+        ]
+      },
+      "uuid": "57315be4-6874-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: CovidLock Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -543,5 +601,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 1
+	"version": 3
 }

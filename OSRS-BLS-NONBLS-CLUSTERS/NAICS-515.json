@@ -66,6 +66,16 @@
 			"value": "La Cadena SER"
 		},
 		{
+			"description": "Entercom Communications Corporation is a publicly traded American broadcasting company and radio network based in Philadelphia, Pennsylvania. Founded in 1968, it is the second largest radio company in the United States, owning 235 radio stations across 48 media markets.",
+			"meta": {
+				"refs": [
+					"https://entercom.com/"
+				]
+			},
+			"uuid": "a940dd04-686c-11ea-bc55-0242ac130003",
+			"value": "Entercom Communications Corporation"
+		},
+		{
 			"description": "Discovery Channel is an American pay television television network and flagship channel owned by Discovery, Inc., a publicly traded company run by CEO David Zaslav.",
 			"meta": {
 				"refs": [
@@ -76,5 +86,5 @@
 			"value": "Discovery Channel"
 		}
 	],
-	"version": 6
+	"version": 7
 }
