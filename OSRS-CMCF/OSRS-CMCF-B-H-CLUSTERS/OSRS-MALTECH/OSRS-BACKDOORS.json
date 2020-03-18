@@ -638,6 +638,45 @@
       "value": "OSRS Backdoor: Bood Backdoor"
     },
 	{
+      "description": "Attributed to the threat actor Turla. Prior to the end of August 2019, the victim would receive a RAR-SFX archive containing a legitimate Adobe Flash v14 installer and a second RAR-SFX archive. The latter contains the various components of a backdoor known as Skipper that has been previously attributed to Turla. It was documented in 2017 by researchers from Bitdefender, and a more recent version was documented by Telsy in May 2019. One interesting change is that the Skipper communication module uses the server that hosts this campaign’s remote JavaScripts and malicious binaries for its C&C server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/"
+        ]
+      },
+      "uuid": "ac948e4a-691d-11ea-bc55-0242ac130003",
+      "value": "OSRS Backdoor: Skipper Backdoor"
+    },
+	{
+      "description": "Associated with the threat actor Turla.  This second stage backdoor is a py2exe executable. py2exe is a Python extension to convert a Python script into a standalone Windows executable. To our knowledge, this is the first time the Turla developers have used the Python language in a backdoor. The backdoor communicates with its hardcoded C&C server via HTTP. The C&C URL and other parameters such as the AES key and IV used to encrypt all network communications are specified at the beginning of the script. The main function of the script, sends information about the machine to the C&C server. This is the output of the functions from the commands list. It includes OS-related commands (systeminfo, tasklist) and network-related commands (ipconfig, getmac, arp). The C&C server can also send backdoor commands in JSON format. Additional features include - download additional files from a given HTTP(S) link, execute a Windows command using the Python function subprocess32.Popen, change the execution delay - modifies the Windows task that regularly (every X minutes - 5 by default) launches the malware, and kill (uninstall) the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/"
+        ]
+      },
+      "uuid": "ac94907a-691d-11ea-bc55-0242ac130003",
+      "value": "OSRS Backdoor: PyFlash Backdoor"
+    },
+	{
+      "description": "Backdoor that is associated with the abuse of Cloudflare Workers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/"
+        ]
+      },
+      "uuid": "ac949192-691d-11ea-bc55-0242ac130003",
+      "value": "OSRS Backdoor: BlackWater Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
@@ -651,5 +690,5 @@
       "value": "OSRS Backdoor: Asruex"
     }
 	  ],
-	"version": 2
+	"version": 4
 }

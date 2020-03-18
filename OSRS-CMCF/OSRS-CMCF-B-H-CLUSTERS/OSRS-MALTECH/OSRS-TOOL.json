@@ -3817,6 +3817,32 @@
       "value": "OSRS Tool: Cookiethief"
     },
 	{
+      "description": "Payload dropped as a .NET dropper. Delievered by the Skipper malware family. Associated with the threat actor Turla. NetFlash downloads its second stage malware from a hardcoded URL and establishes persistence for this new backdoor using a Windows scheduled task.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/"
+        ]
+      },
+      "uuid": "2106ff32-6960-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: NetFlash Downloader"
+    },
+	{
+      "description": "MonitorMinor is a piece of monitoring software that could be used for stalking purposes that can do this. By escalating privileges (running the SU utility), it gains full access to data in the following apps - LINE: Free Calls & Messages, Gmail, Zalo – Video Call, Instagram, Facebook, Kik, Hangouts, Viber, Hike News & Content, Skype, Snapchat, JusTalk, and BOTIM. When MonitorMinor acquires root access, it remounts the system partition from read-only to read (or write mode), then copies itself to it, deletes itself from the user partition, and remounts it back to read-only mode. A keylogger function is also implemented in this app through this same API. The app also monitors the clipboard and forwards the contents. The app also allows its owner to - control the device using SMS commands, view real-time video from the device’s cameras, record sound from the device’s microphone, view browsing history in Chrome, view usage statistics for certain apps, view the contents of the device’s internal storage, view the contacts list, and view the system log.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/monitorminor-vicious-stalkerware/95575/"
+        ]
+      },
+      "uuid": "21070158-6960-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: MonitorMinor"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -3830,5 +3856,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

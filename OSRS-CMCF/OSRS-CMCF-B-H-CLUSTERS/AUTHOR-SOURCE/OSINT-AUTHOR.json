@@ -3828,6 +3828,37 @@
       "value": "OSRS OSINT Author Index: Adam Bannister"
     },
 	{
+      "description": "Malware Researcher at ESET. Montreal, Quebec, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/matthieu-faou-3982b5a0/?originalSubdomain=ca",
+		  "https://twitter.com/matthieu_faou"
+        ],
+        "synonyms": [
+        "__mat__",
+		"@matthieu_faou"
+        ]
+      },
+      "uuid": "03574f88-695f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Matthieu Faou"
+    },
+	{
+      "description": "Research Development Team Lead – Kaspersky. Moscow, Russian Federation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/victor-chebyshev-1b48bb8b/"
+        ]
+      },
+      "uuid": "035751a4-695f-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Victor Chebyshev"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -3845,5 +3876,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 4
+	"version": 5
 }
