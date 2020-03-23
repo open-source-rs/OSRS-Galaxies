@@ -3859,6 +3859,177 @@
       "value": "OSRS OSINT Author Index: Victor Chebyshev"
     },
 	{
+      "description": "Editor at Disability News Service. London, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/john-pring-03b58412/?originalSubdomain=uk",
+		  "https://twitter.com/johnpringdns"
+        ],
+        "synonyms": [
+        "@johnpringdns"
+        ]
+      },
+      "uuid": "13757678-6d39-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: John Pring"
+    },
+	{
+      "description": "Writes about China's culture, tech, and business. Editor at pandaily.com. Producer at @techbuzzchina.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/caiweic?lang=en"
+        ],
+        "synonyms": [
+        "@CaiweiC"
+        ]
+      },
+      "uuid": "13757902-6d39-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Caiwei Chen"
+    },
+	{
+      "description": "Security Researcher at Palo Alto Networks. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ken-hsu-63913b61/"
+        ]
+      },
+      "uuid": "13757a06-6d39-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ken Hsu"
+    },
+	{
+      "description": "Senior Security Researcher. Nice Area, France.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ruchna-nigam/?originalSubdomain=fr"
+        ]
+      },
+      "uuid": "13757ae2-6d39-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ruchna Nigam"
+    },
+	{
+      "description": "Security Analyst at IBM. Kassel, Hessen, Germany.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ashkan-vila-238386150/?originalSubdomain=de"
+        ]
+      },
+      "uuid": "13757cfe-6d39-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ashkan Vila"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity research company Netlab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day-en/"
+        ]
+      },
+      "uuid": "baae704c-6d3a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Yanlong Ma"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity research company Netlab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day-en/"
+        ]
+      },
+      "uuid": "baae742a-6d3a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lingming Tu"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity research company Netlab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day-en/"
+        ]
+      },
+      "uuid": "baae7538-6d3a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Genshen Ye"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity research company Netlab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day-en/"
+        ]
+      },
+      "uuid": "baae761e-6d3a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Hongda Liu"
+    },
+	{
+      "description": "Cybersecurity researcher affilaited with the cybersecurity company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/files/News/CaseStudies/study/316/Bitdefender-Whitepaper-TrickBot-en-EN-interactive.pdf"
+        ]
+      },
+      "uuid": "31f23634-6d3b-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Radu Tudorica"
+    },
+	{
+      "description": "Virus analyst affiliated with the cybersecurity vendor Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/amaximciuc?lang=en",
+		  "https://www.linkedin.com/in/alexandru-maximciuc-522136a/"
+        ],
+        "synonyms": [
+        "@amaximciuc"
+        ]
+      },
+      "uuid": "31f23896-6d3b-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alexandru Maximciuc"
+    },
+	{
+      "description": "Senior Team Lead, Cyber Threat Intelligence Lab. Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/cristina-vatamanu-30248228/?originalSubdomain=al",
+		  "https://twitter.com/_cristinav?lang=en"
+        ],
+        "synonyms": [
+        "@_CristinaV"
+        ]
+      },
+      "uuid": "31f23bb6-6d3b-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Cristina Vatamanu"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -3876,5 +4047,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 5
+	"version": 6
 }

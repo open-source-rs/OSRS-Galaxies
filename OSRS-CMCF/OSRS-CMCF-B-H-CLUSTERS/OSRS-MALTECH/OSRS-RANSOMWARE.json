@@ -601,6 +601,35 @@
       "value": "OSRS Ransomware: Nefilim Ransomware"
     },
 	{
+      "description": "According to the experts, the first infections were observed in late 2019, victims reported their files were encrypted by a strain of malware. The malicious code appended the extension .locked to the filename of the encrypted files. The Mespinoza ransomware evolved over time, and in December a new version appeared in the threat landscape. This new version used the .pysa file extension that gives the name to this piece ransomware. According to the report issued by the CERT-FR, operators behind the Pysa ransomware launched brute-force attacks against management consoles and Active Directory accounts. Once compromised the target network, attackers attempt to exfiltrate the company’s accounts and passwords database. Operators behind the Pysa ransomware, also employed a version of the PowerShell Empire penetration-testing tool, they were able to stop antivirus products.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/99996/malware/cert-france-pysa-ransomware.html"
+        ],
+        "synonyms": [
+        "Mespinoza"
+        ]
+      },
+      "uuid": "3e85102a-6d3f-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: Pysa Ransomware"
+    },
+	{
+      "description": "Updated version of the PwndLocker ransomware family that introduces new encryption algorithms that do not allow for decryption tools to work.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/pwndlocker-fixes-crypto-bug-rebrands-as-prolock-ransomware/"
+        ]
+      },
+      "uuid": "3e851264-6d3f-11ea-bc55-0242ac130003",
+      "value": "OSRS Ransomware: ProLock Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -614,5 +643,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 5
+	"version": 7
 }

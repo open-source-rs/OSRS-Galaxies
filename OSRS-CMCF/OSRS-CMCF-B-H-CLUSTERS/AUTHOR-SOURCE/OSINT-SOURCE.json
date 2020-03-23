@@ -1656,6 +1656,58 @@
       "value": "OSRS OSINT Source: The Daily Swig"
     },
 	{
+      "description": "Disability News Service (DNS) is run by John Pring, a disabled journalist who has been reporting on disability issues for nearly 25 years. He launched DNS in April 2009 to address the absence of in-depth reporting in both the specialist and mainstream media on issues that affect the lives of disabled people. The news service focuses on issues such as discrimination equality, independent living, benefits, poverty, activism and campaigning and human rights, but also covers employment, transport, education, housing, crime, and arts, culture and sport. All of the news stories are researched and written by John Pring and are sent out to subscribers every Thursday lunchtime. They are then uploaded onto the DNS website after 5pm the same day. Funding for DNS comes from subscribers, financial support from individual disabled people and their allies, and advertisers. DNS maintains editorial independence from all subscribers, supporters and advertisers.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.disabilitynewsservice.com/"
+        ]
+      },
+      "uuid": "6731a6bc-6d3c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Disability News Service"
+    },
+	{
+      "description": "Local news station central Oregon, US. 62990 O.B. Riley Rd., Bend, OR 97703.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://ktvz.com/"
+        ]
+      },
+      "uuid": "6731a946-6d3c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: KTVZ.com"
+    },
+	{
+      "description": "Pandaily is a Beijing-based media company. Equipped with a deep understanding of China’s technology landscape and the unicorns that drive its innovation, our mission is to deliver premium content with contextual insights on Chinese technology, business, sports and culture to the worldwide community.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://pandaily.com/"
+        ]
+      },
+      "uuid": "6731aa7c-6d3c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: pandaily"
+    },
+	{
+      "description": "Cybersecurity research blog affiliated with the cybersecurity company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/"
+        ]
+      },
+      "uuid": "6731ab58-6d3c-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: BitDefender Labs"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1671,5 +1723,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 4
+	"version": 6
 }
