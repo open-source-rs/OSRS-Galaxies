@@ -1126,6 +1126,26 @@
 			"value": "Randleman Eye Center, NC"
 		},
 		{
+			"description": "University of Utah Health is the Mountain West's only academic health care system, combining excellence in patient care, the latest in medical research, and teaching to provide leading-edge medicine in a caring and personal setting. The system provides care for Utahns and residents of five surrounding states in a referral area encompassing more than 10 percent of the continental United States. Whether it's for routine care or highly specialized treatment in orthopedics, stroke, ophthalmology, cancer, radiology, fertility, cardiology, genetic-related diseases, organ transplant, or more than 200 other medical specialties, University of Utah Health offers the latest technology and advancements, including some services available nowhere else in the region. As part of that system, University Hospitals and Clinics relies on more than 1,400 board-certified physicians and more than 5,000 health care professionals who staff five hospitals.",
+			"meta": {
+				"refs": [
+					"https://healthcare.utah.edu/"
+				]
+			},
+			"uuid": "485807b0-6d21-11ea-bc55-0242ac130003",
+			"value": "University of Utah Health"
+		},
+		{
+			"description": "Golden Valley Health Centers is certified by The Joint Commission as Primary Care Medical Home for patient-centered care.",
+			"meta": {
+				"refs": [
+					"https://www.gvhc.org/"
+				]
+			},
+			"uuid": "485809c2-6d21-11ea-bc55-0242ac130003",
+			"value": "Golden Valley Health Centers"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1136,5 +1156,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 39
+	"version": 40
 }

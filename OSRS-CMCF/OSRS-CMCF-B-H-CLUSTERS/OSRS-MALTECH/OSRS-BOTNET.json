@@ -341,6 +341,33 @@
       "value": "OSRS Botnet: pBot"
     },
 	{
+      "description": "Mirai variant. Mukashi brute forces the logins using different combinations of default credentials, while informing its command and control (C2) server of the successful login attempts. Multiple, if not all, Zyxel NAS products running firmware versions up to 5.21 are vulnerable to this pre-authentication command injection vulnerability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/new-mirai-variant-mukashi/"
+        ]
+      },
+      "uuid": "d2e3038c-6d1a-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: Mukashi Botnet"
+    },
+	{
+      "description": "At present, the moobot uses the mirai scanning mechanism to scan the entire internet, the scan result is reported to the Loader, and then the loader implants sample to the victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/the-botnet-cluster-on-185-244-25-0-24-en/",
+		  "https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day-en/"
+        ]
+      },
+      "uuid": "d2e305a8-6d1a-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: Moobot Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [
