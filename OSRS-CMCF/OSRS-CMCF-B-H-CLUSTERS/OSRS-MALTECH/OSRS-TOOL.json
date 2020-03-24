@@ -3856,6 +3856,45 @@
       "value": "OSRS Tool: RedLine Stealer"
     },
 	{
+      "description": "Observed used by the threat actor group TA505. The sample was written in c and c plus plus in visual studio 2017. The primary purpose of this loader was to download additional payloads. The samples contacted three unique URLs, all of which were hosted on Google Drive. It used a hard-coded user agent string in order to contact Gdrive. Once the rekt loader contacted the three Google Drive URLs, it downloads the following files - 7zip.exe (a benign program used to compressed or decompress files), a batch file, and a password-protected 7zip file. The rekt loader would then run the batch file. This batch file utilized the 7zip executable to decompress the folder and entered the requisite password. Once decompressed the files were redirected to the directory APPDATA. Afterward, it would add a Run registry key for persistence to start host.exe. The registry key modified was HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run. Next, it would start the host.exe file that was downloaded and following completion, kill the rundll32.exe files, change the TEMP directory and finally delete the batch file, and the 7zip executable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.prevailion.com/2020/03/the-curious-case-of-criminal-curriculum.html"
+        ]
+      },
+      "uuid": "4e1680fa-6dee-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Rekt Loader"
+    },
+	{
+      "description": "Local system credential harvester observed used by the threat actor group TA505.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.prevailion.com/2020/03/the-curious-case-of-criminal-curriculum.html"
+        ]
+      },
+      "uuid": "4e1683ac-6dee-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: SSword Credential Harvister"
+    },
+	{
+      "description": "Icnanker is the first Linux malware family we observed that uses SHC. Its name is derived from the author's ID (by icnanker) in the script. The current Icnanker samples can be divided into 2 categories according to their functions. First (Protector) - Protector is used to protect samples from being deleted. It is currently used to protect Mining service. Second (Downloader) - Downloader is mainly used to facilitate DDos and Mining attacks. Currently its samples include Elknot Botnet, Xor Botnet and XMRMiner. On Icnanker-related HFS servers, researchers observed that the current download volume is at 20,114, and about 500 increment per day.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/icnanker-trojan-downloader-shc-en/"
+        ]
+      },
+      "uuid": "4e1684ba-6dee-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Icnanker Downloader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -3869,5 +3908,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 5
+	"version": 7
 }
