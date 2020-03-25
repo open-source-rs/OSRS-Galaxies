@@ -15,7 +15,17 @@
       },
       "uuid": "4149ad26-48c3-11e9-8646-d663bd873d93",
       "value": "Test Electrical Equipment, Appliance, and Component Manufacturing Value"
+    },
+	{
+      "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
+      "meta": {
+        "refs": [
+          "https://www.ge.com/"
+        ]
+      },
+      "uuid": "b83a052a-6eab-11ea-bc55-0242ac130003",
+      "value": "General Electric Company"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

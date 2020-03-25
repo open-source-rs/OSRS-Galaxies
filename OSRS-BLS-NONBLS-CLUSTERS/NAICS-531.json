@@ -26,6 +26,16 @@
 			"value": "WeWork"
 		},
 		{
+			"description": "PropTiger is an independent real estate advisor with a pan-India presence. Service offerings are online.",
+			"meta": {
+				"refs": [
+					"https://www.proptiger.com/aboutus"
+				]
+			},
+			"uuid": "8a777e64-6eac-11ea-bc55-0242ac130003",
+			"value": "PropTiger"
+		},
+		{
 			"description": "PIK Group is the largest real estate and homebuilder company in Russia. The company and its subsidiaries is principally engaged in the residential construction industry.",
 			"meta": {
 				"refs": [
@@ -36,5 +46,5 @@
 			"value": "PIK-Group"
 		}
 	],
-	"version": 2
+	"version": 3
 }

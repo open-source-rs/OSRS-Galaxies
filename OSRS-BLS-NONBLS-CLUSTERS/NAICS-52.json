@@ -336,6 +336,17 @@
 			"value": "Argus Capital Funding"
 		},
 		{
+			"description": "The Jamaica National Group Limited represents one of Jamaica’s pre-eminent and most recognizable brands, with over 14 decades of history in Jamaica and overseas. The Group is comprised of several world-leading entities which provide a wide array of financial, technology, creative and fleet management services, among others. On February 1, 2017, the 142-year old Jamaica National Building Society (JNBS) was restructured and The Jamaica National Group established.  The deposit-taking arm of the Society was converted to JN Bank, the third largest commercial bank in Jamaica. With membership as the ethos of its operations, The Jamaica National Group will, as its predecessor, JNBS, ensure that the Group remains as a leading performer among mixed conglomerates in the region, and that its performance directly benefits the people and communities that its subsidiaries serve. The Jamaica National Group is committed to the success and growth of its members while using business as a force for good so that, together, we can improve the outcome of Jamaicans wherever they may reside.",
+			"meta": {
+				"refs": [
+					"https://www.jngroup.com/about-us/",
+					"https://www.jngroup.com/"
+				]
+			},
+			"uuid": "e5c7c284-6eab-11ea-bc55-0242ac130003",
+			"value": "Jamaica National Group Ltd."
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -346,5 +357,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 20
+	"version": 21
 }

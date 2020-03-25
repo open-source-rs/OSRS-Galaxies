@@ -1708,6 +1708,35 @@
       "value": "OSRS OSINT Source: BitDefender Labs"
     },
 	{
+      "description": "St. Louis Public Radio is a news organization and NPR member station. We operate by the same guiding principles as NPR and provide our audiences with news and programs that are significant to their communities and their world. As one of the most trusted brands in America, NPR expects its entire network of listener-supported member stations to provide reporting that is credible, trustworthy and free from any external commercial, political, or financial forces. St. Louis Public Radio provides that to our audiences across the St. Louis Metropolitan region, in Quincy, Illinois, and in Rolla and Lebanon, Missouri.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://news.stlpublicradio.org/#stream/0"
+        ],
+        "synonyms": [
+        "KWMU-1"
+        ]
+      },
+      "uuid": "36fd0656-6eab-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: St. Louis Public Radio"
+    },
+	{
+      "description": "Forbes’ international network of editors, journalists, and contributors fuels the creation of content distributed through Forbes.com, Forbes Magazine, research and insights reports, signature live events, and much more. Its trusted journalism includes franchises such as Billionaires, 30 Under 30, Forbes 400, and Self-Made Women (to name just a few) and its highly respected investment newsletters. As a result, Forbes trusted journalism today reaches more than 120 million people worldwide.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.forbes.com/"
+        ]
+      },
+      "uuid": "36fd0872-6eab-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Forbes"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1723,5 +1752,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 6
+	"version": 8
 }

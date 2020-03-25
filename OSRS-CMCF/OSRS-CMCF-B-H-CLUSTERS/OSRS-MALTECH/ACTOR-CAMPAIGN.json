@@ -1322,6 +1322,19 @@
       "value": "OSRS Actors AND Campaigns: Operation Overtrap"
     },
 	{
+      "description": "In August 2019, Kaspersky discovered a malicious campaign distributing a fully fledged C++ Trojan that we call Milum. All the victims we registered were organizations from the Middle East. At least some of them are related to industrial sector. Our Kaspersky Threat Attribution Engine (KTAE) doesn’t show any code similarities with known campaigns. Nor have we seen any target intersections. In fact, we found just three almost unique samples, all in one country. So we consider the attacks to be targeted and have currently named this operation WildPressure. The compilation timestamps for all these files is the same – March 2019. This is consistent with the fact that we registered no infections before May 31, 2019, so the compilation dates don’t seem to be spoofed. For their campaign infrastructure, the operators used rented OVH and Netzbetrieb virtual private servers (VPS) and a domain registered with the Domains by Proxy anonymization service. The malware uses the JSON format for configuration data and as a C2 communication protocol over HTTP as well. Inside the encrypted communications within the HTTP POST requests, we found several interesting fields. One of them shows the malware version – 1.0.1. A version number like this indicates an early stage of development. Other fields suggest the existence of, at the very least, plans for non-C++ versions. The only encryption implemented is the RC4 algorithm with different 64-byte keys for different victims. Also, the developers were kind enough to leave RTTI data inside the files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/wildpressure-targets-industrial-in-the-middle-east/96360/"
+        ]
+      },
+      "uuid": "50acba7c-6eb2-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation WildPressure"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1338,5 +1351,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

@@ -2377,6 +2377,17 @@
 			"value": "Champaign-Urbana Public Health District"
 		},
 		{
+			"description": "The Bluffton Township Fire District was created in 1978, and is comprised all of the land in Beaufort County south of the Broad River except Jenkins Island, Hilton Head Island and Daufuskie Island. In 1994, Jenkins Island was added. There are eight fire stations in the Bluffton Township Fire District. Bluffton Township Fire District works with Hilton Head Island Fire & Rescue as a sponsoring agency for two of South Carolina's designated special teams - one of the state's Hazardous Materials and Weapons of Mass Destruction Response Teams and one of the four Regional Urban Search and Rescue Response Teams.",
+			"meta": {
+				"refs": [
+					"https://blufftonfd.com/",
+					"https://en.wikipedia.org/wiki/Bluffton,_South_Carolina#Fire_department"
+				]
+			},
+			"uuid": "5e2a52c2-6ead-11ea-bc55-0242ac130003",
+			"value": "Bluffton Township Fire District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2387,5 +2398,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 40
+	"version": 42
 }

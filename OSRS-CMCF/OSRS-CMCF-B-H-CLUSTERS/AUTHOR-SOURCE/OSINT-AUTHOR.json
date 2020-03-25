@@ -4030,6 +4030,89 @@
       "value": "OSRS OSINT Author Index: Cristina Vatamanu"
     },
 	{
+      "description": "Shahla Farzan is a reporter at St. Louis Public Radio. She comes most recently from KBBI Public Radio in Homer, Alaska, where she covered issues ranging from permafrost thaw to disputes over prayer in public meetings. A science nerd to the core, Shahla spent six years studying native bees, eventually earning her PhD in ecology from the University of California-Davis. She has also worked as an intern at Capital Public Radio in Sacramento and a podcaster for BirdNote. In her free time, she enjoys hiking, combing flea markets for tchotchkes, and curling up with a good book.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://news.stlpublicradio.org/people/shahla-farzan",
+		  "sfarzan@stlpublicradio.org",
+		  "https://twitter.com/ShahlaFarzan"
+        ],
+        "synonyms": [
+        "@ShahlaFarzan"
+        ]
+      },
+      "uuid": "f4654cf6-6ea8-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Shahla Farzan"
+    },
+	{
+      "description": "I'm a three-decade veteran technology journalist and have been a contributing editor at PC Pro magazine since the first issue in 1994. A three-time winner of the BT Security Journalist of the Year award (2006, 2008, 2010) I was also fortunate enough to be named BT Technology Journalist of the Year in 1996 for a forward-looking feature in PC Pro called Threats to the Internet. In 2011 I was honored with the Enigma Award for a lifetime contribution to IT security journalism. Contact me in confidence at davey@happygeek.com if you have a story to reveal or research to share.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/happygeek",
+		  "https://www.linkedin.com/in/happygeek/",
+		  "https://happygeek.com/"
+        ],
+        "synonyms": [
+        "@happygeek"
+        ]
+      },
+      "uuid": "f4654f8a-6ea8-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Davey Winder"
+    },
+	{
+      "description": "Senior Security Researcher. Vancouver, Canada Area. Affiliated with the technology company Microsoft.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/hardik-suri-03a91b22/?originalSubdomain=ca",
+		  "https://twitter.com/hardik_suri"
+        ],
+        "synonyms": [
+        "@hardik_suri"
+        ]
+      },
+      "uuid": "f465508e-6ea8-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Hardik Suri"
+    },
+	{
+      "description": "Senior security researcher at Kaspersky Lab. Moscow, Russian Federation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/denis-legezo-36955715/?originalSubdomain=ru",
+		  "https://twitter.com/legezo?lang=en"
+        ],
+        "synonyms": [
+        "@legezo"
+        ]
+      },
+      "uuid": "f4655160-6ea8-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Denis Legezo"
+    },
+	{
+      "description": "Pavel is a malware researcher for IBM Security's Trusteer's group. He has been a member of the Trusteer cybercrime labs for more than two years. Prior to that Pavel worked as a malware researcher for F5 Networks and as a malware analyst for RSA-EMC. Pavel is very passionate about reverse engineering, cryptography and malware analysis. Pavel holds a B.Sc. degree Electrical and Electronics Engineering.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/author/pavel-asinovsky/"
+        ]
+      },
+      "uuid": "f4655926-6ea8-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Pavel Asinovsky"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4047,5 +4130,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 6
+	"version": 7
 }
