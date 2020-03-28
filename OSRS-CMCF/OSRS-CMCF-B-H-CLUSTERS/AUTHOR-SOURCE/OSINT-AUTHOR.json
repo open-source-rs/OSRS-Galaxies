@@ -4113,6 +4113,35 @@
       "value": "OSRS OSINT Author Index: Pavel Asinovsky"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securelist.com/cookiethief/96332/"
+        ]
+      },
+      "uuid": "75dccd02-710d-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Anton Kivva"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/AndroidInSecure"
+        ],
+        "synonyms": [
+        "@AndroidInSecure"
+        ]
+      },
+      "uuid": "75dccf1e-710d-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Igor Golovin"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4130,5 +4159,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 7
+	"version": 8
 }
