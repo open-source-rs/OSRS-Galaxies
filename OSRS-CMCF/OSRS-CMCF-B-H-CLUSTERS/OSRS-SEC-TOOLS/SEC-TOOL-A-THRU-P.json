@@ -1044,6 +1044,19 @@
       "value": "OSRS SecTool: Hyperion Runtime Encrypter"
     },
 	{
+      "description": "A modular framework designed to chain and automate security tests. It parses target definitions from the command line and runs corresponding modules and their nullscan-tools afterwards. It can also take hosts and start nmap first in order to perform a basic portscan and run the modules afterwards. Also, nullscan can parse a given nmap logfile for open tcp and udp ports and again run the modules afterwards. All results will be logged in specified directories with a clean structure and a HTML report can subsequently be generated.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://nullsecurity.net/tools/automation.html"
+        ]
+      },
+      "uuid": "baf9899e-7206-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: NullScan"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1058,5 +1071,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 6
+	"version": 7
 }
