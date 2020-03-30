@@ -1640,6 +1640,36 @@
 			"value": "Hammersmith Medicines Research Ltd."
 		},
 		{
+			"description": "Tupperware Brands Corporation, formerly Tupperware Corporation, is an American multinational multi-level marketing company. Its main focus is kitchen and household products, particularly plastic containers for food storage and preparation.",
+			"meta": {
+				"refs": [
+					"https://www.tupperware.com/"
+				]
+			},
+			"uuid": "cb6cab9a-729b-11ea-bc55-0242ac130003",
+			"value": "Tupperware Brands Corporation"
+		},
+		{
+			"description": "Dueling Network (commonly abbreviated DN) was an online, unofficial Adobe Flash–based simulation of the Yu-Gi-Oh! Trading Card Game (TCG). It was created by Christopher Salvarani on March 3, 2006 and officially released on May 17, 2011. Its popularity grew quickly and it had gained more than four million registered users. The site was run by in-game volunteer administrators and moderators. At its peak, its server allowed for 9,100 players to be online at the same time. Dueling Network started on May 8, 2011 and officially released on May 17, 2011. After the release, the site's popularity grew quickly, and as of 2013, had acquired more than three million registered users. The site provided users with various in-game messaging systems. From the main menu, players were able to access the Duel Room, construct Decks, check players' rankings and profiles, edit their own profiles and change their account passwords. The game was intended to be a simulation of the real-life card game and as such, was set to be played manually with little in-game automation. It followed official Konami policy as closely as possible.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Dueling_Network"
+				]
+			},
+			"uuid": "cb6cadd4-729b-11ea-bc55-0242ac130003",
+			"value": "Dueling Network"
+		},
+		{
+			"description": "BetUS.com.pa is a privately held online gaming company offering sports betting, casino games, and horse racing. As of June 2015, BetUS is a C- rated sportsbook at SportsBookReview.com.",
+			"meta": {
+				"refs": [
+					"https://www.betus.com.pa/"
+				]
+			},
+			"uuid": "cb6caece-729b-11ea-bc55-0242ac130003",
+			"value": "BetUS.com.pa"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1650,5 +1680,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 48
+	"version": 49
 }

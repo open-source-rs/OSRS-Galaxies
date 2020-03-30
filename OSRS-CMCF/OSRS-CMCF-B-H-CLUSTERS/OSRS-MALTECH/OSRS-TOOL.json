@@ -3921,6 +3921,58 @@
       "value": "OSRS Tool: TrickMo Stealer"
     },
 	{
+      "description": "RAT delivered through fake applications. Used to deploy DDoS attacks, record screenshots, steal cookies from browsers, keylogging, script execution, and bitcoin wallet theft.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/"
+        ]
+      },
+      "uuid": "9f9212f2-729c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: BlackNET RAT"
+    },
+	{
+      "description": "Affiliated with Operation Poison News. The campaign uses links posted on multiple forums that supposedly lead to various news stories. While these links lead users to the actual news sites, they also use a hidden iframe to load and execute malicious code. The malicious code contains exploits that target vulnerabilities present in iOS 12.1 and 12.2. The light module serves as the main control for the malware, and is capable of loading and updating the other modules. The remaining modules are designed to extract and exfiltrate different types of data. dylib – acquires and uploads basic information such as iPhone hardware information, contacts, text messages, and call history. ShellCommandaaa – executes shell commands on the affected device any results are serialized and uploaded to a specified server. KeyChain – steals and uploads information contained in the Apple KeyChain. Screenaaa – scans for and pings devices on the same network subnet as the affected device the ping’s results are uploaded to the attackers. SoftInfoaaa – acquires the list of apps and processes on the device. FileManage – performs file system operations on the device. WifiList – acquires the saved Wi-Fi information (saved networks, history, etc.). browser – acquires the browser history from both Chrome and Safari. Locationaaa – gets the user’s location. ios_wechat – acquires information related to WeChat, including account information, contacts, groups, messages, and files. ios_qq – similar to the ios_wechatmodule, but for QQ. ios_telegram – similar to the previous two modules, but for Telegram. Taken together, this threat allows the threat actor to thoroughly compromise an affected device and acquire much of what a user would consider confidential information. Several chat apps popular in the Hong Kong market were particularly targeted, suggesting that these were the threat actor’s goals.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links/"
+        ]
+      },
+      "uuid": "9f9214f0-729c-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: lightSpy"
+    },
+	{
+      "description": "Affiliated with Operation Poison News. An Android counterpart to lightSpy. It contains many features that are frequently see in malicious apps, such as requests for sensitive permissions, and the transmission of sensitive information to a C&C server. This includes seemingly safe information such as the device model used, but includes more sensitive information such as contacts, text messages, the user’s location, and the names of stored files. dmsSpy also registers a receiver for reading newly received SMS messages, as well as dialing USSD codes. dmsSpy’s download and command-and-control servers used the same domain name as one of the watering holes used by the iOS component of Poisoned News. As a result, it is believed that this particular Android threat is operated by the same group of threat actors, and is connected to, Poisoned News.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links/"
+        ]
+      },
+      "uuid": "341e4bce-729e-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: dmsSpy"
+    },
+	{
+      "description": "Researchers have recently found a new attack that targets home routers and changes their DNS settings to redirect victims to a malware-serving website that delivers the Oski infostealer as a final payload. The attack stores malicious payloads using Bitbucket, the popular web-based version control repository hosting service. To make sure the victim doesn’t suspect foul play, attackers also abuse TinyURL, the popular URL-shortening web service, to hide the link to the Bitbucket payload. Oski is a relatively new infostealer that seems to have emerged in late 2019. Some of the features that it packs revolve around extracting browser credentials and cryptocurrency wallet passwords, and its creators even brag that it can extract credentials stored in SQL databases of various Web browsers and Windows Registry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/2020/03/new-router-dns-hijacking-attacks-abuse-bitbucket-to-host-infostealer/"
+        ]
+      },
+      "uuid": "bb08281c-729e-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Oski Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -3934,5 +3986,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 9
+	"version": 11
 }
