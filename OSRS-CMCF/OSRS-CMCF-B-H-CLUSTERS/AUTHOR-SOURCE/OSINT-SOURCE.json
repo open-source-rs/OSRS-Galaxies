@@ -1766,6 +1766,32 @@
       "value": "OSRS OSINT Source: Vegas Slots Online"
     },
 	{
+      "description": "Cybersecurity research blog affiliated with the cybersecurity company ReversingLabs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog"
+        ]
+      },
+      "uuid": "8ae9fc2a-74e0-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Reversing Labs Blog"
+    },
+	{
+      "description": "Cybersecurity research blog affiliated with the cybersecurity company Intel 471.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.intel471.com/"
+        ]
+      },
+      "uuid": "8ae9ff0e-74e0-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Intel 471"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1781,5 +1807,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 10
+	"version": 12
 }

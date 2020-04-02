@@ -4233,6 +4233,114 @@
       "value": "OSRS OSINT Author Index: Gina Clarke"
     },
 	{
+      "description": "Analysis & Response Team at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/heltonwernik/?originalSubdomain=il",
+		  "https://heltonwernik.github.io/",
+		  "https://twitter.com/IsraelWernik",
+		  "https://github.com/heltonWernik"
+        ],
+        "synonyms": [
+        "@IsraelWernik",
+		"heltonWernik"
+		]
+      },
+      "uuid": "5e9bfce8-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Israel Wernik"
+    },
+	{
+      "description": "Reverse Engineer – Ciklum. Ukraine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/danil-golubenko-46a802153/?originalSubdomain=ua"
+		]
+      },
+      "uuid": "5e9bfef0-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Danil Golubenko"
+    },
+	{
+      "description": "Analysis and Response Team Leader at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/aviran-hazum-72b661138/?originalSubdomain=il",
+		  "https://twitter.com/mrhazum?lang=en"
+        ],
+        "synonyms": [
+        "@MrHazum"
+		]
+      },
+      "uuid": "5e9bfff4-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Aviran Hazum"
+    },
+	{
+      "description": "Independent malware researcher and threat researcher at ReversingLabs. With an expertise in building automated malware analysis systems based on open source tools, he has been tracking malware and phishing attacks and picking them apart for years. Robert has spoken on malware analysis at many of the top security conferences including DEFCON, HOPE, botconf, and DerbyCon among others. Robert also is a maintainer of plyara, a YARA rule parser written in pure Python.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog/author/robert-simmons",
+		  "https://twitter.com/MalwareUtkonos",
+		  "https://steemit.com/@utkonos"
+        ],
+        "synonyms": [
+        "Malware Utkonos",
+		"@MalwareUtkonos"
+		]
+      },
+      "uuid": "5e9c00da-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Robert Simmons"
+    },
+	{
+      "description": "Reverse Engineer at ReversingLabs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog/author/karlo-zanki"
+        ]
+      },
+      "uuid": "5e9c0328-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Karlo Zanki"
+    },
+	{
+      "description": "Genral pen name used by the cyber intelligence company Intel 471.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.intel471.com/"
+        ]
+      },
+      "uuid": "5e9c03fa-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Intel 471 Malware Intelligence Team"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Palo Alto (Unit 42).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/peter-renals/"
+        ]
+      },
+      "uuid": "5e9c04c2-74dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Peter Renals"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4250,5 +4358,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 10
+	"version": 12
 }

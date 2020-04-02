@@ -1348,6 +1348,48 @@
       "value": "OSRS Actors AND Campaigns: Operation Poisoned News"
     },
 	{
+      "description": "REvil ransomware first was advertised on a Russian language cybercrime forum in June 2019. The main actor associated with advertising and promoting REvil ransomware is called Unknown aka UNKN.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.intel471.com/2020/03/31/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/"
+        ],
+        "synonyms": [
+        "UNKN"
+        ]
+      },
+      "uuid": "b15c334e-74d8-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Unknown"
+    },
+	{
+      "description": "Threat actor and moderator on Russian underground forum. Affliated with Gandcrab and Revil RaaS, as well as affiliated with the threat actor UNKN.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.intel471.com/2020/03/31/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/"
+        ]
+      },
+      "uuid": "b15c356a-74d8-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: kerberos"
+    },
+	{
+      "description": "A cybercrime actor known to participate in GandCrab and REvil ransomware affiliate programs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.intel471.com/2020/03/31/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/"
+        ]
+      },
+      "uuid": "b15c3664-74d8-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: lalartu"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1364,5 +1406,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 6
+	"version": 7
 }
