@@ -671,6 +671,19 @@
       "value": "OSRS SecTool: ysoserial"
     },
 	{
+      "description": "Recon-Informer is a basic real-time anti-reconnaissance detection tool for offensive security systems, useful for penetration testers. It runs on Windows or Linux and leverages scapy. Purpose - Recon-Informer is NOT meant for protecting public facing or lan critical enterprise systems whatsoever. Its purpose is detect possible recon against our attacker system on a LAN to provide us defensive intel. Therefore, this script is most useful for basic short-term defensive visibility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/hyp3rlinx/0/blob/master/Recon-Informer.py"
+        ]
+      },
+      "uuid": "0af1a3c6-7673-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: Recon-Informer"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -684,5 +697,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 4
+	"version": 6
 }
