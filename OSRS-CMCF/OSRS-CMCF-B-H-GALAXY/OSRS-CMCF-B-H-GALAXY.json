@@ -82,6 +82,7 @@
 		"CWE 601 thru 900",
 		"Exploit DB Type",
 		"Verification",
+		"Vulnerable Class",
 		"Exploit DB Platform"
 	  ],
 	"osrs-maltech": [
@@ -111,5 +112,5 @@
   "namespace": "CMCF-BLOCK-OSRS",
   "type": "CMCF-BLOCK-OSRS",
   "uuid": "deb05256-49bf-11ea-b77f-2e728ce88125",
-  "version": 4
+  "version": 5
 }
