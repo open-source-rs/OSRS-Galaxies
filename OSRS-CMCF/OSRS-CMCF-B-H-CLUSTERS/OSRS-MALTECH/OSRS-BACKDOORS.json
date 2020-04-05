@@ -704,6 +704,33 @@
       "value": "OSRS Backdoor: Cobalt Strike BEACON Backdoor"
     },
 	{
+      "description": "This implant is written in Go language, and its C2 channel relies on file exchanges with a Google Drive space, through Google Drive’s HTTPS API v3. The implant probably leverages the gdrive Go source from GitHub, as it shares several identical code source paths with it. Godlike12 is the name the threat actor gave to the Google Drive space connections from this implant. Source file paths in the code suggest this backdoor may have been developed on a GNU/Linux system. Some of this backdoor’s modules have been compiled from seems popular in Chinese-speaking communities, and may originate from a Chinese-authored tutorial on Go language. Godlike12 first proceeds with host fingerprinting upon startup (hostname, IP address, MAC address, Windows version, current time). The result is encrypted, base64-encoded, stored in a text file and uploaded to the remote Google Drive. The implant then regularly checks for a remote .txt, that contains encrypted commands to execute, and stores encrypted command results to later upload them to the same Google Drive space. ID is the MD5 hash of the base64-encoded MAC address of the first connected network adapter, while TripleDES in ECB mode is used as an encryption algorithm. It is worth mentioning that once again, the encryption function seems to have been inspired from existing open-source code, which mainly appears popular in Chinese-language forums. Godlike12 does not implement a persistence mechanism, as it is provided by the previous installer package.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/"
+        ]
+      },
+      "uuid": "24519664-7754-11ea-bc55-0242ac130003",
+      "value": "OSRS Backdoor: Godlike12 Backdoor"
+    },
+	{
+      "description": "A Cross Platform Python Remote Administration Tool. This is a cross platform python framework which allows you to build custom payloads for Windows, Mac OSX and Linux as well. You are able to select whether the payload binds to a specific IP and port, listens for a connection on a port, option to send an email of system info when the system boots, and option to start keylogger on boot. Payloads created can only run on the OS that they were created on. Allows for file auto-completeion, antivirus detection, keylogging, screen capture, dump system password hashes, and various other remote command options.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/",
+		  "https://github.com/nathanlopez/Stitch"
+        ]
+      },
+      "uuid": "24519876-7754-11ea-bc55-0242ac130003",
+      "value": "OSRS Backdoor: Stitch (Open Source Python Backdoor)"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
@@ -717,5 +744,5 @@
       "value": "OSRS Backdoor: Asruex"
     }
 	  ],
-	"version": 6
+	"version": 8
 }

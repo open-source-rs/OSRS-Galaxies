@@ -642,6 +642,47 @@
       "value": "OSRS SecTool Type: Network Intrusion Detection System (NIDS)"
     },
 	{
+      "description": "An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Integrated_development_environment"
+        ]
+      },
+      "uuid": "79e9c0d0-7752-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool Type: Coding Environment (IDE)"
+    },
+	{
+      "description": "A programming language is a formal language, which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms. Most programming languages consist of instructions for computers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Programming_language"
+        ]
+      },
+      "uuid": "79e9c2d8-7752-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool Type: Coding Language (Programming Language)"
+    },
+	{
+      "description": "Online file storage provided by a file hosting service. It is also commonly referred to as Cloud Storage.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Online_storage",
+		  "https://en.wikipedia.org/wiki/Online_file_storage",
+		  "https://en.wikipedia.org/wiki/Cloud_storage"
+        ]
+      },
+      "uuid": "79e9c3d2-7752-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool Type: Online Repository or Storage"
+    },
+	{
       "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
       "meta": {
 	  "kill_chain": [
@@ -655,5 +696,5 @@
       "value": "OSRS SecTool Type: Analysis"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

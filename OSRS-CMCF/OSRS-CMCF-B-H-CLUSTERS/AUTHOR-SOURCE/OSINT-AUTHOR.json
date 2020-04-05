@@ -4341,6 +4341,230 @@
       "value": "OSRS OSINT Author Index: Peter Renals"
     },
 	{
+      "description": "Security Researcher - Email Security and Malware Analysis at Trustwave. Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jdeacon378/"
+        ]
+      },
+      "uuid": "fce5cdd2-7746-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joshua Deacon"
+    },
+	{
+      "description": "Malware Analyst and Tools Developer. Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/homer-pacag-54788828/?originalSubdomain=nz"
+        ]
+      },
+      "uuid": "fce5d1ba-7746-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Homer Pacag"
+    },
+	{
+      "description": "Research Manager, SpiderLabs at Trustwave. Auckland, New Zealand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/phil-hay-90425037/?originalSubdomain=nz"
+        ]
+      },
+      "uuid": "fce5d48a-7746-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Phil Hay"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Trustwave.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/authors/lloyd-macrohon/"
+        ]
+      },
+      "uuid": "fce5d58e-7746-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lloyd Macrohon"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/2020/03/infected-zoom-apps-for-android-target-work-from-home-users/"
+        ]
+      },
+      "uuid": "deea723c-7747-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Oana ASOLTANEI"
+    },
+	{
+      "description": "Team Lead, Cyber Threat Intelligence Lab at Bitdefender. Arad County, Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/alin-mihai-barbatei-27772b54/?originalSubdomain=ro",
+		  "https://github.com/abarbatei",
+		  "https://abalabs.com/",
+		  "https://twitter.com/ABarbatei"
+        ],
+        "synonyms": [
+        "@ABarbatei",
+		"abarbatei"
+		]
+      },
+      "uuid": "deea7570-7747-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alin Mihai Barbatei"
+    },
+	{
+      "description": "Ioan Septimiu Dinulica is a Junior Security Researcher and a Master's in Software Engineering student at Politehnica University of Timișoara. His main interests represent Android malware research and cloud computing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/author/dseptimiu/",
+		  "https://www.linkedin.com/in/ioan-septimiu-dinulica/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "deea76b0-7747-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ioan-Septimiu Dinulica"
+    },
+	{
+      "description": "Cyber Threat Researcher - Trend Micro. Philippines.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/paul-pajares/?originalSubdomain=ph",
+		  "https://twitter.com/paulpajares?lang=en",
+		  "https://polpolpol.tumblr.com/"
+        ],
+        "synonyms": [
+        "@paulpajares"
+		]
+      },
+      "uuid": "c4093cea-7748-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Paul Pajares"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/raccoon-stealers-abuse-of-google-cloud-services-and-multiple-delivery-techniques/"
+        ]
+      },
+      "uuid": "c4094000-7748-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Don Ovid Ladores"
+    },
+	{
+      "description": "Cyber Security Threat Hunter at Trend Micro. Region III - Central Luzon, Philippines.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/franklynn-uy-559a7148/?originalSubdomain=ph"
+        ]
+      },
+      "uuid": "c409410e-7748-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Franklynn Uy"
+    },
+	{
+      "description": "Security researcher at Kaspersky's GReAT. Would-be writer. Maintainer of Manalyze and FFM.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/justicerage?lang=en",
+		  "https://www.manalyzer.org/"
+        ],
+        "synonyms": [
+        "@JusticeRage"
+		]
+      },
+      "uuid": "96115e98-7749-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ivan Kwiatkowski"
+    },
+	{
+      "description": "Threat Intelligence reseacher - Kaspersky. France.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/f%C3%A9lix-aime-59505611/?originalSubdomain=fr",
+		  "https://twitter.com/felixaime"
+        ],
+        "synonyms": [
+        "@felixaime"
+		]
+      },
+      "uuid": "96116262-7749-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Felix Aime"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/"
+        ]
+      },
+      "uuid": "9611638e-7749-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Pierre Delcher"
+    },
+	{
+      "description": "Associate Editor at CyberScoop. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jeff-stone-6952b565/",
+		  "https://twitter.com/jeffstone500?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ],
+        "synonyms": [
+        "@jeffstone500"
+		]
+      },
+      "uuid": "6ebf11d6-774a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jeff Stone"
+    },
+	{
+      "description": "Jupiter community reporter at The Palm Beach Post. West Palm Beach, Florida.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/samuel-howard-41b06669/",
+		  "https://twitter.com/SamuelHHoward?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ],
+        "synonyms": [
+        "@SamuelHHoward"
+		]
+      },
+      "uuid": "6ebf1442-774a-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sam Howard"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4358,5 +4582,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 12
+	"version": 14
 }
