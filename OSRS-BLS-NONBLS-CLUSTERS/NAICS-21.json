@@ -27,6 +27,16 @@
       "value": "EVRAZ plc"
     },
 	{
+      "description": "Groupement Berkine is a petroleum joint venture between the Algerian Sonatrach and the American Anadarko Petroleum Corporation through its subsidiary Anadarko Algeria Company LLC.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/groupement-berkine/about/"
+        ]
+      },
+      "uuid": "4ff29760-7825-11ea-bc55-0242ac130003",
+      "value": "Groupement Berkine"
+    },
+	{
       "description": "PetroBangla is a government-owned national oil company of Bangladesh. It explores, produces, transports, manages and sells oil, natural gas and other mineral resources.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Petrobangla"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

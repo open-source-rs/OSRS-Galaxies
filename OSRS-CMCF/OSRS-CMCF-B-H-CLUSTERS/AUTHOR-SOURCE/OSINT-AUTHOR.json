@@ -4565,6 +4565,93 @@
       "value": "OSRS OSINT Author Index: Sam Howard"
     },
 	{
+      "description": "Threat researcher with the cybersecurity company RiskIQ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/tracerspiff"
+        ],
+        "synonyms": [
+        "@TracerSpiff"
+		]
+      },
+      "uuid": "63559cca-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jordan Herman"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company RiskIQ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/labs/magecart-makeframe/"
+        ]
+      },
+      "uuid": "63559f54-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Mia Ihm"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/04/improving-dynamic-malware-analysis-with-cheat-codes-for-fakenet-ng.html"
+        ]
+      },
+      "uuid": "6355a2a6-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Nhan Huynh"
+    },
+	{
+      "description": "Staff Security Researcher at Palo Alto Networks. Los Angeles, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/haozhezhang/",
+		  "http://www.hazzel.cn/",
+		  "https://twitter.com/hi_haozhe"
+        ],
+        "synonyms": [
+        "Hazzel",
+		"@hi_haozhe"
+		]
+      },
+      "uuid": "6355a396-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Haozhe Zhang"
+    },
+	{
+      "description": "Security Researcher at Aqua Security. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/gal-singer-3626a5125/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "6355a468-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Gal Singer"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Fortinet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/latest-global-covid-19-coronavirus-spearphishing-campaign-drops-infostealer.html"
+        ]
+      },
+      "uuid": "6355a530-7821-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Val Saengphaibul"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4582,5 +4669,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 14
+	"version": 16
 }

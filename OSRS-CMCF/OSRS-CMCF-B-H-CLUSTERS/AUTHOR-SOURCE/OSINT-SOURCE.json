@@ -1818,6 +1818,19 @@
       "value": "OSRS OSINT Source: The Palm Beach Post"
     },
 	{
+      "description": "Aqua Security was founded in 2015, as containers and serverless technologies were just emerging, recognizing that the dramatic change in application development and architecture requires an equally dramatic shift in security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.aquasec.com/"
+        ]
+      },
+      "uuid": "f78b325a-7822-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Aqua Security Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1833,5 +1846,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 14
+	"version": 16
 }

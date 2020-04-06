@@ -1429,6 +1429,19 @@
       "value": "OSRS Actors AND Campaigns: Holy Water Campaign"
     },
 	{
+      "description": "Uniquely identified magecart threat actor group. Associated with the MakeFrame malware attack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/labs/magecart-makeframe/"
+        ]
+      },
+      "uuid": "38aef3ac-7823-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Magecart Group 7"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1445,5 +1458,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 10
+	"version": 12
 }
