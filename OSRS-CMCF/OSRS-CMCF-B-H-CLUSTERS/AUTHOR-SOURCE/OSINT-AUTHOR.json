@@ -4652,6 +4652,58 @@
       "value": "OSRS OSINT Author Index: Val Saengphaibul"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/04/zero-day-exploitation-demonstrates-access-to-money-not-skill.html"
+        ]
+      },
+      "uuid": "16f9b84c-79b2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Kathleen Metrick"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/04/zero-day-exploitation-demonstrates-access-to-money-not-skill.html"
+        ]
+      },
+      "uuid": "16f9ba68-79b2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Parnian Najafi"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/04/zero-day-exploitation-demonstrates-access-to-money-not-skill.html"
+        ]
+      },
+      "uuid": "16f9bb58-79b2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jared Semrau"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company NetLab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/ddg-upgrade-to-new-p2p-hybrid-model/"
+        ]
+      },
+      "uuid": "62a26a78-79b2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jia Yu"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4669,5 +4721,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 16
+	"version": 17
 }

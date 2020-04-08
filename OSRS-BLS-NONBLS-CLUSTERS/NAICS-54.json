@@ -1680,6 +1680,36 @@
 			"value": "10x Genomics Inc."
 		},
 		{
+			"description": "Gannett Co., Inc. is an American mass media holding company headquartered in McLean, Virginia in Greater Washington DC. It is the largest U.S. newspaper publisher as measured by total daily circulation. Its assets include the national newspaper USA Today, as well as several local newspapers, including the Detroit Free Press, The Indianapolis Star, The Cincinnati Enquirer, The Tennessean in Nashville, Tennessee, The Courier-Journal in Louisville, Kentucky, the Democrat and Chronicle in Rochester, New York, The Des Moines Register, The Arizona Republic in Phoenix, Arizona, The News-Press in Fort Myers, the Milwaukee Journal Sentinel, and the Great Falls Tribune.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Gannett"
+				]
+			},
+			"uuid": "bdfc7d84-79b0-11ea-bc55-0242ac130003",
+			"value": "Gannett, Inc."
+		},
+		{
+			"description": "Key Ring is a smartphone application owned by Gannett, Inc. that allows users to digitally store loyalty cards, enroll in new loyalty programs, receive localized offers on their smartphone, browse weekly sales circulars, and create digital shopping lists.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Key_Ring_(software)"
+				]
+			},
+			"uuid": "bdfc7faa-79b0-11ea-bc55-0242ac130003",
+			"value": "Key Ring Mobile App"
+		},
+		{
+			"description": "Email.it Srl ( www.email.it ) is the leading Italian company in the provision of professional e-mail services in the cloud both by subscription (with guaranteed service level) and free of charge, for companies, organizations, free professionals and individuals. The e-mail service on domain @ email.it was launched on the market in March 2001 by DWeb Spa. Email.it srl was established a year later, as a spin-off of the internet activities of Dweb Spa. The shareholders of Email. it are all private Italian citizens and include both the founders, who hold the majority, and the shareholders of pure capital.",
+			"meta": {
+				"refs": [
+					"https://www.email.it/chi-siamo.php"
+				]
+			},
+			"uuid": "bdfc80ae-79b0-11ea-bc55-0242ac130003",
+			"value": "Email.it Srl"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1690,5 +1720,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 50
+	"version": 52
 }

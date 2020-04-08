@@ -697,6 +697,19 @@
       "value": "OSRS SecTool: Sojson Obfuscator"
     },
 	{
+      "description": "Bolt is a pure Go key/value store inspired by Howard Chu's LMDB project. The goal of the project is to provide a simple, fast, and reliable database for projects that don't require a full database server such as Postgres or MySQL. Since Bolt is meant to be used as such a low-level piece of functionality, simplicity is key. The API will be small and only focus on getting values and setting values. That's it.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/boltdb/bolt"
+        ]
+      },
+      "uuid": "09098daa-79b4-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: BoltDB"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -710,5 +723,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 8
+	"version": 10
 }
