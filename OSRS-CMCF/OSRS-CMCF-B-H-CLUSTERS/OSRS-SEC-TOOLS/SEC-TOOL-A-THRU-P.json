@@ -1234,6 +1234,19 @@
       "value": "OSRS SecTool: UPX Packer"
     },
 	{
+      "description": "netABuse is a scanner that identifies systems susceptible to a Microsoft Windows insufficient authentication logic flaw.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://packetstormsecurity.com/files/157180/netABuse.txt"
+        ]
+      },
+      "uuid": "90fba0ea-7d8d-11ea-bc55-0242ac130003",
+      "value": "OSRS SecTool: netABuse"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1248,5 +1261,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 18
+	"version": 20
 }

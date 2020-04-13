@@ -4051,6 +4051,19 @@
       "value": "OSRS Tool: Kinsing Miner"
     },
 	{
+      "description": "In many aspects, the Anchor malware remains to be the adopted custom flexible version of the TrickBot fork codebase deployed on some of the most notable high-value government and corporate targets. The new module also brings to light a feature within TrickBot that is commonly taken for granted: its ability to deliver other malware. This module adds another loading avenue to the existing arsenal present within TrickBot. In a follow up to this report, we will discuss a variant of mexec that delivers malware samples that are onboard instead of downloading them, which sheds more light on this connection between TrickBot and Anchor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/deep-dive-into-trickbot-executor-module-mexec-hidden-anchor-bot-nexus-operations/"
+        ]
+      },
+      "uuid": "9044890e-29bf-11ea-978f-2e728ce88125",
+      "value": "OSRS Tool: Anchor Trickbot"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4064,5 +4077,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 17
+	"version": 19
 }

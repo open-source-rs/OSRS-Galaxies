@@ -157,6 +157,16 @@
       "value": "Kimchuck Inc."
     },
 	{
+      "description": "Founded in 1834 DESMI is one of Denmark’s oldest companies and we are proud of having a long history supplying good, reliable solutions, maintaining an innovative approach and utilising the opportunities on the global market.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/desmi-as/about/"
+        ]
+      },
+      "uuid": "13768b42-7d85-11ea-bc55-0242ac130003",
+      "value": "DESMI"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
@@ -167,5 +177,5 @@
       "value": "Toyota"
     }
 	  ],
-	"version": 14
+	"version": 16
 }

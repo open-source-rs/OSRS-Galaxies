@@ -1710,6 +1710,36 @@
 			"value": "Email.it Srl"
 		},
 		{
+			"description": "EVERSANA combines the leading global life science services into an integrated, independent and intelligent commercialization platform. With services rooted in the patient experience and spanning global pricing, market access, marketing, patient support, channel distribution, and consulting, we create value for patients, prescribers and payers at all stages of the product lifecycle.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/eversana/about/"
+				]
+			},
+			"uuid": "4eb3663a-7d85-11ea-bc55-0242ac130003",
+			"value": "EVERSANA Pharmaceuticals"
+		},
+		{
+			"description": "Brandywine Urology Consultants was established in 1987 and has been serving the urology needs of patients in Delaware, Maryland, Pennsylvania and New Jersey ever since.",
+			"meta": {
+				"refs": [
+					"https://brandywineuc.com/"
+				]
+			},
+			"uuid": "4eb3684c-7d85-11ea-bc55-0242ac130003",
+			"value": "Brandywine Urology Consultants"
+		},
+		{
+			"description": "Committed to bringing you the most state of the art imaging in a caring environment. The facility is approximately 8,000 sq. ft. which offers state of the art equipment including CT, MRI, CT Bone Mineral Analysis, Ultrasound, Diagnostic X-ray, Fluoroscopy, and Mammogram. In fact, we have just completed our beautiful Women's Center that includes the Philips Micro-dose Full-Field Digital Mammography unit which uses half the dose of traditional mammography units. Our professionally trained staff is ready to guide you through any imaging services you may require. At Stockdale Radiology we want you to feel at home in a relaxed atmosphere.",
+			"meta": {
+				"refs": [
+					"https://stockdalerad.com/"
+				]
+			},
+			"uuid": "4eb3693c-7d85-11ea-bc55-0242ac130003",
+			"value": "Stockdale Radiology"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1720,5 +1750,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 52
+	"version": 54
 }

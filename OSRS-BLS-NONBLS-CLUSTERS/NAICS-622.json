@@ -516,6 +516,16 @@
 			"value": "Rand Memorial Hospital"
 		},
 		{
+			"description": "communities. We see patients who often are recovering from disabilities caused by injuries, illnesses, or chronic medical conditions. Our hospital is located in Lafayette, Indiana. We are a member of a larger network of rehabilitation and long-term acute care hospitals through Ernest Health, but are managed locally to best meet the needs of our own community. By being a member of Ernest Health, we are able to share information, knowledge, and resources with all our hospitals so we can continually evaluate and improve the delivery of care to our patients. These efforts have earned us national recognition as a healthcare leader five years in a row (2014-2018), allowing us to provide the highest level of available care to our patients in our own community. We consider it a privilege to be able to offer this high-level care and are honored to be a vital part of Lafayette and the surrounding communities that we serve.",
+			"meta": {
+				"refs": [
+					"https://lrrh.ernesthealth.com/"
+				]
+			},
+			"uuid": "ce386302-7d84-11ea-bc55-0242ac130003",
+			"value": "Lafayette Regional Rehabilitation Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -526,5 +536,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 27
+	"version": 29
 }
