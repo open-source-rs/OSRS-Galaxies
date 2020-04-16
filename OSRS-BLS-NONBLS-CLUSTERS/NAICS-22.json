@@ -37,6 +37,16 @@
       "value": "LTI Power Systems"
     },
 	{
+      "description": "EDP - Energias de Portugal is a Portuguese electric utilities company, headquartered in Lisbon. It was founded in 1976 through the merger of 14 nationalised electricity companies.",
+      "meta": {
+        "refs": [
+          "https://www.edp.com/en"
+        ]
+      },
+      "uuid": "e8e73908-7fdc-11ea-bc55-0242ac130003",
+      "value": "Energias de Portugal"
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [
@@ -47,5 +57,5 @@
       "value": "Andhra Pradesh Power Generation Corporation Limited"
     }
 	  ],
-	"version": 3
+	"version": 4
 }
