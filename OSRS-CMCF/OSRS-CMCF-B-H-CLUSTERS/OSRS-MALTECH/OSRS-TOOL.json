@@ -4077,6 +4077,58 @@
       "value": "OSRS Tool: Project Spy Stealer"
     },
 	{
+      "description": "The droppers are Microsoft Word documents that deploy a Python-based remote access trojan (RAT). It uses two components to avoid detection by a single component. The dropper uses an old trick in a new way. It appends the RAT to a Word document. Upon opening the document, a macro is executed that will extract the malware and execute it. The operation seems to be manual, but it's streamlined to deploy additional tools as needed and to avoid unnecessary steps. The initial foothold is established by sending the malicious Word document. It's not clear at this time how the adversary distributes the document. However, given that it is available for download from a basic URL, it wouldn't be surprising if the victims were being tricked into downloading it by an email or social media network message.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/04/poetrat-covid-19-lures.html"
+        ]
+      },
+      "uuid": "55b74eaa-83da-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: PoetRAT"
+    },
+	{
+      "description": "Some AndoServer samples are purely surveillanceware that do not even pretend to be anything else, while others, like this sample here, contain legitimate applications inside the malware, with the benign APK hidden in the res/raw folder. AndoServer samples receive commands, and are capable of - taking a screenshot, getting battery levels and if the device is plugged in, reporting location (latitude and longitude), getting a list of installed applications, launching an application specified by the malicious actor, checking the number of cameras on a device, choosing a specific camera to access, creating a specific pop-up message (toast), recording audio, creating a file on external storage, exfiltrating call logs, listing files contained in a specified directory, calling a phone number, exfiltrating sms messages, sending sms to a phone number, exfiltrating the contact list, and playing a ringtone and then sleeping. AndoServer malware has its C2 domain or IP address hard coded into the source code.  Each sample also has its own unique identifier string at the start of its communication with C2 servers, that appears to be for the actor to monitor which application in their arsenal is responsible for the compromise, as they can see the unique application installed by the specific victim. While not always the case, some unique identifiers are similar to the name of the C2 domain, while other times they refer to the title of the application, highlighting another level of customization of this malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lookout.com/nation-state-mobile-malware-targets-syrians-with-covid-19-lures"
+        ]
+      },
+      "uuid": "55b751f2-83da-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: AndoServer Stealer"
+    },
+	{
+      "description": "Variant of the PUA adware DealPly.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/"
+        ]
+      },
+      "uuid": "55b75472-83da-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: IsErlk Adware"
+    },
+	{
+      "description": "PUA Chrome extension.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/"
+        ]
+      },
+      "uuid": "55b7556c-83da-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: ManageX Adware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4090,5 +4142,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 21
+	"version": 23
 }

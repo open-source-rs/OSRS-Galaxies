@@ -1156,6 +1156,36 @@
 			"value": "Doctors Community Medical Center"
 		},
 		{
+			"description": "Thunder Bay Regional Health Sciences Centre is an acute care facility serving Thunder Bay and much of Northwestern Ontario, Canada. The hospital has 395 acute care beds.",
+			"meta": {
+				"refs": [
+					"https://tbrhsc.net/"
+				]
+			},
+			"uuid": "dd6b6456-83d7-11ea-bc55-0242ac130003",
+			"value": "Thunder Bay Regional Health Sciences Centre-Cancer Care"
+		},
+		{
+			"description": "Bay Area Medical Center is a 99-bed general acute care hospital located in Marinette, Wisconsin. Bay Area Medical Center is constructing a new facility to be located on University Avenue, within miles of the existing hospital.",
+			"meta": {
+				"refs": [
+					"https://www.aurorahealthcare.org/locations/hospital/aurora-medical-center-bay-area"
+				]
+			},
+			"uuid": "dd6b6686-83d7-11ea-bc55-0242ac130003",
+			"value": "Aurora Medical Center-Bay Area"
+		},
+		{
+			"description": "Beaumont Health is Michigan’s largest health care system. The organization has net revenue of $4.7 billion and consists of eight hospitals with 3,429 beds, 145 outpatient sites, nearly 5,000 physicians, more than 38,000 employees and about 3,500 volunteers.",
+			"meta": {
+				"refs": [
+					"https://www.beaumont.org/"
+				]
+			},
+			"uuid": "dd6b67e4-83d7-11ea-bc55-0242ac130003",
+			"value": "Beaumont Health"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1166,5 +1196,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 41
+	"version": 42
 }

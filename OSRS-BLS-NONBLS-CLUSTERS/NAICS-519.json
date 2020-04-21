@@ -136,6 +136,16 @@
 			"value": "HTC Mania"
 		},
 		{
+			"description": "Wappalyzer uncovers the technologies used on websites.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wappalyzer/about/"
+				]
+			},
+			"uuid": "4e05c4b8-83d8-11ea-bc55-0242ac130003",
+			"value": "Wappalyzer"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [
@@ -146,5 +156,5 @@
 			"value": "Newsquest"
 		}
 	],
-	"version": 14
+	"version": 16
 }

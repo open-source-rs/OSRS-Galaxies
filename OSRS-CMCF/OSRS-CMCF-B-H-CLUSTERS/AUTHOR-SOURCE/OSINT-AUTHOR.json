@@ -4796,6 +4796,184 @@
       "value": "OSRS OSINT Author Index: Sophia Harris"
     },
 	{
+      "description": "Digital Content Producer at WGNO ABC26. Metairie, Louisiana.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vwcristina/"
+        ]
+      },
+      "uuid": "7d83e8c0-83db-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Victoria Cristina"
+    },
+	{
+      "description": "Pen name used for the CenturyLink online cybersecurity blog. The mission of Black Lotus Labs is to leverage our network visibility to help protect customers and keep the internet clean.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.centurylink.com/author/black-lotus-labs/"
+        ]
+      },
+      "uuid": "7d83eadc-83db-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Black Lotus Labs"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company NetLab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/multiple-fiber-routers-are-being-compromised-by-botnets-using-0-day-en/"
+        ]
+      },
+      "uuid": "7d83ebcc-83db-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ye Jin"
+    },
+	{
+      "description": "Pentester, Malware Researcher, Cyber Security Evangelist, and Freelance Writer. Coimbra Area, Portugal.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sirpedrotavares/?originalSubdomain=pt",
+		  "https://twitter.com/sirpedrotavares"
+        ],
+        "synonyms": [
+        "@sirpedrotavares"
+        ]
+      },
+      "uuid": "7d83eca8-83db-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Pedro Tavares"
+    },
+	{
+      "description": "Senior Threat Intelligence Analyst at Malwarebytes. Ottawa, Canada Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/hossein-hadian-jazi-31350b43/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "7d83ef0a-83db-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Hossein Jazi"
+    },
+	{
+      "description": "Kristin Del Rosso is a security researcher with a primary focus on reverse engineering Android applications. She works with her team to uncover new mobile threats, track actors and targets, and provide accurate research and reporting on these issues. She has spoken at BlackHat EU and NSEC on state-sponsored malware campaigns, and volunteers with Day of Shecurity, an organization aimed at tackling the gender diversity issue in cybersecurity.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.lookout.com/kristin-del-rosso",
+		  "https://twitter.com/kristindelrosso?lang=en"
+        ],
+        "synonyms": [
+        "@kristindelrosso",
+		"KDR"
+        ]
+      },
+      "uuid": "c17b8bcc-83dc-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Kristin Del Rosso"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/"
+        ]
+      },
+      "uuid": "c17b8f46-83dc-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Hiroyuki Kakara"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/"
+        ]
+      },
+      "uuid": "c17b905e-83dc-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Erina Maruyama"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/"
+        ]
+      },
+      "uuid": "5e598818-83dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: RonJay Caragay"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/"
+        ]
+      },
+      "uuid": "5e598a7a-83dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Fe Cureg"
+    },
+	{
+      "description": "Threat Response Engineer at Trend Micro. Philippines.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ian-james-lagrazon-62b28b143/?originalSubdomain=ph"
+        ]
+      },
+      "uuid": "5e598c14-83dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ian James Lagrazon"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/exposing-modular-adware-how-dealply-iserik-and-managex-persist-in-systems/"
+        ]
+      },
+      "uuid": "5e598cf0-83dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Erika Mendoza"
+    },
+	{
+      "description": "Security Professional, open-source enthusiast and seasonal programmer. Dallas Fort Worth Area.  Affiliated with the cybersecurity company TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jay-yaneza-54733a7/"
+        ]
+      },
+      "uuid": "5e598e8a-83dd-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jay Yaneza"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4813,5 +4991,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 20
+	"version": 22
 }

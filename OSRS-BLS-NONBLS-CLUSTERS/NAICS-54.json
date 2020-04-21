@@ -1750,6 +1750,56 @@
 			"value": "Zoom Video Communications, Inc."
 		},
 		{
+			"description": "AST is an award-winning full-service enterprise systems integrator, serving clients in the Public and Commercial Sectors for more than two decades.  Clients look to AST for leadership and assistance in systems integration, business process redesign, project management, systems administration, and training.  From on-premise applications to modern cloud technology, AST’s services encompass all aspects of Enterprise Resource Planning, Business Intelligence, Enterprise Performance Management, Customer Experience, and Middleware.  AST also offers flexible Managed Services, supporting the needs of over 200 Public Sector and Commercial customers around the globe.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/astllc/"
+				]
+			},
+			"uuid": "8880e9c4-83d8-11ea-bc55-0242ac130003",
+			"value": "Applications Software Technology LLC"
+		},
+		{
+			"description": "MNP (previously known as Meyers Norris Penny) is one of the largest full-service chartered accountancy and business advisory firms in Canada. MNP's head office is in Calgary, Alberta, and has offices from Vancouver Island to Halifax. With over 4,500 staff, MNP is currently ranked as one of the largest professional service firms in Canada.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/MNP_LLP"
+				]
+			},
+			"uuid": "8880ef78-83d8-11ea-bc55-0242ac130003",
+			"value": "MNP LLP"
+		},
+		{
+			"description": "Aptoide is a software marketplace application for installing mobile applications which runs on the Android operating system.[1] In Aptoide, unlike the Android-default Google Play Store, there is not a unique and centralized store; instead, each user manages their own store. The software package is published by Aptoide S.A., a for-profit company incorporated in November 2011 and headquartered in Lisbon, Portugal. There are several versions of the Aptoide app - Aptoide for smartphones and tablets, Aptoide TV – an edition for smart TVs and STBs, Aptoide VR and Aptoide Kids – developed for children's devices. The Android application used to access the stores is open source, and there are several forks such as F-Droid. The communication between the client and servers is done using an open protocol based on XML. The concept is inspired by the APT packaging manager, which can work with multiple sources (repositories). When the user wants a package, they can use the client to search for sources where the application is stored. The name Aptoide is formed from the words APT (the Debian package manager) and oide (the last syllable of Android). As of 2017, the Aptoide platform software had been downloaded about 6 billion times, was used by about 200 million users, and was available in about 40 languages. In the various stores, it is possible to find about 1 million Android apps.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Aptoide"
+				]
+			},
+			"uuid": "8880ec30-83d8-11ea-bc55-0242ac130003",
+			"value": "Aptoide S.A."
+		},
+		{
+			"description": "Cognizant is an American multinational corporation that provides IT services, including digital, technology, consulting, and operations services. It is headquartered in Teaneck, New Jersey, United States. Cognizant is part of the NASDAQ-100 and trades under CTSH.",
+			"meta": {
+				"refs": [
+					"https://www.cognizant.com/"
+				]
+			},
+			"uuid": "8880ed2a-83d8-11ea-bc55-0242ac130003",
+			"value": "Cognizant"
+		},
+		{
+			"description": "Brandywine Counseling & Community Services (BCCS) is a trusted provider of behavioral health treatment, and prevention, early intervention, and education. Located in Wilmington, DE.",
+			"meta": {
+				"refs": [
+					"https://www.brandywinecounseling.com/"
+				]
+			},
+			"uuid": "8880f04a-83d8-11ea-bc55-0242ac130003",
+			"value": "Brandywine Counseling & Community Services (BCCS)"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1760,5 +1810,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 55
+	"version": 57
 }

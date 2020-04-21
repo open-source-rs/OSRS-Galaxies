@@ -2458,6 +2458,36 @@
 			"value": "Global Affairs Canada"
 		},
 		{
+			"description": "Olean is a city in Cattaraugus County, New York, United States. Olean is the largest city in Cattaraugus County and serves as its financial, business, transportation and entertainment center. It is one of the principal cities of the Southern Tier region of Upstate New York.",
+			"meta": {
+				"refs": [
+					"https://www.cityofolean.org/"
+				]
+			},
+			"uuid": "edd5baa0-83c6-11ea-bc55-0242ac130003",
+			"value": "City of Olean"
+		},
+		{
+			"description": "Oakland County is a county in the U.S. state of Michigan. It is part of the metropolitan Detroit area, located northwest of the city. As of the 2010 census, its population was 1,202,362, making it the second-most populous county in Michigan, behind neighboring Wayne County. The county seat is Pontiac.",
+			"meta": {
+				"refs": [
+					"https://www.oakgov.com/"
+				]
+			},
+			"uuid": "edd5be06-83c6-11ea-bc55-0242ac130003",
+			"value": "Oakland County, MI"
+		},
+		{
+			"description": "Orleans Parish Assessor oversees one of the state's largest assessment rolls, comprised of 165,365 parcels and 10,000 businesses, valued at $6.8 billion.",
+			"meta": {
+				"refs": [
+					"http://nolaassessor.com/"
+				]
+			},
+			"uuid": "edd5bf14-83c6-11ea-bc55-0242ac130003",
+			"value": "Orleans Parish Assessor's Office"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2468,5 +2498,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 46
+	"version": 47
 }
