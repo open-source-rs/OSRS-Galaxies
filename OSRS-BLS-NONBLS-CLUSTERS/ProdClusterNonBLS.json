@@ -2488,6 +2488,26 @@
 			"value": "Orleans Parish Assessor's Office"
 		},
 		{
+			"description": "The Southern Ute Indian Reservation is a Native American reservation in southwestern Colorado near the northern New Mexico state line. Its territory consists of land from three counties, in descending order of surface area they are La Plata, Archuleta, and Montezuma Counties.",
+			"meta": {
+				"refs": [
+					"https://www.southernute-nsn.gov/"
+				]
+			},
+			"uuid": "d99e0fc6-8559-11ea-bc55-0242ac130003",
+			"value": "The Southern Ute Indian Tribe"
+		},
+		{
+			"description": "Torrance is a coastal U.S. city in the South Bay region of Los Angeles County, California, in the Los Angeles metropolitan area. Torrance has 1.5 miles of beaches on the Pacific Ocean.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Torrance,_California"
+				]
+			},
+			"uuid": "d99e14da-8559-11ea-bc55-0242ac130003",
+			"value": "The City of Torrance, CA"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2498,5 +2518,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 47
+	"version": 48
 }
