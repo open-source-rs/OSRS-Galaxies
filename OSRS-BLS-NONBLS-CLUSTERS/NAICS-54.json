@@ -1800,6 +1800,86 @@
 			"value": "Brandywine Counseling & Community Services (BCCS)"
 		},
 		{
+			"description": "Valve Corporation, also known as Valve Software, is an American video game developer, publisher, and digital distribution company headquartered in Bellevue, Washington.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Valve_Corporation"
+				]
+			},
+			"uuid": "eb7ec75e-8aee-11ea-bc55-0242ac130003",
+			"value": "Valve Corporation"
+		},
+		{
+			"description": "SeaChange International is a global, public supplier of video delivery software. SeaChange's Framework includes video processing, back-office, media asset management, dynamic advertisement insertion, analytics and a user interface.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/SeaChange_International"
+				]
+			},
+			"uuid": "eb7ec998-8aee-11ea-bc55-0242ac130003",
+			"value": "SeaChange International"
+		},
+		{
+			"description": "Nintendo Co., Ltd. is a Japanese multinational consumer electronics and video game company headquartered in Kyoto. Its international branches, Nintendo of America and Nintendo of Europe, are respectively headquartered in Redmond, Washington, and Frankfurt, Germany.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Nintendo"
+				]
+			},
+			"uuid": "eb7ecc4a-8aee-11ea-bc55-0242ac130003",
+			"value": "Nintendo Co., Ltd."
+		},
+		{
+			"description": "STAT Informatic Solutions was founded in 2007 by Brian Verhagen (President/CEO), Adam Henderson (COO), and Rosaira Acosta (CBO) based on their experience and expertise of document management in the healthcare industry. They recognized the need and importance for a document management company that truly understood the business side of healthcare and how vitally important it is to get the information to the stakeholders in the most timely fashion. The company changed names in 2017 to STAT Informatic Solutions to more broadly and accurately reflect the service offerings of Enterprise Content Management, Release of Information, Revenue Cycle Management, Courier Services and Coding Solutions. STAT Informatic Solutions provides service exclusively to healthcare and truly understands and focuses on the revenue cycle component of record management.",
+			"meta": {
+				"refs": [
+					"https://www.statisllc.com/"
+				]
+			},
+			"uuid": "eb7ecd30-8aee-11ea-bc55-0242ac130003",
+			"value": "STAT Informatic Solutions, LLC"
+		},
+		{
+			"description": "Sydney Day Surgery-Prince Alfred is a private free-standing medical facility, providing high quality elective same-day surgery at a reasonable cost. Our goal is to provide a safe, efficient, caring and economical alternative for those people whose surgical needs do not routinely require an overnight hospital stay. Sydney Day Surgery - Prince Alfred provides quality care in a warm personalised setting.",
+			"meta": {
+				"refs": [
+					"http://www.curagroup.com.au/sydney-day-surgery-prince-alfred"
+				]
+			},
+			"uuid": "898ddf3e-8aef-11ea-bc55-0242ac130003",
+			"value": "Sydney Day Surgery Prince Alfred Pty. Ltd."
+		},
+		{
+			"description": "Huiying Medical Technology (Beijing) Co., Ltd. researches, develops, manufactures, and distributes medical imaging devices. The Company provides chest radiography devices, aorta AI cloud platform, X-ray fracture devices, CT lung nodule aided diagnosis devices, and other products. Huiying Medical Technology (Beijing) markets its products across worldwide.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/1552847D:CH"
+				]
+			},
+			"uuid": "898de164-8aef-11ea-bc55-0242ac130003",
+			"value": "Huiying Medical Technology (Beijing) Co., Ltd."
+		},
+		{
+			"description": "CivicSmart is recognized as a leading global Smart Parking innovator.  With installations in thousands of cities across five continents, we have an 80-year track record of market leadership and earned trust.  Innovation has been at the core of our corporate DNA since Duncan’s founding in 1936, and the last several years have seen a wave of innovation at CivicSmart that is delivering the promise of Smart Parking to cities of all sizes.​",
+			"meta": {
+				"refs": [
+					"https://www.civicsmart.com/"
+				]
+			},
+			"uuid": "898de25e-8aef-11ea-bc55-0242ac130003",
+			"value": "CivicSmart, Inc"
+		},
+		{
+			"description": "ExecuPharm, a Parexel Company, is a Global Functional Service Division of the Contract Research Organization, who provides clinical research support services for the pharmaceutical industry.",
+			"meta": {
+				"refs": [
+					"http://www.execupharm.com/"
+				]
+			},
+			"uuid": "898de3da-8aef-11ea-bc55-0242ac130003",
+			"value": "ExecuPharm"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1810,5 +1890,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 57
+	"version": 58
 }

@@ -526,6 +526,16 @@
 			"value": "Lafayette Regional Rehabilitation Hospital"
 		},
 		{
+			"description": "Since it all began in 1923, Parkview Medical Center has provided millions of dollars in charity care to our community and in fiscal 2019, this important work continued. With the state's expansion of Medicaid, our region, in particular, has seen tremendous growth in the number of Medicaid recipients and the latest county numbers indicate there are more than 71,000 Medicaid recipients which equates to 45% of Pueblo County's population Parkview's business volume with Medicaid is 28% of our total gross revenue.",
+			"meta": {
+				"refs": [
+					"https://www.parkviewmc.com/about/"
+				]
+			},
+			"uuid": "65f2da08-8aee-11ea-bc55-0242ac130003",
+			"value": "Parkview Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -536,5 +546,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 29
+	"version": 30
 }

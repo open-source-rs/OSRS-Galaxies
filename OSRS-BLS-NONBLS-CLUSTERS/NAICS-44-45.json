@@ -257,6 +257,16 @@
 			"value": "Webkinz"
 		},
 		{
+			"description": "Robert Dyas is a UK hardware retailer founded in London in 1872. It sells a range of housewares, small electrical appliances, gardening products, kitchenwares, DIY, and consumer electronics throughout 93 shops, mainly in Greater London and South East England, as well as online.",
+			"meta": {
+				"refs": [
+					"https://www.robertdyas.co.uk/"
+				]
+			},
+			"uuid": "3f693e16-8af0-11ea-bc55-0242ac130003",
+			"value": "Robert Dyas"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -267,5 +277,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 20
+	"version": 21
 }

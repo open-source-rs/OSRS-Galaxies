@@ -433,6 +433,19 @@
       "value": "OSRS Botnet: Mozi Botnet"
     },
 	{
+      "description": "ESET researchers recently discovered a previously undocumented botnet that we have named VictoryGate. It has been active since at least May 2019 and, since then, three different variants of the initial module have been identified, in addition to approximately 10 secondary payloads that are downloaded from file hosting websites. The initial module is detected by ESET security products as MSIL/VictoryGate. This botnet is composed mainly of devices in Latin America, specifically Peru, where over 90% of the compromised devices are located. We’ve been actively sinkholing several command and control (C&C) domains, allowing us to monitor this botnet’s activity. The combination of the sinkhole data and our telemetry data allows us to estimate the botnet’s size to be at least 35,000 devices. To control its botnet, VictoryGate used only subdomains registered at the dynamic DNS provider No-IP. ESET reported the malicious subdomains to No-IP, who swiftly took them all down, effectively removing control of the bots from the attacker. Also, ESET is collaborating with non-profit Shadowserver Foundation by sharing sinkhole logs in an effort to further remediate this threat.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/04/23/eset-discovery-monero-mining-botnet-disrupted/"
+        ]
+      },
+      "uuid": "1c65ee74-8aea-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: VictoryGate Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [
@@ -446,5 +459,5 @@
       "value": "OSRS Botnet: AESDDoS.J"
     }
 	  ],
-	"version": 7
+	"version": 8
 }

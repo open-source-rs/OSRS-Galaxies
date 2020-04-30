@@ -2508,6 +2508,27 @@
 			"value": "The City of Torrance, CA"
 		},
 		{
+			"description": "Nagaland is a state in northeastern India. It is bordered by the state of Assam to the west, Arunachal Pradesh and Assam to the north, Myanmar to the east, and Manipur to the south. The state capital is Kohima, and the largest city is Dimapur. It has an area of 16,579 square kilometres (6,401 sq mi) with a population of 1,980,602 per the 2011 Census of India, making it one of the smallest states of India. Nagaland is one of three states in India where the population is mostly Christian.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Nagaland"
+				]
+			},
+			"uuid": "8fa612a4-8ae7-11ea-bc55-0242ac130003",
+			"value": "Nagaland (State of India)"
+		},
+		{
+			"description": "Created in 1953, the U.S. Small Business Administration (SBA) continues to help small business owners and entrepreneurs pursue the American dream. The SBA is the only cabinet-level federal agency fully dedicated to small business and provides counseling, capital, and contracting expertise as the nation’s only go-to resource and voice for small businesses.",
+			"meta": {
+				"refs": [
+					"https://www.sba.gov/",
+					"https://www.sba.gov/about-sba"
+				]
+			},
+			"uuid": "8fa614b6-8ae7-11ea-bc55-0242ac130003",
+			"value": "The US Small Business Administration (SBA)"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2518,5 +2539,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 48
+	"version": 49
 }

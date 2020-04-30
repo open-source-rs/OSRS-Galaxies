@@ -1455,6 +1455,32 @@
       "value": "OSRS Actors AND Campaigns: Project Spy Campaign"
     },
 	{
+      "description": "The attacker, Tag Barnakle, are compromising ad servers and appending their malvertising payload to live creatives. The entry point is always the same obfuscated Javascript payload, but of course there are variations in the obfuscated variable names and in the intermediate fingerprinting domain utilized.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.confiant.com/tag-barnakle-the-malvertiser-that-hacks-revive-ad-servers-redirects-victims-to-malware-50cdc57435b1"
+        ]
+      },
+      "uuid": "a9d5b930-8ae8-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Tag Barnakle"
+    },
+	{
+      "description": "Native Farsi speakers pointed me in the direction of the term ‘nazar’ –roughly translating to ‘supervision’ or ‘monitoring’– transliterated and mangled from Persian to Roman characters. A more recognizable alternative interpretation is the nazar amulet used for protection against evil eye. Some level of speculation is involved so I won’t belabor the point beyond emojying the name for tweetable convenience.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.epicturla.com/blog/the-lost-nazar"
+        ]
+      },
+      "uuid": "a9d5bb60-8ae8-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Nazar APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1471,5 +1497,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 14
+	"version": 15
 }

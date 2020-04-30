@@ -547,6 +547,26 @@
 			"value": "College of DuPage"
 		},
 		{
+			"description": "Illinois Valley Community College is a community college in Oglesby, Illinois. The college serves a 2,000-square-mile district encompassing all of Putnam and parts of Bureau, LaSalle, DeKalb, Grundy, Lee, Livingston, and Marshall counties. The college sits on a 425-acre campus that was constructed in 1972.",
+			"meta": {
+				"refs": [
+					"https://www.ivcc.edu/"
+				]
+			},
+			"uuid": "9feb7ed2-8aed-11ea-bc55-0242ac130003",
+			"value": "Illinois Valley Community College"
+		},
+		{
+			"description": "The University of Warwick is a public research university on the outskirts of Coventry between the West Midlands and Warwickshire, England. It was founded in 1965 as part of a government initiative to expand higher education.",
+			"meta": {
+				"refs": [
+					"https://warwick.ac.uk/"
+				]
+			},
+			"uuid": "9feb80f8-8aed-11ea-bc55-0242ac130003",
+			"value": "University of Warwick"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -557,5 +577,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 26
+	"version": 28
 }

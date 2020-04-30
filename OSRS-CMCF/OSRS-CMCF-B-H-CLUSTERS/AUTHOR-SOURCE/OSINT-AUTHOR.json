@@ -4974,6 +4974,153 @@
       "value": "OSRS OSINT Author Index: Jay Yaneza"
     },
 	{
+      "description": "Cybersecurity researcher affilaited with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html"
+        ]
+      },
+      "uuid": "6295f50e-8af1-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Scott Henderson"
+    },
+	{
+      "description": "Associate Analyst at FireEye, Inc. Medford, Massachusetts.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/gabriella-roncone-3a11a911a",
+		  "https://twitter.com/gabby_roncone?lang=en"
+        ],
+        "synonyms": [
+        "@gabby_roncone"
+        ]
+      },
+      "uuid": "6295fcf2-8af1-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Gabby Roncone"
+    },
+	{
+      "description": "Senior Director, Intelligence Analysis at FireEye, Inc. Washington D.C. Metro Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/john-hultquist-76226478",
+		  "https://twitter.com/JohnHultquist?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ],
+        "synonyms": [
+        "@JohnHultquist"
+        ]
+      },
+      "uuid": "6295fe00-8af1-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: John Hultquist"
+    },
+	{
+      "description": "Sr. Manager, Cyber-Espionage Analysis at Mandiant. Adjunct GeorgetownCSS.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/bread08?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://keybase.io/bread",
+		  "https://github.com/bread08"
+        ],
+        "synonyms": [
+        "@bread08",
+		"bread08"
+        ]
+      },
+      "uuid": "6295fedc-8af1-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ben Read"
+    },
+	{
+      "description": "Chris is a security researcher at Tenable, focused on finding 0-day vulnerabilities. He is a former developer and aims to make the cyber world more secure.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.exploit-db.com/exploits/48400",
+		  "https://medium.com/@lynerc",
+		  "https://twitter.com/lynerc"
+        ],
+		"synonyms": [
+        "@lynerc"
+        ]
+      },
+      "uuid": "ef69f3ee-8af2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Chris Lyne"
+    },
+	{
+      "description": "Security Intelligence Analyst at ESET Latinoamerica. Argentina.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://ar.linkedin.com/in/a-warburton"
+        ]
+      },
+      "uuid": "ef69f61e-8af2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alan Warburton"
+    },
+	{
+      "description": "Joshua Platt is a Principal Threat Researcher at SentinelLabs who specializes in investigating complex financial crimeware families. As a former network security engineer, he first began reversing malware while working in the financial services industry nearly 10 years ago. Joshua graduated from the University of North Texas with a B.S. in criminal justice and has earned multiple certifications within the security industry related to reverse engineering and penetration testing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/author/joshuap/"
+        ]
+      },
+      "uuid": "ef69f9b6-8af2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joshua Platt"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/mykill"
+        ],
+		"synonyms": [
+        "Michae~1",
+		"@mykill"
+        ]
+      },
+      "uuid": "ef69fab0-8af2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Michael Bailey"
+    },
+	{
+      "description": "Threat Researcher at SophosLabs. Hungary area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://hu.linkedin.com/in/albertzsigovits",
+		  "https://albertzsigovits.github.io/",
+		  "https://github.com/albertzsigovits",
+		  "https://twitter.com/albertzsigovits"
+        ],
+		"synonyms": [
+        "@albertzsigovits",
+		"albertzsigovits"
+        ]
+      },
+      "uuid": "ef69fc18-8af2-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Albert Zsigovits"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -4991,5 +5138,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 22
+	"version": 24
 }
