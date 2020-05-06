@@ -1481,6 +1481,32 @@
       "value": "OSRS Actors AND Campaigns: Nazar APT"
     },
 	{
+      "description": "Campaign discovered by cybersecurity company Kasperky researchers. Masquerades in Google Play dubbed PhantomLance. Considered to have some overlap with threat actor OceanLotus APT. Victims typically reside in Nepal, Malaysia, and Myanmar. Mimics as Flash plugins, cleaners, and updaters. Installs backdoor and info stealers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/apt-phantomlance/96772/"
+        ]
+      },
+      "uuid": "b9d75f3c-8fb1-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: PhantomLance Campaign"
+    },
+	{
+      "description": "In the first quarter of 2020, Group-IB Threat Intelligence team received a lead concerning corporate email account compromise of an Asia-based company. A joint investigation of Group-IB DFIR and Threat Intelligence teams reveals an uptrending phishing technique which is essentially achieved by abusing Microsoft file sharing services, including Sway, SharePoint, and OneNote. Group-IB Threat Intelligence team names this series of phishing attacks the PerSwaysion campaign for the extensive abuse of Sway service. The dubbed PerSwaysion campaign is a collection of small yet targeted phishing attacks run by multiple cyber-criminal groups, attacking small and medium financial services companies, law firms, and real estate groups. Evidence suggests, since mid 2019, at least 156 high ranking officers of given organizations are compromised. Such high-profile victims tend to locate in the US, Canada, while the rest are in global and regional financial hubs such as Germany, the UK, Netherlands, Hong Kong and Singapore and other countries. Group-IB set up a website, where everyone can check if their email address was compromised by PerSwaysion. Group-IB continues to work with the relevant parties in local countries to inform the affected companies of the breach.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.group-ib.com/blog/perswaysion"
+        ]
+      },
+      "uuid": "b9d76162-8fb1-11ea-bc55-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: PerSwaysion Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1497,5 +1523,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 15
+	"version": 17
 }

@@ -267,6 +267,16 @@
 			"value": "Robert Dyas"
 		},
 		{
+			"description": "Prime Communications LP. Prime Communications, L.P. provides telecommunications services. The Company offers cellular telephones and networking products and services including wireless Internet, digital television, and home phone services. Prime Communications operates retail stores in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.primecomms.com/"
+				]
+			},
+			"uuid": "4567b3c6-8fd0-11ea-bc55-0242ac130003",
+			"value": "Prime Communications, L.P."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -277,5 +287,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 21
+	"version": 22
 }

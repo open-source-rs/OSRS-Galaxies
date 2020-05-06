@@ -1948,6 +1948,98 @@
       "value": "OSRS OSINT Source: VULDB"
     },
 	{
+      "description": "KFOR-TV, virtual channel 4, is an NBC-affiliated television station licensed to Oklahoma City, Oklahoma, United States. The station is owned by Nexstar Media Group, as part of a duopoly with independent station KAUT-TV.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://kfor.com/"
+        ]
+      },
+      "uuid": "69017de2-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: KFOR"
+    },
+	{
+      "description": "WKRN-TV, virtual channel 2, is an ABC-affiliated television station licensed to Nashville, Tennessee, United States. The station is owned by Nexstar Media Group. WKRN's studios are located on Murfreesboro Road on Nashville's southeast side, and its transmitter is located in Forest Hills, Tennessee.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wkrn.com/"
+        ]
+      },
+      "uuid": "69018008-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: WKRN"
+    },
+	{
+      "description": "KSDK, virtual channel 5, is an NBC-affiliated television station licensed to St. Louis, Missouri, United States. The station is owned by Tegna Inc. KSDK's studios are located on Market Street in Downtown St. Louis, and its transmitter is located in Shrewsbury, Missouri.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.ksdk.com/"
+        ]
+      },
+      "uuid": "690180f8-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: KSDK"
+    },
+	{
+      "description": "French cybersecurity anti-virus review and blog site.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://fr.safetydetectives.com/"
+        ]
+      },
+      "uuid": "690181ca-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Safety Detectives"
+    },
+	{
+      "description": "Group-IB is a Singapore-based provider of solutions aimed at detection and prevention of cyberattacks, online fraud, IP protection and high-tech crime investigations. Group-IB’s Threat Intelligence system has been named one of the best in class by Gartner, Forrester, and IDC.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.group-ib.com/"
+        ]
+      },
+      "uuid": "69018292-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Group-IB"
+    },
+	{
+      "description": "StateScoop is the leading media brand in the state & local government market. With more than 100k unique monthly visitors and 125k daily newsletter subscribers, StateScoop reports on news and events impacting tech decisions in state & local government.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://statescoop.com/",
+		  "https://www.facebook.com/pg/StateScoop/about/"
+        ]
+      },
+      "uuid": "690184ea-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: StateScoop"
+    },
+	{
+      "description": "Vice News is Vice Media's current affairs channel, producing daily documentary essays and video through its website and YouTube channel. It promotes itself on its coverage of under-reported stories. Vice News was created in December 2013 and is based in New York City, though it has bureaus worldwide.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.vice.com/en_us"
+        ]
+      },
+      "uuid": "690185c6-8fb4-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Source: Vice News"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -1963,5 +2055,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 22
+	"version": 24
 }

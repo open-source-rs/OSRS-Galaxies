@@ -682,6 +682,35 @@
       "value": "OSRS Ransomware: LockBit Ransomware"
     },
 	{
+      "description": "The malware starts by registering a receiver called to run BOOT_COMPLETE and QUICKBOOT_POWERON to check if the country code of the device is from a former Soviet state. Lucy then tries to trick the victim into enabling the Accessibility Service by initiating an Alert Dialog that asks the user to take action. Inside the MainActivity module, the application triggers the malicious service, which then registers a BroadcastReceiver that is called by the command action.SCREEN_ON and then calls itself. This is used to acquire the WakeLock service, which keeps the device’s screen on, and WifiLock service, which keeps the WIFI on. Communication - The malware has 4 encrypted command and control (C&C) servers in its code. Unlike previous versions of the malware, the C&C is a domain and not an IP address. Therefore, although the server can be taken down, it can easily be resolved into a new IP address, which makes it much harder to neutralize the malware. The C&C servers are held as a long string which is a concatenation of all C&Cs hardcoded in the malware’s code, followed by a bulk of unused data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/lucys-back-ransomware-goes-mobile/"
+        ],
+        "synonyms": [
+        "Black Rose Lucy Ransomware"
+        ]
+      },
+      "uuid": "07eb9b56-29bf-11ea-978f-2e728ce88125",
+      "value": "OSRS Ransomware: Lucy Ransomware"
+    },
+	{
+      "description": "VCrypt is targets French victims by utilizing the legitimate 7zip command-line program to create password-protected archives of data folders. These encrypted files would utilize a naming format of username_foldername.vxcrypt. When the ransomware is started, the malware will also launch Internet Explorer and display a ransom note named help.html. This ransom note is written in French and tells the user to visit a web page to learn how to get their files back.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-vcrypt-ransomware-locks-files-in-password-protected-7zips/"
+        ]
+      },
+      "uuid": "07eb9b56-29bf-11ea-978f-2e728ce88125",
+      "value": "OSRS Ransomware: VCrypt Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -695,5 +724,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 13
+	"version": 15
 }

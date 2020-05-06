@@ -4142,6 +4142,45 @@
       "value": "OSRS Tool: METALJACK Loader"
     },
 	{
+      "description": "Trojan designed to target the database. The infection process starts when an attacker discovers, and exploits, a zero-day SQL injection remote code execution vulnerability. The exploit of this vulnerability resulted in the attacker being able to insert a one-line command into a database table. This initial injected command triggers an affected device to download a Linux shell script named Install.sh from a remote server on the malicious domain sophosfirewallupdate[.]com. The command also wrote this shell script to the _tmp directory on the device, used the chmod program to designate the file as executable, and executed it. The script (written to the appliance as x.sh) ran a series of SQL commands and dropped additional files into the virtual file system to lay the groundwork for the rest of the attack. The Install.sh script, initially, ran a number of Postgres SQL commands to modify or zero out the values of certain tables in the database, one of which normally displays the administrative IP address of the device itself. It appears that this was an attempt to conceal the attack, but it backfired: On some appliances, the shell script’s activity resulted in the attacker’s own injected SQL command line being displayed on the user interface of the firewall’s administrative panel. In place of what should have been an address, it showed a line of shell commands.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2020/04/26/asnarok/"
+        ]
+      },
+      "uuid": "c304599a-8fbe-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Asnarok Trojan"
+    },
+	{
+      "description": "Grandoreiro is a Delphi-written Latin American banking trojan. Grandoreiro has been active at least since 2017 targeting Brazil and Peru, expanding to Mexico and Spain in 2019. It attacks its victims by displaying fake pop-up windows that try to persuade victims to divulge sensitive information. Grandoreiro, as with any other Latin American banking trojan, employs backdoor functionality, being capable of 1) manipulating windows, 2) updating itself, 3) capturing keystrokes, 4) simulating mouse and keyboard actions, 5) navigating the victim’s browser to a chosen URL, 6) logging the victim out or restarting the machine, 7) blocking access to chosen websites, and 8) Persistence is ensured by creating a .LNK file in the Windows startup directory. Of importance is the fact that Grandoreiro uses the same algorithm for decrypting its internal strings as Casbaneiro. We believe this is due to information sharing between authors of banking trojans in Latin America. Grandoreiro collects the following information about its victims 1) computer name, 2) username, 3) operating system version and bitness, 4) whether Diebold Warsaw GAS Tecnologia (an application, popular in Brazil, to protect access to online banking) is installed, and 5) list of installed security products.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/04/28/grandoreiro-how-engorged-can-exe-get/"
+        ]
+      },
+      "uuid": "c3045c10-8fbe-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: Grandoreiro Banking Trojan"
+    },
+	{
+      "description": "EventBot, is a type of Android mobile malware that emerged around March 2020. EventBot is a mobile banking trojan and infostealer that abuses Android’s accessibility features to steal user data from financial applications, read user SMS messages, and steal SMS messages to allow the malware to bypass two-factor authentication. EventBot targets users of over 200 different financial applications, including banking, money transfer services, and crypto-currency wallets. Those targeted include applications like Paypal Business, Revolut, Barclays, UniCredit, CapitalOne UK, HSBC UK, Santander UK, TransferWise, Coinbase, paysafecard, and many more. It specifically targets financial banking applications across the United States and Europe, including Italy, the UK, Spain, Switzerland, France, and Germany.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/eventbot-a-new-mobile-banking-trojan-is-born"
+        ]
+      },
+      "uuid": "c3045da0-8fbe-11ea-bc55-0242ac130003",
+      "value": "OSRS Tool: EventBot Banking Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4155,5 +4194,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 25
+	"version": 28
 }

@@ -2529,6 +2529,58 @@
 			"value": "The US Small Business Administration (SBA)"
 		},
 		{
+			"description": "Lawrence County is a county located in the U.S. state of Tennessee. As of the 2010 census, the population was 41,869. Its county seat and largest city is Lawrenceburg.",
+			"meta": {
+				"refs": [
+					"https://www.lawrencecountytn.gov/"
+				]
+			},
+			"uuid": "61c71014-8faa-11ea-bc55-0242ac130003",
+			"value": "Lawrence County, TN"
+		},
+		{
+			"description": "The council was founded as the Corporation of Sheffield in 1843, when Sheffield was incorporated (see History of Sheffield). In 1889, it attained county borough status and in 1893 city status. In 1974, the Local Government Act 1972, reconstituted the City Council as a metropolitan district council of South Yorkshire, governed also by South Yorkshire County Council. It established a system of 90 councillors, three to each of 30 wards. This was reduced in 1980 with the merger of the Attercliffe and Darnall wards to 87 councillors in 29 wards.",
+			"meta": {
+				"refs": [
+					"https://www.sheffield.gov.uk/",
+					"https://en.wikipedia.org/wiki/Sheffield_City_Council"
+				]
+			},
+			"uuid": "61c71352-8faa-11ea-bc55-0242ac130003",
+			"value": "Sheffield City Council, UK"
+		},
+		{
+			"description": "Excellence in customer service is our primary focus at the Alabama Department of Labor . As a cabinet-level department of state government, Alabama Department of Labor provides services which have considerable impact on the economic well-being of all Alabamians. It is a core partner in Alabama’s Career Center System which provides one-stop employment and training services as mandated by the Workforce Investment Act. There are five operational divisions in our department which work to improve the quality of life for our citizens as well as improve the business climate for Alabama employers. They are Employment Service (ES), Unemployment Compensation (UC), Workers' Compensation (WC), Labor Market Information (LMI), and Inspections (Mining, Boilers & Elevators). Each of these divisions must meet statutory standards of quality, while maintaining a delicate balance between the interest of individuals and the interests of business.",
+			"meta": {
+				"refs": [
+					"https://www.labor.alabama.gov/",
+					"https://labor.alabama.gov/about/default.aspx/"
+				]
+			},
+			"uuid": "61c7147e-8faa-11ea-bc55-0242ac130003",
+			"value": "Alabama Department of Labor"
+		},
+		{
+			"description": "Home Affairs brings together Australia's federal law enforcement, national and transport security, criminal justice, emergency management, multicultural affairs, settlement services and immigration and border-related functions, working together to keep Australia safe.",
+			"meta": {
+				"refs": [
+					"https://www.homeaffairs.gov.au/"
+				]
+			},
+			"uuid": "61c717f8-8faa-11ea-bc55-0242ac130003",
+			"value": "Department of Home Affairs, AU"
+		},
+		{
+			"description": "Santa Monica–Malibu Unified School District is a school district located in Santa Monica, California, United States. The district serves the cities of Santa Monica and Malibu. It has ten elementary schools, two middle schools, three high schools, an adult high school, and an alternative school.",
+			"meta": {
+				"refs": [
+					"https://www.smmusd.org/"
+				]
+			},
+			"uuid": "61c71906-8faa-11ea-bc55-0242ac130003",
+			"value": "Santa Monica–Malibu Unified School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2539,5 +2591,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 49
+	"version": 50
 }

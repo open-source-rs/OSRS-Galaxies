@@ -446,6 +446,48 @@
       "value": "OSRS Botnet: VictoryGate Botnet"
     },
 	{
+      "description": "On March 26, 2020, researchers captured a suspicious sample. Although the samples have the word mirai in their names and most antivirus engines identified it as Mirai, its network traffic is totally new,which had got our attention. The sample borrowed some of Mirai’s Reporter and Loader mechanism, but the encryption method and Bot program, as well as C2 communication protocol had been totally redesigned. For regular Mirai and their variations, normally the changes are fairly minor, changing C2s or encryption keys, or integrate some new vulnerabilities, nothing dramatic. But this one is different. Its encryption method is unique, and communication protocol is more rigorous. Also it is very likely a new branch from the Moobot group and is in active development. The researchers decide to name it LeetHozer because of theH0z3r string contained with a network request by the botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/the-leethozer-botnet-en/"
+        ]
+      },
+      "uuid": "40ce8684-8fb0-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: LeetHozer Botnet"
+    },
+	{
+      "description": "Lucy is a Malware-as-a-Service (MaaS) botnet and dropper for Android devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/lucys-back-ransomware-goes-mobile/"
+        ],
+        "synonyms": [
+        "Black Rose Lucy"
+        ]
+      },
+      "uuid": "40ce888c-8fb0-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: Lucy MaaS Botnet"
+    },
+	{
+      "description": "Kaiji spreads exclusively via SSH brute forcing by targeting the root user only. Accessing root is important to its operation since some DDoS attacks are only available via crafting custom network packets. In Linux, custom network packets are only given to a privileged user such as root. Once a SSH connection is established, a bash script is executed which sets up the environment for the malware. Kaiji has simple features. It consists of an arsenal of multiple DDoS attacks such as ipspoof and synack attacks, an ssh bruteforcer module to continue the spread, and another ssh spreader which relies on hijacking local SSH keys to infect known hosts which the server has connected to in the past.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://intezer.com/blog/research/kaiji-new-chinese-linux-malware-turning-to-golang/"
+        ]
+      },
+      "uuid": "40ce8990-8fb0-11ea-bc55-0242ac130003",
+      "value": "OSRS Botnet: Kaiji Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [
@@ -459,5 +501,5 @@
       "value": "OSRS Botnet: AESDDoS.J"
     }
 	  ],
-	"version": 8
+	"version": 10
 }

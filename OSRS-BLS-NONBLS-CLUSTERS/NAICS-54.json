@@ -1880,6 +1880,86 @@
 			"value": "ExecuPharm"
 		},
 		{
+			"description": "Architectural firm run by Zaha Hadid, a world renow architect.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Zaha_Hadid"
+				]
+			},
+			"uuid": "dce470c4-8fce-11ea-bc55-0242ac130003",
+			"value": "Zaha Hadid Architects (ZHA)"
+		},
+		{
+			"description": "Online research resource.",
+			"meta": {
+				"refs": [
+					"https://www.mail.ee/?language=en"
+				]
+			},
+			"uuid": "dce47416-8fce-11ea-bc55-0242ac130003",
+			"value": "Mail.ee"
+		},
+		{
+			"description": "Tokopedia is an Indonesian technology company specializing in e-commerce. It was founded in 2009 by William Tanuwijaya and Leontinus Alpha Edison. It is an Indonesian unicorn along with ride hailing company Gojek, travel service firm Traveloka, e-commerce Bukalapak and fintech company OVO.",
+			"meta": {
+				"refs": [
+					"https://www.tokopedia.com/"
+				]
+			},
+			"uuid": "dce47524-8fce-11ea-bc55-0242ac130003",
+			"value": "Tokopedia"
+		},
+		{
+			"description": "Small business accounting firm located in the United Kingdom.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/pages/category/Accountant/M-J-Payne-Ltd-165926847330912/"
+				]
+			},
+			"uuid": "dce475f6-8fce-11ea-bc55-0242ac130003",
+			"value": "M J Payne Ltd."
+		},
+		{
+			"description": "PeroxyChem is a leading global manufacturer and supplier of hydrogen peroxide, peracetic acid, persulfates and adjacent technologies.",
+			"meta": {
+				"refs": [
+					"http://www.peroxychem.com/"
+				]
+			},
+			"uuid": "dce476be-8fce-11ea-bc55-0242ac130003",
+			"value": "PeroxyChem LLC"
+		},
+		{
+			"description": "Elanic is a Bangalore-based E-commerce startup. Bangalore, Karnataka, India.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/elanic"
+				]
+			},
+			"uuid": "dce4777c-8fce-11ea-bc55-0242ac130003",
+			"value": "Elanic"
+		},
+		{
+			"description": "Roblox is an online game platform and game creation system that allows users to design their own games and play a wide variety of different games created by other users.",
+			"meta": {
+				"refs": [
+					"http://corp.roblox.com/"
+				]
+			},
+			"uuid": "dce47844-8fce-11ea-bc55-0242ac130003",
+			"value": "Roblox Corporation"
+		},
+		{
+			"description": "Plastic sugeon center that specializes in Oculoplastic and Facial Cosmetic surgery. Bellevue, WA.",
+			"meta": {
+				"refs": [
+					"https://www.kristintarbetmd.com/"
+				]
+			},
+			"uuid": "dce4790c-8fce-11ea-bc55-0242ac130003",
+			"value": "Kristin J. Tarbet, MD"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1890,5 +1970,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 58
+	"version": 60
 }

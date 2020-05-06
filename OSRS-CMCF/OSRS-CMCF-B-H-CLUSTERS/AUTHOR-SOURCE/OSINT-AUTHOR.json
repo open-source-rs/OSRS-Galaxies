@@ -5140,6 +5140,234 @@
       "value": "OSRS OSINT Author Index: Lindsey O'Donnell"
     },
 	{
+      "description": "Reporter in home state for Oklahoma's News 4.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/abreasettetv?lang=en"
+        ],
+        "synonyms": [
+        "@AbreasetteTV",
+        "Austin Breasette TV"
+        ]
+      },
+      "uuid": "28460d88-8fc6-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Austin Breasette"
+    },
+	{
+      "description": "Andy Cordan came to Nashville in February 1996. In that time, he has won three Emmys for spot news, several AP awards and an Edward R. Murrow. Andy started in Music City as a crime reporter and later developed a highly successful franchise called That’s Messed Up. Now Andy heads up Channel 2’s Investigative Unit, Nashville’s News 2’s Investigates. Andy graduated with a Journalism degree from USC. He did stints in Idaho Falls, Idaho, Eastern North Carolina and Grand Rapids, Michigan before coming to Nashville.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.wkrn.com/author/andy-cordan/"
+        ]
+      },
+      "uuid": "28460f90-8fc6-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Andy Cordan"
+    },
+	{
+      "description": "Jim has a vast knowledge of computer networks. He is an ethical hacker and Hacktivist and an Open Source developer advocate. Affliated with online cybersecurity blog Security Detectives.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.safetydetectives.com/author/jim/"
+        ]
+      },
+      "uuid": "2846108a-8fc6-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jim Wilson"
+    },
+	{
+      "description": "Security Researcher, GReAT at Kaspersky Lab. Russian Federation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://ru.linkedin.com/in/alexey-firsh-4aa161166",
+		  "https://twitter.com/alexey_firsh?lang=en"
+        ],
+        "synonyms": [
+        "@alexey_firsh"
+        ]
+      },
+      "uuid": "28461166-8fc6-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alexey Firsh"
+    },
+	{
+      "description": "Junior Malware Analyst at Kaspersky Lab. Moscow, Russian Federation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://ru.linkedin.com/in/%D0%BB%D0%B5%D0%B2-%D0%BF%D0%B8%D0%BA%D0%BC%D0%B0%D0%BD-41956b134/en-us"
+        ]
+      },
+      "uuid": "284613be-8fc6-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lev Pikman"
+    },
+	{
+      "description": "Malware Analyst at Check Point Software Technologies, Ltd. Mahane Yafa, HaDarom (South) District, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://il.linkedin.com/in/ohad-mana-537a37152"
+        ]
+      },
+      "uuid": "b2e518ac-8fc7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ohad Mana"
+    },
+	{
+      "description": "Check Point Software Technologies, Ltd.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://ua.linkedin.com/in/mbv06"
+        ]
+      },
+      "uuid": "b2e51ab4-8fc7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Bogdan Melnykov"
+    },
+	{
+      "description": "Security Researcher at Check Point Software Technologies, Ltd.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://il.linkedin.com/in/liav-kuperman-a61710160"
+        ]
+      },
+      "uuid": "b2e51ba4-8fc7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Liav Kuperman"
+    },
+	{
+      "description": "Malware Researcher, Reverse Engineer, Design Recovery. Affiliated with the cybersecurity research group Cisco Talos. Washington D.C. Metro Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/asheermalhotra"
+        ]
+      },
+      "uuid": "b2e51da2-8fc7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Asheer Malhotra"
+    },
+	{
+      "description": "A threat intelligence hunter & malware researcher, passionate about conveying key research results to general public. Singapore.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://sg.linkedin.com/in/feixiang-asia",
+		  "https://twitter.com/hfx_sg?lang=en"
+        ],
+        "synonyms": [
+        "@hfx_sg"
+        ]
+      },
+      "uuid": "b2e51e7e-8fc7-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Feixiang He"
+    },
+	{
+      "description": "Journalist and photographer affiliated with CBC.ca. Yellowknife, Northwest Territories, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://ca.linkedin.com/in/walterstrong"
+        ]
+      },
+      "uuid": "c51f61e2-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Walter Strong"
+    },
+	{
+      "description": "Technology Editor at StateScoop. Washington, District Of Columbia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/benjamin-freed-aa5553a1"
+        ]
+      },
+      "uuid": "c51f63e0-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Benjamin Freed"
+    },
+	{
+      "description": "Senior Staff Writer at Motherboard and VICE Media. London, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://uk.linkedin.com/in/joseph-cox-2ba467173"
+        ]
+      },
+      "uuid": "c51f64da-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joseph Cox"
+    },
+	{
+      "description": "Jim Walter is a Senior Threat Researcher at SentinelOne focusing on evolving trends, actors, and tactics within the thriving ecosystem of cybercrime and crimeware. He specializes in the discovery and analysis of emerging cybercrime services and evolving communication channels leveraged by mid-level criminal organizations. Jim joined SentinelOne following 4 years at a security start-up, also focused on malware research and organized crime. Previously, he spent over 17 years at McAfee and Intel running their Threat Intelligence and Advanced Threat Research teams.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/author/jimw/"
+        ]
+      },
+      "uuid": "c51f65ac-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jim Walter"
+    },
+	{
+      "description": "Production Assistant for KSDK News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/notkelsi"
+        ],
+        "synonyms": [
+        "@notkelsi"
+        ]
+      },
+      "uuid": "c51f666a-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Kelsi Anderson"
+    },
+	{
+      "description": "Sean Lyngaas is CyberScoop’s Senior Reporter covering the Department of Homeland Security and Congress. He was previously a freelance journalist in West Africa, where he covered everything from a presidential election in Ghana to military mutinies in Ivory Coast for The New York Times. Lyngaas’ reporting also has appeared in The Washington Post, The Economist and the BBC, among other outlets. His investigation of cybersecurity issues in the nuclear sector, backed by a grant from the Pulitzer Center on Crisis Reporting, won plaudits from industrial security experts. He was previously a reporter with Federal Computer Week and, before that, with Smart Grid Today. Sean earned a B.A. in public policy from Duke University and an M.A. in International Relations from The Fletcher School of Law and Diplomacy at Tufts University.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cyberscoop.com/author/seanlyngaas/",
+		  "sean.lyngaas@cyberscoop.com",
+		  "https://twitter.com/snlyngaas"
+        ],
+        "synonyms": [
+        "@snlyngaas"
+        ]
+      },
+      "uuid": "c51f6732-8fc9-11ea-bc55-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sean Lyngaas"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -5157,5 +5385,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 24
+	"version": 25
 }
