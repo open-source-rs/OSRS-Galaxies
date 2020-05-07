@@ -540,6 +540,32 @@
       "value": "ENISA DB SE Rating: Total Data Processing Context (DPC) Modifier"
     },
 	{
+      "description": "Used as a statistical category for determining if the intent of the data breach was malicious or not.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "8a17f9e2-905f-11ea-bb37-0242ac130002",
+      "value": "ENISA DB SE Rating: Intent Not Malicious"
+    },
+	{
+      "description": "Used as a statistical category for determining if the intent of the data breach was malicious or not.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:ENISA DB SE Rating"
+        ],
+        "refs": [
+          "http://bookshop.europa.eu/uri?target=EUB:NOTICE:TP0413118:EN:HTML"
+        ]
+      },
+      "uuid": "8a17fe74-905f-11ea-bb37-0242ac130002",
+      "value": "ENISA DB SE Rating: Intent Malicious"
+    },
+	{
       "description": "Location, traffic data, data on personal preferences and habits, etc. Basic Score = 2. Decrease by 1 if the nature of the data set does not provide any substantial insight to the individual’s behavioural information or the data can be collected easily (independently from the breach) through publicly available sources (e.g. combination of information from web searches). Increase by 1 if the behavioural data and/or the characteristics of the controller are such that a profile of the individual can be created, exposing detailed information about his/her everyday life and habits. Increase by 2 if a profile based on individual’s sensitive data can be created. If no Behavioral Data is exposed then the score for this section is 0.",
       "meta": {
 	  "kill_chain": [
@@ -553,5 +579,5 @@
       "value": "ENISA DB SE Rating: Behavioral Data"
     }
 	  ],
-	"version": 2
+	"version": 3
 }
