@@ -5368,6 +5368,186 @@
       "value": "OSRS OSINT Author Index: Sean Lyngaas"
     },
 	{
+      "description": "Senior Reporter, SC Media at CyberRisk Alliance. Greater New York City Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/bradley-barth-130ab33/",
+		  "https://twitter.com/bbb1216bbb?lang=en"
+        ],
+        "synonyms": [
+        "@BBB1216BBB"
+        ]
+      },
+      "uuid": "c2fb83c4-9540-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Bradley Barth"
+    },
+	{
+      "description": "Staff Writer at NJBIZ. New Brunswick, New Jersey.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/gabriellesaulsbery/",
+		  "https://twitter.com/gsaulsbery?lang=en"
+        ],
+        "synonyms": [
+        "@GSaulsbery"
+        ]
+      },
+      "uuid": "c2fb866c-9540-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Gabrielle Saulsbery"
+    },
+	{
+      "description": "Sarah Coble is Infosecurity Magazine’s news reporter in North America. When she isn’t bringing you stories from across the pond, Sarah enjoys writing and recording music and trying her hand at everything from axe throwing to bear-spotting. After gaining a History degree, British born Sarah completed a Journalism NCTJ and began her writing career at a Cornish newspaper. She worked in London in the private equity, music and events industries before becoming a freelance writer and relocating to the US.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.infosecurity-magazine.com/profile/sarah-coble/"
+        ]
+      },
+      "uuid": "c2fb8766-9540-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sarah Coble"
+    },
+	{
+      "description": "Cybersecurity author affiliated with the cybersecurity company Palo Alto (Unit42)",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/author/brittany-ash/"
+        ]
+      },
+      "uuid": "c2fb882e-9540-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Brittany Barbehenn"
+    },
+	{
+      "description": "Junior Threat Intelligence Analyst at Palo Alto Networks. Reston, Virginia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/doel-santos/"
+        ]
+      },
+      "uuid": "c2fb88ec-9540-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Doel Santos"
+    },
+	{
+      "description": "Cybersecurity author affiliated with the cybersecurity company FireEye. Senior Technical Intelligence Analyst, Advisory Board Member at SANS GIAC. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joshua-shilko-04431467/",
+		  "https://twitter.com/p1tb00l"
+        ],
+        "synonyms": [
+        "@p1tb00l"
+        ]
+      },
+      "uuid": "3c13f8da-9542-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Joshua Shilko "
+    },
+	{
+      "description": "Outreach Engineer at Cisco. Austin, Texas.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nick-biasini-00707950/",
+		  "https://twitter.com/infosec_nick?lang=en"
+        ],
+        "synonyms": [
+        "@infosec_nick"
+        ]
+      },
+      "uuid": "3c13fb14-9542-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Nick Biasini"
+    },
+	{
+      "description": "Malware Research Engineer at Cisco Talos Intelligence Group. Washington D.C. Metro Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nicholaslister/"
+        ]
+      },
+      "uuid": "3c13fc0e-9542-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Nick Lister"
+    },
+	{
+      "description": "Senior Threat Researcher (Public Cloud Security - Unit 42) at Palo Alto Networks. Greater Denver Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/qquist/"
+        ],
+        "synonyms": [
+        "Nathaniel Q Quist"
+        ]
+      },
+      "uuid": "3c13fcea-9542-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Nathaniel Quist"
+    },
+	{
+      "description": "CIRT and Intelligence Analyst at Red Canary. Greater Nashville Area, TN.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tonymlambert/",
+		  "https://twitter.com/forensicitguy?lang=en",
+		  "https://forensicitguy.github.io/"
+        ],
+        "synonyms": [
+        "@ForensicITGuy"
+        ]
+      },
+      "uuid": "3c13fff6-9542-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Tony Lambert"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/05/analyzing-dark-crystal-rat-backdoor.html"
+        ]
+      },
+      "uuid": "219bec40-9544-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jacob Thompson"
+    },
+	{
+      "description": "Gal Kristal is a Security Researcher at SentinelOne who specializes in Offensive Security. Previously, he spent five years at Unit 8200, as an officer and team leader of security researchers. Cybersecurity researcher affiliated with the cybersecurity company SentinelLabs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/author/galk/"
+        ]
+      },
+      "uuid": "219bee7a-9544-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Gal Kristal"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -5385,5 +5565,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 25
+	"version": 26
 }

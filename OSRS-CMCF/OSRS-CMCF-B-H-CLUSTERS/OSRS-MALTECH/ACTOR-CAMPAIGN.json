@@ -1507,6 +1507,45 @@
       "value": "OSRS Actors AND Campaigns: PerSwaysion Campaign"
     },
 	{
+      "description": "Shiny Hunters is behind the recently reported breaches of Indonesian e-commerce giant Tokopedia and Indian e-learning platform Unacademy, as well as three new breaches affecting meal kit delivery service Home Chef, online printing and photo store Chatbooks and college-oriented news site Chronicle.com.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.scmagazine.com/home/security-news/cybercrime/shiny-hunters-bursts-onto-dark-web-scene-following-breaches-microsoft-data-theft-claims/"
+        ]
+      },
+      "uuid": "86dddb0c-9537-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Shiny Hunters (Threat Actor)"
+    },
+	{
+      "description": "Targets global financial industry with the EVILNUM malware. Uses phishing links to initiate the attack which allows for the download of trojanized files. The first version of EVILNUM was identified in 2018. The second version was discovered in an unrelated incident response investigation a year later, having infiltrated a FINTECH company. The initial reporting on this malware was the only sign of its presence, as it briefly faded from view.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.prevailion.com/2020/05/phantom-in-command-shell5.html"
+        ]
+      },
+      "uuid": "86ddde4a-9537-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Phantom in the Command Shell (Campaign)"
+    },
+	{
+      "description": "Cryptomining campaign identified by the cybersecurity company Red Canary. Leverages typical miners such as XMRig.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://redcanary.com/blog/blue-mockingbird-cryptominer/"
+        ]
+      },
+      "uuid": "86dddf94-9537-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Blue Mockingbird Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1523,5 +1562,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 17
+	"version": 18
 }

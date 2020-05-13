@@ -1312,6 +1312,19 @@
       "value": "OSRS SecTool: Bochs IDB"
     },
 	{
+      "description": "PhantomJS is a headless web browser scriptable with JavaScript. It runs on Windows, macOS, Linux, and FreeBSD. Using QtWebKit as the back-end, it offers fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://phantomjs.org/"
+        ]
+      },
+      "uuid": "57e0e420-9546-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: PhantomJS - Scriptable Headless Browser"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1326,5 +1339,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 22
+	"version": 23
 }

@@ -1960,6 +1960,56 @@
 			"value": "Kristin J. Tarbet, MD"
 		},
 		{
+			"description": "Moorestown Visiting Nurses & Hospice provides comprehensive health home care programs to residents of Burlington, Camden and Gloucester Counties in NJ.",
+			"meta": {
+				"refs": [
+					"https://www.moorestownvna.org/"
+				]
+			},
+			"uuid": "73a5de46-953b-11ea-bb37-0242ac130002",
+			"value": "Moorestown Visiting Nurse Association"
+		},
+		{
+			"description": "Grubman Shire Meiselas & Sacks is universally recognized as one of the premier entertainment and media law firms in the country, representing the most prominent companies, talent and executives.  As a transactional law firm specializing in all areas of entertainment and media – including music, film, television, live theater, books and magazines, fashion and sports – our ability to advise and service clients in all aspects of their careers and businesses is unparalleled.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/grubman-indursky-&-shire-p.c./about/"
+				]
+			},
+			"uuid": "73a5e08a-953b-11ea-bb37-0242ac130002",
+			"value": "Grubman Shire Meiselas & Sacks, P.C."
+		},
+		{
+			"description": "Diebold Nixdorf is an American multinational financial and retail technology company that specializes in the sale, manufacture, installation and service of self-service transaction systems (such as ATMs and currency processing systems), point-of-sale terminals, physical security products, and software and related services for global financial, retail, and commercial markets.",
+			"meta": {
+				"refs": [
+					"https://www.dieboldnixdorf.com/"
+				]
+			},
+			"uuid": "73a5e1a2-953b-11ea-bb37-0242ac130002",
+			"value": "Diebold Nixdorf"
+		},
+		{
+			"description": "Chatbooks offers photo books which automatically pull photos from Instagram, Facebook, and Camera Roll.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/chatbooks#section-overview"
+				]
+			},
+			"uuid": "73a5e27e-953b-11ea-bb37-0242ac130002",
+			"value": "Chatbooks, Inc."
+		},
+		{
+			"description": "Aeries Software is the benchmark in delivering industry leading student data management system software while providing unequaled customer service and innovative solutions for K-12 education.",
+			"meta": {
+				"refs": [
+					"https://www.aeries.com/about"
+				]
+			},
+			"uuid": "73a5e508-953b-11ea-bb37-0242ac130002",
+			"value": "Aeries Student Information System"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1970,5 +2020,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 60
+	"version": 62
 }

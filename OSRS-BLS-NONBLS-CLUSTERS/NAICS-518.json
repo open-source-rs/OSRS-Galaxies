@@ -97,6 +97,16 @@
       "value": "GoDaddy Inc."
     },
 	{
+      "description": "DigitalOcean, Inc. is an American cloud infrastructure provider headquartered in New York City with data centers worldwide. DigitalOcean provides developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers.",
+      "meta": {
+        "refs": [
+          "https://www.digitalocean.com/"
+        ]
+      },
+      "uuid": "094a5bf0-9539-11ea-bb37-0242ac130002",
+      "value": "DigitalOcean, Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [
@@ -107,5 +117,5 @@
       "value": "iNSYNQ"
     }
 	  ],
-	"version": 10
+	"version": 12
 }

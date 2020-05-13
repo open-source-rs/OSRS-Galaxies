@@ -711,6 +711,19 @@
       "value": "OSRS Ransomware: VCrypt Ransomware"
     },
 	{
+      "description": "This attack is potentially destructive as the ransomware appears to target databases and email servers for encryption. Analysis of the malware points to similarities between ColdLock and two previously known ransomware families, specifically Lockergoga, Freezing, and the EDA2 educational ransomware kit. There have been no indications that this attack has hit any other organization outside of those targeted. It is not believed that this family is currently in widespread use. It is believed that the attackers somehow gained access to the target organization’s Active Directory servers. From this point, they were able to set Group Policies that led to the ransomware file being downloaded and run onto machines within the affected domain. The payload arrives as a .NET executable (as a .DLL file), which has been packed-protected using the ConfuserEx packer. It uses PowerShell reflective loading of .NET executables to run the .DLL files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/targeted-ransomware-attack-hits-taiwanese-organizations/"
+        ]
+      },
+      "uuid": "d40265b6-9545-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: ColdLock Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -724,5 +737,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 15
+	"version": 16
 }

@@ -2581,6 +2581,46 @@
 			"value": "Santa Monica–Malibu Unified School District"
 		},
 		{
+			"description": "As per the Govt. Resolution no smartci-pune-2016/PR94/UD-23 dated 14/03/16, the composition of the Special Purpose Vehicle for Pune Municipal Corporation has been approved. Pune Smart City Development Corporation Limited (PSCDCL) was formed on 23rd March 2016 as a Special Purpose Vehicle (SPV) under Smart City Mission for implementation of Smart City Projects in Pune. The registered office of the Pune Smart City Development Corporation Ltd. (PSCDCL) is at the Pune Municipal Corporation (PMC) office, Main Building at Shivaji Nagar Pune. PSCDCL is envisaged to be a thin SPV with procurement from the market for all key positions including Heads of Departments. There is a governing board to manage affairs of the SPV, and is supported by various committees and the Chief Executive officer(also an Executive Director on the Board) .PR function is also put in place that will improve citizen interactions and also procure secretarial services. The PRO is expected to have an office which will answer any question raised by any citizen who walks in.",
+			"meta": {
+				"refs": [
+					"https://punesmartcity.in/about-pscdcl/"
+				]
+			},
+			"uuid": "8d92292c-9536-11ea-bb37-0242ac130002",
+			"value": "Pune Smart City Development Corporation Ltd."
+		},
+		{
+			"description": "The United States Marshals Service is a federal law enforcement agency within the U.S. Department of Justice. It is one of the oldest U.S. federal law enforcement agencies and was created by the Judiciary Act of 1789 during the presidency of George Washington as the Office of the United States Marshal.",
+			"meta": {
+				"refs": [
+					"http://www.usmarshals.gov/"
+				]
+			},
+			"uuid": "8d922b66-9536-11ea-bb37-0242ac130002",
+			"value": "United States Marshals Service"
+		},
+		{
+			"description": "The top authority in criminal matters in Texas is the Texas Court of Criminal Appeals, and the Supreme Court of Texas is the top tier in terms of judicial authority for civil matters. Supreme court justices currently serve for ten years, district court judges for eight and county court judges for four.",
+			"meta": {
+				"refs": [
+					"https://www.txcourts.gov/"
+				]
+			},
+			"uuid": "8d922c60-9536-11ea-bb37-0242ac130002",
+			"value": "Texas Judicial Branch"
+		},
+		{
+			"description": "The Federal Court of Australia is an Australian superior court of record which has jurisdiction to deal with most civil disputes governed by federal law (with the exception of family law matters), along with some summary (less serious) criminal matters. Cases are heard at first instance by single Judges.",
+			"meta": {
+				"refs": [
+					"https://www.fedcourt.gov.au/"
+				]
+			},
+			"uuid": "8d922d32-9536-11ea-bb37-0242ac130002",
+			"value": "Federal Court of Australia"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2591,5 +2631,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 50
+	"version": 51
 }

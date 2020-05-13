@@ -2040,6 +2040,45 @@
       "value": "OSRS OSINT Source: Vice News"
     },
 	{
+      "description": "New Jersey's leading business journal, providing 24x7 business news coverage, a weekly print edition, and multiple daily e-newsletters.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://njbiz.com/"
+        ]
+      },
+      "uuid": "e09524b8-9544-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: NJBIZ"
+    },
+	{
+      "description": "Managed cybersecurity service provider. Denver, CO.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://redcanary.com/"
+        ]
+      },
+      "uuid": "e09527ba-9544-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Red Canary"
+    },
+	{
+      "description": "Multi-factor and Risk-based authentication cybersecurity service provider. Tel Aviv-Yafo, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.silverfort.com/"
+        ]
+      },
+      "uuid": "e09528d2-9544-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Silverfort"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

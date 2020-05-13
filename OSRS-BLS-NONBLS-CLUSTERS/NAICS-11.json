@@ -17,6 +17,16 @@
       "value": "Test Agriculture, Forestry, Fishing and Hunting Value"
     },
 	{
+      "description": "Sparboe Farms, Inc. produces and markets eggs. The Company offers pasteurized liquid, tankers of liquid whole eggs, totes, bag-n-box, frozen pails, custom packaged liquid, and dried eggs. Sparboe Farms serves industrial and foodservice customers throughout the United States.",
+      "meta": {
+        "refs": [
+          "https://www.bloomberg.com/profile/company/0125234D:US"
+        ]
+      },
+      "uuid": "a7b3b1ac-9538-11ea-bb37-0242ac130002",
+      "value": "Sparboe Farms, Inc."
+    },
+	{
       "description": "Danish Agro is a cooperative farm supply company headquartered in Karise south of Copenhagen, Denmark. It is owned by 12,000 Danish farmers.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "Danish Agro"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

@@ -48,6 +48,16 @@
       "value": "Heyyo Social and Dating App"
     },
 	{
+      "description": "Available in the Google App Store. Meet people in your city, country or around the world, date, flirt, make new contacts, new friends or share your hobbies and interests. On mobifriends you can find love and friendship with men or women. Meet new friends, flirt on the chat, find love online, find a stable partner and get new dates. Look for singles, single women and single men, search for your new boyfriend or new girlfriend, find your ideal partner and see their pictures and profiles.",
+      "meta": {
+        "refs": [
+          "https://play.google.com/store/apps/details?id=com.mobifriends.app&hl=en_US"
+        ]
+      },
+      "uuid": "0b18070a-953b-11ea-bb37-0242ac130002",
+      "value": "Mobifriends"
+    },
+	{
       "description": "Health and fitness service provider.  Mainly gyms that patrons can engage in fitness activies.",
       "meta": {
         "refs": [
@@ -58,5 +68,5 @@
       "value": "VivaGym"
     }
 	  ],
-	"version": 4
+	"version": 6
 }

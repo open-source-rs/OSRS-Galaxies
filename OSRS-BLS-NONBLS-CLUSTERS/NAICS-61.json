@@ -577,6 +577,36 @@
 			"value": "SWPS University of Social Sciences and Humanities"
 		},
 		{
+			"description": "Sorting Hat Technologies Private Limited develops and operates an online platform for free education. The Company, through its platform, provides lessons, courses, and videos in multiple languages. Sorting Hat Technologies serves customers in India.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/1434617D:IN"
+				]
+			},
+			"uuid": "9f1662c8-9539-11ea-bb37-0242ac130002",
+			"value": "Sorting Hat Technologies Private Limited"
+		},
+		{
+			"description": "Education application created by Sorting Hat Technologies Private Ltd. With Unacademy, India's largest education platform, we are changing that. In a span of 6 months, over 300,000 students have benefited from over 2,400 online lessons and specialised courses on cracking various competitive examinations, on our platform. We have on board some of the top educators in the country, including Kiran Bedi, India's first woman IPS officer and now the Governor of Pondicherry. With over 2 million views every month, we are touching the lives of people in the remotest corners of the country.",
+			"meta": {
+				"refs": [
+					"https://unacademy.com/"
+				]
+			},
+			"uuid": "9f1664e4-9539-11ea-bb37-0242ac130002",
+			"value": "Unacademy"
+		},
+		{
+			"description": "The Ruhr-University Bochum, located on the southern hills of central Ruhr area in Bochum, was founded in 1962 as the first new public university in Germany after World War II. Instruction began in 1965.",
+			"meta": {
+				"refs": [
+					"https://www.ruhr-uni-bochum.de/en"
+				]
+			},
+			"uuid": "9f1665de-9539-11ea-bb37-0242ac130002",
+			"value": "The Ruhr-University Bochum"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -587,5 +617,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 29
+	"version": 31
 }

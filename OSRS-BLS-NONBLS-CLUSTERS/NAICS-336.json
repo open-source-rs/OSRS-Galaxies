@@ -17,6 +17,16 @@
       "value": "Test Transportation Equipment Manufacturing Value"
     },
 	{
+      "description": "Stadler Rail is a Swiss manufacturer of railway rolling stock, with an emphasis on regional train multiple units and trams. It is headquartered in Bussnang, Switzerland. Stadler Rail is also focused on niche products and is one of the last European manufacturers of rack railway rolling stock.",
+      "meta": {
+        "refs": [
+          "https://www.stadlerrail.com/en/"
+        ]
+      },
+      "uuid": "000c81a4-953d-11ea-bb37-0242ac130002",
+      "value": "Stadler Rail"
+    },
+	{
       "description": "ASCO Industries is a world leader in the design and manufacture of high lift devices, assemblies and major functional components for the aerospace industry.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "ASCO Industries"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

@@ -536,6 +536,16 @@
 			"value": "Parkview Medical Center"
 		},
 		{
+			"description": "Ashtabula County Medical Center is owned by Cleveland Clinic and is a run for-profit, community-oriented multi-specialty hospital, located in Ashtabula County, Ohio. It serves the people of Ashtabula County and the surrounding areas in Northeastern Ohio and Northwestern Pennsylvania.",
+			"meta": {
+				"refs": [
+					"https://www.acmchealth.org/"
+				]
+			},
+			"uuid": "bce664c8-953a-11ea-bb37-0242ac130002",
+			"value": "Cleveland Clinic Ashtabula County Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -546,5 +556,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 30
+	"version": 31
 }

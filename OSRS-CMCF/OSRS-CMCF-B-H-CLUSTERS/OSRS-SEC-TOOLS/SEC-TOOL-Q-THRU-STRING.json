@@ -789,6 +789,20 @@
       "value": "OSRS SecTool: sshprank"
     },
 	{
+      "description": "WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows. Its main function is secure file transfer between a local and a remote computer. Beyond this, WinSCP offers basic file manager and file synchronization functionality.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/WinSCP",
+		  "https://winscp.net/eng/index.php"
+        ]
+      },
+      "uuid": "a8709994-9546-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: WinSCP"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -802,5 +816,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 20
+	"version": 21
 }

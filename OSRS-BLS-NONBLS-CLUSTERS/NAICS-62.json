@@ -1216,6 +1216,16 @@
 			"value": "Fresenius Medical Care AG & Co."
 		},
 		{
+			"description": "About us. HEPACO is the premier environmental and emergency services company in the Eastern United States with coverage across 40+ regional offices. We specialize in emergency response, industrial services, remediation, marine services, and waste services.",
+			"meta": {
+				"refs": [
+					"https://hepaco.com/"
+				]
+			},
+			"uuid": "88161504-953a-11ea-bb37-0242ac130002",
+			"value": "HEPACO, LLC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1226,5 +1236,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 44
+	"version": 46
 }
