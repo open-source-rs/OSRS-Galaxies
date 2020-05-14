@@ -4181,6 +4181,136 @@
       "value": "OSRS Tool: EventBot Banking Trojan"
     },
 	{
+      "description": "The first version of EVILNUM was identified in 2018. The second version was discovered in an unrelated incident response investigation a year later, having infiltrated a FINTECH company. The initial reporting on this malware was the only sign of its presence, as it briefly faded from view. This agent was delivered to victims from a URL on a cloud-platform that hosts a zip file. If the link is clicked, the victim downloads a compressed folder riddled with trojanized files that masquerade as PDFs and JPEGs. These files display themselves as seemingly innocuous decoys to the end user, all while quietly running in the background. The first version of EVILNUM malware was observed and reported in 2018. The second version was reported by Palo Alto, targeting a specific financial technology (FinTech) organization. This report covers the latest versions 3.6 and 4.0, how they’re delivered, evasion techniques, and communications channels. The infection chain begins when the victim receives a link to a Uniform Resource Locator (URL) hosted on a cloud-based platform, in this case GoogleDrive. This technique is increasingly used to avoid intrusion detection system (IDS) rules, by hosting the malicious file on a 3rd party platform that was likely whitelisted. When that link is clicked and traffic to GoogleDrive is initiated, it begins the process of downloading a compressed folder from that location.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.prevailion.com/2020/05/phantom-in-command-shell5.html"
+        ]
+      },
+      "uuid": "18422d64-9547-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: EVILNUM"
+    },
+	{
+      "description": "Dacls is a RAT that was discovered by Qihoo 360 NetLab in December 2019 as a fully functional covert remote access Trojan targeting the Windows and Linux platforms. This Mac version is at least distributed via a Trojanized two-factor authentication application for macOS called MinaOTP, mostly used by Chinese speakers. Similar to the Linux variant, it boasts a variety of features including command execution, file management, traffic proxying and worm scanning. This RAT persists through LaunchDaemons or LaunchAgents which take a property list (plist) file that specifies the application that needs to be executed after reboot. The difference between LaunchAgents and LaunchDaemons is that LaunchAgents run code on behalf of the logged-in user while LaunchDaemon run code as root user. The config file contains the information about the victim’s machine such as Puid, Pwuid, plugins and C&C servers. The contents of the config file are encrypted using the AES encryption algorithm.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/"
+        ]
+      },
+      "uuid": "18423066-9547-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Dacls Remote Access Trojan (RAT)"
+    },
+	{
+      "description": "Magecart-like browser skimmer that steals financial transaction information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2020/05/credit-card-skimmer-masquerades-as-favicon/"
+        ]
+      },
+      "uuid": "18423174-9547-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Ant and Cockroach Skimmer"
+    },
+	{
+      "description": "Cybersecurity researchers monitored the evolution and the diffusion of an infostealer dubbed by the authors Poulight that most likely has a Russian origin. Poulight was first spotted by MalwareBytes researchers in middle March and indicators of compromise have been already shared among  the security community. The malicious code has advanced stealing capabilities and continues to evolve. Like most of the malware of this specific family, it is generated from a builder available to cyber criminal groups that offer a subscription plan for its product. The result is a .NET executable. The implemented evasion technique is one of the most classic ones, where, through the usage of Windows Management Instrumentation (WMI). In particular, in this way, some checks of the most relevant tracks of virtualization. These checks are also listed from the Al-Khaser or Pafish tools which are intended to be a test suite to detect malware analysis environments and designed to test the strength of the sandboxes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://yoroi.company/research/poulight-stealer-a-new-comprehensive-stealer-from-russia/"
+        ]
+      },
+      "uuid": "18423246-9547-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Poulight Stealer"
+    },
+	{
+      "description": "Check Point Research discovered new evidence of an ongoing cyber espionage operation against several national government entities in the Asia Pacific (APAC) region. This operation, which we were able to attribute to the Naikon APT group, used a new backdoor named Aria-body, in order to take control of the victims’ networks. In 2015, an extensive report by ThreatConnect and Defense Group revealed the APT group’s infrastructure and even exposed one of the group’s members. Since this report, no new evidence has come to light of further activity by the group, suggesting that they had either gone silent, increased their emphasis on stealth, or drastically changed their methodology of operations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/"
+        ]
+      },
+      "uuid": "1842330e-9547-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Aria-body RAT"
+    },
+	{
+      "description": "The BackConfig malware is used by the Hangover threat group (aka Neon, Viceroy Tiger, MONSOON). Targets of the spear-phishing attacks, using local and topical lures, included government and military organizations in South Asia. The BackConfig custom trojan has a flexible plug-in architecture for components offering various features, including the ability to gather system and keylog information and to upload and execute additional payloads. The initial infection occurs via a weaponized Microsoft Excel (XLS) document delivered via compromised legitimate websites for which the URLs are most likely shared via email. The documents use Visual Basic for Applications (VBA) Macro code which, if enabled by the victim, starts an installation process consisting of multiple components that result in the plug-in loader payload being downloaded and executed. The modular nature certainly allows for quicker changes to individual components and, perhaps more importantly for the attackers, splits up the malicious behaviors in such a way that could thwart sandbox and dynamic analysis systems, especially when analyzing the components in isolation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/"
+        ]
+      },
+      "uuid": "583f2ad8-9548-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: BackConfig Trojan"
+    },
+	{
+      "description": "This Malware Analysis Report (MAR) is the result of analytic efforts between the Department of Homeland Security (DHS), the Federal Bureau of Investigation (FBI), and the Department of Defense (DoD). Working with U.S. Government partners, DHS, FBI, and DoD identified Remote Access Tool (RAT) malware variants used by the North Korean government. This malware variant has been identified as COPPERHEDGE. The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.us-cert.gov/ncas/analysis-reports/ar20-133a"
+        ]
+      },
+      "uuid": "583f2d4e-9548-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: COPPERHEDGE RAT"
+    },
+	{
+      "description": "A beaconing module of the Manuscrypt malware family. This Malware Analysis Report (MAR) is the result of analytic efforts between the Department of Homeland Security (DHS), the Federal Bureau of Investigation (FBI), and the Department of Defense (DoD). Working with U.S. Government partners, DHS, FBI, and DoD identified Trojan malware variants used by the North Korean government. This malware variant has been identified as TAINTEDSCRIBE. The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.us-cert.gov/ncas/analysis-reports/ar20-133b"
+        ]
+      },
+      "uuid": "583f2eb6-9548-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: TAINTEDSCRIBE"
+    },
+	{
+      "description": "This Malware Analysis Report (MAR) is the result of analytic efforts between the Department of Homeland Security (DHS), the Federal Bureau of Investigation (FBI), and the Department of Defense (DoD). Working with U.S. Government partners, DHS, FBI, and DoD identified Trojan malware variants used by the North Korean government. This malware variant has been identified as PEBBLEDASH. The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.us-cert.gov/ncas/analysis-reports/ar20-133c"
+        ]
+      },
+      "uuid": "583f305a-9548-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: PEBBLEDASH"
+    },
+	{
+      "description": "Recently, cybersecurity researchers worked on a new C# variant of Dark Crystal RAT (DCRat). Using open source intelligence and prior work, performed sandbox testing, and reverse engineered the Dark Crystal RAT to review its capabilities and communication protocol.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/05/analyzing-dark-crystal-rat-backdoor.html"
+        ]
+      },
+      "uuid": "583f3136-9548-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Dark Crystal RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4194,5 +4324,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 28
+	"version": 30
 }
