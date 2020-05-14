@@ -1325,6 +1325,19 @@
       "value": "OSRS SecTool: PhantomJS - Scriptable Headless Browser"
     },
 	{
+      "description": "Capstone is a disassembly framework with the target of becoming the ultimate disasm engine for binary analysis and reversing in the security community.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/aquynh/capstone"
+        ]
+      },
+      "uuid": "3201ba48-95ed-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Capstone Engine"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1339,5 +1352,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 23
+	"version": 24
 }
