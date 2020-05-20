@@ -67,6 +67,16 @@
       "value": "Malindo Air"
     },
 	{
+      "description": "EasyJet Switzerland SA, styled as easyJet, is a Swiss low-cost airline based in Meyrin, Geneva. It operates scheduled flights as an EasyJet franchisee from Geneva Airport and EuroAirport Basel–Mulhouse–Freiburg.",
+      "meta": {
+        "refs": [
+          "https://www.easyjet.com/en"
+        ]
+      },
+      "uuid": "e45ff3e4-9aca-11ea-bb37-0242ac130002",
+      "value": "EasyJet Switzerland SA"
+    },
+	{
       "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
       "meta": {
         "refs": [
@@ -77,5 +87,5 @@
       "value": "Cleveland Hopkins International Airport"
     }
 	  ],
-	"version": 5
+	"version": 7
 }

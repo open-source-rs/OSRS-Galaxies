@@ -693,6 +693,20 @@
       "value": "OSRS US State Index: Wyoming, WY"
     },
 	{
+      "description": "Arkansas is a southern U.S. state bordering the Mississippi River. It's known for its abundant park and wilderness areas, with terrain encompassing mountains, caves, rivers and hot springs. The rugged Ozarks region in its northwest has hiking trails and limestone caves such as Blanchard Springs Caverns. Its capital, Little Rock, hosts the Clinton Presidential Center, housing Bill Clinton’s presidential archives.",
+      "meta": {
+	  "kill_chain": [
+          "general-artifact:US State Index"
+        ],
+        "refs": [
+          "https://portal.arkansas.gov/",
+          "https://en.wikipedia.org/wiki/Arkansas"
+        ]
+      },
+      "uuid": "42b1adb2-9ac5-11ea-bb37-0242ac130002",
+      "value": "OSRS US State Index: Arkansas, AR"
+    },
+	{
       "description": "Alaska is a U.S. state in the northwest extremity of the United States West Coast, just across the Bering Strait from Asia. The Canadian province of British Columbia and territory of Yukon border the state to the east and southeast.",
       "meta": {
 	  "kill_chain": [
@@ -707,5 +721,5 @@
       "value": "OSRS US State Index: Alaska, AK"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

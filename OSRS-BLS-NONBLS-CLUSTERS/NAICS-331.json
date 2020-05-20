@@ -27,6 +27,16 @@
       "value": "Blastech Mobile LLC"
     },
 	{
+      "description": "BlueScope Steel Limited is an Australian flat product steel producer with resources coming in from New Zealand, Pacific Islands, North America, and Asia.",
+      "meta": {
+        "refs": [
+          "https://www.bluescope.com/"
+        ]
+      },
+      "uuid": "1d41337e-9acd-11ea-bb37-0242ac130002",
+      "value": "BlueScope Steel Limited"
+    },
+	{
       "description": "Norsk Hydro ASA is a Norwegian aluminium and renewable energy company, headquartered in Oslo. It is one of the largest aluminium companies worldwide. It has operations in some 50 countries around the world and is active on all continents.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Norsk Hydro"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

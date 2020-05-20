@@ -4311,6 +4311,111 @@
       "value": "OSRS Tool: Dark Crystal RAT"
     },
 	{
+      "description": "Malware toolkit used for attacking air-gapped networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/"
+        ]
+      },
+      "uuid": "e313a016-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Ramsay Framework"
+    },
+	{
+      "description": "Tool used for weaponizing RTF document types.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://nao-sec.org/2020/01/an-overhead-view-of-the-royal-road.html"
+        ]
+      },
+      "uuid": "e313a340-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Royal Road RTF Weaponizer"
+    },
+	{
+      "description": "The malware has functionality that enables it to download, upload, and execute files, as well as steal credentials from Chrome or Firefox browsers. It can also perform file management, among other things. It targets Windows systems, but its design and certain pieces of code suggest cross-platform compatibility may be a future goal. The infection begins with a Java downloader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/qnodeservice-node-js-trojan-spread-via-covid-19-lure/"
+        ]
+      },
+      "uuid": "e313a444-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: QNodeService Downloader"
+    },
+	{
+      "description": "Malware tool used to attack air-gapped networks via portable USB devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-troopers-back-usbferry-attack-targets-air-gapped-environments/"
+        ]
+      },
+      "uuid": "e313a50c-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: USBferry (USB Malware)"
+    },
+	{
+      "description": "This RAT uses the Nullsoft Scriptable Install System (NSIS) installers. NSIS is an open source tool for creating Windows installers, designed for Internet-based software distribution. Has the ability to kill processes, execute command line programs, dynamically decompress files, and load .dlls for its exports.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2020/05/14/raticate/"
+        ]
+      },
+      "uuid": "e313a5ca-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: RATicate RAT"
+    },
+	{
+      "description": "Malware framework for the delivery of spyware type payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/103395/malware/mandrake-android-platform.html?utm_source=feedly&utm_medium=rss&utm_campaign=mandrake-android-platform",
+		  "https://www.bitdefender.com/files/News/CaseStudies/study/329/Bitdefender-PR-Whitepaper-Mandrake-creat4464-en-EN-interactive.pdf"
+        ]
+      },
+      "uuid": "e313a688-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Mandrake Spyware Framework"
+    },
+	{
+      "description": "Alternate loader plugin for the Trickbot malware framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cybersecurity.att.com/blogs/labs-research/trickbot-bazarloader-in-depth"
+        ]
+      },
+      "uuid": "e313a73c-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Trickbot BazarLoader"
+    },
+	{
+      "description": "RAT that targets the Android operating system. Based on a previous version - Dendroid.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/05/the-wolf-is-back.html"
+        ]
+      },
+      "uuid": "e313a8cc-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: WolfRAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4324,5 +4429,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 30
+	"version": 31
 }

@@ -2020,6 +2020,56 @@
 			"value": "Ulmon GmbH"
 		},
 		{
+			"description": "Our team is dedicated to the care and treatment of patients in pain. New patients are seen on physician referral only. To help us diagnose and treat, we must have relevant medical records, x-rays, and test reports. We accept most major health insurance plans.",
+			"meta": {
+				"refs": [
+					"https://nspaincare.com/"
+				]
+			},
+			"uuid": "6a92bb52-9acd-11ea-bb37-0242ac130002",
+			"value": "North Shore Pain Management"
+		},
+		{
+			"description": "The smartest, simplest contacts app.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/covve"
+				]
+			},
+			"uuid": "6a92be36-9acd-11ea-bb37-0242ac130002",
+			"value": "Covve"
+		},
+		{
+			"description": "As a premier provider for Detroit Wayne Integrated Health Network (DWIHN), PsyGenics offers a full array of services for you or your loved one. PsyGenics believes in the highest quality standards and has earned full accreditation by the Commission on Accreditation of Rehabilitation Facilities (CARF). Services include Supports Coordination, psychological and psychiatric care, behavior modification, peer mentoring, and primary care. PsyGenics offers occupational therapy, speech therapy, individual and family therapy. We also coordinate and assist with supportive housing, skill building, respite services, community living supports as well as guardianship and power of attorney.",
+			"meta": {
+				"refs": [
+					"https://www.psygenics.org/"
+				]
+			},
+			"uuid": "6a92bfb2-9acd-11ea-bb37-0242ac130002",
+			"value": "PsyGenics, Inc."
+		},
+		{
+			"description": "Edison Software is a consumer technology company creating artificial intelligence to transform the way people communicate. Based in San Jose, California, Edison is backed by Mayfield and U.S. Venture Partners.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/edison-software/about/"
+				]
+			},
+			"uuid": "6a92c12e-9acd-11ea-bb37-0242ac130002",
+			"value": "Edison Mail (Edison Software)"
+		},
+		{
+			"description": "Serco Group plc's roots go back to 1929, becoming Serco Limited in 1987 and in 1988 was listed on the London Stock Exchange. Serco specialise in the delivery of essential public services, with over 50,000 people working in defence, transport, justice, immigration, healthcare and other citizen services across our four regions - UK & Europe, North America, Asia Pacific and Middle East.",
+			"meta": {
+				"refs": [
+					"https://www.serco.com/"
+				]
+			},
+			"uuid": "6a92c28c-9acd-11ea-bb37-0242ac130002",
+			"value": "Serco Group plc"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2030,5 +2080,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 62
+	"version": 64
 }

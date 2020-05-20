@@ -57,6 +57,16 @@
 			"value": "Synology Inc."
 		},
 		{
+			"description": "Mitsubishi Electric Corporation is a Japanese multinational electronics and electrical equipment manufacturing company headquartered in Tokyo, Japan. It is one of the core companies of Mitsubishi.",
+			"meta": {
+				"refs": [
+					"http://www.mitsubishielectric.com/"
+				]
+			},
+			"uuid": "1b225f2a-9acb-11ea-bb37-0242ac130002",
+			"value": "Mitsubishi Electric Corp."
+		},
+		{
 			"description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.",
 			"meta": {
 				"refs": [
@@ -68,5 +78,5 @@
 			"value": "Cisco"
 		}
 	],
-	"version": 4
+	"version": 5
 }

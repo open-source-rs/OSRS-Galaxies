@@ -177,6 +177,16 @@
       "value": "Tarkett S.A."
     },
 	{
+      "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG. Mercedes-Benz is known for luxury vehicles, vans, trucks, buses, coaches and ambulances. The headquarters is in Stuttgart, Baden-Württemberg. The name first appeared in 1926 under Daimler-Benz.",
+      "meta": {
+        "refs": [
+          "https://www.mbusa.com/en/home"
+        ]
+      },
+      "uuid": "7aa1392a-9acc-11ea-bb37-0242ac130002",
+      "value": "Mercedes-Benz"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
@@ -187,5 +197,5 @@
       "value": "Toyota"
     }
 	  ],
-	"version": 17
+	"version": 19
 }

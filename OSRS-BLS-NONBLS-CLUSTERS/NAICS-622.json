@@ -546,6 +546,16 @@
 			"value": "Cleveland Clinic Ashtabula County Medical Center"
 		},
 		{
+			"description": "Geisinger Wyoming Valley Medical Center (GWV) has been a part of the Geisinger family since opening as the NPW Medical Center in 1981. The professionals at GWV provide high-quality, coordinated, patient-centered care for residents of northeastern Pennsylvania and beyond. Located just outside of Wilkes-Barre, GWV is home to a Level II trauma center to provide care for the most seriously ill and injured patients, as well as services in more than 50 specialty and subspecialty areas. The GWV campus includes the Richard and Marion Pearsall Heart Hospital, the Frank M. and Dorothea Henry Cancer Center, the Tambur Family Neonatal Intensive Care Unit and the Critical Care Building, all providing top-rated specialty care.",
+			"meta": {
+				"refs": [
+					"https://www.geisinger.org/patient-care/find-a-location/geisinger-wyoming-valley-medical-center"
+				]
+			},
+			"uuid": "24dd7c74-9acc-11ea-bb37-0242ac130002",
+			"value": "Geisinger Wyoming Valley Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -556,5 +566,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 31
+	"version": 33
 }

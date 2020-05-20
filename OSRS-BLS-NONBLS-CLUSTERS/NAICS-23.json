@@ -17,6 +17,16 @@
       "value": "Test Construction Value"
     },
 	{
+      "description": "Interserve is a multinational group of support services and construction companies based in the UK, with a revenue of £2.7 billion in 2018 and a workforce of 68,000 people worldwide. The group has its headquarters in Reading, Berkshire.",
+      "meta": {
+        "refs": [
+          "https://www.interserve.com/"
+        ]
+      },
+      "uuid": "5e7a0714-9acb-11ea-bb37-0242ac130002",
+      "value": "Interserve"
+    },
+	{
       "description": "EMCOR Group is a Fortune 500 company based in Norwalk, Connecticut, USA. EMCOR provides mechanical and electrical construction, industrial and energy infrastructure and facilities services to a broad range of commercial, industrial, utility and institutional customers. EMCOR comprises 80 or more operating companies, has approximately 170 locations and employs more than 33,000 people. The company was listed as number 375 on the 2018 Fortune 500 list.",
       "meta": {
         "refs": [
@@ -28,5 +38,5 @@
       "value": "EMCOR Group"
     }
 	  ],
-	"version": 2
+	"version": 4
 }

@@ -5548,6 +5548,149 @@
       "value": "OSRS OSINT Author Index: Gal Kristal"
     },
 	{
+      "description": "Journalist-Consumer reporter at CBC. Halifax, Canada Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/yvonne-colbert-6176a7125/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "a9be48b6-9ad5-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Yvonne Colbert "
+    },
+	{
+      "description": "Senior Malware Researcher at ESET Ceska republika. Prague, The Capital, Czech Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/pkalnai/?originalSubdomain=cz"
+        ]
+      },
+      "uuid": "a9be4abe-9ad5-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Peter Kalnai"
+    },
+	{
+      "description": "Local journalist Fox 7 News. Austin, TX.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fox7austin.com/news/txdot-reports-ransomware-attack-on-agency-network"
+        ]
+      },
+      "uuid": "a9be4bae-9ad5-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Elizabeth Evans"
+    },
+	{
+      "description": "Govtech Online News affiliated journalist.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.govtech.com/security/Ransomware-Attack-Cripples-New-Jersey-Towns-Website.html"
+        ]
+      },
+      "uuid": "a9be4e60-9ad5-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Rodrigo Torrejon"
+    },
+	{
+      "description": "Malware Researcher at Trend Micro. Toronto, Ontario, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/matthew-stewart-054959149/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "a9be4f64-9ad5-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Matthew Stewart"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Sophos.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2020/05/14/raticate/"
+        ]
+      },
+      "uuid": "4def67ee-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Markel Picado"
+    },
+	{
+      "description": "Online journalist for the Japanese online publicaion Mainichi.jp.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://mainichi.jp/english/articles/20200513/p2a/00m/0na/002000c"
+        ]
+      },
+      "uuid": "4def6a46-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Kenji Noro"
+    },
+	{
+      "description": "State government reporter at Chicago Tribune Media Group. Springfield, Illinois.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jamiemunks/"
+        ]
+      },
+      "uuid": "4def6c76-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jamie Munks"
+    },
+	{
+      "description": "Online journalist affiliated with the online news publication RTL.lu.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://today.rtl.lu/news/luxembourg/a/1520365.html"
+        ]
+      },
+      "uuid": "4def6d5c-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sascha Georges"
+    },
+	{
+      "description": "Online journalist affiliated with the online news publication RTL.lu.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://today.rtl.lu/news/luxembourg/a/1520365.html"
+        ]
+      },
+      "uuid": "4def6e1a-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Andy Brucker"
+    },
+	{
+      "description": "Malware Researcher at Check Point Software Technologies. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ofer-caspi-00a14861/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "4def6ed8-9ad6-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Ofer Caspi"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

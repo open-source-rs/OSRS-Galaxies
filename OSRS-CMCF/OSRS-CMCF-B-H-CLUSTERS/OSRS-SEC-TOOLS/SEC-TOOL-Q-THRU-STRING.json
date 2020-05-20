@@ -803,6 +803,19 @@
       "value": "OSRS SecTool: WinSCP"
     },
 	{
+      "description": "Rclone is a command line program to sync files and directories to and from.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://rclone.org/"
+        ]
+      },
+      "uuid": "94b1d1d6-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Rclone"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -816,5 +829,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 21
+	"version": 23
 }

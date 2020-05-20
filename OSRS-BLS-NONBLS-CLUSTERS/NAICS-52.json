@@ -377,6 +377,16 @@
 			"value": "Banco de Costa Rica"
 		},
 		{
+			"description": "BlockFi provides the wealth management products cryptoinvestors need, all powered by blockchain technology.",
+			"meta": {
+				"refs": [
+					"https://blockfi.com/"
+				]
+			},
+			"uuid": "aaeb242a-9acb-11ea-bb37-0242ac130002",
+			"value": "Blockfi Lending LLC"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -387,5 +397,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 25
+	"version": 27
 }

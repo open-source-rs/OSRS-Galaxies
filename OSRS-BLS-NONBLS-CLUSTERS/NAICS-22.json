@@ -57,6 +57,17 @@
       "value": "Northwest Territories Power Corporation"
     },
 	{
+      "description": "Elexon Ltd. provides electricity trading arrangements. The Company offers energy consulting, managing energy systems, and energy services in wholesale electricity market. Elexon operates in the United Kingdom. ELEXON compares how much electricity generators and suppliers say they will produce or consume with actual volumes. We work out a price for the difference and transfer funds. This involves taking 1.25 million meter readings every day.",
+      "meta": {
+        "refs": [
+          "https://www.elexon.co.uk/",
+		  "https://www.bloomberg.com/profile/company/3893366Z:LN"
+        ]
+      },
+      "uuid": "210462d6-9acf-11ea-bb37-0242ac130002",
+      "value": "Elexon Ltd."
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [
@@ -67,5 +78,5 @@
       "value": "Andhra Pradesh Power Generation Corporation Limited"
     }
 	  ],
-	"version": 5
+	"version": 7
 }

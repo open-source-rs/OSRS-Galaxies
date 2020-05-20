@@ -17,6 +17,16 @@
       "value": "Test Rail Transportation Value"
     },
 	{
+      "description": "Gautrain is an 80-kilometre commuter rail system in Gauteng, South Africa, which links Johannesburg, Pretoria, Ekurhuleni and OR Tambo International Airport. The service offers a fast, convenient, safe and efficient public transport service.",
+      "meta": {
+        "refs": [
+          "https://www.gautrain.co.za/"
+        ]
+      },
+      "uuid": "baa24224-9ace-11ea-bb37-0242ac130002",
+      "value": "Gautrain"
+    },
+	{
       "description": "The Kyushu Railway Company, also referred to as JR Kyushu, is one of the constituent companies of Japan Railways Group aka JR Group. It operates intercity rail services in Kyushu, Japan and the JR Kyushu Jet Ferry Beetle hydrofoil service across the Tsushima Strait between Fukuoka and Busan, South Korea. It also operates hotels, restaurants, and drugstores across its service region. JR Kyushu's headquarters are in Hakata-ku, Fukuoka.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "Kyushu Railway Co."
     }
 	  ],
-	"version": 2
+	"version": 3
 }

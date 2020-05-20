@@ -1338,6 +1338,32 @@
       "value": "OSRS SecTool: Capstone Engine"
     },
 	{
+      "description": "Allatori is a second generation Java obfuscator, which offers a full spectrum of protection for your intellectual property.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "http://www.allatori.com/"
+        ]
+      },
+      "uuid": "15bad468-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Allatori Obfuscator"
+    },
+	{
+      "description": "MinaOTP is a two-factor authentication tool that runs at Wechat as a mini program. It's based on RFC6238, and the algorithm was implement by javascript. The program will generate secure dynamic 2FA tokens for you, and the add, edit, remove are pretty convenient.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/MinaOTP/MinaOTP"
+        ]
+      },
+      "uuid": "15bad6ac-9ada-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: MinaOTP"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1352,5 +1378,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 24
+	"version": 25
 }

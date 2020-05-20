@@ -2079,6 +2079,84 @@
       "value": "OSRS OSINT Source: Silverfort"
     },
 	{
+      "description": "Fox News affiliate station. Austin, TX.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.fox7austin.com/"
+        ]
+      },
+      "uuid": "99600192-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: FOX7 Austin"
+    },
+	{
+      "description": "Online news site specializing in technologies that focus on government support.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.govtech.com/"
+        ]
+      },
+      "uuid": "996004d0-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Government Technology Online"
+    },
+	{
+      "description": "Online news site. Japan.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://mainichi.jp/english/articles/20200513/p2a/00m/0na/002000c"
+        ]
+      },
+      "uuid": "996005ca-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: The Mainichi"
+    },
+	{
+      "description": "The Chicago Tribune is a daily newspaper based in Chicago, Illinois, United States, owned by Tribune Publishing. Founded in 1847, and formerly self-styled as the World's Greatest Newspaper, it remains the most-read daily newspaper of the Chicago metropolitan area and the Great Lakes region.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.chicagotribune.com/"
+        ]
+      },
+      "uuid": "996007aa-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: The Chicago Tribune"
+    },
+	{
+      "description": "RTL is the main television channel in Luxembourg, broadcasting in Luxembourgish. It is part of RTL Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://today.rtl.lu/"
+        ]
+      },
+      "uuid": "99600886-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: RTL Today"
+    },
+	{
+      "description": "Online cybersecurity blog affiliated with the cybersecurity company Alienvault.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cybersecurity.att.com/blogs"
+        ]
+      },
+      "uuid": "99600944-9ad7-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Alienvault Alien Labs"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -2094,5 +2172,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 24
+	"version": 25
 }

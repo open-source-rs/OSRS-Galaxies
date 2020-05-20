@@ -146,6 +146,26 @@
 			"value": "Wappalyzer"
 		},
 		{
+			"description": "The Star Tribune is the largest newspaper in Minnesota. It originated as the Minneapolis Tribune in 1867 and the competing Minneapolis Daily Star in 1920. During the 1930s and 1940s Minneapolis's competing newspapers were consolidated, with the Tribune published in the morning and the Star in the evening.",
+			"meta": {
+				"refs": [
+					"https://www.startribune.com/"
+				]
+			},
+			"uuid": "b2bd503c-9acc-11ea-bb37-0242ac130002",
+			"value": "The Star Tribune"
+		},
+		{
+			"description": "The Nikkei, formally known as The Nihon Keizai Shimbun, is Nikkei, Inc.'s flagship publication and the world's largest financial newspaper, with a daily circulation exceeding three million. The Nikkei 225, a stock market index for the Tokyo Stock Exchange, has been calculated by the newspaper since 1950.",
+			"meta": {
+				"refs": [
+					"https://asia.nikkei.com/"
+				]
+			},
+			"uuid": "b2bd53c0-9acc-11ea-bb37-0242ac130002",
+			"value": "Nikkei Inc."
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [
@@ -156,5 +176,5 @@
 			"value": "Newsquest"
 		}
 	],
-	"version": 16
+	"version": 17
 }

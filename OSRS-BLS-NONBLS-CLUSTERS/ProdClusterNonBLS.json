@@ -2621,6 +2621,96 @@
 			"value": "Federal Court of Australia"
 		},
 		{
+			"description": "The Government of Nova Scotia refers to the provincial government of the Canadian province of Nova Scotia. Nova Scotia is one of Canada’s four Atlantic Provinces, and the second-smallest province by area. The capital of the province, Halifax, is Nova Scotia's largest city and its political capital.",
+			"meta": {
+				"refs": [
+					"https://novascotia.ca/government/"
+				]
+			},
+			"uuid": "1f16e2de-9ac3-11ea-bb37-0242ac130002",
+			"value": "The Government of Nova Scotia"
+		},
+		{
+			"description": "The Government Pension Fund of Norway comprises two entirely separate sovereign wealth funds owned by the government of Norway. The Government Pension Fund Global, also known as the Oil Fund, was established in 1990 to invest the surplus revenues of the Norwegian petroleum sector.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway"
+				]
+			},
+			"uuid": "1f16e55e-9ac3-11ea-bb37-0242ac130002",
+			"value": "The Government Pension Fund of Norway"
+		},
+		{
+			"description": "The Texas Department of Transportation is a government agency in the American state of Texas. Though the public face of the agency is generally associated with the construction and maintenance of the state's immense state highway system, the agency is also responsible for overseeing aviation, rail, and public transportation systems in the state. At one time, TxDOT also administered vehicle registration but this function transferred to the Texas Department of Motor Vehicles, a state agency which began operations in November 2009. The agency has been headquartered in the Dewitt C. Greer Building at 125 East 11th Street in Downtown Austin, Texas, since 1933.",
+			"meta": {
+				"refs": [
+					"https://www.txdot.gov/"
+				]
+			},
+			"uuid": "1f16e7ca-9ac3-11ea-bb37-0242ac130002",
+			"value": "The Texas Department of Transportation"
+		},
+		{
+			"description": "Bernards Township is a township in Somerset County, New Jersey, United States. At the 2010 United States Census, the township's population was 26,652, reflecting an increase of 2,077 from the 24,575 counted in the 2000 Census, which had in turn increased by 7,376 from the 17,199 counted in the 1990 Census.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Bernards_Township,_New_Jersey"
+				]
+			},
+			"uuid": "1f16e8b0-9ac3-11ea-bb37-0242ac130002",
+			"value": "Bernards Township, NJ"
+		},
+		{
+			"description": "The focus of the Arkansas Division of Workforce Services is to provide individuals the tools they need to enhance and sustain their employability. And, through the education and skills training offered to jobseekers, employers are reducing hidden costs associated with lost production time and turnover rates by hiring qualified workers.",
+			"meta": {
+				"refs": [
+					"https://www.dws.arkansas.gov/"
+				]
+			},
+			"uuid": "1f16e978-9ac3-11ea-bb37-0242ac130002",
+			"value": "Arkansas Division of Workforce Services (ADWS)"
+		},
+		{
+			"description": "Wright County is a county in the U.S. state of Minnesota. As of the 2010 census, the population was 124,700. Its county seat is Buffalo. The county was founded in 1855. Wright County is part of the Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.co.wright.mn.us/"
+				]
+			},
+			"uuid": "373e1908-9ac4-11ea-bb37-0242ac130002",
+			"value": "Wright County, MN"
+		},
+		{
+			"description": "The Illinois Department of Employment Security is the code department of the Illinois state government that administers state unemployment benefits, runs the employment service and Illinois Job Bank, and publishes labor market information. As of 12 January 2015, Jeffrey D. Mays was the Director of Employment Security.",
+			"meta": {
+				"refs": [
+					"https://www2.illinois.gov/ides/Pages/default.aspx"
+				]
+			},
+			"uuid": "373e1b1a-9ac4-11ea-bb37-0242ac130002",
+			"value": "The Illinois Department of Employment Security"
+		},
+		{
+			"description": "The Capital of Russia. Moscow is located on the Moskva River near the Moscow Canal junction. It is Russia's largest city, with a population just over 12 million people. It is also the leading cultural, industrial, scientific, educational, and economic center of the country.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Moscow"
+				]
+			},
+			"uuid": "373e1c1e-9ac4-11ea-bb37-0242ac130002",
+			"value": "The City of Moscow (Capital of Russia)"
+		},
+		{
+			"description": "Luxembourg has a Constitutional Court, and two jurisdictions - a judicial branch dealing with civil disputes, disputes of a penal nature and disputes regarding political rights, as well as an administrative branch which rules on disputes with the authorities.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Judiciary_of_Luxembourg"
+				]
+			},
+			"uuid": "373e1ebc-9ac4-11ea-bb37-0242ac130002",
+			"value": "The judiciary of Luxembourg"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2631,5 +2721,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 51
+	"version": 52
 }

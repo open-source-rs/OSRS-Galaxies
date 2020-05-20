@@ -724,6 +724,20 @@
       "value": "OSRS Ransomware: ColdLock Ransomware"
     },
 	{
+      "description": "After the ransomware encrypts a victim’s files, a random extension will be added onto the file name. A file named ako-readme.txt will also be placed onto the locked machines desktop with instructions on how to proceed. Some examples instruct the victim to contact the attackers email address, while others demand bitcoin. The ransom demand examples we’ve seen so far range between 3000-3800 dollars in Bitcoin (btc) with the ransom amount doubling after 2 days.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.databreaches.net/ako-ransomware-operators-put-some-hurt-on-pain-management-doctors/",
+		  "https://appriver.com/blog/ako-ransomware-targets-networks-via-email"
+        ]
+      },
+      "uuid": "5e751eae-9ad8-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Ako Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -737,5 +751,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 16
+	"version": 18
 }
