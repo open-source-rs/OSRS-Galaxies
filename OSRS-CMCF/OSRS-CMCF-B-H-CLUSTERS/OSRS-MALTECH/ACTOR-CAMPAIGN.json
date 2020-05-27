@@ -1546,6 +1546,32 @@
       "value": "OSRS Actors AND Campaigns: Blue Mockingbird Campaign"
     },
 	{
+      "description": "Threat actor attributed to the ShuangQiang(double gun) campaign that used various DNS manipulation tactics to compromise their targets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/shuangqiang/"
+        ]
+      },
+      "uuid": "64f4c0e0-a03c-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Double Gun (Threat Actor) "
+    },
+	{
+      "description": "Campaign attributed to the threat actor Double Gun.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/shuangqiang/"
+        ]
+      },
+      "uuid": "b6081e4e-a03e-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: ShuangQiang Campaign (Double Gun)"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1562,5 +1588,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 18
+	"version": 20
 }

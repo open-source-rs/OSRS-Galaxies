@@ -4416,6 +4416,58 @@
       "value": "OSRS Tool: WolfRAT"
     },
 	{
+      "description": "The GhostDNS source code can be purchased on the darknet. In 2018, it was sold online for around 450 US dollars. Apart from the GhostDNS source code that anyone can buy and run on their own, credit card details stolen using GhostDNS can also be purchased for about 10 – 25 USD, depending on the number of credit card details. According to our research, the data was still available for purchase in April 2020. Deployed to take over DNS and routing services. Using CSRF attacks is a common way to hijack DNS settings and send users to phishing websites instead of the real sites. This type of attack is very popular in Brazil where attackers use this vector attack to obtain sensitive information, like user login credentials from some of the biggest banks in Brazil, and credit card numbers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/simonamusilova/ghostdns-source-code-leaked/"
+        ]
+      },
+      "uuid": "e5facdd4-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: GhostDNS Router Exploit Kit"
+    },
+	{
+      "description": "The simple, fast, powerful SYN-TCP port scanner source code. Used for scanning networks. Used by threat actor Winnti Group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/"
+        ]
+      },
+      "uuid": "e5fad054-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: WinEggDrop Port Scanner"
+    },
+	{
+      "description": "Android banking trojan. This banking trojan was available on Google Play at the time of the analysis. The app is fitted with standard information-stealing capabilities. However, this banker is exceptionally insidious in that after installation it requires a single action from the victim – enable Android’s Accessibility Service – to fully unleash the app’s malicious functionality.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/05/22/insidious-android-malware-gives-up-all-malicious-features-but-one-gain-stealth/"
+        ]
+      },
+      "uuid": "e5fad162-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: DEFENSOR ID Banking Trojan"
+    },
+	{
+      "description": "Trojan installed via masquerading inside Discord server installation files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/discord-client-turned-into-a-password-stealer-by-updated-malware/"
+        ]
+      },
+      "uuid": "e5fad23e-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: AnarchyGrabber Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4429,5 +4481,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 31
+	"version": 33
 }

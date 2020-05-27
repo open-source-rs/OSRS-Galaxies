@@ -1364,6 +1364,71 @@
       "value": "OSRS SecTool: MinaOTP"
     },
 	{
+      "description": "We specialize in secure remote access software for Windows. Our main products are Bitvise SSH Server and SSH Client, which we try to make the best SSH client and server for Windows.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.bitvise.com/"
+        ]
+      },
+      "uuid": "53d5647e-a04e-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Bitvise"
+    },
+	{
+      "description": "use COM Object hijacking to maintain persistence. This script allows you to use COM Object hijacking to maintain persistence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/3gstudent/COM-Object-hijacking"
+        ]
+      },
+      "uuid": "53d5688e-a04e-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: COM-Object-hijacking"
+    },
+	{
+      "description": "This repository contains code samples and proofs-of-concept for exploring COM hijacking. COM hijacking is a Windows post exploitation technique, which can be used for persistence or defense evasion. For more information on the COM interface, how to find hijacks, and techniques for abusing a hijack, please refer to the presentation given at Derbycon 9, COM Hijacking Techniques.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/nccgroup/acCOMplice"
+        ]
+      },
+      "uuid": "53d569a6-a04e-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: acCOMplice"
+    },
+	{
+      "description": "OleViewDotNet is a .NET 4 application to provide a tool which merges the classic SDK tools OleView and Test Container into one application. It allows you to find COM objects through a number of different views (e.g. by CLSID, by ProgID, by server executable), enumerate interfaces on the object and then create an instance and invoke methods. It also has a basic container to attack ActiveX objects to so you can see the display output while manipulating the data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/tyranid/oleviewdotnet"
+        ]
+      },
+      "uuid": "53d56a78-a04e-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: OleViewDotNet"
+    },
+	{
+      "description": "CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks. Built with stealth in mind, CME follows the concept of Living off the Land - abusing built-in Active Directory features-protocols to achieve it's functionality and allowing it to evade most endpoint protection, IDS, and IPS solutions. CME makes heavy use of the Impacket library (developed by @asolino) and the PowerSploit Toolkit (developed by @mattifestation) for working with network protocols and performing a variety of post-exploitation techniques. Although meant to be used primarily for offensive purposes (e.g. red teams), CME can be used by blue teams as well to assess account privileges, find possible misconfigurations and simulate attack scenarios.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/byt3bl33d3r/CrackMapExec"
+        ]
+      },
+      "uuid": "53d56b40-a04e-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: CrackMapExec"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1378,5 +1443,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 25
+	"version": 26
 }

@@ -2070,6 +2070,36 @@
 			"value": "Serco Group plc"
 		},
 		{
+			"description": "Japan's largest notebook app with calendar, todo, notebook and diary.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/lifebear"
+				]
+			},
+			"uuid": "5c02ec6a-a045-11ea-bb37-0242ac130002",
+			"value": "Lifebear"
+		},
+		{
+			"description": "The Northwest Atlantic Fisheries Organization is an intergovernmental organization with a mandate to provide scientific advice and management of fisheries in the northwestern part of the Atlantic Ocean. NAFO is headquartered in Dartmouth, Nova Scotia, Canada.",
+			"meta": {
+				"refs": [
+					"https://www.nafo.int/"
+				]
+			},
+			"uuid": "5c02ef4e-a045-11ea-bb37-0242ac130002",
+			"value": "The Northwest Atlantic Fisheries Organization"
+		},
+		{
+			"description": "Arbonne International, LLC, known as Arbonne is an international multi-level marketing company founded in 1980 in the United States by Norwegian entrepreneur Petter Morck. Its product lines include vegan skincare, cosmetics, and nutrition. The company had an estimated annual sales revenue of 544 million USD in 2017.",
+			"meta": {
+				"refs": [
+					"https://www.arbonne.com/"
+				]
+			},
+			"uuid": "5c02f048-a045-11ea-bb37-0242ac130002",
+			"value": "Arbonne International, LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2080,5 +2110,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 64
+	"version": 65
 }

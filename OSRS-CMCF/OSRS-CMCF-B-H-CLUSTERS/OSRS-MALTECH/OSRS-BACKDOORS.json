@@ -783,6 +783,32 @@
       "value": "OSRS Backdoor: Retro Backdoor"
     },
 	{
+      "description": "Sarwent appears to have been actively used since at least 2018 but not a lot has been publicly reported about it during that time period. Sarwent functionality has historically revolved around being a loader. Some other functionality that has remained consistent is its AV(AntiVirus) checking.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/sarwent-malware-updates-command-detonation/"
+        ]
+      },
+      "uuid": "17e164ec-a03d-11ea-bb37-0242ac130002",
+      "value": "OSRS Backdoor: Sarwent Backdoor"
+    },
+	{
+      "description": "A modular backdoor. Persisting as a Print Processor, it was used by the Winnti Group against several video gaming companies that are based in South Korea and Taiwan and develop MMO (Massively Multiplayer Online) games. Video games developed by these companies are available on popular gaming platforms and have thousands of simultaneous players. In at least one case, the malware operators compromised a victim’s build system, which could have led to a supply-chain attack, allowing the attackers to trojanize game executables. In another case, the game servers were compromised, which could have allowed the attackers to, for example, manipulate in-game currencies for financial gain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/"
+        ]
+      },
+      "uuid": "17e16744-a03d-11ea-bb37-0242ac130002",
+      "value": "OSRS Backdoor: PipeMon Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
@@ -796,5 +822,5 @@
       "value": "OSRS Backdoor: Asruex"
     }
 	  ],
-	"version": 12
+	"version": 14
 }

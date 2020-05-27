@@ -15,7 +15,17 @@
       },
       "uuid": "894266c4-48c1-11e9-8646-d663bd873d93",
       "value": "Test Couriers and Messengers Value"
+    },
+	{
+      "description": "Home Chef is a Chicago, Illinois-based meal kit and food delivery company that delivers pre-portioned ingredients and recipes to subscribers weekly in the United States. According to the company it delivers three million meals monthly to its subscribers.",
+      "meta": {
+        "refs": [
+          "https://www.homechef.com/"
+        ]
+      },
+      "uuid": "54763c98-a042-11ea-bb37-0242ac130002",
+      "value": "Home Chef"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

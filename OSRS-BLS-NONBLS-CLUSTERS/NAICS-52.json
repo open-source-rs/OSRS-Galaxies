@@ -387,6 +387,36 @@
 			"value": "Blockfi Lending LLC"
 		},
 		{
+			"description": "The Bank of America Corporation is an American multinational investment bank and financial services company headquartered in Charlotte, with central hubs in New York City, London, Hong Kong, Dallas, and Toronto.",
+			"meta": {
+				"refs": [
+					"https://www.bankofamerica.com/"
+				]
+			},
+			"uuid": "17c89e48-a043-11ea-bb37-0242ac130002",
+			"value": "The Bank of America Corporation"
+		},
+		{
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States.",
+			"meta": {
+				"refs": [
+					"https://myaccount.santanderconsumerusa.com/"
+				]
+			},
+			"uuid": "17c8a082-a043-11ea-bb37-0242ac130002",
+			"value": "Santander Bank, N. A."
+		},
+		{
+			"description": "The Desjardins Group is a Canadian financial services cooperative and the largest federation of credit unions in North America. It was founded in 1900 in Levis, Quebec by Alphonse Desjardins. While its legal headquarters remains in Levis, most of the executive management, including the CEO, is based in Montreal.",
+			"meta": {
+				"refs": [
+					"https://www.desjardins.com/ca/index.jsp"
+				]
+			},
+			"uuid": "17c8a1e0-a043-11ea-bb37-0242ac130002",
+			"value": "The Desjardins Group"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -397,5 +427,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 27
+	"version": 29
 }

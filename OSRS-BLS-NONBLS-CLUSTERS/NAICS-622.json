@@ -556,6 +556,16 @@
 			"value": "Geisinger Wyoming Valley Medical Center"
 		},
 		{
+			"description": "The San Raffaele Hospital (also Istituto scientifico universitario San Raffaele or ospedale San Raffaele, HSR or OSR) is a university hospital situated in Segrate, the Province of Milan, Italy. It was founded in 1969 by don Luigi Maria Verze, president of the San Raffaele del Monte Tabor Foundation. The hospital is affiliated with the School of Medicine and the School of Nursing of the Vita-Salute San Raffaele University.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/San_Raffaele_Hospital"
+				]
+			},
+			"uuid": "0c6e9a7e-a044-11ea-bb37-0242ac130002",
+			"value": "The San Raffaele Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -566,5 +576,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 33
+	"version": 35
 }

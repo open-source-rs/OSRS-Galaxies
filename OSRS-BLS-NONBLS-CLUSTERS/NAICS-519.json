@@ -166,6 +166,36 @@
 			"value": "Nikkei Inc."
 		},
 		{
+			"description": "Wishbone is one of the fastest growing social platforms with apps in both the Apple and Google App Stores. Every day voters use Wishbone to complete the Daily Dozen to decide what are the hottest trending topics in pop culture. Who’s your favorite Kardashian, which Franco brother reigns supreme, and which fashion trend annoys you the most…These are all typical debates that get settled everyday by our super loyal fan base.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wishbone---compare-anything/about/"
+				]
+			},
+			"uuid": "90fbf3fe-a044-11ea-bb37-0242ac130002",
+			"value": "Wishbone"
+		},
+		{
+			"description": "Online forum for discussions regarding computer hacking.",
+			"meta": {
+				"refs": [
+					"https://www.nulled.ch/"
+				]
+			},
+			"uuid": "90fbf5fc-a044-11ea-bb37-0242ac130002",
+			"value": "Nulled.ch"
+		},
+		{
+			"description": "LiveJournal, stylised as LiVEJOURNAL, is a Russian social networking service where users can keep a blog, journal or diary. American programmer Brad Fitzpatrick started LiveJournal on April 15, 1999, as a way of keeping his high school friends updated on his activities.",
+			"meta": {
+				"refs": [
+					"https://www.livejournal.com/"
+				]
+			},
+			"uuid": "90fbf6ec-a044-11ea-bb37-0242ac130002",
+			"value": "LiveJournal"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [
@@ -176,5 +206,5 @@
 			"value": "Newsquest"
 		}
 	],
-	"version": 17
+	"version": 19
 }

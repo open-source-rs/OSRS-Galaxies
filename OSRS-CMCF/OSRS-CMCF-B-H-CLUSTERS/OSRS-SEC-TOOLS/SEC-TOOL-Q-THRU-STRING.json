@@ -816,6 +816,45 @@
       "value": "OSRS SecTool: Rclone"
     },
 	{
+      "description": "Router Scan can find and identify various devices from a large number of known routers and, most importantly, pull out useful information from them, in particular, the characteristics of a wireless network - method of protecting an access point (encryption), access point name (SSID) and key access points (passphrase). It also receives information about the WAN connection (convenient when scanning a local network) and displays the brand and model of the router.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/axi0mX/ipwndfu"
+        ]
+      },
+      "uuid": "3c10d9a8-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Router Scan (StasM)"
+    },
+	{
+      "description": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://unc0ver.dev/"
+        ]
+      },
+      "uuid": "3c10dba6-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Unc0ver iOS Jailbreak Tool "
+    },
+	{
+      "description": "Portable fuzzer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/ollseg/usb-device-fuzzing/tree/master/USBFuzz"
+        ]
+      },
+      "uuid": "3c10dc96-a04f-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: USBFuzz"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -829,5 +868,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 23
+	"version": 25
 }

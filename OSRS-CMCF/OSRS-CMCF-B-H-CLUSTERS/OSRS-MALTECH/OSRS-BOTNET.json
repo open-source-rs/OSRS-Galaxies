@@ -488,6 +488,19 @@
       "value": "OSRS Botnet: Kaiji Botnet"
     },
 	{
+      "description": "This malicious installer consisted of a file named pyclient.cmd, which contains malicious commands. The cmd_shell.exe file is a self-extracting archive (SFX) containing new_script.txt, which contains the C&C server, madleets.ddns.net and shell.bat to gain persistence, and a copy of the zoom.exe installer in the v5.0.1 version. The botnet_start.vbs file runs pyclient.cmd, while the dropped component boot-startup.vbs runs to gain persistence. The repurposed installer will drop the tampered app installer, the malicious archive and codes, and the commands for persistence and communication.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-devil-shadow-botnet-hidden-in-fake-zoom-installers/"
+        ]
+      },
+      "uuid": "2609d01c-a03e-11ea-bb37-0242ac130002",
+      "value": "OSRS Botnet: Devil Shadow Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [
@@ -501,5 +514,5 @@
       "value": "OSRS Botnet: AESDDoS.J"
     }
 	  ],
-	"version": 10
+	"version": 12
 }

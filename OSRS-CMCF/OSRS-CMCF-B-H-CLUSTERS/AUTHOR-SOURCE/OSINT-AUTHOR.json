@@ -5691,6 +5691,126 @@
       "value": "OSRS OSINT Author Index: Ofer Caspi"
     },
 	{
+      "description": "Digital Content Producer at WPMT-FOX43. Lancaster, Pennsylvania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/keith-schweigert-ba957012/"
+        ]
+      },
+      "uuid": "1330969e-a04b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Keith Schweigert"
+    },
+	{
+      "description": "Journalist affiliated with the online news site Loveland Reporter-Herald.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.reporterherald.com/2020/05/19/colorado-pandemic-unemployment-assistance-informatoin-exposed-coroanvirus-covid/"
+        ]
+      },
+      "uuid": "133098ce-a04b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Joe Rubino"
+    },
+	{
+      "description": "Generic pen named used by Spectrum News (Bay News 9).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.baynews9.com/fl/tampa"
+        ]
+      },
+      "uuid": "13309aae-a04b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Spectrum News Staff"
+    },
+	{
+      "description": "Malware Analyst, Computer Doctor, HitmanPro, Sophos Intercept X, We intercept big game ransomware, zero-day exploits, and hacker techniques.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/markloman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ],
+        "synonyms": [
+        "@markloman"
+        ]
+      },
+      "uuid": "13309bf8-a04b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Mark Loman"
+    },
+	{
+      "description": "Malware Analyst at ESET. Slovak Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/lukasstefanko/?originalSubdomain=sk"
+        ]
+      },
+      "uuid": "13309cca-a04b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Lukas Stefanko"
+    },
+	{
+      "description": "Cyber Threat Hunter at Trend Micro. NCR - National Capital Region, Philippines.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/raphael-anjielo-centeno-2b0a89182/?originalSubdomain=ph"
+        ]
+      },
+      "uuid": "83dc0ad0-a04c-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Raphael Centeno"
+    },
+	{
+      "description": "Threat Response Engineer at Trend Micro. Region III - Central Luzon, Philippines.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/llallumvictoria/?originalSubdomain=ph"
+        ]
+      },
+      "uuid": "83dc0cf6-a04c-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Llallum Victoria"
+    },
+	{
+      "description": "Ry Crozier has reported on the technology sector for 19 years. Crozier re-joined iTnews in 2015, after previous stints as a journalist at the University of New South Wales and Electronics News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.itnews.com.au/author/ry-crozier-149259"
+        ]
+      },
+      "uuid": "83dc0dfa-a04c-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Ry Crozier"
+    },
+	{
+      "description": "Paul Withers is an award-winning journalist whose career started in the 1970s as a cartoonist. He has been covering Nova Scotia politics for more than 20 years.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cbc.ca/news/canada/nova-scotia/paul-withers-1.2759176"
+        ]
+      },
+      "uuid": "83dc0ed6-a04c-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Paul Withers"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -5708,5 +5828,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 26
+	"version": 28
 }

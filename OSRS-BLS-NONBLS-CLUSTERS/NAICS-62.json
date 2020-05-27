@@ -1226,6 +1226,16 @@
 			"value": "HEPACO, LLC"
 		},
 		{
+			"description": "The Little Clinic provides high quality, affordable healthcare located in convenient retail settings. The Little Clinic diagnoses and treats minor illnesses for patients 12 months and up with care provided by board-certified nurse practitioners and (or) physician assistants.",
+			"meta": {
+				"refs": [
+					"https://www.thelittleclinic.com/about-us"
+				]
+			},
+			"uuid": "b0810b84-a043-11ea-bb37-0242ac130002",
+			"value": "The Little Clinic (TLC)"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1236,5 +1246,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 46
+	"version": 47
 }

@@ -2157,6 +2157,71 @@
       "value": "OSRS OSINT Source: Alienvault Alien Labs"
     },
 	{
+      "description": "WPMT, virtual channel 43, is a Fox-affiliated television station licensed to York, Pennsylvania, United States and serving the Susquehanna Valley region. The station is owned by Tegna Inc.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.fox43.com/"
+        ]
+      },
+      "uuid": "7d48dbb6-a04d-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: WPMT Fox 43"
+    },
+	{
+      "description": "Online news. Denver, CO.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.reporterherald.com/"
+        ]
+      },
+      "uuid": "7d48e070-a04d-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Lovland Reporter-Herald"
+    },
+	{
+      "description": "Bay News 9 is a cable news television network located in St. Petersburg, Florida. Owned by Charter Communications, it currently serves the Tampa Bay area including Hillsborough, Pinellas, Manatee, Polk, Pasco, Hernando, and Citrus counties.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.baynews9.com/fl/tampa"
+        ]
+      },
+      "uuid": "7d48e188-a04d-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Spectrum News 9"
+    },
+	{
+      "description": "Online news regarding technology. Australia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.itnews.com.au/"
+        ]
+      },
+      "uuid": "7d48e264-a04d-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: iTnews"
+    },
+	{
+      "description": "Online news. Long Island, NY.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "http://longisland.news12.com/"
+        ]
+      },
+      "uuid": "7d48e32c-a04d-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: News12 Long Island"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -2172,5 +2237,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 25
+	"version": 27
 }

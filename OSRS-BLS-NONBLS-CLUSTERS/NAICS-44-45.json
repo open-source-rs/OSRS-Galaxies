@@ -277,6 +277,26 @@
 			"value": "Prime Communications, L.P."
 		},
 		{
+			"description": "At the core of our Good Foods mission, our expertise in the area of pet wellness enables us to drive helpful, consultative shopping experiences while our best-in-class supply chain capabilities deliver speedy lead times with a high-touch experience on nearly 10,000 of the best products available in specialty pet. Through our Good Deeds charitable giving program, PetFlow has helped thousands of pets in need with high-end foods, and is an ally to many rescues throughout America.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/pet-flow/about/"
+				]
+			},
+			"uuid": "0ed9e69a-a046-11ea-bb37-0242ac130002",
+			"value": "PetFlow"
+		},
+		{
+			"description": "INSPORT started out with a small store in 1983 in the Sydney suburb of Burwood. It was based on a vision of a new type of sports store that specialised in sports clothing and footwear. Since then it has grown to be one of NSW leading sports clothing and footwear retailers.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/insport-australia/about/"
+				]
+			},
+			"uuid": "0ed9e8b6-a046-11ea-bb37-0242ac130002",
+			"value": "Insport Australia (INSPORT)"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -287,5 +307,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 22
+	"version": 23
 }

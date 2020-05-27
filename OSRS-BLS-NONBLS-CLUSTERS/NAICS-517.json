@@ -186,6 +186,16 @@
 			"value": "Reliance Jio Infocomm Limited"
 		},
 		{
+			"description": "Advanced Info Service Public Company Limited, is Thailand's largest GSM mobile phone operator with 39.87 million customers as of Q3 2016. Founded in April 1986, AIS started off as a computer rental business.",
+			"meta": {
+				"refs": [
+					"http://www.ais.co.th/en/"
+				]
+			},
+			"uuid": "8317da4e-a046-11ea-bb37-0242ac130002",
+			"value": "Advanced Info Service Public Company Limited (AIS)"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [
@@ -196,5 +206,5 @@
 			"value": "Dalil"
 		}
 	],
-	"version": 18
+	"version": 19
 }

@@ -2711,6 +2711,96 @@
 			"value": "The judiciary of Luxembourg"
 		},
 		{
+			"description": "The National University of Defense Technology, or People's Liberation Army National University of Defense Science and Technology, is a military academy and Class A Double First Class University located in Changsha, Hunan, China.",
+			"meta": {
+				"refs": [
+					"https://english.nudt.edu.cn/"
+				]
+			},
+			"uuid": "b5771ee8-a03a-11ea-bb37-0242ac130002",
+			"value": "The National University of Defense Technology"
+		},
+		{
+			"description": "Duncannon is a borough in Perry County, Pennsylvania, United States. The population was 1,522 at the 2010 census. It is part of the Harrisburg–Carlisle Metropolitan Statistical Area. The center of population of Pennsylvania is located in Duncannon.",
+			"meta": {
+				"refs": [
+					"https://duncannonboro.org/"
+				]
+			},
+			"uuid": "b577212c-a03a-11ea-bb37-0242ac130002",
+			"value": "The Borough of Duncannon"
+		},
+		{
+			"description": "Job and Family Services. Responsible for developing and overseeing Ohio's public assistance, workforce development, unemployment insurance, child and adult protective services, adoption, child care, and child support programs.",
+			"meta": {
+				"refs": [
+					"https://jfs.ohio.gov/"
+				]
+			},
+			"uuid": "b577221c-a03a-11ea-bb37-0242ac130002",
+			"value": "The Ohio Department of Jobs and Family Services"
+		},
+		{
+			"description": "CDLE connects job seekers with great jobs, provides an up-to-date and accurate picture of the economy to help decision making, assists workers who have been injured on the job, ensures fair labor practices, helps those who have lost their jobs by providing temporary wage replacement through unemployment benefits.",
+			"meta": {
+				"refs": [
+					"https://www.colorado.gov/cdle"
+				]
+			},
+			"uuid": "b57722ee-a03a-11ea-bb37-0242ac130002",
+			"value": "The Colorado Department of Labor and Employment"
+		},
+		{
+			"description": "Our Health Unit provides services to over 120,000 residents within an area consisting of most of Nipissing District, and all of Parry Sound District. Our catchment area includes 31 municipalities, four unorganized areas, and nine First Nation reserves.",
+			"meta": {
+				"refs": [
+					"https://www.myhealthunit.ca/en/about-us/about-us.asp"
+				]
+			},
+			"uuid": "b57723ac-a03a-11ea-bb37-0242ac130002",
+			"value": "North Bay Parry Sound District Health Unit"
+		},
+		{
+			"description": "In collaboration with our partners, DEO assists the Governor in advancing Florida’s economy by championing the state’s economic development vision and by administering state and federal programs and initiatives to help visitors, citizens, businesses, and communities.",
+			"meta": {
+				"refs": [
+					"https://floridajobs.org/"
+				]
+			},
+			"uuid": "949e0e88-a03b-11ea-bb37-0242ac130002",
+			"value": "The Florida Department of Economic Opportunity"
+		},
+		{
+			"description": "The General Elections Commission is the body that organises elections in Indonesia. Its responsibilities include deciding which parties can contest elections, organising the voting and announcing the results and seats won in the various branches of the government.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/General_Elections_Commission"
+				]
+			},
+			"uuid": "949e1090-a03b-11ea-bb37-0242ac130002",
+			"value": "The General Elections Commission of Indonesia"
+		},
+		{
+			"description": "The 2014–2016 Northern Ireland Historical Institutional Abuse Inquiry, often referred to as the HIA Inquiry, is the largest inquiry into historical institutional sexual and physical abuse of children in UK legal history. Its remit covers institutions in Northern Ireland that provided residential care for children from 1922 to 1995, but excludes most church-run schools. The Inquiry was set up in response to the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013. Following a request to extend its timescale, the Inquiry's Report was delivered to the First Minister and deputy First Minister (who had no powers to change it) on 6 January 2017, shortly before the deadline of 18 January, and published on 20 January. The cost was estimated at 17-19m, with 30 people working on the enquiry according to its Frequently Asked Questions as of January 2017. There are provisions for witness support. The Inquiry had statutory powers to compel witnesses living in Northern Ireland to appear before it and evidence held in Northern Ireland to be given to it - to take evidence under oath; and to be held in public except where necessary to protect individuals' privacy. Inquiry Rule 14(3) does not allow any explicit or significant criticism of a person unless the chairperson has sent them a warning letter, with a reasonable opportunity to respond.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Northern_Ireland_Historical_Institutional_Abuse_Inquiry"
+				]
+			},
+			"uuid": "949e12b6-a03b-11ea-bb37-0242ac130002",
+			"value": "Northern Ireland Historical Institutional Abuse Inquiry (HIA Inquiry)"
+		},
+		{
+			"description": "North Babylon Union Free School District is a school district in North Babylon, New York, United States. The current superintendent is Glen Eschbach.",
+			"meta": {
+				"refs": [
+					"http://www.northbabylonschools.net/"
+				]
+			},
+			"uuid": "949e13ba-a03b-11ea-bb37-0242ac130002",
+			"value": "North Babylon Union Free School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2721,5 +2811,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 52
+	"version": 54
 }

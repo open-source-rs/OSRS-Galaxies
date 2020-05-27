@@ -27,6 +27,16 @@
       "value": "Quidd, Inc."
     },
 	{
+      "description": "Artsy is an online platform for discovering, buying and selling fine art. Artsy's search engine and database draw connections and map relationships among works of art.",
+      "meta": {
+        "refs": [
+          "https://www.artsy.net/"
+        ]
+      },
+      "uuid": "52aad624-a044-11ea-bb37-0242ac130002",
+      "value": "Artsy"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Wanelo"
     }
 	  ],
-	"version": 3
+	"version": 4
 }
