@@ -1455,6 +1455,19 @@
       "value": "OSRS SecTool: EvilClippy"
     },
 	{
+      "description": "IDA plugin for malware analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/05/dynamic-data-resolver-1-0.html"
+        ]
+      },
+      "uuid": "9e994eee-a670-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Dynamic Data Resolver (DDR)"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1469,5 +1482,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 27
+	"version": 28
 }
