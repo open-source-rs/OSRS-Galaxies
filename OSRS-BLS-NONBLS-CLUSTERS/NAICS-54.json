@@ -2153,6 +2153,16 @@
 			"value": "Excis Ltd"
 		},
 		{
+			"description": "BHIM is a Indian mobile payment App developed by the National Payments Corporation of India, based on the Unified Payments Interface. Named after B. R.",
+			"meta": {
+				"refs": [
+					"https://www.bhimupi.org.in/"
+				]
+			},
+			"uuid": "1b20223c-a674-11ea-bb37-0242ac130002",
+			"value": "BHIM (Bharat Interface for Money)"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
