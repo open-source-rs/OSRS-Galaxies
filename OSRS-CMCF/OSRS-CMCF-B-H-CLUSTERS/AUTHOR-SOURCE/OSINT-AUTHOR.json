@@ -5811,6 +5811,158 @@
       "value": "OSRS OSINT Author Index: Paul Withers"
     },
 	{
+      "description": "Federal Politics Reporter at Nine Entertainment Co. Sydney, Australia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/fiona-willan-9b189633/?originalSubdomain=au"
+        ]
+      },
+      "uuid": "dccb0f50-a660-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Fiona Willan"
+    },
+	{
+      "description": "Generic pen name for the Fox 19 NOW online news desk.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fox19.com/"
+        ]
+      },
+      "uuid": "dccb114e-a660-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Fox 19 NOW News Staff"
+    },
+	{
+      "description": "Generic pen name for the IT News Online news desk.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://www.itnewsonline.com/"
+        ]
+      },
+      "uuid": "dccb1248-a660-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: IT News Online News Desk"
+    },
+	{
+      "description": "Public Safety Reporter at The Santa Fe New Mexican. Santa Fe, New Mexico.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/anmwriting/"
+        ]
+      },
+      "uuid": "dccb145a-a660-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Amanda Martinez"
+    },
+	{
+      "description": "Generic pen name used for the online cybersecurity blog Votiro Secured.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://votiro.com/"
+        ]
+      },
+      "uuid": "dccb152c-a660-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Votiro Secured General Author"
+    },
+	{
+      "description": "ReversingLabs. Croatia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/robert-halar-716126197/?originalSubdomain=hr"
+        ]
+      },
+      "uuid": "e1a983de-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Robert Halar"
+    },
+	{
+      "description": "Junior Reverse Engineer at ReversingLabs. Croatia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/barbara-draskovic-783b10156/?originalSubdomain=hr"
+        ]
+      },
+      "uuid": "e1a985fa-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Barbara Draskovic"
+    },
+	{
+      "description": "Staff Security Researcher en GitHub. Madrid Area, Spain.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://www.pwntester.com/",
+		  "https://twitter.com/pwntester?lang=en",
+		  "https://www.linkedin.com/in/alvaroms/?originalSubdomain=es"
+        ],
+        "synonyms": [
+        "@pwntester"
+        ]
+      },
+      "uuid": "e1a986f4-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Alvaro Munoz"
+    },
+	{
+      "description": "Cyber Security Analyst presso Cybaze SpA. Benevento Area, Italy.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/maria-francesca-lepore-b9286111a/?originalSubdomain=it"
+        ]
+      },
+      "uuid": "e1a988e8-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Maria Francesca Lepore"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Cybaze SpA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://yoroi.company/"
+        ]
+      },
+      "uuid": "e1a989b0-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Giacomo D'Onofrio"
+    },
+	{
+      "description": "Director of Threat Research at Lastline, Inc. London, Greater London, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/stefanoortolani/?originalSubdomain=uk",
+		  "https://twitter.com/ostefano"
+        ],
+        "synonyms": [
+        "@ostefano"
+        ]
+      },
+      "uuid": "e1a98a78-a661-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Stefano Ortolani"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -5828,5 +5980,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 28
+	"version": 29
 }

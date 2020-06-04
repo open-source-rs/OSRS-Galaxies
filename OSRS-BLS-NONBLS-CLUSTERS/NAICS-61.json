@@ -627,6 +627,47 @@
 			"value": "eduCBA"
 		},
 		{
+			"description": "Michigan State University (MSU) is a public research university in East Lansing, Michigan. MSU was founded in 1855 and served as a model for land-grant universities later created under the Morrill Act of 1862. The university was founded as the Agricultural College of the State of Michigan, one of the country's first institutions of higher education to teach scientific agriculture. After the introduction of the Morrill Act, the college became coeducational and expanded its curriculum beyond agriculture. Today, MSU is one of the largest universities in the United States (in terms of enrollment) and has approximately 634,300 living alumni worldwide.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Michigan_State_University",
+					"https://msu.edu/"
+				]
+			},
+			"uuid": "fd438a7e-a5c9-11ea-bb37-0242ac130002",
+			"value": "Michigan State University"
+		},
+		{
+			"description": "Ahmadu Bello University is a federal government research university in Zaria, Kaduna State, Nigeria. ABU was founded on 4 October 1962, as the University of Northern Nigeria. The university operates two campuses: Samaru and Kongo in Zaria.",
+			"meta": {
+				"refs": [
+					"https://www.abu.edu.ng/"
+				]
+			},
+			"uuid": "fd438c90-a5c9-11ea-bb37-0242ac130002",
+			"value": "Ahmadu Bello University"
+		},
+		{
+			"description": "University of Benin is a research university located in Benin City, Edo State, Nigeria. It is among the universities owned by the Federal Government of Nigeria and was founded in 1970.",
+			"meta": {
+				"refs": [
+					"http://uniben.edu/"
+				]
+			},
+			"uuid": "fd438d8a-a5c9-11ea-bb37-0242ac130002",
+			"value": "University of Benin"
+		},
+		{
+			"description": "Mount Kenya University is a private, multi-campus, chartered and ISO 9001:2015 Certified university in Kenya. It was founded by Prof. Simon N. Gicharu. MKU is one of the largest private universities in the country, with a student body in excess of 52,000, as at September 2015.",
+			"meta": {
+				"refs": [
+					"https://www.mku.ac.ke/"
+				]
+			},
+			"uuid": "fd438e5c-a5c9-11ea-bb37-0242ac130002",
+			"value": "Mount Kenya University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -637,5 +678,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 32
+	"version": 34
 }

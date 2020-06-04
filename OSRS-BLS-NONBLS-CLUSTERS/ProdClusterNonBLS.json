@@ -2801,6 +2801,78 @@
 			"value": "North Babylon Union Free School District"
 		},
 		{
+			"description": "Nipissing First Nation is a long-standing community of Nishnaabeg peoples located along the shorelines of Lake Nipissing in northern Ontario. They are referred to by many names in European historical records, since the colonists often adopted names given to them by other nations.",
+			"meta": {
+				"refs": [
+					"https://www.nfn.ca/"
+				]
+			},
+			"uuid": "862eb1ee-a5be-11ea-bb37-0242ac130002",
+			"value": "Nipissing First Nation (NFN)"
+		},
+		{
+			"description": "Ever since the Japanese colonial period in 1906, the household registration system has been playing a key role as a commonly applied basis of implementation of other policies in Taiwan. On Oct. 01, 1997, when overall computerization of the household registration system, and re-construction of offices of household registration authority in all municipal and county(city) governments have been completed, a place combined with convenience and necessary functions has been ready for the public to deal with relevant affairs. At present, the household registration competent authorities passed ISO certification by its compliance with standard of procedures, overall advance of service quality, innovative and convenient services and image, and therefore obtained affirmation and confidence from the public.",
+			"meta": {
+				"refs": [
+					"https://www.ris.gov.tw/app/en",
+					"https://www.ris.gov.tw/app/en/18"
+				]
+			},
+			"uuid": "862eb428-a5be-11ea-bb37-0242ac130002",
+			"value": "The Department of Household Registration ( Ministry of the Interior, Taiwan)"
+		},
+		{
+			"description": "The mission of the Education and Workforce Development Cabinet (EWDC) is to develop a dynamic workforce that meets current and future global demand and to create opportunities for continuous education, training, and career readiness.​",
+			"meta": {
+				"refs": [
+					"https://educationcabinet.ky.gov/",
+					"https://educationcabinet.ky.gov/About-Us/Pages/default.aspx"
+				]
+			},
+			"uuid": "862eb612-a5be-11ea-bb37-0242ac130002",
+			"value": "The Kentucky Education and Workforce Development Cabinet"
+		},
+		{
+			"description": "The Mukhya Mantri Parivar Samridhi Yojna (MMPSY) is a unique initiative of Government of Haryana. The scheme, which is one of the largest social security programme in the country, has been designed under the leadership of Hon'ble Chief Minister of Haryana, to secure the future of the underprivileged sectors of the society and a step towards universal Social Security by ensuring Life and Accidental Insurance for all EWS of Haryana along with assured Pension and Family Provident Fund for Farmers and Un-Organised workers of Haryana.",
+			"meta": {
+				"refs": [
+					"https://cm-psy.haryana.gov.in/"
+				]
+			},
+			"uuid": "862eb6f8-a5be-11ea-bb37-0242ac130002",
+			"value": "Mukhya Mantri Parivar Samridhi Yojana (MMPSY)"
+		},
+		{
+			"description": "Weiz is a town in the eastern part of the Austrian state of Styria.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Weiz"
+				]
+			},
+			"uuid": "862eb7ca-a5be-11ea-bb37-0242ac130002",
+			"value": "The City of Weiz"
+		},
+		{
+			"description": "Rio Arriba County is a county in the U.S. state of New Mexico. As of the 2010 census, the population was 40,246. Its county seat is Tierra Amarilla. Its northern border is the Colorado state line.",
+			"meta": {
+				"refs": [
+					"http://www.rio-arriba.org/"
+				]
+			},
+			"uuid": "862eb888-a5be-11ea-bb37-0242ac130002",
+			"value": "Rio Arriba County"
+		},
+		{
+			"description": "To provide diverse products and services that support the growth of agriculture in Manitoba.",
+			"meta": {
+				"refs": [
+					"https://www.masc.mb.ca/masc.nsf/about.html"
+				]
+			},
+			"uuid": "862ebb12-a5be-11ea-bb37-0242ac130002",
+			"value": "Manitoba Agricultural Services Corporation"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2811,5 +2883,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 54
+	"version": 55
 }

@@ -1429,6 +1429,32 @@
       "value": "OSRS SecTool: CrackMapExec"
     },
 	{
+      "description": "Smart card emulator based on the open-source NFC tool ChameleonMini.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/iceman1001/ChameleonMini-rebooted"
+        ]
+      },
+      "uuid": "4aead930-a66a-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Chameleon Mini Smartcard Emulator"
+    },
+	{
+      "description": "A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/outflanknl/EvilClippy"
+        ]
+      },
+      "uuid": "4aeadb4c-a66a-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: EvilClippy"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
@@ -1443,5 +1469,5 @@
       "value": "OSRS SecTool: AIEngine"
     }
 	  ],
-	"version": 26
+	"version": 27
 }

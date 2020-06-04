@@ -2100,6 +2100,59 @@
 			"value": "Arbonne International, LLC"
 		},
 		{
+			"description": "Minted is an online marketplace of independent artists and designers. The company crowdsources art and graphic design through monthly design challenges. The public votes for the winning entries, and Minted produces the winning work as stationery, wall art, and decor.",
+			"meta": {
+				"refs": [
+					"https://www.minted.com/"
+				]
+			},
+			"uuid": "6193295c-a5cb-11ea-bb37-0242ac130002",
+			"value": "Minted"
+		},
+		{
+			"description": "Tellus, LLC., is the leading EVV provider/software manufacturer and founding member of the National EVV Association (NEVVA - serving as an industry voice and resource for news, regulatory information, expertise and advocacy efforts related to EVV), providing EVV software and claims processing technology designed specifically for the home health and long-term care markets. We are also contracted directly with multiple states, with exclusivity in Florida. Our clients include several managed care companies including Anthem, Aetna and UnitedHealth Group, amongst others.  Our comprehensive, cloud-based solutions work to simplify, streamline and quickly and easily verify care delivery tasks and process claim data right at the point of care. That means agencies, caregivers and patients can focus their time and attention on what matters most — improved care delivery with better outcomes, greater efficiency and cost reduction.",
+			"meta": {
+				"refs": [
+					"https://4tellus.com/",
+					"https://www.linkedin.com/company/4tellus/about/"
+				]
+			},
+			"uuid": "61932bd2-a5cb-11ea-bb37-0242ac130002",
+			"value": "Tellus LLC"
+		},
+		{
+			"description": "True Software Scandinavia AB provides application software products. The Company designs and develops mobile applications that enables users to share their phone books, including numbers of pre-paid phones, to create a relevant global directory. True Software Scandinavia primarily operates in Sweden. Truecaller is a smartphone application that has features of caller-identification, call-blocking, flash-messaging, call-recording (on Android up to version 8), Chat & Voice by using the internet. It requires users to provide a standard cellular mobile number for registering with the service. The app is available for Android and iOS.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Truecaller",
+					"https://www.truecaller.com/",
+					"https://www.bloomberg.com/profile/company/0609540D:SS"
+				]
+			},
+			"uuid": "61932ccc-a5cb-11ea-bb37-0242ac130002",
+			"value": "True Software Scandinavia AB (Truecaller)"
+		},
+		{
+			"description": "Joomla is an award-winning content management system (CMS), which enables you to build Web sites and powerful online applications. Joomla is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla is free and open source. Joomla is an open source project and is freely available to anyone. Our mission is to provide a flexible platform for digital publishing and collaboration.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/joomla/about/"
+				]
+			},
+			"uuid": "61932e02-a5cb-11ea-bb37-0242ac130002",
+			"value": "Joomla"
+		},
+		{
+			"description": "A global IT services company and excel in cross-border IT services, such as 24 x 7 IT support, IMAC (install, moves, additions, changes) with particular expertise in Telepresence deployments, international network router or switch configuration, installation and troubleshooting, and also specialists in End User Support services.   Many  of our clients are Technology Manufacturers,  IT Service Providers or Systems Integrators who wish to extend the global delivery & support capability.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/excis-ltd/about/"
+				]
+			},
+			"uuid": "61932eca-a5cb-11ea-bb37-0242ac130002",
+			"value": "Excis Ltd"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2110,5 +2163,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 65
+	"version": 67
 }

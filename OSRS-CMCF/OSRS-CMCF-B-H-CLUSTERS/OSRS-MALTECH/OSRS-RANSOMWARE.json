@@ -738,6 +738,36 @@
       "value": "OSRS Ransomware: Ako Ransomware"
     },
 	{
+      "description": "A new ransomware dubbed FuckUnicorn has been targeting computers in Italy by tricking victims into downloading a fake contact tracing app, named Immuni, that promises to provide real-time updates for the COVID-19 outbreak.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/103817/malware/fuckunicorn-ransomware.html",
+		  "https://cert-agid.gov.it/news/campagna-ransomware-fuckunicorn-sfrutta-emergenza-covid-19/"
+        ],
+        "synonyms": [
+        "FkUnicorn Ransomware"
+        ]
+      },
+      "uuid": "048d611e-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: FuckUnicorn Ransomware"
+    },
+	{
+      "description": "A Java-based ransomware known as PonyFinal has galloped onto the scene, targeting enterprise systems management servers as an initial infection vector. According to a warning on Twitter from Microsoft Security Intelligence on Wednesday, PonyFinal is not an automated threat, but rather has humans pulling the reins. It exfiltrates information about infected environments, spreads laterally and then waits before striking — the operators go on to encrypt files at a later date and time, when the likelihood of the target paying is deemed to be the most likely.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://threatpost.com/ponyfinal-ransomware-enterprise-servers/156083/"
+        ]
+      },
+      "uuid": "048d6344-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: PonyFinal Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -751,5 +781,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 18
+	"version": 19
 }

@@ -2222,6 +2222,84 @@
       "value": "OSRS OSINT Source: News12 Long Island"
     },
 	{
+      "description": "The Sydney Morning Herald is a daily compact newspaper published in Sydney, New South Wales, Australia, and owned by Nine. Founded in 1831 as the Sydney Herald, the SMH is the oldest continuously published newspaper in Australia and has become a national online-news brand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.smh.com.au/"
+        ]
+      },
+      "uuid": "3611ecba-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: The Sydney Morning Herald"
+    },
+	{
+      "description": "Fox news affiliated news station. Ohio.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.fox19.com/"
+        ]
+      },
+      "uuid": "3611eecc-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Fox 19 NOW (Ohio)"
+    },
+	{
+      "description": "Online news source that discusses Information Technology (IT) related news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "http://www.itnewsonline.com/index.php"
+        ]
+      },
+      "uuid": "3611f14c-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: IT News Online"
+    },
+	{
+      "description": "EdScoop features the latest news and conversations among the top leaders driving technology and digital learning in K-12 and higher education. We uniquely attract influential IT policy and decision makers at the federal, state and local education levels.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://edscoop.com/"
+        ]
+      },
+      "uuid": "3611f23c-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: EdScoop"
+    },
+	{
+      "description": "Online cybersecurity blog hosted by the cybersecurity company Votiro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://votiro.com/"
+        ]
+      },
+      "uuid": "3611f318-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Votiro Secured Blog"
+    },
+	{
+      "description": "GitHub Security Lab’s mission is to inspire and enable the community to secure the open source software we all depend on. Affiliated with the online resource GitHub.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://securitylab.github.com/"
+        ]
+      },
+      "uuid": "3611f3e0-a665-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: GitHub Security Lab"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -2237,5 +2315,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 27
+	"version": 28
 }

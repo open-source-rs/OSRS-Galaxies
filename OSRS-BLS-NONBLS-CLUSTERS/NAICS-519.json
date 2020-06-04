@@ -196,6 +196,16 @@
 			"value": "LiveJournal"
 		},
 		{
+			"description": "AFL Australian Rules Football forum, footy blogs and aussie rules community. Live game chat.",
+			"meta": {
+				"refs": [
+					"https://www.bigfooty.com/"
+				]
+			},
+			"uuid": "09804290-a5cb-11ea-bb37-0242ac130002",
+			"value": "Bigfooty.com"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [
@@ -206,5 +216,5 @@
 			"value": "Newsquest"
 		}
 	],
-	"version": 19
+	"version": 21
 }

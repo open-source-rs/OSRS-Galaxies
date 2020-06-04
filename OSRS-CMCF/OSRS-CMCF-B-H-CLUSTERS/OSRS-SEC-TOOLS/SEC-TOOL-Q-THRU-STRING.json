@@ -855,6 +855,19 @@
       "value": "OSRS SecTool: USBFuzz"
     },
 	{
+      "description": "OpenSSH is the premier connectivity tool for remote login with the SSH protocol. It encrypts all traffic to eliminate eavesdropping, connection hijacking, and other attacks. In addition, OpenSSH provides a large suite of secure tunneling capabilities, several authentication methods, and sophisticated configuration options.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.openssh.com/"
+        ]
+      },
+      "uuid": "d970d308-a66a-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: OpenSSH"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -868,5 +881,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 25
+	"version": 26
 }

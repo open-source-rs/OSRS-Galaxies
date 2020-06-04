@@ -709,6 +709,19 @@
       "value": "OSRS SecTool Type: Eumlator"
     },
 	{
+      "description": "In computing, an emulator is hardware or software that enables one computer system to behave like another computer system. An emulator typically enables the host system to run software or use peripheral devices designed for the guest system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Emulation"
+        ]
+      },
+      "uuid": "d970d506-a66a-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool Type: Emulator"
+    },
+	{
       "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
       "meta": {
 	  "kill_chain": [
@@ -722,5 +735,5 @@
       "value": "OSRS SecTool Type: Analysis"
     }
 	  ],
-	"version": 5
+	"version": 6
 }

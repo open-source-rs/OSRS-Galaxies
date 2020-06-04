@@ -417,6 +417,16 @@
 			"value": "The Desjardins Group"
 		},
 		{
+			"description": "MyBudget is an Australian financial services company based in Adelaide, Australia, which provides spending management services including through an app.",
+			"meta": {
+				"refs": [
+					"https://www.mybudget.com.au/"
+				]
+			},
+			"uuid": "c555df08-a5ca-11ea-bb37-0242ac130002",
+			"value": "MyBudget"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -427,5 +437,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 29
+	"version": 31
 }

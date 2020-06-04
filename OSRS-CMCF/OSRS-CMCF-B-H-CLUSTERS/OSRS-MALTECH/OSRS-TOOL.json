@@ -4468,6 +4468,84 @@
       "value": "OSRS Tool: AnarchyGrabber Trojan"
     },
 	{
+      "description": "Previous version of the TrickBot propigation module.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/"
+        ]
+      },
+      "uuid": "a53beef0-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Mworm TrickBot Module"
+    },
+	{
+      "description": "Updated version of the TrickBot propigation module.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/"
+        ]
+      },
+      "uuid": "a53bf152-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Nworm TrickBot Module"
+    },
+	{
+      "description": "An OSS supply chain malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain"
+        ]
+      },
+      "uuid": "a53bf260-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Octopus Scanner"
+    },
+	{
+      "description": "When Valak was first discovered in late 2019, it was classified as a loader and used in multiple campaigns primarily targeting the US. It was often paired with Ursnif (aka. Gozi) and IcedID. Upon investigation by Cybereason Nocturnus in April 2020, Valak was identified as being used in campaigns mainly targeting the US and Germany. The campaigns involved new versions, revealing that the malware authors have been working on a better, improved version of the malware quickly. Over thirty different versions of the malware were found, revealing tremendous improvements in a very short period of time.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/valak-more-than-meets-the-eye"
+        ]
+      },
+      "uuid": "a53bf3c8-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Valak Loader"
+    },
+	{
+      "description": "Malware loader used in conjunction with COVID-19 themed malware campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://yoroi.company/research/himera-and-absent-loader-leverage-covid19-themes/"
+        ]
+      },
+      "uuid": "a53bf62a-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: Himera Loader"
+    },
+	{
+      "description": "Malware loader used in conjunction with COVID-19 themed malware campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://yoroi.company/research/himera-and-absent-loader-leverage-covid19-themes/"
+        ]
+      },
+      "uuid": "a53bfa12-a666-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: AbSent-Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4481,5 +4559,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 33
+	"version": 34
 }

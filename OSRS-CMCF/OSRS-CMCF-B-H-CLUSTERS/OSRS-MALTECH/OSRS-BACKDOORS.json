@@ -809,6 +809,20 @@
       "value": "OSRS Backdoor: PipeMon Backdoor"
     },
 	{
+      "description": "The Ke3chang group, also known as APT15, is an alleged Chinese government-backed cluster of teams known to target various high-profile entities spanning multiple continents. Examples include attacks on European ministries, Indian embassies, and British military contractors. The group’s activities have been traced back to 2010 and it is known to boast a large number of custom tools, most often tailored to their specific target. In mid May, researchers identified three recently uploaded samples from VirusTotal that share code with older APT15 implants. Researchers named this new family of samples, Ketrum, due to the merger of features in the documented backdoor families Ketrican and Okrum. We believe the operation was conducted very recently. Below we present a technical analysis of these samples and explain the evolution of APT15’s codebase over the last year.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/hacking-group-builds-new-ketrum-malware-from-recycled-backdoors/",
+		  "https://www.intezer.com/blog/research/the-evolution-of-apt15s-codebase-2020/"
+        ]
+      },
+      "uuid": "b6b28858-a5bf-11ea-bb37-0242ac130002",
+      "value": "OSRS Backdoor: ACBackdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
@@ -822,5 +836,5 @@
       "value": "OSRS Backdoor: Asruex"
     }
 	  ],
-	"version": 14
+	"version": 16
 }
