@@ -1468,6 +1468,19 @@
       "value": "OSRS SecTool: Dynamic Data Resolver (DDR)"
     },
 	{
+      "description": "PHPMailer - A full-featured email creation and transfer class for PHP.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/leafsphp/leaf-mailer"
+        ]
+      },
+      "uuid": "c7b75a98-a731-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: Leaf PHPMailer"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [
