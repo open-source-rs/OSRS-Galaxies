@@ -4572,6 +4572,32 @@
       "value": "OSRS Tool: FlowCloud Malware"
     },
 	{
+      "description": "Cycldek (also known as Goblin Panda and Conimes) has been active in the past two years, conducting targeted operations against governments in Southeast Asia. Analysis shows two distinct patterns of activity, indicating the group consists of two operational entities that are active under a mutual quartermaster. Researchers were able to uncover an extensive toolset for lateral movement and information stealing used in targeted networks, consisting of custom and unreported tools as well as living-off-the-land binaries. One of the newly revealed tools is named USBCulprit and has been found to rely on USB media in order to exfiltrate victim data. This may suggest Cycldek is trying to reach air-gapped networks in victim environments or relies on physical presence for the same purpose.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/cycldek-bridging-the-air-gap/97157/"
+        ]
+      },
+      "uuid": "4674ae3c-abe5-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: USBCulprit"
+    },
+	{
+      "description": "Remote access trojan used by the threat actor Cycldek. Associated with the malware USBCulprit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/cycldek-bridging-the-air-gap/97157/"
+        ]
+      },
+      "uuid": "4674b08a-abe5-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: PCShare RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
