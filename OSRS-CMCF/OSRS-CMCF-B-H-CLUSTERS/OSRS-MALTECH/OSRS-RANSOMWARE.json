@@ -768,6 +768,71 @@
       "value": "OSRS Ransomware: PonyFinal Ransomware"
     },
 	{
+      "description": "Tycoon is a multi-platform Java ransomware targeting Windows and Linux that has been observed in-the-wild since at least December 2019. It is deployed in the form of a Trojanized Java Runtime Environment (JRE) and leverages an obscure Java image format to fly under the radar. The threat actors behind Tycoon were observed using highly targeted delivery mechanisms to infiltrate small to medium sized companies and institutions in education and software industries, where they would proceed to encrypt file servers and demand a ransom. However, due to the reuse of a common RSA private key it may be possible to recover data without the need for payment in earlier variants.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com/en/2020/06/threat-spotlight-tycoon-ransomware-targets-education-and-software-sectors"
+        ]
+      },
+      "uuid": "eb6da82a-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Tycoon Ransomware"
+    },
+	{
+      "description": "This ransomware is targeting both personal users and businesses, most likely through exposed remote desktop servers. Once the threat actors gain access, they manually encrypt the files on the victim's computers. When encrypting data, it will append the .kupidon extension to the file's name.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/kupidon-is-the-latest-ransomware-targeting-your-data/"
+        ]
+      },
+      "uuid": "eb6dab0e-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Kupidon Ransomware"
+    },
+	{
+      "description": "Responsible for attacks on the manufacturing sector, including Honda Motor Company.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/honda-investigates-possible-ransomware-attack-networks-impacted/"
+        ]
+      },
+      "uuid": "eb6dac1c-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Snake Ransomware"
+    },
+	{
+      "description": "A fake decryptor for the STOP Djvu Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/fake-ransomware-decryptor-double-encrypts-desperate-victims-files/"
+        ]
+      },
+      "uuid": "eb6dad3e-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Zorab Ransomware"
+    },
+	{
+      "description": "When executed, the JS attachment will launch both a PowerShell and Bitsadmin command to download the Avaddon ransomware executable to the Temp folder and run it. Phorphiex (aka Trik) Botnet is distributing the malicious emails containing the ransomware JS file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-avaddon-ransomware-launches-in-massive-smiley-spam-campaign/"
+        ]
+      },
+      "uuid": "eb6daece-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Ransomware: Avaddon Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -781,5 +846,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 19
+	"version": 20
 }

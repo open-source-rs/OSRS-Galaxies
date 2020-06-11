@@ -2873,6 +2873,46 @@
 			"value": "Manitoba Agricultural Services Corporation"
 		},
 		{
+			"description": "The Kentucky Employees' Health Plan (KEHP) is a self-funded plan that offers health insurance and flexible spending accounts to nearly 265,000 members. KEHP is run by public employees, for public employees, so members have a direct stake in the financial well-being of the Plan.",
+			"meta": {
+				"refs": [
+					"https://personnel.ky.gov/Pages/healthinsurance.aspx#:~:text=The%20Kentucky%20Employees'%20Health%20Plan,well%2Dbeing%20of%20the%20Plan."
+				]
+			},
+			"uuid": "74629b02-ab3f-11ea-bb37-0242ac130002",
+			"value": "The Kentucky Employee Health Plan (KEHP)"
+		},
+		{
+			"description": "Duluth Public Schools is a school district based in Duluth, Minnesota. It is also known as Independent School District #709.",
+			"meta": {
+				"refs": [
+					"https://www.isd709.org/"
+				]
+			},
+			"uuid": "7462b8bc-ab3f-11ea-bb37-0242ac130002",
+			"value": "Duluth Public Schools"
+		},
+		{
+			"description": "The San Francisco Employees’ Retirement System (SFERS) administers two benefit programs for active and retired members - a Pension Plan (defined benefit plan) and a 457(b) Deferred Compensation Plan (defined contribution plan).",
+			"meta": {
+				"refs": [
+					"https://mysfers.org/"
+				]
+			},
+			"uuid": "7462ba2e-ab3f-11ea-bb37-0242ac130002",
+			"value": "The San Francisco Employees’ Retirement System (SFERS)"
+		},
+		{
+			"description": "Florence is a city in, and the county seat of, Lauderdale County, Alabama, United States, in the state's northwest corner. It is situated along the Tennessee River. According to the 2010 census, the city's population was 39,319.",
+			"meta": {
+				"refs": [
+					"https://florenceal.org/"
+				]
+			},
+			"uuid": "7462bc22-ab3f-11ea-bb37-0242ac130002",
+			"value": "The City of Florence, AL"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2883,5 +2923,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 55
+	"version": 56
 }

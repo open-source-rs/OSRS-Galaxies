@@ -1236,6 +1236,36 @@
 			"value": "The Little Clinic (TLC)"
 		},
 		{
+			"description": "CVHCare is a home health agency that provides high quality and cost-effective clinical care in the comfort of your home. Our company, Compassionate Visionary Healthcare, is devoted to delivering healthcare programs geared toward keeping seniors as healthy and as independent as possible at home.",
+			"meta": {
+				"refs": [
+					"https://www.cvhcare.com/"
+				]
+			},
+			"uuid": "b2545ba2-ab45-11ea-bb37-0242ac130002",
+			"value": "Castro Valley Health Inc"
+		},
+		{
+			"description": "University of Utah Health is the Mountain West's only academic health care system, combining excellence in patient care, the latest in medical research, and teaching to provide leading-edge medicine in a caring and personal setting. The system provides care for Utahns and residents of five surrounding states in a referral area encompassing more than 10 percent of the continental United States.",
+			"meta": {
+				"refs": [
+					"https://healthcare.utah.edu/about/"
+				]
+			},
+			"uuid": "b2545de6-ab45-11ea-bb37-0242ac130002",
+			"value": "University of Utah Health"
+		},
+		{
+			"description": "We work very closely with our allied community nursing, and health visiting teams. The Practice offers the services of, interpreters, stop smoking advisor, and other local services to help our patients with their health and well-being.",
+			"meta": {
+				"refs": [
+					"https://www.hockleymedicalpractice.com/about-us/"
+				]
+			},
+			"uuid": "b2545ee0-ab45-11ea-bb37-0242ac130002",
+			"value": "Hockley Medical Practice"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

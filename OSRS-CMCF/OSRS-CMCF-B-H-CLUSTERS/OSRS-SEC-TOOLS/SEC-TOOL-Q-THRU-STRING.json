@@ -868,6 +868,32 @@
       "value": "OSRS SecTool: OpenSSH"
     },
 	{
+      "description": "OpenStego is a steganography application that provides two functionalities - Data Hiding - It can hide any data within a cover file (e.g. images). Watermarking - Watermarking files (e.g. images) with an invisible signature. It can be used to detect unauthorized file copying.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/syvaidya/openstego"
+        ]
+      },
+      "uuid": "c1153b48-ab4f-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: OpenStego"
+    },
+	{
+      "description": "UFONet - is a free software, P2P and cryptographic -disruptive toolkit- that allows to perform DoS and DDoS attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/epsylon/ufonet"
+        ]
+      },
+      "uuid": "c1153d64-ab4f-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool: UFONet"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
@@ -881,5 +907,5 @@
       "value": "OSRS SecTool: SeatBelt"
     }
 	  ],
-	"version": 26
+	"version": 27
 }

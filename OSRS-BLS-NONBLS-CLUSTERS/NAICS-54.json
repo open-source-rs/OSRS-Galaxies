@@ -2163,6 +2163,96 @@
 			"value": "BHIM (Bharat Interface for Money)"
 		},
 		{
+			"description": "Marketing company that specializes in lead generation. Munich, Bavaria.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/lead.hunter.kg/about/"
+				]
+			},
+			"uuid": "3ffa3ab6-ab47-11ea-bb37-0242ac130002",
+			"value": "LEADHUNTER KG"
+		},
+		{
+			"description": "Digital Management, LLC is a provider of mobile enterprise, business intelligence and cybersecurity services. It is headquartered in Bethesda, Maryland, United States. DMI’s clients include several Fortune 1000 commercial enterprises and all U.S. federal government agencies.",
+			"meta": {
+				"refs": [
+					"https://dminc.com/"
+				]
+			},
+			"uuid": "3ffa3ec6-ab47-11ea-bb37-0242ac130002",
+			"value": "Digital Management, LLC"
+		},
+		{
+			"description": "Direct mail marketing company. Mequon, WI.",
+			"meta": {
+				"refs": [
+					"http://www.centralfileinc.com/DirectMailContact"
+				]
+			},
+			"uuid": "3ffa3fca-ab47-11ea-bb37-0242ac130002",
+			"value": "Central Files, Inc"
+		},
+		{
+			"description": "Zoomcar, is a Indian self-drive car rental company, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran. As of April, the company operates in 45 cities across the country.",
+			"meta": {
+				"refs": [
+					"https://www.zoomcar.com/"
+				]
+			},
+			"uuid": "3ffa409c-ab47-11ea-bb37-0242ac130002",
+			"value": "Zoomcar"
+		},
+		{
+			"description": "Conduent Inc. is an American business process services company headquartered in New Jersey. It was formed in 2017 as a divestiture from Xerox.",
+			"meta": {
+				"refs": [
+					"https://www.conduent.com/"
+				]
+			},
+			"uuid": "3ffa4164-ab47-11ea-bb37-0242ac130002",
+			"value": "Conduent"
+		},
+		{
+			"description": "Chartered Professional Accountants of Canada is the national organization representing the Canadian accounting profession through the unification of the three largest accounting organizations.",
+			"meta": {
+				"refs": [
+					"https://www.cpacanada.ca/"
+				]
+			},
+			"uuid": "000abde4-ab48-11ea-bb37-0242ac130002",
+			"value": "Chartered Professional Accountants of Canada"
+		},
+		{
+			"description": "Since opening in 1995, Aeries Software has successfully implemented the Aeries® Student Information System in over 600 California public school districts and education agencies becoming the state's most popular SIS software. Founded by industry pioneer, Jerry D. Lloyd, our unmatched experience in the development, implementation, and support of California K-12 SIS applications enables us to provide superior and cost-effective products and services. Aeries is constantly enhanced to include new features and functionality to meet the needs of California K-12 education.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/aeries-software/about/"
+				]
+			},
+			"uuid": "000abfec-ab48-11ea-bb37-0242ac130002",
+			"value": "Aeries Software"
+		},
+		{
+			"description": "Government contracting services in test and evaluation, range operations, security management, technical, and administrative support services for DoD and DOE.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/westech-international-inc./about/"
+				]
+			},
+			"uuid": "000ac17c-ab48-11ea-bb37-0242ac130002",
+			"value": "Westech International, Inc."
+		},
+		{
+			"description": "Our primary goal has remained steadfast over the last 44+ years - to provide the highest quality, exceptional eye care by the most qualified physicians and staff in a compassionate and caring manner. As an independent multi specialty ophthalmic group consisting of 13 ophthalmologists and 3 optometrists, we strive to make your eye care journey to be a comprehensive, informative and a frustration-free experience. Our physicians and staffs work together to bring patients the best and most comprehensive high quality eye care in over 10 conveniently located offices, throughout the tristate area.",
+			"meta": {
+				"refs": [
+					"https://www.everett-hurite.com/"
+				]
+			},
+			"uuid": "000ac262-ab48-11ea-bb37-0242ac130002",
+			"value": "Everett & Hurite Ophthalmic Association"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2173,5 +2263,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 67
+	"version": 68
 }

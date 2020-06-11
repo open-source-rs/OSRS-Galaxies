@@ -297,6 +297,16 @@
 			"value": "Insport Australia (INSPORT)"
 		},
 		{
+			"description": "Canadian fitness equipment retailer.",
+			"meta": {
+				"refs": [
+					"https://www.fitnessdepot.ca/"
+				]
+			},
+			"uuid": "000ac32a-ab48-11ea-bb37-0242ac130002",
+			"value": "Fitness Depot"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

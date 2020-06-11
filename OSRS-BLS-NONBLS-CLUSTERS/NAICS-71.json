@@ -127,6 +127,16 @@
       "value": "Granity Entertainment Designated Activity Company"
     },
 	{
+      "description": "ZEE5. ZEE5 is an Indian video on demand service run by Essel Group via its subsidiary Zee Entertainment Enterprises. It was launched in India on 14 February 2018 with content in 12 languages. ZEE5 mobile app is available on Web, Android, iOS, Smart TVs, among other devices.",
+      "meta": {
+        "refs": [
+          "https://www.zee5.com/"
+        ]
+      },
+      "uuid": "8d9660f2-ab41-11ea-bb37-0242ac130002",
+      "value": "Zee Entertainment Enterprises (ZEE5)"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

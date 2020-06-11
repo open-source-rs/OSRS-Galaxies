@@ -187,6 +187,26 @@
       "value": "Mercedes-Benz"
     },
 	{
+      "description": "About us. VT San Antonio Aerospace (VT SAA) is one of the leading aircraft MRO providers in North America. Industries Airlines/Aviation. Company size 1001-5000 employees. Headquarters San Antonio, Texas.",
+      "meta": {
+        "refs": [
+          "http://vt-saa.com/"
+        ]
+      },
+      "uuid": "59d69174-ab46-11ea-bb37-0242ac130002",
+      "value": "VT San Antonio Aerospace (VT SAA)"
+    },
+	{
+      "description": "BEML Limited, previously Bharat Earth Movers Limited, is an Indian Public Sector Undertaking, with headquarters in Bengaluru. It manufactures a variety of heavy equipment, such as that used for earth moving, transport and mining.",
+      "meta": {
+        "refs": [
+          "https://www.bemlindia.in/"
+        ]
+      },
+      "uuid": "59d6926e-ab46-11ea-bb37-0242ac130002",
+      "value": "BEML Limited"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

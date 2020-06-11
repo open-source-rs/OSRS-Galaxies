@@ -566,6 +566,16 @@
 			"value": "The San Raffaele Hospital"
 		},
 		{
+			"description": "Govt. Thiruvarur Medical College was started in 1st April 2010 in Thiruvarur District at the Master Plan Complex, Vilamal Village, Thiruvarur. This Medical College was established to meet the rising demand for medical care amongst our rural public aroun Thiruvarur. The college was approved by MCI for hundred students and it is affiliated to Tamilnadu Dr. MGR Medical University, Chennai.",
+			"meta": {
+				"refs": [
+					"http://www.tmctvr.ac.in/tmctvr/content_page.jsp?sqf=10&sq1=aboutus"
+				]
+			},
+			"uuid": "59d68f4e-ab46-11ea-bb37-0242ac130002",
+			"value": "Thiruvarur Medical College and Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

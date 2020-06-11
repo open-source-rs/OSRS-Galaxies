@@ -427,6 +427,26 @@
 			"value": "MyBudget"
 		},
 		{
+			"description": "With the student loan crisis becoming an out of control epidemic for individuals and families across the United States, Student Advocates seeks to relieve some of the stress and burden of this growing problem. Student Advocates is a privately owned company that helps consumers identify programs that may be suitable to each of their unique situation, gather the relevant application documents, and then prepare those documents for our clients review and submission.  Our services are reasonably priced and our goal is to take the frustration out of the process.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/student-advocates/about/"
+				]
+			},
+			"uuid": "52bd25ac-ab45-11ea-bb37-0242ac130002",
+			"value": "Student Advocates LLC"
+		},
+		{
+			"description": "Toss is a Korea-based mobile finance platform.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/toss"
+				]
+			},
+			"uuid": "52bd27d2-ab45-11ea-bb37-0242ac130002",
+			"value": "Viva Republica (Toss)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

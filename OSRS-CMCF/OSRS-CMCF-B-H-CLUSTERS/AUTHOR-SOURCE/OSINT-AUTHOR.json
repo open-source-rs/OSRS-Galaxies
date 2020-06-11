@@ -5963,6 +5963,71 @@
       "value": "OSRS OSINT Author Index: Stefano Ortolani"
     },
 	{
+      "description": "Generic author pen name for WDIO online news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.wdio.com/"
+        ]
+      },
+      "uuid": "8168f8f4-ab4a-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: WDIO News Desk"
+    },
+	{
+      "description": "Journalist affiliated with Fox13 NOW.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fox13now.com"
+        ]
+      },
+      "uuid": "816a3a84-ab4a-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: David Wells"
+    },
+	{
+      "description": "Pen name used for security research blog affiliated with the vendor BlackBerry.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com"
+        ]
+      },
+      "uuid": "816a3c50-ab4a-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: BlackBerry Research and Intelligence Team"
+    },
+	{
+      "description": "Journalist affiliated with the online cybersecurity news site MSSP Alert.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.msspalert.com"
+        ]
+      },
+      "uuid": "816a3d86-ab4a-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Joe Panettieri"
+    },
+	{
+      "description": "Insurance Journal online news journalist.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.insurancejournal.com"
+        ]
+      },
+      "uuid": "816a3e6c-ab4a-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Author Index: Daniele Lepido"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

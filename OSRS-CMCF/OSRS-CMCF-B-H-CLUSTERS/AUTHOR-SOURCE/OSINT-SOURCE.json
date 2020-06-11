@@ -2300,6 +2300,71 @@
       "value": "OSRS OSINT Source: GitHub Security Lab"
     },
 	{
+      "description": "WDIO News covers Duluth, Superior, Iron Range, NW Wisconsin, and the UP Michigan.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wdio.com/"
+        ]
+      },
+      "uuid": "97d86560-ab4b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: WDIO"
+    },
+	{
+      "description": "KSTU, virtual channel 13, is a Fox-affiliated television station licensed to Salt Lake City, Utah, United States. The station is owned by the E. W. Scripps Company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.fox13now.com/"
+        ]
+      },
+      "uuid": "97d869ca-ab4b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: FOX13 Salt Lake City"
+    },
+	{
+      "description": "Online cybersecurity blog affiliated with the vendor BlackBerry.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com/en"
+        ]
+      },
+      "uuid": "97d86ace-ab4b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: BlackBerry Blog"
+    },
+	{
+      "description": "News & research for Managed Security Services Providers (MSSPs), MSPs & cybersecurity professionals who safeguard customer data & networks.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.msspalert.com/"
+        ]
+      },
+      "uuid": "97d86b96-ab4b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: MSSP Alert Online"
+    },
+	{
+      "description": "Online property and casualty insurance news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.insurancejournal.com/"
+        ]
+      },
+      "uuid": "97d86c54-ab4b-11ea-bb37-0242ac130002",
+      "value": "OSRS OSINT Source: Insurance Journal Online"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
@@ -2315,5 +2380,5 @@
       "value": "OSRS OSINT Source: CSIS Tech Blog"
     }
 	  ],
-	"version": 28
+	"version": 29
 }

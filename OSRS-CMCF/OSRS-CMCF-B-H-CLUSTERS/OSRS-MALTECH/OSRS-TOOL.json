@@ -4546,6 +4546,32 @@
       "value": "OSRS Tool: AbSent-Loader"
     },
 	{
+      "description": "Malicious android application that masqurades as a barcode reader for android phones.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/barcode-reader-apps-on-google-play-found-using-new-ad-fraud-technique/"
+        ]
+      },
+      "uuid": "9472c19a-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: AndroidOS_HiddenAd"
+    },
+	{
+      "description": "FlowCloud is a multi-stage payload comprised of a large code base written in C++. The code demonstrates a level of complexity including numerous components, extensive object-oriented programming, and use of legitimate and imitation QQ files for initial and later stage execution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new"
+        ]
+      },
+      "uuid": "9472c398-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS Tool: FlowCloud Malware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

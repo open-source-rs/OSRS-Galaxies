@@ -722,6 +722,19 @@
       "value": "OSRS SecTool Type: Emulator"
     },
 	{
+      "description": "Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Steganography"
+        ]
+      },
+      "uuid": "063f6ba8-ab50-11ea-bb37-0242ac130002",
+      "value": "OSRS SecTool Type: Steganography"
+    },
+	{
       "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
       "meta": {
 	  "kill_chain": [
@@ -735,5 +748,5 @@
       "value": "OSRS SecTool Type: Analysis"
     }
 	  ],
-	"version": 6
+	"version": 7
 }

@@ -27,6 +27,16 @@
       "value": "Stadler Rail"
     },
 	{
+      "description": "Fincantieri S.p.A. is an Italian shipbuilding company based in Trieste, Italy. Already the largest shipbuilder in Europe, after the acquisition of Vard in 2013 and 50% of STX France in 2018, Fincantieri group doubled in size to become the fourth largest in the world.",
+      "meta": {
+        "refs": [
+          "https://www.fincantieri.com/en/"
+        ]
+      },
+      "uuid": "1c527dce-ab49-11ea-bb37-0242ac130002",
+      "value": "Fincantieri S.p.A."
+    },
+	{
       "description": "ASCO Industries is a world leader in the design and manufacture of high lift devices, assemblies and major functional components for the aerospace industry.",
       "meta": {
         "refs": [

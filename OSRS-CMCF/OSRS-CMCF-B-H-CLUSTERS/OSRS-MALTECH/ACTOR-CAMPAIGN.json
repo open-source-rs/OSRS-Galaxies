@@ -1572,6 +1572,76 @@
       "value": "OSRS Actors AND Campaigns: ShuangQiang Campaign (Double Gun)"
     },
 	{
+      "description": "Hangover Group is a cyberespionage group that was first observed in December 2013 carrying on a cyberattack against a telecom corporation in Norway. Cybersecurity firm Norman reported that the cyberattacks were emerging from India and the group sought and carried on attacks against targets of national interest, such as Pakistan and China. However, there have been indicators of Hangover activity in the U.S. and Europe. Mainly focusing on government, military, and civilian organizations. The Hangover Group’s initial vector of compromise is to carry out spear-phishing campaigns. The group uses local and topical news lures from the South Asia region to make their victims more prone to falling into their social engineering techniques, making them download and execute a weaponized Microsoft Office document. After the user executes the weaponized document, backdoor communication is established between BackConfig and the threat actors, allowing attackers to carry on espionage activity, potentially exfiltrating sensitive data from compromised systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/threat-assessment-hangover-threat-group/"
+        ],
+        "synonyms": [
+        "Neon",
+        "Viceroy Tiger",
+		"MONSOON"
+        ]
+      },
+      "uuid": "4f757912-ab40-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Hangover (Threat Actor)"
+    },
+	{
+      "description": "The Higaisa APT is believed to be tied to the Korean peninsula, and was first disclosed by Tencent Security Threat Intelligence Center in early 2019. The group’s activities go back to at least 2016 and include the use of Trojans such as Gh0st and PlugX, as well as mobile malware. Its targets include government officials and human rights organizations, as well as other entities related to North Korea.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/"
+        ]
+      },
+      "uuid": "4f757bb0-ab40-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Higaisa APT"
+    },
+	{
+      "description": "In August 2019, Proofpoint researchers reported that LookBack malware was targeting the United States (U.S.) utilities sector between July and August 2019. We then continued our analysis into additional LookBack campaigns that unfolded between August 21-29, 2019. These campaigns utilized malicious macro-laden documents in order to deliver modular malware to targeted utility providers across the U.S. At the same time as the LookBack campaigns, Proofpoint researchers identified a new, additional malware family named FlowCloud that was also being delivered to U.S. utilities providers. FlowCloud malware, like LookBack, gives attackers complete control over a compromised system. Its remote access trojan (RAT) functionality includes the ability to access installed applications, the keyboard, mouse, screen, files, services, and processes with the ability to exfiltrate information via command and control. Analyzing phishing campaigns between July-November 2019 the researchers have determined that both LookBack and FlowCloud malware can be attributed to a single threat actor we are calling TA410. This conclusion is based on the threat actor’s use of shared attachment macros, malware installation techniques, and overlapping delivery infrastructure. In addition, their analysis found similarities between TA410 and TA429 (APT10) delivery tactics. Specifically, the researchers observed attachment macros that are common to both actors. TA410 campaigns detected in November 2019 included TA429 (APT10)-related infrastructure used in phishing attachment delivery macros. However, Proofpoint analysts believe that intentional reuse of well-publicized TA429 (APT10) techniques and infrastructure may be an attempt by threat actors to create a false flag.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new"
+        ]
+      },
+      "uuid": "4f757cb4-ab40-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: TA410 (Threat Actor)"
+    },
+	{
+      "description": "Dark Basin is a hack-for-hire group that has targeted thousands of individuals and hundreds of institutions on six continents. Targets include advocacy groups and journalists, elected and senior government officials, hedge funds, and multiple industries. Dark Basin extensively targeted American nonprofits, including organisations working on a campaign called #ExxonKnew, which asserted that ExxonMobil hid information about climate change for decades. Researchers also identify Dark Basin as the group behind the phishing of organizations working on net neutrality advocacy, previously reported by the Electronic Frontier Foundation. Researchers also link Dark Basin with high confidence to an Indian company, BellTroX InfoTech Services, and related entities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://citizenlab.ca/2020/06/dark-basin-uncovering-a-massive-hack-for-hire-operation/"
+        ]
+      },
+      "uuid": "4f757d86-ab40-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Dark Basin Threat Group"
+    },
+	{
+      "description": "Prevailion researchers detected a new advanced campaign dubbed - The Gh0st Remains the Same. This first campaign likely commenced between May 11th and 12th, 2020. In this engagement, the victims received a compressed RAR folder that contained trojanized files. If the malicious files were engaged, they displayed decoy web pages associated with the software company Zeplin. Zeplin is a software company that developed a platform to create a connected space for product teams, and boasts over three million customers. Some of Zeplin’s more prominent users include - Starbucks, Airbnb, Slack, Dropbox, Pinterest, Shopify, Feedly and MailChimp. It is likely they chose to simulate collaboration-based software with a sizable user base, as a result of the increase in working from home (WFH) during the global pandemic.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.prevailion.com/2020/06/the-gh0st-remains-same8.html"
+        ]
+      },
+      "uuid": "8d965d28-ab41-11ea-bb37-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: The Gh0st Remains the Same (Campaign)"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1588,5 +1658,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 20
+	"version": 22
 }

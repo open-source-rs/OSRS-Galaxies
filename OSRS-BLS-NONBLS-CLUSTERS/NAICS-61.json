@@ -668,6 +668,36 @@
 			"value": "Mount Kenya University"
 		},
 		{
+			"description": "Columbia College Chicago is a private college specializing in arts and media disciplines and located in Chicago, Illinois. Founded in 1890, it has 6,195 students pursuing degrees in more than 60 undergraduate and graduate degree programs. It is accredited by the Higher Learning Commission.",
+			"meta": {
+				"refs": [
+					"https://www.colum.edu/"
+				]
+			},
+			"uuid": "430019e0-ab44-11ea-bb37-0242ac130002",
+			"value": "Columbia College Chicago"
+		},
+		{
+			"description": "The University of California is a public university system in the U.S. state of California. The system is composed of the campuses at Berkeley, Davis, Irvine, Los Angeles, Merced, Riverside, San Diego, San Francisco, Santa Barbara, and Santa Cruz, along with numerous research centers and academic abroad centers.",
+			"meta": {
+				"refs": [
+					"https://www.universityofcalifornia.edu/"
+				]
+			},
+			"uuid": "43001c38-ab44-11ea-bb37-0242ac130002",
+			"value": "University of California"
+		},
+		{
+			"description": "San Beda University is a private Roman Catholic university run by the Benedictine monks in the Philippines. Its main campus which provides tertiary education is situated in Mendiola, Manila. It has an affiliated campus that provides elementary and high school education in Taytay, Rizal. The Benedictine College in Alabang, Muntinlupa known as the San Beda College Alabang is an autonomous institution despite being an affiliate of San Beda University.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/San_Beda_University"
+				]
+			},
+			"uuid": "43001dd2-ab44-11ea-bb37-0242ac130002",
+			"value": "San Beda University (SBU)"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
