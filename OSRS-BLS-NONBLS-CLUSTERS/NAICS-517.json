@@ -206,6 +206,16 @@
 			"value": "NTT Communications"
 		},
 		{
+			"description": "A1 Telekom Austria is the leading fixed and mobile network operator in Austria, with 5.4 million mobile and 2.3 million fixed-line customers.",
+			"meta": {
+				"refs": [
+					"https://www.a1.group/en/group/about-us"
+				]
+			},
+			"uuid": "935bf53c-b0a1-11ea-b3de-0242ac130004",
+			"value": "A1 Telekom Austria"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [
@@ -216,5 +226,5 @@
 			"value": "Dalil"
 		}
 	],
-	"version": 21
+	"version": 22
 }

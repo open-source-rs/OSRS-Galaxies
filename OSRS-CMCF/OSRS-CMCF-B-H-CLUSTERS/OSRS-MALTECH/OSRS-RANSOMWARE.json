@@ -833,6 +833,33 @@
       "value": "OSRS Ransomware: Avaddon Ransomware"
     },
 	{
+      "description": "Insikt Group uncovered a new family of ransomware for sale on Exploit Forum called Thanos, developed by a threat actor with the alias Nosophoros. Nosophoros offered Thanos as a private ransomware builder with the ability to generate new Thanos ransomware clients based on 43 different configuration options. Recorded Future analyzed the Thanos ransomware builder to detect, understand, and exercise the breadth of functionality that the Thanos ransomware can support. The Thanos client is simple in its overall structure and functionality. It is written in C# and is straightforward to understand even with obfuscation, though it does incorporate some more advanced features such as the RIPlace technique. During this research, we observed an overlap between our detections and a ransomware family called Hakbit. Based on code similarity, string reuse, and core functionality, Insikt Group assesses with high confidence that ransomware samples tracked as Hakbit are built using the Thanos ransomware builder developed by Nosophoros.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.recordedfuture.com/thanos-ransomware-builder/"
+        ]
+      },
+      "uuid": "90dec70e-b0b4-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: Thanos Ransomware"
+    },
+	{
+      "description": "The bad actor(s) behind Hakbit ransomware recently released an updated variant of their ransomware, which encrypts the victim’s data and demands 3 Bitcoins in ransom payment. This updated variant is delivered via phishing email as a malicious Excel document, and contains added functionality from the original version reported in November 2019. Code references to SharpExec (an offensive security tool used for lateral movement) are found within Hakbit. Lastly a similar technique recently observed in a RYUK ransomware variant that sends a Wake-On-LAN packet to encrypt remote computers on specified local subnet addresses, is also featured in this Hakbit variant.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.recordedfuture.com/thanos-ransomware-builder/",
+		  "https://www.carbonblack.com/2020/06/08/tau-threat-analysis-hakbit-ransomware/"
+        ]
+      },
+      "uuid": "90dec966-b0b4-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: Hakbit Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

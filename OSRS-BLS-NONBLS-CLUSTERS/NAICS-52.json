@@ -447,6 +447,46 @@
 			"value": "Viva Republica (Toss)"
 		},
 		{
+			"description": "Coinsquare is Canada’s premier cryptocurrency trading platform for trading Bitcoin, Ethereum, XRP, and other digital currencies.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/coinsquare"
+				]
+			},
+			"uuid": "e2c2cc28-b09b-11ea-b3de-0242ac130004",
+			"value": "Coinsquare Ltd."
+		},
+		{
+			"description": "About us. Founded in 1997, eHealth is the nation's leading private health insurance marketplace. Millions of individuals, families and small businesses use our top-rated tools to compare and purchase health insurance from leading insurers like Aetna, Humana, Kaiser Permanente and Wellpoint.",
+			"meta": {
+				"refs": [
+					"https://www.ehealthinsurance.com/"
+				]
+			},
+			"uuid": "e2c2ce4e-b09b-11ea-b3de-0242ac130004",
+			"value": "eHealth, Inc."
+		},
+		{
+			"description": "Genworth Financial is an S&P 400 insurance company. The firm was founded as The Life Insurance Company of Virginia in 1871. In 1986, Life of Virginia was acquired by Combined Insurance, which became Aon plc in 1987. In 1996, Life of Virginia was sold to GE Capital.",
+			"meta": {
+				"refs": [
+					"https://www.genworth.com/"
+				]
+			},
+			"uuid": "e2c2cf48-b09b-11ea-b3de-0242ac130004",
+			"value": "Genworth Financial"
+		},
+		{
+			"description": "Postbank is a bank by South Africans for South Africans. And as South Africans we all have dreams. Whether you are saving for your dream house or growing your business, at Postbank we want to help make all those dreams come true. Whatever your needs, you can count on Postbank to have a simple solution designed for easy understanding. Besides, our aim is to ensure that whatever you sign up for, you are able to see the transparent benefits we offer. As a state owned institution, our mandate is to help uplift you from whatever position you find yourself. So don’t be surprised if you walk into any one of our branches and find a friendly face that greats you with a smile that makes you feel at home. If your first language is not English, rest assured that you will find someone within any of our branches that can communicate with you in your mother tongue. Besides, you are a customer to us, and we strive to make you feel special, in whatever way possible.",
+			"meta": {
+				"refs": [
+					"https://www.postbank.co.za/aboutus.html"
+				]
+			},
+			"uuid": "e2c2d18c-b09b-11ea-b3de-0242ac130004",
+			"value": "Postbank (South Africa)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -457,5 +497,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 31
+	"version": 32
 }

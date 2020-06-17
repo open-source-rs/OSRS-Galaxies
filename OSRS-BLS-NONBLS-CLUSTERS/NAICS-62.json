@@ -1266,6 +1266,36 @@
 			"value": "Hockley Medical Practice"
 		},
 		{
+			"description": "Babylon Health is a health service provider that provides remote consultations with doctors and health care professionals via text and video messaging through its mobile application.",
+			"meta": {
+				"refs": [
+					"https://www.babylonhealth.com/"
+				]
+			},
+			"uuid": "fb796f3c-b09c-11ea-b3de-0242ac130004",
+			"value": "Babylon Health"
+		},
+		{
+			"description": "University of Missouri Health Care is an academic health system located in Columbia, Missouri. It is owned by the University of Missouri System.",
+			"meta": {
+				"refs": [
+					"https://www.muhealth.org/"
+				]
+			},
+			"uuid": "fb79713a-b09c-11ea-b3de-0242ac130004",
+			"value": "University of Missouri Health Care"
+		},
+		{
+			"description": "Cano Health LLC. Cano Health, LLC provides health care services. The Hospital offers asthma and pain management, cardiovascular, hair treatment, dental, medicine, and primary care services. Cano Health serves patients in the State of Florida.",
+			"meta": {
+				"refs": [
+					"https://canohealth.com/"
+				]
+			},
+			"uuid": "fb7973b0-b09c-11ea-b3de-0242ac130004",
+			"value": "Cano Health, LLC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -1276,5 +1306,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 47
+	"version": 48
 }

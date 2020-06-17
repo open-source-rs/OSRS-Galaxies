@@ -17,6 +17,16 @@
       "value": "Test Electrical Equipment, Appliance, and Component Manufacturing Value"
     },
 	{
+      "description": "MaxLinear is an American hardware company. Founded in 2003, it provides highly integrated radio-frequency analog and mixed-signal semiconductor solutions for broadband communications applications. It is a New York Stock Exchange-traded company.",
+      "meta": {
+        "refs": [
+          "https://www.maxlinear.com/"
+        ]
+      },
+      "uuid": "92dd7ed8-b09b-11ea-b3de-0242ac130004",
+      "value": "MaxLinear"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

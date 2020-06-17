@@ -2913,6 +2913,26 @@
 			"value": "The City of Florence, AL"
 		},
 		{
+			"description": "The Government of Pakistan abbreviated as GoP, is a federal government established by the Constitution of Pakistan as a constituted governing authority of the four provinces two autonomous territories and one federal territory of a parliamentary democratic republic, constitutionally called the Islamic Republic of Pakistan.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Government_of_Pakistan"
+				]
+			},
+			"uuid": "1f155ab8-b099-11ea-b3de-0242ac130004",
+			"value": "The Government of Pakistan"
+		},
+		{
+			"description": "Knoxville is a city on the Tennessee River in eastern Tennessee. Downtown, the Market Square district has 19th-century buildings with shops and restaurants. The Museum of East Tennessee History has interactive exhibits plus regional art, textiles and Civil War artifacts. James White’s Fort, built by the Revolutionary War captain, includes the reconstructed 1786 log cabin that was Knoxville’s first permanent building.",
+			"meta": {
+				"refs": [
+					"http://knoxvilletn.gov/"
+				]
+			},
+			"uuid": "1f155cfc-b099-11ea-b3de-0242ac130004",
+			"value": "The City of Knoxville"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2923,5 +2943,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 56
+	"version": 57
 }

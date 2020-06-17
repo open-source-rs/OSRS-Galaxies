@@ -58,6 +58,25 @@
       "value": "OSRS CVE Author Index: Maddie Stone"
     },
 	{
+      "description": "I’m a recent graduate of Stanford, having studied Computer Science with a focus in Systems and Security. This blog is a collection of some of my security-related activities, mostly focused on macOS and iOS. Affiliated with Google Project Zero.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:Project Zero Author"
+        ],
+        "refs": [
+          "https://github.com/bazad",
+		  "https://bazad.github.io/",
+		  "https://twitter.com/_bazad?lang=en"
+        ],
+        "synonyms": [
+        "bazad",
+		"@_bazad"
+        ] 
+      },
+      "uuid": "f6917ef0-b0ac-11ea-b3de-0242ac130004",
+      "value": "OSRS CVE Author Index: Brandon Azad"
+    },
+	{
       "description": "Security researcher and CVE author. Information Security Specialist - Intern at Trend Micro.",
       "meta": {
 	  "kill_chain": [
@@ -76,5 +95,5 @@
       "value": "OSRS CVE Author Index: Samuel Groß"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

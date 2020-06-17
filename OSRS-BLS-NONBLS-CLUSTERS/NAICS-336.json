@@ -37,6 +37,16 @@
       "value": "Fincantieri S.p.A."
     },
 	{
+      "description": "Vard Group AS is a designers and shipbuilders of specialized vessels. The Company develops power and automation systems, deck handling equipment, shipbuilding facilities, and vessel accommodation solutions, as well as offers design and engineering services.",
+      "meta": {
+        "refs": [
+          "https://www.vard.com/"
+        ]
+      },
+      "uuid": "935bf62c-b0a1-11ea-b3de-0242ac130004",
+      "value": "Vard Group AS"
+    },
+	{
       "description": "ASCO Industries is a world leader in the design and manufacture of high lift devices, assemblies and major functional components for the aerospace industry.",
       "meta": {
         "refs": [

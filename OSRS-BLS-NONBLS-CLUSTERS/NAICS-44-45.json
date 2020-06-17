@@ -307,6 +307,16 @@
 			"value": "Fitness Depot"
 		},
 		{
+			"description": "Claire's is an American retailer of accessories, jewelry, and toys primarily aimed toward girls, tweens and teens. It was founded in 1961 and is based in Hoffman Estates, Illinois, a suburb of Chicago. The company is owned by Apollo Global Management, LLC.",
+			"meta": {
+				"refs": [
+					"https://www.claires.com/us/"
+				]
+			},
+			"uuid": "935bf42e-b0a1-11ea-b3de-0242ac130004",
+			"value": "Claire's"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

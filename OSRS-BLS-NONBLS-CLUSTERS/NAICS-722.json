@@ -177,6 +177,16 @@
       "value": "PrimoHoagies Franchising, Inc."
     },
 	{
+      "description": "Foodora is an online food delivery brand originally based in Berlin, Germany which offers meals from over 9,000 selected restaurants in several countries worldwide.",
+      "meta": {
+        "refs": [
+          "https://www.foodora.com/"
+        ]
+      },
+      "uuid": "879b9194-b09c-11ea-b3de-0242ac130004",
+      "value": "Foodora"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [
@@ -187,5 +197,5 @@
       "value": "Tequila Taqueria"
     }
 	  ],
-	"version": 10
+	"version": 11
 }

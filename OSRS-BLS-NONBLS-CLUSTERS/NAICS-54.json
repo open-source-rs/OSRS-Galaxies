@@ -2253,6 +2253,66 @@
 			"value": "Everett & Hurite Ophthalmic Association"
 		},
 		{
+			"description": "Keepnet is a cyber-security awareness and defence platform that provides a holistic approach to people, process and technology to reduce risk.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/keepnetlabs/about/"
+				]
+			},
+			"uuid": "af1d6900-b0a0-11ea-b3de-0242ac130004",
+			"value": "Keepnet Labs"
+		},
+		{
+			"description": "Property inventory software developer.",
+			"meta": {
+				"refs": [
+					"https://www.inventoryhive.co.uk/"
+				]
+			},
+			"uuid": "af1d6c98-b0a0-11ea-b3de-0242ac130004",
+			"value": "Inventory Hive"
+		},
+		{
+			"description": "Threadstone Advisors, LLC operates as a brokerage firm. The Company buys and sells securities such as stocks, bonds, mutual funds, and other investment products. Threadstone Advisors serves customers in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/1376603D:US#:~:text=Threadstone%20Advisors%20LLC,customers%20in%20the%20United%20States."
+				]
+			},
+			"uuid": "af1d6dc4-b0a0-11ea-b3de-0242ac130004",
+			"value": "Threadstone Advisors LLC"
+		},
+		{
+			"description": "Symbotic has developed proprietary and innovative robotics and software to deliver an advanced automation solution to make the supply chain faster, more efficient and more profitable for manufacturers, distributors and retailers of all sizes.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/symbotic/about/"
+				]
+			},
+			"uuid": "af1d6ea0-b0a0-11ea-b3de-0242ac130004",
+			"value": "Symbotic LLC"
+		},
+		{
+			"description": "DevERP is founded in 2008 and we serve different kinds of IT services. Our company providing professional level software development, customized ERP solution.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/in/deverp-solutions-pvt-ltd-company-286598181/?originalSubdomain=in"
+				]
+			},
+			"uuid": "af1d6f72-b0a0-11ea-b3de-0242ac130004",
+			"value": "DevERP Solutions Pvt. Ltd. Company"
+		},
+		{
+			"description": "Avon Products, Inc. is a multi-level marketing company in beauty, household, and personal care categories. Avon had annual sales of $4.7 billion worldwide in 2019. It is the fourteenth-largest beauty company and, with 6.4 million representatives, is the second largest direct-selling enterprise in the world.",
+			"meta": {
+				"refs": [
+					"https://www.avon.com/"
+				]
+			},
+			"uuid": "af1d7044-b0a0-11ea-b3de-0242ac130004",
+			"value": "Avon Products, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

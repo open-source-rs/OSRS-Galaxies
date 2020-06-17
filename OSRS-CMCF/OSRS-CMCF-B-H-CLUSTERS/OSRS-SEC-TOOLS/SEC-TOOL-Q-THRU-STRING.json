@@ -894,6 +894,32 @@
       "value": "OSRS SecTool: UFONet"
     },
 	{
+      "description": "SmartAssembly is an obfuscator that helps protect your application against reverse-engineering or modification, by making it difficult for a third-party to access your source code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.red-gate.com/products/dotnet-development/smartassembly/"
+        ]
+      },
+      "uuid": "ade6eec0-b0b5-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: SmartAssembly Obfuscator"
+    },
+	{
+      "description": "SharpExec is an offensive security C# tool designed to aid with lateral movement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/anthemtotheego/SharpExec"
+        ]
+      },
+      "uuid": "ade6f0be-b0b5-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: SharpExec"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

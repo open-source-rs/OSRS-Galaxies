@@ -576,6 +576,16 @@
 			"value": "Thiruvarur Medical College and Hospital"
 		},
 		{
+			"description": "The Rangely Hospital District has served Northwestern Colorado since 1959.",
+			"meta": {
+				"refs": [
+					"http://www.rangelyhospital.com/getpage.php?name=index#?sub=About+Us"
+				]
+			},
+			"uuid": "6fe27434-b09f-11ea-b3de-0242ac130004",
+			"value": "Rangely District Hospital (RDH)"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -586,5 +596,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 35
+	"version": 36
 }

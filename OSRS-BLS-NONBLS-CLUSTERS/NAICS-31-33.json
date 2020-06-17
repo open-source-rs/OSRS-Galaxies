@@ -207,6 +207,16 @@
       "value": "BEML Limited"
     },
 	{
+      "description": "H-Wave is a multi-functional electrical stimulation device intended to speed recovery, restore function, and manage chronic, acute or post-operative pain. It is a non-invasive drug-free alternative treatment option without harmful side effects. This unique technology stands apart from other electrotherapy modalities such as TENS, which only masks pain while the device is on, and traditional muscle stimulators; which use harsh signals and fatiguing muscle contractions to re-educate muscle. Whereas H-Wave is a rehabilitative device that focuses on addressing the root cause of symptoms and providing lasting, cumulative benefits; which patients can feel long after the device is taken off.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/h-wave/about/"
+        ]
+      },
+      "uuid": "689c6d82-b0a0-11ea-b3de-0242ac130004",
+      "value": "Electronic Waveform Lab, Inc."
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

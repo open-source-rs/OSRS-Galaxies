@@ -6028,6 +6028,97 @@
       "value": "OSRS OSINT Author Index: Daniele Lepido"
     },
 	{
+      "description": "Threat Research Director at Sophos. Hungary area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/szappanos-g%C3%A1bor-b694421/?originalSubdomain=hu"
+        ]
+      },
+      "uuid": "6cfcf556-b0b2-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Gabor Szappanos"
+    },
+	{
+      "description": "Generic pen name associated with the cybersecurity vendor Recorded Future.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.recordedfuture.com"
+        ]
+      },
+      "uuid": "6cfcf880-b0b2-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Insikt Group (Recorded Future)"
+    },
+	{
+      "description": "Senior Intelligence Analyst at Cisco Talos. Raleigh-Durham, North Carolina Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/kendall-mckay-559949139/"
+        ]
+      },
+      "uuid": "6cfcf98e-b0b2-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Kendall McKay"
+    },
+	{
+      "description": "Outreach ICS. Towson, Maryland. Affiliated with the cybersecurity vendor Cisco Talos Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joe-marshall-25b08824/"
+        ]
+      },
+      "uuid": "6cfcfa60-b0b2-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Joe Marshall"
+    },
+	{
+      "description": "Journalist at ZDNet. Sydney, New South Wales, Australia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/asha-barbaschow-a15538b3/?trk=public_profile_browsemap_mini-profile_title&originalSubdomain=au"
+        ]
+      },
+      "uuid": "6cfcfb28-b0b2-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Asha Barbaschow"
+    },
+	{
+      "description": "Forex & Crypto Journalist - Speaker. Colombia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/felipe-erazo-b3515278/?originalSubdomain=co"
+        ]
+      },
+      "uuid": "4493f9ba-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Felipe Erazo"
+    },
+	{
+      "description": "Generic pen name for the online news journal The Maritime Executive.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://maritime-executive.com/"
+        ]
+      },
+      "uuid": "4493fc1c-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: The Maritime Executive"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -6045,5 +6136,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 29
+	"version": 30
 }

@@ -4598,6 +4598,71 @@
       "value": "OSRS Tool: PCShare RAT"
     },
 	{
+      "description": "Android spyware. The campaign is reportedly targeting victims related to Uyghurs by compromising their Android and iOS mobile devices. This group is known to use watering hole attacks, but researchers recently observed them using phishing attacks to deliver their malware. The malware that infects the mobile devices is found to be associated with a sequence of iOS exploit chain attacks in the wild since 2016. In April 2020, researchers noticed a phishing page disguised as a download page of an Android video application that is popular in Tibet. The phishing page, which appears to have been copied from a third-party researchersb store, may have been created by Earth Empusa. This is based on the fact that one of the malicious scripts injected on the page was hosted on a domain belonging to the group. Upon checking the Android application downloaded from the page, researchers found ActionSpy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-android-spyware-actionspy-revealed-via-phishing-attacks-from-earth-empusa/"
+        ]
+      },
+      "uuid": "260c9170-b0b6-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: ActionSpy"
+    },
+	{
+      "description": "A combination of coinmining tools including common miners like XMRig.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/06/tor2mine-is-up-to-their-old-tricks-and_11.html"
+        ]
+      },
+      "uuid": "260c93c8-b0b6-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: Tor2Mine Coinminer"
+    },
+	{
+      "description": "DarkEyE samples have a lot in common with the GuLoader samples. They both are written in VisualBasic, contain a shellcode encrypted with 4-bytes XOR key, and have the same payload decryption procedure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/guloader-cloudeye/"
+        ]
+      },
+      "uuid": "260c9b34-b0b6-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: DarkEye Protector (Loader)"
+    },
+	{
+      "description": "Just like GuLoader, it is compiled with Visual Basic and contains shellcode encrypted with a random 4-bytes XOR key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/guloader-cloudeye/"
+        ]
+      },
+      "uuid": "260c9cf6-b0b6-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: CloudEye (Loader)"
+    },
+	{
+      "description": "An information stealer (or info stealer) is a Trojan that is designed to gather information from a system. The malware gathers login information, like usernames and passwords stored on web-browsers, which it sends to another system via email. Another common form this malware is to log user keystrokes which may reveal sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://seguranca-informatica.pt/troystealer-a-new-info-stealer-targeting-portuguese-internet-users/#.XudvqUVKiUk"
+        ]
+      },
+      "uuid": "260c9eae-b0b6-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: TroyStealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

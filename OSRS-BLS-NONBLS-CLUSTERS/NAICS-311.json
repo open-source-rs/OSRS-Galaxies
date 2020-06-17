@@ -27,6 +27,16 @@
       "value": "Russell Stover Chocolates"
     },
 	{
+      "description": "Lion is a beverage and food company that operates in Australia and New Zealand, and a subsidiary of Japanese beverage giant Kirin. It produces and markets a range of beer, wine, cider, RTDs and spirits, as well as dairy and other beverages (plain and flavoured milks, yogurts, cheese, juice and soy products).",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Lion_(Australasian_company)#:~:text=Lion%20is%20a%20beverage%20and,%2C%20juice%20and%20soy%20products)."
+        ]
+      },
+      "uuid": "879b8f32-b09c-11ea-b3de-0242ac130004",
+      "value": "Lion Beverages"
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Trails End"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

@@ -2365,6 +2365,58 @@
       "value": "OSRS OSINT Source: Insurance Journal Online"
     },
 	{
+      "description": "Recorded Future is a privately held cybersecurity company founded in 2009 with headquarters in Somerville, Massachusetts. The company specializes in the collection, processing, analysis, and dissemination of threat intelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.recordedfuture.com/resources/"
+        ]
+      },
+      "uuid": "c43910b0-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: Recorded Future Cybersecurity Blog"
+    },
+	{
+      "description": "The most recent news about crypto industry at Cointelegraph. Latest news about bitcoin, ethereum, blockchain, mining, cryptocurrency prices and more.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cointelegraph.com/"
+        ]
+      },
+      "uuid": "c4391394-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: CoinTelegraph"
+    },
+	{
+      "description": "The maritime industry's leading source for breaking maritime and marine news including shipping news, offshore news, piracy news and more.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://maritime-executive.com/"
+        ]
+      },
+      "uuid": "c43914a2-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: The Maritime Executive"
+    },
+	{
+      "description": "WCTC is an American radio station broadcasting a syndicated and live talk radio format. Licensed to New Brunswick, New Jersey, the station serves the Middlesex, Somerset and Union County areas. The station is owned by Beasley Broadcast Group. The station broadcasts in C-QUAM AM stereo.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://whtc.com/"
+        ]
+      },
+      "uuid": "c43919b6-b0b3-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: WHTC (AM1450)"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
