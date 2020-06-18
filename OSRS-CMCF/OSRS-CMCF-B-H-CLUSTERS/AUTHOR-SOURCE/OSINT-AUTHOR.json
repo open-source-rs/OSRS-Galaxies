@@ -6119,6 +6119,19 @@
       "value": "OSRS OSINT Author Index: The Maritime Executive"
     },
 	{
+      "description": "CBC.ca affiliated journalist. Saskatoon, Saskatchewan, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dan-zakreski-72184567/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "af32eb96-b158-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Dan Zakreski"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
