@@ -6132,6 +6132,19 @@
       "value": "OSRS OSINT Author Index: Dan Zakreski"
     },
 	{
+      "description": "Head of Threat Research at ESET. Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jean-ian-boutin-62460b4/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "473e17f0-b22e-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Jean-Ian Boutin"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
