@@ -2417,6 +2417,71 @@
       "value": "OSRS OSINT Source: WHTC (AM1450)"
     },
 	{
+      "description": "Morphisec is transforming endpoint security with our pioneering Moving Target Defense. Our solutions deliver operationally simple, proactive prevention unbound by the limits of detection and prediction. We protect businesses around the globe from the most dangerous and sophisticated cyberattacks immediately, efficiently and absolutely.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.morphisec.com/about-us"
+        ]
+      },
+      "uuid": "de32fae4-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: Morphisec"
+    },
+	{
+      "description": "The Outlook strives to report the news honestly, fairly and with integrity - to take a leadership role and act as a positive influence in our community - to promote business - to provide for the welfare of our employees - to strive for excellence in everything we do and above all treat others as we would want to be treated ourselves.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.alexcityoutlook.com/site/about.html"
+        ]
+      },
+      "uuid": "de32fd64-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: The Outlook"
+    },
+	{
+      "description": "Cybersecurity blog affiliated with the cybersecurity vendor Carbon Black.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.carbonblack.com/blog/"
+        ]
+      },
+      "uuid": "de33002a-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: Carbon Black Threat Blog"
+    },
+	{
+      "description": "Cybersecurity blog affiliated with the cybersecurity vendor F5.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.f5.com/labs"
+        ]
+      },
+      "uuid": "de33011a-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: F5 Labs Threat Blog"
+    },
+	{
+      "description": "Online cybersecurity blog provided by NCC Group. Affiliated with the cybersecurity vendor Fox-IT.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/"
+        ]
+      },
+      "uuid": "de3301ec-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: NCC Group Research"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

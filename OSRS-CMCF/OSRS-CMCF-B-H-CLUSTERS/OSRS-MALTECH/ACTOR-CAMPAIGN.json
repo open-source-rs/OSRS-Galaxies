@@ -1642,6 +1642,47 @@
       "value": "OSRS Actors AND Campaigns: The Gh0st Remains the Same (Campaign)"
     },
 	{
+      "description": "Evil Corp has been operating the Dridex malware since July 2014 and provided access to several groups and individual threat actors. However, towards the end of 2017 Evil Corp became smaller and used Dridex infections almost exclusively for targeted ransomware campaigns by deploying BitPaymer. The majority of victims were in North America (mainly USA) with a smaller number in Western Europe and instances outside of these regions being just scattered, individual cases. During 2018, Evil Corp had a short lived partnership with TheTrick group, specifically, leasing out access to BitPaymer for a while, prior to their use of Ryuk.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/"
+        ]
+      },
+      "uuid": "354b6adc-b6e0-11ea-b3de-0242ac130004",
+      "value": "OSRS Actors AND Campaigns: Evil Corp Group"
+    },
+	{
+      "description": "The attacks, which we dubbed Operation In(ter)ception based on a related malware sample named Inception.dll, were highly targeted and clearly intent on staying under the radar. To compromise their targets, the attackers used social engineering via LinkedIn, hiding behind the ruse of attractive, but bogus, job offers. Having established an initial foothold, the attackers deployed their custom, multistage malware, along with modified open-source tools. Besides malware, the adversaries made use of living off the land tactics, abusing legitimate tools and OS functions. Several techniques were used to avoid detection, including code signing, regular malware recompilation and impersonating legitimate software and companies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/"
+        ]
+      },
+      "uuid": "41601f4c-b6e1-11ea-b3de-0242ac130004",
+      "value": "OSRS Actors AND Campaigns: Operation In(ter)ception"
+    },
+	{
+      "description": "Campaign that targeted Australian organizations using copied open source tools to compromise their targets. The actor has been identified leveraging a number of initial access vectors, with the most prevalent being the exploitation of public-facing infrastructure - primarily through the use of remote code execution vulnerabilities in unpatched versions of Telerik UI. Other vulnerabilities in public-facing infrastructure leveraged by the actor include exploitation of a deserialisation vulnerability in Microsoft Internet Information Services (IIS), a 2019 SharePoint vulnerability and the 2019 Citrix vulnerability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/copy-paste-threat-actor-in-the-asia-pacific-region/",
+		  "https://www.cyber.gov.au/news/advisory-2020-008-copy-paste-compromises-tactics-techniques-and-procedures-used-target-multiple-australian-networks",
+		  "https://www.cyber.gov.au/acsc/view-all-content/alerts/copy-paste-compromises"
+        ]
+      },
+      "uuid": "41602172-b6e1-11ea-b3de-0242ac130004",
+      "value": "OSRS Actors AND Campaigns: Copy-Paste Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
@@ -1658,5 +1699,5 @@
       "value": "OSRS Actors AND Campaigns: 0v1ru$"
     }
 	  ],
-	"version": 22
+	"version": 23
 }

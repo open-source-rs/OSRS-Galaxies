@@ -920,6 +920,58 @@
       "value": "OSRS SecTool: SharpExec"
     },
 	{
+      "description": "Search engine with scoring. Can search domain, IP, certificate, vulnerabilities, and DNS records.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://spyse.com/"
+        ]
+      },
+      "uuid": "5870f538-b6f2-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: Spyse Cybersecurity Search Engine"
+    },
+	{
+      "description": "Driver loader for bypassing Windows x64 Driver Signature Enforcement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/hfiref0x/TDL"
+        ]
+      },
+      "uuid": "5870f7fe-b6f2-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: TDL (Turla Driver Loader)"
+    },
+	{
+      "description": "This script takes either a list of users or, if not specified, will query the domain for a list of users on every brute attempt. The users queried will have a badPwdCount attribute of two less than the LockoutThreshold to ensure they are not locked in the brute attempt, with a new list being queried for every attempt. Designed to simply input the LockoutThreshold as well as a password list and then run. Note that each DC is queried for bad password count for each user for each brute, so this script is noisy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://gitlab.com/Kurobeats/shellntel-scripts/blob/master/Invoke-SMBAutoBrute.ps1"
+        ]
+      },
+      "uuid": "5870f902-b6f2-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: SMBAutoBrute"
+    },
+	{
+      "description": "SessionGopher is a PowerShell tool that finds and decrypts saved session information for remote access tools. It has WMI functionality built in so it can be run remotely. Its best use case is to identify systems that may connect to Unix systems, jump boxes, or point-of-sale terminals.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/Arvanaghi/SessionGopher"
+        ]
+      },
+      "uuid": "5870fa6a-b6f2-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: SessionGopher"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

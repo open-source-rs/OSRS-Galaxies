@@ -860,6 +860,32 @@
       "value": "OSRS Ransomware: Hakbit Ransomware"
     },
 	{
+      "description": "Operators of Black Kingdom ransomware are targeting enterprises with unpatched Pulse Secure VPN software or initial access on the network, security researchers have found. The malware got caught in a honeypot, allowing researchers to analyze and document the tactics used by the threat actors. Black Kingdom exploits CVE-2019-11510, a critical vulnerability affecting earlier versions of Pulse Secure VPN that was patched in April 2019. Companies delayed updating their software even after exploits became public, prompting multiple alerts from the U.S. government and threat actors started leveraging it; some organizations continue to run a vulnerable version of the product.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/black-kingdom-ransomware-hacks-networks-with-pulse-vpn-flaws/"
+        ]
+      },
+      "uuid": "d1a50762-b6ef-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: Black Kingdom Ransomware"
+    },
+	{
+      "description": "WastedLocker is a new ransomware locker researchers detected being used since May 2020. They believe it has been in development for a number of months prior to this and was started in conjunction with a number of other changes we have seen originate from the Evil Corp group in 2020. Evil Corp were previously associated to the Dridex malware and BitPaymer ransomware, the latter came to prominence in the first half of 2017. Recently Evil Corp has changed a number of TTPs related to their operations further described in this article. Researchers believe those changes were ultimately caused by the unsealing of indictments against Igor Olegovich Turashev and Maksim Viktorovich Yakubets, and the financial sanctions against Evil Corp in December 2019. These legal events set in motion a chain of events to disconnect the association of the current Evil Corp group and these two specific indicted individuals and the historic actions of Evil Corp.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/"
+        ]
+      },
+      "uuid": "d1a509e2-b6ef-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: WastedLocker Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
@@ -873,5 +899,5 @@
       "value": "OSRS Ransomware: AnteFrigus Ransomware"
     }
 	  ],
-	"version": 20
+	"version": 21
 }

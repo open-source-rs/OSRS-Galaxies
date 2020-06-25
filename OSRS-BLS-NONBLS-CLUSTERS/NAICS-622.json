@@ -586,6 +586,26 @@
 			"value": "Rangely District Hospital (RDH)"
 		},
 		{
+			"description": "Chatham-Kent Health Alliance (CKHA) is a 200 bed community hospital, serving the residents of Chatham and rural Kent including Walpole Island and Delaware First Nations. Formed in 2018, CKHA is committed to delivering quality and safe care at its two sites in Chatham and Wallaceburg.",
+			"meta": {
+				"refs": [
+					"http://www.ckha.on.ca/about"
+				]
+			},
+			"uuid": "0986bd40-b6e8-11ea-b3de-0242ac130004",
+			"value": "Chatham-Kent Health Alliance (CKHA)"
+		},
+		{
+			"description": "Critical care hospital located in Athens, GA.",
+			"meta": {
+				"refs": [
+					"https://www.landmarkhospitals.com/athens/"
+				]
+			},
+			"uuid": "0986c1fa-b6e8-11ea-b3de-0242ac130004",
+			"value": "Landmark Hospital of Athens"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

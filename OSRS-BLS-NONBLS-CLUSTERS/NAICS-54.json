@@ -2313,6 +2313,56 @@
 			"value": "Avon Products, Inc."
 		},
 		{
+			"description": "ARIIX is an international opportunity company that creates superior, exclusively branded products marketed through independent representatives. To promote healthy living, ARIIX develops toxin-free products through collaboration with world-renowned experts in the health, wellness, and fitness industries.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/ariix/about/"
+				]
+			},
+			"uuid": "9e0f8bf4-b6e8-11ea-b3de-0242ac130004",
+			"value": "ARIIX"
+		},
+		{
+			"description": "Established in 2007, SBTech is an industry-leading provider of interactive sports betting solutions and services to tier 1 operators in regulated markets across online, mobile and land-based channels. The complete offering includes an innovative, dynamic and highly customisable suite of turnkey and fully managed solutions. Our award-winning sportsbook and in-play betting products, comprehensive iGaming platform and premium casino and live casino selection deliver an unparalleled experience.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/sbtech/about/"
+				]
+			},
+			"uuid": "9e0f8e56-b6e8-11ea-b3de-0242ac130004",
+			"value": "SBTech"
+		},
+		{
+			"description": "Netsential.com Inc provides web site development and promotion services. The Company also provides services such as ongoing support, maintenance, training, and upgradation of the applications.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/1086437D:US"
+				]
+			},
+			"uuid": "9e0f8f5a-b6e8-11ea-b3de-0242ac130004",
+			"value": "Netsential.com Inc"
+		},
+		{
+			"description": "As one of Florida’s largest orthopaedic groups, Florida Orthopaedic Institute’s mission is to provide patients with world-class orthopaedic care, achieving exceptional outcomes through continuing research and specialty expertise. All surgeons are fellowship trained, providing a level of care unattainable elsewhere in Tampa Bay.",
+			"meta": {
+				"refs": [
+					"https://www.floridaortho.com/about-us/"
+				]
+			},
+			"uuid": "9e0f902c-b6e8-11ea-b3de-0242ac130004",
+			"value": "Florida Orthopaedic Institute"
+		},
+		{
+			"description": "Frost & Sullivan is a business consulting firm involved in market research and analysis, growth strategy consulting, and corporate training across multiple industries. It is headquartered in Mountain View, California, and has 40 offices on six continents.",
+			"meta": {
+				"refs": [
+					"https://ww2.frost.com/"
+				]
+			},
+			"uuid": "9e0f90f4-b6e8-11ea-b3de-0242ac130004",
+			"value": "Frost & Sullivan"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

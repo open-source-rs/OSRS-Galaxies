@@ -6145,6 +6145,162 @@
       "value": "OSRS OSINT Author Index: Jean-Ian Boutin"
     },
 	{
+      "description": "Senior Malware Researcher at Palo Alto Networks. Amsterdam Area, Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dominik-reichel-a05ba4137/"
+        ]
+      },
+      "uuid": "719ee6f6-b6ec-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Dominik Reichel"
+    },
+	{
+      "description": "Principal Malware Research Engineer at Palo Alto Networks. Austria area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/esmid-idrizovic-57692844/?originalSubdomain=at"
+        ]
+      },
+      "uuid": "719ee926-b6ec-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Esmid Idrizovic"
+    },
+	{
+      "description": "Malware Researcher at ESET. Czech Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dominik-breitenbacher-22a394108/?originalSubdomain=cz"
+        ]
+      },
+      "uuid": "719eea3e-b6ec-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Dominik Breitenbacher"
+    },
+	{
+      "description": "Malware researcher affiliated with the cybersecurity vendor ESET.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/author/kosis/"
+        ]
+      },
+      "uuid": "719eec0a-b6ec-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Kaspars Osis"
+    },
+	{
+      "description": "Communications Specialist at Citizen Lab. Toronto, Ontario, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/miles-kenyon-9b786445/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "719eee80-b6ec-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Miles Kenyon"
+    },
+	{
+      "description": "Chief Technology Officer at Morphisec. Greater Boston Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/smgoreli/"
+        ]
+      },
+      "uuid": "61fd1df2-b6ed-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Michael Gorelik"
+    },
+	{
+      "description": "Cliff Williams is a staff writer for Tallapoosa Publishers.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.alexcityoutlook.com/users/profile/cliff%20williams/"
+        ]
+      },
+      "uuid": "61fd1ffa-b6ed-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Cliff Williams"
+    },
+	{
+      "description": "Technical Lead, Threat Research, Carbon Black Security Unit at VMware. Baltimore, Maryland Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/brianbaskin/"
+        ]
+      },
+      "uuid": "61fd20ea-b6ed-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Brian Baskin"
+    },
+	{
+      "description": "Malware Analyst III at F5 Networks. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/doron-v/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "61fd21c6-b6ed-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Doron Voolf"
+    },
+	{
+      "description": "SpiderLabs Lead Threat Architect at Trustwave. Singapore.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/reegun/?originalSubdomain=sg"
+        ]
+      },
+      "uuid": "61fd2298-b6ed-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Reegun Jayapaul"
+    },
+	{
+      "description": "Security Researcher, Engineer, Tech Columnist. London, England, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/axsharma/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "2cd41dc8-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Ax Sharma"
+    },
+	{
+      "description": "Malware Analyst & Threat Researcher. Teramo Area, Italy.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/antelox/?originalSubdomain=it"
+        ]
+      },
+      "uuid": "2cd42052-b6ee-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Stefano Antenucci"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
@@ -6162,5 +6318,5 @@
       "value": "OSRS OSINT Author Index: Abhinav Singh"
     }
 	  ],
-	"version": 30
+	"version": 31
 }

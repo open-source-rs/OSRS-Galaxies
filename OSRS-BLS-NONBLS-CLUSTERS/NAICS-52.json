@@ -487,6 +487,16 @@
 			"value": "Postbank (South Africa)"
 		},
 		{
+			"description": "The Indiabulls Group is an Indian conglomerate headquartered in Gurgaon, India. Its primary businesses are housing finance, consumer finance, and wealth management. The Group also has a presence in real estate and pharmaceuticals.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Indiabulls#:~:text=The%20Indiabulls%20Group%20is%20an,in%20real%20estate%20and%20pharmaceuticals."
+				]
+			},
+			"uuid": "323660e8-b6e7-11ea-b3de-0242ac130004",
+			"value": "Indiabulls Group"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -735,6 +735,19 @@
       "value": "OSRS SecTool Type: Steganography"
     },
 	{
+      "description": "A web search engine or Internet search engine is a software system that is designed to carry out web search (Internet search), which means to search the World Wide Web in a systematic way for particular information specified in a textual web search query. The search results are generally presented in a line of results, often referred to as search engine results pages (SERPs). The information may be a mix of links to web pages, images, videos, infographics, articles, research papers, and other types of files. Some search engines also mine data available in databases or open directories. Unlike web directories, which are maintained only by human editors, search engines also maintain real-time information by running an algorithm on a web crawler. Internet content that is not capable of being searched by a web search engine is generally described as the deep web.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Web_search_engine"
+        ]
+      },
+      "uuid": "56f3e3ae-b6f3-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool Type: Search Engine"
+    },
+	{
       "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
       "meta": {
 	  "kill_chain": [

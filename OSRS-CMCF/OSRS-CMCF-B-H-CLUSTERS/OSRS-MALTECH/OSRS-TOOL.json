@@ -4663,6 +4663,110 @@
       "value": "OSRS Tool: TroyStealer"
     },
 	{
+      "description": "Coinminer that masqurades as legitmate software (CrystalBit).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/crystalbit-apple-double-dll-hijack"
+        ]
+      },
+      "uuid": "a40f7288-b6f4-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: CrystalBit Coinminer"
+    },
+	{
+      "description": "Dubbed AcidBox due to the first part being an anagram of the malware’s driver device name and the second part taken from VirtualBox. Because of the malware’s complexity, rarity, and the fact that it’s part of a bigger toolset, researchers believe it was used by an advanced threat actor for targeted attacks and it’s likely that this malware is still being used today if the attacker is still active. Horesearchersver, researchers anticipate that it was rewritten to a certain extent. Based on the information researchers have, researchers don’t believe this unknown threat actor is tied to Turla, except for the used exploit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/acidbox-rare-malware/"
+        ]
+      },
+      "uuid": "a40f74c2-b6f4-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: AcidBox"
+    },
+	{
+      "description": "Malware tool used to infiltrate Discord sessions and hijack account information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/discord-modified-to-steal-accounts-by-new-nitrohack-malware/"
+        ]
+      },
+      "uuid": "a40f75c6-b6f4-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: NitroHack Discord Malware"
+    },
+	{
+      "description": "Pillowmint is usually installed through a malicious shim database which allows the malware to persist in the system. Shim databases are used by Windows Application Compatibility Framework -  created by Microsoft so that legacy Windows applications will still work on newer Windows operating systems. This is done by overlaying code to a target process which is usually a legacy application. This will enable that application to run in a Windows operating system environment that is not designed for.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/pillowmint-fin7s-monkey-thief/"
+        ]
+      },
+      "uuid": "a40f76a2-b6f4-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: Pillowmint POS Malware"
+    },
+	{
+      "description": "IndigoDrop is responsible for obtaining the final payload from a download URL for deployment. The final payloads currently observed by researchers are Cobalt Strike beacons.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html"
+        ]
+      },
+      "uuid": "5420ab7e-b6f5-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: IndigoDrop Downloader"
+    },
+	{
+      "description": "The SocGholish JavaScript bot has access to information from the system itself as it runs under the privileges of the browser user. The bot collects a large set of information and sends that to the SocGholish server side which, in turn, returns a payload to the victim system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/"
+        ]
+      },
+      "uuid": "5420af34-b6f5-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: SocGholish"
+    },
+	{
+      "description": "Tool used to detect and disable endpoint security.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/"
+        ]
+      },
+      "uuid": "5420b04c-b6f5-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: SecTool Checker"
+    },
+	{
+      "description": "Variant of a .NET injector.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/"
+        ]
+      },
+      "uuid": "5420b272-b6f5-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: Donut .NET Injector "
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -4676,5 +4780,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 34
+	"version": 35
 }

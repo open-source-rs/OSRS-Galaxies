@@ -2933,6 +2933,36 @@
 			"value": "The City of Knoxville"
 		},
 		{
+			"description": "KIPP SoCal is a charter school operator associated with KIPP. KIPP LA, serving the Los Angeles metropolitan area, was founded in 2003 with two middle schools and now consists of 15 schools.",
+			"meta": {
+				"refs": [
+					"https://www.kippsocal.org/"
+				]
+			},
+			"uuid": "65d68ff2-b6df-11ea-b3de-0242ac130004",
+			"value": "KIPP SoCal Public Schools"
+		},
+		{
+			"description": "Keizer is a city located in Marion County, Oregon, United States, along the 45th parallel. As of the 2010 United States Census, its population was 36,478. It lies in the Willamette Valley and is part of the Salem Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.keizer.org/"
+				]
+			},
+			"uuid": "65d69254-b6df-11ea-b3de-0242ac130004",
+			"value": "The City of Keizer"
+		},
+		{
+			"description": "Probate office located in Dadeville, AL.",
+			"meta": {
+				"refs": [
+					"http://www.tallaco.com/probate.asp"
+				]
+			},
+			"uuid": "65d6934e-b6df-11ea-b3de-0242ac130004",
+			"value": "Tallapoosa County Probate Office"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2943,5 +2973,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 57
+	"version": 58
 }

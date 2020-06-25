@@ -1296,6 +1296,36 @@
 			"value": "Cano Health, LLC"
 		},
 		{
+			"description": "Care New England is a non-profit health system, comprising several hospitals in Rhode Island. Founding members Butler Hospital, Kent Hospital & Women and Infants Hospital of Rhode Island formed CNE in February 1996.",
+			"meta": {
+				"refs": [
+					"https://www.carenewengland.org/"
+				]
+			},
+			"uuid": "7ebc03fa-b6e7-11ea-b3de-0242ac130004",
+			"value": "Care New England"
+		},
+		{
+			"description": "Crozer-Keystone Health System is a four-hospital health system based in Delaware County, Pennsylvania and serving Delaware County; northern Delaware and parts of western New Jersey.",
+			"meta": {
+				"refs": [
+					"https://www.crozerkeystone.org/"
+				]
+			},
+			"uuid": "7ebc0652-b6e7-11ea-b3de-0242ac130004",
+			"value": "Crozer-Keystone Health System"
+		},
+		{
+			"description": "Multi-service healthcare system located in Lufkin, TX.",
+			"meta": {
+				"refs": [
+					"https://www.chistlukeshealthmemorial.org/centers/lufkin/"
+				]
+			},
+			"uuid": "7ebc0756-b6e7-11ea-b3de-0242ac130004",
+			"value": "CHI St. Luke’s Health-Memorial Lufkin"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

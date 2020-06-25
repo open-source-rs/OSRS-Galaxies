@@ -698,6 +698,36 @@
 			"value": "San Beda University (SBU)"
 		},
 		{
+			"description": "Far Eastern University, also known simply as FEU, is a private university in Manila, Philippines. Created by the merger of Far Eastern College and the Institute of Accounts Business and Finance, FEU became a university in 1934 under the guidance of its first president, Dr. Nicanor B. Reyes Sr. It has been noted as the leading proprietary university in the Philippines. The first accountancy and business school for Filipinos, the University, through the years, has expanded its course offerings to the Arts and Sciences, Architecture and Fine Arts, Education, Engineering and Computer Studies, Graduate Studies, Tourism and Hotel Management, Law, Nursing and Medicine.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Far_Eastern_University"
+				]
+			},
+			"uuid": "612945ba-b6e6-11ea-b3de-0242ac130004",
+			"value": "The Far Eastern University"
+		},
+		{
+			"description": "Cebu Normal University, abbreviated as CNU, is a state research university in Cebu City, Philippines established in 1902. CNU is designated by the Commission on Higher Education (CHED) as Center of Excellence (COE) in both Nursing Education and Teacher Education.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Cebu_Normal_University"
+				]
+			},
+			"uuid": "61294916-b6e6-11ea-b3de-0242ac130004",
+			"value": "Cebu Normal University (CNU)"
+		},
+		{
+			"description": "Mid Michigan College is a public community college with two locations in Michigan, one in Harrison, Michigan and one in Mount Pleasant, Michigan. Founded in 1965, the college offers one- and two-year certificates and associate degrees in transfer, occupational, and health science programs.",
+			"meta": {
+				"refs": [
+					"https://www.midmich.edu/"
+				]
+			},
+			"uuid": "61294a24-b6e6-11ea-b3de-0242ac130004",
+			"value": "Mid Michigan Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -708,5 +738,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 34
+	"version": 35
 }

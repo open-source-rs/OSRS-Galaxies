@@ -823,6 +823,32 @@
       "value": "OSRS Backdoor: Ketrum Backdoor"
     },
 	{
+      "description": "Backdoor leveraged by InvisiMole threat actor. The Control Panel misuse chain uses a rare technique known from Vault 7 leaks, used to achieve covert execution in the context of the Control Panel. The SMInit exploit chain exploits a vulnerability in the legitimate Total Video Player software. It is used in cases where the attackers haven’t managed to obtain administrative privileges on the system. The Speedfan exploit chain exploits a local privilege escalation vulnerability in the speedfan.sys driver to inject its code to a trusted process from kernel mode. The Wdigest exploit chain is InvisiMole’s flagship chain, the most elaborate, used on the newest versions of Windows, where the attackers have administrative privileges. It exploits a vulnerability in the Windows wdigest.dll library and then uses an improved ListPlanting technique to inject its code into a trusted process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
+        ]
+      },
+      "uuid": "7275374e-b6e0-11ea-b3de-0242ac130004",
+      "value": "OSRS Backdoor: RC2CL Backdoor"
+    },
+	{
+      "description": "Backdoor leveraged by InvisiMole threat actor. The Control Panel misuse chain uses a rare technique known from Vault 7 leaks, used to achieve covert execution in the context of the Control Panel. The SMInit exploit chain exploits a vulnerability in the legitimate Total Video Player software. It is used in cases where the attackers haven’t managed to obtain administrative privileges on the system. The Speedfan exploit chain exploits a local privilege escalation vulnerability in the speedfan.sys driver to inject its code to a trusted process from kernel mode. The Wdigest exploit chain is InvisiMole’s flagship chain, the most elaborate, used on the newest versions of Windows, where the attackers have administrative privileges. It exploits a vulnerability in the Windows wdigest.dll library and then uses an improved ListPlanting technique to inject its code into a trusted process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
+        ]
+      },
+      "uuid": "72753a28-b6e0-11ea-b3de-0242ac130004",
+      "value": "OSRS Backdoor: RC2FM Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
@@ -836,5 +862,5 @@
       "value": "OSRS Backdoor: Asruex"
     }
 	  ],
-	"version": 16
+	"version": 17
 }
