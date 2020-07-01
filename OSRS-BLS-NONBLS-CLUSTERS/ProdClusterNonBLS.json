@@ -2963,6 +2963,46 @@
 			"value": "Tallapoosa County Probate Office"
 		},
 		{
+			"description": "Jamesville-DeWitt High School is a New York state public education facility located in the town of DeWitt, serving high school students in the Jamesville-Dewitt Central School District.",
+			"meta": {
+				"refs": [
+					"https://www.jamesvilledewitt.org/highschool"
+				]
+			},
+			"uuid": "fd2f6daa-bbbd-11ea-b3de-0242ac130004",
+			"value": "Jamesville-DeWitt High School"
+		},
+		{
+			"description": "The Maine Information and Analysis Center (MIAC), a program of the Maine Department of Public Safety, is Maine's designated fusion center. The MIAC's mission is to to collect, analyze and appropriately share intelligence between the federal government and the State of Maine. The MIAC also provides analytical and investigative support for crimes of a complex, organized or statewide nature.",
+			"meta": {
+				"refs": [
+					"https://www.maine.gov/mema/homeland-security/miac"
+				]
+			},
+			"uuid": "fd2f7020-bbbd-11ea-b3de-0242ac130004",
+			"value": "The Maine Information and Analysis Center (MIAC)"
+		},
+		{
+			"description": "The National Highways Authority of India is an autonomous agency of the Government of India, set up in 1988 and is responsible for management of a network of over 50,000 km of National Highways out of 1,15,000 km in India. It is a nodal agency of the Ministry of Road Transport and Highways.",
+			"meta": {
+				"refs": [
+					"https://nhai.gov.in/"
+				]
+			},
+			"uuid": "fd2f72b4-bbbd-11ea-b3de-0242ac130004",
+			"value": "National Highway Authority of India (NHAI)"
+		},
+		{
+			"description": "A state level extention of the National Health Mission (NHM). The National Health Mission (NHM) was launched by the government of India in 2013 subsuming the National Rural Health Mission and National Urban Health Mission. It was further extended in March 2018, to continue until March 2020. It is headed by Mission Director and monitored by National Level Monitors appointed by Government of India.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/National_Health_Mission"
+				]
+			},
+			"uuid": "fd2f73a4-bbbd-11ea-b3de-0242ac130004",
+			"value": "Delhi State Health Mission"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -2973,5 +3013,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 58
+	"version": 59
 }

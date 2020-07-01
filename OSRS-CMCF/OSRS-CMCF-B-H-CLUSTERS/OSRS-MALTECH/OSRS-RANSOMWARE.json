@@ -886,6 +886,45 @@
       "value": "OSRS Ransomware: WastedLocker Ransomware"
     },
 	{
+      "description": "CryCryptor has been targeting Android users in Canada, distributed via two websites under the guise of an official COVID-19 tracing app provided by Health Canada. Once the user falls victim to CryCryptor, the ransomware encrypts the files on the device – all the most common types of files – but instead of locking the device, it leaves a readme file with the attacker’s email in every directory with encrypted files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/06/24/new-ransomware-uses-covid19-tracing-guise-target-canada-eset-decryptor/"
+        ]
+      },
+      "uuid": "7c9dabd6-bbca-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: CryCryptor Ransomware"
+    },
+	{
+      "description": "Ransom X is being actively used in human-operated and targeted attacks against government agencies and enterprises. May 2020 was not a good month for Texas as both the Texas Courts and the Texas Department of Transportation (TxDOT) were hit with ransomware attacks. At the time of the attacks, it was not known what ransomware targeted the government agencies. As this is human-operated ransomware, rather than one distributed via phishing or malware, when executed the ransomware will open a console that displays information to the attacker while it is running. Ransom.exx will terminate 289 processes related to security software, database servers, MSP software, remote access tools, and mail servers. By bypassing these folders, it allows the attackers to encrypt a computer while also attack other computers on the network without fear their tools will become encrypted.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-ransom-x-ransomware-used-in-texas-txdot-cyberattack/"
+        ]
+      },
+      "uuid": "7c9dade8-bbca-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: Ransom X Ransomware"
+    },
+	{
+      "description": "macOS ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/mac/2020/06/new-mac-ransomware-spreading-through-piracy/"
+        ]
+      },
+      "uuid": "7c9daee2-bbca-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: EvilQuest Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

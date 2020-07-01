@@ -972,6 +972,32 @@
       "value": "OSRS SecTool: SessionGopher"
     },
 	{
+      "description": "Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the 'blue' vulnerabilities within microsft and if unpatched, exploit them. It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM. Gathered info is saved to the results folder, these output files can be easily parsed over to TigerShark in order to be utilised within your campaign. Or compiled for a final report to wrap up a penetration test.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/s1l3nt78/sifter"
+        ]
+      },
+      "uuid": "4a17af76-bbcb-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: Sifter"
+    },
+	{
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/aquasecurity/trivy"
+        ]
+      },
+      "uuid": "4a17b20a-bbcb-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: Trivy"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

@@ -4767,6 +4767,32 @@
       "value": "OSRS Tool: Donut .NET Injector "
     },
 	{
+      "description": "Lucifer is quite powerful in its capabilities. Not only is it capable of dropping XMRig for cryptojacking Monero, it’s also capable of command and control (C2) operation and self-propagation through the exploitation of multiple vulnerabilities and credential brute-forcing. Additionally, it drops and runs EternalBlue, EternalRomance, and DoublePulsar backdoor against vulnerable targets for intranet infections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/"
+        ]
+      },
+      "uuid": "b1a7aede-bbcb-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: Lucifer Cryptominer"
+    },
+	{
+      "description": "macOS adware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.carbonblack.com/2020/06/29/tau-threat-analysis-bundlore-macos-mm-install-macos/"
+        ]
+      },
+      "uuid": "b1a7b0fa-bbcb-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: Bundlore macOS Adware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

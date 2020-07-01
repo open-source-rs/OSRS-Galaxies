@@ -2482,6 +2482,32 @@
       "value": "OSRS OSINT Source: NCC Group Research"
     },
 	{
+      "description": "WCSH, virtual channel 6, is an NBC-affiliated television station licensed to Portland, Maine, United States, serving southern Maine as well as eastern and northern New Hampshire. The station is owned by Tegna Inc.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.newscentermaine.com/"
+        ]
+      },
+      "uuid": "f7b13a56-bbc8-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: News Center Maine"
+    },
+	{
+      "description": "WSYR-TV, virtual channel 9, is an ABC-affiliated television station licensed to Syracuse, New York, United States. The station is owned by Nexstar Media Group. WSYR-TV's studios are located on Bridge Street in East Syracuse, and its transmitter is located on Sevier Road in Pompey.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.localsyr.com/"
+        ]
+      },
+      "uuid": "f7b13d3a-bbc8-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: LocalSYR.com"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

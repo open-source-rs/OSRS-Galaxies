@@ -1326,6 +1326,16 @@
 			"value": "CHI St. Luke’s Health-Memorial Lufkin"
 		},
 		{
+			"description": "Life Healthcare Group, formerly Afrox Healthcare, is the second largest private hospital operator in South Africa, with 6,500 beds. It is owned by Brimstone Investment Corporation. It is also the largest black-owned hospital operator in South Africa.",
+			"meta": {
+				"refs": [
+					"https://www.lifehealthcare.co.za/"
+				]
+			},
+			"uuid": "40cdbe58-bbc4-11ea-b3de-0242ac130004",
+			"value": "Life Healthcare Group"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

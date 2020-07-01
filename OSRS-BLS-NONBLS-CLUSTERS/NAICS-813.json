@@ -195,6 +195,16 @@
 			"value": "Indian Blood Donors"
 		},
 		{
+			"description": "CNY Works is a not-for-profit organization governed by a Board of Directors. Employers seeking qualified and trained employees will benefit from our Business Services department. Above and beyond our comprehensive candidate database, we provide consulting services that will help your business navigate the intricacies of hiring and employment regulations in New York State.",
+			"meta": {
+				"refs": [
+					"http://www.cnyworks.com/about/about-cny-works"
+				]
+			},
+			"uuid": "282fb1ca-bbc5-11ea-b3de-0242ac130004",
+			"value": "CNYWorks"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

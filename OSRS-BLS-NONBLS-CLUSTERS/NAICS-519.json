@@ -206,6 +206,16 @@
 			"value": "Bigfooty.com"
 		},
 		{
+			"description": "e27 is a media company that provides reports and news about the asian technology startup industry. Singapore, Central Region, Singapore.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/e27"
+				]
+			},
+			"uuid": "772cdf88-bbc4-11ea-b3de-0242ac130004",
+			"value": "e27"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

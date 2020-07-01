@@ -27,6 +27,16 @@
       "value": "MaxLinear"
     },
 	{
+      "description": "LG Electronics Inc. is a South Korean multinational electronics company headquartered in Yeouido-dong, Seoul, South Korea.",
+      "meta": {
+        "refs": [
+          "https://www.lg.com/us"
+        ]
+      },
+      "uuid": "069e69c6-bbc4-11ea-b3de-0242ac130004",
+      "value": "LG Electronics Inc."
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "General Electric Company"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

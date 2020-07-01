@@ -2363,6 +2363,26 @@
 			"value": "Frost & Sullivan"
 		},
 		{
+			"description": "Preen.Me is a social research, strategy and activation firm providing solutions to CPG CEOs, brand teams, and their investors.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/preen-me/about/"
+				]
+			},
+			"uuid": "c2c6ca8a-bbc4-11ea-b3de-0242ac130004",
+			"value": "Preen.Me"
+		},
+		{
+			"description": "Xerox Holdings Corporation is an American corporation that sells print and digital document products and services in more than 160 countries. Xerox is headquartered in Norwalk, Connecticut, though its largest population of employees is based around Rochester, New York, the area in which the company was founded.",
+			"meta": {
+				"refs": [
+					"https://www.xerox.com/"
+				]
+			},
+			"uuid": "c2c6cca6-bbc4-11ea-b3de-0242ac130004",
+			"value": "Xerox Holdings Corporation "
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

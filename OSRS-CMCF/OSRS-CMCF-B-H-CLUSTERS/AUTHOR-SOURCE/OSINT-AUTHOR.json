@@ -6301,6 +6301,114 @@
       "value": "OSRS OSINT Author Index: Stefano Antenucci"
     },
 	{
+      "description": "Principal Threat Researcher at Palo Alto Networks. San Jose, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/durgesh-sangvikar/"
+        ]
+      },
+      "uuid": "0bf94a64-bbc7-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Durgesh Sangvikar"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/"
+        ]
+      },
+      "uuid": "0bf94c8a-bbc7-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Chris Navarrete"
+    },
+	{
+      "description": "Digital Content Producer at NEWS CENTER Maine Media - WCSH 6 & WLBZ 2. Cleveland Akron, Ohio Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/erin-keller-716b06116/"
+        ]
+      },
+      "uuid": "0bf94d98-bbc7-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Erin Keller"
+    },
+	{
+      "description": "Senior Threat Research Engineer II at CrowdStrike. Kalyan Area, India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/umeshwanve/?originalSubdomain=in",
+		  "https://twitter.com/Umesh_Wanve"
+        ],
+        "synonyms": [
+        "@Umesh_Wanve"
+        ]
+      },
+      "uuid": "0bf95004-bbc7-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Umesh Wanve"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Aquasec.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.aquasec.com/trivy-open-source-vulnerability-scanner-vs-code"
+        ]
+      },
+      "uuid": "0bf950e0-bbc7-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Simar Singh"
+    },
+	{
+      "description": "Principal Threat Researcher at Carbon Black, Inc. Boulder, Colorado.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/erika-noerenberg/"
+        ]
+      },
+      "uuid": "118149a4-bbc8-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Erika Noerenberg"
+    },
+	{
+      "description": "Director of Mac & Mobile at Malwarebytes. Santa Clara, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/thomas-reed-a85594124/"
+        ]
+      },
+      "uuid": "11814c56-bbc8-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Thomas Reed"
+    },
+	{
+      "description": "Generic author name used by LocalSYR.com News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.localsyr.com/"
+        ]
+      },
+      "uuid": "11814d64-bbc8-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: LocalSYR News Desk"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
