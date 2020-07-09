@@ -2508,6 +2508,19 @@
       "value": "OSRS OSINT Source: LocalSYR.com"
     },
 	{
+      "description": "Online cybersecurity blog affiliated with the cybersecurity vendor DeepInstinct.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.deepinstinct.com/resources/"
+        ]
+      },
+      "uuid": "e06353de-c1ea-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Source: DeepInstinct Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

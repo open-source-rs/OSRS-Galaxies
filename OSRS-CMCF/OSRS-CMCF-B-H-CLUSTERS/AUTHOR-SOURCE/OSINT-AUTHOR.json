@@ -6409,6 +6409,84 @@
       "value": "OSRS OSINT Author Index: LocalSYR News Desk"
     },
 	{
+      "description": "VP of Cyber Threat Detection & Response. Greater Denver Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/brianhussey/"
+        ]
+      },
+      "uuid": "249b778e-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Brian Hussey"
+    },
+	{
+      "description": "Security Researcher affiliated with the cybersecurity vendor Trustwave. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/simon-kenin-58751470/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "249b79a0-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Simon Kenin"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor DeepInstinct.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.deepinstinct.com/2020/06/29/the-snake-attacks-holding-the-industrial-sector-ransom/"
+        ]
+      },
+      "uuid": "249b7aa4-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Maxim Smoliansky"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Netlab360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/the-gafgyt-variant-vbot-and-its-31-campaigns/"
+        ]
+      },
+      "uuid": "249b7b80-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Liu Ya"
+    },
+	{
+      "description": "Threat Intelligence & Interdiction chez Cisco Talos Intelligence Group. Paris Area, France.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/arnaud-zobec-a648a37a/?originalSubdomain=fr"
+        ]
+      },
+      "uuid": "249b7d42-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Arnaud Zobec"
+    },
+	{
+      "description": "Writer, author, and adviser on Global Biz, Pol & Tech. Team TechCrunch. Wrider Revzilla. Greater New York City Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jake-bright-8987a8/"
+        ]
+      },
+      "uuid": "249b7e14-c1eb-11ea-b3de-0242ac130004",
+      "value": "OSRS OSINT Author Index: Jake Bright"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

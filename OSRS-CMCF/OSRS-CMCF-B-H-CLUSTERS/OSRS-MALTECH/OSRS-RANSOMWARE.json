@@ -925,6 +925,19 @@
       "value": "OSRS Ransomware: EvilQuest Ransomware"
     },
 	{
+      "description": "Try2Cry ransomware adopts USB flash drive spreading using LNK files. The last ransomware that did the same was the infamous Spora. The code of Try2Cry looks oddly familiar, though.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/2020/07/36200-ransomware-tries-to-worm"
+        ]
+      },
+      "uuid": "6871075a-c1ee-11ea-b3de-0242ac130004",
+      "value": "OSRS Ransomware: Try2Cry Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

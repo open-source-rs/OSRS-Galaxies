@@ -728,6 +728,16 @@
 			"value": "Mid Michigan Community College"
 		},
 		{
+			"description": "The University of Michigan, often simply referred to as Michigan, is a public research university in Ann Arbor, Michigan. The university is Michigan's oldest. it was founded in 1817 in Detroit, as the Catholepistemiad, or the University of Michigania, 20 years before the territory became a state.",
+			"meta": {
+				"refs": [
+					"https://umich.edu/"
+				]
+			},
+			"uuid": "1872d7d6-c1e6-11ea-b3de-0242ac130004",
+			"value": "The University of Michigan"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

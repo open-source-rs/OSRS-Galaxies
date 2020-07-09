@@ -4793,6 +4793,19 @@
       "value": "OSRS Tool: Bundlore macOS Adware"
     },
 	{
+      "description": "Malware stealer identified by the cybersecurity vendor Trustwave.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/goldenspy-chapter-two-the-uninstaller/"
+        ]
+      },
+      "uuid": "1ab90c28-c1ef-11ea-b3de-0242ac130004",
+      "value": "OSRS Tool: GoldenSpy Malware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -3003,6 +3003,16 @@
 			"value": "Delhi State Health Mission"
 		},
 		{
+			"description": "Cooke County is a county in the U.S. state of Texas. At the 2010 census, its population was 38,437. The county seat is Gainesville. The county was founded in 1848 and organized the next year. It is named for William Gordon Cooke, a soldier during the Texas Revolution. It is a part of the Texoma region.",
+			"meta": {
+				"refs": [
+					"https://www.co.cooke.tx.us/"
+				]
+			},
+			"uuid": "8aa0baf8-c1e1-11ea-b3de-0242ac130004",
+			"value": "Cooke County"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

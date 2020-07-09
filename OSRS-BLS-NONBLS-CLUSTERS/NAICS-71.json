@@ -137,6 +137,16 @@
       "value": "Zee Entertainment Enterprises (ZEE5)"
     },
 	{
+      "description": "We are one of the fastest growing fitness and nutrition brands in the world. Since our launch in 2016, V Shred and Sculpt Nation have provided life changing programs, personal coaching, and supplementation to millions of clients across the world.  Our social community has grown to nearly 15 million across platforms and, most recently, a top ranked app for both iOS and Android.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/vshred/about/"
+        ]
+      },
+      "uuid": "b351afa8-c1e5-11ea-b3de-0242ac130004",
+      "value": "V Shred"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

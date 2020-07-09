@@ -1722,6 +1722,19 @@
       "value": "OSRS Actors AND Campaigns: StrongPity3 APT"
     },
 	{
+      "description": "Threat actor that targets MySQL servers using the MyKings botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2020/07/02/mykings-jumps-on-the-corona-train/"
+        ]
+      },
+      "uuid": "9075cfba-c1e4-11ea-b3de-0242ac130004",
+      "value": "OSRS Actors AND Campaigns: Mykings Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

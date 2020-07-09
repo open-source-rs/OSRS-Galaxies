@@ -998,6 +998,19 @@
       "value": "OSRS SecTool: Trivy"
     },
 	{
+      "description": "Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. Using the APIs exposed by cloud providers, Scout Suite gathers configuration data for manual inspection and highlights risk areas. Rather than going through dozens of pages on the web consoles, Scout Suite presents a clear view of the attack surface automatically.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/nccgroup/ScoutSuite"
+        ]
+      },
+      "uuid": "a942b26a-c1ee-11ea-b3de-0242ac130004",
+      "value": "OSRS SecTool: Scout Suite"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

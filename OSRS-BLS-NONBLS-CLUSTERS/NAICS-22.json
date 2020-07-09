@@ -68,6 +68,26 @@
       "value": "Elexon Ltd."
     },
 	{
+      "description": "Light S.A. is a private public utility company of Rio de Janeiro, Brazil. Founded in 1904 in Toronto, Ontario, Canada by The Rio de Janeiro Tramway, Light and Power Co. Ltd., it was authorized to operate in Brazil in 1905. Research activities of generation, distribution and sale of electricity and each of these areas is represented by a different company. Currently the controlling stake in Light is owned by CEMIG, an electric company based in Belo Horizonte.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Light_S.A."
+        ]
+      },
+      "uuid": "efebd280-c1e6-11ea-b3de-0242ac130004",
+      "value": "Light S.A."
+    },
+	{
+      "description": "EDP Renewables North America and its subsidiaries develop, construct, own, and operate wind farms and solar parks throughout North America.",
+      "meta": {
+        "refs": [
+          "https://www.edprnorthamerica.com/"
+        ]
+      },
+      "uuid": "efebd488-c1e6-11ea-b3de-0242ac130004",
+      "value": "EDP Renewables North America (EDPR NA)"
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [

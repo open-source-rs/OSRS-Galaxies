@@ -2383,6 +2383,26 @@
 			"value": "Xerox Holdings Corporation "
 		},
 		{
+			"description": "South African based app company that specializes in medical payments and billing.",
+			"meta": {
+				"refs": [
+					"https://logbox.co.za/#/"
+				]
+			},
+			"uuid": "96ed951a-c1e6-11ea-b3de-0242ac130004",
+			"value": "LogBox (South Africa)"
+		},
+		{
+			"description": "Xchanging is a provider of technology-enabled business processing, technology and procurement services internationally to customers across many industry sectors.",
+			"meta": {
+				"refs": [
+					"http://www.xchanging.com/about-us"
+				]
+			},
+			"uuid": "96ed9740-c1e6-11ea-b3de-0242ac130004",
+			"value": "Xchanging"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
