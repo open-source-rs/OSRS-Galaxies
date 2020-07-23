@@ -1336,6 +1336,16 @@
 			"value": "Life Healthcare Group"
 		},
 		{
+			"description": "Turkish fertility based healthcare provider.",
+			"meta": {
+				"refs": [
+					"https://egemenkoyuncu.com/"
+				]
+			},
+			"uuid": "19035a7a-cce2-11ea-87d0-0242ac130003",
+			"value": "Doctor Atadan Egemen KOYUNCU"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -6487,6 +6487,45 @@
       "value": "OSRS OSINT Author Index: Jake Bright"
     },
 	{
+      "description": "Malware Analysis Team Leader at Avast. Prague, The Capital, Czech Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ondrej-david-od/"
+        ]
+      },
+      "uuid": "6902a29a-cce4-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ondrej David"
+    },
+	{
+      "description": "Malware Researcher with ESET. Argentina.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/proli/?locale=en_US"
+        ]
+      },
+      "uuid": "6902a722-cce4-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Matias Porolli"
+    },
+	{
+      "description": "Digital Content Producer at CBS 42. Milwaukee, Wisconsin.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/phil-pinarski-8b69a313a/"
+        ]
+      },
+      "uuid": "6902aac4-cce4-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Phil Pinarski"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

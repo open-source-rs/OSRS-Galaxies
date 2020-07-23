@@ -2403,6 +2403,36 @@
 			"value": "Xchanging"
 		},
 		{
+			"description": "Zipari. We've pioneered consumer experience technology for health insurance with the power to change an industry. Our platform offers unparalleled insights of every member touchpoint, the most accessible and comprehensive member profiles, and configurable solutions that build on your current technology.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/zipari/about/"
+				]
+			},
+			"uuid": "58889674-cce2-11ea-87d0-0242ac130003",
+			"value": "Zipari, Inc."
+		},
+		{
+			"description": "Digital design company.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/hamilton-brown/about/"
+				]
+			},
+			"uuid": "588898a4-cce2-11ea-87d0-0242ac130003",
+			"value": "Hamilton-Brown"
+		},
+		{
+			"description": "Swvl is the premium alternative to public transportation in Egypt. Through our app, you can book fixed rate affordable rides on our existing routes. We offer affordable, quality, convenient and reliable everyday bus rides.",
+			"meta": {
+				"refs": [
+					"https://swvl.com/"
+				]
+			},
+			"uuid": "58889a52-cce2-11ea-87d0-0242ac130003",
+			"value": "Swvl, LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

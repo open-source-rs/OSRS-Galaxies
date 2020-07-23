@@ -517,6 +517,27 @@
 			"value": "Hapvida Health"
 		},
 		{
+			"description": "As the third largest not-for-profit health system in the United States, we are committed to providing for the needs of our communities – especially for those who are poor and vulnerable –  across Alaska, California, Montana, Oregon and Washington.",
+			"meta": {
+				"refs": [
+					"https://healthplans.providence.org/",
+					"https://www.linkedin.com/company/providence-health-and-services/about/"
+				]
+			},
+			"uuid": "f53ea4d8-cce0-11ea-87d0-0242ac130003",
+			"value": "Providence Health Plan"
+		},
+		{
+			"description": "eToro is a social trading and multi-asset brokerage company that focuses on providing financial and copy trading services. It has registered offices in Cyprus, Israel, the United Kingdom, the United States, and Australia. In 2018, the company’s value was $800 million.",
+			"meta": {
+				"refs": [
+					"https://www.etoro.com/en-us/"
+				]
+			},
+			"uuid": "f53ea6ea-cce0-11ea-87d0-0242ac130003",
+			"value": "eToro"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

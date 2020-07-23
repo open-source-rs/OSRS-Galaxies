@@ -738,6 +738,26 @@
 			"value": "The University of Michigan"
 		},
 		{
+			"description": "The University of Delhi, informally known as Delhi University, is a collegiate public central university, located in New Delhi, India. It was founded in 1922 by an Act of the Central Legislative Assembly.",
+			"meta": {
+				"refs": [
+					"http://du.ac.in/"
+				]
+			},
+			"uuid": "acb3e26e-cce0-11ea-87d0-0242ac130003",
+			"value": "University of Delhi"
+		},
+		{
+			"description": "The Royal Military College of Canada, commonly abbreviated as RMC, is the military college of the Canadian Armed Forces, and is a degree-granting university training military officers. RMC was established in 1876 and is the only federal institution in Canada with degree-granting powers.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Royal_Military_College_of_Canada"
+				]
+			},
+			"uuid": "acb3e476-cce0-11ea-87d0-0242ac130003",
+			"value": "Royal Military College of Canada"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

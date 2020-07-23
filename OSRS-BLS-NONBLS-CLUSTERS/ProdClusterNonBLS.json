@@ -3013,6 +3013,36 @@
 			"value": "Cooke County"
 		},
 		{
+			"description": "Chilton County is a county located in the central portion of the U.S. state of Alabama. As of the 2010 census, the population was 43,643. The county seat is Clanton.",
+			"meta": {
+				"refs": [
+					"https://chiltoncounty.org/"
+				]
+			},
+			"uuid": "39ce6130-ccdf-11ea-87d0-0242ac130003",
+			"value": "Chilton County"
+		},
+		{
+			"description": "The Hennepin County Sheriff's Office is the sheriff's office for Hennepin County in the U.S. state of Minnesota. HCSO serves one million residents and is located downtown in the city of Minneapolis, the county seat.",
+			"meta": {
+				"refs": [
+					"https://www.hennepinsheriff.org/"
+				]
+			},
+			"uuid": "39ceac58-ccdf-11ea-87d0-0242ac130003",
+			"value": "Hennepin County Sheriff's Office"
+		},
+		{
+			"description": "The Minnesota Bureau of Criminal Apprehension (BCA) is a statewide criminal investigative bureau under the Minnesota Department of Public Safety that provides expert forensic science and criminal investigation services throughout the state of Minnesota. The BCA assists local, state, tribal, and federal agencies in major criminal investigations. It is headquartered in St. Paul.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Minnesota_Bureau_of_Criminal_Apprehension"
+				]
+			},
+			"uuid": "39ceadf2-ccdf-11ea-87d0-0242ac130003",
+			"value": "Minnesota Bureau of Criminal Apprehension"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

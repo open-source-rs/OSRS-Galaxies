@@ -938,6 +938,19 @@
       "value": "OSRS Ransomware: Try2Cry Ransomware"
     },
 	{
+      "description": "Conti is a new family of ransomware observed in the wild by the Carbon Black Threat Analysis Unit (TAU). Unlike most ransomware, Conti contains  unique features that separate it in terms of performance and focus on network-based targets. Conti uses a large number of independent threads to perform encryption, allowing up to 32 simultaneous encryption efforts, resulting in faster encryption compared to many other families. Conti also utilizes command line options to allow for control over how it scans for data, suggesting that the malware may commonly be spread and directly controlled by an adversary. This control introduces the novel ability of skipping the encryption of local files and only targeting networked SMB shares, including those from IP addresses specifically provided by the adversary. This is a very rare ability that’s previously been seen with the Sodinokibi ransomware family. Another new technique, documented in very few ransomware families, is the use of the Windows Restart Manager to ensure that all files can be encrypted. Just as Windows will attempt to cleanly shut down open applications when the operating system is rebooted, the ransomware will utilize the same functionality to cleanly close the application that has a file locked. By doing so, the file is freed up for encryption.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/"
+        ]
+      },
+      "uuid": "c90cc004-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS Ransomware: Conti Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

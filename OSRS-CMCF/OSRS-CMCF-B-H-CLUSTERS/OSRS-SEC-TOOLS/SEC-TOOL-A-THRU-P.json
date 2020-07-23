@@ -1546,6 +1546,84 @@
       "value": "OSRS SecTool: AdFind"
     },
 	{
+      "description": "A fast and lightweight HTTP proxy server written in Python.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://code.google.com/archive/p/python-proxy/source/default/source"
+        ]
+      },
+      "uuid": "e5496f74-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: PythonProxy"
+    },
+	{
+      "description": "Junction not only allows you to create NTFS junctions, it allows you to see if files or directories are actually reparse points.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://docs.microsoft.com/en-us/sysinternals/downloads/junction"
+        ]
+      },
+      "uuid": "e5497208-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: junction"
+    },
+	{
+      "description": "A small Socks5 Proxy Server in Python3.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/MisterDaneel/pysoxy"
+        ]
+      },
+      "uuid": "e5497316-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: pysoxy"
+    },
+	{
+      "description": "Mail PassView is a small password-recovery tool that reveals the passwords and other account details for the following email clients.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.nirsoft.net/utils/mailpv.html"
+        ]
+      },
+      "uuid": "e549751e-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Mail PassView"
+    },
+	{
+      "description": "ProduKey is a small utility that displays the ProductID and the CD-Key of Microsoft Office (Microsoft Office 2003, Microsoft Office 2007), Windows (Including Windows 8/7/Vista), Exchange Server, and SQL Server installed on your computer. You can view this information for your current running operating system, or for another operating system/computer - by using command-line options. This utility can be useful if you lost the product key of your Windows/Office, and you want to reinstall it on your computer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.nirsoft.net/utils/product_cd_key_viewer.html"
+        ]
+      },
+      "uuid": "e54975e6-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: ProduKey"
+    },
+	{
+      "description": "Project Freta is a free, cloud-based offering from the New Security Ventures (NSV) team at Microsoft Research that provides automated full-system volatile memory inspection of Linux systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://docs.microsoft.com/en-us/security/research/project-freta/"
+        ]
+      },
+      "uuid": "e54976c2-cce8-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Project Freta"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

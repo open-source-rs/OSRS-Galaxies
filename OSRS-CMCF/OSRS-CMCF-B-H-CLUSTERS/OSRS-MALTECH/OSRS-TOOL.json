@@ -4806,6 +4806,32 @@
       "value": "OSRS Tool: GoldenSpy Malware"
     },
 	{
+      "description": "Joker, one of the most prominent types of malware for Android, keeps finding its way into Google’s official application market as a result of small changes to its code, which enables it to get past the Play store’s security and vetting barriers. This time, however, the malicious actor behind Joker adopted an old technique from the conventional PC threat landscape and used it in the mobile app world to avoid detection by Google.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/"
+        ]
+      },
+      "uuid": "0809fb2c-ccea-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: Joker Dropper "
+    },
+	{
+      "description": "Aside from keystroke logging, the M00nD3V Logger has the ability to steal confidential information such as browser passwords, FTP client passwords, email client passwords, DynDNS credentials, JDownloader credentials and capture Windows Keystrokes, as well as gain access to the webcam and hook the clipboard. In all, it has the ability to steal passwords from 42 applications. M00nD3V Logger is also equipped with other major functionality, including a botkiller, an antivirus killer, communicating over SMTP/FTP/proxy, downloading additional plugins, and the BouncyCastle crypto package. These mechanisms makes this logger unique and popular on hacking forums.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/research/deep-dive-m00nd3v-logger"
+        ]
+      },
+      "uuid": "0809fd3e-ccea-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: M00nD3V Logger"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
