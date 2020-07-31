@@ -1624,6 +1624,32 @@
       "value": "OSRS SecTool: Project Freta"
     },
 	{
+      "description": "LogWatch allows you to view log files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/ejuste/LogWatch"
+        ]
+      },
+      "uuid": "1b720d08-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: LogWatch"
+    },
+	{
+      "description": "Depthcharge is a toolkit designed to support security research and jailbreaking of embedded platforms using the U-Boot bootloader. It consists of an extensible Python 3 depthcharge module and Python scripts built atop of the depthcharge module API. Depthcharge Companion firmware, which is used to perform attacks requiring a malicious peripheral device. Some example helper payload binaries and build scripts to get you started with U-Boot standalone program-esque payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/nccgroup/depthcharge"
+        ]
+      },
+      "uuid": "1b720f10-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Depthcharge"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

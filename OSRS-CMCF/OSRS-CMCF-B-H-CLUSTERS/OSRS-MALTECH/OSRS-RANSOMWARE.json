@@ -951,6 +951,19 @@
       "value": "OSRS Ransomware: Conti Ransomware"
     },
 	{
+      "description": "Email scammers always seem to invent new ways of trickery to gain cash from their victims. Researchers recently came across a case where the scammer reused some existing scripts to phish and scam - copy and paste style. With a bit of modification, the script works like ransomware, without the hassle of having to compile a portable executable. This screen locker ransomware variant locks the user's screen and demand a ransom rather than the typical file encryption style ransomware. The ransom demanded in this case was in the form of Google Play Cards.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/lockscreen-ransomware-phishing-leads-to-google-play-card-scam/"
+        ]
+      },
+      "uuid": "cbf92360-d33d-11ea-87d0-0242ac130003",
+      "value": "OSRS Ransomware: Lockscreen Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

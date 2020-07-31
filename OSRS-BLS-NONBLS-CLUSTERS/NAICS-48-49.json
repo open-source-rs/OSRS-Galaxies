@@ -67,6 +67,16 @@
       "value": "Dunzo"
     },
 	{
+      "description": "Instacart is an American company that operates a grocery delivery and pick-up service in the United States and Canada with headquarters in San Francisco.",
+      "meta": {
+        "refs": [
+          "https://www.instacart.com/"
+        ]
+      },
+      "uuid": "b7e6c7c4-d338-11ea-87d0-0242ac130003",
+      "value": "Instacart"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

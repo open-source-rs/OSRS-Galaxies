@@ -146,6 +146,16 @@
 			"value": "Reportaclaim.net"
 		},
 		{
+			"description": "Benefit Recovery Specialists Inc., provides revenue cycle management solutions. The Company offers denial management, billing, bad debt review, accounts receivable, and staffing services to private and government healthcare institutions.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/8203148Z:US"
+				]
+			},
+			"uuid": "cb7ae5a8-d334-11ea-87d0-0242ac130003",
+			"value": "Benefits Recovery Specialists Inc."
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

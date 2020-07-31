@@ -758,6 +758,36 @@
 			"value": "Royal Military College of Canada"
 		},
 		{
+			"description": "The University of York is a collegiate research university, located in the city of York, England. Established in 1963, the university has expanded to more than thirty departments and centres, covering a wide range of subjects.",
+			"meta": {
+				"refs": [
+					"https://www.york.ac.uk/"
+				]
+			},
+			"uuid": "5a6497dc-d335-11ea-87d0-0242ac130003",
+			"value": "The University of York"
+		},
+		{
+			"description": "SUNY Erie is a community college in New York. It is part of the 64-campus State University of New York system and serves Erie County and the surrounding communities of western New York. It has 3 campuses, north in Williamsville, NY, city in Buffalo, NY, and south in Orchard Park, NY.",
+			"meta": {
+				"refs": [
+					"https://www.ecc.edu/"
+				]
+			},
+			"uuid": "5a6499da-d335-11ea-87d0-0242ac130003",
+			"value": "Erie Community College"
+		},
+		{
+			"description": "Sheffield Hallam University is a public research university in Sheffield, South Yorkshire, England and one of the UK's largest and most diverse universities.",
+			"meta": {
+				"refs": [
+					"https://www.shu.ac.uk/"
+				]
+			},
+			"uuid": "5a649aca-d335-11ea-87d0-0242ac130003",
+			"value": "Sheffield Hallam University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

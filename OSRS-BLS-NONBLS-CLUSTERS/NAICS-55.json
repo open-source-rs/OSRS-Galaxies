@@ -37,6 +37,16 @@
       "value": "Lyons Companies"
     },
 	{
+      "description": "Strata Plus specialises in strata management in Sydney and throughout NSW. We provide tailored management solutions for strata and community schemes and building management committees for units and apartments. We care about our clients and are transparent in all our business transactions. Our clients are at the heart of everything we do and their needs are the focus of our personal approach and tailored service.",
+      "meta": {
+        "refs": [
+          "https://www.strataplus.com.au/"
+        ]
+      },
+      "uuid": "c0d68fba-d336-11ea-87d0-0242ac130003",
+      "value": "Strata Plus"
+    },
+	{
       "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
       "meta": {
         "refs": [

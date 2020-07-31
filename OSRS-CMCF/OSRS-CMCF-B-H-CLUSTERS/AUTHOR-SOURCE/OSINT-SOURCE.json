@@ -2534,6 +2534,45 @@
       "value": "OSRS OSINT Source: WIAT CBS 42"
     },
 	{
+      "description": "From free-to-air to pay-tv and streaming, TV Blackbox is Australia's favourite TV information website. Where people in the industry get their news!",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://tvblackbox.com.au/"
+        ]
+      },
+      "uuid": "a5e2ac24-d33c-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: TV Blackbox"
+    },
+	{
+      "description": "WKBW-TV, virtual channel 7, is an ABC-affiliated television station licensed to Buffalo, New York, United States. The station is owned by the E. W. Scripps Company. WKBW-TV's studios are located at 7 Broadcast Plaza in downtown Buffalo, and its transmitter is located on Center Street in Colden.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wkbw.com/"
+        ]
+      },
+      "uuid": "a5e2ae68-d33c-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: WKBW Buffalo"
+    },
+	{
+      "description": "Cybersecurity blog provided by the cybersecurity vendor QuoIntelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://quointelligence.eu/"
+        ]
+      },
+      "uuid": "a5e2afee-d33c-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: QuoIntelligence Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

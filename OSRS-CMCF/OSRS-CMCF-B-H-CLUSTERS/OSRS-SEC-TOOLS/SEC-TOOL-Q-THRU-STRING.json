@@ -1024,6 +1024,58 @@
       "value": "OSRS SecTool: stunnel"
     },
 	{
+      "description": "Packet crafting for Python2 and Python3.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://scapy.net/"
+        ]
+      },
+      "uuid": "a89bede8-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Scapy Packet Manipulation"
+    },
+	{
+      "description": "SCShell is a fileless lateral movement tool that relies on ChangeServiceConfigA to run commands. The beauty of this tool is that it does not perform authentication against SMB. Everything is performed over DCERPC. The utility can be used remotely WITHOUT registering a service or creating a service. It also doesn't have to drop any file on the remote system (depending on the technique used to execute).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/Mr-Un1k0d3r/SCShell"
+        ]
+      },
+      "uuid": "a89beffa-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: SCShell"
+    },
+	{
+      "description": "SharpMove - .NET authenticated execution for remote hosts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/0xthirteen/SharpMove"
+        ]
+      },
+      "uuid": "a89bf5b8-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: SharpMove"
+    },
+	{
+      "description": "Das U-Boot -- the Universal Boot Loader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.denx.de/wiki/U-Boot"
+        ]
+      },
+      "uuid": "a89bf6f8-d33e-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: U-Boot"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

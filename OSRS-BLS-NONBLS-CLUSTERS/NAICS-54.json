@@ -2433,6 +2433,76 @@
 			"value": "Swvl, LLC"
 		},
 		{
+			"description": "Twilio is a cloud communications platform as a service company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs.",
+			"meta": {
+				"refs": [
+					"https://www.twilio.com/"
+				]
+			},
+			"uuid": "5ea11e4a-d337-11ea-87d0-0242ac130003",
+			"value": "Twilio"
+		},
+		{
+			"description": "Nielsen Holdings plc is an American information, data and measurement firm. Nielsen operates in over 100 countries and employs approximately 44,000 people worldwide. The company is listed on the New York Stock Exchange and is currently a component of the S&P 500.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Nielsen_Holdings"
+				]
+			},
+			"uuid": "5ea12084-d337-11ea-87d0-0242ac130003",
+			"value": "Nielsen Holdings plc"
+		},
+		{
+			"description": "Couchsurfing is the world’s premier social travel platform, with over 12 million members in nearly every country in the world. Couchsurfing changes people’s lives. Hearing the stories of Couchsurfers whose lives have been transformed by travel is the greatest reward for doing what we do.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/couchsurfing/about/"
+				]
+			},
+			"uuid": "5ea12192-d337-11ea-87d0-0242ac130003",
+			"value": "Couchsurfing International"
+		},
+		{
+			"description": "ADIF is a Spanish state-owned railway infrastructure manager under the responsibility of the Ministry of Development, charged with the management of most of Spain's railway infrastructure, that is the track, signaling and stations.",
+			"meta": {
+				"refs": [
+					"https://www.adif.org/"
+				]
+			},
+			"uuid": "5ea12264-d337-11ea-87d0-0242ac130003",
+			"value": "Administrador de Infraestructuras Ferroviarias"
+		},
+		{
+			"description": "Promo.com offers access to over 23 million premium video clips and images, ready-made templates, pre-edited licensed music, UNLIMITED clips, UNLIMITED downloads, and an award winning user-friendly online editor.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/promodotcom/about/"
+				]
+			},
+			"uuid": "5ea1244e-d337-11ea-87d0-0242ac130003",
+			"value": "Promo.com"
+		},
+		{
+			"description": "Waydev analyzes your codebase from Github, Gitlab & Bitbucket, Azure DevOps to help you bring out the best in your engineers work.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/waydev/about/"
+				]
+			},
+			"uuid": "f4af88f4-d337-11ea-87d0-0242ac130003",
+			"value": "Waydev"
+		},
+		{
+			"description": "We were born in 2011 and today we are the lead online travel agency in Brazil. We are the most influential fanpage in the world, in the travel segment, with over 12 million followers. Despite everything we have built - and we are very proud of what we have already done - we are fully aware that we are just getting started.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/hurb/about/"
+				]
+			},
+			"uuid": "f4af8b06-d337-11ea-87d0-0242ac130003",
+			"value": "Hurb"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

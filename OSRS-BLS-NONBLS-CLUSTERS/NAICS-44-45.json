@@ -317,6 +317,36 @@
 			"value": "Claire's"
 		},
 		{
+			"description": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962 and incorporated on October 31, 1969.",
+			"meta": {
+				"refs": [
+					"https://walmart.com/"
+				]
+			},
+			"uuid": "4e968278-d338-11ea-87d0-0242ac130003",
+			"value": "Walmart Inc."
+		},
+		{
+			"description": "SiteOne is the green industry's No. 1 destination for landscape supplies, irrigation tools and agronomic maintenance. Learn about our Partners Program.",
+			"meta": {
+				"refs": [
+					"https://www.siteone.com/en/"
+				]
+			},
+			"uuid": "4e968476-d338-11ea-87d0-0242ac130003",
+			"value": "SiteOne Landscape Supply"
+		},
+		{
+			"description": "Walgreen Company or simply Walgreens is an American company that operates as the second-largest pharmacy store chain in the United States behind CVS Health. It specializes in filling prescriptions, health and wellness products, health information, and photo services.",
+			"meta": {
+				"refs": [
+					"https://www.walgreens.com/"
+				]
+			},
+			"uuid": "4e968700-d338-11ea-87d0-0242ac130003",
+			"value": "Walgreen Company"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

@@ -1346,6 +1346,16 @@
 			"value": "Doctor Atadan Egemen KOYUNCU"
 		},
 		{
+			"description": "You and your loved one deserve a place to support a healthy lifestyle, encourage wellness, and provide a comfortable environment until you get home. Whatever your needs, long or short- term care, special medical treatment, or simply a location close to family and friends, Lorien is the place for you.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/lorien-health-services/about/"
+				]
+			},
+			"uuid": "c0d68d3a-d336-11ea-87d0-0242ac130003",
+			"value": "Lorien Health Services"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

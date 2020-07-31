@@ -216,6 +216,16 @@
 			"value": "A1 Telekom Austria"
 		},
 		{
+			"description": "Telecom Argentina S.A. is the major local telephone company for the northern part of Argentina, including the whole of the city of Buenos Aires. Briefly known as Sociedad Licenciataria Norte S.A., it quickly changed its name, and is usually known as simply Telecom within Argentina.",
+			"meta": {
+				"refs": [
+					"http://hogares.telecom.com.ar/"
+				]
+			},
+			"uuid": "44c85108-4901-11e9-8646-d663bd873d93",
+			"value": "Telecom Argentina S.A."
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [

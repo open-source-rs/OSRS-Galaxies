@@ -107,6 +107,16 @@
       "value": "DigitalOcean, Inc."
     },
 	{
+      "description": "Blackbaud is a cloud computing provider that serves the social good community — nonprofits, foundations, corporations, education institutions, healthcare organizations, religious organizations, and individual change agents.",
+      "meta": {
+        "refs": [
+          "https://www.blackbaud.com/"
+        ]
+      },
+      "uuid": "317d2d48-d335-11ea-87d0-0242ac130003",
+      "value": "Blackbaud"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

@@ -6526,6 +6526,71 @@
       "value": "OSRS OSINT Author Index: Phil Pinarski"
     },
 	{
+      "description": "Contributor at tvblackbox.com",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://tvblackbox.com.au/page/2020/07/23/confirmed-ransomware-attack-hits-oztam-ratings/"
+        ]
+      },
+      "uuid": "d7b22410-d33b-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Robert McKnight"
+    },
+	{
+      "description": "Generic pen name used for content provided by WKBW.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.wkbw.com/"
+        ]
+      },
+      "uuid": "d7b225fa-d33b-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: WKBW Buffalo News Desk"
+    },
+	{
+      "description": "Andrew Costis is a Threat Researcher with VMware Carbon Black’s Threat Analysis Unit (TAU team). Andrew’s day-to-day focus is primarily on malware analysis and reverse engineering commodity and E-Crime based malware threats, which includes ransomware, banking trojans, phishing attacks, keyloggers, info stealers and many more. AC has delivered talks at B-Sides London security conference 2017 and 2018, BrightTalk online webinars, and was also hosted on the well respected and long running Security Weekly podcast show. Prior to joining Carbon Black, Andrew worked in the SIEM space, assisting companies with Insider Threats, UEBA, Threat Hunting, MITRE ATT&Ck, Living Off The Land tools, as well as internal and external investigations. Before that, he worked in various technical capacities deploying and supporting enterprise level software to global organizations across various industry verticals.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.carbonblack.com/howlers-security-experts/andrew-costis/"
+        ]
+      },
+      "uuid": "d7b2274e-d33b-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Andrew Costis"
+    },
+	{
+      "description": "Generic pen name used for content provided by the cybersecurity vendor QuoIntelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://quointelligence.eu"
+        ]
+      },
+      "uuid": "d7b228ac-d33b-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: QuoIntelligence"
+    },
+	{
+      "description": "Malware Analyst at Trend Micro. Toronto, Canada Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/aliakbarzahravi/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "d7b2297e-d33b-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Aliakbar Zahravi"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
