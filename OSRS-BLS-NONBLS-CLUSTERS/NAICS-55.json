@@ -47,6 +47,16 @@
       "value": "Strata Plus"
     },
 	{
+      "description": "The Dussmann Group is one of the largest private multi-service providers of facility management and care for the elderly in Germany.",
+      "meta": {
+        "refs": [
+          "https://www.dussmanngroup.com/en/"
+        ]
+      },
+      "uuid": "a9789dbe-d7ea-11ea-87d0-0242ac130003",
+      "value": "Dussmann Group"
+    },
+	{
       "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
       "meta": {
         "refs": [

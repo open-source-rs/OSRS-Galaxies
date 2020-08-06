@@ -117,6 +117,16 @@
       "value": "Blackbaud"
     },
 	{
+      "description": "Pivot Technology Solutions, Inc. identifies, acquires and integrates companies in the IT-sector. The Company offers multi-vendor sourcing and implementation solutions of its acquired companies to support, plan and provide for the IT needs of customers through data centre, storage and virtualization.",
+      "meta": {
+        "refs": [
+          "https://www.pivotts.com/"
+        ]
+      },
+      "uuid": "01baa364-d7e6-11ea-87d0-0242ac130003",
+      "value": "Pivot Technology Solutions, Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

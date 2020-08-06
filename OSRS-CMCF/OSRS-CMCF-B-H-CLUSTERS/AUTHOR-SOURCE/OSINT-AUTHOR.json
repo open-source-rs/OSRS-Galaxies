@@ -6591,6 +6591,97 @@
       "value": "OSRS OSINT Author Index: Aliakbar Zahravi"
     },
 	{
+      "description": "Technology Editor and Senior Business Writer, NZ Herald at NZME.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/chriskeall/?originalSubdomain=nz"
+        ]
+      },
+      "uuid": "e2f067f0-d7ec-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Chris Keall"
+    },
+	{
+      "description": "Contributor at the Online Rocket.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://www.theonlinerocket.com/news/2020/08/01/alumni-donors-potentially-affected-by-ransomware-attack/"
+        ]
+      },
+      "uuid": "e2f069f8-d7ec-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joe Wells"
+    },
+	{
+      "description": "Contributor at Government Technology online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.govtech.com/security/Texas-School-District-to-Fork-Over-50K-in-Ransomware-Attack.html"
+        ]
+      },
+      "uuid": "e2f06af2-d7ec-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Zak Wellerman"
+    },
+	{
+      "description": "Contributor at Government Technology online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.govtech.com/security/Texas-School-District-to-Fork-Over-50K-in-Ransomware-Attack.html"
+        ]
+      },
+      "uuid": "e2f06bc4-d7ec-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Tyler Morning"
+    },
+	{
+      "description": "Senior threat researcher affiliated with the cybersecurity vendor TrendMicro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/fernandomerces/"
+        ]
+      },
+      "uuid": "e2f06c8c-d7ec-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Fernando Merces"
+    },
+	{
+      "description": "Security Researcher at Intezer. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nicole-fishbein-8272a5183/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "cfabf884-d7ed-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Nicole Fishbein"
+    },
+	{
+      "description": "Security Researcher at Intezer Labs. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/michael-kajiloti-8894b750/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "cfabfbd6-d7ed-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Michael Kajiloti"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

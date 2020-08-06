@@ -217,6 +217,16 @@
       "value": "Electronic Waveform Lab, Inc."
     },
 	{
+      "description": "Dresdner Kuhlanlagenbau GmbH provides HVAC products. The Company manufactures, distributes, and installs refrigeration and air-conditioning equipment.",
+      "meta": {
+        "refs": [
+          "https://www.dka.eu/"
+        ]
+      },
+      "uuid": "5206b2fe-d7eb-11ea-87d0-0242ac130003",
+      "value": "Dresdner Kuhlanlagenbau GmbH"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

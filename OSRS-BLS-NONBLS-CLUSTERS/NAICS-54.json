@@ -2503,6 +2503,56 @@
 			"value": "Hurb"
 		},
 		{
+			"description": "Havenly is a convenient, personal and affordable way to redecorate your home room by room. Collaborate with our professional interior designers on our online platform. This is interior design for real people.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/havenly/about/"
+				]
+			},
+			"uuid": "9385c7ba-d7eb-11ea-87d0-0242ac130003",
+			"value": "Havenly"
+		},
+		{
+			"description": "Appen Limited is a publicly traded company listed on the Australian Securities Exchange under the code APX. Appen provides or improves data used for the development of machine learning and artificial intelligence products.",
+			"meta": {
+				"refs": [
+					"https://appen.com/"
+				]
+			},
+			"uuid": "9385ca08-d7eb-11ea-87d0-0242ac130003",
+			"value": "Appen Limited"
+		},
+		{
+			"description": "At PaperlessPay Corporation, we have created the most secure and comprehensive online pay advice portal available in today’s market. Our enhanced delivery technology gives you the capability to provide your employees with multiple secure delivery options - all while saving your company significant operational expense dollars. PaperlessPay Corporation is an outgrowth of a software business founded in 1994 by W. Mark Broughton that was sold in 2008 and became On-Pay Solutions, which still operates today serving large corporations with electronic payments solutions and sservices.",
+			"meta": {
+				"refs": [
+					"http://www.paperlesspaycorp.com/aboutus.html"
+				]
+			},
+			"uuid": "9385cb02-d7eb-11ea-87d0-0242ac130003",
+			"value": "PaperlessPay Corporation"
+		},
+		{
+			"description": "Elkins Rehabilitation & Care Center is a special place for a loved one to stay and receive complete compassionate care as they recover from an injury or illness or enter the stages of life in which they are unable to care for themselves. We pride ourselves on the level of care our facility and team provide to ensure that your family member maintains a healthy and full life while they are in our home.",
+			"meta": {
+				"refs": [
+					"https://www.ercc.biz/"
+				]
+			},
+			"uuid": "9385cbd4-d7eb-11ea-87d0-0242ac130003",
+			"value": "Elkins Rehabilitation & Care Center"
+		},
+		{
+			"description": "For forward-thinking companies that breathe life into our wardrobes, car interiors, furniture and more, Lectra is committed to crafting the premium technologies they desire. Facilitating the digital transformation of their industry, Lectra empowers brands and manufacturers from design to production, providing them with the market respect and peace of mind they deserve. Founded in 1973, today Lectra has 34 subsidiaries across the globe serving customers in over 100 countries.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/lectra/about/"
+				]
+			},
+			"uuid": "9385cca6-d7eb-11ea-87d0-0242ac130003",
+			"value": "Lectra"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

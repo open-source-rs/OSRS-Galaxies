@@ -540,6 +540,33 @@
       "value": "OSRS Botnet: Prometei Botnet"
     },
 	{
+      "description": "Doki uses a previously undocumented method to contact its operator by abusing the Dogecoin cryptocurrency blockchain in a unique way in order to dynamically generate its C2 domain address. The malware has managed to stay under the radar for over six months despite samples being publicly available in VirusTotal.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.intezer.com/container-security/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/"
+        ]
+      },
+      "uuid": "d74a0cf2-d7e3-11ea-87d0-0242ac130003",
+      "value": "OSRS Botnet: Doki Botnet"
+    },
+	{
+      "description": "This botnet hides its C2s(Downloader and Reporter server) by using the ngrok reverse proxy service to periodically generate large number of random subdomain names. Botnet master does not have control over what the subdomains will be, as the subdomains are generated randomly by ngrok service, which in this case is actually a bless for the botnet. Because there is no good way for the security defender to tell which ones are good and which ones are bad by just looking at the dns names. All have same pattern and all are mixed in the big naming pool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.intezer.com/container-security/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/",
+		  "https://blog.netlab.360.com/a-new-mining-botnet-blends-its-c2s-into-ngrok-service/"
+        ]
+      },
+      "uuid": "d74a0f4a-d7e3-11ea-87d0-0242ac130003",
+      "value": "OSRS Botnet: Ngrok Mining Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

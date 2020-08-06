@@ -347,6 +347,36 @@
 			"value": "Walgreen Company"
 		},
 		{
+			"description": "Drizly is the world's largest alcohol marketplace and the best way to shop beer, wine and spirits. Our customers trust us to be part of their lives – their celebrations, parties, dinners and quiet nights at home. We are there when it matters - committed to life's moments and the people who create them. We partner with the best retail stores in over 95 cities across North America to serve up the best buying experience. Drizly offers a huge selection and competitive pricing with a side of personalized content.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/drizly/about/"
+				]
+			},
+			"uuid": "3cc9864a-d7ec-11ea-87d0-0242ac130003",
+			"value": "Drizly"
+		},
+		{
+			"description": "Scentbird inspires fragrance lovers to go beyond the ordinary and sample scents that evoke passion, confidence, and the unknown. Our mission is to revolutionize the way individuals perfume by bringing the ultimate fragrance playground right to their fingertips.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/scentbird/about/"
+				]
+			},
+			"uuid": "3cc98a3c-d7ec-11ea-87d0-0242ac130003",
+			"value": "Scentbird"
+		},
+		{
+			"description": "Grocery, Pharmacy and Liquor Retail Store.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/cub-foods/about/"
+				]
+			},
+			"uuid": "3cc98b4a-d7ec-11ea-87d0-0242ac130003",
+			"value": "Cub Foods (Cub Pharmacy)"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

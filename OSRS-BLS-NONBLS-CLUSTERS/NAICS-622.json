@@ -606,6 +606,16 @@
 			"value": "Landmark Hospital of Athens"
 		},
 		{
+			"description": "Regis Aged Care is one of Australia’s leading private providers of aged care with 65 facilities nationally. Regis operates in all states and territories except the ACT, and has over 9000 employees. Visit regis.com.au to find out more about our services such as aged care, home care and retirement living.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/regis-agedcare/"
+				]
+			},
+			"uuid": "a9789ca6-d7ea-11ea-87d0-0242ac130003",
+			"value": "Regis Aged Care"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

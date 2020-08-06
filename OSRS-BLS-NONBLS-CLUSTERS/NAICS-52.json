@@ -548,6 +548,36 @@
 			"value": "Dave (Financial Application)"
 		},
 		{
+			"description": "Created in 2009 by entrepreneurs from Rio Grande do Sul, Vakinha is the first Brazilian crowdfunding fintech and, currently, the largest online kitten platform in Brazil. There are more than 40 thousand cows raised every month and a few million reais in donations for all kinds of purposes: health, solidarity, education, culture, sports, animals, products, weddings, trips, parties, gifts and many others. We are proud to be making a positive impact on hundreds of thousands of people. We were identified as one of the crowdfunding companies to have on the radar of investors in Latin America by the Fintech Enterprise in Latin America study, done by the Inter-American Development Bank (IDB) and Finnovista, an organization that promotes the development of fintechs. We are proud of the work we have done and we always want to be able to make the donation process even easier.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/vakinha-internet-ltda./about/"
+				]
+			},
+			"uuid": "2409e1d8-d7ea-11ea-87d0-0242ac130003",
+			"value": "Vakinha"
+		},
+		{
+			"description": "Kiwibank Limited is a subsidiary of the state-owned enterprise New Zealand Post Limited, New Zealand Superannuation and the Accident Compensation Corporation. Kiwibank provides some of its banking services through its PostShops and more recently through financial services only branches as well.",
+			"meta": {
+				"refs": [
+					"https://www.kiwibank.co.nz/"
+				]
+			},
+			"uuid": "2409e3ea-d7ea-11ea-87d0-0242ac130003",
+			"value": "Kiwibank Limited"
+		},
+		{
+			"description": "PT Finansia Multi Finance was founded in 1994 by a consortium of local banking executives – including the current President Director. FMF received its multifinance licence in 1994 and is fully licenced to conduct a full range of multifinance activities including consumer finance, leasing, factoring and credit cards. Today, FMF and its kreditplus  brand are established as leading players within the multifinance sector with a focus on the used motorcycle financing, used car financing and white goods financing segments. As at 30 June 2014, FMF finances 772,234 customers through a proprietary distribution network of 313 branches (or) POS outlets and supported by a workforce of 13,682 employees.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/kreditplus/about/"
+				]
+			},
+			"uuid": "2409e502-d7ea-11ea-87d0-0242ac130003",
+			"value": "PT. Finansia Multi Finance (Kreditplus)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -2573,6 +2573,33 @@
       "value": "OSRS OSINT Source: QuoIntelligence Blog"
     },
 	{
+      "description": "The New Zealand Herald is a daily newspaper published in Auckland, New Zealand, owned by New Zealand Media and Entertainment.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.nzherald.co.nz/"
+        ]
+      },
+      "uuid": "41eb3040-d7ee-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: NZ Herald"
+    },
+	{
+      "description": "The Rocket is published by the students of Slippery Rock University. Digital content is produced every week, and print editions are created on a monthly basis during the academic semesters. No material appearing in The Rocket may be reprinted without the written consent of the Editor-in-Chief. If you are interested in writing for The Rocket, click here.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "http://www.theonlinerocket.com/",
+		  "http://www.theonlinerocket.com/about/"
+        ]
+      },
+      "uuid": "41eb33d8-d7ee-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: The Rocket"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

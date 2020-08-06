@@ -4923,6 +4923,20 @@
       "value": "OSRS Tool: Ensiko Webshell"
     },
 	{
+      "description": "The actors behind Trickbot, a high profile banking trojan, have recently developed a Linux port of their new DNS command and control tool known as Anchor_DNS. Often delivered as part of a zip, this malware is a lightweight Linux backdoor. Upon execution it installs itself as a cron job, determines the public ip for the host and then begins to beacon via DNS queries to its C2 server. Because the DNS channel provides an indirect route for the malware to communicate the attackers aren’t provided with the ip address of the victim. To mitigate this the malware utilizes public ip lookup services to determine where the target is located. Upon first run the malware will randomly select one of the following urls to find its external ip.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/linux-warning-trickbot-malware-is-now-infecting-your-systems/",
+		  "https://medium.com/stage-2-security/anchor-dns-malware-family-goes-cross-platform-d807ba13ca30"
+        ]
+      },
+      "uuid": "dc1cab30-d7ee-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: TrickBot Anchor_DNS (Linux)"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

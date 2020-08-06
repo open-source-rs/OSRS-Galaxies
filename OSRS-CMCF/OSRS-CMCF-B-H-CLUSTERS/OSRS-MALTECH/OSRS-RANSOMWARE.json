@@ -964,6 +964,19 @@
       "value": "OSRS Ransomware: Lockscreen Ransomware"
     },
 	{
+      "description": "This first incident occurred in Europe and caught researchers attention for two reasons -  it features a ransomware family researchers were unaware of, and involved a spreading technique reminiscent of APT groups. The ransomware itself is nothing special, it’s written in C++ and crawls all connected disks to encrypt files and delete any folder called System Volume Information (which are linked to Windows restore point feature). The program also stops processes that could be locking important files, such as Microsoft Exchange and SQL Server. Files are encrypted with a combination of AES-256 in ECB mode and RSA-2048.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/"
+        ]
+      },
+      "uuid": "dc1ca914-d7ee-11ea-87d0-0242ac130003",
+      "value": "OSRS Ransomware: VHD Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

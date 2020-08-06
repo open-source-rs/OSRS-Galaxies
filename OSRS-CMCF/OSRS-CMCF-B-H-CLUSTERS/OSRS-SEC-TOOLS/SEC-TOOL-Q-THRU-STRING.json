@@ -1076,6 +1076,46 @@
       "value": "OSRS SecTool: U-Boot"
     },
 	{
+      "description": "REMnux is a Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/REMnux",
+		  "https://remnux.org/"
+        ]
+      },
+      "uuid": "1d4ea026-d7f0-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: REMnux Malware Analysis Tool"
+    },
+	{
+      "description": "Winstrument is a framework of modular scripts to aid in instrumenting Windows software using Frida for reverse engineering and attack surface analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/nccgroup/winstrument"
+        ]
+      },
+      "uuid": "1d4ea292-d7f0-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Winstrument"
+    },
+	{
+      "description": "SkyArk currently focuses on mitigating the new threat of Cloud Shadow Admins, and helps organizations to discover, assess and protect cloud privileged entities. Stealthy and undercover cloud admins may reside in every public cloud platform and SkyArk helps mitigating the risk in AWS and Azure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/cyberark/SkyArk"
+        ]
+      },
+      "uuid": "1d4ea418-d7f0-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: SkyArk (Cloud Account Auditing Tool)"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [
