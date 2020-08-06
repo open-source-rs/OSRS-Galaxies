@@ -3043,6 +3043,46 @@
 			"value": "Minnesota Bureau of Criminal Apprehension"
 		},
 		{
+			"description": "Central Health is the second largest health region in Newfoundland and Labrador, providing health and community services to approximately 20 per cent of the province’s population. Our 94,000 clients, patients, residents, and their families live in 177 communities in a region that extends from Charlottetown in the east, Fogo Island in the north, Harbour Breton in the south, to Baie Verte in the west.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/centralhealth/about/"
+				]
+			},
+			"uuid": "6df621f2-d7e1-11ea-87d0-0242ac130003",
+			"value": "Central Health (Canada)"
+		},
+		{
+			"description": "Sheldon Independent School District is a public school district in unincorporated northeast Harris County, Texas. The majority of the district lies in the extraterritorial jurisdiction of Houston with a small portion within city limits.",
+			"meta": {
+				"refs": [
+					"https://www.sheldonisd.com/"
+				]
+			},
+			"uuid": "6df62404-d7e1-11ea-87d0-0242ac130003",
+			"value": "Sheldon Independent School District"
+		},
+		{
+			"description": "Our mission is to serve Vermonters by collecting the proper amount of tax revenue in a timely and efficient manner.",
+			"meta": {
+				"refs": [
+					"https://tax.vermont.gov/"
+				]
+			},
+			"uuid": "6df624fe-d7e1-11ea-87d0-0242ac130003",
+			"value": "The Vermont Department of Taxes"
+		},
+		{
+			"description": "Athens Independent School District is a public school district based in Athens, Texas, United States. The district serves central Henderson County and small portions of southern Van Zandt and northern Anderson counties.",
+			"meta": {
+				"refs": [
+					"http://www.athensisd.net/"
+				]
+			},
+			"uuid": "6df625d0-d7e1-11ea-87d0-0242ac130003",
+			"value": "Athens Independent School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
