@@ -1366,6 +1366,16 @@
 			"value": "Emanate Health"
 		},
 		{
+			"description": "Summit Medical Associates PC is a medical practice company based out of 5653 Frist Blvd Ste 630, Hermitage, Tennessee, United States.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/summit-medical-associates-pc/about/"
+				]
+			},
+			"uuid": "ed99c7c0-e091-11ea-87d0-0242ac130003",
+			"value": "Summit Medical Associates PC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

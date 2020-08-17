@@ -1650,6 +1650,73 @@
       "value": "OSRS SecTool: Depthcharge"
     },
 	{
+      "description": "Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro to dump in-memory PE files and reconstruct imports.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/blackberry/pe_tree"
+        ]
+      },
+      "uuid": "09b91914-e098-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: PE Tree"
+    },
+	{
+      "description": "Pyre is a performant type checker for Python compliant with PEP 484. Pyre can analyze codebases with millions of lines of code incrementally – providing instantaneous feedback to developers as they write code. Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/facebook/pyre-check/",
+		  "https://pyre-check.org/docs/pysa-basics.html"
+        ]
+      },
+      "uuid": "09b91b26-e098-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Pyre"
+    },
+	{
+      "description": "Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/facebook/pyre-check/",
+		  "https://pyre-check.org/docs/pysa-basics.html"
+        ]
+      },
+      "uuid": "09b91c20-e098-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Pysa"
+    },
+	{
+      "description": "Power-Response is a modular PowerShell Framework for Incident Response. The aim of Power-Response is to provide a framework that acts as a consistent and highly usable tool by all members of an incident response team, or other roles that require the ability to rapidly collect data during security incidents while focusing on consolidated output methods, increased logging, and ease of data collection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/Asymmetric-InfoSec/Power-Response"
+        ]
+      },
+      "uuid": "09b91cf2-e098-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Power-Response"
+    },
+	{
+      "description": "This is the code developed and presented as part of the DEF CON 28 (Safe Mode) talk Domain Fronting is Dead, Long Live Domain Fronting: Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise. Domain fronting, the technique of circumventing internet censorship and monitoring by obfuscating the domain of an HTTPS connection was killed by major cloud providers in April of 2018. However, with the arrival of TLS 1.3, new technologies enable a new kind of domain fronting. This time, network monitoring and internet censorship tools are able to be fooled on multiple levels. This talk will give an overview of what domain fronting is, how it used to work, how TLS 1.3 enables a new form of domain fronting, and what it looks like to network monitoring. You can circumvent censorship and monitoring today without modifying your tools using an open source TCP and UDP transport tool (Cloak) that will be released alongside this talk.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/SixGenInc/Noctilucent"
+        ]
+      },
+      "uuid": "09b91dba-e098-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Noctilucent"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

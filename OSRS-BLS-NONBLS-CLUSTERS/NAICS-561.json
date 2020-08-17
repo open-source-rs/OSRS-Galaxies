@@ -156,6 +156,16 @@
 			"value": "Benefits Recovery Specialists Inc."
 		},
 		{
+			"description": "Cwt Global B.V. was founded in 2006. The company's line of business includes arranging and assembling tours for sale through travel agents.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/0165124D:NA"
+				]
+			},
+			"uuid": "8dd27708-e08f-11ea-87d0-0242ac130003",
+			"value": "CWT Global B.V."
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

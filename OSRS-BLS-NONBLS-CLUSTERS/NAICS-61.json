@@ -818,6 +818,36 @@
 			"value": "The University of Oklahoma"
 		},
 		{
+			"description": "ProctorU is a real proctoring service that allows students to complete their exams from nearly any location while still ensuring the academic integrity of the exam for the institution. Using almost any webcam and computer, students connect to real people who help enter the exam and monitor real time as they complete it. Proctors act as the student's personal exam concierge, helping them with technical difficulties and making sure they understand the rules of the exam.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/proctoru/about/"
+				]
+			},
+			"uuid": "c7f0a0ae-e08f-11ea-87d0-0242ac130003",
+			"value": "ProctorU"
+		},
+		{
+			"description": "The University of North Carolina Wilmington is a public research university in Wilmington, North Carolina. It is part of the University of North Carolina System and enrolls 16,747 undergraduate and graduate students each year.",
+			"meta": {
+				"refs": [
+					"https://uncw.edu/"
+				]
+			},
+			"uuid": "c7f0a2fc-e08f-11ea-87d0-0242ac130003",
+			"value": "The University of North Carolina Wilmington"
+		},
+		{
+			"description": "The University of Texas at Tyler is a public university in Tyler, Texas. Founded in 1971, it is a part of the University of Texas System.",
+			"meta": {
+				"refs": [
+					"https://www.uttyler.edu/"
+				]
+			},
+			"uuid": "c7f0a3ec-e08f-11ea-87d0-0242ac130003",
+			"value": "The University of Texas at Tyler"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

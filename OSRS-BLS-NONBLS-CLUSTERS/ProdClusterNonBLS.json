@@ -3083,6 +3083,36 @@
 			"value": "Athens Independent School District"
 		},
 		{
+			"description": "Unemployment agency for the state of Kentucky.",
+			"meta": {
+				"refs": [
+					"https://uiclaims.des.ky.gov/"
+				]
+			},
+			"uuid": "ecb6e3d6-e08e-11ea-87d0-0242ac130003",
+			"value": "Kentucky Office of Unemployment Insurance (OUI)"
+		},
+		{
+			"description": "Lafayette is a Home Rule Municipality located in Boulder County, Colorado, United States. The city population was 24,453 at the 2010 United States Census.",
+			"meta": {
+				"refs": [
+					"https://www.cityoflafayette.com/"
+				]
+			},
+			"uuid": "ecb6e5fc-e08e-11ea-87d0-0242ac130003",
+			"value": "The City of Lafayette (CO)"
+		},
+		{
+			"description": "Metrolinx is a Crown agency that manages and integrates road and public transport in the Canadian province of Ontario, specifically in the Golden Horseshoe region and Ottawa.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Metrolinx"
+				]
+			},
+			"uuid": "ecb6e8a4-e08e-11ea-87d0-0242ac130003",
+			"value": "Metrolinx"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

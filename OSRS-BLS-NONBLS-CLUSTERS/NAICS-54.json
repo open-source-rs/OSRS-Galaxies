@@ -2553,6 +2553,26 @@
 			"value": "Lectra"
 		},
 		{
+			"description": "The Blacklist Alliance offers a comprehensive compliance and risk management solution to the lead generation industry and other companies engaged in direct response marketing campaigns - an intensely regulated activity fraught with legal pitfalls. Our proprietary suite of high-performance applications features a robust Litigation Firewall® that reduces the risk and expense of TCPA litigation, dedicated legal support, online compliance training, and sophisticated tools that increase efficiency and enhance compliance. Our company was founded by experienced marketing attorneys and industry professionals, who together created a robust and remarkably effective solution that offers bullet-proof security against predatory litigation, along with a unique online compliance training platform that empowers your employees and sets a new standard in quality.",
+			"meta": {
+				"refs": [
+					"https://www.blacklistalliance.com/"
+				]
+			},
+			"uuid": "ce9368bc-e092-11ea-87d0-0242ac130003",
+			"value": "The Blacklist Alliance"
+		},
+		{
+			"description": "The British Dental Association is the professional association and registered trade union organisation for dentists in the United Kingdom. Its stated mission is to promote the interests of members, advance the science, arts and ethics of dentistry and improve the nation’s oral health.",
+			"meta": {
+				"refs": [
+					"https://bda.org/"
+				]
+			},
+			"uuid": "ce936b32-e092-11ea-87d0-0242ac130003",
+			"value": "The British Dental Association (BDA)"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

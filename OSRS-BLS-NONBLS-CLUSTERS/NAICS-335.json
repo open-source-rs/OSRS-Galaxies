@@ -37,6 +37,16 @@
       "value": "LG Electronics Inc."
     },
 	{
+      "description": "Forsee Power provides advanced lithium-ion battery systems for any mobility application. Whatever the charging infrastructure or hybrid mode, we have the right ENERGY and (or) POWER solution.",
+      "meta": {
+        "refs": [
+          "https://www.forseepower.com/"
+        ]
+      },
+      "uuid": "44dc9582-e090-11ea-87d0-0242ac130003",
+      "value": "Forsee Power"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

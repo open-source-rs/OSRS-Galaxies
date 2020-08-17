@@ -227,6 +227,16 @@
       "value": "Dresdner Kuhlanlagenbau GmbH"
     },
 	{
+      "description": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley.",
+      "meta": {
+        "refs": [
+          "https://www.intel.com/content/www/us/en/company-overview/company-overview.html"
+        ]
+      },
+      "uuid": "ed99cbda-e091-11ea-87d0-0242ac130003",
+      "value": "Intel Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

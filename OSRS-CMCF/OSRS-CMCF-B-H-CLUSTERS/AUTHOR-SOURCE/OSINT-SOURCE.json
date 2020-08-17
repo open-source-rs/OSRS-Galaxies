@@ -2600,6 +2600,71 @@
       "value": "OSRS OSINT Source: The Rocket"
     },
 	{
+      "description": "SiliconANGLE Media, Inc. powers @theCUBE, Wikibon.com and SiliconANGLE.com. We are a modern data driven digital media platform that creates authoritative & engaging social experiences for audiences. We combine the depth of research, the reach of publishing, & the relevance of live video with insights from real-time social data to create unique interactions for both audiences and brands. SiliconANGLE Media is the result of the combination of John Furrier and Dave Vellante’s vision. The SiliconANGLE ® and Wikibon brands, products, and services set out to create a new type of information company that creates high quality information in real-time using cutting edge social technologies, data, and crowd sourcing, combined with proven old school methods.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://siliconangle.com/about-us/"
+        ]
+      },
+      "uuid": "39be57b2-e095-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: SiliconANGLE Media, Inc."
+    },
+	{
+      "description": "Your source for news and information in the Wilmington, Cape Fear region on Port City Daily.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://portcitydaily.com/"
+        ]
+      },
+      "uuid": "39be5b5e-e095-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: Port City Daily"
+    },
+	{
+      "description": "KLTV, virtual and VHF digital channel 7, is a dual ABC/Telemundo-affiliated television station licensed to Tyler, Texas, United States and also serving Longview. The station is owned by Gray Television.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.kltv.com/"
+        ]
+      },
+      "uuid": "39be5c80-e095-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: KLTV"
+    },
+	{
+      "description": "Security Boulevard is home of the Security Bloggers Network (SBN). A single source for news, analysis & education on issues facing cybersecurity industry.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://securityboulevard.com/"
+        ]
+      },
+      "uuid": "39be5d5c-e095-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: Security Boulevard"
+    },
+	{
+      "description": "Becker's Healthcare is the go-to source for healthcare decision-makers and one of the fastest growing media platforms in the industry. Through print, digital and live event platforms, Becker’s Healthcare equips healthcare leaders with the information and forums they need to learn, exchange ideas and further conversations about the most critical issues in American healthcare.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.beckershospitalreview.com/about/about-beckers-hospital-review.html"
+        ]
+      },
+      "uuid": "39be5e38-e095-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Source: Becker's Health IT"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

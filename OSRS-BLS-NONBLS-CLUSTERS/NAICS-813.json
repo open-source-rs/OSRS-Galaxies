@@ -205,6 +205,26 @@
 			"value": "CNYWorks"
 		},
 		{
+			"description": "Massachusetts College of Liberal Arts Foundation, Inc. is a private nonprofit organization dedicated to the growth, development and support of Massachusetts College of Liberal Arts and its faculty, staff and students, with special emphasis on academic quality and the assurance of access to higher education through the receipt, management, and disbursement of funds and other charitable contributions secured through private sources and grant funding.",
+			"meta": {
+				"refs": [
+					"http://mcla.edu/About_MCLA/admin/institutionaladvancement/mclafoundationinc/index"
+				]
+			},
+			"uuid": "388d80ea-e093-11ea-87d0-0242ac130003",
+			"value": "Massachusetts College of Liberal Arts Foundation, Inc."
+		},
+		{
+			"description": "Scholarship America is a Minnesota-based American philanthropic organization that assists communities, corporations, foundations and individuals with fundraising, managing and awarding scholarships to students.",
+			"meta": {
+				"refs": [
+					"https://scholarshipamerica.org/"
+				]
+			},
+			"uuid": "388d837e-e093-11ea-87d0-0242ac130003",
+			"value": "Scholarship America "
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

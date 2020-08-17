@@ -6682,6 +6682,72 @@
       "value": "OSRS OSINT Author Index: Michael Kajiloti"
     },
 	{
+      "description": "Senior writer at SiliconANGLE. Thailand.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/duncanriley/?originalSubdomain=th"
+        ]
+      },
+      "uuid": "1c390d0a-e094-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Duncan Riley"
+    },
+	{
+      "description": "Generic pen name used for the Port City Daily online news paper.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://portcitydaily.com"
+        ]
+      },
+      "uuid": "1c390f30-e094-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Port City Daily staff"
+    },
+	{
+      "description": "Generic pen name used for the KLTV online news desk.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.kltv.com"
+        ]
+      },
+      "uuid": "1c39102a-e094-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: KLTV Digital Media Staff"
+    },
+	{
+      "description": "Online content contributor for the blog Security Boulevard. Also affiliated with the cybersecurity company Bit Defender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityboulevard.com/author/alina-bizga/",
+		  "https://www.linkedin.com/in/alina-bizga-a8269216b/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "1c391106-e094-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Alina Bizga"
+    },
+	{
+      "description": "Writer and Reporter at Becker's Healthcare. Chicago, Illinois.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jackiedrees/"
+        ]
+      },
+      "uuid": "1c3911ce-e094-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jackie Drees"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

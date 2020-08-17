@@ -578,6 +578,36 @@
 			"value": "PT. Finansia Multi Finance (Kreditplus)"
 		},
 		{
+			"description": "2gether is a collaborative financial platform that accelerate the world's transition to decentralized finance.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/2gether"
+				]
+			},
+			"uuid": "9eb1be66-e090-11ea-87d0-0242ac130003",
+			"value": "2gether"
+		},
+		{
+			"description": "Hampshire Hospitals NHS Foundation Trust is an NHS Foundation Trust providing services in Hampshire and parts of west Berkshire. It was established in January 2012 as the result of the integration of Basingstoke and North Hampshire NHS Foundation Trust and Winchester and Eastleigh Healthcare Trust.",
+			"meta": {
+				"refs": [
+					"https://www.hampshirehospitals.nhs.uk/"
+				]
+			},
+			"uuid": "9eb1c10e-e090-11ea-87d0-0242ac130003",
+			"value": "Hampshire Hospitals NHS Foundation Trust"
+		},
+		{
+			"description": "Pepperstone is a broker specialising in financial markets access. The company is headquartered in Melbourne, Australia. It provides access to more than 150 instruments including Forex, index, share, commodities, cryptocurrencies and currency index CFDs.",
+			"meta": {
+				"refs": [
+					"https://pepperstone.com/"
+				]
+			},
+			"uuid": "9eb1c2a8-e090-11ea-87d0-0242ac130003",
+			"value": "Pepperstone"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -616,6 +616,16 @@
 			"value": "Regis Aged Care"
 		},
 		{
+			"description": "Founded in 2008, MVHC serves as a best-in-class health care resource to ensure all members of the communities we serve have access to high-quality, affordable health care. As your community of care, we are dedicated to serving the primary care needs of the residents in each of our convenient locations in Muskingum, Morgan, Coshocton and Guernsey counties. We are local, non-profit, and community owned.",
+			"meta": {
+				"refs": [
+					"https://www.mvhccares.org/"
+				]
+			},
+			"uuid": "ed99c9d2-e091-11ea-87d0-0242ac130003",
+			"value": "Muskingum Valley Health Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
