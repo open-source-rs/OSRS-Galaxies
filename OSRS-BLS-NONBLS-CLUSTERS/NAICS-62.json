@@ -1376,6 +1376,16 @@
 			"value": "Summit Medical Associates PC"
 		},
 		{
+			"description": "Union Quay Medical Centre is a modern GP surgery in the heart of Cork City.  We offer a comprehensive range of GP services, as well as many specialist services.  Our medical services are provided by 4 GPs and 4 practice nurses.",
+			"meta": {
+				"refs": [
+					"https://uqmc.ie/about"
+				]
+			},
+			"uuid": "2eb0f074-e2ec-11ea-87d0-0242ac130003",
+			"value": "Union Quay Medical Centre - Cork"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
