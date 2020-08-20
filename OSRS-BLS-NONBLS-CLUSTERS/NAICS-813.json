@@ -225,6 +225,16 @@
 			"value": "Scholarship America "
 		},
 		{
+			"description": "The Mines Advisory Group is a non-governmental organization that assists people affected by landmines, unexploded ordnance, and small arms and light weapons. MAG takes a humanitarian approach to landmine action. They focus on the impact of their work on local communities.",
+			"meta": {
+				"refs": [
+					"https://www.maginternational.org/"
+				]
+			},
+			"uuid": "fa53eb88-e2e1-11ea-87d0-0242ac130003",
+			"value": "Mines Advisory Group (MAG)"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

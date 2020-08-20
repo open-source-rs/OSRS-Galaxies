@@ -4937,6 +4937,59 @@
       "value": "OSRS Tool: TrickBot Anchor_DNS (Linux)"
     },
 	{
+      "description": "This threat primarily spreads via Xcode projects and maliciously modified applications created from the malware. It is not yet clear how the threat initially enters these systems. Presumably, these systems would be primarily used by developers. These Xcode projects have been modified such that upon building, these projects would run a malicious code. This eventually leads to the main XCSSET malware being dropped and run on the affected system. Infected users are also vulnerable to having their credentials, accounts, and other vital data stolen.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29"
+        ]
+      },
+      "uuid": "1501f556-e2e7-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: XCSSET Mac Malware"
+    },
+	{
+      "description": "In this installment of our series, we introduce Mekotio, a Latin American banking trojan targeting mainly Brazil, Chile, Mexico, Spain, Peru and Portugal. The most notable feature of the newest variants of this malware family is using a SQL database as a C&C server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/08/13/mekotio-these-arent-the-security-updates-youre-looking-for/"
+        ]
+      },
+      "uuid": "1501f786-e2e7-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: Mekotio Banking Trojan"
+    },
+	{
+      "description": "Drovorub is a Linux malware toolset consisting of an implant coupled with a kernel module rootkit, a file transfer and port forwarding tool, and a Command and Control (C2) server. When deployed on a victim machine, the Drovorub implant (client) provides the capability for direct communications with actorcontrolled C2 infrastructure, file download and upload capabilities, execution of arbitrary commands as root and port forwarding of network traffic to other hosts on the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/107112/malware/apt28-drovorub-linux-malware.html?utm_source=feedly&utm_medium=rss&utm_campaign=apt28-drovorub-linux-malware",
+		  "https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF"
+        ]
+      },
+      "uuid": "1501f8d0-e2e7-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: Drovorub Attack Framework"
+    },
+	{
+      "description": "The author of this malware is advertising and selling PurpleWave stealer on Russian cybercrime forums for 5,000 RUB (US$68) with lifetime updates and 4,000 RUB (US$54) with only two updates. The author selling PurpleWave claims that this stealer is capable of stealing passwords, cookies, cards, and autofill forms of Chromium and Mozilla browsers. This stealer also collects files from the specified path, takes screenshots, and installs additional modules. The capabilities of the PurpleWave stealer include - stealing passwords, cookies, cards, autofill(s) data, browser history from Chromium and Mozilla, collecting files from the specified path, capturing the screen, stealing system information, stealing Telegram session files, stealing Steam application data, stealing Electrum wallet data, and loading and executing additional modules (or) malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/research/purplewave-new-infostealer-russia"
+        ]
+      },
+      "uuid": "1501f9a2-e2e7-11ea-87d0-0242ac130003",
+      "value": "OSRS Tool: PurpleWave Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

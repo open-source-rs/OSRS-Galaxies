@@ -848,6 +848,16 @@
 			"value": "The University of Texas at Tyler"
 		},
 		{
+			"description": "Coastal Preparatory Academy (CPA) is a tuition-free, non-profit K-8 charter school established in 2017 and located in New Hanover County. CPA serves students in New Hanover, Pender, Brunswick, Onslow and Bladen County. CPA is dedicated to improving the lives of its students by providing authentic learning experiences in a collaborative, nurturing environment that will build a foundation for students’ success in school, at future work, and in life.",
+			"meta": {
+				"refs": [
+					"https://coastalprep.cfacademy.school/"
+				]
+			},
+			"uuid": "87432100-e2e0-11ea-87d0-0242ac130003",
+			"value": "Coastal Preparatory Academy"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

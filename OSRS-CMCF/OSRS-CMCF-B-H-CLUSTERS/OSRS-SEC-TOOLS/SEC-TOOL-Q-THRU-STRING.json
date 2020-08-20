@@ -1116,6 +1116,19 @@
       "value": "OSRS SecTool: SkyArk (Cloud Account Auditing Tool)"
     },
 	{
+      "description": "Tracee is a lightweight and easy to use container and system tracing tool. It allows you to observe system calls and other system events in real time. A unique feature of Tracee is that it will only trace newly created processes and containers (that were started after Tracee has started), in order to help the user focus on relevant events instead of every single thing that happens on the system (which can be overwhelming). Adding new events to Tracee (especially system calls) is straightforward, and will usually require no more than adding few lines of code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/aquasecurity/tracee"
+        ]
+      },
+      "uuid": "70acb324-e2e6-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Tracee"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

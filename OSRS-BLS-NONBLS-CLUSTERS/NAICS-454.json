@@ -37,6 +37,16 @@
       "value": "Artsy"
     },
 	{
+      "description": "Online peer-to-peer gun exchange servicing the state of Utah.",
+      "meta": {
+        "refs": [
+          "https://utahgunexchange.com/"
+        ]
+      },
+      "uuid": "8743240c-e2e0-11ea-87d0-0242ac130003",
+      "value": "Utah Gun Exchange"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

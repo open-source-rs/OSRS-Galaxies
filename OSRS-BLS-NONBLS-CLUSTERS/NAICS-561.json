@@ -166,6 +166,16 @@
 			"value": "CWT Global B.V."
 		},
 		{
+			"description": "R1 RCM is an American healthcare debt collection company servicing hospitals, health systems and physician groups across the United States.",
+			"meta": {
+				"refs": [
+					"https://www.r1rcm.com/"
+				]
+			},
+			"uuid": "ba597658-e2df-11ea-87d0-0242ac130003",
+			"value": "R1 RCM"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

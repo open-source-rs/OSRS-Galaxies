@@ -1717,6 +1717,32 @@
       "value": "OSRS SecTool: Noctilucent"
     },
 	{
+      "description": "An Open Source Linux Frontend to the ClamAV Antivirus Engine. A basic graphical user interface, designed for a Desktop environment, to provide instant feedback when threats are detected on the local system. Features include configuring the clamd daemon directly from the GUI, indication of threats via visual cues as well as notifications, monitoring and updating the virus definitions, monitoring various clam-related event logs and messages, quarantining of detected threats, and visual graphing of antivirus activity.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/ClamOne"
+        ]
+      },
+      "uuid": "70acae24-e2e6-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: ClamOne"
+    },
+	{
+      "description": "ELKM provides a mechanism to securely transport and load encrypted Loadable Kernel Modules (LKM). The aim is to protect kernel-based rootkits and implants against observation by Endpoint Detection and Response (EDR) software and to neutralize the effects of recovery by disk forensics tooling.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/cenobyte-vincit/encrypted-linux-kernel-modules"
+        ]
+      },
+      "uuid": "70acb16c-e2e6-11ea-87d0-0242ac130003",
+      "value": "OSRS SecTool: Encrypted Linux x86-64 Loadable Kernel Modules (ELKM)"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

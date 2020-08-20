@@ -1,4 +1,4 @@
-{
+ {
   "category": "OSRS-RANSOMWARE",
   "description": "Cluster designed for tagging OSINT artifacts that relate to OSRS artifacts that describe malicious ransomware.",
   "name": "OSRS Ransomware",
@@ -975,6 +975,34 @@
       },
       "uuid": "dc1ca914-d7ee-11ea-87d0-0242ac130003",
       "value": "OSRS Ransomware: VHD Ransomware"
+    },
+	{
+      "description": "Reports say that Defray distributors are pursuing healthcare, education, manufacturing, and technology organizations using a tailored social engineering strategy. These industries, healthcare specifically, have always been particular favorites of ransomware authors. As with most ransomware, Defray is spread through phishing emails which try and coerce victims into downloading a malicious file. The proliferation of ransomware through email is well-documented. A 2016 report by Trend Micro found that email was the most common entry point, with 79 percent of ransomware detected coming from spam mail. Luckily, the Defray attacks have been relatively small, and so far only minor campaigns have been tracked. The phishing emails the authors use are well-crafted—for an attack targeting a hospital, the phishing email was from a hospital IT manager and the malicious files were disguised as patient reports. In other emails, the attackers masqueraded as a UK-based aquarium company asking for a quote or order, and the malicious file had an official logo attached. The specificity and detail show a definite effort to convince targets of their legitimacy, and the more tailored lures show the attackers are investing in more specific targets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://krebsonsecurity.com/2020/08/medical-debt-collection-firm-r1-rcm-hit-in-ransomware-attack/",
+		  "https://www.trendmicro.com/vinfo/pl/security/news/cyber-attacks/defray-ransomware-sets-sights-on-healthcare-and-other-industries#:~:text=Defray%20behavior%20and%20demands,into%20downloading%20a%20malicious%20file.&text=If%20the%20victim%20clicks%20on,.exe%20file)%20is%20installed."
+        ]
+      },
+      "uuid": "c66a22d4-e2e5-11ea-87d0-0242ac130003",
+      "value": "OSRS Ransomware: Defray Ransomware"
+    },
+	{
+      "description": "Like other enterprise-targeting ransomware operations, RansomEXX is human-operated, which entails threat actors compromising a network, and over time, spreading to other devices until they gain administrator credentials. Once they gain admin rights and access to the Windows domain controller, they deploy the ransomware on the network and encrypt all of its devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/107226/cyber-crime/konica-minolta-ransomware.html?utm_source=feedly&utm_medium=rss&utm_campaign=konica-minolta-ransomware",
+		  "https://www.bleepingcomputer.com/news/security/business-technology-giant-konica-minolta-hit-by-new-ransomware/"
+        ]
+      },
+      "uuid": "c66a252c-e2e5-11ea-87d0-0242ac130003",
+      "value": "OSRS Ransomware: RansomEXX Ransomware"
     },
 	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",

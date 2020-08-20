@@ -377,6 +377,16 @@
 			"value": "Cub Foods (Cub Pharmacy)"
 		},
 		{
+			"description": "The Brown–Forman Corporation is one of the largest American-owned companies in the spirits and wine business.",
+			"meta": {
+				"refs": [
+					"https://www.brown-forman.com/"
+				]
+			},
+			"uuid": "fa53ef16-e2e1-11ea-87d0-0242ac130003",
+			"value": "The Brown–Forman Corporation"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

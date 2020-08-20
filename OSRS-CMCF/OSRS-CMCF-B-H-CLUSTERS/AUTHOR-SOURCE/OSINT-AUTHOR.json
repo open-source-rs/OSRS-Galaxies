@@ -6748,6 +6748,32 @@
       "value": "OSRS OSINT Author Index: Jackie Drees"
     },
 	{
+      "description": "Sr. Security Researcher at Zscaler. Bengaluru, Karnataka, India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/msadique/?originalSubdomain=in"
+        ]
+      },
+      "uuid": "6b0e5214-e2e2-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Mohd Sadique"
+    },
+	{
+      "description": "Journalist at The Daily Swig. United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jessica-haworth-a47b6b26/?locale=de_DE"
+        ]
+      },
+      "uuid": "6b0e543a-e2e2-11ea-87d0-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jessica Haworth"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

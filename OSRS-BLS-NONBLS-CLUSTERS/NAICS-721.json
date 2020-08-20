@@ -47,6 +47,16 @@
       "value": "Marriott International"
     },
 	{
+      "description": "The Ritz-Carlton Hotel Company, LLC is an American multinational company that operates the luxury hotel chain known as The Ritz-Carlton. The company has 108 luxury hotels and resorts in 30 countries and territories with 29,158 rooms, in addition to 46 hotels with 8,755 rooms in the pipeline.",
+      "meta": {
+        "refs": [
+          "https://www.ritzcarlton.com/"
+        ]
+      },
+      "uuid": "ba5974aa-e2df-11ea-87d0-0242ac130003",
+      "value": "The Ritz-Carlton Hotel Company, LLC"
+    },
+	{
       "description": "Choice Hotels International, Inc. is a hospitality franchisor based in Rockville, Maryland, United States. The company, which is one of the largest hotel chains in the world, owns several hotel brands ranging from upscale to economy.",
       "meta": {
         "refs": [
