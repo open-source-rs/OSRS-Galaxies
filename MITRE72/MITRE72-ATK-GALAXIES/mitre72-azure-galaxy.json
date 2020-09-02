@@ -1,1 +1,25 @@
-ph
+{
+  "description": "This MITRE ATK galaxy map is for the tagging of MISP artifacts using MITRE ATK version 7.2 (for the Azure cloud platform) which includes subdomains. More information can be found directly on the MITRE ATT&CK website: https://attack.mitre.org/matrices/enterprise/cloud/azure/ .",
+  "icon": "map",
+  "kill_chain_order": {
+    "mitre72-atk-azure": [
+		"Initial Access",
+		"Execution",
+		"Persistence",
+		"Privilege Escalation",
+		"Defense Evasion",
+		"Credential Access",
+		"Discovery",
+		"Lateral Movement",
+		"Collection",
+		"Command and Control",
+		"Exfiltration",
+		"Impact"
+      ]
+	 },
+  "name": "MITRE72-ATK-AZURE",
+  "namespace": "MITRE72-ATK",
+  "type": "MITRE72-ATK",
+  "uuid": "eec573e4-ed55-11ea-adc1-0242ac120002",
+  "version": 1
+}

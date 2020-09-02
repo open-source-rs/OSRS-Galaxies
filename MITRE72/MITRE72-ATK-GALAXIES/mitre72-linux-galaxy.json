@@ -1,1 +1,25 @@
-ph
+{
+  "description": "This MITRE ATK galaxy map is for the tagging of MISP artifacts using MITRE ATK version 7.2 (for the Linux operating system) which includes subdomains. More information can be found directly on the MITRE ATT&CK website: https://attack.mitre.org/matrices/enterprise/linux/ .",
+  "icon": "map",
+  "kill_chain_order": {
+    "mitre72-atk-linux": [
+		"Initial Access",
+		"Execution",
+		"Persistence",
+		"Privilege Escalation",
+		"Defense Evasion",
+		"Credential Access",
+		"Discovery",
+		"Lateral Movement",
+		"Collection",
+		"Command and Control",
+		"Exfiltration",
+		"Impact"
+      ]
+	 },
+  "name": "MITRE72-ATK-LINUX",
+  "namespace": "MITRE72-ATK",
+  "type": "MITRE72-ATK",
+  "uuid": "50b50baa-ed56-11ea-adc1-0242ac120002",
+  "version": 1
+}
