@@ -176,6 +176,26 @@
 			"value": "R1 RCM"
 		},
 		{
+			"description": "Experian plc is an Irish-domiciled multinational consumer credit reporting company. Experian collects and aggregates information on over one billion people and businesses including 235 million individual U.S. consumers and more than 25 million U.S. businesses.",
+			"meta": {
+				"refs": [
+					"https://www.experian.com/"
+				]
+			},
+			"uuid": "81e77ffa-eec8-11ea-adc1-0242ac120002",
+			"value": "Experian PLC"
+		},
+		{
+			"description": "South African division. Experian plc is an Irish-domiciled multinational consumer credit reporting company. Experian collects and aggregates information on over one billion people and businesses including 235 million individual U.S. consumers and more than 25 million U.S. businesses.",
+			"meta": {
+				"refs": [
+					"https://www.experian.co.za/"
+				]
+			},
+			"uuid": "81e7827a-eec8-11ea-adc1-0242ac120002",
+			"value": "Experian PLC (South Africa)"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [
@@ -186,5 +206,5 @@
 			"value": "Re-Solutions"
 		}
 	],
-	"version": 9
+	"version": 10
 }

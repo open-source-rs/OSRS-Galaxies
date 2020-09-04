@@ -1830,6 +1830,32 @@
       "value": "OSRS Actors AND Campaigns: CactusPete APT"
     },
 	{
+      "description": "Beginning in the first half of 2020, the rapid international spread of the COVID-19 virus introduced a shift within the threat landscape towards pandemic-themed social engineering lures. Public research has noted several Chinese APT groups adopting COVID-19 phishing lures in recent months to carry out espionage campaigns against established and expanding target sets. In March 2020,  researchers observed a phishing campaign impersonating the World Health Organization’s (WHO) guidance on COVID-19 critical preparedness to deliver a new malware family that researchers have dubbed Sepulcher. This campaign targeted European diplomatic and legislative bodies, non-profit policy research organizations, and global organizations dealing with economic affairs.  Additionally, a sender email identified in this campaign has been linked to historic Chinese APT targeting of the international Tibetan community using payloads linked to LuckyCat malware. Subsequently, a phishing campaign from July 2020 targeting Tibetan dissidents was identified delivering the same strain of Sepulcher malware. Operator email accounts identified in this campaign have been publicly linked to historic Chinese APT campaigns targeting the Tibetan community delivering ExileRAT malware. Based on the use of publicly known sender addresses associated with Tibetan dissident targeting and the delivery of Sepulcher malware payloads,  researchers have attributed both campaigns to the APT actor TA413, which has previously been documented in association with ExileRAT. The usage of publicly known Tibetan-themed sender accounts to deliver Sepulcher malware demonstrates a short-term realignment of TA413’s targets of interest. While best known for their campaigns against the Tibetan diaspora, this APT group associated with the Chinese state interest prioritized intelligence collection around Western economies reeling from COVID-19 in March 2020 before resuming more conventional targeting later this year.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/chinese-apt-ta413-resumes-targeting-tibet-following-covid-19-themed-economic"
+        ]
+      },
+      "uuid": "363dc11a-eeb2-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA413 (Threat Actor)"
+    },
+	{
+      "description": "The Salfram Campaign is a series of email campaigns utilizing links to malicious documents hosted on legitimate file-sharing platforms to spread malware. The campaign distributed various malware payloads including Gozi ISFB, ZLoader, SmokeLoader and AveMaria, among others. Ongoing campaigns are distributing various malware families using the same crypter. While effective, this crypting mechanism contains an easy-to-detect flaw - the presence of a specific string value Salfram makes it easy to track over time. Obfuscated binaries are completely different, from both a binary and execution flow graph perspective. The techniques used by this crypter can confuse weak API behavior-based systems and static analysis tools. This crypter appears to be undergoing active development and improvement over time.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/09/salfram-robbing-place-without-removing.html"
+        ]
+      },
+      "uuid": "363dc4d0-eeb2-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Salfram Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

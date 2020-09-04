@@ -1005,6 +1005,32 @@
       "value": "OSRS Ransomware: RansomEXX Ransomware"
     },
 	{
+      "description": "Cyrat ransomware uses Fernet to encrypt files. This is a symmetric encryption method meant for small data files that fit into RAM. While Fernet is not unusual itself, it is not common for ransomware and in this case even problematic. This ransomware encrypts whole files regardless how big they are, whereas Fernet is unsuitable for big files. A public RSA key is used to encrypt the Fernet key. This public key is downloaded from Mediafire instead of shipping it with the ransomware. This adds another dependency. The encrypted Fernet key is saved in Desktop_EMAIL_US.txt. A user with an infected system is required to send this file to the criminals. Cyrat appends .CYRAT to encrypted files. It has a list of folders that it checks for target files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/cyrat-ransomware"
+        ]
+      },
+      "uuid": "0f0a5208-eeca-11ea-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Cyrat Ransomware"
+    },
+	{
+      "description": "The SMAUG RaaS emerged towards the end of April 2020, and seems to have gained some traction in the following months. SMAUG appears to be a robust and full-service RaaS, with a few tweaks that set it apart from the others. Criminals who wish to become SMAUG distributors will likely be used to the offerings associated with this type of service. The SMAUG operators currently charge a 20% service fee. However, there is also a registration fee which is quite steep when compared to other fully-public services. The current registration fee is .2 BTC, around $1800 USD at today’s prices. There are some possible exceptions to getting around the registration fee. On some forums where SMAUG is advertising, the developers state that free memberships (owing only the service fees) will be given to the first five customers with a certain number of posts, and the ability to prove their past work (attacks).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/multi-platform-smaug-raas-aims-to-see-off-competitors/"
+        ]
+      },
+      "uuid": "0f0a54b0-eeca-11ea-adc1-0242ac120002",
+      "value": "OSRS Ransomware: SMAUG RaaS"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

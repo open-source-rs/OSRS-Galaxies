@@ -3143,6 +3143,56 @@
 			"value": "Ponca City Schools"
 		},
 		{
+			"description": "Mansfield City School District is a public school district located in Mansfield, OH. It has 3,391 students in grades PK, K-12 with a student-teacher ratio of 15 to 1. According to state test scores, 48% of students are at least proficient in math and 45% in reading. tygerpride.com.",
+			"meta": {
+				"refs": [
+					"https://www.tygerpride.com/"
+				]
+			},
+			"uuid": "7ea93cdc-eeb1-11ea-adc1-0242ac120002",
+			"value": "Mansfield City School"
+		},
+		{
+			"description": "Stortinget is the supreme legislature of Norway, established in 1814 by the Constitution of Norway. It is located in Oslo. The unicameral parliament has 169 members, and is elected every four years based on party-list proportional representation in nineteen plurinominal constituencies.",
+			"meta": {
+				"refs": [
+					"https://www.stortinget.no/en/In-English/"
+				]
+			},
+			"uuid": "7ea93f3e-eeb1-11ea-adc1-0242ac120002",
+			"value": "Stortinget"
+		},
+		{
+			"description": "Selma Unified School District is a school system located in Selma, California. It consists of eleven schools, one high school, one middle school, eight elementary schools, and one continuation/adult school.",
+			"meta": {
+				"refs": [
+					"https://www.selmausd.org/"
+				]
+			},
+			"uuid": "7ea94038-eeb1-11ea-adc1-0242ac120002",
+			"value": "Selma Unified School District"
+		},
+		{
+			"description": "Haywood County Schools is a PK–12 graded school district serving Haywood County, North Carolina. Its 16 schools serve 7,813 students as of the 2010–11 school year.",
+			"meta": {
+				"refs": [
+					"https://www.haywood.k12.nc.us/"
+				]
+			},
+			"uuid": "7ea94114-eeb1-11ea-adc1-0242ac120002",
+			"value": "Haywood County Schools"
+		},
+		{
+			"description": "Somerset Berkley Regional High School is the public high school for the towns of Somerset and Berkley, Massachusetts, United States, beginning in September 2011.",
+			"meta": {
+				"refs": [
+					"http://somersetberkley.org/"
+				]
+			},
+			"uuid": "7ea941e6-eeb1-11ea-adc1-0242ac120002",
+			"value": "Somerset Berkley Regional High School"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -3153,5 +3203,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 59
+	"version": 60
 }

@@ -4990,6 +4990,32 @@
       "value": "OSRS Tool: PurpleWave Stealer"
     },
 	{
+      "description": "Researchers have uncovered a hitherto undocumented malware family that we named KryptoCibule. This malware is a triple threat in regard to cryptocurrencies. It uses the victim’s resources to mine coins, tries to hijack transactions by replacing wallet addresses in the clipboard, and exfiltrates cryptocurrency-related files, all while deploying multiple techniques to avoid detection. KryptoCibule makes extensive use of the Tor network and the BitTorrent protocol in its communication infrastructure. The malware, written in C#, also employs some legitimate software. Some, such as Tor and the Transmission torrent client, are bundled with the installer - others are downloaded at runtime, including Apache httpd and the Buru SFTP server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/09/02/kryptocibule-multitasking-multicurrency-cryptostealer/"
+        ]
+      },
+      "uuid": "37820464-eecb-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: KryptoCibule Coinminer"
+    },
+	{
+      "description": "kawpowminer is an ProgPoW GPU mining worker. With kawpowminer you can mine Ravencoin, which relies on an ProgPoW-based Proof of Work thus including Ethereum ProgPoW and others. This is the actively maintained version of kawpowminer. It originates from the ethminer project. Check the original ProgPoW implementation and EIP-1057 for specification.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://github.com/RavenCommunity/kawpowminer"
+        ]
+      },
+      "uuid": "378206da-eecb-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: kawpowminer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

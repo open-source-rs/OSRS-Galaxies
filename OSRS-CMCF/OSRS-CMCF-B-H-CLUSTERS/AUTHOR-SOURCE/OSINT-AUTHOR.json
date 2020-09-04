@@ -6774,6 +6774,45 @@
       "value": "OSRS OSINT Author Index: Jessica Haworth"
     },
 	{
+      "description": "Generic pen name used at ABC 13 News online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://wlos.com/"
+        ]
+      },
+      "uuid": "2cf9df92-eeb4-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: ABC 13 News Staff"
+    },
+	{
+      "description": "Generic pen name used at the Taunton Daily Gazette online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.tauntongazette.com/"
+        ]
+      },
+      "uuid": "2cf9e2e4-eeb4-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: The Taunton Daily Gazette News Staff"
+    },
+	{
+      "description": "Writer and Editor affilitated with The Art Newspaper online. New York, NY.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nancy-kenney-47996b72/"
+        ]
+      },
+      "uuid": "2cf9e3e8-eeb4-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Nancy Kenny"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

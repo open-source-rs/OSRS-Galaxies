@@ -2603,6 +2603,16 @@
 			"value": "Catho"
 		},
 		{
+			"description": "Tandem is an ingenious, fast-moving workforce design and delivery company. We transform the usual service outcomes of large businesses, into exceptional experiences.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/isgm---isg-management-pty-ltd-/about/"
+				]
+			},
+			"uuid": "5e9fe6b2-eec9-11ea-adc1-0242ac120002",
+			"value": "Tandem Corp"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2613,5 +2623,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 68
+	"version": 69
 }

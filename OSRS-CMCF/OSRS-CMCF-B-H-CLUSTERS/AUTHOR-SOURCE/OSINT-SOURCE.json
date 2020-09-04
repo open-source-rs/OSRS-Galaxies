@@ -2665,6 +2665,45 @@
       "value": "OSRS OSINT Source: Becker's Health IT"
     },
 	{
+      "description": "KTRK-TV, virtual and VHF digital channel 13, is an ABC owned-and-operated television station licensed to Houston, Texas, United States. The station is owned by the ABC Owned Television Stations subsidiary of The Walt Disney Company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://wlos.com/"
+        ]
+      },
+      "uuid": "e164327e-eeb5-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: ABC 13 News"
+    },
+	{
+      "description": "The Taunton Daily Gazette is a daily newspaper founded in 1848. Based in Taunton, Massachusetts, its coverage area also includes Berkley, Rehoboth, Dighton, Lakeville, Norton, and Raynham.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.tauntongazette.com/"
+        ]
+      },
+      "uuid": "e16435ee-eeb5-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: The Taunton Daily Gazette"
+    },
+	{
+      "description": "The Art Newspaper is a monthly print publication, with daily updates online, founded in 1990 and based in London and New York City. It is published by Umberto Allemandi & Co.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.theartnewspaper.com/"
+        ]
+      },
+      "uuid": "e16436fc-eeb5-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: The Art Newspaper"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
