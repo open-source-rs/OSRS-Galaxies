@@ -1769,6 +1769,32 @@
       "value": "OSRS SecTool: Fernet Symmetric Encryption"
     },
 	{
+      "description": "Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/kdaoudieh/Bella"
+        ]
+      },
+      "uuid": "a33190e2-f373-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: Bella"
+    },
+	{
+      "description": "Donut is a position-independent code that enables in-memory execution of VBScript, JScript, EXE, DLL files and dotNET assemblies. A module created by Donut can either be staged from a HTTP server or embedded directly in the loader itself. The module is optionally encrypted using the Chaskey block cipher and a 128-bit randomly generated key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/TheWover/donut"
+        ]
+      },
+      "uuid": "a33193da-f373-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: Donut (.NET Assembly Tool)"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

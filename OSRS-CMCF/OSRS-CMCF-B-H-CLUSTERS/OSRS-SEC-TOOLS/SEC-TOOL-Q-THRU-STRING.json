@@ -1129,6 +1129,19 @@
       "value": "OSRS SecTool: Tracee"
     },
 	{
+      "description": "A suite of open source security tools that includes but is not limited to tools like AtomicBird, DesertNut, and Londor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/FuzzySecurity/Sharp-Suite"
+        ]
+      },
+      "uuid": "a33194de-f373-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: Sharp-Suite"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

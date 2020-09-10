@@ -858,6 +858,16 @@
 			"value": "Coastal Preparatory Academy"
 		},
 		{
+			"description": "Northumbria University is a university located in Newcastle upon Tyne in the North East of England, gaining university status in 1992.",
+			"meta": {
+				"refs": [
+					"https://www.northumbria.ac.uk/"
+				]
+			},
+			"uuid": "669a0300-f367-11ea-adc1-0242ac120002",
+			"value": "University of Northumbria"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

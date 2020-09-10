@@ -3193,6 +3193,36 @@
 			"value": "Somerset Berkley Regional High School"
 		},
 		{
+			"description": "The Ministry of Justice is responsible for the administration of courts and prosecutors in Quebec, Canada. The Minister is automatically the Attorney General, and Registrar of Quebec.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Justice_(Quebec)"
+				]
+			},
+			"uuid": "9934ba3c-f365-11ea-adc1-0242ac120002",
+			"value": "Ministry of Justice (Quebec)"
+		},
+		{
+			"description": "The Ministry of Internally Displaced Persons from the Occupied Territories, Labour, Health and Social Affairs of Georgia is a governmental agency within the Cabinet of Georgia in charge of regulating the healthcare system, labor and IDP issues and social security system in Georgia.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Health,_Labour_and_Social_Affairs_of_Georgia"
+				]
+			},
+			"uuid": "9934bd84-f365-11ea-adc1-0242ac120002",
+			"value": "Ministry of Health, Labour and Social Affairs of Georgia"
+		},
+		{
+			"description": "We lay the strategic foundations in migration matters and we comply with the international commitments of the Republic in matters of human rights, integration and mobility of migrants.",
+			"meta": {
+				"refs": [
+					"https://www.argentina.gob.ar/interior/migraciones"
+				]
+			},
+			"uuid": "9934bea6-f365-11ea-adc1-0242ac120002",
+			"value": "Direccion Nacional de Migraciones"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

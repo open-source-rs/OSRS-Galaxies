@@ -6813,6 +6813,84 @@
       "value": "OSRS OSINT Author Index: Nancy Kenny"
     },
 	{
+      "description": "Generic pen name used for the online news site Herald-Palladium.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.heraldpalladium.com/"
+        ]
+      },
+      "uuid": "61537f52-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: The Herald-Palladium Staff"
+    },
+	{
+      "description": "Reporter at The Charlotte Observer. Charlotte, North Carolina Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joe-marusak-126b4512/"
+        ]
+      },
+      "uuid": "61538326-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Joe Marusak"
+    },
+	{
+      "description": "Cyber Security Specialist. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tom-fakterman-b14489158/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "61538434-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tom Fakterman"
+    },
+	{
+      "description": "Threat Intelligence Team Lead at PRODAFT / INVICTUS Cyber Security and Intelligence INC. Turkey.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/yusufarslanpolat/?originalSubdomain=tr"
+        ]
+      },
+      "uuid": "6153851a-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Yusuf Arslan Polat"
+    },
+	{
+      "description": "Generic pen named used for the online blog provided by the cybersecurity vendor NVISO.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.nviso.eu/"
+        ]
+      },
+      "uuid": "615385e2-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: NVISO Researchers"
+    },
+	{
+      "description": "Generic pen named used for the online blog provided by the cybersecurity group The DFIR Report.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://thedfirreport.com/"
+        ]
+      },
+      "uuid": "615386b4-f371-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: The DFIR Report Researchers"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

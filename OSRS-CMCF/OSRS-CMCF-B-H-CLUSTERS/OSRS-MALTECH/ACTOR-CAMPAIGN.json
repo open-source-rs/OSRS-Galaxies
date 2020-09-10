@@ -1856,6 +1856,49 @@
       "value": "OSRS Actors AND Campaigns: Salfram Campaign"
     },
 	{
+      "description": "The actor behind Inter has used several aliases over the years but is best known in the skimming world as Sochi. However, when the actor first surfaced in 2014, they went by poter. In 2016, poter developed the SniFall skimmer and began selling it on an underground internet forum. In late 2018, the actor created a new skimmer they dubbed Inter and started advertising it on forums under a new alias, Sochi.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/external-threat-management/inter-skimmer/",
+		  "https://community.riskiq.com/article/30f22a00"
+        ],
+        "synonyms": [
+        "poter"
+        ]
+      },
+      "uuid": "56df7dba-f366-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Sochi (Threat Actor)"
+    },
+	{
+      "description": "Between the months of May and July 2020, four members of PRODAFT Threat Intelligence team have conducted operation BlueRaven. A case study which originated from discovering a minor OpSec failure of a seemingly unimportant group of threat actors. Of course these threat actors have later been found to have ties with the notorious Fin7 (a.k.a.Carbanak) threat actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://threatintel.blog/OPBlueRaven-Part1/"
+        ]
+      },
+      "uuid": "56df7fb8-f366-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: opBlueRaven Campaign"
+    },
+	{
+      "description": "A set of malicious Excel documents, also known as maldocs, that deliver malware through VBA-activated spreadsheets. While the malicious VBA code and the dropped payloads were something we had seen before, it was the specific way in which the Excel documents themselves were created that caught our attention. The creators of the malicious Excel documents used a technique that allows them to create macro-laden Excel workbooks, without actually using Microsoft Office. As a side effect of this particular way of working, the detection rate for these documents is typically lower than for standard maldocs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.nviso.eu/2020/09/01/epic-manchego-atypical-maldoc-delivery-brings-flurry-of-infostealers/"
+        ]
+      },
+      "uuid": "56df80bc-f366-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Epic Manchego Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

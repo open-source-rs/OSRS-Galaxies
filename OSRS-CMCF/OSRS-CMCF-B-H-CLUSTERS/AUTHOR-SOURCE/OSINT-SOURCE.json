@@ -2704,6 +2704,71 @@
       "value": "OSRS OSINT Source: The Art Newspaper"
     },
 	{
+      "description": "The Herald-Palladium is a newspaper distributed in the Southwest Michigan region serving all or part of Berrien, Cass, Van Buren, and Allegan Counties.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.heraldpalladium.com/"
+        ]
+      },
+      "uuid": "6e3bfd60-f372-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: The Herald-Palladium"
+    },
+	{
+      "description": "WBTV, virtual channel 3, is a CBS-affiliated television station licensed to Charlotte, North Carolina, United States. The station is owned by Gray Television. WBTV's studios are located off Morehead Street, just west of Uptown Charlotte, and its transmitter is located in north-central Gaston County.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wbtv.com/"
+        ]
+      },
+      "uuid": "6e3bffa4-f372-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: WBTV 3"
+    },
+	{
+      "description": "The Threat Intelligence team of PRODAFT SARL (a swiss-based Cyber Intelligence company) and INVICTUS (one of the leading security companies of EMEA region).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://threatintel.blog/about/"
+        ]
+      },
+      "uuid": "6e3c00a8-f372-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: PRODAFT & INVICTUS Threat Intelligence (PTI)"
+    },
+	{
+      "description": "Research arm of the cybersecurity vendor NVISO.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.nviso.eu/"
+        ]
+      },
+      "uuid": "6e3c02ec-f372-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: NVISO Labs"
+    },
+	{
+      "description": "Online digital forensics research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://thedfirreport.com/"
+        ]
+      },
+      "uuid": "6e3c03d2-f372-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: The DFIR Report"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

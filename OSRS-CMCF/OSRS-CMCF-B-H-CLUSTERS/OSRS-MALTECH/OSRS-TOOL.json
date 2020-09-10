@@ -5016,6 +5016,140 @@
       "value": "OSRS Tool: kawpowminer"
     },
 	{
+      "description": "The Inter Skimmer kit is a prolific digital skimming solution used by several different Magecart actors. The kit, which comes with a dashboard for generating and deploying skimming code as well as backend storage for skimmed payment data, was developed and actively sold by an actor known as Sochi starting in late 2017.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/external-threat-management/inter-skimmer/",
+		  "https://community.riskiq.com/article/30f22a00"
+        ]
+      },
+      "uuid": "b4bd4ed4-f376-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: Inter Skimmer"
+    },
+	{
+      "description": "SniFall was first described by Volexity in July of 2018, using the name JS Sniffer. The researchers suspected that the skimmer was in use by several different actors due to variations in infrastructure, modes of skimming code injection, URI parameters, and other factors, suggesting that the developer behind the skimming code was selling it to other actors. Volexity also noted the use of Russian throughout a copy of the kit’s source code they acquired.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.riskiq.com/blog/external-threat-management/inter-skimmer/",
+		  "https://community.riskiq.com/article/30f22a00"
+        ]
+      },
+      "uuid": "b4bd50a0-f376-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: Snifall Skimmer"
+    },
+	{
+      "description": "Evilnum group also uses 64-bit executables that decrypt and run a Meterpreter instance in memory. The use of Meterpreter gives them flexibility and the ability to run various payloads in a stealthy and extensible way. The structure of these components and the integrity checks implemented were identified as TerraLoader code, referred to as TerraPreter.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.terrapreter",
+		  "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/"
+        ]
+      },
+      "uuid": "b4bd519a-f376-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: TerraPreter"
+    },
+	{
+      "description": "TerraStealer is also known as SONE or Stealer One. It scans for many browsers, email, FTP and file transfer applications, to steal cookies and credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.terra_stealer",
+		  "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/"
+        ]
+      },
+      "uuid": "b4bd526c-f376-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: TerraStealer"
+    },
+	{
+      "description": "It runs a legitimate TeamViewer application but hides its user interface elements, so that the operators of the malware can connect to the compromised computer undetected.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/"
+        ]
+      },
+      "uuid": "b4bd533e-f376-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: TerraTV"
+    },
+	{
+      "description": "A python-scripted Remote Access Trojan (RAT) dubbed PyVil RAT. PyVil RAT possesses different functionalities, and enables the attackers to exfiltrate data, perform keylogging and the taking of screenshots, and the deployment of more tools such as LaZagne in order to steal credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat"
+        ]
+      },
+      "uuid": "ba33c4c8-f377-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: PyVil RAT"
+    },
+	{
+      "description": "The malware named Tirion, which is thought to be developed to replace the Carbanak backdoor is the new loader tool of the Fin7 group. It contains many functions for information gathering, code execution, recon, and lateral movement purposes. As in the latest version of the Carbanak backdoor, many functions performed by the malware have been developed as separate plugins. They are loaded and executed fileless in the target system with the reflective loading method. Exposed data shows that the development of the Carbanak backdoor is currently stopped and development and tests are being performed on the Tirion Loader by the same team. Communication logs between attackers show that this new tool is intended to replace the Carbanak backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://threatintel.blog/OPBlueRaven-Part1/"
+        ]
+      },
+      "uuid": "ba33c748-f377-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: Tirion Loader"
+    },
+	{
+      "description": "It is a DLL file responsible for stealing and reporting sensitive information from the target system, especially browser and mail passwords.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://threatintel.blog/OPBlueRaven-Part1/"
+        ]
+      },
+      "uuid": "ba33c842-f377-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: PswInfoGrabber"
+    },
+	{
+      "description": "A PowerShell spreader which has two primary purposes - loading and running the Thanos ransomware and spreading to other systems by copying itself to and executing itself on remote systems. The loader functionality within LogicalDuckBill starts with a base64 encoded PowerShell script that it will decode and run using the IEX command.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/thanos-ransomware/"
+        ]
+      },
+      "uuid": "ba33c91e-f377-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: LogicalDuckBill Loader"
+    },
+	{
+      "description": "The PowGoop downloader has two components - a DLL loader and a PowerShell-based downloader. The PowGoop loader component is responsible for decrypting and running the PowerShell code that comprises the PowGoop downloader. The PowGoop loader DLL that existed in the same environment as LogicalDuckBill had a filename of goopdate.dll that was likely sideloaded by the legitimate and signed Google Update executable. The sideloading process would start with the legitimate GoogleUpdate.exe file loading a legitimate DLL with a name of goopdate86.dll. The sideloading would occur when the goopdate86.dll library loads the goopdate.dll file, which effectively runs the PowGoop loader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/thanos-ransomware/"
+        ]
+      },
+      "uuid": "ba33c9fa-f377-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: PowGoop Downloader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

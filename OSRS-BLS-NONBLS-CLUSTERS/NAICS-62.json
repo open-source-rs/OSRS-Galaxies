@@ -1386,6 +1386,16 @@
 			"value": "Union Quay Medical Centre - Cork"
 		},
 		{
+			"description": "Atrium Health, formerly Carolinas HealthCare System, is a not for profit hospital network which operates nearly 40 hospitals, six freestanding emergency departments, more than 30 urgent care centers, and medical practices in the American states of North Carolina, South Carolina and Georgia.",
+			"meta": {
+				"refs": [
+					"https://atriumhealth.org/"
+				]
+			},
+			"uuid": "669a0404-f367-11ea-adc1-0242ac120002",
+			"value": "Atrium Health"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

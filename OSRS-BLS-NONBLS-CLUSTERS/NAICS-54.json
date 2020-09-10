@@ -2613,6 +2613,36 @@
 			"value": "Tandem Corp"
 		},
 		{
+			"description": "Richard Lugar Center for Public Health Research is a research center based on the National Center for Disease Control and Public Health, which was opened in 2011 and fully exploited in August 2013.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Lugar_Research_Center"
+				]
+			},
+			"uuid": "c7f526e6-f369-11ea-adc1-0242ac120002",
+			"value": "Richard Lugar Center for Public Health Research"
+		},
+		{
+			"description": "Cygilant, Inc, is a Boston-based security software-as-a-service company focused on information security and compliance objectives.",
+			"meta": {
+				"refs": [
+					"https://www.cygilant.com/"
+				]
+			},
+			"uuid": "c7f5293e-f369-11ea-adc1-0242ac120002",
+			"value": "Cygilant"
+		},
+		{
+			"description": "10 Years of Inmate Communications We are a leading provider of secure inmate communication systems including phones, tablets, investigator tools, video visits, content and more. Telmate serves over 300 correctional facilities in the U.S. and Canada.",
+			"meta": {
+				"refs": [
+					"https://www.telmate.com/"
+				]
+			},
+			"uuid": "c7f52a38-f369-11ea-adc1-0242ac120002",
+			"value": "Telmate LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

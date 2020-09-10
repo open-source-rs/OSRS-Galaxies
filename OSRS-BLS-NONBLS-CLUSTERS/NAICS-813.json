@@ -235,6 +235,16 @@
 			"value": "Mines Advisory Group (MAG)"
 		},
 		{
+			"description": "The Jewish Federation of Greater Washington envisions an open, connected, and vibrant Jewish community that cares for each other, fosters Jewish learning and journeys, embraces Jewish peoplehood and Israel, and acts as a force for good in the world. Our mission is to inspire, build, and sustain vibrant Jewish life in a changing world by mobilizing our community in common purpose, intentional innovation, and effective action. Federation supports 58 local agencies, 14 national organizations, 18 overseas partners and programs, and more than 60 congregations that care for those in need, deepen engagement in Jewish life and connect Jews locally, in Israel, and around the world. Justice for the poor, honoring seniors, supporting those who are ill or in crisis, nurturing and educating our children, inclusion of all, and helping refugees find freedom and economic self-sufficiency are central to our values and the programs we support. We are equally committed to inspiring learning and experiences in order to shape our Jewish communal identity. Formal education opportunities and informal Jewish experiences like summer camps, youth groups and trips to Israel provide learning, recreational, cultural and social activities that nourish our bodies and our minds.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/jewish-federation-of-greater-washington/about/"
+				]
+			},
+			"uuid": "3d760cfa-f36a-11ea-adc1-0242ac120002",
+			"value": "Test Religious, Grantmaking, Civic, Professional, and Similar Organizations Value"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

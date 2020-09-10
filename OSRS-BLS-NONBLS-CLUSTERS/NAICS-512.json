@@ -15,6 +15,16 @@
       },
       "uuid": "1e0d9c4e-48f2-11e9-8646-d663bd873d93",
       "value": "Test Motion Picture and Sound Recording Industries Value"
+    },
+	{
+      "description": "Warner Music Group Corp. is an American multinational entertainment and record label conglomerate headquartered in New York City. It is one of the big three recording companies and the third largest in the global music industry, after Universal Music Group and Sony Music Entertainment.",
+      "meta": {
+        "refs": [
+          "https://www.wmg.com/"
+        ]
+      },
+      "uuid": "4d16c560-f369-11ea-adc1-0242ac120002",
+      "value": "Warner Music Group Corp."
     }
 	  ],
 	"version": 1

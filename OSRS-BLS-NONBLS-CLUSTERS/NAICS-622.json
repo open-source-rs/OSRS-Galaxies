@@ -626,6 +626,16 @@
 			"value": "Muskingum Valley Health Center"
 		},
 		{
+			"description": "Recognized for its leading edge technology and best practices, Roper Hospital builds on a long legacy of excellence. Founded in 1829 as the first community hospital in the Carolinas, Roper Hospital today is one of the most trusted names in the Lowcountry. As the proud recipient of national awards for quality patient care, Roper enjoys an outstanding reputation for excellent outcomes and personal attention.",
+			"meta": {
+				"refs": [
+					"https://www.rsfh.com/roper-hospital/"
+				]
+			},
+			"uuid": "4d16c34e-f369-11ea-adc1-0242ac120002",
+			"value": "Roper St. Francis Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
