@@ -1142,6 +1142,19 @@
       "value": "OSRS SecTool: Sharp-Suite"
     },
 	{
+      "description": "Weave Scope automatically detects processes, containers, hosts. No kernel modules, no agents, no special libraries, no coding. Seamless integration with Docker, Kubernetes, DCOS and AWS ECS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://www.weave.works/oss/scope/"
+        ]
+      },
+      "uuid": "1ed70192-f82d-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: Weave Scope"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

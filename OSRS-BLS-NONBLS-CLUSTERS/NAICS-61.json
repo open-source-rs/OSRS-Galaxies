@@ -868,6 +868,16 @@
 			"value": "University of Northumbria"
 		},
 		{
+			"description": "Newcastle University is a UK public research university based in Newcastle upon Tyne, North East England with overseas campuses in Singapore and Malaysia. The university is a red brick university and a member of the Russell Group, an association of research-intensive UK universities.",
+			"meta": {
+				"refs": [
+					"https://www.ncl.ac.uk/"
+				]
+			},
+			"uuid": "c4e5f11e-f81f-11ea-adc1-0242ac120002",
+			"value": "Newcastle University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

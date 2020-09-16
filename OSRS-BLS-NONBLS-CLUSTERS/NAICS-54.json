@@ -2643,6 +2643,37 @@
 			"value": "Telmate LLC"
 		},
 		{
+			"description": "Listed on the Singapore Stock Exchange (SGX) in 2003, Silverlake Axis creates technologies to enable the Digital Economy. What sets us apart is the foundation for our computing principles, which are grounded on mathematical models. Through the years, Silverlake Axis has evolved using mathematics to refine, expand and invent technologies, broadening into new industries and markets at the same time.",
+			"meta": {
+				"refs": [
+					"http://www.silverlakeaxis.com/",
+					"https://www.linkedin.com/company/silverlake-axis-ltd/about/"
+				]
+			},
+			"uuid": "e8f8c660-f821-11ea-adc1-0242ac120002",
+			"value": "Silverlake Axis"
+		},
+		{
+			"description": "SoftServe, Inc., founded in 1993 in Lviv, Ukraine, is a technology company specializing in consultancy services and software development. SoftServe provides services in the fields of Big data, Internet of Things, cloud computing, DevOps, e-commerce, security, and experience design.",
+			"meta": {
+				"refs": [
+					"https://www.softserveinc.com/en-us"
+				]
+			},
+			"uuid": "e8f8c89a-f821-11ea-adc1-0242ac120002",
+			"value": "SoftServe, Inc."
+		},
+		{
+			"description": "Artech Information Systems is an IT staffing firm.",
+			"meta": {
+				"refs": [
+					"https://www.artech.com/"
+				]
+			},
+			"uuid": "e8f8c9a8-f821-11ea-adc1-0242ac120002",
+			"value": "Artech Information Systems"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -5150,6 +5150,58 @@
       "value": "OSRS Tool: PowGoop Downloader"
     },
 	{
+      "description": "CDRThief is designed to target a very specific VoIP platform, used by two China-produced softswitches (software switches) Linknat VOS2009 and VOS3000. A softswitch is a core element of a VoIP network that provides call control, billing, and management. These softswitches are software-based solutions that run on standard Linux servers. The primary goal of the malware is to exfiltrate various private data from a compromised softswitch, including call detail records (CDR). CDRs contain metadata about VoIP calls such as caller and callee IP addresses, starting time of the call, call duration, calling fee, etc. To steal this metadata, the malware queries internal MySQL databases used by the softswitch. Thus, attackers demonstrate a good understanding of the internal architecture of the targeted platform.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/09/10/who-callin-cdrthief-linux-voip-softswitches/"
+        ]
+      },
+      "uuid": "5f042ab2-f82b-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: CDRThief Stealer"
+    },
+	{
+      "description": "A dropper is an executable file written in C and compiled in the Microsoft Visual Studio development environment. Contains the xDll backdoor payload in the data section.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/shadowpad-novaya-aktivnost-gruppirovki-winnti/"
+        ]
+      },
+      "uuid": "5f042db4-f82b-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: xDll dropper"
+    },
+	{
+      "description": "The backdoor is an executable file written in C ++ and compiled in the Microsoft Visual Studio development environment using the MFC library. Creates a separate thread in which all useful actions take place. At the beginning of work, it performs reconnaissance in the system and collects user information, computer name, IP address, OEM code page, and MAC address (later, the MD5 hash sum is calculated from the received value, which will be used when interacting with the control server).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/shadowpad-novaya-aktivnost-gruppirovki-winnti/"
+        ]
+      },
+      "uuid": "5f042e9a-f82b-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: xDll backdoor"
+    },
+	{
+      "description": "SkinnyD (Skinny Downloader) is a simple downloader. It contains several addresses of control servers, which it iterates over sequentially. The next stage is loaded using a GET request to the management server at a special URL, which is generated according to the format string hard-coded in the malware code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/shadowpad-novaya-aktivnost-gruppirovki-winnti/"
+        ]
+      },
+      "uuid": "ffc6b4a6-f82b-11ea-adc1-0242ac120002",
+      "value": "OSRS Tool: SkinnyD (Skinny Downloader)"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

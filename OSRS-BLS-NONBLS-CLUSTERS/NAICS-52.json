@@ -608,6 +608,56 @@
 			"value": "Pepperstone"
 		},
 		{
+			"description": "Banco del Estado de Chile, commercially operating under the brand BancoEstado, is the only Public Bank in Chile and was created by government decree in 1953.",
+			"meta": {
+				"refs": [
+					"https://www.bancoestado.cl/"
+				]
+			},
+			"uuid": "95142342-f820-11ea-adc1-0242ac120002",
+			"value": "Banco del Estado de Chile"
+		},
+		{
+			"description": "Fully compliant with existing financial regulations, ETERBASE is Europe’s premier digital assets exchange. Unique for its customer-centric, regulation-compliant trading platform, which offers ultra-fast trading and a powerful interface, ETERBASE is setting the gold standard in the digital assets exchange landscape.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/eterbase/about/"
+				]
+			},
+			"uuid": "95142572-f820-11ea-adc1-0242ac120002",
+			"value": "ETERBASE a.s."
+		},
+		{
+			"description": "SegurCaixa Adeslas is the leading Non-Life company in Spain in health insurance. Integrated in the Mutua Madrileña Group and owned by Caixabank, the company also operates in other lines such as Home, Auto or Accidents, among others.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/segurcaixa-adeslas/about/"
+				]
+			},
+			"uuid": "9514266c-f820-11ea-adc1-0242ac120002",
+			"value": "SegurCaixa Adeslas"
+		},
+		{
+			"description": "CU Recovery, a PSCU company, is a full-service collection agency managing non-performing and charged-off loans with a comprehensive menu of third-party collection services. Since 1990, CU Recovery has worked with over 2700 credit unions nationwide, and is a leading industry expert for credit union collections of all loan types.  The Loan Service Center provides first-party collection services to minimize loan loss by managing early stage delinquency.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/cu-recovery-inc-/about/"
+				]
+			},
+			"uuid": "9514273e-f820-11ea-adc1-0242ac120002",
+			"value": "CU Recovery, Inc."
+		},
+		{
+			"description": "The Trade and Development Bank (TDB), formerly the PTA Bank, is a trade and development financial institution operating in eastern and southern Africa. TDB is the financial arm of the Common Market for Eastern and Southern Africa (COMESA), although membership is open to non-COMESA states and other institutional shareholders.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Trade_and_Development_Bank"
+				]
+			},
+			"uuid": "95142806-f820-11ea-adc1-0242ac120002",
+			"value": "The Trade and Development Bank (Seychelles)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -3223,6 +3223,76 @@
 			"value": "Direccion Nacional de Migraciones"
 		},
 		{
+			"description": "Hartford Public Schools is a school district serving the city of Hartford, Connecticut. Hartford Public Schools is the largest public school district in Connecticut, serving 46 magnet and non-magnet schools in the district.",
+			"meta": {
+				"refs": [
+					"https://www.hartfordschools.org/"
+				]
+			},
+			"uuid": "fabdcd76-f819-11ea-adc1-0242ac120002",
+			"value": "Hartford Public Schools (CT)"
+		},
+		{
+			"description": "Toledo Public Schools, also known as Toledo City School District, is a public school district headquartered in Toledo, Ohio, in the United States. The district encompasses 70 square miles, serving students of the city of Toledo.",
+			"meta": {
+				"refs": [
+					"https://www.tps.org/"
+				]
+			},
+			"uuid": "fabdcfb0-f819-11ea-adc1-0242ac120002",
+			"value": "Toledo Public Schools"
+		},
+		{
+			"description": "Trinity Area School District is a public school district located outside the city of Washington in southwestern Pennsylvania. It serves the Pittsburgh exurbs of Canton Township, South Strabane Township, and North Franklin Township, as well as rural Amwell Township.",
+			"meta": {
+				"refs": [
+					"https://www.trinitypride.org/"
+				]
+			},
+			"uuid": "fabdd0be-f819-11ea-adc1-0242ac120002",
+			"value": "Trinity Area School District"
+		},
+		{
+			"description": "Chesterfield County Public Schools is the public school system of Chesterfield County, Virginia, United States. As of 2015, there are about 59,000 students enrolled in 63 schools.",
+			"meta": {
+				"refs": [
+					"https://mychesterfieldschools.com/"
+				]
+			},
+			"uuid": "fabdd190-f819-11ea-adc1-0242ac120002",
+			"value": "Chesterfield County Public Schools"
+		},
+		{
+			"description": "The Fairfax County Public Schools system is a school division in the U.S. commonwealth of Virginia. It is a branch of the Fairfax County government which administers public schools in Fairfax County and the City of Fairfax.",
+			"meta": {
+				"refs": [
+					"https://www.fcps.edu/node/24745"
+				]
+			},
+			"uuid": "fabdd258-f819-11ea-adc1-0242ac120002",
+			"value": "Fairfax County Public Schools"
+		},
+		{
+			"description": "The 4th Judicial District of the Louisiana District Courts covers Ouachita Parish and Morehouse Parish. It is one of Louisiana's 42 judicial districts. The court handles civil, criminal, and juvenile cases, which are usually heard in Monroe and Bastrop.",
+			"meta": {
+				"refs": [
+					"https://ballotpedia.org/4th_Judicial_District,_Louisiana"
+				]
+			},
+			"uuid": "b5f1ea14-f81a-11ea-adc1-0242ac120002",
+			"value": "4th Judicial District, Louisiana"
+		},
+		{
+			"description": "The Somerset Hills Regional School District is a comprehensive regional public school district serving students in pre-kindergarten through twelfth grade from four communities in Somerset County, New Jersey, United States.",
+			"meta": {
+				"refs": [
+					"http://somersethills.ss8.sharpschool.com/"
+				]
+			},
+			"uuid": "b5f1ec30-f81a-11ea-adc1-0242ac120002",
+			"value": "Somerset Hills Regional School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

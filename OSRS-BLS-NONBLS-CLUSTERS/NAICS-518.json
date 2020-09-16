@@ -127,6 +127,16 @@
       "value": "Pivot Technology Solutions, Inc."
     },
 	{
+      "description": "Equinix, Inc. is an American multinational company headquartered in Redwood City, California, that specializes in Internet connection and data centers. The company is a leader in global colocation data center market share, with 205 data centers in 25 countries on five continents.",
+      "meta": {
+        "refs": [
+          "https://www.equinix.com/"
+        ]
+      },
+      "uuid": "c4e5eef8-f81f-11ea-adc1-0242ac120002",
+      "value": "Equinix, Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

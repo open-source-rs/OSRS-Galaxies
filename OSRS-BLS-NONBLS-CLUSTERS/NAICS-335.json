@@ -47,6 +47,36 @@
       "value": "Forsee Power"
     },
 	{
+      "description": "Tower Semiconductor Ltd., Is an Israeli-American company that manufactures integrated circuits using specialty process technologies, including SiGe, BiCMOS, SOI, mixed-signal and RFCMOS, CMOS image sensors, non-imaging sensors, power management, and non-volatile memory as well as MEMS capabilities.",
+      "meta": {
+        "refs": [
+          "https://towersemi.com/"
+        ]
+      },
+      "uuid": "2ba42a74-f820-11ea-adc1-0242ac120002",
+      "value": "Tower Semiconductor Ltd. (TSEM)"
+    },
+	{
+      "description": "SK hynix Inc. is a South Korean memory semiconductor supplier of dynamic random-access memory chips and flash memory chips. Hynix is the world's second-largest memory chipmaker and the world's 3rd-largest semiconductor company.",
+      "meta": {
+        "refs": [
+          "https://www.skhynix.com/"
+        ]
+      },
+      "uuid": "2ba42d08-f820-11ea-adc1-0242ac120002",
+      "value": "SK hynix Inc."
+    },
+	{
+      "description": "Razer Inc. is a Singaporean–American multinational technology company that designs, develops, and sells consumer electronics, financial services, and gaming hardware. Founded by Min-Liang Tan and Robert Krakoff, the company is headquartered in Queenstown, Singapore and Irvine, California, United States.",
+      "meta": {
+        "refs": [
+          "https://www.razer.com/"
+        ]
+      },
+      "uuid": "2ba42e20-f820-11ea-adc1-0242ac120002",
+      "value": "Razer Inc."
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

@@ -1795,6 +1795,19 @@
       "value": "OSRS SecTool: Donut (.NET Assembly Tool)"
     },
 	{
+      "description": "EPPlus is a .NET library that reads and writes Excel files using the Office Open XML format (xlsx). EPPlus has no dependencies other than .NET.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/JanKallman/EPPlus"
+        ]
+      },
+      "uuid": "1ed6ff3a-f82d-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: EPPlus"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

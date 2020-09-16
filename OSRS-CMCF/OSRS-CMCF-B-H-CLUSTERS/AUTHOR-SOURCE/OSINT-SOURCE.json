@@ -2768,6 +2768,124 @@
       "uuid": "6e3c03d2-f372-11ea-adc1-0242ac120002",
       "value": "OSRS OSINT Source: The DFIR Report"
     },
+ 	{
+      "description": "Online cybersecurity blog provided by the cybersecurity vendor Minerva Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.minerva-labs.com/"
+        ]
+      },
+      "uuid": "abe152f0-f827-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Minerva Labs Blog"
+    },
+	{
+      "description": "Online cybersecurity blog provided by the cybersecurity vendor Team Cymru.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://team-cymru.com/resources/blog/"
+        ]
+      },
+      "uuid": "abe15520-f827-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Team Cymru Dragon News Blog"
+    },
+	{
+      "description": "Online cybersecurity blog provided by the cybersecurity vendor Positive Technologies.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/"
+        ]
+      },
+      "uuid": "abe1561a-f827-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: PT ESC Threat Intelligence"
+    },
+	{
+      "description": "Read CTech to keep a tab on deals in Israeli tech, get the latest scoop on Israeli innovation, and brush up on local politics, culture and cuisine. Founded in the summer of 2017, CTech is led by Yoel Esteron, the founder and publisher of Calcalist.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.calcalistech.com/ctech/home/0,7340,L-5211,00.html",
+		  "https://www.calcalistech.com/ctech/home/0,7340,L-5246,00.html"
+        ]
+      },
+      "uuid": "abe1593a-f827-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: CTech Online"
+    },
+	{
+      "description": "WFSB, virtual channel 3, is a CBS-affiliated television station licensed to Hartford, Connecticut, United States and serving the Hartford–New Haven television market. The station is owned by the Meredith Local Media subsidiary of Des Moines, Iowa-based Meredith Corporation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wfsb.com/"
+        ]
+      },
+      "uuid": "abe15a3e-f827-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: WFSB News 3"
+    },
+	{
+      "description": "The Colorado Daily is a newspaper published in Boulder, Colorado, by Prairie Mountain Publishing Co. LLC, a unit of MediaNews Group. The Daily is operated out of the offices of Boulder's Daily Camera newspaper.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.coloradodaily.com/"
+        ]
+      },
+      "uuid": "d480b41e-f82a-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Colorado Daily"
+    },
+	{
+      "description": "NJ.com is a digital news content provider and website in New Jersey owned by Advance Publications. According to a report in The New York Times in 2012, it was the largest provider of digital news in the state at the time.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.nj.com/"
+        ]
+      },
+      "uuid": "d480b630-f82a-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: NJ.com True Jersey News"
+    },
+	{
+      "description": "Visit FierceHealthcare for healthcare industry news on healthcare reform, health IT, healthcare companies, CMS, managed care, and other healthcare news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.fiercehealthcare.com/"
+        ]
+      },
+      "uuid": "d480b7c0-f82a-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Fierce Healthcare Online"
+    },
+	{
+      "description": "Online cybersecurity forums for the discussion of cybersecurity related information provided by the cybersecurity group SANS.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://isc.sans.edu/forums/"
+        ]
+      },
+      "uuid": "d480b89c-f82a-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: SANS ISC InfoSec Forums"
+    },
 	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {

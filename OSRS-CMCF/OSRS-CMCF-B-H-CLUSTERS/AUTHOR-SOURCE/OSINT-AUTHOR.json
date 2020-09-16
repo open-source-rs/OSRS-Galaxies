@@ -6891,6 +6891,149 @@
       "value": "OSRS OSINT Author Index: The DFIR Report Researchers"
     },
 	{
+      "description": "Security Researcher at Minerva Labs. Netanya Area, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tom-roter-36aa4819a/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "9d54f464-f825-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tom Roter"
+    },
+	{
+      "description": "Malware Analyst at Team Cymru. Greater Pittsburgh Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nick-byers-b039304/"
+        ]
+      },
+      "uuid": "9d54f694-f825-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Nick Byers"
+    },
+	{
+      "description": "Asher Langton is a researcher at Juniper Threat Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blogs.juniper.net/author/langton"
+        ]
+      },
+      "uuid": "9d54f798-f825-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Asher Langton"
+    },
+	{
+      "description": "Generic pen name used for the online blog provided by the cybersecurity vendor Positive Technologies (PT).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/"
+        ]
+      },
+      "uuid": "9d54f9dc-f825-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: PT ESC Threat Intelligence Team"
+    },
+	{
+      "description": "Editor and reporter for the online news journal Calcalist.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/meirorbach/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "9d54faae-f825-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Meir Orbach"
+    },
+	{
+      "description": "Generic pen name used by the news resource WFSB News 3.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.wfsb.com/"
+        ]
+      },
+      "uuid": "87998a08-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: WFSB News 3 Staff"
+    },
+	{
+      "description": "Reporter at Daily Camera. Greater Denver Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/amy-bounds-38655032/"
+        ]
+      },
+      "uuid": "87998f76-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Amy Bounds"
+    },
+	{
+      "description": "Columnist, The Star-Ledger and NJ.com. Founder, NJMoneyHelp.com. Greater New York City Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/karin-price-mueller-2a17896/"
+        ]
+      },
+      "uuid": "8799908e-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Karin Price Mueller"
+    },
+	{
+      "description": "Heather Landi is a senior editor at Fierce Healthcare, overseeing the team's coverage of health IT and digital health news and trends across the country. She has covered the healthcare technology market for several years in the business-to-business media space.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fiercehealthcare.com/author/heather-landi"
+        ]
+      },
+      "uuid": "8799928c-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Heather Landi"
+    },
+	{
+      "description": "Security Researcher at Microsoft. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/yossi-weizman-6b24b01b3/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "87999368-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Yossi Weizman"
+    },
+	{
+      "description": "Principal Security Software Engineer at Microsoft. Gloucester, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ross-bevington-854440152/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "87999430-f826-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ross Bevington"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

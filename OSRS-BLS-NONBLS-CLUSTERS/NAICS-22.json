@@ -88,6 +88,16 @@
       "value": "EDP Renewables North America (EDPR NA)"
     },
 	{
+      "description": "K-Electric is a Pakistani investor-owned utility managing all three key stages – generation, transmission and distribution – of producing and delivering energy to consumers. This is a Pakistani electric supply company, based in Karachi, Sindh, Pakistan.",
+      "meta": {
+        "refs": [
+          "https://www.ke.com.pk/"
+        ]
+      },
+      "uuid": "62be5e74-f822-11ea-adc1-0242ac120002",
+      "value": "K-Electric"
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [

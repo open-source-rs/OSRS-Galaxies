@@ -245,6 +245,16 @@
 			"value": "The Jewish Federation of Greater Washington"
 		},
 		{
+			"description": "The BCH Foundation is a nonprofit organization that works to enhance the quality and availability of health care services offered by Boulder Community Health.",
+			"meta": {
+				"refs": [
+					"https://www.bch.org/Foundation.aspx"
+				]
+			},
+			"uuid": "62be5c4e-f822-11ea-adc1-0242ac120002",
+			"value": "Boulder Community Health Foundation"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

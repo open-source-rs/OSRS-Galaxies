@@ -1396,6 +1396,26 @@
 			"value": "Atrium Health"
 		},
 		{
+			"description": "NorthShore University HealthSystem is an integrated healthcare delivery system serving patients throughout the Chicago metropolitan area.",
+			"meta": {
+				"refs": [
+					"https://www.northshore.org/"
+				]
+			},
+			"uuid": "49c18a1e-f821-11ea-adc1-0242ac120002",
+			"value": "NorthShore University HealthSystem"
+		},
+		{
+			"description": "Inova Health System is a non-profit health organization based in Falls Church, Virginia, near Washington, D.C. The system is a network of hospitals, outpatient services, assisted living and long-term care facilities, and healthcare centers.",
+			"meta": {
+				"refs": [
+					"https://www.inova.org/"
+				]
+			},
+			"uuid": "49c18c44-f821-11ea-adc1-0242ac120002",
+			"value": "Inova Health System"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

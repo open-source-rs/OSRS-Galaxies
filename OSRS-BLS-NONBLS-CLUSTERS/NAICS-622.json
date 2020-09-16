@@ -636,6 +636,26 @@
 			"value": "Roper St. Francis Hospital"
 		},
 		{
+			"description": "Saraburi Hospital is the main hospital of Saraburi Province, Thailand and is classified under the Ministry of Public Health as a regional hospital. It has a CPIRD Medical Education Center which trains doctors for the Faculty of Medicine of Thammasat University.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Saraburi_Hospital"
+				]
+			},
+			"uuid": "49c18d3e-f821-11ea-adc1-0242ac120002",
+			"value": "Saraburi Hospital"
+		},
+		{
+			"description": "Enloe Medical Center provides expert care for comprehensve medical services in Chico, CA.",
+			"meta": {
+				"refs": [
+					"https://www.enloe.org/"
+				]
+			},
+			"uuid": "49c18e06-f821-11ea-adc1-0242ac120002",
+			"value": "Enloe Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

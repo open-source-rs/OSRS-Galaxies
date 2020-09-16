@@ -1899,6 +1899,46 @@
       "value": "OSRS Actors AND Campaigns: Epic Manchego Campaign"
     },
 	{
+      "description": "The group was identified by experts from PT Expert Security Center in 2018 and used an unusual method of anchoring in the infrastructure, based on creating specific tasks (tasks) in the task scheduler. Which was the reason for the name - TaskMasters. The GitHub code for the ASPXSpy2014 web shell used in the attack contains links to Chinese developers. However, the version we found contains a link to google.com instead.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/shadowpad-novaya-aktivnost-gruppirovki-winnti/",
+		  "https://www.ptsecurity.com/upload/corporate/ru-ru/analytics/Operation-Taskmasters-2019-rus.pdf"
+        ]
+      },
+      "uuid": "465529ea-f81b-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TaskMasters Group"
+    },
+	{
+      "description": "The cybercrime group TeamTNT has been tracked by various research groups for a while now, with several articles that were written about their activity that is focused on Docker workloads. In May, TrendMicro research team described the group’s attempts to spread cryptocurrency miners via exposed Docker API servers. In August, Aqua Security released an analysis of several images that are stored under TeamTNT’s Dockerhub account - hildeteamtnt.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://techcommunity.microsoft.com/t5/azure-security-center/teamtnt-activity-targets-weave-scope-deployments/ba-p/1645968"
+        ]
+      },
+      "uuid": "46552c10-f81b-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TeamTNT Cybercrime Group"
+    },
+	{
+      "description": "Named Malsmoke, the group has operated on a scale far above similar other cybercrime operations and has abused practically all adult ad networks. According to cyber-security firm Malwarebytes, which has been tracking Malsmoke's attacks, for most of the time, the group has managed to place malicious ads (malverts) on mid-tier adult portals, but they recently hit the jackpot when they managed to sneak malverts on xHamster, one of the biggest adult video portals today, and one of the biggest sites on the internet, with billions of visitors each month. The role of the group's malicious ads was to use JavaScript trickery and redirect users from the adult portal to a malicious site that was hosting an exploit kit. The exploit kits would then use vulnerabilities in Adobe Flash Player or Internet Explorer to install malware on the user's computers, with the most common payloads being Smoke Loader, Raccoon Stealer, and ZLoader. Naturally, only users still using Internet Explorer or Adobe Flash were targeted by these malicious ads. The attacks can be considered as a last hurrah attempt to infect users with old-school hacking tools like exploit kits, whose usage has declined in recent years as modern browsers have become harder to hack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/porn-site-users-targeted-with-malicious-ads-redirecting-to-exploit-kits-malware/#ftag=RSSbaffb68"
+        ]
+      },
+      "uuid": "46552f44-f81b-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Malsmoke Threat Actor"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
