@@ -7034,6 +7034,149 @@
       "value": "OSRS OSINT Author Index: Ross Bevington"
     },
 	{
+      "description": "Reporter at Great Falls Tribune. Great Falls, Montana Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/skylar-rispens-2510a9137/"
+        ]
+      },
+      "uuid": "e05149c0-fda7-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Skylar Rispens"
+    },
+	{
+      "description": "Digital News Editor at KPRC. Houston, Texas.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/brittany-taylor-84917998/"
+        ]
+      },
+      "uuid": "e0514b50-fda7-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Brittany Taylor"
+    },
+	{
+      "description": "Generic pen name used for KCCI Des Moines News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.kcci.com/"
+        ]
+      },
+      "uuid": "e0514d76-fda7-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: KCCI Des Moines News Desk"
+    },
+	{
+      "description": "Metro Reporter at Los Angeles Times. San Gabriel, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/andrew-j-campa-b8b194112/"
+        ]
+      },
+      "uuid": "e0514e5c-fda7-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Andrew J. Campa"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Checkpoint.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/"
+        ]
+      },
+      "uuid": "06e01c28-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: David Driker"
+    },
+	{
+      "description": "Team Leader at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/amirlandau/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "06e01ebc-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Amir Landau"
+    },
+	{
+      "description": "Senior Threat Researcher at IBM. Greater New York City Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dave-mcmillen-a6503b2/"
+        ]
+      },
+      "uuid": "06e01fb6-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Dave McMillen"
+    },
+	{
+      "description": "Malware Reverse Engineer at IBM. Austin, Texas Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/wei-gao-72a0a023/"
+        ]
+      },
+      "uuid": "06e02092-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Wei Gao"
+    },
+	{
+      "description": "Cyber Threat Expert, CISSP, J.D. Minneapolis, Minnesota.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/charles-debeck-7648ba19/"
+        ]
+      },
+      "uuid": "06e0215a-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Charles DeBeck"
+    },
+	{
+      "description": "Principal Researcher at Sophos. Greater Denver Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/"
+        ]
+      },
+      "uuid": "d03ce22c-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Andrew Brandt"
+    },
+	{
+      "description": "Incident Response Manager at Sophos. Oxford, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/"
+        ]
+      },
+      "uuid": "d03ce54c-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Peter Mackenzie"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

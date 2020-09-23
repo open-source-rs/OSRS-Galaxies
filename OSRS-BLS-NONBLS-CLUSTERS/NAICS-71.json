@@ -147,6 +147,16 @@
       "value": "V Shred"
     },
 	{
+      "description": "Activision Publishing, Inc. is an American video game publisher based in Santa Monica, California. It currently serves as the publishing business for its parent company, Activision Blizzard, and consists of several subsidiary studios.",
+      "meta": {
+        "refs": [
+          "https://www.activision.com/home"
+        ]
+      },
+      "uuid": "7c01d618-fda4-11ea-adc1-0242ac120002",
+      "value": "Activision Publishing, Inc."
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

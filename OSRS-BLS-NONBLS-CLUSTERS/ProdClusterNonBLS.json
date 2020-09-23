@@ -3293,6 +3293,106 @@
 			"value": "Somerset Hills Regional School District"
 		},
 		{
+			"description": "The United States Department of Veterans Affairs (VA) is a federal Cabinet-level agency that provides near-comprehensive healthcare services to eligible military veterans at VA medical centers and outpatient clinics located throughout the country. Several non-healthcare benefits including disability compensation, vocational rehabilitation, education assistance, home loans, and life insurance and provides burial and memorial benefits to eligible veterans and family members at 135 national cemeteries.",
+			"meta": {
+				"refs": [
+					"https://www.va.gov/"
+				]
+			},
+			"uuid": "2b1842e2-fd9e-11ea-adc1-0242ac120002",
+			"value": "United States Department of Veterans Affairs"
+		},
+		{
+			"description": "Public Health Wales is an NHS Trust which was established on 1 October 2009 as part of a major restructuring of the health service in Wales. It aims to protect and improve health and wellbeing and reduce health inequalities in Wales.",
+			"meta": {
+				"refs": [
+					"https://phw.nhs.wales/"
+				]
+			},
+			"uuid": "2b184508-fd9e-11ea-adc1-0242ac120002",
+			"value": "Public Health Wales"
+		},
+		{
+			"description": "The Great Falls Public Schools is a public school district which covers the city limits of Great Falls, Montana, in the United States. As of March 2010, it was the second-largest school district in the state of Montana, and the third-largest employer in the city of Great Falls.",
+			"meta": {
+				"refs": [
+					"https://gfps.k12.mt.us/"
+				]
+			},
+			"uuid": "2b184602-fd9e-11ea-adc1-0242ac120002",
+			"value": "Great Falls Public Schools"
+		},
+		{
+			"description": "The Floral Park-Bellerose Union Free School District is comprised of approximately 1550 students.  Our two schools, Floral Park-Bellerose Elementary School and John Lewis Childs Elementary School, house grades PreK-6 on a neighborhood basis.  Students continue their education for grades 7-12 at Floral Park Memorial High School, which is part of the Sewanhaka Central High School District.  Our district provides a continuum of programs, placements, and related services to meet the needs of children across the educational continuum.  Our district proudly supports the academic and the mental wellness of every child with teacher expertise and programs that encourage growth for all.",
+			"meta": {
+				"refs": [
+					"https://www.fpbsd.org/"
+				]
+			},
+			"uuid": "2b1846d4-fd9e-11ea-adc1-0242ac120002",
+			"value": "Floral Park-Bellerose Union Free School District"
+		},
+		{
+			"description": "The Jekyll Island Authority is a self-supporting state entity responsible for the overall management and stewardship of Jekyll Island.",
+			"meta": {
+				"refs": [
+					"https://www.jekyllisland.com/jekyll-island-authority/"
+				]
+			},
+			"uuid": "2b1848f0-fd9e-11ea-adc1-0242ac120002",
+			"value": "Jekyll Island Authority"
+		},
+		{
+			"description": "California public school district located in Valencia, CA.",
+			"meta": {
+				"refs": [
+					"https://www.newhallschooldistrict.com/"
+				]
+			},
+			"uuid": "0e6e30ba-fd9f-11ea-adc1-0242ac120002",
+			"value": "Newhall School District"
+		},
+		{
+			"description": "The National Informatics Centre is an attached office under the Ministry of Electronics and Information Technology in the Indian government. The NIC provides infrastructure to help support the delivery of government IT services and the delivery of some of the initiatives of Digital India.",
+			"meta": {
+				"refs": [
+					"https://www.nic.in/"
+				]
+			},
+			"uuid": "0e6e32c2-fd9f-11ea-adc1-0242ac120002",
+			"value": "The National Informatics Centre"
+		},
+		{
+			"description": "Skidmore-Tynan ISD is a school district which serves Skidmore and Tynan, Texas. The district is home to three schools: Skidmore-Tynan High School, Skidmore-Tynan Junior High School, and Skidmore-Tynan Elementary School.",
+			"meta": {
+				"refs": [
+					"https://www.stbobcats.net/"
+				]
+			},
+			"uuid": "0e6e33bc-fd9f-11ea-adc1-0242ac120002",
+			"value": "Skidmore-Tynan Independent School District"
+		},
+		{
+			"description": "Carmel is a city north of Indianapolis in Indiana. Home to 101,068 residents, the city spans 47 square miles across Clay Township in Hamilton County, Indiana, and is bordered by the White River to the east; Michigan Road and the county line to the west; 96th Street to the south and 146th Street to the north.",
+			"meta": {
+				"refs": [
+					"https://www.carmel.in.gov/"
+				]
+			},
+			"uuid": "0e6e3524-fd9f-11ea-adc1-0242ac120002",
+			"value": "City of Carmel"
+		},
+		{
+			"description": "Public health authority located in and serving Spokane, WA.",
+			"meta": {
+				"refs": [
+					"https://srhd.org/"
+				]
+			},
+			"uuid": "0e6e35ec-fd9f-11ea-adc1-0242ac120002",
+			"value": "The Spokane Regional Health District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

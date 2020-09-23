@@ -77,6 +77,26 @@
       "value": "Instacart"
     },
 	{
+      "description": "Manitoulin Transport is a leading Canadian transportation and logistics solutions provider.  As a single-source carrier, we offer a wide array of transportation services, including expedited-over-the-road LTL/TL, transborder, intermodal, private fleet, guaranteed service, temperature controlled and dangerous goods. Manitoulin leverages its extensive network to deliver services to major rural and urban areas.   Our North American distribution covers more than 60 Canadian terminals and over 250 U.S. service centres.  The Manitoulin network is supported by its state-of-the-art technology by providing 24/7 online shipping assistance.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/manitoulin-transport"
+        ]
+      },
+      "uuid": "27e12ec8-fda7-11ea-adc1-0242ac120002",
+      "value": "Manitoulin Transport"
+    },
+	{
+      "description": "Our company is a subsidiary of the Austrian Post with stable international background, one of the most important domestic courier service provider in next day guaranteed delivery. With goal of express delivery from door to door in 24 hours, our employees give their utmost best in handling packages that come our way. Our job is completed when both customers and business partners are satisfied with our work. By continuously upgrading our technology and educating our employees, Overseas Express is striving to fulfill customers expectation.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/overseas-trade-co.-ltd.-d.o.o.?trk=similar-pages_result-card_full-click"
+        ]
+      },
+      "uuid": "27e13152-fda7-11ea-adc1-0242ac120002",
+      "value": "Overseas Trade Co., Ltd. d.o.o."
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

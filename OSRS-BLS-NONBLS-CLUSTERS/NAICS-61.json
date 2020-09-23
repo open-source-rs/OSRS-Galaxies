@@ -878,6 +878,26 @@
 			"value": "Newcastle University"
 		},
 		{
+			"description": "Guilford Technical Community College is a public community college in the Piedmont Triad of North Carolina. Guilford Technical Community College also has a campus in Jamestown and High Point.",
+			"meta": {
+				"refs": [
+					"https://www.gtcc.edu/"
+				]
+			},
+			"uuid": "7c01d712-fda4-11ea-adc1-0242ac120002",
+			"value": "Guilford Technical Community College"
+		},
+		{
+			"description": "The University of Tasmania is a public research university primarily located in Tasmania, Australia. Founded in 1890, it is Australia's fourth oldest university. Christ College, one of the university's residential colleges, was founded in 1846 and is the oldest tertiary institution in the country.",
+			"meta": {
+				"refs": [
+					"https://www.utas.edu.au/"
+				]
+			},
+			"uuid": "7c01d7da-fda4-11ea-adc1-0242ac120002",
+			"value": "The University of Tasmania"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

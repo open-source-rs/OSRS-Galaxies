@@ -1044,6 +1044,19 @@
       "value": "OSRS Ransomware: Zeppelin Ransomware"
     },
 	{
+      "description": "SunCrypt is a ransomware operation that began its activities in October 2019 but was not very active. Over the past few months, they have become much more active since releasing a dedicated leak site.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/university-hospital-new-jersey-hit-by-suncrypt-ransomware-data-leaked/"
+        ]
+      },
+      "uuid": "94791b74-fdaa-11ea-adc1-0242ac120002",
+      "value": "OSRS Ransomware: SunCrypt Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

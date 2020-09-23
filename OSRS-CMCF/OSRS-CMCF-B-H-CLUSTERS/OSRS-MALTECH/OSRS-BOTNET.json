@@ -567,6 +567,46 @@
       "value": "OSRS Botnet: Ngrok Mining Botnet"
     },
 	{
+      "description": "Tencent Security has named this new malware gang MrbMiner, after one of the domains used by the group to host their malware. The Chinese company says the botnet has exclusively spread by scanning the internet for MSSQL servers and then performing brute-force attacks by repeatedly trying the admin account with various weak passwords. Once the attackers gained a foothold on a system, they downloaded an initial assm.exe file, which they used to establish a (re)boot persistence mechanism and to add a backdoor account for future access. The last step of the infection process was to connect to the command and control server and download an app that mines the Monero (XMR) cryptocurrency by abusing local server resources and generating XMR coins into accounts controlled by the attackers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://s.tencent.com/research/report/1105.html",
+		  "https://www.zdnet.com/article/new-mrbminer-malware-has-infected-thousands-of-mssql-databases/"
+        ]
+      },
+      "uuid": "ecfb1640-fd9f-11ea-adc1-0242ac120002",
+      "value": "OSRS Botnet: MrbMiner Botnet"
+    },
+	{
+      "description": "Researchers encountered an attack that drops both a malicious cryptocurrency miner and a distributed denial-of-service (DDoS) bot on a Docker container built using Alpine Linux as its base image. A similar attack was also reported by Trend Micro in May; in that previous attack, threat actors created a malicious Alpine Linux container to also host a malicious cryptocurrency miner and a DDoS bot.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/20/i/exposed-docker-server-abused-to-drop-cryptominer-ddos-bot-.html"
+        ]
+      },
+      "uuid": "ecfb1848-fd9f-11ea-adc1-0242ac120002",
+      "value": "OSRS Botnet: H2Miner Botnet"
+    },
+	{
+      "description": "Spreader botnet for the distribution of miners.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/"
+        ]
+      },
+      "uuid": "ecfb1938-fd9f-11ea-adc1-0242ac120002",
+      "value": "OSRS Botnet: Rudeminer Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

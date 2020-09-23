@@ -1416,6 +1416,26 @@
 			"value": "Inova Health System"
 		},
 		{
+			"description": "UnityPoint Health is a network of hospitals, clinics and home care services in Iowa, Illinois and Wisconsin. The system began in 1993, when Iowa Lutheran Hospital and Iowa Methodist Hospital in Des Moines merged, forming the state’s largest provider of hospital and related health services.",
+			"meta": {
+				"refs": [
+					"https://www.unitypoint.org/"
+				]
+			},
+			"uuid": "59572540-fda5-11ea-adc1-0242ac120002",
+			"value": "UnityPoint Health"
+		},
+		{
+			"description": "Geisinger is comprised of 13 hospital campuses, two research centers, a college of medicine and a nearly 600,000-member health plan serving more than three million residents in central, south-central and northeast Pennsylvania and beyond. We have approximately 26,500 employees, including over 1,700 employed physicians, all of whom share a commitment to quality healthcare.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/geisinger"
+				]
+			},
+			"uuid": "59572798-fda5-11ea-adc1-0242ac120002",
+			"value": "Geisinger"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -2887,6 +2887,45 @@
       "value": "OSRS OSINT Source: SANS ISC InfoSec Forums"
     },
 	{
+      "description": "The Great Falls Tribune is a daily morning newspaper printed in Great Falls, Montana. It's one of Montana's largest newspaper companies. The Great Falls Tribune won the Pulitzer Prize for explanatory journalism in 2000 for a yearlong series on alcoholism.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.greatfallstribune.com/"
+        ]
+      },
+      "uuid": "d03ce650-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Great Falls Tribune"
+    },
+	{
+      "description": "KPRC-TV, virtual channel 2, is an NBC-affiliated television station licensed to Houston, Texas, United States. The station is owned by the Graham Media Group subsidiary of the Graham Holdings Company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.click2houston.com/"
+        ]
+      },
+      "uuid": "d03ced26-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: KPRC-TV (Click2Houston)"
+    },
+	{
+      "description": "KCCI, virtual and VHF digital channel 8, is a CBS-affiliated television station licensed to Des Moines, Iowa, United States. The station is owned by the Hearst Television subsidiary of Hearst Communications.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://isc.sans.edu/forums/"
+        ]
+      },
+      "uuid": "d03cee66-fda9-11ea-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: KCCI Des Moines"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

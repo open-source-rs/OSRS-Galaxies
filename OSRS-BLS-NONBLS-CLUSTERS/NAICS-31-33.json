@@ -247,6 +247,16 @@
       "value": "Konica Minolta, Inc."
     },
 	{
+      "description": "IPG Photonics is a manufacturer of fiber lasers. IPG Photonics developed and commercialized optical fiber lasers, which are used in a variety of applications including materials processing, medical applications and telecommunications. IPG has manufacturing facilities in the United States, Germany, Russia and Italy.",
+      "meta": {
+        "refs": [
+          "https://www.ipgphotonics.com/"
+        ]
+      },
+      "uuid": "a838984c-fda5-11ea-adc1-0242ac120002",
+      "value": "IPG Photonics"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

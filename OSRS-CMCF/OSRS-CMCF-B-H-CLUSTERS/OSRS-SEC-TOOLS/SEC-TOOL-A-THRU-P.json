@@ -1808,6 +1808,19 @@
       "value": "OSRS SecTool: EPPlus"
     },
 	{
+      "description": "Project OneFuzz enables continuous developer-driven fuzzing to proactively harden software prior to release. With a single command, which can be baked into CICD, developers can launch fuzz jobs from a few virtual machines to thousands of cores.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/microsoft/onefuzz"
+        ]
+      },
+      "uuid": "94792362-fdaa-11ea-adc1-0242ac120002",
+      "value": "OSRS SecTool: OneFuzz (Project OneFuzz)"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

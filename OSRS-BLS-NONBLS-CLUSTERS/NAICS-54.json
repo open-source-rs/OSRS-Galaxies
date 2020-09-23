@@ -2674,6 +2674,26 @@
 			"value": "Artech Information Systems"
 		},
 		{
+			"description": "Automated Retention Marketing Platform.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/mailfire"
+				]
+			},
+			"uuid": "57f818ca-fda6-11ea-adc1-0242ac120002",
+			"value": "Mailfire"
+		},
+		{
+			"description": "ArbiterSports is the sports officiating software company of the National Collegiate Athletic Association, and is a venture between two NCAA subsidiaries, Arbiter LLC and eOfficials LLC. The company is based in Sandy, Utah.",
+			"meta": {
+				"refs": [
+					"http://www.arbitersports.com/"
+				]
+			},
+			"uuid": "57f819c4-fda6-11ea-adc1-0242ac120002",
+			"value": "ArbiterSports"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

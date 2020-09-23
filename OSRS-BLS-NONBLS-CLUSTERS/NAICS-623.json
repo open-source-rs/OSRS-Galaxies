@@ -57,6 +57,16 @@
 			"value": "Manor Hall Nursing Home, UK"
 		},
 		{
+			"description": "Anglicare Sydney provides retirement living, aged care, and  community care services to people in the Greater Sydney and the Illawarra Region.  As one of Australia's largest Christian care organisations, Anglicare Sydney reaches out to tens of thousands of people every year. Anglicare Sydney provides care for all people by addressing emotional, social and physical needs and by bringing the gospel message of Jesus that alone meets spiritual needs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/anglicare-sydney"
+				]
+			},
+			"uuid": "57f8164a-fda6-11ea-adc1-0242ac120002",
+			"value": "Anglicare Sydney"
+		},
+		{
 			"description": "Facility the provides assited living for seniors located in Seattle Washington, USA.",
 			"meta": {
 				"refs": [

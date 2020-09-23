@@ -47,6 +47,16 @@
       "value": "Billabong International Limited"
     },
 	{
+      "description": "Luxottica Group S.p.A. is an Italian eyewear conglomerate and the world's largest company in the eyewear industry. It is based in Milan, Italy.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/luxottica"
+        ]
+      },
+      "uuid": "7c01d3fc-fda4-11ea-adc1-0242ac120002",
+      "value": "Luxottica Group S.p.A."
+    },
+	{
       "description": "Uniqlo Co., Ltd. is a Japanese casual wear designer, manufacturer and retailer. The company is a wholly owned subsidiary of Fast Retailing Co., Ltd. The company operates in Japan and several other countries.",
       "meta": {
         "refs": [

@@ -77,6 +77,16 @@
       "value": "Razer Inc."
     },
 	{
+      "description": "The Yaskawa Electric Corporation is a Japanese manufacturer of servos, motion controllers, AC motor drives, switches and industrial robots. Their Motoman robots are heavy duty industrial robots used in welding, packaging, assembly, coating, cutting, material handling and general automation.",
+      "meta": {
+        "refs": [
+          "https://www.yaskawa-global.com/"
+        ]
+      },
+      "uuid": "7c01d898-fda4-11ea-adc1-0242ac120002",
+      "value": "The Yaskawa Electric Corporation"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

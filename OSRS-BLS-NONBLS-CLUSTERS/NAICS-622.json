@@ -656,6 +656,46 @@
 			"value": "Enloe Medical Center"
 		},
 		{
+			"description": "University Hospital is an independent, state owned, teaching hospital in Newark, New Jersey that provides tertiary care to Northern New Jersey. The hospital is certified by the American College of Surgeons and is a state-designated Level 1 Trauma Center, one of only three in New Jersey.",
+			"meta": {
+				"refs": [
+					"http://www.uhnj.org/"
+				]
+			},
+			"uuid": "a8389130-fda5-11ea-adc1-0242ac120002",
+			"value": "University Hospital New Jersey (UHNJ)"
+		},
+		{
+			"description": "Texas Children's Hospital is a nationally ranked freestanding 724-bed, pediatric acute care children's hospital located in Houston, Texas. It is affiliated with the Baylor College of Medicine and is located within the Texas Medical Center.",
+			"meta": {
+				"refs": [
+					"https://www.texaschildrens.org/"
+				]
+			},
+			"uuid": "a8389450-fda5-11ea-adc1-0242ac120002",
+			"value": "Texas Children's Hospital"
+		},
+		{
+			"description": "The University Hospital of Düsseldorf is located in the south of Düsseldorf, the state capital of the German state of North Rhine-Westphalia and center of the populous Rhine-Ruhr metropolitan region. It treats approximately 45,000 inpatients and 300,000 outpatients every year in 32 clinics and 34 institutes",
+			"meta": {
+				"refs": [
+					"https://www.uni-duesseldorf.de/home/en/university-hospital.html"
+				]
+			},
+			"uuid": "a83895ea-fda5-11ea-adc1-0242ac120002",
+			"value": "University Hospital of Düsseldorf"
+		},
+		{
+			"description": "Montefiore Medical Center is a premier academic medical center and the primary teaching hospital of the Albert Einstein College of Medicine in the Bronx, New York City.",
+			"meta": {
+				"refs": [
+					"https://www.montefiore.org/"
+				]
+			},
+			"uuid": "a838972a-fda5-11ea-adc1-0242ac120002",
+			"value": "Montefiore Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

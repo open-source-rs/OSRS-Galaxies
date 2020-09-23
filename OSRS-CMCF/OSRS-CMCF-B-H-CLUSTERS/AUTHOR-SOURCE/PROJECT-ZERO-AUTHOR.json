@@ -77,6 +77,20 @@
       "value": "OSRS CVE Author Index: Brandon Azad"
     },
 	{
+      "description": "Ben Hawkes is a founding member and team lead of Google's 'Project Zero' security research team, where he helped develop the team's technical strategy and vulnerability disclosure policies. As a researcher, Ben discovered many vulnerabilities across a range of different software platforms (including Android, Linux, and Windows), and published research focused on vulnerability analysis and software exploitation. Prior to Project Zero, Ben worked for four years on the security of Google's product launches, with a particular focus on virtualization and sandboxing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:Project Zero Author"
+        ],
+        "refs": [
+          "https://www.crunchbase.com/person/ben-hawkes",
+		  "https://www.linkedin.com/in/ben-hawkes-256b103/"
+        ]
+      },
+      "uuid": "e0513db8-fda7-11ea-adc1-0242ac120002",
+      "value": "OSRS CVE Author Index: Ben Hawkes"
+    },
+	{
       "description": "Security researcher and CVE author. Information Security Specialist - Intern at Trend Micro.",
       "meta": {
 	  "kill_chain": [

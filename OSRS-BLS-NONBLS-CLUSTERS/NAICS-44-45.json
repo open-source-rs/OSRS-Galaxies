@@ -387,6 +387,16 @@
 			"value": "The Brown–Forman Corporation"
 		},
 		{
+			"description": "Staples Inc. is an American office retail company. It is primarily involved in the sale of office supplies and related products, via retail channels and business-to-business-oriented delivery operations. The company opened its first store in Brighton, Massachusetts on May 1, 1986.",
+			"meta": {
+				"refs": [
+					"https://www.staples.com/"
+				]
+			},
+			"uuid": "57f81aa0-fda6-11ea-adc1-0242ac120002",
+			"value": "Staples Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

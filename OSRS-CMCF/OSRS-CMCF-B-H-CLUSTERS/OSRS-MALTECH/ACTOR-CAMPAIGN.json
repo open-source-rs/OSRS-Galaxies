@@ -1939,6 +1939,19 @@
       "value": "OSRS Actors AND Campaigns: Malsmoke Threat Actor"
     },
 	{
+      "description": "Research unraveled an ongoing surveillance operation by Iranian entities that has been targeting Iranian expats and dissidents for years. Four variants of Windows infostealers intended to steal the victim’s personal documents as well as access to their Telegram Desktop and KeePass account information. Android backdoor that extracts two-factor authentication codes from SMS messages, records the phone’s voice surroundings and more. Telegram phishing pages, distributed using fake Telegram service accounts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/"
+        ]
+      },
+      "uuid": "ecfb1a00-fd9f-11ea-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Rampant Kitten (Iranian Espionage Campaign)"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
