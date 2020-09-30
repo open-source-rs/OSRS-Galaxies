@@ -2017,6 +2017,19 @@
       "value": "OSRS Actors AND Campaigns: HpReact Campaign"
     },
 	{
+      "description": "Group-IB Threat Intelligence team recently tracked a successful attack conducted on a Russian medical company by OldGremlin, a new criminal group. The threat actor encrypted the company's entire corporate network and demanded a $50,000 ransom. It is common knowledge that Russian hackers have an unspoken rule about not working within Russia and post-Soviet countries. Yet OldGremlin, made up of Russian speakers, is actively attacking Russian companies -  banks, industrial enterprises, medical organizations, software developers… According to Group-IB expert estimations, since the spring OldGremlin has conducted at least seven phishing campaigns. The hackers have impersonated the self-regulatory organization Mikrofinansirovaniye i Razvitiye (SRO MiR), a Russian metallurgical holding company, the Belarusian plant Minsk Tractor Works, a dental clinic, and the media holding company RBC.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.group-ib.com/blog/oldgremlin"
+        ]
+      },
+      "uuid": "31a02886-0335-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: OldGremlin APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
