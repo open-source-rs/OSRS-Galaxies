@@ -1821,6 +1821,33 @@
       "value": "OSRS SecTool: OneFuzz (Project OneFuzz)"
     },
 	{
+      "description": "Allows for the extraction of KeePass 2.X key material from memory, as well as the backdooring and enumeration of the KeePass trigger system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/HarmJ0y/KeeThief"
+        ]
+      },
+      "uuid": "b040cb64-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: KeyTheif"
+    },
+	{
+      "description": "The Phish Scale uses a rating system that is based on the message content in a phishing email. This can consist of cues that should tip users off about the legitimacy of the email and the premise of the scenario for the target audience, meaning whichever tactics the email uses would be effective for that audience. These groups can vary widely, including universities, business institutions, hospitals and government agencies. The new method uses five elements that are rated on a 5-point scale that relate to the scenario’s premise. The overall score is then used by the phishing trainer to help analyze their data and rank the phishing exercise as low, medium or high difficulty. The significance of the Phish Scale is to give CISOs a better understanding of their click-rate data instead of relying on the numbers alone. A low click rate for a particular phishing email can have several causes:  The phishing training emails are too easy or do not provide relevant context to the user, or the phishing email is similar to a previous exercise. Data like this can create a false sense of security if click rates are analyzed on their own without understanding the phishing email’s difficulty.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/09/22/new-tool-helps-companies-assess-why-employees-click-phishing-emails/",
+		  "https://www.nist.gov/news-events/news/2020/09/phish-scale-nist-developed-method-helps-it-staff-see-why-users-click"
+        ]
+      },
+      "uuid": "b040cd62-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Phish Scale"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

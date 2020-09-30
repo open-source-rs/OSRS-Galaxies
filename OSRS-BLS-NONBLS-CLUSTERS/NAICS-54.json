@@ -2694,6 +2694,26 @@
 			"value": "ArbiterSports"
 		},
 		{
+			"description": "Tyler Technologies, Inc., based in Plano, Texas, is the largest provider of software to the United States public sector. Tyler Technologies has offices in 17 states and one in Toronto, Ontario, Canada.",
+			"meta": {
+				"refs": [
+					"https://www.tylertech.com/"
+				]
+			},
+			"uuid": "423dc520-0323-11eb-adc1-0242ac120002",
+			"value": "Tyler Technologies, Inc."
+		},
+		{
+			"description": "Stone Refurb is part of the Stone Group. Supplying IT solutions to Public and Private Sector for over 25 years.",
+			"meta": {
+				"refs": [
+					"https://www.stonerefurb.co.uk/"
+				]
+			},
+			"uuid": "423dc61a-0323-11eb-adc1-0242ac120002",
+			"value": "Stone Refurb"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -607,6 +607,19 @@
       "value": "OSRS Botnet: Rudeminer Botnet"
     },
 	{
+      "description": "Specter is a remote control Trojan (RAT) for the Linux platform. It consists of 3 parts, Dropper, Loader, and Plugin. The main function is determined by Loader&Plugin. The main functions of Specter are file management, download and upload management, shell service, Socket5 proxy, report device information, execute the script issued by C2, and executing C2 to deliver executable files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/ghost-in-action-the-specter-botnet/"
+        ]
+      },
+      "uuid": "2dd62f36-031f-11eb-adc1-0242ac120002",
+      "value": "OSRS Botnet: Specter Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

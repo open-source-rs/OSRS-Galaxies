@@ -157,6 +157,16 @@
       "value": "Activision Publishing, Inc."
     },
 	{
+      "description": "Town Sports International Holdings is an operator of fitness centers in the Eastern United States, California and in Switzerland. Its brands include New York Sports Clubs, Boston Sports Clubs, Philadelphia Sports Clubs, Washington Sports Clubs, Lucille Roberts, TMPL Gym and Total Woman Gym and Spa.",
+      "meta": {
+        "refs": [
+          "http://www.townsportsinternational.com/investor-relations"
+        ]
+      },
+      "uuid": "f1bf28c4-0321-11eb-adc1-0242ac120002",
+      "value": "Town Sports International Holdings"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

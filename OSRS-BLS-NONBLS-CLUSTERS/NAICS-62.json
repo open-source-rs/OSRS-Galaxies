@@ -1436,6 +1436,37 @@
 			"value": "Geisinger"
 		},
 		{
+			"description": "Ambulance service based in Ohio.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/American-EMS-723057961066676/",
+					"https://www.yellowpages.com/massillon-oh/stark-summit-ambulance"
+				]
+			},
+			"uuid": "92cf3362-0322-11eb-adc1-0242ac120002",
+			"value": "Stark Summit Ambulance"
+		},
+		{
+			"description": "Century Specialty Script offers physicians and patients an efficient and effective way of managing chronic diseases.",
+			"meta": {
+				"refs": [
+					"https://www.specialtyscript.com/"
+				]
+			},
+			"uuid": "92cf35c4-0322-11eb-adc1-0242ac120002",
+			"value": "Century Specialty Script, LLC"
+		},
+		{
+			"description": "Nebraska Medicine is the most esteemed academic health system in the region, consisting of 809 licensed beds at its two hospitals, more than 1,000 physicians and 40 specialty and primary care clinics in Omaha and surrounding areas.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/nebraskamed/"
+				]
+			},
+			"uuid": "92cf36be-0322-11eb-adc1-0242ac120002",
+			"value": "Nebraska Medicine"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

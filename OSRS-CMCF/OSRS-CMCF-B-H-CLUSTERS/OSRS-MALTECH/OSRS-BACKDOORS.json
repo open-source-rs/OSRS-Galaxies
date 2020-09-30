@@ -862,6 +862,22 @@
       "value": "OSRS Backdoor: RDAT Backdoor"
     },
 	{
+      "description": "The APT-C-43 organization is good at launching attacks using phishing emails, and deploys the backdoor program Pyark (Machete) written in python after invading the victim’s machine. The network communication mainly relies on FTP and HTTP protocols. After successfully infiltrating the target machine, APT-C-43 organization monitors the target users, steal sensitive data, etc.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+        ],
+        "synonyms": [
+        "Machete (Backdoor)"
+        ]
+      },
+      "uuid": "2dd62cd4-031f-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: Pyark Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

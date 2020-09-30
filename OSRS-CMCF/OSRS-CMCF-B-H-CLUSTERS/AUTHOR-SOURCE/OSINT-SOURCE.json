@@ -2926,6 +2926,58 @@
       "value": "OSRS OSINT Source: KCCI Des Moines"
     },
 	{
+      "description": "WJXT, virtual channel 4, is an independent television station licensed to Jacksonville, Florida, United States. The station is owned by the Graham Media Group subsidiary of Graham Holdings Company, as part of a duopoly with CW affiliate WCWJ.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.news4jax.com/"
+        ]
+      },
+      "uuid": "62c4c396-032a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: WJXT (news4jax)"
+    },
+	{
+      "description": "The Cincinnati Enquirer is a morning daily newspaper published by Gannett in Cincinnati, Ohio, United States. First published in 1841, the Enquirer is the last remaining daily newspaper in Greater Cincinnati and Northern Kentucky, although the daily Journal-News competes with the Enquirer in the northern suburbs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.cincinnati.com/"
+        ]
+      },
+      "uuid": "62c4c594-032a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: The Cincinnati Enquirer"
+    },
+	{
+      "description": "Amnesty International is a non-governmental organization with its headquarters in the United Kingdom focused on human rights. The organization says it has more than eight million members and supporters around the world.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.amnesty.org/en/"
+        ]
+      },
+      "uuid": "62c4c6e8-032a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Amnesty International"
+    },
+	{
+      "description": "360 Safeguard and 360 Total Security is a program developed by Qihoo 360, an internet security company based in China. 360 Safeguard's focus is on stopping malware such as computer viruses and trojan horses, and providing security patches for Microsoft Windows. 360 Safeguard trojan horse scanner is cloud-based.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/"
+        ]
+      },
+      "uuid": "62c4c896-032a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: 360 Total Security Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

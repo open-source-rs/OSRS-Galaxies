@@ -47,6 +47,16 @@
       "value": "Utah Gun Exchange"
     },
 	{
+      "description": "Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. It is also the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.",
+      "meta": {
+        "refs": [
+          "https://www.shopify.com/"
+        ]
+      },
+      "uuid": "423dc2f0-0323-11eb-adc1-0242ac120002",
+      "value": "Shopify Inc."
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

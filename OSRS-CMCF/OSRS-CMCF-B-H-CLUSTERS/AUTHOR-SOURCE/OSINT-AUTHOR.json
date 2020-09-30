@@ -7177,6 +7177,149 @@
       "value": "OSRS OSINT Author Index: Peter Mackenzie"
     },
 	{
+      "description": "Malware Researcher at Avast Software. Czech Republic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jan-rub%C3%ADn-0860367a/?originalSubdomain=cz"
+        ]
+      },
+      "uuid": "a4901b96-0324-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Jan Rubin"
+    },
+	{
+      "description": "Head of Cyber threat research dpt. at Group-IB - Global Threat Hunting and Intelligence Company. Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/rustam-mirkasymov-b689ab163/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "a4902186-0324-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Rustam Mirkasymov"
+    },
+	{
+      "description": "Senior Digital Forensics Analyst at Group-IB - Intelligence-driven Cyber Security. Russian Federation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/oleg-skulkin/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "a49022bc-0324-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Oleg Skulkin"
+    },
+	{
+      "description": "Threat analyst affiliated with the Microsoft Threat Intelligence Center.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/"
+        ]
+      },
+      "uuid": "a49023a2-0324-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ben Koehl"
+    },
+	{
+      "description": "Malware Reverse Engineer at Microsoft. Newcastle upon Tyne, Northumberland, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joseph-hannon/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "a490247e-0324-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Joe Hannon"
+    },
+	{
+      "description": "WJXT-TV Channel 4 News. Jacksonville, Florida Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vicmicolucci/"
+        ]
+      },
+      "uuid": "9132d1e6-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Vic Micolucci"
+    },
+	{
+      "description": "Breaking News Reporter at The Cincinnati Enquirer. Hamilton, Ohio.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/cameron-knight-556810b/"
+        ]
+      },
+      "uuid": "9132d448-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Cameron Knight"
+    },
+	{
+      "description": "Cybersecurity researcher and author affiliated with the online blog Security Boulevard.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityboulevard.com/author/alon-groisman/"
+        ]
+      },
+      "uuid": "9132d56a-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Alon Groisman"
+    },
+	{
+      "description": "Team Lead - Mobile & IoT at Zscaler. India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vigandhi/?originalSubdomain=in"
+        ]
+      },
+      "uuid": "9132d66e-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Viral Gandhi"
+    },
+	{
+      "description": "Generic pen name used by the organization Amnesty International.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.amnesty.org/en/"
+        ]
+      },
+      "uuid": "9132d768-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Amnesty International"
+    },
+	{
+      "description": "Generic pen name used for the online cybersecurity blog provided by the cybersecurity vendor 360 Total Security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/"
+        ]
+      },
+      "uuid": "9132d858-0325-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: 360 Total Security"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

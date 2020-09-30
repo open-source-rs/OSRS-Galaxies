@@ -898,6 +898,16 @@
 			"value": "The University of Tasmania"
 		},
 		{
+			"description": "Flagler College is a private liberal arts college in St. Augustine, Florida. It was founded in 1968 and offers 33 undergraduate majors and 1 master's program. It also has a campus in Tallahassee.",
+			"meta": {
+				"refs": [
+					"https://www.flagler.edu/"
+				]
+			},
+			"uuid": "f1bf2aea-0321-11eb-adc1-0242ac120002",
+			"value": "Flagler College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

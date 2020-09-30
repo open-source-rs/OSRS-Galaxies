@@ -3393,6 +3393,36 @@
 			"value": "The Spokane Regional Health District"
 		},
 		{
+			"description": "St. Clair County is a county located in the central portion of the U.S. state of Alabama. As of the 2010 census, the population was 83,593. It has two county seats in Ashville and another in Pell City. It is one of two counties in Alabama, and one of 33 in the United States, with more than one county seat.",
+			"meta": {
+				"refs": [
+					"https://www.stclairco.com/"
+				]
+			},
+			"uuid": "5f9b44b8-031d-11eb-adc1-0242ac120002",
+			"value": "St. Clair County, AL"
+		},
+		{
+			"description": "National Testing Agency is an Indian government agency that has been approved by the Union Council of Ministers and established in November 2017 to conduct entrance examinations for higher educational institutions. The government appointed Vineet Joshi as the first Director-General of the agency.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/National_Testing_Agency"
+				]
+			},
+			"uuid": "5f9b477e-031d-11eb-adc1-0242ac120002",
+			"value": "National Testing Agency (NTA)"
+		},
+		{
+			"description": "Martin County is a county located in the Treasure Coast region of the state of Florida, in the United States. As of the 2010 census, the population was 146,318. Its county seat is Stuart. Martin County is in the Port St. Lucie, FL Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.martin.fl.us/"
+				]
+			},
+			"uuid": "5f9b488c-031d-11eb-adc1-0242ac120002",
+			"value": "Martin County, FL"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

@@ -1952,6 +1952,71 @@
       "value": "OSRS Actors AND Campaigns: Rampant Kitten (Iranian Espionage Campaign)"
     },
 	{
+      "description": "Grayfly has been particularly active in recent years, mounting high volume espionage attacks against organizations spread across Asia, Europe, and North America. They are interested in a wide range of sectors, including food, financial, healthcare, hospitality, manufacturing, telecoms, and government. It is known for using the Barlaiy/POISONPLUG and Crosswalk/ProxIP (Backdoor.Motnug) malware families in its attacks. Victims are frequently compromised by exploiting public facing web servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/apt41-indictments-china-espionage"
+        ]
+      },
+      "uuid": "3414de2a-031e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Grayfly APT"
+    },
+	{
+      "description": "This group—dubbed Jointworm—has been active since at least August 2017 and appears to be financially motivated. This latest campaign aimed at the financial sector appears to have started in December 2019. Researchers spotted Jointworm in at least seven organizations in the period from December 2019 to June 2020. Jointworm is identified by its use of a JavaScript backdoor (or EVILNUM) which is custom to the group. This backdoor is typically delivered via malicious emails that contain a link to a ZIP archive. The archive file contains an LNK attachment masquerading as an Office document, an Excel sheet for example, which contains malicious JavaScript. Its targets in this recent campaign include companies in the financial sector internationally, including those that operate within the stock exchange markets, and some tech companies that develop technologies for use by financial organizations (also known as fintech companies). A media company was also targeted in this campaign. The group was able to spend a significant amount of time on the networks of some of its victims. Jointworm was present on the network of one financial sector organization for 184 days, and another financial sector victim for 123 days.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec.broadcom.com/hubfs/SED-Threats-Financial-Sector.pdf"
+        ]
+      },
+      "uuid": "3414e050-031e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Jointworm (Evilnum APT)"
+    },
+	{
+      "description": "GADOLINIUM is a nation-state activity group that has been compromising targets for nearly a decade with a worldwide focus on the maritime and health industries. As with most threat groups, GADOLINIUM tracks the tools and techniques of security practitioners looking for new techniques they can use or modify to create new exploit methods.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/"
+        ]
+      },
+      "uuid": "3414e14a-031e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: GADOLINIUM Threat Group"
+    },
+	{
+      "description": "In June 2020, 360 Security Center discovered a new backdoor Pyark written in Python by the fileless attack protection function. Through in-depth excavation and trace analysis of the backdoor, we discovered a series of advanced threat actions that have been active since 2019. By invading various military institutions in Venezuela, the attackers deployed backdoor to continuously monitor and steal the latest military secrets. We named it APT-C-43 based on 360’s way of naming the APT organization. When tracing the attacker’s source, we found that the duration of this attack coincided with the Venezuelan political chaos, and the network assets used by the attackers were mostly deployed in Colombia, and some assets were frequently found in Venezuela and Colombia. After the United Venezuelan coup, the reactionary government headed by Juan Gerardo Guaidó Márquez fled to Colombia to seek military assistance. We guess the political background of APT-C -43’s campaign may be to help the reactionaries led by Juan steal military secrets of the Venezuelan military and provide intelligence support for the confrontation between the reactionary government and the current Venezuelan government. Therefore, we named this series of attacks HpReact.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+        ]
+      },
+      "uuid": "3414e21c-031e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-C-43"
+    },
+	{
+      "description": "In June 2020, 360 Security Center discovered a new backdoor Pyark written in Python by the fileless attack protection function. Through in-depth excavation and trace analysis of the backdoor, we discovered a series of advanced threat actions that have been active since 2019. By invading various military institutions in Venezuela, the attackers deployed backdoor to continuously monitor and steal the latest military secrets. We named it APT-C-43 based on 360’s way of naming the APT organization. When tracing the attacker’s source, we found that the duration of this attack coincided with the Venezuelan political chaos, and the network assets used by the attackers were mostly deployed in Colombia, and some assets were frequently found in Venezuela and Colombia. After the United Venezuelan coup, the reactionary government headed by Juan Gerardo Guaidó Márquez fled to Colombia to seek military assistance. We guess the political background of APT-C -43’s campaign may be to help the reactionaries led by Juan steal military secrets of the Venezuelan military and provide intelligence support for the confrontation between the reactionary government and the current Venezuelan government. Therefore, we named this series of attacks HpReact.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+        ]
+      },
+      "uuid": "2dd6303a-031f-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: HpReact Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

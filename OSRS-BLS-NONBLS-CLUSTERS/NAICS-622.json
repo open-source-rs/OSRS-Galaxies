@@ -696,6 +696,16 @@
 			"value": "Montefiore Medical Center"
 		},
 		{
+			"description": "The Christ Hospital is a 555-bed, not-for-profit acute care facility in Cincinnati, Ohio, offering services in cardiovascular care, spine treatment, women's health, major surgery, cancer, behavioral medicine, orthopaedics, emergency care, kidney transplant and others.",
+			"meta": {
+				"refs": [
+					"https://www.thechristhospital.com/"
+				]
+			},
+			"uuid": "92cf3790-0322-11eb-adc1-0242ac120002",
+			"value": "The Christ Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

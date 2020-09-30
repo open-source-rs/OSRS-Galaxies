@@ -5205,6 +5205,110 @@
       "value": "OSRS Tool: SkinnyD (Skinny Downloader)"
     },
 	{
+      "description": "Meh is a password stealer/keylogger. But to get there, we need to chew through several layers of the MehCrypter. Upon a closer look, however, the file also contains code which is actually a compiled AutoIt script which can be interpreted by the AutoIt interpreter. The interpreter is designed in such a way that it searches the entire file content until it finds the string AU3!EA06. Thus, the whole prepended string is skipped completely and serves only as a confusion technique to avoid detection. The decompilation yields a very readable script which serves a single purpose: concatenate hard coded hexadecimal strings, decode them, and load the result PE using reflective loading via a custom AutoIt PE loader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/janrubin/complex-obfuscation-meh/"
+        ]
+      },
+      "uuid": "e4270bbe-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: MehCrypter"
+    },
+	{
+      "description": "This binary is a very simple dropper written in Borland Delphi which makes several HTTP POST requests to the C&C server in order to download three additional files. Furthermore, the dropper also tries to clean up the environment from previous installations of the Meh password stealer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/janrubin/complex-obfuscation-meh/"
+        ]
+      },
+      "uuid": "e4270dbc-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: MehCrypter Dropper"
+    },
+	{
+      "description": "This stager is the third (and final) PE loader, which decrypts the aforementioned pe.bin file using a very simple XOR cipher.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/janrubin/complex-obfuscation-meh/"
+        ]
+      },
+      "uuid": "e42711d6-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Meh Stager"
+    },
+	{
+      "description": "Malware dropper used to drop files on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/09/threat-source-newsletter-for-sept-24.html?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "5db097ca-032c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Ranumbot Dropper"
+    },
+	{
+      "description": "Malware dropper used to drop files on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/09/threat-source-newsletter-for-sept-24.html?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "5db09a72-032c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Segurazo Dropper"
+    },
+	{
+      "description": "Malware dropper used to drop files on a system.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/09/threat-source-newsletter-for-sept-24.html?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "5db09bb2-032c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Agentwdcr Dropper"
+    },
+	{
+      "description": "Alien malware is a fork of the initial variant of Cerberus (v1), active since early January 2020 and rented out at the same time as Cerberus. Cerberus being discontinued, its customers seem to be switching to Alien, which has become the prominent new MaaS for fraudsters. Looking at what researchers know now about what happened with Cerberus and Alien, researchers could speculate that Cerberus was on the decline as the developers behind the Trojan shifted away from the project with the original source in order to start their own. Interestingly enough, this speculation is corroborated by the fact that when the second version of Cerberus (v2) was released in May 2020, it did not introduce any major new features, except for the one to steal 2FA codes from Google’s authenticator app. The code of that feature code is almost identical to that introduced with the Alien Trojan in February 2020. This indicates that at that time, the developer behind the Cerberus Trojan had access to, and might have been responsible for development of the Alien code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/alien_the_story_of_cerberus_demise.html"
+        ]
+      },
+      "uuid": "a839fe76-032c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Alien RAT"
+    },
+	{
+      "description": "Taurus Project—a relatively new stealer that appeared in the spring of 2020—has been distributed via malspam campaigns targeting users in the United States. The macro-laced documents spawn a PowerShell script that invokes certutil to run an autoit script ultimately responsible for downloading the Taurus binary. Taurus was originally built as a fork by the developer behind Predator the thief. It boasts many of the same capabilities as Predator the thief, namely the ability to steal credentials from browsers, FTP, VPN, and email clients as well as cryptocurrency wallets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/malwarebytes-news/2020/09/taurus-project-stealer-now-spreading-via-malvertising-campaign/"
+        ]
+      },
+      "uuid": "a83a011e-032c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Taurus Project (Stealer)"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

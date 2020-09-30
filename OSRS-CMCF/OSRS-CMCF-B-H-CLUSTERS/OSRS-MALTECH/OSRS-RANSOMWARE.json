@@ -1057,6 +1057,19 @@
       "value": "OSRS Ransomware: SunCrypt Ransomware"
     },
 	{
+      "description": "Starting around the end of July 2020, Mount Locker began breaching corporate networks and deploying their ransomware. From ransom notes shared with BleepingComputer by victims, the Mount Locker gang is demanding multi-million dollar ransom payments in some cases. Before encrypting files, Mount Locker will also steal unencrypted files and threaten victims that the data will be published if a ransom is not paid. For example, Mount Locker told one victim that they stole 400 GB of their data, and if they are not paid, they will contact the victim's competitors, the media, TV channels, and newspapers. Ultimately, the victim did not pay, and their data was published to a ransomware data leak site. From our analysis, when encrypting files, the ransomware will add an extension in the format .ReadManual.ID.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game/?&web_view=true"
+        ]
+      },
+      "uuid": "34a131e2-032b-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Mount Locker Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
