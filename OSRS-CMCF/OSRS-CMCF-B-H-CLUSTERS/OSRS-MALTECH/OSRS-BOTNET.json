@@ -626,7 +626,11 @@
           "osrs-maltech:Botnet"
         ],
         "refs": [
-          "https://www.intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/"
+          "https://www.intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/",
+		  "https://blog.barracuda.com/2020/10/01/threat-spotlight-new-interplanetary-storm-variant-iot/"
+        ],
+        "synonyms": [
+        "InterPlanetary Storm Botnet"
         ]
       },
       "uuid": "3345b3da-089a-11eb-adc1-0242ac120002",
