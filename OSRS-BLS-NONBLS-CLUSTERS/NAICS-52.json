@@ -668,6 +668,16 @@
 			"value": "KuCoin Exchange"
 		},
 		{
+			"description": "Arthur J. Gallagher & Co. is a US-based global insurance brokerage and risk management services firm headquartered in Rolling Meadows, Illinois. The firm was established in 1927 and is one of the largest insurance brokers in the world.",
+			"meta": {
+				"refs": [
+					"https://www.ajg.com/"
+				]
+			},
+			"uuid": "dabf918e-08a0-11eb-adc1-0242ac120002",
+			"value": "Arthur J. Gallagher & Co."
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -2978,6 +2978,58 @@
       "value": "OSRS OSINT Source: 360 Total Security Blog"
     },
 	{
+      "description": "JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan. The organization coordinates with network service providers, security vendors, government agencies, as well as the industry associations.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.jpcert.or.jp/english/about/"
+        ]
+      },
+      "uuid": "b42d8d90-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: JPCERT"
+    },
+	{
+      "description": "NTT Security is the specialized security company and center of excellence in security for NTT Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.nttsecurity.com/en/services/managed-security-services"
+        ]
+      },
+      "uuid": "b42d9024-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: NTT Security"
+    },
+	{
+      "description": "TSRC (Tencent Security Response Center) is the online platform for Tencent security team to cooperate with security researchers and partners around the world to create a robuster cyber security eco-system. As the leading Internet service provider in China, Tencent has billions of users worldwide.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://s.tencent.com/"
+        ]
+      },
+      "uuid": "b42d9196-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Tencent Security Online Blog"
+    },
+	{
+      "description": "The Cybersecurity and Infrastructure Security Agency was established on 16 November 2018 when President Donald Trump signed into law the Cybersecurity and Infrastructure Security Agency Act of 2018.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://us-cert.cisa.gov/"
+        ]
+      },
+      "uuid": "b42d9272-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Cybersecurity and Infrastructure Security Agency (CISA)"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

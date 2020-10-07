@@ -706,6 +706,16 @@
 			"value": "The Christ Hospital"
 		},
 		{
+			"description": "Legacy Community Health is a full-service, Community Health Center that provides comprehensive, primary healthcare services to all Houstonians in a culturally sensitive, judgment-free and confidential environment. Legacy has specialized in HIV/AIDS testing, education, treatment and social services since the early 1980s.We also provide care for other chronic health conditions like diabetes and high blood pressure. Generous financial support from individuals, businesses and charitable foundations allows Legacy to provide no-cost or low-cost healthcare services to nearly 85,000 men, women and children each year.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/legacy-community-health-services/about/"
+				]
+			},
+			"uuid": "9ddcab2a-08a1-11eb-adc1-0242ac120002",
+			"value": "Legacy Community Health"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

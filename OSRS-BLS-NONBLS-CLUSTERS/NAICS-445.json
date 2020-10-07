@@ -17,6 +17,16 @@
       "value": "Test Food and Beverage Stores Value"
     },
 	{
+      "description": "WiziShop is an innovative e-commerce solution allowing the creation and the daily management of your own online shop. WiziShop places itself as a real partner and offers the best tools to create your e-commerce website, to keep it going, to promote it and make your customers loyal.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/wizishop/"
+        ]
+      },
+      "uuid": "9ddcacb0-08a1-11eb-adc1-0242ac120002",
+      "value": "WiziShop"
+    },
+	{
       "description": "Hy-Vee is a chain of more than 245 supermarkets located throughout the Midwestern United States in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.",
       "meta": {
         "refs": [

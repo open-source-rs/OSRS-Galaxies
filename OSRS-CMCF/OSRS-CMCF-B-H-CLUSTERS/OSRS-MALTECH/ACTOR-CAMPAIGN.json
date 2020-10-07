@@ -2030,6 +2030,90 @@
       "value": "OSRS Actors AND Campaigns: OldGremlin APT"
     },
 	{
+      "description": "The actor, known as TA2552, uses well-crafted Spanish language lures that leverage a narrow range of themes and brands. The lures entice users to click a link in the message, taking them to the legitimate Microsoft third-party apps consent page. There they are prompted to grant a third-party application read-only user permissions to their O365 account via OAuth2 or other token-based authorization methods. TA2552 seeks access to specific account resources like the user’s contacts and mail. Requesting read-only permissions for such account resources could be used to conduct account reconnaissance, silently steal data, or to intercept password reset messages from other accounts such as those at financial institutions. While organizations with global presence have received messages from this group, they appear to choose recipients who are likely Spanish speakers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ta2552-uses-oauth-access-token-phishing-exploit-read-only-risks"
+        ]
+      },
+      "uuid": "6dc1d5bc-0899-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA2552 APT"
+    },
+	{
+      "description": "Palmerworm uses a combination of custom malware, dual use tools, and living-off-the-land tactics in this campaign. Palmerworm has been active since at least 2013, with the first activity seen in this campaign in August 2019.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/palmerworm-blacktech-espionage-apt"
+        ]
+      },
+      "uuid": "6dc1d83c-0899-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Palmerworm Espionage Gang"
+    },
+	{
+      "description": "Targets crypto currency companies using various malwares.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://vblocalhost.com/uploads/VB2020-18.pdf"
+        ],
+        "synonyms": [
+        "Dangerous Password APT",
+        "CageyChameleon APT",
+		"Leery Turtle APT",
+		"CryptoCore APT"
+        ]
+      },
+      "uuid": "6dc1db16-0899-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: CryptoMimic APT"
+    },
+	{
+      "description": "Threat actor and exploit author.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/"
+        ]
+      },
+      "uuid": "6dc1dc10-0899-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Volodya Threat Actor"
+    },
+	{
+      "description": "Threat actor and exploit author.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/"
+        ]
+      },
+      "uuid": "6dc1dcec-0899-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: PlayBit Threat Actor"
+    },
+	{
+      "description": "Campaign conducted by Chinese threat actor. Targets East Asian countries. Malware includes Royal Road, Poison Ivy, and Cotx RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://vblocalhost.com/uploads/VB2020-20.pdf"
+        ]
+      },
+      "uuid": "3345aec6-089a-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Campaign - LagTime IT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

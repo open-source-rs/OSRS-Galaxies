@@ -2714,6 +2714,16 @@
 			"value": "Stone Refurb"
 		},
 		{
+			"description": "ERT is a global company specializing in clinical services and customizable medical devices to biopharmaceutical and healthcare organizations.",
+			"meta": {
+				"refs": [
+					"https://www.ert.com/"
+				]
+			},
+			"uuid": "d5353af0-08a2-11eb-adc1-0242ac120002",
+			"value": "eResearchTechnology, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -2724,5 +2734,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 69
+	"version": 70
 }

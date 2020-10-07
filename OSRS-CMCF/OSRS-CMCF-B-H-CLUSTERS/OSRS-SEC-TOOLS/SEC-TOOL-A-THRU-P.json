@@ -1848,6 +1848,59 @@
       "value": "OSRS SecTool: Phish Scale"
     },
 	{
+      "description": "PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. It can also connect to a serial port. The name PuTTY has no official meaning.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://www.putty.org/"
+        ]
+      },
+      "uuid": "73779b0e-08a8-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Putty"
+    },
+	{
+      "description": "ICPin is an Intel pintool leveraging the framework’s JIT mode designed to track a binary’s integrity checks. It records all reads and all writes performed by the target executable or dynamically loaded library on its text section and outputs a human readable text file describing each memory access with its type (R|W) and in case of a write, the list of values successively written at that address.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/NCCGroup/ICPin",
+		  "https://research.nccgroup.com/2020/09/30/tool-release-icpin-an-integrity-check-and-anti-debug-detection-pintool/"
+        ]
+      },
+      "uuid": "73779d20-08a8-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: ICPin"
+    },
+	{
+      "description": "Tool to dump passwords from various processes memory. Works on windows/linux/OSX.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/n1nj4sec/mimipy"
+        ]
+      },
+      "uuid": "73779e1a-08a8-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: mimipy"
+    },
+	{
+      "description": "pnscan - a Parallel Network Scanner.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/ptrrkssn/pnscan"
+        ]
+      },
+      "uuid": "73779ef6-08a8-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: pnscan"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

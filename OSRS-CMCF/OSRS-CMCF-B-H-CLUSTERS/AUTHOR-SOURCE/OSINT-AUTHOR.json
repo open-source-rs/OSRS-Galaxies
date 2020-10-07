@@ -7320,6 +7320,113 @@
       "value": "OSRS OSINT Author Index: 360 Total Security"
     },
 	{
+      "description": "Principal Researcher at Palo Alto Networks. Santa Clara, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/taojie/?locale=de_DE"
+        ]
+      },
+      "uuid": "78260634-08a5-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Taojie Wang"
+    },
+	{
+      "description": "Vulnerability Research Engineer at Palo Alto Networks. Santa Clara, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jin-chen-864b9463/"
+        ]
+      },
+      "uuid": "78260850-08a5-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Jin Chen"
+    },
+	{
+      "description": "Palo Alto Networks - security researcher. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tao-yan-52a91091/"
+        ]
+      },
+      "uuid": "7826094a-08a5-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tao Yan"
+    },
+	{
+      "description": "Principal Researcher at Palo Alto Networks. Sunnyvale, California.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/zhanglin-he/"
+        ]
+      },
+      "uuid": "78260a26-08a5-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Zhanglin He"
+    },
+	{
+      "description": "Lead Data Analyst at Aqua Security. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/assaf-morag-812a9432/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "07288712-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Assaf Morag"
+    },
+	{
+      "description": "Malware Analyst, LogonTracer, MalConfScan creator, Speaker at CODE BLUE, BsidesLV, VB, Botconf, PacSec, PHDays, FIRST, AusCERT, DEF CON, BlackHat USA Arsenal.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/shu_tom?lang=en"
+        ],
+        "synonyms": [
+        "@shu_tom"
+        ]
+      },
+      "uuid": "072889a6-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Shusei Tomonaga"
+    },
+	{
+      "description": "Generic pen named used by the cybersecurity vendor Tencent.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://s.tencent.com/"
+        ]
+      },
+      "uuid": "07288ad2-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tencent Security Researchers"
+    },
+	{
+      "description": "Generic pen name used by Cybersecurity and Infrastructure Security Agency (CISA).",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://us-cert.cisa.gov/"
+        ]
+      },
+      "uuid": "07288bc2-08a6-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Cybersecurity and Infrastructure Security Agency (CISA)"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

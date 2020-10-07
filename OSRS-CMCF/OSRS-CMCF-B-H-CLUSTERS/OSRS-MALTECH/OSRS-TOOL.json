@@ -5309,6 +5309,84 @@
       "value": "OSRS Tool: Taurus Project (Stealer)"
     },
 	{
+      "description": "Starting from November 2019, 360Netlab Anglerfish system have successively monitored attacker using two Tenda router 0-day vulnerabilities to spread a Remote Access Trojan (RAT) based on Mirai code. The conventional Mirai variants normally focus on DDoS, but this variant is different. In addition to DDoS attacks, it implements 12 remote access functions such as Socket5 proxy for router devices, tampering with router DNS, setting iptables, executing custom system commands. In addition, at the C2 communication level, it uses the WSS (WebSocket over TLS) protocol. Doing this can circumvent the typical Mirai traffic detection at the traffic level, and it also provides secure encrypted communication for C2. About the infrastructure, the attacker first used a Google cloud service IP, and then switched to a hosting provider in Hong Kong. When we looked up the website certificate, sample, domain name and IP in our DNSmon system Later, we were able to see more infrastructure IPs, samples, and more C2 domain names. Two zero days, 12 remote access functions for the router, encrypted traffic protocol, and infrastructure IP that that moves around. This botnet does not seem to be a very typical player.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/ttint-an-iot-remote-control-trojan-spread-through-2-0-day-vulnerabilities/"
+        ]
+      },
+      "uuid": "689e1a44-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Ttint IoT RAT"
+    },
+	{
+      "description": "Talos recently identified new versions of LodaRAT, a remote access trojan written in AutoIt. Not only have these versions abandoned their usual obfuscation techniques, but several functions have also been rewritten and new functionality has been added. In one version, a hex-encoded PowerShell keylogger script has been added, along with a new VB script, only to be removed in a later version. Direct interaction from the threat actor was observed during analysis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/09/lodarat-update-alive-and-well.html"
+        ]
+      },
+      "uuid": "689e1c56-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: LodaRAT"
+    },
+	{
+      "description": "RAT used by threat actor TA428 to attack East Asian countries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://vblocalhost.com/uploads/VB2020-20.pdf"
+        ]
+      },
+      "uuid": "689e1d5a-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Cotx RAT"
+    },
+	{
+      "description": "The sample is a dropper, which deploys two files when executed. The first is a remote access tool (RAT) named mediaplayer.exe, which is designed for command and control (C2) of victim computer systems. Analysis has determined the RAT has the ability to terminate processes, run arbitrary commands, take screen shots, modify the registry, and modify files on victim machines. It appears to communicate with its C2 controller via Hypertext Transfer Protocol (HTTP) over Transmission Control Protocol (TCP). The second file has a random five-character name and deletes the dropper once the RAT has persistence. Persistence is achieved through the creation of a service named Task Frame, which ensures the RAT is loaded after a reboot.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-275a"
+        ]
+      },
+      "uuid": "689e1e22-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: SLOTHFULMEDIA RAT"
+    },
+	{
+      "description": "During an investigation, we came across several suspicious UEFI firmware images. A deeper inspection revealed that they contained four components that had an unusual proximity in their assigned GUID values, those were two DXE drivers and two UEFI applications. After further analysis we were able to determine that they were based on the leaked source code of HackingTeam’s VectorEDK bootkit, with minor customizations. The goal of these added modules is to invoke a chain of events that would result in writing a malicious executable named IntelUpdate.exe to the victim’s Startup folder. Thus, when Windows is started the written malware would be invoked as well. Apart from that, the modules would ensure that if the malware file is removed from the disk, it will be rewritten. Since this logic is executed from the SPI flash, there is no way to avoid this process other than eliminating the malicious firmware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/mosaicregressor/98849/"
+        ]
+      },
+      "uuid": "689e1eea-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: MosaicRegressor"
+    },
+	{
+      "description": "On September 17th, we discovered a new attack called Kraken that injected its payload into the Windows Error Reporting (WER) service as a defense evasion mechanism. That reporting service, WerFault.exe, is usually invoked when an error related to the operating system, Windows features, or applications happens. When victims see WerFault.exe running on their machine, they probably assume that some error happened, while in this case they have actually been targeted in an attack. While this technique is not new, this campaign is likely the work of an APT group that had earlier used a phishing attack enticing victims with a worker’s compensation claim. The threat actors compromised a website to host its payload and then used the CactusTorch framework to perform a fileless attack followed by several anti-analysis techniques. At the time of writing, we could not make a clear attribution to who is behind this attack, although some elements remind us of the Vietnamese APT32 group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/malwarebytes-news/2020/10/kraken-attack-abuses-wer-service/"
+        ]
+      },
+      "uuid": "689e21e2-089b-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Kraken Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
@@ -5322,5 +5400,5 @@
       "value": "OSRS Tool: 00519ead"
     }
 	  ],
-	"version": 35
+	"version": 36
 }

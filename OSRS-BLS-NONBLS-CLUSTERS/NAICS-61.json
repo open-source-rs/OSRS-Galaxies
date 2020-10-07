@@ -908,6 +908,16 @@
 			"value": "Flagler College"
 		},
 		{
+			"description": "Gulf Coast State College is a public college in Panama City, Florida. It is part of the Florida College System and offers the Associate of Arts degree, Associate of Science degrees, certificates, and, as of 2020, bachelor's degrees.",
+			"meta": {
+				"refs": [
+					"https://www.gulfcoast.edu/"
+				]
+			},
+			"uuid": "dabf8fcc-08a0-11eb-adc1-0242ac120002",
+			"value": "Gulf Coast State College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

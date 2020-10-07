@@ -1467,6 +1467,38 @@
 			"value": "Nebraska Medicine"
 		},
 		{
+			"description": "Universal Health Services is an American Fortune 500 company that provides hospital and healthcare services, based in King of Prussia, Pennsylvania. In 2019, its annual revenues were $11.37 billion.",
+			"meta": {
+				"refs": [
+					"https://www.uhsinc.com/"
+				]
+			},
+			"uuid": "9ddca5f8-08a1-11eb-adc1-0242ac120002",
+			"value": "Universal Health Services"
+		},
+		{
+			"description": "Founded in 1987 by Dr. Sheldon Elman, Medisys has grown from a regional clinic to Canada’s only national provider of preventive healthcare services. Together, we employ over 800 employees and work with more than 700 health professionals across the country to give each individual the time, care and personalized service they need. As of August 2018, Medisys has joined forces with TELUS Health, a leading provider of digital health solutions for healthcare practitioners, health authorities, insurers and employers. Together, we continue to chart a new course for workplace health and wellness services in support of Canadian healthcare transformation. At Medisys, we offer simplified healthcare services using a more human approach while leveraging TELUS Health’s leading-edge technology to optimize healthcare delivery in Canada.",
+			"meta": {
+				"refs": [
+					"https://www.medisys.ca/en-ca/",
+					"https://www.medisys.ca/en-ca/company/"
+				]
+			},
+			"uuid": "9ddca81e-08a1-11eb-adc1-0242ac120002",
+			"value": "The Medisys Health Group"
+		},
+		{
+			"description": "Copeman Healthcare strives to help people achieve a greater quality of life through physical and psychological wellness. Our core services are medically supervised programs of therapeutic lifestyle change. What makes each program work is offering multidisciplinary medical expertise, and the time (on-time appointments) and attention (average 30-minute appointments) our clients need and deserve. Our first clinic opened in 2005, and we continue to demonstrate that our programs achieve our primary objective of making people’s lives better. We also reduce the demand for more costly medical interventions by preventing serious illness. In the long term, Copeman Healthcare hopes to help create low-cost, high-value programs for all people – harnessing technology and the talents and expertise of non-physician health workers. We now have four clinic locations in Western Canada (Calgary, Edmonton, Vancouver and North Vancouver) and care for over 12,000 clients. We plan to expand our services both regionally and nationally to deliver unparalleled levels of patient care and preventative healthcare services to even more Canadians.",
+			"meta": {
+				"refs": [
+					"https://www.copemanhealthcare.com/",
+					"https://www.copemanhealthcare.com/about-us"
+				]
+			},
+			"uuid": "9ddcaa4e-08a1-11eb-adc1-0242ac120002",
+			"value": "Copeman Healthcare"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

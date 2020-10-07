@@ -3423,6 +3423,46 @@
 			"value": "Martin County, FL"
 		},
 		{
+			"description": "The Clark County School District is a school district that serves all of Clark County, Nevada, including the cities of Las Vegas, Henderson, North Las Vegas, and Boulder City.",
+			"meta": {
+				"refs": [
+					"https://www.ccsd.net/"
+				]
+			},
+			"uuid": "ac3df21e-0897-11eb-adc1-0242ac120002",
+			"value": "Clark County School District, NV"
+		},
+		{
+			"description": "Pell City is a city in St. Clair County, Alabama, United States. The city is the county seat of St. Clair County along with Ashville. At the 2000 census the population was 9,565. At the 2010 census, the city-limit population jumped to 12,695.",
+			"meta": {
+				"refs": [
+					"https://pell-city.com/"
+				]
+			},
+			"uuid": "ac3df534-0897-11eb-adc1-0242ac120002",
+			"value": "City of Pell City Alabama"
+		},
+		{
+			"description": "Transport Malta is a government body overseeing transport in Malta. It comes under the authority of the Maltese Ministry of Transport and Infrastructure.",
+			"meta": {
+				"refs": [
+					"https://www.transport.gov.mt/"
+				]
+			},
+			"uuid": "ac3df62e-0897-11eb-adc1-0242ac120002",
+			"value": "Transport Malta"
+		},
+		{
+			"description": "The nursing profession has been self-regulating in Ontario since 1963. Self-regulation is a privilege granted to professions that have shown they can put the interests of the public ahead of their own professional interests. It recognizes that Ontario’s nurses have the knowledge and expertise to regulate themselves as individual practitioners and to regulate their profession through the College. The College fulfils its role by establishing requirements for entry to practice, articulating and promoting practice standards, administering its Quality Assurance Program, and enforcing standards of practice and conduct. The College also supports the regulation of nursing in the public interest by participating in the legislative process, sharing statistical information about Ontario’s nurses, and The College works in partnership with employers, educators and government so that everyone in Ontario benefits from quality nursing services.",
+			"meta": {
+				"refs": [
+					"https://www.cno.org/en/what-is-cno/"
+				]
+			},
+			"uuid": "ac3df6f6-0897-11eb-adc1-0242ac120002",
+			"value": "College of Nurses of Ontario"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

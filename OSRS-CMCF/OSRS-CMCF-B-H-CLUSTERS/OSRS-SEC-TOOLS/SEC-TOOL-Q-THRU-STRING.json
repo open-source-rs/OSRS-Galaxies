@@ -1155,6 +1155,85 @@
       "value": "OSRS SecTool: Weave Scope"
     },
 	{
+      "description": "This package is constructed for testing the clustering patterns of structure and attribute among a social network through the scan statistics. Most contents are related to the references mentioned below. Some data sets are presented to be examples in this package as well.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/TunChiehHsu/SNscan"
+        ]
+      },
+      "uuid": "7f1903a4-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: SNScan"
+    },
+	{
+      "description": "WinRAR is a trialware file archiver utility for Windows, developed by Eugene Roshal of win.rar GmbH. It can create and view archives in RAR or ZIP file formats, and unpack numerous archive file formats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/WinRAR"
+        ]
+      },
+      "uuid": "7f1905b6-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: WinRAR"
+    },
+	{
+      "description": "As indicated by sources like vulndb & cve, on a daily basis, approximately 50 new vulnerabilities become known to industry and it’s safe to assume that count is going to increase furthermore. It’s a huge number of vulnerabilities to assess and remediate effectively and quickly. So today organizations are focusing (or should focus) on reducing the risk rather than eliminating it and vulnerability management is (almost) equal to risk prioritisation and risk is a variable and dynamic concept determined by multiple factors. Theoretically, the approach of considering factors like base CVSS, asset accessibility, criticality, exploit availability, business sensitivity etc. looks appropriate to adopt but it’s not practically possible to do it manually for every vulnerability affecting every asset by every organisation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/varchashva/vPrioritizer"
+        ]
+      },
+      "uuid": "7f1906b0-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: vPrioritizer"
+    },
+	{
+      "description": "Open-source, multi-cloud auditing tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/nccgroup/ScoutSuite/releases/tag/5.10",
+		  "https://research.nccgroup.com/2020/10/01/tool-release-scoutsuite-5-10/"
+        ]
+      },
+      "uuid": "7f190782-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: ScoutSuite"
+    },
+	{
+      "description": "A Simple Ransomware Protection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/Neo23x0/Raccine"
+        ]
+      },
+      "uuid": "7f19084a-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Raccine"
+    },
+	{
+      "description": "A Banner Grabber, in Go.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/zmap/zgrab"
+        ]
+      },
+      "uuid": "7f190908-08a7-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: zgrab"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

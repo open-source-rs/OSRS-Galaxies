@@ -17,6 +17,16 @@
       "value": "Test Amusement, Gambling, and Recreation Industries Value"
     },
 	{
+      "description": "Cache Creek Casino Resort is owned and operated by the Yocha Dehe Wintun Nation, located in Brooks, California. From its humble beginnings as a bingo hall in 1985, Cache Creek now features over 2,400 slot machines and 122 table games, including a 14-table Poker Room.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/cache-creek-casino-resort/about/"
+        ]
+      },
+      "uuid": "dabf8da6-08a0-11eb-adc1-0242ac120002",
+      "value": "Cache Creek Casino Resort"
+    },
+	{
       "description": "Tivoli, also known as Tivoli Gardens, is an amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
       "meta": {
         "refs": [

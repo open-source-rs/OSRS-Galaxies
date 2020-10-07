@@ -97,6 +97,16 @@
       "value": "Overseas Trade Co., Ltd. d.o.o."
     },
 	{
+      "description": "CMA CGM S.A. is a French container transportation and shipping company. It is a leading worldwide shipping group, using 200 shipping routes between 420 ports in 150 different countries, ranking fourth behind Maersk Line, MSC and COSCO Shipping Lines.",
+      "meta": {
+        "refs": [
+          "https://www.cma-cgm.com/"
+        ]
+      },
+      "uuid": "d5353fe6-08a2-11eb-adc1-0242ac120002",
+      "value": "CMA CGM S.A."
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

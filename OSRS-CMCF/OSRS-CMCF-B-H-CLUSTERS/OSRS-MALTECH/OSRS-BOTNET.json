@@ -620,6 +620,19 @@
       "value": "OSRS Botnet: Specter Botnet"
     },
 	{
+      "description": "In May 2019, researchers from Anomali discovered a new Golang malware targeting Windows, which they dubbed IPStorm (InterPlanetary Storm). IPStorm is a botnet that abuses a legitimate Peer-to-peer (p2p) network called InterPlanetary File System (IPFS) as a means to obscure malicious traffic. It was found the malware eventually allowed attackers to execute arbitrary PowerShell commands on the victim’s Windows machine. Our research team recently identified new Linux variants of IPStorm targeting various Linux architectures (ARM, AMD64, Intel 80386) and platforms (servers, Android, IoT). We have also detected a macOS variant. The macOS variant and most of the Linux samples are fully undetected in VirusTotal at the time of this publication. IPStorm is written in Golang, which enabled Intezer Analyze to detect cross-platform code connections between the Linux samples and the Windows malware first reported by Anomali. The Linux variant has additional features over the documented Windows version, such as using SSH brute-force as a means to spread to additional victims and fraudulent network activity abusing Steam gaming and advertising platforms. The Linux variant has adjusted some features in order to account for the fundamental differences that exist between this operating system and Windows.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/a-storm-is-brewing-ipstorm-now-has-linux-malware/"
+        ]
+      },
+      "uuid": "3345b3da-089a-11eb-adc1-0242ac120002",
+      "value": "OSRS Botnet: IPStorm Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

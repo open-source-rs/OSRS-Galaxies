@@ -87,6 +87,16 @@
       "value": "The Yaskawa Electric Corporation"
     },
 	{
+      "description": "Voxx International is an American consumer electronics company founded as Audiovox Corporation in 1960, and renamed Voxx in 2012. It is headquartered in Orlando, Florida.",
+      "meta": {
+        "refs": [
+          "https://www.voxxintl.com/"
+        ]
+      },
+      "uuid": "dabf90c6-08a0-11eb-adc1-0242ac120002",
+      "value": "Voxx International"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [
