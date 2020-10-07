@@ -3030,6 +3030,19 @@
       "value": "OSRS OSINT Source: Cybersecurity and Infrastructure Security Agency (CISA)"
     },
 	{
+      "description": "Barracuda Networks, Inc. is a company providing security, networking and storage products based on network appliances and cloud services. The company's security products include products for protection against email, web surfing, web hackers and instant messaging threats such as spam, spyware, trojans, and viruses.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.barracuda.com/"
+        ]
+      },
+      "uuid": "a2f57f8c-08b1-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Barracuda Networks Online Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

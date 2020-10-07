@@ -7427,6 +7427,19 @@
       "value": "OSRS OSINT Author Index: Cybersecurity and Infrastructure Security Agency (CISA)"
     },
 	{
+      "description": "Barracuda Networks. Greater Detroit Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/erezturjeman/"
+        ]
+      },
+      "uuid": "a2f57cee-08b1-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Erez Turjeman"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
