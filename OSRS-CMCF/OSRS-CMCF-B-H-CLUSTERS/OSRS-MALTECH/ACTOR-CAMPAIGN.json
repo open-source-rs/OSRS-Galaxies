@@ -2114,6 +2114,19 @@
       "value": "OSRS Actors AND Campaigns: Campaign - LagTime IT"
     },
 	{
+      "description": "ESET malware researchers Matthieu Faou and Francis Labelle say that the group has been running cyber-espionage campaigns since at least 2011. XDSpy’s main interest is in the Eastern Europe and Balkans regions (Belarus, Moldova, Russia, Serbia, and Ukraine), targeting primarily government agencies (military, Ministries of Foreign Affairs), although private companies are also among its victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/xdspy-cyber-espionage-group-operated-discretely-for-nine-years/"
+        ]
+      },
+      "uuid": "dd08a9d2-08b2-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: XDSpy APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
