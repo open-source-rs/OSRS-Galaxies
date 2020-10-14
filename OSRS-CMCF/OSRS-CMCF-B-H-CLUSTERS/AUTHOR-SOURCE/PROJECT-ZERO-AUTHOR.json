@@ -91,6 +91,20 @@
       "value": "OSRS CVE Author Index: Ben Hawkes"
     },
 	{
+      "description": "Senior Information Security Engineer at Google. Zurich, Canton of Zurich, Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:Project Zero Author"
+        ],
+        "refs": [
+          "https://googleprojectzero.blogspot.com/2020/10/enter-the-vault-auth-issues-hashicorp-vault.html",
+		  "https://www.linkedin.com/in/felix-wilhelm-298984133/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "fc8f35d0-0e1d-11eb-adc1-0242ac120002",
+      "value": "OSRS CVE Author Index: Felix Wilhelm"
+    },
+	{
       "description": "Security researcher and CVE author. Information Security Specialist - Intern at Trend Micro.",
       "meta": {
 	  "kill_chain": [

@@ -918,6 +918,16 @@
 			"value": "Gulf Coast State College"
 		},
 		{
+			"description": "The University of Mumbai, informally known as Mumbai University is a collegiate public state university located in Mumbai, Maharashtra. It offers bachelors, masters and Doctoral courses, as well as diplomas and certificates in many disciplines like the Arts, Commerce, Science, Medical and Engineering.",
+			"meta": {
+				"refs": [
+					"https://mu.ac.in/"
+				]
+			},
+			"uuid": "b2e6c1f6-0e17-11eb-adc1-0242ac120002",
+			"value": "University of Mumbai"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

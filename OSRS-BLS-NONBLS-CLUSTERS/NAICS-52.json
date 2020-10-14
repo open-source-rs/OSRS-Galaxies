@@ -678,6 +678,16 @@
 			"value": "Arthur J. Gallagher & Co."
 		},
 		{
+			"description": "The Ardonagh Group is the UK's largest independent insurance broker with global reach. We are a network of over 100 office locations and a workforce of nearly 7,000 people.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/the-ardonagh-group/about/"
+				]
+			},
+			"uuid": "b2e6c2e6-0e17-11eb-adc1-0242ac120002",
+			"value": "The Ardonagh Group"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

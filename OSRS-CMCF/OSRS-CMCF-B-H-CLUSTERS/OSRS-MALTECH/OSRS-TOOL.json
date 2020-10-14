@@ -5387,6 +5387,19 @@
       "value": "OSRS Tool: Kraken Loader"
     },
 	{
+      "description": "In summer 2020 we uncovered a previously unknown multi-module C++ toolset used in highly targeted industrial espionage attacks dating back to 2018. Initially the reason for our interest in this malware was its rarity, the obviously targeted nature of the campaign and the fact that there are no obvious similarities with already known campaigns at the level of code, infrastructure or TTPs. To date, we consider this toolset and the actor behind it to be new. The malware authors named the toolset MT3, following this abbreviation we have named the toolset MontysThree.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/montysthree-industrial-espionage/98972/"
+        ]
+      },
+      "uuid": "899c7c9e-0e23-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: MontysThree Toolset"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

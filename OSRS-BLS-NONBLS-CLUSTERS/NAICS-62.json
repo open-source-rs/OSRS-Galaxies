@@ -1499,6 +1499,16 @@
 			"value": "Copeman Healthcare"
 		},
 		{
+			"description": "Ambulance service Hattiesburg, MS 39402.",
+			"meta": {
+				"refs": [
+					"https://www.aaaambulance.net/"
+				]
+			},
+			"uuid": "5f0843c2-0e1a-11eb-adc1-0242ac120002",
+			"value": "AAA Ambulance Service"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

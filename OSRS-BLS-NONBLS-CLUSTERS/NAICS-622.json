@@ -716,6 +716,26 @@
 			"value": "Legacy Community Health"
 		},
 		{
+			"description": "University Hospital Limerick is a hospital located in Dooradoyle, Limerick, Ireland. It is managed by UL Hospitals Group.",
+			"meta": {
+				"refs": [
+					"https://www.hse.ie/eng/services/list/3/acutehospitals/hospitals/ulh/hospitals/uhl/"
+				]
+			},
+			"uuid": "5f08462e-0e1a-11eb-adc1-0242ac120002",
+			"value": "University Hospital Limerick"
+		},
+		{
+			"description": "St. Michael's Hospital is a teaching hospital and medical centre in Toronto, Ontario, Canada. It was established by the Sisters of St. Joseph in 1892, with the founding goal of taking care of the sick and poor of Toronto's inner city.",
+			"meta": {
+				"refs": [
+					"http://www.stmichaelshospital.com/"
+				]
+			},
+			"uuid": "5f08473c-0e1a-11eb-adc1-0242ac120002",
+			"value": "St. Michael’s Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

@@ -637,6 +637,19 @@
       "value": "OSRS Botnet: IPStorm Botnet"
     },
 	{
+      "description": "Recently, 360Netlab threat detection system captured a batch of unknown samples. The CPU architectures supported by this batch of samples are broad, including x86(32/64), ARM(32/64), MIPS(MIPS32/MIPS-III) and PPC, it is spreading through brute force of the Telnet service on ports 23/2323, which means the bot does not really care of what the end devices are, as long as it can enter the device, it will try its luck to infect the target. The botnet is written in Go language, and uses proprietary P2P protocol, we named it HEH Botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/heh-an-iot-p2p-botnet/"
+        ]
+      },
+      "uuid": "85cd72bc-0e14-11eb-adc1-0242ac120002",
+      "value": "OSRS Botnet: HEH Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

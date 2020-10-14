@@ -1070,6 +1070,45 @@
       "value": "OSRS Ransomware: Mount Locker Ransomware"
     },
 	{
+      "description": "FONIX Raas (Ransomware as a Service) is an offering that first came to attention in July of this year. It did not make much of a splash at the time, and even currently, we are only seeing small numbers of infections due to this ransomware family. However, RaaS that at first fly under the radar can quickly become rampant if defenders and security solutions remain unaware of them. Notably, FONIX varies somewhat from many other current RaaS offerings in that it employs four methods of encryption for each file and has an overly-complex post-infection engagement cycle. In this post, we dig a little deeper into these and other peculiarities of this new RaaS offering.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/the-fonix-raas-new-low-key-threat-with-unnecessary-complexities/"
+        ]
+      },
+      "uuid": "899c77e4-0e23-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: FONIX RaaS"
+    },
+	{
+      "description": "A custom and relatively simplistic ransomware written in the Go programming language.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/employer21-targeting-teachers-ransomware-disguised-class-assignments"
+        ]
+      },
+      "uuid": "899c7ad2-0e23-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: cryptme Ransomware"
+    },
+	{
+      "description": "W3Cryptolocker is a relatively new ransomware. Based on telemetry, this ransomware surfaced in July 2020. Dubbed W3Cryptolocker, based on a string found in its code. The loader was hosted on a potentially hacked site, italake.com. It will encrypt all files in all drives except for files having .xls extension.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blogs.juniper.net/en-us/threat-research/new-pastebin-like-service-used-in-multiple-malware-campaigns"
+        ]
+      },
+      "uuid": "899c7bcc-0e23-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: W3Cryptolocker Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

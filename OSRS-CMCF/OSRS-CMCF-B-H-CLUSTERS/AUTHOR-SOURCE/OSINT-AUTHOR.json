@@ -7440,6 +7440,19 @@
       "value": "OSRS OSINT Author Index: Erez Turjeman"
     },
 	{
+      "description": "Senior Cyber Security Analyst at Deutsche Telekom Security. Bonn, North Rhine-Westphalia, Germany.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tbarabosch/?originalSubdomain=de"
+        ]
+      },
+      "uuid": "fc8f392c-0e1d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Thomas Barabosch"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

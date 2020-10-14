@@ -196,6 +196,16 @@
 			"value": "Experian PLC (South Africa)"
 		},
 		{
+			"description": "WisePay is a leading supplier of flexible payment, booking and communication services for education.   We streamline finance and administration processes in schools and colleges saving education providers time and money.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wisepay/about/"
+				]
+			},
+			"uuid": "b2e6bf76-0e17-11eb-adc1-0242ac120002",
+			"value": "WisePay"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

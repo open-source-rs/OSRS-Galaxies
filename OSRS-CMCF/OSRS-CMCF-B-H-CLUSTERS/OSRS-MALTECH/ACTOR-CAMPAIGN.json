@@ -2127,6 +2127,19 @@
       "value": "OSRS Actors AND Campaigns: XDSpy APT"
     },
 	{
+      "description": "In summer 2020 we uncovered a previously unknown multi-module C++ toolset used in highly targeted industrial espionage attacks dating back to 2018. Initially the reason for our interest in this malware was its rarity, the obviously targeted nature of the campaign and the fact that there are no obvious similarities with already known campaigns at the level of code, infrastructure or TTPs. To date, we consider this toolset and the actor behind it to be new. The malware authors named the toolset MT3, following this abbreviation we have named the toolset MontysThree.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/montysthree-industrial-espionage/98972/"
+        ]
+      },
+      "uuid": "85cd71f4-0e14-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: MT3 Threat Actor"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

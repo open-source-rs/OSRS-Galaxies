@@ -107,6 +107,36 @@
       "value": "CMA CGM S.A."
     },
 	{
+      "description": "Daniel B. Hastings, Inc. offers a full range of customs brokerage and warehouse and distribution services for organizations that need to move their goods across the U.S.-Mexico border and around the globe. Warehouse & Distribution. Transportation & Freight-Forwarding.",
+      "meta": {
+        "refs": [
+          "https://cphgroupusa.com/hastings/"
+        ]
+      },
+      "uuid": "370f2b5e-0e1c-11eb-adc1-0242ac120002",
+      "value": "Daniel B. Hastings, Inc."
+    },
+	{
+      "description": "Established in 1976, Airlink International U.A.E.  has been set up to be a one-stop solution for any organizations’ travel and logistics management requirement in the United Arab Emirates and even other countries. We provide the best quality of end-to-end and world-class solutions to deliver comprehensive logistics result to our clients. Backed by an extensive integrated network and professionals in the industry.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/airlinkinternationaluae/about/"
+        ]
+      },
+      "uuid": "370f2f6e-0e1c-11eb-adc1-0242ac120002",
+      "value": "Airlink International U.A.E."
+    },
+	{
+      "description": "Daseke, Inc. is the largest owner and a leading consolidator of flatbed and specialized transportation in North America, comprising 16 operating companies with over 5,200 trucks and over 11,000 flatbed and specialized trailers.",
+      "meta": {
+        "refs": [
+          "https://www.daseke.com/"
+        ]
+      },
+      "uuid": "370f3252-0e1c-11eb-adc1-0242ac120002",
+      "value": "Daseke, Inc."
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

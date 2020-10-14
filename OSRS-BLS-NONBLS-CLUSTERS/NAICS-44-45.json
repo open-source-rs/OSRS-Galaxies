@@ -397,6 +397,16 @@
 			"value": "Staples Inc."
 		},
 		{
+			"description": "Sam's West, Inc. is an American chain of membership-only retail warehouse clubs owned and operated by Walmart Inc., founded in 1983 and named after Walmart founder Sam Walton.",
+			"meta": {
+				"refs": [
+					"https://www.samsclub.com/"
+				]
+			},
+			"uuid": "c43e1e14-0e1b-11eb-adc1-0242ac120002",
+			"value": "Sam's West, Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

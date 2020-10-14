@@ -2724,6 +2724,66 @@
 			"value": "eResearchTechnology, Inc."
 		},
 		{
+			"description": "Snewpit is an online platform making news more available, more relevant and more immediate for everyone.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/snewpit/about/"
+				]
+			},
+			"uuid": "efd91f98-0e1a-11eb-adc1-0242ac120002",
+			"value": "Snewpit"
+		},
+		{
+			"description": "Chowbus is an online and mobile food-ordering platform that curates daily featured dishes from select ethnic restaurants and delivers them hot and fresh directly to your home or office. What makes Chowbus different is the dish-centric ordering experience so consumers can easily explore authentic ethnic food.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/chowbus/about/"
+				]
+			},
+			"uuid": "efd9227c-0e1a-11eb-adc1-0242ac120002",
+			"value": "Chowbus"
+		},
+		{
+			"description": "Dr. Lal PathLabs Limited is an international service provider of diagnostic and related healthcare tests. Based in Delhi, the company offers a broad range of tests on blood, urine and other human body viscera.",
+			"meta": {
+				"refs": [
+					"https://www.lalpathlabs.com/"
+				]
+			},
+			"uuid": "efd92376-0e1a-11eb-adc1-0242ac120002",
+			"value": "Dr. Lal PathLabs Limited"
+		},
+		{
+			"description": "Founded in 1969, Software AG is an enterprise software company with over 10,000 enterprise customers in over 70 countries. The company is the second largest software vendor in Germany, and the seventh largest in Europe.",
+			"meta": {
+				"refs": [
+					"https://www.softwareag.com/en_corporate.html"
+				]
+			},
+			"uuid": "efd92448-0e1a-11eb-adc1-0242ac120002",
+			"value": "Software AG"
+		},
+		{
+			"description": "HomeWAV is the leader in providing simple, secure inmate communication solutions. Our patented platform is the first of its kind to satisfy the growing demands in the correctional industry. We partner with detention facilities to deliver flexible solutions that reduce security risks, ease administrative burdens, and deliver much needed revenue streams during a time of heightened regulation.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/homewav/about/"
+				]
+			},
+			"uuid": "efd9252e-0e1a-11eb-adc1-0242ac120002",
+			"value": "HomeWAV"
+		},
+		{
+			"description": "Online document signing application.",
+			"meta": {
+				"refs": [
+					"https://www.docsketch.com/"
+				]
+			},
+			"uuid": "efd927d6-0e1a-11eb-adc1-0242ac120002",
+			"value": "Docsketch"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
