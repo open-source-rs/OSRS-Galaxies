@@ -1234,6 +1234,45 @@
       "value": "OSRS SecTool: zgrab"
     },
 	{
+      "description": "Raptor is a Web application firewall made in C, uses DFA to block SQL injection, Cross site scripting and path traversal.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/CoolerVoid/raptor_waf"
+        ]
+      },
+      "uuid": "63294294-147d-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Raptor WAF"
+    },
+	{
+      "description": "A Python based scanner to find potential SSRF parameters in a web application.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/In3tinct/See-SURF"
+        ]
+      },
+      "uuid": "632944ba-147d-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: See-SURF"
+    },
+	{
+      "description": "Takeover AWS ips and have a working POC for Subdomain Takeover.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/In3tinct/Taken"
+        ]
+      },
+      "uuid": "632945b4-147d-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Taken"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

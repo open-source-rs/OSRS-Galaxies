@@ -137,6 +137,16 @@
       "value": "Equinix, Inc."
     },
 	{
+      "description": "Metaformers is a business transformation and cloud delivery technology organization helping our customers to strategically transform and modernize their organizations. Metaformers partners with our customers and their executive leaders, providing a transformation center of excellence to make the leaps needed to achieve the executive’s vision and true ROI from their process change and technology investment.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/metaformers/about/"
+        ]
+      },
+      "uuid": "31507c8a-1471-11eb-adc1-0242ac120002",
+      "value": "Metaformers, Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

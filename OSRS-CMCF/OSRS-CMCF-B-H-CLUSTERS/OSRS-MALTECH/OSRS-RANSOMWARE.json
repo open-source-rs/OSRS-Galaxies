@@ -1109,6 +1109,48 @@
       "value": "OSRS Ransomware: W3Cryptolocker Ransomware"
     },
 	{
+      "description": "The Phobos ransomware family is fairly recent, only having been first spotted by security researchers in early 2019. But since then, it has continued to push out new variants that not only evolve attack methods, but also frequently change the extension name of encrypted files in past variants. And in its short history, its victims have often complained that they were cheated by the attacker of Phobos by not restoring files. Two weeks ago, FortiGuard Labs captured a new threat sample from the wild. It was a Microsoft Word document with a malicious Macro designed to spread the EKING variant of Phobos. I ran a deep analysis on this sample, and in this analysis post I will show how this variant infects victim’s system and how it scans and encrypts files using an AES algorithm on a victim’s device as well as shared network folders.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/deep-analysis-the-eking-variant-of-phobos-ransomware"
+        ],
+        "synonyms": [
+        "Phobos Ransomware variant"
+        ]
+      },
+      "uuid": "07f6a68e-147b-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: EKING Ransomware"
+    },
+	{
+      "description": "Original version ransomware now called Razny Locker Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/thunderx-ransomware-rebrands-as-ranzy-locker-adds-data-leak-site/"
+        ]
+      },
+      "uuid": "07f6a986-147b-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: ThunderX Ransomware"
+    },
+	{
+      "description": "Originally ThunderX Ransomware. While the name has changed, strings associated with a PDB debug file in the ransomware executables still show it is the same as ThunderX.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/thunderx-ransomware-rebrands-as-ranzy-locker-adds-data-leak-site/"
+        ]
+      },
+      "uuid": "07f6aae4-147b-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Ranzy Locker Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

@@ -748,6 +748,19 @@
       "value": "OSRS SecTool Type: Search Engine"
     },
 	{
+      "description": "A web application firewall is a specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Type"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Web_application_firewall"
+        ]
+      },
+      "uuid": "6329467c-147d-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool Type: Web Application Firewall (WAF)"
+    },
+	{
       "description": "Tools used to inspect data from various directions. Typically includes some form of data visualiztion.",
       "meta": {
 	  "kill_chain": [

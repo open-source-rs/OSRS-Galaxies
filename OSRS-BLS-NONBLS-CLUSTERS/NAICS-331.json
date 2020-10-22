@@ -37,6 +37,16 @@
       "value": "BlueScope Steel Limited"
     },
 	{
+      "description": "JSW Steel Ltd. is an Indian steel making company based in Mumbai, Maharashtra. It is a subsidiary of JSW Group. It is one of the fastest growing companies in India with a global footprint in over 140 countries. After the merger of ISPAT steel, JSW Steel has become India's second largest private sector steel company.",
+      "meta": {
+        "refs": [
+          "https://www.jsw.in/"
+        ]
+      },
+      "uuid": "67e33138-1472-11eb-adc1-0242ac120002",
+      "value": "JSW Steel Ltd."
+    },
+	{
       "description": "Norsk Hydro ASA is a Norwegian aluminium and renewable energy company, headquartered in Oslo. It is one of the largest aluminium companies worldwide. It has operations in some 50 countries around the world and is active on all continents.",
       "meta": {
         "refs": [

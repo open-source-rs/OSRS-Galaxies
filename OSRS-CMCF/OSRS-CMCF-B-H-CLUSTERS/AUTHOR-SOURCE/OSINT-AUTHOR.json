@@ -7453,6 +7453,32 @@
       "value": "OSRS OSINT Author Index: Thomas Barabosch"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/2020/10/theres-a-new-a-golang-written-rat-in-town/"
+        ]
+      },
+      "uuid": "22e2b146-147a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Silvia Pripoae"
+    },
+	{
+      "description": "Security Analyst at Bitdefender. Bucharest, Bucharest, Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/silviu-stahie/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "22e2b2d6-147a-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Silviu STAHIE"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

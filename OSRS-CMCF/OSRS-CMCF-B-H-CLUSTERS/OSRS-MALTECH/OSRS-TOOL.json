@@ -5400,6 +5400,110 @@
       "value": "OSRS Tool: MontysThree Toolset"
     },
 	{
+      "description": "Packeged malware kit that includes droppers and other backdoor capabilities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0b6197a4-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: IAmTheKing’s Toolset"
+    },
+	{
+      "description": "This C++ backdoor, which contains the character strings discussed above, is the first element of this toolset we encountered. It comes in EXE or DLL variants, and we have been able to find traces of this family dating back to 2014. We believe it was distributed through spear-phishing e-mails containing malicious Word documents, but have been unable to obtain samples of these. The infection process relies on a PowerShell script that downloads from a remote server a base64-encoded payload hidden in an image file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0b6199c0-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: KingOfHearts Backdoor"
+    },
+	{
+      "description": "QueenOfHearts also interacts with its C2 server over HTTP. It sends simple GET requests containing a backdoor identifier and optional victim machine information, then reads orders located in the cookie header of the reply. Orders come in the form of two-letter codes which tend to vary between samples. As of today, this family is still in active development, and we have observed code refactoring as well as incremental upgrades over 2020. For instance, earlier backdoor responses were sent as base64-encoded payloads in POST requests. They are now compressed beforehand, and additionally supplied through the cookie header.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0b619ac4-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: QueenOfHearts Backdoor"
+    },
+	{
+      "description": "This C++ backdoor also offers similar features as KingOfHearts, as well as the ability to execute arbitrary Powershell scripts. One minute difference is that in this one, screenshot capture capabilities are embedded directly into the program instead of being handled by a separate utility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0b619b96-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: QueenOfClubs Backdoor"
+    },
+	{
+      "description": "JackOfHearts is the dropper associated with QueenOfHearts. Its role is to write the malware somewhere on the disk and create a Windows service pointing to it as well as a shortcut in the startup folder that is also used to immediately launch QueenOfHearts. This shortcut is the one that contains references to a david user highlighted by the DHS CISA report. Finally, the dropper creates a self-deletion utility in the TEMP folder to remove itself from the filesystem.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0b619c68-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: JackOfHearts Dropper"
+    },
+	{
+      "description": "The infection starts with a PowerShell loading script, which is copied from other infected systems with SMB, email or external USB drives. The actor also employs several exploits for vulnerabilities such as SMBGhost and Eternal Blue. The code exploiting the Bluekeep vulnerability is also present but it is disabled in the version we analysed. The botnet has executable modules that get downloaded and driven by the main module, which communicates with the command and control (C2) server over HTTP. The email-spreading module uses COVID-19-related subject lines and text, with an infected attachment sent using Outlook automation to every contact in the affected user's address book.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/10/lemon-duck-brings-cryptocurrency-miners.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "abe6924c-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Lemon Duck Miner"
+    },
+	{
+      "description": "IBM Security Trusteer researchers have discovered a new malware code and active campaign targeting online banking users in Brazil. The malware, coined Vizom by the team, uses familiar remote overlay attack tactics to take over user devices in real time, as the intended victim logs in, and then initiates fraudulent transactions from their bank account. What we found interesting about Vizom, is the way it infects and deploys on user devices. It uses ‘DLL hijacking’ to sneak into legitimate directories on Windows-based machines, masked as a legitimate, popular video conferencing software, and tricks the operating system’s inherent logic to load its malicious Dynamic Link Libraries (DLLs) before it loads the legitimate ones that belong in that address space. It uses similar tactics to operate the attack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/vizom-malware-targets-brazilian-bank-customers-remote-overlay/"
+        ]
+      },
+      "uuid": "abe694a4-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Vizom RAT"
+    },
+	{
+      "description": "Recently, 360 Security Center has detected a variety of hacking Trojans through the fileless attack protection function，and Trojans spread through the new Trojan distribution framework. According to the framework’s peculiar naming method, we named it SolarSys. SolarSys is mainly active in Brazil (South America), and Brazil has always been one of the regions where banking Trojans are extremely active. The SolarSys framework is mainly composed of JavaScript backdoors, mail worms and multiple spy modules.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.360totalsecurity.com/en/secret-stealing-trojan-active-in-brazil-releases-the-new-framework-solarsys/"
+        ]
+      },
+      "uuid": "abe6959e-147e-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: SolarSys Framework"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

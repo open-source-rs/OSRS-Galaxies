@@ -187,6 +187,16 @@
       "value": "Foodora"
     },
 	{
+      "description": "Dickey’s Barbecue Pit is a family-owned American barbecue restaurant chain based in Dallas, Texas, and is a subsidiary of Dickey's Capital Group. Since Travis Dickey established the restaurant in 1941, it has become the largest barbecue franchise in the United States.",
+      "meta": {
+        "refs": [
+          "https://www.dickeys.com/"
+        ]
+      },
+      "uuid": "31507d84-1471-11eb-adc1-0242ac120002",
+      "value": "Dickey's Barbecue Pit"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [

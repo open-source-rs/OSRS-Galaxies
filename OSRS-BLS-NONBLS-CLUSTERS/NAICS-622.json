@@ -736,6 +736,16 @@
 			"value": "St. Michael’s Hospital"
 		},
 		{
+			"description": "The Royal Infirmary of Edinburgh, or RIE, often known as the Edinburgh Royal Infirmary, or ERI, was established in 1729 and is the oldest voluntary hospital in Scotland. The new buildings of 1879 were claimed to be the largest voluntary hospital in the United Kingdom, and later on, the Empire.",
+			"meta": {
+				"refs": [
+					"https://www.nhslothian.scot/GoingToHospital/Locations/RIE/Pages/default.aspx"
+				]
+			},
+			"uuid": "67e32e22-1472-11eb-adc1-0242ac120002",
+			"value": "The Royal Infirmary of Edinburgh"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

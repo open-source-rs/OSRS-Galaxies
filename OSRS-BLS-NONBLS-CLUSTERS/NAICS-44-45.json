@@ -407,6 +407,16 @@
 			"value": "Sam's West, Inc."
 		},
 		{
+			"description": "Barnes & Noble, Inc., is an American bookseller. It is a Fortune 1000 company and the bookseller with the largest number of retail outlets in the United States. As of March 7, 2019, the company operates 627 retail stores in all 50 U.S. states. In August 2019, Elliott Management Corporation acquired the company.",
+			"meta": {
+				"refs": [
+					"https://www.barnesandnoble.com/"
+				]
+			},
+			"uuid": "eacdacaa-1476-11eb-adc1-0242ac120002",
+			"value": "Barnes & Noble, Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

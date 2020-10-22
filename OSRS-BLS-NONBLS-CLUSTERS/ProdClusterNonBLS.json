@@ -3543,6 +3543,46 @@
 			"value": "Tyngsborough Public Schools"
 		},
 		{
+			"description": "The Walled Lake Consolidated School District is a school district with its headquarters in the Educational Services Center in Walled Lake, Michigan in Greater Detroit. The district has 12 elementary schools, four middle schools, and three high schools which serve over 14,000 children.",
+			"meta": {
+				"refs": [
+					"https://wlcsd.org/"
+				]
+			},
+			"uuid": "7b7b790e-146c-11eb-adc1-0242ac120002",
+			"value": "Walled Lake Consolidated Schools"
+		},
+		{
+			"description": "Mount Pleasant is a city in the U.S. state of Michigan. Located in Central Michigan, the city is the county seat of Isabella County. The population was 26,016 as of the 2010 census. It is surrounded by Union Township but is politically independent.",
+			"meta": {
+				"refs": [
+					"http://www.mt-pleasant.org/"
+				]
+			},
+			"uuid": "7b7b7b48-146c-11eb-adc1-0242ac120002",
+			"value": "The City of Mount Pleasant"
+		},
+		{
+			"description": "Hackney London Borough Council is the local government authority for the London Borough of Hackney, London, England, one of 32 London borough councils.",
+			"meta": {
+				"refs": [
+					"https://hackney.gov.uk/"
+				]
+			},
+			"uuid": "7b7b7d1e-146c-11eb-adc1-0242ac120002",
+			"value": "Hackney London Borough Council"
+		},
+		{
+			"description": "Lexington is a city in Kentucky. It’s known for horse farms and thoroughbred racetracks like Keeneland. The Kentucky Horse Park features the International Museum of the Horse, the Hall of Champions and many equine breeds. Ashland, the estate of 1800s politician Henry Clay, includes a mansion and formal garden. Clay is buried at the Lexington Cemetery, which has an arboretum, lakes and a Romanesque gatehouse.",
+			"meta": {
+				"refs": [
+					"https://www.lexingtonky.gov/"
+				]
+			},
+			"uuid": "7b7b7e04-146c-11eb-adc1-0242ac120002",
+			"value": "The City of Lexington, KY"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

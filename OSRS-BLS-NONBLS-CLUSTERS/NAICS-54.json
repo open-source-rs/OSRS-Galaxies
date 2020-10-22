@@ -2784,6 +2784,86 @@
 			"value": "Docsketch"
 		},
 		{
+			"description": "IT solutions company based in Malta.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/c-planet-malta"
+				]
+			},
+			"uuid": "d5d7483c-1472-11eb-adc1-0242ac120002",
+			"value": "C-Planet IT Solutions LTD"
+		},
+		{
+			"description": "Seyfarth Shaw LLP is an international AmLaw 100 law firm headquartered in Chicago, Illinois. Founded in Chicago in 1945 by Henry Seyfarth, Lee Shaw, and Owen Fairweather, Seyfarth Shaw originally focused on the area of labor and employment law.",
+			"meta": {
+				"refs": [
+					"https://www.seyfarth.com/"
+				]
+			},
+			"uuid": "d5d74aa8-1472-11eb-adc1-0242ac120002",
+			"value": "Seyfarth Shaw LLP"
+		},
+		{
+			"description": "At The Health and Wellness Clinic we listen first. Our goal is to truly understand why you’re here, look at you as a whole person with many components and recommend and deliver the most conservative and effective natural care. Our diverse collection of practitioners are able to inter-refer if another skill set will assist on your journey to health and wellness. From gut health to low back pain, pregnancy to hormone imbalance and babies to elderly our practitioners can assist with a natural solution. Let us be a part of your journey. Wellness begins with us.",
+			"meta": {
+				"refs": [
+					"https://thehealthandwellnessclinic.com/"
+				]
+			},
+			"uuid": "d5d74bac-1472-11eb-adc1-0242ac120002",
+			"value": "The Health And Wellness Clinic"
+		},
+		{
+			"description": "Proctortrack is the only automated proctoring solution that continuously verifies the identity of online test takers.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/showcase/proctortrack/about/"
+				]
+			},
+			"uuid": "d5d74c7e-1472-11eb-adc1-0242ac120002",
+			"value": "ProctorTrack"
+		},
+		{
+			"description": "At Verificient Technologies, we utilize artificial intelligence, machine learning, computer visioning and biometrics in forming our Trusted Identity-as-a-Service (TIaaS),a platform for identity verification and authentication. Over the last 5 years, we've become a leader in the industry to deliver continuous identity verification and digital remote monitoring. Weaving these advanced technologies together with user-centered design and award-winning customer service, our patented automated approach, pairs usability with accurate results and true scalability.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/verificient-technologies/about/"
+				]
+			},
+			"uuid": "d5d74d46-1472-11eb-adc1-0242ac120002",
+			"value": "Verificient Technologies"
+		},
+		{
+			"description": "Ubisoft Entertainment SA is a French video game company headquartered in Montreuil with several development studios across the world. It publishes games for several video game franchises, including Rayman, Raving Rabbids, Prince of Persia, Assassin's Creed, Far Cry, Just Dance, and the Tom Clancy's series.",
+			"meta": {
+				"refs": [
+					"https://www.ubisoft.com/en-us/"
+				]
+			},
+			"uuid": "eacda0c0-1476-11eb-adc1-0242ac120002",
+			"value": "Ubisoft Entertainment SA"
+		},
+		{
+			"description": "Crytek GmbH is a German video game developer and software developer based in Frankfurt. Founded by the Yerli brothers in Coburg in 1999 and moved to Frankfurt in 2006, Crytek also operates further studios in Kyiv, Ukraine and Istanbul, Turkey.",
+			"meta": {
+				"refs": [
+					"https://www.crytek.com/"
+				]
+			},
+			"uuid": "eacda37c-1476-11eb-adc1-0242ac120002",
+			"value": "Crytek GmbH"
+		},
+		{
+			"description": "Stats Perform is a Chicago-based sports data and analytics company. The company is involved in sports data collection and predictive analysis, and maintains sports-oriented wire services. The company has also been increasingly involved in artificial intelligence and machine learning.",
+			"meta": {
+				"refs": [
+					"https://www.statsperform.com/"
+				]
+			},
+			"uuid": "eacdaaac-1476-11eb-adc1-0242ac120002",
+			"value": "Stats Perform"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

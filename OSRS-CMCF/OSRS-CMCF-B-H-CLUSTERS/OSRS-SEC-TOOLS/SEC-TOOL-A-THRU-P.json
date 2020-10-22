@@ -1901,6 +1901,19 @@
       "value": "OSRS SecTool: pnscan"
     },
 	{
+      "description": "Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/samratashok/nishang"
+        ]
+      },
+      "uuid": "07f6ac10-147b-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Nishang Framework"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

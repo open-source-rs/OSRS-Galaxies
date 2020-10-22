@@ -206,6 +206,16 @@
 			"value": "WisePay"
 		},
 		{
+			"description": "Spotless Group Holdings is an Australian listed company that provides Integrated facility services in Australian and New Zealand through a number of in house brands.",
+			"meta": {
+				"refs": [
+					"https://www.spotless.com/"
+				]
+			},
+			"uuid": "31507a3c-1471-11eb-adc1-0242ac120002",
+			"value": "Spotless Group Holdings"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

@@ -2140,6 +2140,46 @@
       "value": "OSRS Actors AND Campaigns: MT3 Threat Actor"
     },
 	{
+      "description": "While the public has only recently discovered this set of activity, IAmTheKing has been very active for a few years. Considering the type of organizations that cybercriminals have been targeting, we felt that there was little public interest in raising awareness about this group beyond our trusted circle of industry partners. However, now that researchers have started investigating this threat actor, we want to assist the community as much as possible by providing this brief summary of our knowledge of IAmTheKing. Based on the type of information IAmTheKing is after, we believe that it is state-sponsored. Its toolset is rapidly evolving, and it is not afraid to experiment with non-standard communications channels. The group is characterized by a mastery of traditional pentesting methodologies and a solid command of Powershell. Data available to us indicates that it has achieved operational success on numerous occasions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/iamtheking-and-the-slothfulmedia-malware-family/99000/"
+        ]
+      },
+      "uuid": "0a09f014-146e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: IAmTheKing Threat Actor"
+    },
+	{
+      "description": "A ransomware gang going by the of Egregor has leaked data it claims to have obtained from the internal networks of two of today's largest gaming companies — Ubisoft and Crytek.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/ubisoft-crytek-data-posted-on-ransomware-gangs-site/"
+        ]
+      },
+      "uuid": "0a09f244-146e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Egregor Ransomware Gang"
+    },
+	{
+      "description": "This is not the first time that Iranian threat actors use wipers as part of their TTPs. The threat actor APT33 used wipers in at least three different attacks, the most notorious of them being the Shamoon attack. In contrast to APT33, MuddyWater is known for their social engineering campaigns. The primary objectives of previous MuddyWater campaigns were espionage and information theft. In Operation Quicksand we uncovered the first known instance of a potentially destructive attack executed by MuddyWater, focusing on prominent organizations in Israel and in other countries around the world. We identified a repetitive PDB path in the networks that were researched containing the word Covic. This may indicate a covid-19 inspiration and suggests the possible dates in which MuddyWater might have developed the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.clearskysec.com/operation-quicksand/",
+		  "https://www.clearskysec.com/wp-content/uploads/2020/10/Operation-Quicksand.pdf"
+        ]
+      },
+      "uuid": "0a09f33e-146e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation Quicksand"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

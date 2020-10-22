@@ -1509,6 +1509,36 @@
 			"value": "AAA Ambulance Service"
 		},
 		{
+			"description": "Hennepin County Medical Center is a Level I adult and pediatric trauma center and safety net hospital in Minneapolis, Minnesota, the county seat of Hennepin County.",
+			"meta": {
+				"refs": [
+					"https://www.hennepinhealthcare.org/"
+				]
+			},
+			"uuid": "e83468b2-1471-11eb-adc1-0242ac120002",
+			"value": "Hennepin HealthCare"
+		},
+		{
+			"description": "The GGD Amsterdam is the largest Medical and Health Service in the Netherlands, employs approximately 1200 people and has a wide range of activities in the field of public health. The working area of ​​the GGD Amsterdam includes the municipalities of Amsterdam, Aalsmeer, Amstelveen, Diemen, Ouder-Amstel and Uithoorn. The GGD Amsterdam is part of the Municipality of Amsterdam.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/ggd-amsterdam/about/"
+				]
+			},
+			"uuid": "e8346b1e-1471-11eb-adc1-0242ac120002",
+			"value": "GGD Amsterdam"
+		},
+		{
+			"description": "Since that initial hospital meeting held in 1881, Oswego Hospital has evolved into a healthcare system that includes many vital services and programs. Today, the Oswego Health system includes Oswego Hospital, a 164-bed facility offering acute medical, emergency, surgical, maternity and behavioral services; The Manor at Seneca Hill, providing 24-hour skilled nursing, rehabilitation services and an Adult Day Health Services Program; as well as Springside at Seneca Hill, which offers retirement living for independent seniors. In 2009, Oswego Health introduced urgent care services to Oswego County with the opening of the Fulton Medical Center, where residents can also have laboratory and medical imaging screenings conducted and businesses can take advantage of our occupational health department. A year later, the health system expanded once again when it unveiled the Central Square Medical Center, offering urgent care, lab and medical imaging services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/oswego-health/about/"
+				]
+			},
+			"uuid": "e8346c22-1471-11eb-adc1-0242ac120002",
+			"value": "Oswego Health"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

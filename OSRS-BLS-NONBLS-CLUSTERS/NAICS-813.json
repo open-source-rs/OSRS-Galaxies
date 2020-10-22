@@ -275,6 +275,16 @@
 			"value": "UJIA (United Jewish Israel Appeal)"
 		},
 		{
+			"description": "Protecting the land that protects the lake since 1988. The Lake George Land Conservancy is an accredited not-for-profit land trust dedicated to working with willing landowners and other partners to protect the world-renowned water quality of Lake George and to permanently preserve the natural, scenic, historical and recreational resources of the Lake George region.",
+			"meta": {
+				"refs": [
+					"http://www.lglc.org/"
+				]
+			},
+			"uuid": "eacdabe2-1476-11eb-adc1-0242ac120002",
+			"value": "The Lake George Land Conservancy"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
