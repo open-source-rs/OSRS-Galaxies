@@ -137,6 +137,16 @@
       "value": "Daseke, Inc."
     },
 	{
+      "description": "Japan Post Holdings Co., Ltd. is a Japanese publicly traded conglomerate headquartered in Kasumigaseki, Chiyoda, Tokyo. It is mainly engaged in postal and logistics business, financial window business, banking business and life insurance business.",
+      "meta": {
+        "refs": [
+          "https://www.post.japanpost.jp/index_en.html"
+        ]
+      },
+      "uuid": "971dc0e0-192b-11eb-adc1-0242ac120002",
+      "value": "Japan Post Co., Ltd."
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

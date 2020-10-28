@@ -1539,6 +1539,16 @@
 			"value": "Oswego Health"
 		},
 		{
+			"description": "At DCHS, our mission is simple to improve health every day. We are seeking providers to join our group who will share in our mission and help to cultivate our vision to be the healthcare provider of choice for the communities we serve. Be an integral partner with one of the country's top-ranked, most respected healthcare systems. As a system, DCHS is dedicated to purchasing the most advanced technology, operating state-of-the-art facilities and introducing new and innovative models of care.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/dickinson-county-healthcare-system/about/"
+				]
+			},
+			"uuid": "a2a69132-1929-11eb-adc1-0242ac120002",
+			"value": "Dickinson County Healthcare System"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -650,6 +650,22 @@
       "value": "OSRS Botnet: HEH Botnet"
     },
 	{
+      "description": "Named KashmirBlack, the botnet started operating in November 2019. Security researchers from Imperva —who analyzed the botnet last week in a two-part series— said the botnet's primary purpose appears to be to infect websites and then use their servers for cryptocurrency mining, redirecting a site's legitimate traffic to spam pages, and to a lesser degree, showing web defacements. Imperva said the botnet started out small, but after months of constant growth, it has evolved into a sophisticated behemoth capable of attacking thousands of sites per day. The biggest changes occurred in May this year when the botnet increased both its command-and-control (C&C) infrastructure, but also its exploit arsenal. Nowadays, KashmirBlack is managed by one C&C (Command and Control) server and uses more than 60 – mostly innocent surrogate – servers as part of its infrastructure, Imperva said. The botnet handles hundreds of bots, each communicating with the C&C to receive new targets, perform brute force attacks, install backdoors, and expand the size of the botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/kashmirblack-botnet-behind-attacks-on-cmss-like-wordpress-joomla-drupal-others/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-i/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+		  "https://www.imperva.com/blog/wp-content/uploads/sites/9/2020/10/CrimeOps-of-the-KashmirBlack-Botnet-Appendix.pdf"
+        ]
+      },
+      "uuid": "ce04c19a-1925-11eb-adc1-0242ac120002",
+      "value": "OSRS Botnet: KashmirBlack Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

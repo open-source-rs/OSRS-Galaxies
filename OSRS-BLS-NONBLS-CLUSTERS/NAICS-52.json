@@ -688,6 +688,16 @@
 			"value": "The Ardonagh Group"
 		},
 		{
+			"description": "Scalable Capital was founded in 2014 with the mission to use modern technology to provide a broad group of investors with access to a form of investment that was previously reserved for very wealthy investors. In 2020, Scalable Capital expanded its offering. In addition to digital wealth management, it now also includes a newly developed neo-broker, through which clients can trade shares, ETFs and funds conveniently and affordably.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/scalable-capital/about/"
+				]
+			},
+			"uuid": "86c79d30-1929-11eb-adc1-0242ac120002",
+			"value": "Scalable Capital"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

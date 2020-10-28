@@ -3583,6 +3583,106 @@
 			"value": "The City of Lexington, KY"
 		},
 		{
+			"description": "Yorktown Central School District is a school district in Yorktown Heights, New York. It operates the following schools: Brookside Elementary School - Grades K-3 Mohansic Elementary School - Grades K-3 Crompond Elementary School - Grades 4-5 Mildred E. Strang Middle School - Grades 6-8 Yorktown High School.",
+			"meta": {
+				"refs": [
+					"https://www.yorktown.org/"
+				]
+			},
+			"uuid": "02949360-1924-11eb-adc1-0242ac120002",
+			"value": "Yorktown Central School District"
+		},
+		{
+			"description": "Located in Westchester County, approximately 33 miles north of New York City, the school district encompasses parts of the towns of Cortlandt and Yorktown and includes the village of Croton-on-Hudson. The district population is approximately 15,000, with more than 1,600 students expected to attend the Croton-Harmon schools this year. Because of the wide variety of learning approaches and programs, Croton- Harmon students can reach their full potential, develop the habits of mind and social skills necessary to become lifelong learners and be able to contribute positively to society. The district’s tagline is Think. Create. Reflect. Respect.",
+			"meta": {
+				"refs": [
+					"https://www.chufsd.org/"
+				]
+			},
+			"uuid": "029495cc-1924-11eb-adc1-0242ac120002",
+			"value": "Croton-Harmon Union Free School District"
+		},
+		{
+			"description": "The Oskaloosa Community School District is comprised of one high school, grades 9-12, one middle school, grades 6-8, one elementary school grades Kindergarten - 5 and Webster School which includes our community preschool program, our alternative high school program, and Indian Hills Career Academy.",
+			"meta": {
+				"refs": [
+					"https://www.oskaloosa.k12.ia.us/"
+				]
+			},
+			"uuid": "02949770-1924-11eb-adc1-0242ac120002",
+			"value": "Oskaloosa Community School District"
+		},
+		{
+			"description": "Welcome to the Knoxville Community School District! We are home to more than 1,700 students. We’re located in a thriving community in Marion County, the birthplace of the world famous Knoxville Raceway and beautiful Lake Red Rock. We’ve become a great district in our region, with many families moving into our area or choosing us through open enrollment due to the quality of the local public schools.",
+			"meta": {
+				"refs": [
+					"https://www.knoxville.k12.ia.us/"
+				]
+			},
+			"uuid": "029498b0-1924-11eb-adc1-0242ac120002",
+			"value": "Knoxville Community School District, IA"
+		},
+		{
+			"description": "Shafter is a city in Kern County, California, United States. It is located 18 miles west-northwest of Bakersfield. The population was 16,988 at the 2010 census, up from 12,736 at the 2000 census. The city is located along State Route 43.",
+			"meta": {
+				"refs": [
+					"https://www.shafter.com/"
+				]
+			},
+			"uuid": "0294998c-1924-11eb-adc1-0242ac120002",
+			"value": "The City of Shafter"
+		},
+		{
+			"description": "The Société de transport de Montréal is a public transport agency that operates transit bus and rapid transit services in Montreal, Quebec, Canada.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_de_transport_de_Montr%C3%A9al"
+				]
+			},
+			"uuid": "b444dade-1924-11eb-adc1-0242ac120002",
+			"value": "Societe de transport de Montreal"
+		},
+		{
+			"description": "Indian River County is a county located in the Treasure Coast region of the U.S. state of Florida. As of the 2010 census, the population was 138,028. Its seat is Vero Beach. It is Florida's 7th richest county and in 2000 was the 87th richest county in the U.S. by per capita income.",
+			"meta": {
+				"refs": [
+					"https://www.ircgov.com/"
+				]
+			},
+			"uuid": "b444dd7c-1924-11eb-adc1-0242ac120002",
+			"value": "Indian River County"
+		},
+		{
+			"description": "Chenango County is a county located in the south-central section U.S. state of New York. As of the 2010 census, the population was 50,477. Its county seat is Norwich. The county's name originates from an Oneida word meaning large bull-thistle.",
+			"meta": {
+				"refs": [
+					"http://www.co.chenango.ny.us/"
+				]
+			},
+			"uuid": "b444de80-1924-11eb-adc1-0242ac120002",
+			"value": "Chenango County"
+		},
+		{
+			"description": "Cook County is the most populous county in the U.S. state of Illinois and the second-most-populous county in the United States after Los Angeles County, California. As of 2019, the population was 5,150,233.",
+			"meta": {
+				"refs": [
+					"https://www.cookcountyil.gov/"
+				]
+			},
+			"uuid": "b444df52-1924-11eb-adc1-0242ac120002",
+			"value": "Cook County"
+		},
+		{
+			"description": "Parker County is a county located in the U.S. state of Texas. As of the 2010 census, its population was 116,927. The county seat is Weatherford. The county was created in 1855 and organized the following year. It is named for Isaac Parker, a state legislator who introduced the bill that established the county in 1855.",
+			"meta": {
+				"refs": [
+					"https://www.parkercountytx.com/"
+				]
+			},
+			"uuid": "b444e15a-1924-11eb-adc1-0242ac120002",
+			"value": "Parker County"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

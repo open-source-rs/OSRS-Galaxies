@@ -216,6 +216,16 @@
 			"value": "Spotless Group Holdings"
 		},
 		{
+			"description": "Timberline Billing Service, LLC was formed in August of 2007 to fill a niche in the Medicaid reimbursement claiming for Iowa school districts. Iowa Medicaid allows for districts to claim reimbursement for covered services. Many districts struggle with the medical claim structure and process, and turn to private vendors for assistance. We are committed to providing excellent customer service to school districts and regional agencies. Since being formed, TBS has grown to become the leader in Medicaid claiming for education agencies in Iowa. This growth, along with our knowledge and expertise, has brought TBS opportunities to expand into Illinois and other states.",
+			"meta": {
+				"refs": [
+					"http://www.timberlinebilling.com/about.html"
+				]
+			},
+			"uuid": "9b1484b6-1928-11eb-adc1-0242ac120002",
+			"value": "Timberline Billing Service LLC"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

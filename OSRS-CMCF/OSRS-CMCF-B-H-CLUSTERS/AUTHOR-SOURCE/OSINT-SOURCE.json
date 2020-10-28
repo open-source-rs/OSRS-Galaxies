@@ -3056,6 +3056,19 @@
       "value": "OSRS OSINT Source: Blog.Telekom"
     },
 	{
+      "description": "Online technology blog provided by the company Bromium.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://threatresearch.ext.hp.com/blog/?wpv-category=threat-research"
+        ]
+      },
+      "uuid": "e6a4b3c0-192c-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Bromium Technical Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

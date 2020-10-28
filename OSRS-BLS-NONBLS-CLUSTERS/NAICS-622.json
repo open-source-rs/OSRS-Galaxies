@@ -746,6 +746,16 @@
 			"value": "The Royal Infirmary of Edinburgh"
 		},
 		{
+			"description": "Sonoma Valley Hospital is a hospital located in Sonoma, California, United States. The hospital, which has 51 beds, provides surgical and general medical procedures. The hospital started in 1945 and the current hospital opened in 1957, with expansions happening starting in the 1970s.",
+			"meta": {
+				"refs": [
+					"https://www.sonomavalleyhospital.org/"
+				]
+			},
+			"uuid": "0053e7d0-192a-11eb-adc1-0242ac120002",
+			"value": "Sonoma Valley Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

@@ -15,6 +15,16 @@
       },
       "uuid": "362f02c6-4902-11e9-8646-d663bd873d93",
       "value": "Test Transit and Ground Passenger Transportation Value"
+    },
+	{
+      "description": "Keolis is a global leader in public transport operations, management and innovation with partners in 16 countries around the world. Providing transit to more than 3 billion passengers each year, the company leads the way with a full range of mobility solutions across all modes and platforms, including heavy rail, bus, trams, bicycles, digital innovation, autonomous vehicles and driverless rapid transit.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/keolis-commuter-services/about/"
+        ]
+      },
+      "uuid": "57fcd572-192b-11eb-adc1-0242ac120002",
+      "value": "Keolis Commuter Services"
     }
 	  ],
 	"version": 1

@@ -7479,6 +7479,32 @@
       "value": "OSRS OSINT Author Index: Silviu STAHIE"
     },
 	{
+      "description": "Principal Threat Researcher at SentinelOne. San Jose, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/marco-figueroa-re/"
+        ]
+      },
+      "uuid": "e6a4b078-192c-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Marco Figueroa"
+    },
+	{
+      "description": "Security Analyst at Bromium.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://threatresearch.ext.hp.com/detecting-a-stealthy-trickbot-campaign/"
+        ]
+      },
+      "uuid": "e6a4b2c6-192c-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Alex Holland"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

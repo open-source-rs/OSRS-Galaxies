@@ -2180,6 +2180,38 @@
       "value": "OSRS Actors AND Campaigns: Operation Quicksand"
     },
 	{
+      "description": "Threat actor associated with the threat group PhantomGhost. Also suspected to be the owner of the KashmirBlack botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/kashmirblack-botnet-behind-attacks-on-cmss-like-wordpress-joomla-drupal-others/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-i/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+		  "https://www.imperva.com/blog/wp-content/uploads/sites/9/2020/10/CrimeOps-of-the-KashmirBlack-Botnet-Appendix.pdf"
+        ]
+      },
+      "uuid": "ce04be5c-1925-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Exect1337 (Threat Actor)"
+    },
+	{
+      "description": "Threat group suspected to be the owner of the KashmirBlack botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/kashmirblack-botnet-behind-attacks-on-cmss-like-wordpress-joomla-drupal-others/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-i/",
+		  "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+		  "https://www.imperva.com/blog/wp-content/uploads/sites/9/2020/10/CrimeOps-of-the-KashmirBlack-Botnet-Appendix.pdf"
+        ]
+      },
+      "uuid": "ce04c0a0-1925-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: PhantomGhost Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

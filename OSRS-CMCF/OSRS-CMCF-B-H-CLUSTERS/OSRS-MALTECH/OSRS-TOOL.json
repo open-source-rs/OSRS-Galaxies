@@ -5504,6 +5504,19 @@
       "value": "OSRS Tool: SolarSys Framework"
     },
 	{
+      "description": "The original T-RAT sample as well as the downloader are .NET assemblies and packed the same way. The packed part is embedded as base64 string in the overlay of the file. Beginning and end of the strings are marked by the sequence ghjghjbnv. The packer stub searches the sequence to find the packed image, decodes the base64 string and dynamically loads the resulting .NET assembly. The unpacked .NET assemblies are obfuscated with a variant of ConfuserEx. Some Russian strings are visible but most of the referenced strings are base64 encoded. After deobfuscating the assembly with NoFuserEx, the base64 encoded strings remain. The most time-intensive part of deobfuscation for this assembly cannot be automated. The symbol names for methods and classes were eradicated by the obfuscator.  The code base is comparably on the large side with 98 different commands to control the T-RAT client.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/trat-control-via-smartphone"
+        ]
+      },
+      "uuid": "e6a4b56e-192c-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: T-RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

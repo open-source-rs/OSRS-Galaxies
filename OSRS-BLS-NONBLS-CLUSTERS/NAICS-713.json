@@ -27,6 +27,16 @@
       "value": "Cache Creek Casino Resort"
     },
 	{
+      "description": "Online gambling affiliate program manager.",
+      "meta": {
+        "refs": [
+          "https://affiliates.commissionkings.ag/signin.php"
+        ]
+      },
+      "uuid": "dbc6d0d6-1928-11eb-adc1-0242ac120002",
+      "value": "Commission Kings"
+    },
+	{
       "description": "Tivoli, also known as Tivoli Gardens, is an amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
       "meta": {
         "refs": [

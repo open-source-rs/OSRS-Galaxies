@@ -167,6 +167,36 @@
       "value": "Town Sports International Holdings"
     },
 	{
+      "description": "Sandbox Interactive is an ambitious, up-and-coming game development studio based in the heart of Berlin. The company was founded in early 2012 and currently employs a team of 30, bringing together some of the best in the industry. We offer a professional working environment, with flat hierarchies and a communicative, efficient team. Our working culture is all about transparency and communication, and offering our employees a high level of responsibility in goal-oriented tasks.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/sandbox-interactive-gmbh/about/"
+        ]
+      },
+      "uuid": "f650e658-1928-11eb-adc1-0242ac120002",
+      "value": "Sandbox Interactive GmbH"
+    },
+	{
+      "description": "Big Mage currently develops games and apps for several platforms which vary from casual to semi casual difficulty level. We often work on several projects at a time while we maintain our cool and focus naturally. The Big Mage teams strive to provide experiences that are full of precious moments and create gameplay that stands out by delivering joy and fun to the players. We also have great interest in educational applications, because we believe that technology is not just for fun, but has the power to improve people. In our applications we use the natural curiosity of the children, to guide and teach them in a funny and relaxed manner.",
+      "meta": {
+        "refs": [
+          "https://bigmage.com/"
+        ]
+      },
+      "uuid": "f650e892-1928-11eb-adc1-0242ac120002",
+      "value": "BigMage Game Studios"
+    },
+	{
+      "description": "Boyne Resorts is an owner and operator of many ski and golf resorts in the United States. The company employs over 7,000 full-time and seasonal staff. It operates 13 resort properties: 10 ski resorts and 11 golf courses.",
+      "meta": {
+        "refs": [
+          "https://boyneresorts.com/"
+        ]
+      },
+      "uuid": "f650e996-1928-11eb-adc1-0242ac120002",
+      "value": "Boyne Resorts"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

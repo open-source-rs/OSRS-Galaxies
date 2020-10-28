@@ -216,6 +216,16 @@
 			"value": "e27"
 		},
 		{
+			"description": "The Press Trust of India Ltd., commonly known as PTI, is the largest news agency in India.",
+			"meta": {
+				"refs": [
+					"http://www.ptinews.com/"
+				]
+			},
+			"uuid": "3d9a3482-192a-11eb-adc1-0242ac120002",
+			"value": "The Press Trust of India Ltd. (PTI)"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

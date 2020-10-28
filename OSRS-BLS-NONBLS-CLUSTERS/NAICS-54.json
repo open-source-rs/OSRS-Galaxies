@@ -2864,6 +2864,86 @@
 			"value": "Stats Perform"
 		},
 		{
+			"description": "Passavant Memorial Homes (Created in 1895) - A a private, non-profit 501(c)(3), human services provider organization whose mission is to empower individuals with intellectual disabilities and behavioral health needs to live successfully in the community by providing services such as long term structured residences, housing support, adult training facilities, and children's programs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/pmhfos/about/"
+				]
+			},
+			"uuid": "5e66afd8-192a-11eb-adc1-0242ac120002",
+			"value": "Passavant Memorial Homes Family of Services"
+		},
+		{
+			"description": "Pfizer Inc. is an American multinational pharmaceutical corporation headquartered in New York City. In 2012, it was one of the world's largest pharmaceutical companies and ranked 57 on the 2018 Fortune 500 list of the largest United States corporations by total revenue.",
+			"meta": {
+				"refs": [
+					"https://www.pfizer.com/"
+				]
+			},
+			"uuid": "5e66b258-192a-11eb-adc1-0242ac120002",
+			"value": "Pfizer Inc."
+		},
+		{
+			"description": "MoPub, a Twitter company, is the leading ad server and programmatic exchange for smartphones. We offer a comprehensive monetization platform for mobile app publishers that combines real-time bidding, ad serving, cross-promotional capabilities and ad network mediation into one easy-to-use platform. As a pioneer in real-time bidding for mobile, we built the first transparent market that enables advertisers and other demand side buyers to access billions of ad impressions with hyper-targeted data from app publishers. On MoPub Marketplace, publishers get complete control over their inventory and transparency into their ad revenue.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/mopub/about/"
+				]
+			},
+			"uuid": "5e66b3e8-192a-11eb-adc1-0242ac120002",
+			"value": "MoPub"
+		},
+		{
+			"description": "Centerstone is a not-for-profit health system providing mental health and substance use disorder treatments. Services are available nationally through the operation of outpatient clinics, residential programs, the use of telehealth and an inpatient hospital. Centerstone also features specialized programs for the military community, therapeutic foster care, children’s services and employee assistance programs. Centerstone’s Research Institute provides guidance through research and technology, leveraging the best practices for use in all our communities. Centerstone’s Foundation secures philanthropic resources to support the work and mission of delivering care that changes people’s lives. For more information, visit www.centerstone.org.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/centerstone/about/"
+				]
+			},
+			"uuid": "5e66b53c-192a-11eb-adc1-0242ac120002",
+			"value": "Centerstone of Tennessee, Inc."
+		},
+		{
+			"description": "Shionogi & Company, Limited is a Japanese pharmaceutical company best known for developing Crestor. Medical supply and brand name also uses Shionogi. Shionogi has business roots that date back to 1878, and was incorporated in 1919.",
+			"meta": {
+				"refs": [
+					"https://www.shionogi.com/global/en/"
+				]
+			},
+			"uuid": "5e66b6b8-192a-11eb-adc1-0242ac120002",
+			"value": "Shionogi & Company, Limited"
+		},
+		{
+			"description": "Dr. Reddy's Laboratories is an Indian multinational pharmaceutical company located in Hyderabad, Telangana, India. The company was founded by Anji Reddy, who previously worked in the mentor institute Indian Drugs and Pharmaceuticals Limited.",
+			"meta": {
+				"refs": [
+					"https://www.drreddys.com/"
+				]
+			},
+			"uuid": "f9070038-192a-11eb-adc1-0242ac120002",
+			"value": "Dr. Reddy's Laboratories"
+		},
+		{
+			"description": "Sopra Steria Group SA is a European information technology consultancy established in September 2014 upon the merger of Sopra Group SA and Groupe Steria SCA. Technically, Sopra was the company to adopt the new name, retaining its legal personality.",
+			"meta": {
+				"refs": [
+					"https://www.soprasteria.com/"
+				]
+			},
+			"uuid": "f907025e-192a-11eb-adc1-0242ac120002",
+			"value": "Sopra Steria Group SA"
+		},
+		{
+			"description": "ANSA McAL Limited is one of Trinidad and Tobago's largest conglomerates, with several diversified companies in the Caribbean, Europe and North America. It is also traded on the Trinidad and Tobago Stock Exchange as AMCL.",
+			"meta": {
+				"refs": [
+					"https://ansamcal.com/"
+				]
+			},
+			"uuid": "f907034e-192a-11eb-adc1-0242ac120002",
+			"value": "ANSA McAL Limited"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
