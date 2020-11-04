@@ -7583,6 +7583,19 @@
       "value": "OSRS OSINT Author Index: Accenture Cyber Threat Intelligence Team"
     },
 	{
+      "description": "Reporter at the Knoxville News Sentinel. Knoxville, Tennessee, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/travis-dorman-9a1424114/"
+        ]
+      },
+      "uuid": "5901001e-1ec2-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Travis Dorman"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

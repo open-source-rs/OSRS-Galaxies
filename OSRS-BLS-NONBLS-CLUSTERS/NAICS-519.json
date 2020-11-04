@@ -236,6 +236,16 @@
 			"value": "Isentia"
 		},
 		{
+			"description": "The Star Tribune is the largest newspaper in Minnesota. It originated as the Minneapolis Tribune in 1867 and the competing Minneapolis Daily Star in 1920. During the 1930s and 1940s Minneapolis's competing newspapers were consolidated, with the Tribune published in the morning and the Star in the evening. They merged in 1982, creating the Star and Tribune, and it was renamed to Star Tribune in 1987. After a tumultuous period in which the newspaper was sold and re-sold and filed for bankruptcy protection in 2009, it was purchased by local businessman Glen Taylor in 2014.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Star_Tribune"
+				]
+			},
+			"uuid": "807e384a-1ec3-11eb-adc1-0242ac120002",
+			"value": "Star Tribune Media Company, LLC"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

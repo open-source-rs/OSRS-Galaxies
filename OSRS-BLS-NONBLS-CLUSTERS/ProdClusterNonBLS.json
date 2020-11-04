@@ -3723,6 +3723,16 @@
 			"value": "Wisconsin Department of Workforce Development"
 		},
 		{
+			"description": "Salem is a town in Rockingham County, New Hampshire, United States. The population was 28,776 at the 2010 census. Being located on Interstate 93 as the first town in New Hampshire, which lacks any state sales tax, Salem has grown into a commercial hub, anchored by the Mall at Rockingham Park.",
+			"meta": {
+				"refs": [
+					"https://www.townofsalemnh.org/"
+				]
+			},
+			"uuid": "baf24364-1ec2-11eb-adc1-0242ac120002",
+			"value": "The Town of Salem, NH"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

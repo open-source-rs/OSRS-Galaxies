@@ -3004,6 +3004,26 @@
 			"value": "Eatigo"
 		},
 		{
+			"description": "Gaming Partners International (GPI), a full-service supplier of gaming furniture and equipment for casinos worldwide, was created from joining three of the world’s leading gaming suppliers, Bourgogne et Grasset (BG), Paul-Son Gaming Supplies, and The Bud Jones Company. Gaming Partners International Corporation was formed in 2002 through a reverse merger between Paul-Son Gaming and B&G.  In 2014, GPI acquired Gemaco Inc. further expanding the depth of its product offerings and market reach.  In 2015, GPI purchased the gaming currency portfolio and manufacturing equipment of Dolphin Products Limited and assumed the manufacture and sale of Dolphin branded gaming chips and plaques.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/gaming-partners-international-corporation/about/"
+				]
+			},
+			"uuid": "3a6e6e7e-1ec3-11eb-adc1-0242ac120002",
+			"value": "Gaming Partners International"
+		},
+		{
+			"description": "DaVita Inc. is a Fortune 500 health care provider focused on transforming care delivery to improve quality of life for patients around the globe. The company is the largest provider of kidney care services in the U.S. and has been a leader in clinical quality and innovation for 20 years. DaVita proudly provides life-saving kidney care for more than 200,000 patients at 2,664 outpatient dialysis centers in the United States. The company also operates 241 outpatient dialysis centers in nine countries across the world.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/davita/about/"
+				]
+			},
+			"uuid": "17ab6058-1ec4-11eb-adc1-0242ac120002",
+			"value": "DaVita Florissant Dialysis"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

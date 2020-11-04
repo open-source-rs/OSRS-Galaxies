@@ -267,6 +267,16 @@
       "value": "The Swatch Group Ltd"
     },
 	{
+      "description": "DeRoyal Industries is a vertically integrated manufacturer and marketer of health care products. It is a privately held company with headquarters in Powell, Tennessee.",
+      "meta": {
+        "refs": [
+          "http://www.deroyal.com/"
+        ]
+      },
+      "uuid": "5f44f3d8-1ec5-11eb-adc1-0242ac120002",
+      "value": "DeRoyal Industries"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

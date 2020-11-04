@@ -3082,6 +3082,19 @@
       "value": "OSRS OSINT Source: Accenture Cybersecurity Blog"
     },
 	{
+      "description": "The Knoxville News Sentinel is a daily newspaper in Knoxville, Tennessee, United States, owned by the Gannett Company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.knoxnews.com/"
+        ]
+      },
+      "uuid": "70154f6c-1ec2-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Knoxville News Sentinel"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

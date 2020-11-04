@@ -417,6 +417,16 @@
 			"value": "Barnes & Noble, Inc."
 		},
 		{
+			"description": "The Home Depot, Inc., commonly known as Home Depot, is the largest home improvement retailer in the United States, supplying tools, construction products, and services. The company is headquartered in unincorporated Cobb County, Georgia, with an Atlanta mailing address.",
+			"meta": {
+				"refs": [
+					"05f02232-1ec3-11eb-adc1-0242ac120002"
+				]
+			},
+			"uuid": "d6c483d8-48fc-11e9-8646-d663bd873d93",
+			"value": "The Home Depot, Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

@@ -776,6 +776,26 @@
 			"value": "Arkansas Methodist Medical Center"
 		},
 		{
+			"description": "Rady Children’s Hospital-San Diego is a 551-bed pediatric care facility providing the largest source of comprehensive pediatric medical services in San Diego, southern Riverside and Imperial counties. Rady Children’s is the only hospital in the San Diego area dedicated exclusively to pediatric healthcare and is the region’s only designated pediatric trauma center.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/radychildrens/about/"
+				]
+			},
+			"uuid": "9738e426-1ec4-11eb-adc1-0242ac120002",
+			"value": "Rady Children's Hospital"
+		},
+		{
+			"description": "Wyckoff Heights Medical Center is a 350-bed teaching hospital located in the Wyckoff Heights section of Bushwick, Brooklyn in New York City.",
+			"meta": {
+				"refs": [
+					"https://www.wyckoffhospital.org/"
+				]
+			},
+			"uuid": "25ddd90c-1ec5-11eb-adc1-0242ac120002",
+			"value": "Wyckoff Heights Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

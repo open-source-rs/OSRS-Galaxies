@@ -1569,6 +1569,16 @@
 			"value": "The Scottish Ambulance Service"
 		},
 		{
+			"description": "Our network was created in October 2011 when Fletcher Allen in Burlington, Vermont, and Central Vermont Medical Center in Berlin, Vermont, signed an affiliation agreement. In January 2013, New York partners Champlain Valley Physicians Hospital in Plattsburgh and Elizabethtown Community Hospital in Elizabethtown joined the affiliation. In 2016, Alice Hyde Medical Center joined. The network was originally called Fletcher Allen Partners.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/the-university-of-vermont-health-network/about/"
+				]
+			},
+			"uuid": "d3bb60cc-1ec4-11eb-adc1-0242ac120002",
+			"value": "The University of Vermont Health Network"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

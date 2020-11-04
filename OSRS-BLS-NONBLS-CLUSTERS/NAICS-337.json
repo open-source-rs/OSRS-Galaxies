@@ -17,6 +17,16 @@
       "value": "Test Furniture and Related Product Manufacturing Value"
     },
 	{
+      "description": "Steelcase is a United States-based furniture company founded in 1912 in Grand Rapids, Michigan. The company produces office furniture, architectural and technology products for office environments and the education, health care and retail industries. It is the largest office furniture manufacturer in the world.",
+      "meta": {
+        "refs": [
+          "https://www.steelcase.com/"
+        ]
+      },
+      "uuid": "b7a6ef86-1ec5-11eb-adc1-0242ac120002",
+      "value": "Steelcase Inc."
+    },
+	{
       "description": "Since 1963, Klaussner Home Furnishings has been the leading solutions provider to the furniture industry. Our mission is simple to provide value driven product, constant innovation, speed to market and total customer satisfaction. Through strategic acquisitions, domestic and overseas partnerships and state of the art inventory control and manufacturing as well as shipping options, Klaussner has created a vertically integrated furniture powerhouse with one of the fastest delivery times in the industry. Asheboro, North Carolina is home for 10 manufacturing plants, one warehouse and one distribution facility as well as the company’s corporate headquarters.",
       "meta": {
         "refs": [
