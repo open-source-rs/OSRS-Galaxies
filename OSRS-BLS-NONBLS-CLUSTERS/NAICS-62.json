@@ -1549,6 +1549,26 @@
 			"value": "Dickinson County Healthcare System"
 		},
 		{
+			"description": "St. Lawrence Health System was established in December 2013 with the mission to improve health and to expand access through coordination and integration of services. The largest employer in St. Lawrence County, with 2,025 employees, St. Lawrence Health System has 195 full-time medical staff members and estimated annual net operating revenue of 300 million. Canton-Potsdam Hospital (CPH) is a not-for-profit community healthcare facility certified for 94 beds. Its core programs include emergency medicine, acute care, hospitalist medicine, critical care, and a Level III Trauma Center. It offers specialist care in over 25 different specialties, including a robust orthopedic surgery and sports medicine program, the Center for Cancer Care. Gouverneur Hospital (GH) is a not-for-profit critical access hospital founded in 2013 that is certified for 25 beds. Critical access is a federal designation that is available only to hospitals located in remote, rural regions, enabling these hospitals to be reimbursed at a higher rate because of the challenges they face in providing care in high-need areas. Massena Hospital (MH) is an acute care, 25-bed hospital providing inpatient medical, surgical, labor and delivery, and pediatric services in addition to emergency care.",
+			"meta": {
+				"refs": [
+					"https://www.stlawrencehealthsystem.org/about"
+				]
+			},
+			"uuid": "ab6b9a24-1ea1-11eb-adc1-0242ac120002",
+			"value": "St. Lawrence Health System"
+		},
+		{
+			"description": "The Scottish Ambulance Service is part of NHS Scotland, which serves all of Scotland's population., The Scottish Ambulance Service is governed by a special health board and is funded directly by the Health and Social Care Directorates of the Scottish Government.",
+			"meta": {
+				"refs": [
+					"https://www.scottishambulance.com/"
+				]
+			},
+			"uuid": "ab6b9ccc-1ea1-11eb-adc1-0242ac120002",
+			"value": "The Scottish Ambulance Service"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

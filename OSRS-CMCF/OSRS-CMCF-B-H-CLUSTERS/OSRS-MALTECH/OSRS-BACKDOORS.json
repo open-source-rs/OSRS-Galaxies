@@ -891,6 +891,45 @@
       "value": "OSRS Backdoor: BLINDINGCAN Backdoor"
     },
 	{
+      "description": "HyperStack, first observed in 2018, is one of several RPC backdoors Turla uses. HyperStack uses named pipes to execute remote procedure calls (RPC) from the controller to the device hosting the HyperStack client. To move laterally, the implant tries to connect to another remote device’s IPC share, either using a null session or default credentials. IPC is a share that facilitates inter-process communication (IPC) by exposing named pipes to write to or read from. If the implant’s connection to the IPC is successful, the implant can forward RPC commands from the controller to the remote device, and likely has the capability to copy itself onto the remote device.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.accenture.com/us-en/blogs/cyber-defense/turla-belugasturgeon-compromises-government-entity"
+        ]
+      },
+      "uuid": "b69c50a4-1e9d-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: HyperStack Backdoor"
+    },
+	{
+      "description": "The agfSpy backdoor retrieves configuration and commands from its C&C server. These commands allow the backdoor to execute shell commands and send the execution results back to the server. It also enumerates directories and can list, upload, download, and execute files, among other functions. The capabilities of agfSpy are very similar to dneSpy, except each backdoor uses a different C&C server and various formats in message exchanges.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/20/j/operation-earth-kitsune-a-dance-of-two-new-backdoors.html"
+        ]
+      },
+      "uuid": "b69c5324-1e9d-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: afgSpy Backdoor"
+    },
+	{
+      "description": "DneSpy collects information, takes screenshots, and downloads and executes the latest version of other malicious components in the infected system. The malware is designed to receive a policy file in JSON format with all the commands to execute. The policy file sent by the C&C server can be changed and updated over time, making dneSpy flexible and well-designed. The output of each executed command is zipped, encrypted, and exfiltrated to the C&C server. These characteristics make dneSpy a fully functional espionage backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/20/j/operation-earth-kitsune-a-dance-of-two-new-backdoors.html"
+        ]
+      },
+      "uuid": "b69c5630-1e9d-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: dneSpy Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

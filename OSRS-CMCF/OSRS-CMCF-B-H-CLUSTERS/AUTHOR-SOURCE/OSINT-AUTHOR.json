@@ -7505,6 +7505,84 @@
       "value": "OSRS OSINT Author Index: Alex Holland"
     },
 	{
+      "description": "Staff Security Researcher at Palo Alto Networks. Atlanta, Georgia, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ruian-duan-8a918a3a/"
+        ]
+      },
+      "uuid": "68b2b77a-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ruian Duan"
+    },
+	{
+      "description": "Security Researcher at Palo Alto Networks. Bethlehem, Pennsylvania, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nkdxczh/"
+        ]
+      },
+      "uuid": "68b2b9fa-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Zhanhao Chen"
+    },
+	{
+      "description": "Sr. Principal Data Scientist at Palo Alto Networks. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/skchung/?trk=pub-pbmap"
+        ]
+      },
+      "uuid": "68b2bb1c-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Seokkyung Chung"
+    },
+	{
+      "description": "Staff Security Researcher at Palo Alto Networks. Santa Clara, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/janos-szurdi-b40b3598/"
+        ]
+      },
+      "uuid": "68b2bda6-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Janos Szurdi"
+    },
+	{
+      "description": "Software Engineer. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jingweifan/"
+        ]
+      },
+      "uuid": "68b2be96-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Jingwei Fan"
+    },
+	{
+      "description": "Cybersecurity research group affiliated with the technology vendor Accenture.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.accenture.com/us-en/blogs/cyber-defense"
+        ]
+      },
+      "uuid": "68b2bf5e-1ea7-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Accenture Cyber Threat Intelligence Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

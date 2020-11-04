@@ -698,6 +698,26 @@
 			"value": "Scalable Capital"
 		},
 		{
+			"description": "Harvest Small Business Finance, LLC is a commercial real estate finance lender based in Laguna Hills, CA.  Through a strategic partnership between Medalist Partners, LP (Medalist​) and Harvest’s Senior Management Team, the company acquired a Small Business Lending Company license that allows it to originate and service loans pursuant to the Small Business Administration’s 7(a) loan program.  Through an affiliate, we are also in the process of developing a proprietary Small Balance Commercial Loan product along with unprecedented access to the secondary markets which will further our objective of becoming the country’s premier non-bank commercial real estate lender to small business. It is our mission is to help our customers achieve financial freedom while bringing employment opportunities to their surrounding communities.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/harvest-small-business-finance-llc/about/"
+				]
+			},
+			"uuid": "b26a50ec-1e9f-11eb-adc1-0242ac120002",
+			"value": "Harvest Small Business Finance, LLC"
+		},
+		{
+			"description": "IberiaBank Corporation, stylized as IBERIABANK, is an American financial holding company headquartered in Lafayette, Louisiana, and is the largest bank based in the state.",
+			"meta": {
+				"refs": [
+					"https://www.iberiabank.com/personal/"
+				]
+			},
+			"uuid": "b26a5308-1e9f-11eb-adc1-0242ac120002",
+			"value": "IberiaBank Corporation"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

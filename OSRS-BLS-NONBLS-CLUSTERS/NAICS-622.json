@@ -756,6 +756,26 @@
 			"value": "Sonoma Valley Hospital"
 		},
 		{
+			"description": "The Jewish General Hospital, known officially as the Sir Mortimer B. Davis Jewish General Hospital since 1978, is an acute-care teaching hospital in Montreal, Quebec, Canada. The hospital is affiliated with McGill University and has 637 beds.",
+			"meta": {
+				"refs": [
+					"https://www.jgh.ca/"
+				]
+			},
+			"uuid": "367e13b2-1ea2-11eb-adc1-0242ac120002",
+			"value": "Jewish General Hospital"
+		},
+		{
+			"description": "Hospital located in Paragould, AR.",
+			"meta": {
+				"refs": [
+					"https://www.myammc.org/"
+				]
+			},
+			"uuid": "367e161e-1ea2-11eb-adc1-0242ac120002",
+			"value": "Arkansas Methodist Medical Center"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

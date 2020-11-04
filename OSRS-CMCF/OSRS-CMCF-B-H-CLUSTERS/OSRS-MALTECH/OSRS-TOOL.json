@@ -5517,6 +5517,97 @@
       "value": "OSRS Tool: T-RAT"
     },
 	{
+      "description": "Mandiant has observed actors using POWERTRICK to execute built-in system commands on the initial victim host, including ipconfig, findstr, and cmd.exe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "17bbf88e-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: POWERTRICK"
+    },
+	{
+      "description": "Mandiant is directly aware of incidents involving KEGTAP that included the post-compromise deployment of RYUK ransomware. We have also observed instances where ANCHOR infections, another backdoor associated with the same actors, preceded CONTI or MAZE deployment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "17bbfaaa-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: KEGTAP Loader"
+    },
+	{
+      "description": "Used in conjunction with KEGTAP Loader or as a stand-alone loader for installing additional tools.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "17bbfb9a-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: BEERBOT Loader"
+    },
+	{
+      "description": "SINGLEMALT employs BITS to maintain persistence through reboot and can often be identified via a review of anomalous BITS jobs. SINGLEMALT uses a well-documented BITS persistence mechanism that intentionally creates a job to download a non-existent URL, which will trigger a failure event. The job is set to retry on a regular interval, thus ensuring the malware continues to run.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "17bbfd98-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: SINGLEMALT"
+    },
+	{
+      "description": "Malware tool used in a similar fashion to malware identified by Mandiant called SINGLEMALT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "17bbfe6a-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: STILLBOT"
+    },
+	{
+      "description": "WINEKEY maintains persistence through reboot via the use of registry RUN keys. Searching for anomalous RUN keys enterprise-wide can help to identify systems impacted by this malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "e2ac426a-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: WINEKEY"
+    },
+	{
+      "description": "Persistence mechanism identified by Mandiant and similar to other tools such as WINEKEY.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "e2ac45d0-1ea9-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: CORKBOT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

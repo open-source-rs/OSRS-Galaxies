@@ -2212,6 +2212,19 @@
       "value": "OSRS Actors AND Campaigns: PhantomGhost Threat Group"
     },
 	{
+      "description": "We recently published a research paper on Operation Earth Kitsune, a watering hole campaign aiming to steal information by compromising websites. Besides its heavy use of SLUB malware, researchers also uncovered two new espionage backdoors associated with the campaign - agfSpy and dneSpy, dubbed as such following the attackers’ three-letter naming scheme. Previous research on the operation found that, while SLUB was primarily used to exfiltrate data, agfSpy and dneSpy were employed for the same purpose but also for seizing control of affected systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/20/j/operation-earth-kitsune-a-dance-of-two-new-backdoors.html"
+        ]
+      },
+      "uuid": "ab9a45d4-1e9e-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation Earth Kitsune"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

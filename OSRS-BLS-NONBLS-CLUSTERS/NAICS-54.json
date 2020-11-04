@@ -2944,6 +2944,66 @@
 			"value": "ANSA McAL Limited"
 		},
 		{
+			"description": "In 2005, Nitro disrupted the PDF industry by offering the first and leading alternative to Adobe Acrobat. Today, we’re an award-winning global leader in document productivity, digital transformation, and change management. And we’re just getting started.",
+			"meta": {
+				"refs": [
+					"https://www.gonitro.com/about"
+				]
+			},
+			"uuid": "3db5a1b0-1ea5-11eb-adc1-0242ac120002",
+			"value": "Nitro Software, Inc."
+		},
+		{
+			"description": "Established in 1951, Fragomen has grown from a respected domestic U.S. immigration law practice to a truly global organization. Our expansion has been a direct result of our strategic decision to establish offices in the markets where our clients would benefit from our on-the-ground presence.",
+			"meta": {
+				"refs": [
+					"https://www.fragomen.com/about"
+				]
+			},
+			"uuid": "3db5a430-1ea5-11eb-adc1-0242ac120002",
+			"value": "Fragomen, Del Rey, Bernsen & Loewy, LLP"
+		},
+		{
+			"description": "Helping you get more from your Apple devices and data.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/reincubate/about/"
+				]
+			},
+			"uuid": "3db5a52a-1ea5-11eb-adc1-0242ac120002",
+			"value": "Reincubate"
+		},
+		{
+			"description": "Technology Management Resources develops and supports CITATION i-Remit lockbox payment processing solutions with integrated receivables reporting for community and regional banks and business banking accounts.  We offer fully in-house, complete outsource and TMR's unique hybrid payment processing solutions. All include our exclusive Business Builder sales and marketing support from payment and banking specialists.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/technology-management-resources/about/"
+				]
+			},
+			"uuid": "3db5a606-1ea5-11eb-adc1-0242ac120002",
+			"value": "Technology Management Resources"
+		},
+		{
+			"description": "Gunnebo is a multinational corporation headquartered in Gothenburg, Sweden, specialising in security products, services and solutions mainly in the areas of cash management, entrance control, safe storage and integrated security.",
+			"meta": {
+				"refs": [
+					"https://www.gunnebo.com/"
+				]
+			},
+			"uuid": "3db5a6ce-1ea5-11eb-adc1-0242ac120002",
+			"value": "Gunnebo Group"
+		},
+		{
+			"description": "Eatigo – Winner of several start up awards and recognized as the Number 1 discounted restaurant reservations platform in South East Asia, Eatigo is the number 1 restaurant reservations platform in South East Asia. We currently have operations in Thailand, Singapore, Malaysia, Hong Kong, India, Philippines, Indonesia and South Korea.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/eatigo/about/"
+				]
+			},
+			"uuid": "3db5a94e-1ea5-11eb-adc1-0242ac120002",
+			"value": "Eatigo"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

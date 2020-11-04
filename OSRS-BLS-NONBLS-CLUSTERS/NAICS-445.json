@@ -27,6 +27,16 @@
       "value": "WiziShop"
     },
 	{
+      "description": "RedMart is the supermarket arm of Lazada Group in Singapore, offering an unparalleled selection of quality fresh food, household essentials and premium speciality products with the convenience of scheduled home delivery seven days a week, all year round.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/redmart/about/"
+        ]
+      },
+      "uuid": "a22c4392-1ea0-11eb-adc1-0242ac120002",
+      "value": "RedMart"
+    },
+	{
       "description": "Hy-Vee is a chain of more than 245 supermarkets located throughout the Midwestern United States in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.",
       "meta": {
         "refs": [

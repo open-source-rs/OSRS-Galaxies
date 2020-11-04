@@ -236,6 +236,16 @@
 			"value": "COSMOTE MOBILE TELECOMMUNICATIONS S.A."
 		},
 		{
+			"description": "Intrado, formerly West Corporation is an American telecommunications company. It became a subsidiary of Apollo Global Management on October 11, 2017.",
+			"meta": {
+				"refs": [
+					"https://www.intrado.com/en"
+				]
+			},
+			"uuid": "970f6056-1ea6-11eb-adc1-0242ac120002",
+			"value": "Intrado"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [

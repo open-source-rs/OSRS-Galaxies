@@ -3069,6 +3069,19 @@
       "value": "OSRS OSINT Source: Bromium Technical Blog"
     },
 	{
+      "description": "Online cybersecurity blog provided by the technology company Accenture.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.accenture.com/us-en/blogs/cyber-defense"
+        ]
+      },
+      "uuid": "84aee3bc-1ea8-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Accenture Cybersecurity Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

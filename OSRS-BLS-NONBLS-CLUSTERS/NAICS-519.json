@@ -226,6 +226,16 @@
 			"value": "The Press Trust of India Ltd. (PTI)"
 		},
 		{
+			"description": "Our mission is to monitor, analyse and create actionable insight from complex communications across Asia Pacific. With powerful technology and clever people, we deliver what’s relevant when clients need it, driving decisions and opening possibilities. We employ over 1,000 of the best and brightest across 11 markets with a vision to empower clients to make great decisions, every time.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/isentia/about/"
+				]
+			},
+			"uuid": "197e556e-1ea3-11eb-adc1-0242ac120002",
+			"value": "Isentia"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

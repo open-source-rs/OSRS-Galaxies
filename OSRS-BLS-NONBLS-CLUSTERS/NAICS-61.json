@@ -928,6 +928,16 @@
 			"value": "University of Mumbai"
 		},
 		{
+			"description": "Piedmont Community College is a public community college in Roxboro, North Carolina. It is one of 58 colleges in the North Carolina Community College System.",
+			"meta": {
+				"refs": [
+					"https://www.piedmontcc.edu/"
+				]
+			},
+			"uuid": "388f4fa2-1e9f-11eb-adc1-0242ac120002",
+			"value": "Piedmont Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

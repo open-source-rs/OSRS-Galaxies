@@ -3683,6 +3683,46 @@
 			"value": "Parker County"
 		},
 		{
+			"description": "Mount Diablo Unified School District is a public school district in Contra Costa County, California. It currently operates 29 elementary schools, 9 middle schools, and 5 high schools, with 7 alternative school programs and an adult education program.",
+			"meta": {
+				"refs": [
+					"https://www.mdusd.org/"
+				]
+			},
+			"uuid": "b98d4c7a-1e9b-11eb-adc1-0242ac120002",
+			"value": "Mount Diablo Unified School District"
+		},
+		{
+			"description": "The College Community School District is a public school district serving communities of Linn, Johnson, and Benton counties in east central Iowa. The district was established in 1954 after the consolidation of several township schools.",
+			"meta": {
+				"refs": [
+					"https://www.prairiepride.org/"
+				]
+			},
+			"uuid": "b98d4f22-1e9b-11eb-adc1-0242ac120002",
+			"value": "College Community School District"
+		},
+		{
+			"description": "Fort Zumwalt School District is headquartered in O'Fallon, Missouri, United States. The largest school district in St. Charles County, it serves the cities of O'Fallon, Saint Peters, Dardenne Prairie, Saint Paul, and portions of Wentzville.",
+			"meta": {
+				"refs": [
+					"https://www.fz.k12.mo.us/"
+				]
+			},
+			"uuid": "b98d501c-1e9b-11eb-adc1-0242ac120002",
+			"value": "Fort Zumwalt School District"
+		},
+		{
+			"description": "The Wisconsin Department of Workforce Development (DWD) is a state agency charged with building and strengthening Wisconsin's workforce in the 21st century and beyond. The Department's primary responsibilities include providing job services, training and employment assistance to people looking for work, at the same time as it works with employers on finding the necessary workers to fill current job openings.",
+			"meta": {
+				"refs": [
+					"https://dwd.wisconsin.gov/"
+				]
+			},
+			"uuid": "b98d50f8-1e9b-11eb-adc1-0242ac120002",
+			"value": "Wisconsin Department of Workforce Development"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
