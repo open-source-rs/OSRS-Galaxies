@@ -938,6 +938,16 @@
 			"value": "Piedmont Community College"
 		},
 		{
+			"description": "Saskatchewan Polytechnic (formerly the Saskatchewan Institute of Applied Science and Technology or SIAST) is Saskatchewan's primary public institution for post-secondary technical education and skills training, recognized nationally and internationally for its expertise and innovation. Through program and course registrations, Saskatchewan Polytechnic serves 26,000 distinct students with programs that touch every sector of the economy. It operates campuses in Moose Jaw, Prince Albert, Regina and Saskatoon and provides a number of courses and programs through distance education.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Saskatchewan_Polytechnic"
+				]
+			},
+			"uuid": "5688c8b0-2450-11eb-adc1-0242ac120002",
+			"value": "Saskatchewan Polytechnic"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
