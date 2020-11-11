@@ -67,6 +67,16 @@
       "value": "Promofarma"
     },
 	{
+      "description": "At bigbasket.com we believe in being smart, quick and efficient, making your life as leisurely as possible. We understand that in this fast-paced world, time is always of the essence and hence want to make your grocery shopping easy and convenient so that no time is wasted in this process. So, no more hassle of going down to the grocery store and long queues for billing etc. You can browse through our varied range of products at bigbasket.com, order them and get them to be delivered at your own convenient time slot.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/bigbasket-com/about/"
+        ]
+      },
+      "uuid": "53cb3b04-243b-11eb-adc1-0242ac120002",
+      "value": "bigbasket.com"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

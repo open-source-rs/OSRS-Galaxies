@@ -1164,6 +1164,32 @@
       "value": "OSRS Ransomware: Vaggen Ransomware"
     },
 	{
+      "description": "RegretLocker was discovered in October and is a simple ransomware in terms of appearance as it does not contain a long-winded ransom note and uses email for communication rather than a Tor payment site. When encrypting files, it will append the innocuous-sounding .mouse extension to encrypted file names. When creating a Windows Hyper-V virtual machine, a virtual hard disk is created and stored in a VHD or VHDX file. These virtual hard disk files contain a raw disk image, including a drive's partition table and partitions, and like regular disk drives, can range in size from a few gigabytes to terabytes. When a ransomware encrypts files on a computer, it is not efficient to encrypt a large file as it slows down the entire encryption process's speed.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-regretlocker-ransomware-targets-windows-virtual-machines/"
+        ]
+      },
+      "uuid": "ea25f9a2-2442-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: RegretLocker Ransomware"
+    },
+	{
+      "description": "Previously unknown ransomware dubbed Pay2Key, carries targeted attacks against Israeli companies. Initial infection is presumably made through RDP connection. Lateral movement is made using psexec.exe to execute the ransomware on the different machines within the organization. Special attention was given to the design of the network communication, in order to reduce the noise a large number of encrypted machines may generate while contacting the Command and Control servers. The encryption scheme is solid – using the AES and RSA algorithms.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/ransomware-alert-pay2key/"
+        ]
+      },
+      "uuid": "ea25fc0e-2442-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Pay2Key Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

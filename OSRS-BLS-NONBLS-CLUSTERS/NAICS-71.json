@@ -197,6 +197,26 @@
       "value": "Boyne Resorts"
     },
 	{
+      "description": "Fitness centers.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/clubfitness/about/"
+        ]
+      },
+      "uuid": "51e6127e-243a-11eb-adc1-0242ac120002",
+      "value": "Club Fitness"
+    },
+	{
+      "description": "Capcom Co., Ltd. is a Japanese video game developer and publisher. It has created a number of multi-million-selling game franchises, including Street Fighter, Mega Man, Darkstalkers, and Resident Evil.",
+      "meta": {
+        "refs": [
+          "https://www.capcom.com/"
+        ]
+      },
+      "uuid": "51e614ae-243a-11eb-adc1-0242ac120002",
+      "value": "Capcom Co., Ltd."
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

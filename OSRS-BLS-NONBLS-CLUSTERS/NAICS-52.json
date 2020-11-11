@@ -718,6 +718,26 @@
 			"value": "IberiaBank Corporation"
 		},
 		{
+			"description": "Folksam is one of the largest insurance companies in Sweden. The company headquarters are located in Stockholm. Folksam consists of the two mutual insurance companies Folksam sak and Folksam liv. Folksam is today a Swedish insurance company only, after the sale in 2001 of the English subsidiary Folksam International.",
+			"meta": {
+				"refs": [
+					"https://www.folksam.se/"
+				]
+			},
+			"uuid": "51e6159e-243a-11eb-adc1-0242ac120002",
+			"value": "Folksam"
+		},
+		{
+			"description": "55 million members are experiencing our vision of how benefits should be. From the moment you get to know EyeMed Vision Care, you’ll notice something different. By providing more of what’s best in vision benefits, not more of the same, we've become  America’s fastest growing vision benefits company.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/eyemed-vision-care/about/"
+				]
+			},
+			"uuid": "51e61670-243a-11eb-adc1-0242ac120002",
+			"value": "EyeMed Vision Care"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

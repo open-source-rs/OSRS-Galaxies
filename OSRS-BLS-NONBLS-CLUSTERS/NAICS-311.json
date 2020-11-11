@@ -37,6 +37,16 @@
       "value": "Lion Beverages"
     },
 	{
+      "description": "Davide Campari-Milano S.p.A., trading as Gruppo Campari, is an Italian company active since 1860 in the branded beverage industry. It produces spirits, wines, and soft drinks.",
+      "meta": {
+        "refs": [
+          "https://www.camparigroup.com/en"
+        ]
+      },
+      "uuid": "23ff5cf0-48c5-11e9-8646-d663bd873d93",
+      "value": "Davide Campari-Milano S.p.A."
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [

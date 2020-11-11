@@ -3733,6 +3733,56 @@
 			"value": "The Town of Salem, NH"
 		},
 		{
+			"description": "The Superior Court of Justice is the highest appellate court in Brazil for non-constitutional questions of federal law. The STJ also has original jurisdiction over some cases. Its competence is described in Article 105 of the Brazilian Constitution of 1988.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Superior_Court_of_Justice_(Brazil)"
+				]
+			},
+			"uuid": "d279ce54-2420-11eb-adc1-0242ac120002",
+			"value": "Superior Court of Justice (Brazil)"
+		},
+		{
+			"description": "The Ministry of Health is a cabinet-level federal ministry in Brazil. The most recent Health Minister was Nelson Teich, who resigned on 15 May 2020. Teich's resignation came just four weeks after he joined the Bolsonaro administration.",
+			"meta": {
+				"refs": [
+					"http://www.brazil.gov.br/government/ministers/health"
+				]
+			},
+			"uuid": "d279d0de-2420-11eb-adc1-0242ac120002",
+			"value": "Ministry of Health of Brazil"
+		},
+		{
+			"description": "Columbus City Schools, formerly known as Columbus Public Schools, is the official school district for the city of Columbus, Ohio, and serves most of the city. The district has over 56,000 students enrolled, making it the largest school district in the state of Ohio as of August 2006.",
+			"meta": {
+				"refs": [
+					"https://www.ccsoh.us/"
+				]
+			},
+			"uuid": "d279d1e2-2420-11eb-adc1-0242ac120002",
+			"value": "Columbus City Schools"
+		},
+		{
+			"description": "Alfortville is a commune in the Val-de-Marne department in the southeastern suburbs of Paris, France. It is located 7.6 km from the center of Paris.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Alfortville"
+				]
+			},
+			"uuid": "d279d2b4-2420-11eb-adc1-0242ac120002",
+			"value": "Alfortville"
+		},
+		{
+			"description": "Like the other 35 health units in Ontario, the Middlesex-London Health Unit delivers programs and services that are part of the Health Protection and Promotion Act (HPPA) to the people who live in London and Middlesex County. The Health Unit does this according to a set of rules called the Ontario Public Health Standards. The Health Unit provides these services and programs at its offices in downtown London and in Strathroy. The downtown London office is at 50 King Street near the forks of the Thames River. This is where you can get immunized, access dental health programs, sexual health and family planning services and also where you can take several classes and workshops. Many of these services are also offered at the Health Unit’s Strathroy office located in the Kenwick Mall at 51 Front Street.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/middlesex-london-health-unit/about/"
+				]
+			},
+			"uuid": "d279d37c-2420-11eb-adc1-0242ac120002",
+			"value": "Middlesex London Health Unit"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

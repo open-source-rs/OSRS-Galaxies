@@ -2225,6 +2225,46 @@
       "value": "OSRS Actors AND Campaigns: Operation Earth Kitsune"
     },
 	{
+      "description": "Through Mandiant investigation of intrusions, the FLARE Advanced Practices team observed a group we track as UNC1945 compromise managed service providers and operate against a tailored set of targets within the financial and professional consulting industries by leveraging access to third-party networks (see this blog post for an in-depth description of UNC groups). UNC1945 targeted Oracle Solaris operating systems, utilized several tools and utilities against Windows and Linux operating systems, loaded and operated custom virtual machines, and employed techniques to evade detection. UNC1945 demonstrated access to exploits, tools and malware for multiple operating systems, a disciplined interest in covering or manipulating their activity, and displayed advanced technical abilities during interactive operations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/11/live-off-the-land-an-overview-of-unc1945.html"
+        ]
+      },
+      "uuid": "96f2d032-2421-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC1945 Threat Group"
+    },
+	{
+      "description": "Recently, we’ve observed several cases where DLL side-loading was used to execute the malicious code. Side-loading is the use of a malicious DLL spoofing a legitimate one, relying on legitimate Windows executables to load and execute the malicious code. While the technique is far from new—we first saw it used by (mostly Chinese) APT groups as early as 2013, before cybercrime groups started to add it to their arsenal—this particular payload was not one we’ve seen before. It stands out because the threat actors used several plaintext strings written in poor English with politically inspired messages in their samples. The cases are connected by a common artifact: the program database (PDB) path. All samples share a similar PDB path, with several of them containing the folder name KilllSomeOne. Based on the targeting of the attacks—against non-governmental organizations and  other organizations  in Myanmar— and other characteristics of the malware involved, we have reason to believe that the actors involved are a Chinese APT group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/new-active-hacking-group-leverages-killlsomeone-dll-side-loading/#ftag=RSSbaffb68",
+		  "https://news.sophos.com/en-us/2020/11/04/a-new-apt-uses-dll-side-loads-to-killlsomeone/"
+        ]
+      },
+      "uuid": "96f2d294-2421-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: PlugX APT"
+    },
+	{
+      "description": "Recently, Check Point Research encountered a series of worldwide attacks relevant to VoIP, specifically to Session initiation Protocol (SIP) servers. Based on information provided by our global sensors, there appears to be a systematic exploitation pattern of SIP servers from different manufactures. Further exploration revealed that this is part of a large, profitable business model run by hackers. Hacking SIP servers and gaining control allows hackers to abuse them in several ways. One of the more complex and interesting ways is abusing the servers to make outgoing phone calls, which are also used to generate profits. Making calls is a legitimate feature, therefore it’s hard to detect when a server has been exploited. During our research, we discovered a new campaign targeting Sangoma PBX (an open-source web GUI that manages Asterisk).  Asterisk is the world’s most popular VoIP PBX system, and it is used by many Fortune 500 companies for telecommunications. The attack exploits CVE-2019-19006, a critical vulnerability in Sangoma, granting the attacker admin access to the system. During the first half of 2020, we observed numerous attack attempts on sensors worldwide. We exposed the attacker’s entire attack flow, from the initial exploitation of CVE-2019-19006 to uploading encoded PHP files that leverage the compromised system. The group shares a number of tools related to SIP server exploitation - scanners, authentication bypass, and remote code execution scripts. Among these scripts, we found a variant of the brute-force script seen in the Pastebin of INJ3CTOR3. The group’s main purpose is to sell phone numbers, calls plans, and live access to VoIP services compromised as part of the Inj3ct0r attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2020/inj3ctor3-operation-leveraging-asterisk-servers-for-monetization/"
+        ]
+      },
+      "uuid": "96f2d3ac-2421-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: INJ3CTOR3 Operation"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

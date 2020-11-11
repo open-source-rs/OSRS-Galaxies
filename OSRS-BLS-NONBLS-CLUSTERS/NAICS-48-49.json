@@ -147,6 +147,16 @@
       "value": "Japan Post Co., Ltd."
     },
 	{
+      "description": "Food delivery service provided through an online service.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/james-delivery/about/"
+        ]
+      },
+      "uuid": "a9c4f076-243c-11eb-adc1-0242ac120002",
+      "value": "James Delivery"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

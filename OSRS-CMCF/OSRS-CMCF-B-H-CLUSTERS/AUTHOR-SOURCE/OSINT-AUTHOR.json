@@ -7596,6 +7596,188 @@
       "value": "OSRS OSINT Author Index: Travis Dorman"
     },
 	{
+      "description": "Senior Threat Intelligence Analyst at FireEye, Inc. TORE Adversary Pursuit. Otwocki, Mazowieckie, Poland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/wojciech-ledzion-68599542/?originalSubdomain=pl"
+        ]
+      },
+      "uuid": "a16df1c4-243d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Wojciech Ledzion"
+    },
+	{
+      "description": "Principal Consultant at Mandiant. Zurich, Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/luiscrocha/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "a16df408-243d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Luis Rocha"
+    },
+	{
+      "description": "Incident Response Consultant at Mandiant, a FireEye Company. Zurich, Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adrianpis/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "a16df50c-243d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Adrian Pisarczyk"
+    },
+	{
+      "description": "Senior Manager at Mandiant. United Arab Emirates.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dancaban/?originalSubdomain=ae"
+        ]
+      },
+      "uuid": "a16df84a-243d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Daniel Caban"
+    },
+	{
+      "description": "Incident Response Consultant at Mandiant. Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sara-rinc%C3%B3n-nicol%C3%A1s-740b156/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "a16df930-243d-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Sara Rincon Nicolas"
+    },
+	{
+      "description": "Principal Consultant at Mandiant. Greater Barcelona Metropolitan Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/daniel-susin-849a7ab/?originalSubdomain=es"
+        ]
+      },
+      "uuid": "6f6765e2-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Daniel Susin"
+    },
+	{
+      "description": "Principal Consultant at Mandiant. Amsterdam, North Holland, Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/antonio-monaca-6a423259/?originalSubdomain=nl"
+        ]
+      },
+      "uuid": "6f6769c0-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Antonio Monaca"
+    },
+	{
+      "description": "Technical Writer & Researcher at SentinelOne. United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/phil-stokes-b74248181/"
+        ]
+      },
+      "uuid": "cd6a8106-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Phil Stokes"
+    },
+	{
+      "description": "Product Marketing Director at Juniper Networks. Bulkley-Nechako, British Columbia, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/trevorpott/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "cd6a8548-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Trevor Pott"
+    },
+	{
+      "description": "Founder at Volexity, Inc. Herndon, Virginia, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sadair/"
+        ]
+      },
+      "uuid": "cd6a86b0-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Steven Adair"
+    },
+	{
+      "description": "Principal Threat Reseacher at Volexity. Headley, England, United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tlansec/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "cd6a878c-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Thomas Lancaster"
+    },
+	{
+      "description": "Reporter at PCMag.com. San Francisco, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/michael-kan-29603514/"
+        ]
+      },
+      "uuid": "cd6a885e-243e-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Michael Kan"
+    },
+	{
+      "description": "Security Researcher at Check Point Software Technologies, Ltd. Lehavim, Southern, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ido-solomon-3a1338131/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "f20ced52-2441-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ido Solomon"
+    },
+	{
+      "description": "Malware Analyst at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/omer-ventura-43314719a/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "f20cf16c-2441-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Omer Ventura"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

@@ -5608,6 +5608,58 @@
       "value": "OSRS Tool: CORKBOT"
     },
 	{
+      "description": "A Linux ELF packer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2020/11/live-off-the-land-an-overview-of-unc1945.html"
+        ]
+      },
+      "uuid": "65b89f3e-2443-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: STEELCORGI Trojan"
+    },
+	{
+      "description": "A modular spyware suite dubbed KGH_SPY that provides Kimsuky with stealth capabilities to carry out espionage operations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/back-to-the-future-inside-the-kimsuky-kgh-spyware-suite"
+        ]
+      },
+      "uuid": "65b8a34e-2443-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: KGH_SPY"
+    },
+	{
+      "description": "A type of a downloader that is packed with robust evasion techniques meant to ensure that the coast is clear and that the malware does not run in a context of a virtual machine or analysis tools before it continues to download secondary payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/back-to-the-future-inside-the-kimsuky-kgh-spyware-suite"
+        ]
+      },
+      "uuid": "65b8a466-2443-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: CSPY Downloader"
+    },
+	{
+      "description": "Gitpaste-12 is a new worm recently discovered by Juniper Threat Labs, which uses GitHub and Pastebin for housing component code and has at least 12 different attack modules available.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.juniper.net/en-us/threat-research/gitpaste-12"
+        ]
+      },
+      "uuid": "65b8a538-2443-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Gitpaste-12 Worm"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

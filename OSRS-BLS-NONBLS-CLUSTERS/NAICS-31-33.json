@@ -277,6 +277,16 @@
       "value": "DeRoyal Industries"
     },
 	{
+      "description": "Compal Electronics is a Taiwanese original design manufacturer, handling the production of notebook computers, monitors, tablets and televisions for a variety of clients around the world, including Apple Inc., Acer, Lenovo, Dell, Toshiba, Hewlett-Packard and Fujitsu. It also licenses brands of its clients.",
+      "meta": {
+        "refs": [
+          "https://www.compal.com/"
+        ]
+      },
+      "uuid": "53cb38b6-243b-11eb-adc1-0242ac120002",
+      "value": "Compal Electronics"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

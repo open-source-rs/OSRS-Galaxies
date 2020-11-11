@@ -285,6 +285,16 @@
 			"value": "The Lake George Land Conservancy"
 		},
 		{
+			"description": "We build homes, let, improve and maintain them for people in need.  We don’t simply want to make a difference to our customers and their communities – we want to solve the housing crisis too.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/flagship-housing-group-ltd/about/"
+				]
+			},
+			"uuid": "f9eef12e-243b-11eb-adc1-0242ac120002",
+			"value": "Flagship_Group"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

@@ -3095,6 +3095,33 @@
       "value": "OSRS OSINT Source: Knoxville News Sentinel"
     },
 	{
+      "description": "Volexity is a leading provider of threat intelligence and incident suppression services and solutions based in the Washington, DC area. The company was founded by the team who created Volatility, the world’s most widely used memory forensics software. Volexity provides cyber security and digital forensics products and services to Fortune companies, government agencies, and leading security vendors across the globe. Over the past decade, the Volexity team has developed groundbreaking technology solutions, transforming the way modern digital investigations are performed. These solutions increase enterprise visibility and facilitate rapid intrusion suppression.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.volexity.com/blog/",
+		  "https://www.linkedin.com/company/volexity/about/"
+        ]
+      },
+      "uuid": "f20cf25c-2441-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Volexity Cybersecurity Blog"
+    },
+	{
+      "description": "PC Magazine is an American computer magazine published by Ziff Davis. A print edition was published from 1982 to January 2009. Publication of online editions started in late 1994 and continues to this day.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.pcmag.com/"
+        ]
+      },
+      "uuid": "f20cf32e-2441-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: PCMag"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

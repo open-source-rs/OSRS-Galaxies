@@ -3024,6 +3024,36 @@
 			"value": "DaVita Florissant Dialysis"
 		},
 		{
+			"description": "Alamance Skin Center, the Triad's premier location for high-quality Dermatological Skin Care and Skin Rejuvenation treatments.",
+			"meta": {
+				"refs": [
+					"http://www.alamanceskincenter.com/"
+				]
+			},
+			"uuid": "f9eeed3c-243b-11eb-adc1-0242ac120002",
+			"value": "Alamance Skin Center"
+		},
+		{
+			"description": "Lupin Limited is an Indian multinational pharmaceutical company based in Mumbai, Maharashtra, India. It is one of the largest generic pharmaceutical companies by revenue globally. The company's key focus areas include paediatrics, cardiovascular, anti-infectives, diabetology, asthma and anti-tuberculosis.",
+			"meta": {
+				"refs": [
+					"https://www.lupin.com/"
+				]
+			},
+			"uuid": "f9eeef62-243b-11eb-adc1-0242ac120002",
+			"value": "Lupin Limited"
+		},
+		{
+			"description": "X-Cart is a commercial open source shopping cart platform distributed through the SaaS solution, or via download package. It was originally released in 2000 by Creative Technologies LLC, a Russian web development company that later worked on Ecwid. Upon release, it was the world's first PHP shopping cart software.",
+			"meta": {
+				"refs": [
+					"https://www.x-cart.com/"
+				]
+			},
+			"uuid": "f9eef05c-243b-11eb-adc1-0242ac120002",
+			"value": "X-Cart"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

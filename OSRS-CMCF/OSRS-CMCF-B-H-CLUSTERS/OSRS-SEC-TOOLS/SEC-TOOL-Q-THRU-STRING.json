@@ -1273,6 +1273,19 @@
       "value": "OSRS SecTool: Taken"
     },
 	{
+      "description": "Rubeus is a C# toolset for raw Kerberos interaction and abuses. It is heavily adapted from Benjamin Delpy's Kekeo project (CC BY-NC-SA 4.0 license) and Vincent LE TOUX's MakeMeEnterpriseAdmin project (GPL v3.0 license). Full credit goes to Benjamin and Vincent for working out the hard components of weaponization- without their prior work this project would not exist. Charlie Clark and Ceri Coburn have both made significant contributions to the Rubeus codebase. Elad Shamir contributed some essential work for resource-based constrained delegation. Their work is very appreciated! Rubeus also uses a C# ASN.1 parsing/encoding library from Thomas Pornin named DDer that was released with an MIT-like license. Huge thanks to Thomas for his clean and stable code! PKINIT code heavily adapted from @SteveSyfuhs's Bruce tool. Bruce made RFC4556 (PKINIT) a lot easier to understand. Huge thanks to Steve! The KerberosRequestorSecurityToken.GetRequest method for Kerberoasting was contributed to PowerView (and then incorporated into Rubeus) by @machosec. @harmj0y is the primary author of this code base. Rubeus is licensed under the BSD 3-Clause license.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/GhostPack/Rubeus"
+        ]
+      },
+      "uuid": "65b8a5f6-2443-11eb-adc1-0242ac120002",
+      "value": "OSRS SecTool: Rubeus"
+    },
+	{
       "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives.",
       "meta": {
 	  "kill_chain": [

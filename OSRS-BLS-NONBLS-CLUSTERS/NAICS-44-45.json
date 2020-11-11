@@ -427,6 +427,46 @@
 			"value": "The Home Depot, Inc."
 		},
 		{
+			"description": "JM Bullion is an online retailer of gold and silver products, from bars to rounds to coins. We deal exclusively in physical bullion, selling gold or silver that is delivered directly to your door.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/jm-bullion/about/"
+				]
+			},
+			"uuid": "a9c4e9be-243c-11eb-adc1-0242ac120002",
+			"value": "JM Bullion"
+		},
+		{
+			"description": "With 13 dealerships across the East Midlands, Sandicliffe specialise in supply and maintenance of New and Used Cars and Commercial vehicles, and offer a complete range of motoring products and services. We are proud to represent five New Car manufacturers - Ford, Mazda, Nissan, Skoda and Kia. Sandicliffe remain committed to the highest quality standards teamed with excellent customer care and these values have stuck with us from the very beginning of our journey. Sandicliffe was founded in 1948 by Mr. J R Woodhouse and Mr. T H Barton as a service station on Nottingham Road, Stapleford. The Company became Ford Retail Dealers in 1953 and then by 1955, Ford Car and Commercial Vehicle Distributorships were appointed. Things progressed steadily whereby in 1974, the honour of a Royal Warrant of Her Majesty Queen Elizabeth II was granted to the Stapleford Dealership. More recently, Sandicliffe has expanded into one of the country's largest privately owned family motor groups with over 600 employees operating from eleven sites located throughout the East Midlands.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/sandicliffe-motor-group/about/"
+				]
+			},
+			"uuid": "a9c4ec16-243c-11eb-adc1-0242ac120002",
+			"value": "Sandicliffe Motor Group"
+		},
+		{
+			"description": "LensCrafters is an international retailer of prescription eyewear and prescription sunglasses. Its stores usually host independent optometrists on-site or in an adjacent store. The company has its corporate headquarters in Mason, Ohio, a suburb of Cincinnati.",
+			"meta": {
+				"refs": [
+					"https://www.lenscrafters.com/"
+				]
+			},
+			"uuid": "a9c4eeb4-243c-11eb-adc1-0242ac120002",
+			"value": "LensCrafters"
+		},
+		{
+			"description": "Target Optical’s mission is to make guests happy by making it simple and fun to see great and look great – and it’s a mission that our team members live every day in our approximately 350 stores across the U.S. Just like Target, we sell fashion that’s affordable, featuring top brands like Ray-Ban, DKNY, Armani Exchange, Maui Jim, Coach and more. When it comes to taking care of your eyes, we can't say enough about the importance of an annual eye exam, provided by the independent doctors of optometry next to Target Optical. Every day we deliver on our - expect more, pay less​ - promise by bringing together quality eye care, fashion, affordability and a simple, fun shopping experience.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/target-optical/about/"
+				]
+			},
+			"uuid": "a9c4efa4-243c-11eb-adc1-0242ac120002",
+			"value": "Target Optical"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
