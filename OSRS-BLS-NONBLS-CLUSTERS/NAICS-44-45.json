@@ -467,6 +467,16 @@
 			"value": "Target Optical"
 		},
 		{
+			"description": "Cencosud S.A. is a publicly traded multinational retail company. It's the largest retail company in Chile and the third largest listed retail company in Latin America.",
+			"meta": {
+				"refs": [
+					"https://www.cencosud.com/en"
+				]
+			},
+			"uuid": "0d8e8fc6-2a6f-11eb-adc1-0242ac120002",
+			"value": "Cencosud S.A."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

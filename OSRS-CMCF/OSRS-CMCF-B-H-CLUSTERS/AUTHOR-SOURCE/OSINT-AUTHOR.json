@@ -7778,6 +7778,58 @@
       "value": "OSRS OSINT Author Index: Omer Ventura"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/vatet-pyxie-defray777/"
+        ]
+      },
+      "uuid": "0d8e928c-2a6f-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ryan Tracey"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/vatet-pyxie-defray777/"
+        ]
+      },
+      "uuid": "0d8e93b8-2a6f-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Drew Schmitt"
+    },
+	{
+      "description": "Malware Analyst at ESET. Slovakia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/martin-smol%C3%A1r-962709100/?originalSubdomain=sk"
+        ]
+      },
+      "uuid": "0d8e94f8-2a6f-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Martin Smolar"
+    },
+	{
+      "description": "Cloud Security Researcher. Baltimore, Maryland, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/chris-hall-b464a133/"
+        ]
+      },
+      "uuid": "0d8e966a-2a6f-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Chris Hall"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

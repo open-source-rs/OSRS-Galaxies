@@ -217,6 +217,26 @@
       "value": "Capcom Co., Ltd."
     },
 	{
+      "description": "WildWorks (formerly Smart Bomb Interactive) is a leading developer of online worlds and F2P games for players of all ages. Founded by game industry veterans in 2003, we've assembled a development team that includes internationally acclaimed artists, engineers, designers, educators, online safety experts, and media professionals from many different disciplines. Together we create fun with substance, from online casual games to cutting-edge mobile titles.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/playwildworks/about/"
+        ]
+      },
+      "uuid": "c5314ebe-2a6c-11eb-adc1-0242ac120002",
+      "value": "WildWorks"
+    },
+	{
+      "description": "Pluto TV, a ViacomCBS company, is the leading free streaming television service in America. With over 250+ channels, 170+ content partners, and 20+ million viewers, Pluto TV is growing at warp speed.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/pluto-tv/about/"
+        ]
+      },
+      "uuid": "c5315102-2a6c-11eb-adc1-0242ac120002",
+      "value": "Pluto TV"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

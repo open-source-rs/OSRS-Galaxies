@@ -58,6 +58,16 @@
       "value": "Mobifriends"
     },
 	{
+      "description": "Car wash service chain in the state of Texas.",
+      "meta": {
+        "refs": [
+          "https://washtub.com/about-us/"
+        ]
+      },
+      "uuid": "f8b0ced0-2a6d-11eb-adc1-0242ac120002",
+      "value": "The Wash Tub (Car Wash Service)"
+    },
+	{
       "description": "Health and fitness service provider.  Mainly gyms that patrons can engage in fitness activies.",
       "meta": {
         "refs": [

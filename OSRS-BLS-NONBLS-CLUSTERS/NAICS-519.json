@@ -256,6 +256,26 @@
 			"value": "Wongnai.com"
 		},
 		{
+			"description": "Mashable is an American entertainment, culture, tech, science and social good digital media platform, news website and multi-platform media and entertainment company founded by Pete Cashmore in 2005.",
+			"meta": {
+				"refs": [
+					"https://mashable.com/"
+				]
+			},
+			"uuid": "9923f17c-2a6d-11eb-adc1-0242ac120002",
+			"value": "Mashable"
+		},
+		{
+			"description": "123RF is a stock content agency founded in 2005 which sells royalty-free images. In the past few years, 123RF expanded the portfolio to serve the growing market of the web-based content industry.",
+			"meta": {
+				"refs": [
+					"https://www.123rf.com/"
+				]
+			},
+			"uuid": "9923f3c0-2a6d-11eb-adc1-0242ac120002",
+			"value": "123RF"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

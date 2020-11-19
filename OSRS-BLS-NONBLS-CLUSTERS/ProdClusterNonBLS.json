@@ -3783,6 +3783,46 @@
 			"value": "Middlesex London Health Unit"
 		},
 		{
+			"description": "Gaiba is a comune (municipality) in the province of Rovigo in the Italian region Veneto, located about 80 kilometres (50 mi) southwest of Venice and about 25 kilometres (16 mi) southwest of Rovigo.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Gaiba#:~:text=Gaiba%20is%20a%20comune%20(municipality,16%20mi)%20southwest%20of%20Rovigo."
+				]
+			},
+			"uuid": "ee08b01e-29a1-11eb-adc1-0242ac120002",
+			"value": "The Municipality of Gaiba"
+		},
+		{
+			"description": "The Newcastle Grammar School is a dual-campus independent Anglican co-educational non-selective primary and secondary day school, located in Newcastle, in the Hunter Region of New South Wales, Australia.",
+			"meta": {
+				"refs": [
+					"https://www.ngs.nsw.edu.au/"
+				]
+			},
+			"uuid": "ee08b3e8-29a1-11eb-adc1-0242ac120002",
+			"value": "Newcastle Grammar School"
+		},
+		{
+			"description": "To improve the quality of life for Delaware's citizens by promoting health and well-being, fostering self-sufficiency, and protecting vulnerable populations.",
+			"meta": {
+				"refs": [
+					"https://dhss.delaware.gov/dhss/dph/"
+				]
+			},
+			"uuid": "ee08b5c8-29a1-11eb-adc1-0242ac120002",
+			"value": "The Delaware Division of Public Health"
+		},
+		{
+			"description": "Annapolis, Maryland’s capital city, is on Chesapeake Bay. Its historic district includes 18th-century brick houses and the domed 1700s Maryland State House. On Church Circle, the Romanesque-style St. Anne’s Episcopal Church has Tiffany glass windows and a historic cemetery. The sprawling waterfront grounds of the United States Naval Academy feature beaux arts architecture, monuments and a naval history museum.",
+			"meta": {
+				"refs": [
+					"https://www.annapolis.gov/"
+				]
+			},
+			"uuid": "ee08b6ea-29a1-11eb-adc1-0242ac120002",
+			"value": "The City of Annapolis, MD"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

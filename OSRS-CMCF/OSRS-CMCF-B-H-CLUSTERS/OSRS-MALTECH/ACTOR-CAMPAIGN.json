@@ -2265,6 +2265,51 @@
       "value": "OSRS Actors AND Campaigns: INJ3CTOR3 Operation"
     },
 	{
+      "description": "Referred to as PyXie by BlackBerry Cylance and GOLD DUPONT by SecureWorks, has been actively conducting successful ransomware operations that have impacted organizations in a number of sectors including healthcare, education, government and technology while remaining under the radar.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/vatet-pyxie-defray777/"
+        ],
+        "synonyms": [
+        "Gold Dupont"
+        ]
+      },
+      "uuid": "d3f3721c-29a2-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: PyXie APT"
+    },
+	{
+      "description": "The North African Fox organization's load delivery methods are mainly phishing websites and third-party file hosting websites, and different load delivery methods are used at different time periods.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blogs.360.cn/post/APT-C-44.html"
+        ],
+        "synonyms": [
+        "APT-C-44"
+        ]
+      },
+      "uuid": "d3f3750a-29a2-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: North African Fox"
+    },
+	{
+      "description": "During the past six months, the BlackBerry Research and Intelligence team have been monitoring a cyber-espionage campaign that is targeting disparate victims around the globe. The campaign, dubbed CostaRicto by BlackBerry, appears to be operated by hackers-for-hire, a group of APT mercenaries who possess bespoke malware tooling and complex VPN proxy and SSH tunnelling capabilities. Mercenary groups offering APT-style attacks are becoming more and more popular. Their tactics, techniques, and procedures (TTPs) often resemble highly sophisticated state-sponsored campaigns, but the profiles and geography of their victims are far too diverse to be aligned with a single bad actor’s interests. Although in theory the customers of a mercenary APT might include anyone who can afford it, the more sophisticated actors will naturally choose to work with patrons of the highest profile – be it large organizations, influential individuals, or even governments. Having a lot at stake, the cybercriminals must choose very carefully when selecting their commissions to avoid the risk of being exposed. Outsourcing an espionage campaign, or part of it, to a mercenary group might be very compelling, especially to businesses and individuals who seek intelligence on their competition yet may not have the required tooling, infrastructure and experience to conduct an attack themselves. But even notorious adversaries experienced in cyber-espionage can benefit from adding a layer of indirection to their attacks. By using a mercenary as their proxy, the real attacker can better protect their identity and thwart attempts at attribution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced"
+        ]
+      },
+      "uuid": "736a93a2-29a3-11eb-adc1-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: The CostaRicto Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

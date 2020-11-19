@@ -3122,6 +3122,19 @@
       "value": "OSRS OSINT Source: PCMag"
     },
 	{
+      "description": "We started Lacework with a group of the most insightful thinkers in cloud security. We developed a concept that cloud security could be provided as an end-to-end experience with better context, more intelligence, and more sophisticated threat detection. Our founding team had a vision for applying machine learning to the behaviors of resources, users, and all activity in the cloud, which would provide a more accurate picture of where actual threats existed. This approach provides our customers with more contextual, accurate data and alerts. The Lacework team is focused on giving customers visibility and control over their cloud operations at cloud scale to the monitoring of all activities across all cloud components.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.lacework.com/about-us/"
+        ]
+      },
+      "uuid": "4c464b2c-2a70-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Lacework Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

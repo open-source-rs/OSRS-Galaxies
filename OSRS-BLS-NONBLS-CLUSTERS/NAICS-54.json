@@ -3054,6 +3054,56 @@
 			"value": "X-Cart"
 		},
 		{
+			"description": "Nexia International is a leading, global network of independent accounting and consulting firms, providing a comprehensive portfolio of audit, accountancy, tax and advisory services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/nexia-international/about/"
+				]
+			},
+			"uuid": "1b413228-2a6e-11eb-adc1-0242ac120002",
+			"value": "Nexia International"
+		},
+		{
+			"description": "Software developers specialized in management and marketing solutions for tourist establishments. Traditional installation and cloud computing projects. PMS modules, Central Reservations, Channels Manager, Web Booking Engine, Management of Golf Courses and Wellness Centers. Solutions on mobile devices: hotels and restaurants. With extensive experience in the implementation of management systems in hotel organizations of all types and sizes. Offices in Madrid and Barcelona.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/prestige-software-s.l./about/"
+				]
+			},
+			"uuid": "1b41357a-2a6e-11eb-adc1-0242ac120002",
+			"value": "Prestige Software SL"
+		},
+		{
+			"description": "Dure Technologies mission is to work towards a widespread democratization of data, collecting any form of digital information and making it accessible and useful.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/dure-technologies/about/"
+				]
+			},
+			"uuid": "1b4136ec-2a6e-11eb-adc1-0242ac120002",
+			"value": "Dure Technologies"
+		},
+		{
+			"description": "Vertafore is the leader in creating modern insurance technology. Every day thousands of insurance agencies, carriers and states use a breadth of Vertafore solutions to grow their businesses, process claims for their customers and much more.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/vertafore/about/"
+				]
+			},
+			"uuid": "1b413836-2a6e-11eb-adc1-0242ac120002",
+			"value": "Vertafore, Inc."
+		},
+		{
+			"description": "Miltenyi Biotec is a global biotechnology company headquartered near Cologne in Bergisch Gladbach, Germany. The company is a provider of products and services that support scientists, clinical researchers, and physicians across basic research, translational research, and clinical applications.",
+			"meta": {
+				"refs": [
+					"https://www.miltenyibiotec.com/US-en/"
+				]
+			},
+			"uuid": "1b4139c6-2a6e-11eb-adc1-0242ac120002",
+			"value": "Miltenyi Biotec"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

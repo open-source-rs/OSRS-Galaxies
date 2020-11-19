@@ -5660,6 +5660,201 @@
       "value": "OSRS Tool: Gitpaste-12 Worm"
     },
 	{
+      "description": "Vatet is a custom loader that executes XOR encoded shellcode from the local disk or a network share. The loaders are typically open source applications found on GitHub, or other repositories, that the actors modify to load their shellcode. In most cases, the payload winds up being Cobalt Strike beacons and/or stagers, but some of the more recent payloads have been an updated version of the PyXie RAT. Vatet is often a precursor to enterprise-wide ransomware attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/vatet-pyxie-defray777/"
+        ]
+      },
+      "uuid": "44232a84-2a78-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Vatet Loader"
+    },
+	{
+      "description": "Remote Access Trojan (RAT) used by PyXie APT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/vatet-pyxie-defray777/"
+        ]
+      },
+      "uuid": "44232de0-2a78-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: PyXie RAT"
+    },
+	{
+      "description": "SonicSpy is a variant of the commercial RAT tool SpyNote. It first appeared in February 2017. The entire SonicSpy series products support 73 different remote commands. Its main functions are as follows - record audio silently, use the camera to take pictures, dial number, send SMS to the number specified by the attacker, get call log, get contacts, get Wi-Fi information, get location information, get notification bar message, get SMS, operating clipboard, and execute remote commands.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.360.cn/post/APT-C-44.html"
+        ]
+      },
+      "uuid": "44232f98-2a78-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: SonicSpy"
+    },
+	{
+      "description": "Houdini RAT is a scripted RAT, and the compilation time cannot be found. It is guessed that when the disguise website went online at the end of 2017, it had already begun to be used.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.360.cn/post/APT-C-44.html"
+        ]
+      },
+      "uuid": "44233092-2a78-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Houdini RAT"
+    },
+	{
+      "description": "Apart from the prebuilt RAT capabilities, the malware can download and deploy additional malicious plugins on the infected endpoint. One of the plugins is a ransomware known as Hansom. CRAT has been attributed to the Lazarus APT Group in the past. The RAT consists of multiple obfuscation techniques to hide strings, API names, command and control (C2) URLs and instrumental functions, along with static detection evasion. The attack also employs a multitude of anti-infection checks to evade sandbox based detection systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/11/crat-and-plugins.html"
+        ]
+      },
+      "uuid": "442331fa-2a78-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: CRAT"
+    },
+	{
+      "description": "GetMicInfo is a downloadable component that targets data related to the MICROS POS including passwords tied to two database usernames predefined by the manufacturer - dba and micros. This information is encrypted and stored in DataS5 (for dba) and DataS6 (for micros) registry values.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/11/12/hungry-data-modpipe-backdoor-hits-pos-software-hospitality-sector/"
+        ]
+      },
+      "uuid": "64a2b77e-2a79-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: GetMicInfo ModPipe Module"
+    },
+	{
+      "description": "The main purpose of ModScan 2.20 is to collect additional information about the installed MICROS POS environment on the machines by scanning selected IP addresses. The ModScan 2.20 module is injected into one of the processes specified by the C&C via an InstallMod command (0x72). Based on findings, it is typically associated with legitimate processes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/11/12/hungry-data-modpipe-backdoor-hits-pos-software-hospitality-sector/"
+        ]
+      },
+      "uuid": "64a2b9ae-2a79-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: ModScan ModPipe Module"
+    },
+	{
+      "description": "This is a lightweight module that doesn’t have an assigned ID. Its main purpose is to collect information about currently running processes, including - name, process identifier (PID), parent process PID, number of threads, token owner, token domain, process creation time, and command line. Optionally, ProcList can also collect information about loaded modules for each of the running processes. Collected information is sent to the main module of the backdoor (using pipe message 0x10000013).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/11/12/hungry-data-modpipe-backdoor-hits-pos-software-hospitality-sector/"
+        ]
+      },
+      "uuid": "64a2baa8-2a79-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: ProcList ModPipe Module"
+    },
+	{
+      "description": "Ghimob is a full-fledged spy in your pocket - once infection is completed, the hacker can access the infected device remotely, completing the fraudulent transaction with the victim’s smartphone, so as to avoid machine identification, security measures implemented by financial institutions and all their antifraud behavioral systems. Even if the user has a screen lock pattern in place, Ghimob is able to record it and later replay it to unlock the device. When the cybercriminal is ready to perform the transaction, they can insert a black screen as an overlay or open some website in full screen, so while the user looks at that screen, the criminal performs the transaction in the background by using the financial app running on the victim’s smartphone that the user has opened or logged in to. From a technical standpoint, Ghimob is also interesting in that it uses C2s with fallback protected by Cloudflare, hides its real C2 with DGA and employs several other tricks, posing as a strong competitor in this field. But yet, no sign of MaaS (malware-as-a-service). Compared to BRATA or Basbanke, another mobile banking trojan family originating in Brazil, Ghimob is far more advanced and richer in features, and has strong persistence.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/ghimob-tetrade-threat-mobile-devices/99228/"
+        ]
+      },
+      "uuid": "64a2bc38-2a79-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Ghimob Banking Trojan"
+    },
+	{
+      "description": "A family of banking trojans.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/ghimob-tetrade-threat-mobile-devices/99228/"
+        ]
+      },
+      "uuid": "64a2bd14-2a79-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Tetrade Banking Trojan"
+    },
+	{
+      "description": "The backdoor is a C++ compiled executable developed with heavy usage of objects, classes, and interfaces. It has a plugin architecture and basic functionality of a foothold RAT that is mainly used to download and execute other malicious payloads – either as its own plugins or standalone binaries. It can also perform other simple actions, like collecting system information, listing and killing processes, and uploading files to the C2. Features include - communication over DNS tunnel with a hardcoded domain name and DGA-generated subdomain, c2 traffic encrypted with RSA-2048, custom AES-encrypted storage format used to store configuration, plugins, and harvested data, and unique version number for each sample.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced"
+        ]
+      },
+      "uuid": "7868f6e6-2a7a-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: SombRAT Backdoor"
+    },
+	{
+      "description": "The loader used with 32-bit backdoors is more technically compelling. It implements a simple custom-built virtual machine mechanism that will execute an embedded bytecode to decode and inject the payload into memory. This attempt at obfuscation, although not new, is rather uncommon in relation to targeted attacks. Code virtualization has been most prevalent in commercial software protectors which use much more advanced solutions, simpler virtual machines are sometimes also featured in off-the-shelf malicious packers used by widespread financial crimeware. This particular implementation, however, is unique (there are just a handful of samples in the public domain) and seems to be used only with SombRAT payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced"
+        ]
+      },
+      "uuid": "7868fd30-2a7a-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: CostaBricks Loader (x86)"
+    },
+	{
+      "description": "Babax stealer is at least around since June 2019. At that time a user named ForlayPy gave away the source code for free after being dissatisfied with a customer they sold the source to.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/2020/11/36459-babax-stealer-rebrands-to-osno-installs-rootkit"
+        ]
+      },
+      "uuid": "7868fef2-2a7a-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Babax Stealer"
+    },
+	{
+      "description": "Osno stealer implements the code of AnarchyGrabber 3. Osno is not just a stealer anymore. Although that is still the main focus, the added capabilities pose a more serious threat, especially RDP access, lateral movement and file destruction.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/2020/11/36459-babax-stealer-rebrands-to-osno-installs-rootkit"
+        ]
+      },
+      "uuid": "786900c8-2a7a-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Osno Stealer"
+    },
+	{
+      "description": "Although the advertisment calls this an exploit, it is actually an open source rootkit by bytecode77. The Github repo provides DLL's for this rootkit as well as an installer. Osno does the installation itself. Just like the rootkit installer, Osno registers the rootkit DLL to AppInit_DLLs and enables LoadAppInit_DLLs so it is loaded with every process. Because the rookit DLLs are not signed, it sets RequireSignedAppInit_DLLs to 0. The rootkit uses MinHook to redirect WinAPI calls, so that it hides processes and file names, e.g., from explorer and taskmanager. The proof-of-concept binaries for the rootkit hide files and processes that start with $77. Since Osno uses the proof-of-concept binaries, it needs to add the prefix $77 to its own files to make it work.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/2020/11/36459-babax-stealer-rebrands-to-osno-installs-rootkit"
+        ]
+      },
+      "uuid": "7869024e-2a7a-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Rootkit r77"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

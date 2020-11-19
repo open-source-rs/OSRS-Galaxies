@@ -287,6 +287,16 @@
       "value": "Compal Electronics"
     },
 	{
+      "description": "The North Face is an American outdoor recreation product company. The North Face produces clothing, footwear, and outdoor equipment. Founded in 1966 to supply climbers, the company's logo draws inspiration from Half Dome, in Yosemite National Park.",
+      "meta": {
+        "refs": [
+          "https://www.thenorthface.com/"
+        ]
+      },
+      "uuid": "26407e0a-2a6d-11eb-adc1-0242ac120002",
+      "value": "The North Face"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

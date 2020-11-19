@@ -983,6 +983,45 @@
       "value": "OSRS Backdoor: AppleSeed Backdoor"
     },
 	{
+      "description": "TriFive is a previously unseen PowerShell-based backdoor that the xHunt actors installed on the compromised Exchange server, executing every five minutes via a scheduled task. TriFive provided backdoor access to the Exchange server by logging into a legitimate user’s inbox and obtaining a PowerShell script from an email draft within the deleted emails folder. The TriFive sample used a legitimate account name and credentials from the targeted organization. This suggests that the threat actor had stolen the account’s credentials prior to the installation of the TriFive backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/xhunt-campaign-backdoors/"
+        ]
+      },
+      "uuid": "736a8fb0-29a3-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: TriFive Backdoor"
+    },
+	{
+      "description": "The OfficeIntegrator.ps1 file seen in the ResolutionHosts task is a PowerShell-based backdoor we call Snugy, which allows an actor to obtain the system’s hostname and to run commands. Snugy is a variant of the CASHY200 backdoor used by actors in previous attacks in the xHunt campaign. In July 2019, Trend Micro created a detection signature for this backdoor called Backdoor.PS1.NETERO.A, which suggests that this particular variant of CASHY200 has been around for over a year. We are calling this variant of the backdoor Snugy, as Netero is already a name of a variant of the Hisoka tool used by the xHunt actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/xhunt-campaign-backdoors/"
+        ]
+      },
+      "uuid": "736a91e0-29a3-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: Snugy Backdoor"
+    },
+	{
+      "description": "Analysis shows that ModPipe uses modular architecture consisting of basic components and downloadable modules. 1. initial dropper – contains both 32-bit and 64-bit binaries of the next stage – the persistent loader – and installs the appropriate version to the compromised machine. 2. persistent loader – unpacks and loads the next stage of the malware, namely the main module. 3. main module – performs the main functionality of the malware. It creates a pipe used for communication with other malicious modules, un/installs these modules and serves as a dispatcher that handles communication between the modules and attacker’s C&C server. 4. networking module – module used for communication with C&C. downloadable modules – components adding specific functionality to the backdoor, such as the ability to steal database passwords and configuration information, scan specific IP addresses or acquire a list of the running processes and their loaded modules.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/11/12/hungry-data-modpipe-backdoor-hits-pos-software-hospitality-sector/"
+        ]
+      },
+      "uuid": "736a92d0-29a3-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: ModPipe Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

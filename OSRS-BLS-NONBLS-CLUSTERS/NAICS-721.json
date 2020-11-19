@@ -57,6 +57,16 @@
       "value": "The Ritz-Carlton Hotel Company, LLC"
     },
 	{
+      "description": "RedDoorz is Southeast Asia’s largest and fast-growing, technology-driven hospitality brand. With a vision to enable people to travel more and provide affordable, reliable stays in all major cities and destinations across the region, RedDoorz is disrupting the hospitality industry by transforming the fragmented supply inventory into branded, standardized accommodations.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/reddoorz/about/"
+        ]
+      },
+      "uuid": "9298d7ec-2a6c-11eb-adc1-0242ac120002",
+      "value": "RedDoorz"
+    },
+	{
       "description": "Choice Hotels International, Inc. is a hospitality franchisor based in Rockville, Maryland, United States. The company, which is one of the largest hotel chains in the world, owns several hotel brands ranging from upscale to economy.",
       "meta": {
         "refs": [

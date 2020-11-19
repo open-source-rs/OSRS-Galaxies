@@ -147,6 +147,16 @@
       "value": "Metaformers, Inc."
     },
 	{
+      "description": "Cloud Clusters Inc was founded in 2017 by the same team from Database Mart LLC(DBM), a privately held company in Texas. DBM provides VPS, and dedicated server hosting business to global clients from 2005 with superb customer services. Cloud Clusters Inc provides fully managed open-source application services on Kubernetes cloud. We have over 50 skilled staff supporting our business. Our goal is to use newly developed cutting-edge cloud technologies to deliver cost-effective and reliable services to our clients.",
+      "meta": {
+        "refs": [
+          "https://www.cloudclusters.io/about-us"
+        ]
+      },
+      "uuid": "26407860-2a6d-11eb-adc1-0242ac120002",
+      "value": "Cloud Clusters Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

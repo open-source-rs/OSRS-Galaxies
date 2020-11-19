@@ -1190,6 +1190,32 @@
       "value": "OSRS Ransomware: Pay2Key Ransomware"
     },
 	{
+      "description": "Osno ransomware, or OsnoLocker as it is called in the code, has an implementation for XXTEA. However, it is not used in the current sample. Instead it overwrites the original content of the files with a marker. The marker is the string OsnoRansom appended by a randomly created string of length 50-200 characters consisting of uppercase letters A-Z and digits 0-9. The randomly created string will be different for every affected file. OsnoLocker adds the .osnoed extension to these files. OsnoLocker puts a ransom message into a file called RecInstruct.osnoned. It proceeds to write an executable to disk named Osno Decryptor.exe whose purpose is to lock the screen, display the ransom message that was placed in RecInstruct.osnoned and ask for a decryption code. This Osno Decryptor.exe has the module name FakeRansomware. Osno is a wiper in its current form and payment will not help to get any files back. Recovery of files via shadow volumes copies can work, though. Future versions of Osno might use the already implemented XXTEA to encrypt files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.gdatasoftware.com/blog/2020/11/36459-babax-stealer-rebrands-to-osno-installs-rootkit"
+        ]
+      },
+      "uuid": "4c464d52-2a70-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: OsnoLocker Ransomware"
+    },
+	{
+      "description": "A ransomware plugin that encrypts specific file extensions on the infected endpoint. Traditionally ransomware encrypts files on the infected endpoint using a combination of asymmetric and symmetric encryption. This plugin is different. It locks files into individually created archives using randomly generated passwords. The passwords are then encrypted using an embedded public key (part of an embedded pub certificate). Once the infected user gets access to the private key (after the ransom has been paid), the private key can be plugged into the accompanying decryptor .exe that decrypts the archive passwords and subsequently unpacks the original files from the archive.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2020/11/crat-and-plugins.html"
+        ]
+      },
+      "uuid": "4c464e4c-2a70-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Hansom Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
