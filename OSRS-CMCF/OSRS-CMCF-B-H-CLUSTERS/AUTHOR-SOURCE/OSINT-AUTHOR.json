@@ -7830,6 +7830,87 @@
       "value": "OSRS OSINT Author Index: Chris Hall"
     },
 	{
+      "description": "Threat Researcher at DomainTools. Los Alamos, New Mexico, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joe-slowik/"
+        ]
+      },
+      "uuid": "cd864d48-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Joe Slowik"
+    },
+	{
+      "description": "Director, Awake Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://awakesecurity.com/blog/threat-hunting-to-find-misconfigured-docker-exploitation/",
+		  "https://www.apollo.io/people/Patrick/Olsen/54a46e9674686938ac693747"
+        ]
+      },
+      "uuid": "cd864fe6-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Patrick Olsen"
+    },
+	{
+      "description": "OSINT, Python,Malware Analysis, Botnet Tracker, SIEM and IPS/IDS and Threats Expert / co-organizer #BotConf / co-creator of #FastIR/ Researcher at @Epita.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://sebdraven.medium.com/about"
+        ]
+      },
+      "uuid": "cd865112-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Sebdraven"
+    },
+	{
+      "description": "Claire is a Cyber Threat Analyst on the Threat Intelligence Production Team of IBM X-Force Incident Response and Intelligence Services (IRIS). Claire has over 10 years of analytic experience in the federal and commercial sector, and specializes in Strategic and Emerging Threats. Claire supports IBM X-Force Engagements worldwide.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/ibm-uncovers-global-phishing-covid-19-vaccine-cold-chain/",
+		  "https://securityintelligence.com/author/claire-zaboeva/"
+        ]
+      },
+      "uuid": "cd86520c-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Claire Zaboeva"
+    },
+	{
+      "description": "Melissa is an analyst on the Threat Hunt & Discovery Team within IBM X-Force. She has over 9 years of experience, investigating and analyzing cyber threat activity, beginning her career as a U.S. Army intelligence analyst supporting joint commands overseas and domestically, and later working for the federal government as a contractor prior to joining IBM in 2018. Melissa holds degrees in Security Intelligence, Criminal Justice, and an advanced degree in Digital Forensics.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/ibm-uncovers-global-phishing-covid-19-vaccine-cold-chain/",
+		  "https://securityintelligence.com/author/melissa-frydrych/"
+        ]
+      },
+      "uuid": "cd86569e-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Melissa Frydrych"
+    },
+	{
+      "description": "Incident Responder at CERT Intrinsec. Troyes, Grand Est, France.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jean-bichet/?originalSubdomain=fr"
+        ]
+      },
+      "uuid": "cd865784-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Author Index: Jean Bichet"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

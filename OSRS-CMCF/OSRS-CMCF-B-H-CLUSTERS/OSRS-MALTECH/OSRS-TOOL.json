@@ -5855,6 +5855,19 @@
       "value": "OSRS Tool: Rootkit r77"
     },
 	{
+      "description": "On September 17th, the U.S. Department of the Treasury’s Office of Foreign Assets Control imposed sanctions on Iranian cyber threat group APT39, also known as Chafer, Cadelspy, Remexi, and ITG07. On the same day, the FBI released a public threat analysis report describing several tools used by Rana Corp, a front company backed by the Iranian Ministry of Intelligence and Security (MOIS) which is behind the malicious cyber activities conducted by the APT39 group. The tools described in the aforementioned report are implemented using different technologies including VisualBasic and Autoit scripts, Android applications and the more common PE executables. According to the report, the focus of Rana’s cyber activities is tracking the movements of individuals whom the MOIS considers a threat. In today’s world, the most valuable source of such information are smartphones. You carry a smartphone almost the entire time, and, besides being the main tool for everyday communication, smartphones also provide a large set of secondary functionalities, including visual and audio recording and location services. Because of all these capabilities, gaining control over someone’s smartphone provides the malicious actor with a powerful espionage tool. For these reasons, we decided to take a better look at the information and IOCs provided in the referenced report to see if there is anything more to be found about this Android malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog/rana-android-malware"
+        ]
+      },
+      "uuid": "3c1526d6-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS Tool: Rana Android Malware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

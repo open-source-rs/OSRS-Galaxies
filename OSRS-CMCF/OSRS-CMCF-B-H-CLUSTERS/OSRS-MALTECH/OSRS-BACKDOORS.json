@@ -1022,6 +1022,32 @@
       "value": "OSRS Backdoor: ModPipe Backdoor"
     },
 	{
+      "description": "ESET researchers found a previously undocumented backdoor and document stealer. Dubbed Crutch by its developers, we were able to attribute it to the infamous Turla APT group. According to our research, it was used from 2015 to, at least, early 2020. We have seen Crutch on the network of a Ministry of Foreign Affairs in a country of the European Union, suggesting that this malware family is only used against very specific targets as is common for many Turla tools.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/"
+        ]
+      },
+      "uuid": "d6562e68-3961-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: Crutch Backdoor"
+    },
+	{
+      "description": "PowerPepper is a Windows in-memory PowerShell backdoor that can execute remotely sent shell commands.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/"
+        ]
+      },
+      "uuid": "d6563106-3961-11eb-adc1-0242ac120002",
+      "value": "OSRS Backdoor: PowerPepper Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

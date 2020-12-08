@@ -1216,6 +1216,19 @@
       "value": "OSRS Ransomware: Hansom Ransomware"
     },
 	{
+      "description": "Initial access - We were not able to find identified specific initial accesses, we found traces of Qakbot during investigations but we could not identify how it was dropped on information systems. We observed many potential intrusion vectors on patient 0 (many malwares were found on the machine). Internal reconnaissance - Prior to privilege escalation, Egregor proceeds to Active Directory reconnaissance using tools such as Sharphound or AdFind. These tools are used to gather information about users, groups, computers, and so on. They aim as well at finding the best compromission paths. Privilege escalation - During investigations, Egregor compromises Active Directory in order to become domain admin. Lateral movement - Egregor moves laterally on information systems using CobaltStrike SMB beacons. This feature allows an attacker to use SMB named pipes (logical connections between a client and a server) to communicate commands through the information system revealing C2 IP address. C2 Communication - Once settles on victim’s information systems, Egregor communicates with its Command and Control servers via HTTPS protocol so as to drop scripts or dynamic link libraries on infected hosts. You can find the list of C2 identified during investigations in section IP Addresses. Data exfiltration - Egregor masquerades svchost.exe process to launch an RClone client in order to exfiltrate data. RClone aims at managing files in cloud, it deals with multiple systems and protocols. The RClone configuration file, in plain text, is dropped by the attacker with the binary. Based on investigations and OSINT, we know that Egregor used at least three different configurations to exfiltrate data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.intrinsec.com/egregor-prolock/"
+        ]
+      },
+      "uuid": "3c1524a6-3963-11eb-adc1-0242ac120002",
+      "value": "OSRS Ransomware: Egregor Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

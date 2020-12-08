@@ -3135,6 +3135,45 @@
       "value": "OSRS OSINT Source: Lacework Blog"
     },
 	{
+      "description": "Cybersecurity product vendor. Advanced detections.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://awakesecurity.com/company/"
+        ]
+      },
+      "uuid": "57982474-3965-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: AWAKE - NDR Security Division of ARISTA Cybersecurity"
+    },
+	{
+      "description": "Independent threat research blog provided by the author Sebdraven.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://sebdraven.medium.com/"
+        ]
+      },
+      "uuid": "579826e0-3965-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Sebdraven Blog"
+    },
+	{
+      "description": "Founded in 2010, Intrinsec Security Inc. specializes in providing IT personnel with educational services on cloud and cyber security. Best known for their background in cloud security, Intrinsec has become a leading cloud security trainer around the globe and continuously works with Fortune 100 and large government agencies to ensure their staff are qualified and committed to cloud security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://intrinsecsecurity.com/company/#about"
+        ]
+      },
+      "uuid": "57982802-3965-11eb-adc1-0242ac120002",
+      "value": "OSRS OSINT Source: Intrinsec"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
