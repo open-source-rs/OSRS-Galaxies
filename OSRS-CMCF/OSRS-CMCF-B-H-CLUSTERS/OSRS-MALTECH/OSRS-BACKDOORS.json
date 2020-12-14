@@ -1048,6 +1048,45 @@
       "value": "OSRS Backdoor: PowerPepper Backdoor"
     },
 	{
+      "description": "LuckyBack collects the computer’s fingerprint, at first, and then tries to establish a communication with the C&C server. Once the communication is established, the backdoor starts listening for commands. It is capable of starting a remote shell, file manipulation (move, read, write, execute, get file size), keylogging, and screen capturing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/"
+        ]
+      },
+      "uuid": "08439dea-3e10-11eb-b378-0242ac130002",
+      "value": "OSRS Backdoor: LuckyBack Backdoor"
+    },
+	{
+      "description": "This backdoor is simpler in terms of commands than the previous one. It accepts just four commands: exit, upload, download, and execute on the command line. Nevertheless, it uses two layers of C&C servers, meaning that the first request is on the first layer, and it yields an IP address of a C&C server from the second layer. Afterwards, the request-response C&C loop uses the second layer. If the backdoor receives a command for the command line, the output from the console is encrypted with AES-256 and sent back to the second-layer C&C server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/"
+        ]
+      },
+      "uuid": "0843a29a-3e10-11eb-b378-0242ac130002",
+      "value": "OSRS Backdoor: BlueTraveller Backdoor"
+    },
+	{
+      "description": "Polpo is a backdoor that supports around 15 different commands including information collection and exfiltration, file transfer, and proxy connections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/"
+        ]
+      },
+      "uuid": "0843a3a8-3e10-11eb-b378-0242ac130002",
+      "value": "OSRS Backdoor: Polpo Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

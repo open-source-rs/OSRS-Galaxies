@@ -2323,6 +2323,19 @@
       "value": "OSRS Actors AND Campaigns: DeathStalker APT"
     },
 	{
+      "description": "ESET researchers discovered that chat software called Able Desktop, part of a business management suite popular in Mongolia and used by 430 government agencies in Mongolia (according to Able), was used to deliver the HyperBro backdoor (commonly used by LuckyMouse), the Korplug RAT (also known as PlugX), and a RAT called Tmanger (which was first documented by NTT Security and was used during Operation Lagtime IT campaigns attributed to TA428 by Proofpoint). A connection with the ShadowPad backdoor, which is now used by at least five different threat actors, was also found. Two different trojanized installers, as well as a likely compromised update system, were used to deliver the payloads. According to our telemetry we think the Able update system has been compromised since at least June 2020 and trojanized installers delivered since at least May 2018.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop/"
+        ]
+      },
+      "uuid": "54edec4e-3e11-11eb-b378-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation StealthyTrident"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

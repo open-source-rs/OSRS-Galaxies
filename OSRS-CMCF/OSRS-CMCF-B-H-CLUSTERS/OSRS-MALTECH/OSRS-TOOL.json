@@ -5868,6 +5868,19 @@
       "value": "OSRS Tool: Rana Android Malware"
     },
 	{
+      "description": "Tmanger is a RAT that was first documented by NTT Security and that was used in Operation Lagtime IT which was attributed to TA428 by Proofpoint. It is called Tmanger because it is apparently the name given by its developer. ESET telemetry shows the first download of this Tmanger variant by the legitimate Able Desktop software in July 2020. Tmanger replaced HyperBro on that system and HyperBro was not seen downloaded to it after that. The C&C addresses used by this Tmanger implant, downloaded by Able Desktop, are stored in an RC4-encrypted configuration.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop/"
+        ]
+      },
+      "uuid": "54ededd4-3e11-11eb-b378-0242ac130002",
+      "value": "OSRS Tool: Tmanger RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

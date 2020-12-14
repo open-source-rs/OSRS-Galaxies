@@ -7911,6 +7911,110 @@
       "value": "OSRS OSINT Author Index: Jean Bichet"
     },
 	{
+      "description": "Manager at Palo Alto Networks. Syracuse, New York, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/xiao-zhang-73662a7b/"
+        ]
+      },
+      "uuid": "ea99bc18-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Xiao Zhang"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/pgminer-postgresql-cryptocurrency-mining-botnet/"
+        ]
+      },
+      "uuid": "ea99beb6-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Yang Ji"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/pgminer-postgresql-cryptocurrency-mining-botnet/"
+        ]
+      },
+      "uuid": "ea99bfb0-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jim Fitzgerald"
+    },
+	{
+      "description": "Sr. Staff Researcher at Palo Alto Networks. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/yuechen2/"
+        ]
+      },
+      "uuid": "ea99c082-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Yue Chen"
+    },
+	{
+      "description": "Distinguished Engineer at Palo Alto Networks. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/claudx/"
+        ]
+      },
+      "uuid": "ea99c154-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Claud Xiao"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Intezer.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/russian-apt-uses-covid-19-lures-to-deliver-zebrocy/"
+        ]
+      },
+      "uuid": "ea99c21c-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Joakim Kennedy"
+    },
+	{
+      "description": "Malware Researcher at Avast Software. Czechia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/luigino-camastra-60204136/?originalSubdomain=sk"
+        ]
+      },
+      "uuid": "ea99c474-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Luigino Camastra"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Avast.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/"
+        ]
+      },
+      "uuid": "ea99c546-3e12-11eb-b378-0242ac130002",
+      "value": "OSRS OSINT Author Index: Igor Morgenstern"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
