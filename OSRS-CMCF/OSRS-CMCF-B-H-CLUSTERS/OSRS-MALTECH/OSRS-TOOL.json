@@ -5881,6 +5881,62 @@
       "value": "OSRS Tool: Tmanger RAT"
     },
 	{
+      "description": "WannaMine V4, is an active cryptojacker, has been recently detected and stopped by Minerva Labs. In the attack we detected, threat actors used WMI persistence in order to execute malicious PowerShell scripts that download code and execute it in-memory. In-memory techniques are frequently used by attackers in order to bypass traditional anti-virus products.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/preventing_wannamine4_cryptojacking_attacks"
+        ]
+      },
+      "uuid": "1536fb66-5038-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: WannaMine Cryptominer"
+    },
+	{
+      "description": "Backdoor used by APT27 and the Winnti Threat Group. Typical deliveries also include the malware Clamblin, ASPXSpy, PlugX, and Mimikatz. Delivery is usually through a third party service.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://shared-public-reports.s3-eu-west-1.amazonaws.com/APT27+turns+to+ransomware.pdf",
+		  "https://www.scmagazine.com/home/security-news/ransomware/chinese-espionage-group-apt27-moves-into-ransomware/",
+		  "https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf"
+        ]
+      },
+      "uuid": "1536fdd2-5038-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: DRBControl"
+    },
+	{
+      "description": "Additional backdoor implant delievered alongside the DRBControl backdoor used by APT27 and the Winnti Threat Group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://shared-public-reports.s3-eu-west-1.amazonaws.com/APT27+turns+to+ransomware.pdf",
+		  "https://www.scmagazine.com/home/security-news/ransomware/chinese-espionage-group-apt27-moves-into-ransomware/",
+		  "https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf"
+        ]
+      },
+      "uuid": "1536fec2-5038-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Clambling"
+    },
+	{
+      "description": "ElectroRAT is written in Golang and compiled to target multiple operating systems Windows, Linux and MacOS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/"
+        ]
+      },
+      "uuid": "59469ae6-5038-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: ElectroRAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

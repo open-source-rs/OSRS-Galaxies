@@ -3174,6 +3174,45 @@
       "value": "OSRS OSINT Source: Intrinsec"
     },
 	{
+      "description": "At Profero—a boutique cybersecurity services company—we create custom solutions to complex cyber problems and resolve crisis situations. Leveraging our methodical approach, wide-ranging expertise, and bespoke technology, we aim to help our customers solve their problems, and to create resilient systems and practices to ensure long-lasting security for their products and applications.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://profero.io/"
+        ]
+      },
+      "uuid": "f5075de2-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Source: Profero.io"
+    },
+	{
+      "description": "Online cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cybergeeks.tech/"
+        ]
+      },
+      "uuid": "f5076080-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Source: Cyber Geeks"
+    },
+	{
+      "description": "Online cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/"
+        ]
+      },
+      "uuid": "f50764e0-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Source: AhnLab"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

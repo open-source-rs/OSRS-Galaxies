@@ -8015,6 +8015,58 @@
       "value": "OSRS OSINT Author Index: Igor Morgenstern"
     },
 	{
+      "description": "At Profero—a boutique cybersecurity services company—we create custom solutions to complex cyber problems and resolve crisis situations. Leveraging our methodical approach, wide-ranging expertise, and bespoke technology, we aim to help our customers solve their problems, and to create resilient systems and practices to ensure long-lasting security for their products and applications.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://profero.io/"
+        ]
+      },
+      "uuid": "3caa0be6-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Profero.io"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the online cybersecurity blog Cyber Geeks.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cybergeeks.tech/author/cybermaster/"
+        ]
+      },
+      "uuid": "3caa0e2a-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: CyberMasterV"
+    },
+	{
+      "description": "Security Researcher at Intezer. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/avigayil-mechtinger-533b70101/"
+        ]
+      },
+      "uuid": "3caa0f1a-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Avigayil Mechtinger"
+    },
+	{
+      "description": "Pen name used by the cybersecurity research group AhnLab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/"
+        ]
+      },
+      "uuid": "3caa1212-504e-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: AhnLab Threat Research"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

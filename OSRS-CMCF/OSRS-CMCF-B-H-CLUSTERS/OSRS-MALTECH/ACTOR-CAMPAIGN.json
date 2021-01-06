@@ -2336,6 +2336,32 @@
       "value": "OSRS Actors AND Campaigns: Operation StealthyTrident"
     },
 	{
+      "description": "Threat group that targets Asian countries such as Taiwan. Inects java script backdoors to steal information from target systems. Also employs modified versions of the backdoor Cobalt Strike.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html"
+        ]
+      },
+      "uuid": "8b5246ae-5036-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Earth Wendigo Threat Group"
+    },
+	{
+      "description": "With Bitcoin on the rise and a market exceeding billions of dollars, cryptocurrency has attracted threat actors wishing to leverage these capitals for their own financial gain. In December, researchers discovered a wide-ranging operation targeting cryptocurrency users, estimated to have initiated in January 2020. This extensive operation is composed of a full-fledged marketing campaign, custom cryptocurrency-related applications and a new Remote Access Tool (RAT) written from scratch. The campaign includes Domain registrations, researchersbsites, trojanized applications, fake social media accounts and a new undetected RAT that researchers have named ElectroRAT. ElectroRAT is written in Golang and compiled to target multiple operating systems Windows, Linux and MacOS. It is rather common to see various information stealers trying to collect private keys to access victims’ wallets. Horesearchersver, it is rare to see tools written from scratch and used to target multiple operating systems for these purposes. The attacker behind this operation has lured cryptocurrency users to download trojanized applications by promoting them in dedicated online forums and on social media. Researchers estimate this campaign has already infected thousands of victims—based on the number of unique visitors to the pastebin pages used to locate the command and control servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/"
+        ]
+      },
+      "uuid": "07c883ec-5037-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation ElectroRAT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
