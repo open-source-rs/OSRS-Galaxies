@@ -5937,6 +5937,71 @@
       "value": "OSRS Tool: ElectroRAT"
     },
 	{
+      "description": "A Go language (Golang) tool to act as a packer and avoid Antivirus detection. Additionally, the Ezuri memory loader tool acts as a malware loader and executes its payload in memory, without writing the file to disk. While this technique is known and commonly used by Windows malware, it is less popular in Linux environments. The loader decrypts the malicious malware and executes it using memfd create. When creating a process, the system returns a file descriptor to an anonymous file which is visible only in the filesystem.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cybersecurity.att.com/blogs/labs-research/malware-using-new-ezuri-memory-loader"
+        ]
+      },
+      "uuid": "736f15be-567e-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Ezuri Loader"
+    },
+	{
+      "description": "The threat group involved in the xHunt campaign compromised an Exchange server at a Kuwaiti organization and installed a researchersbshell that researchers call BumbleBee. researchers call the researchersbshell BumbleBee because the color scheme of the researchersbshell includes white, black and yellow. BumbleBee is pretty straightforward. It allows an attacker to execute commands and upload and download files to and from the server. The interesting part of BumbleBee is that it requires an actor to supply one password to view the researchersbshell and a second password to interact with the researchersbshell.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/"
+        ]
+      },
+      "uuid": "736f185c-567e-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: BumbleBee Webshell"
+    },
+	{
+      "description": "macOS.OSAMiner is a cryptominer campaign that has resisted full researcher analysis for at least five years due to its use of multiple run-only AppleScripts. macOS.OSAMiner has evolved to use a complex architecture, embedding one run-only AppleScript within another and retrieving further stages embedded in the source code of public-facing researchersb pages. Combining a public AppleScript disassembler repo with our own AEVT decompiler tool alloresearchersd us to statically reverse run-only AppleScripts for the first time and reveal previously unknown details about the campaign and the malware’s architecture. researchers have released our AEVT decompiler tool as open source to aid other researchers in the analysis of malicious run-only AppleScripts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/fade-dead-adventures-in-reversing-malicious-run-only-applescripts/"
+        ]
+      },
+      "uuid": "736f1942-567e-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: macOS.OSAMiner"
+    },
+	{
+      "description": "Android RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/going-rogue-a-mastermind-behind-android-malware-returns-with-a-new-rat/"
+        ]
+      },
+      "uuid": "736f1dac-567e-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: DarkShades RAT"
+    },
+	{
+      "description": "Android RAT built by same developer as the DarkShades Android RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/going-rogue-a-mastermind-behind-android-malware-returns-with-a-new-rat/"
+        ]
+      },
+      "uuid": "736f1e7e-567e-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Rogue RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

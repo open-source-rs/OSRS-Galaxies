@@ -3213,6 +3213,20 @@
       "value": "OSRS OSINT Source: AhnLab"
     },
 	{
+      "description": "CERTFA, or the Computer Emergency Response Team in Farsi, was founded in late 2017. CERTFA is a cybersecurity team with far-ranging expertise in the resolution of cybersecurity threats in Iran. All team members have extensive experience working in Iran’s digital security sphere. CERTFA’s main objectives are to track down Iranian cyber criminals and state-sponsored hackers, as well as to protect Iranian citizens in Iran and around the world by providing insights into the online criminal activities of malicious actors operating in Iran.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.certfa.com/",
+		  "https://blog.certfa.com/about"
+        ]
+      },
+      "uuid": "7cf75d46-5681-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Source: CERTFA"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

@@ -8067,6 +8067,85 @@
       "value": "OSRS OSINT Author Index: AhnLab Threat Research"
     },
 	{
+      "description": "Incident Response Analyst at Trend Micro. Sao Paulo, Brazil.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/leandro-fr%C3%B3es-b15815117/?originalSubdomain=br"
+        ]
+      },
+      "uuid": "4b760e6c-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Leandro Froes"
+    },
+	{
+      "description": "Cyber threat researcher affiliated with they cybersecurity vendor Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securelist.com/sunburst-backdoor-kazuar/99981/"
+        ]
+      },
+      "uuid": "4b76109c-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Georgy Kucherin"
+    },
+	{
+      "description": "Senior Technical Writer – Kaspersky. Russia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/igor-kuznetsov-50733067/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "4b761182-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Igor Kuznetsov"
+    },
+	{
+      "description": "Director, Global Research & Analysis Team. Costin specializes in analyzing advanced persistent threats and high-level malware attacks. He is leading the Global Research & Analysis Team (GReAT) at Kaspersky that researched the inner workings of Stuxnet, Duqu, Carbanak and more recently, Lazarus, BlueNoroff, Moonlight Maze and the Equation group. Costin’s work includes analyzing malicious websites, exploits and online banking malware. Costin has over 24 years of experience in anti-virus technologies and security research. He is a member of the Virus Bulletin Technical Advisory Board, a member of the Computer AntiVirus Researchers’ Organization (CARO) and a reporter for the Wildlist Organization International. Before joining Kaspersky, Costin worked for GeCad as Chief Researcher and as a Data Security Expert with the RAV antivirus developers group. Costin joined Kaspersky Lab in 2000 and became the Director of the Global Research & Analysis Team in 2010. Some of his hobbies include chess, photography and the Science Fiction literature.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.kaspersky.com/about/team/costin-raiu",
+		  "https://www.crunchbase.com/person/costin-raiu"
+        ]
+      },
+      "uuid": "4b761240-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Costin Raiu"
+    },
+	{
+      "description": "Senior Forensic IT Expert. Delft, South Holland, Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/wwwouter/?originalSubdomain=nl"
+        ]
+      },
+      "uuid": "4b7612f4-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Wouter Jansen"
+    },
+	{
+      "description": "Pen name used by the cybersecurity online blog provided by CERTFA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.certfa.com/"
+        ]
+      },
+      "uuid": "4b7613b2-5680-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Certfa Lab"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

@@ -2362,6 +2362,61 @@
       "value": "OSRS Actors AND Campaigns: Operation ElectroRAT"
     },
 	{
+      "description": "On December 13, 2020, FireEye published a blog post detailing a supply chain attack leveraging Orion IT, an infrastructure monitoring and management platform by SolarWinds. In parallel, Volexity published an article with their analysis of related attacks, attributed to an actor named Dark Halo. FireEye did not link this activity to any known actor; instead, they gave it an unknown, temporary moniker – UNC2452.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/sunburst-backdoor-kazuar/99981/"
+        ],
+        "synonyms": [
+        "UNC2452"
+        ]
+      },
+      "uuid": "0a6aa8cc-567d-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Dark Halo Threat Group"
+    },
+	{
+      "description": "NCC Group and Fox-IT have been tracking a threat group with a wide set of interests, from intellectual property (IP) from victims in the semiconductors industry through to data from the airline industry. In their intrusions they regularly abuse cloud services from Google and Microsoft to achieve their goals. NCC Group and Fox-IT observed this threat actor during various incident response engagements performed between October 2019 until April 2020. Our threat intelligence analysts noticed clear overlap between the various cases in infrastructure and capabilities, and as a result we assess with moderate confidence that one group was carrying out the intrusions across multiple victims operating in Chinese interests. In open source this actor is referred to as Chimera by CyCraft. NCC Group and Fox-IT have seen this actor remain undetected, their dwell time, for up to three years. As such, if you were a victim, they might still be active in your network looking for your most recent crown jewels.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/"
+        ]
+      },
+      "uuid": "0a6aab9c-567d-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Chimera Threat Actor"
+    },
+	{
+      "description": "ClearSky researchers identified a malicious .docx file that was uploaded to VirusTotal from Russia in mid-December. The file contains an obfuscated URL to a remote template which contains malicious VBA, eventually leading to the execution of VBS on the infected machine. The attack’s purpose is to stealthily exfiltrate information without running any external executables on the system. Notably, the process is escalated on a certain day of the week, suggesting a possible familiarity with the intended victim or victims. We estimate with medium confidence that the same threat actor responsible for the attacks described in this paper also conducted an attack named Operation Domino that occurred earlier in 2020. We decided to name the operation Kremlin due to the use of a parameter named kreml in the poslai (meaning send in Russian) function that exfiltrates the data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.clearskysec.com/operation-kremlin/"
+        ]
+      },
+      "uuid": "8541d4bc-567d-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation Kremlin"
+    },
+	{
+      "description": "In 2020 ESET saw several attacks targeting Colombian entities exclusively. These attacks are still ongoing at the time of writing and are focused on both government institutions and private companies. For the latter, the most targeted sectors are energy and metallurgical. The attackers rely on the use of remote access trojans, most likely to spy on their victims. They have a large network infrastructure for command and control: ESET observed at least 24 different IP addresses in use in the second half of 2020. These are probably compromised devices that act as proxies for their C&C servers. This, combined with the use of dynamic DNS services, means that their infrastructure never stays still. We have seen at least 70 domain names active in this timeframe and they register new ones on a regular basis.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/"
+        ]
+      },
+      "uuid": "8541d840-567d-11eb-ae93-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation Spalax"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
