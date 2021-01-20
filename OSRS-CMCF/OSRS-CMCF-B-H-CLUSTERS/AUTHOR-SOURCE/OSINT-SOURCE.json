@@ -3227,6 +3227,20 @@
       "value": "OSRS OSINT Source: CERTFA"
     },
 	{
+      "description": "Positive Technologies has been creating innovative solutions in the field of information security for 18 years. The company's products and services allow us to identify, verify and neutralize real business risks that may arise in the IT infrastructure of enterprises. Our technology is built on years of research experience and expertise from leading cybersecurity experts.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/",
+		  "https://www.ptsecurity.com/ru-ru/about/"
+        ]
+      },
+      "uuid": "82758060-5b34-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Source: Positive Technologies"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

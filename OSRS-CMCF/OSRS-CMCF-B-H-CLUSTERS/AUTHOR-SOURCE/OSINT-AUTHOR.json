@@ -8146,6 +8146,19 @@
       "value": "OSRS OSINT Author Index: Certfa Lab"
     },
 	{
+      "description": "Pen name used by the cybersecurity online blog provided by Positive Technologies.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ru-ru/"
+        ]
+      },
+      "uuid": "82757e12-5b34-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Positive Technologies"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

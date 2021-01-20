@@ -6002,6 +6002,32 @@
       "value": "OSRS Tool: Rogue RAT"
     },
 	{
+      "description": "FickerStealer is a commodity infostealer malware written in Rust and sold on Russian-language hacking forums.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/01/threat-roundup-0108-0115.html"
+        ]
+      },
+      "uuid": "1b55b8dc-5b34-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: FickerStealer"
+    },
+	{
+      "description": "JsOutProx is a fully functional JavaScript remote access trojan (RAT) first discovered in December of 2019. The tactics, techniques, and procedures (TTPS) of the attackers behind JsOutprox indicate that these are experienced and sophisticated threat actors. Such indicators include the time and effort the attackers have taken to create this RAT, as well as regular updates that have made it more powerful. The actors also use specially-crafted social engineering campaigns that leverage specific technical jargon unique to the verticals being targeted in their spearphishing efforts. JsOutProx also incorporates heavily obfuscated code and the use of Powershell to further along their endeavours. This playbook highlights updates not noted elsewhere for this relatively new malware family, as well as obeservations from FortiGuard Labs on the reuse of the infrastructure in other historical campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/adversary-playbook-javascript-rat-looking-for-that-government-cheese"
+        ]
+      },
+      "uuid": "1b55bc10-5b34-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: JsOutProx RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
