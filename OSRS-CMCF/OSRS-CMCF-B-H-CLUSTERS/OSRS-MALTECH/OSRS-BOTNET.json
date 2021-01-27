@@ -718,6 +718,35 @@
       "value": "OSRS Botnet: FreakOut Botnet"
     },
 	{
+      "description": "Necro is a classic family of botnet written in Python that was first discovered in 2015, at the beginning, it targeted Windows systems and often tagged by security vendors as Python.IRCBot and called N3Cr0m0rPh (Necromorph) by the author himself.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/necro/"
+        ],
+        "synonyms": [
+        "Necromorph"
+        ]
+      },
+      "uuid": "747489ec-60c1-11eb-ae93-0242ac130002",
+      "value": "OSRS Botnet: N3Cr0m0rPh Botnet"
+    },
+	{
+      "description": "The malware is a variant of SystemdMiner, which consists of a series of Executable and Linkable Format (ELF) binaries and Unix shell scripts. Some components of the botnet have been analyzed in the past with the malware dating back to early 2019. Many of the DreamBus modules are poorly detected by security products. This is in part because Linux-based malware is less common than Windows-based malware, and thus receives less scrutiny from the security community. However, many critical business systems run on Linux systems, and malware that is able to gain access to these systems can cause significant disruption and irreparable harm to organizations that fail to secure their servers properly. The DreamBus malware exhibits worm-like behavior that is highly effective in spreading due its multifaceted approach to propagating itself across the internet and laterally through an internal network using a variety of methods. These techniques include numerous modules that exploit implicit trust, weak passwords, and unauthenticated remote code execution (RCE) vulnerabilities in popular applications, including Secure Shell (SSH), IT administration tools, a variety of cloud-based applications, and databases. These particular applications are targeted because they often run on systems that have powerful underlying hardware with significant amounts of memory and powerful CPUs—all of which allow threat actors to maximize their ability to monetize these resources through mining cryptocurrency. While the primary DreamBus malware payload is an open source Monero cryptocurrency miner known as XMRig, the threat actor can potentially pivot in the future to carrying out more destructive activities, such as ransomware or stealing an organization’s data and holding it hostage.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/security-research/dreambus-botnet-technical-analysis"
+        ]
+      },
+      "uuid": "74748c58-60c1-11eb-ae93-0242ac130002",
+      "value": "OSRS Botnet: DreamBus Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

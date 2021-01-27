@@ -8159,6 +8159,110 @@
       "value": "OSRS OSINT Author Index: Positive Technologies"
     },
 	{
+      "description": "Security Researcher. Portland, Oregon, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/bernard-sapaden-1b074149/"
+        ]
+      },
+      "uuid": "38b0a70e-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Bernard Sapaden"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/01/phishing-campaign-woff-obfuscation-telegram-communications.html"
+        ]
+      },
+      "uuid": "38b0a998-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Mohammed Mohsin Dalla"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/01/phishing-campaign-woff-obfuscation-telegram-communications.html"
+        ]
+      },
+      "uuid": "38b0ac4a-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Rahul Mohandas"
+    },
+	{
+      "description": "Security Researcher, Engineer, Product & Program Enthusiast. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sachinshukla28/"
+        ]
+      },
+      "uuid": "38b0ad12-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sachin Shukla"
+    },
+	{
+      "description": "Manager - Research Science (Email Security) at FireEye, Inc. Milpitas, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/srinivasan-seethapathy-34473247/"
+        ]
+      },
+      "uuid": "38b0adee-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Srini Seethapathy"
+    },
+	{
+      "description": "Malware Researcher at FireEye. Santa Clara, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/srsujnani/"
+        ]
+      },
+      "uuid": "38b0aeac-60c3-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sujnani Ravindra"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity research group Google TAG.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/"
+        ]
+      },
+      "uuid": "14c92d6a-60c4-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Adam Weidemann"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor ZScaler.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/security-research/dreambus-botnet-technical-analysis"
+        ]
+      },
+      "uuid": "14c9345e-60c4-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Brett Stone-Gross"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

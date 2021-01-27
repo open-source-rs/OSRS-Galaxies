@@ -6028,6 +6028,58 @@
       "value": "OSRS Tool: JsOutProx RAT"
     },
 	{
+      "description": "Vadokrist is a Latin American banking trojan that ESET has been tracking since 2018 and that is active almost exclusively in Brazil. In this installment of our series, we examine its main features and some connections to other Latin American banking trojan families.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/01/21/vadokrist-wolf-sheeps-clothing/"
+        ]
+      },
+      "uuid": "0d2bd410-60c2-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Vadokrist Banking Trojan"
+    },
+	{
+      "description": "A custom Cobalt Strike Beacon loader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/"
+        ]
+      },
+      "uuid": "0d2bd712-60c2-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: TEARDROP Loader"
+    },
+	{
+      "description": "Torisma downloads and executes modules from external servers, and its infection spreads via malicious Word files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.jpcert.or.jp/en/2021/01/Lazarus_malware2.html"
+        ]
+      },
+      "uuid": "0d2bd848-60c2-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Torisma Downloader"
+    },
+	{
+      "description": "LCPDot is also a downloader similar to Torisma. In some samples, the code was obfuscated by VMProtect. It is assumed that attacker used LCPDot for lateral movement on a victim's network infected with Torisma.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.jpcert.or.jp/en/2021/01/Lazarus_malware2.html"
+        ]
+      },
+      "uuid": "0d2bd94c-60c2-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: LCPDot Downloader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
