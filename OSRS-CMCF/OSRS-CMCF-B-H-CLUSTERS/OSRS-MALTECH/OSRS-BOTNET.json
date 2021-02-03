@@ -747,6 +747,32 @@
       "value": "OSRS Botnet: DreamBus Botnet"
     },
 	{
+      "description": "As early as 2015, the Groundhog DDOS botnet began proliferating via SSH brute force attacks. The botnet is believed to have a China nexus and has been active since its inception. In early December 2020, Lacework started monitoring recent activity along with botnet traffic from a sinkhole operation. Our analysis revealed the botnet is rapidly expanding by hundreds of new infections daily and has to date infected at least 26K servers. The majority of infections were found within Brazil, US, and India and include clusters of cloud infrastructure from major providers such as Amazon, GCP and Azure. The Groundhog botnet is composed of two closely related malware variants - XOR.DDOS & Groundhog. This blog summarizes the XOR.DDOS malware component and provides details on the botnet and infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.lacework.com/groundhog-botnet-rapidly-infecting-cloud/"
+        ]
+      },
+      "uuid": "fba00418-6626-11eb-ae93-0242ac130002",
+      "value": "OSRS Botnet: Groundhog Botnet"
+    },
+	{
+      "description": "On January 25, 2021, 360 netlab BotMon system labeled a suspicious ELF file as Mirai, but the network traffic did not match Mirai's characteristics. This anomaly caught our attention, and after analysis, we determined that it was a new botnet that reused the Mirai framework, propagated through the ADB interface, and targeted Android-like devices with the main purpose of DDoS attacks. It redesigns the encryption algorithm and obtains TOR C2 and the TOR proxys from remote hosts via DNS TXT. The encryption algorithm implemented in this botnet and the process of obtaining C2 are nested in layers, like Russian nesting dolls. For this reason we named it Matryosh. As the analysis progresses, more details emerge. Based on the similarity of C2 instructions, we speculate that it is another attempt by the Moobot group, which is very active at the moment. Matryosh has no integrated scanning, vulnerability exploitation modules, the main function is DDoS attack, it supports tcpraw, icmpecho, and udpplain attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/matryosh-botnet-is-spreading-en/"
+        ]
+      },
+      "uuid": "fba00666-6626-11eb-ae93-0242ac130002",
+      "value": "OSRS Botnet: Matryosh Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

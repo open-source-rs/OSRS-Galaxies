@@ -6080,6 +6080,19 @@
       "value": "OSRS Tool: LCPDot Downloader"
     },
 	{
+      "description": "In 2019, Unit 42 researchers documented cloud-targeted malware used by the Rocke Group to conduct cryptojacking attacks to mine for Monero. Since then, cybersecurity companies have had the malware on their radar, which hampered Rocke Group’s cryptojacking operation. In response, the threat actors updated the malware. Here, we uncover a revised version of the same cloud-targeted cryptojacking malware, which now includes new and improved rootkit and worm capabilities. We also detail the hiding techniques used by the malware to dodge cybersecurity companies’ detection methods, while explaining its four-module structure. We’ve named the malware Pro-Ocean after the name the attacker chose for the installation script. Pro-Ocean uses known vulnerabilities to target cloud applications . In our analysis, we found Pro-Ocean targeting Apache ActiveMQ (CVE-2016-3088), Oracle WebLogic (CVE-2017-10271) and Redis (unsecure instances). In the case that the malware runs in Tencent Cloud or Alibaba Cloud, it will use the exact code of the previous malware to uninstall monitoring agents to avoid detection. Additionally, it attempts to remove other malware and miners including Luoxk, BillGates, XMRig and Hashfish before installation. Once installed, the malware kills any process that uses the CPU heavily, so that it’s able to use 100% of the CPU and mine Monero efficiently.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/pro-ocean-rocke-groups-new-cryptojacking-malware/"
+        ]
+      },
+      "uuid": "8a5fd80e-6627-11eb-ae93-0242ac130002",
+      "value": "OSRS Tool: Pro-Ocean Cryptominer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

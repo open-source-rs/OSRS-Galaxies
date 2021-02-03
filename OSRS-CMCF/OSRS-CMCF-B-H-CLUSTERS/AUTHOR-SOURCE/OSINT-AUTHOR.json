@@ -8263,6 +8263,45 @@
       "value": "OSRS OSINT Author Index: Brett Stone-Gross"
     },
 	{
+      "description": "Cyberintelligence Analyst at Arete Incident Response. Springfield-Branson, Missouri Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adam-brown-76b3a2168/"
+        ]
+      },
+      "uuid": "5e80af3c-6628-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Adam Brown"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Arete.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://areteir.com/wp-content/uploads/2021/01/01182021_Egregor_Insight.pdf"
+        ]
+      },
+      "uuid": "5e80b176-6628-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Harold Rodriguez"
+    },
+	{
+      "description": "Generic online blog pen name used by the cybersecurity vendor Arete.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://areteir.com/"
+        ]
+      },
+      "uuid": "5e80b25c-6628-11eb-ae93-0242ac130002",
+      "value": "OSRS OSINT Author Index: Arete Cyber Threat Intelligence Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

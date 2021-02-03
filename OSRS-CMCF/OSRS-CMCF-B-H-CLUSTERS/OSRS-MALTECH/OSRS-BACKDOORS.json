@@ -1113,6 +1113,19 @@
       "value": "OSRS Backdoor: Raindrop Backdoor"
     },
 	{
+      "description": "ESET researchers have analyzed malware that has been targeting high performance computing (HPC) clusters, among other high-profile targets. We reverse engineered this small, yet complex, malware that is portable to many operating systems including Linux, BSD, Solaris, and possibly AIX and Windows. We have named this malware Kobalos for its tiny code size and many tricks. In Greek mythology, a Kobalos is a small, mischievous creature. Kobalos is a generic backdoor in the sense that it contains broad commands that don’t reveal the intent of the attackers. In short, Kobalos grants remote access to the file system, provides the ability to spawn terminal sessions, and allows proxying connections to other Kobalos-infected servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/"
+        ]
+      },
+      "uuid": "9d9845b0-6626-11eb-ae93-0242ac130002",
+      "value": "OSRS Backdoor: Kobalos Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
