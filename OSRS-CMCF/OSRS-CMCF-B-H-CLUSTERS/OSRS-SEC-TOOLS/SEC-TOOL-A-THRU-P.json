@@ -1914,6 +1914,32 @@
       "value": "OSRS SecTool: Nishang Framework"
     },
 	{
+      "description": "Peirates, a Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/inguardians/peirates"
+        ]
+      },
+      "uuid": "cdbfc2d2-6bbb-11eb-9439-0242ac130002",
+      "value": "OSRS SecTool: Peirates Kubernetes Penetration Tool"
+    },
+	{
+      "description": "BOtB is a container analysis and exploitation tool designed to be used by pentesters and engineers while also being CI/CD friendly with common CI/CD technologies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool A thru P"
+        ],
+        "refs": [
+          "https://github.com/brompwnie/botb"
+        ]
+      },
+      "uuid": "cdbfc552-6bbb-11eb-9439-0242ac130002",
+      "value": "OSRS SecTool: Break out the Box Container Analysis Tool (BOtB)"
+    },
+	{
       "description": "AIEngine is a next generation interactive programmable Python, Ruby, Java, Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.",
       "meta": {
 	  "kill_chain": [

@@ -2443,6 +2443,33 @@
       "value": "OSRS Actors AND Campaigns: Operation NightScout"
     },
 	{
+      "description": "TAIPEI (Taiwan News) — Following an FBI alert about China-backed malicious cyber activity, Taiwan's Ministry of Justice Investigation Bureau is warning of a threat from two hacking groups backed by the Chinese government and revealed a list of 11 domain names that government-linked agencies and businesses should block. The bureau on Wednesday (Aug 19) suggested that Taidoor and Blacktech — two hacking groups linked to the Chinese government — have often infiltrated government agencies and their contracted information service providers. A poor network architecture resulting from insufficient investment in cybersecurity solutions makes them vulnerable to cyber attacks, it stated. The hackers targeted loopholes in the systems of Taiwan government information service providers, and then sneaked into the remote desktop shared by government agencies to steal secrets or personal information. Government agencies have been asked to increase scrutiny of their service providers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/bendybear-shellcode-blacktech/",
+		  "https://www.taiwannews.com.tw/en/news/3991160"
+        ]
+      },
+      "uuid": "427ecf7c-6bae-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: BlackTech Threat Group"
+    },
+	{
+      "description": "LodaRAT operators and or developers now have a new tool, Loda4Android. This new malware follows the same principles of other Android-based RATs that we have seen on the threat landscape. Along with this new Android variant, an updated version of Loda for Windows has been identified in the same campaign. These new versions for Loda4Windows and Loda4Android show that the development effort is clearly carried out by the same group we are calling Kasablanca.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/02/kasablanka-lodarat.html"
+        ]
+      },
+      "uuid": "427ed1fc-6bae-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Kasablanka Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

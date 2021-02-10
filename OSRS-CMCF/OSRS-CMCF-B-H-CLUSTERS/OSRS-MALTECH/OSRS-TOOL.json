@@ -6093,6 +6093,72 @@
       "value": "OSRS Tool: Pro-Ocean Cryptominer"
     },
 	{
+      "description": "The attackers gained initial access via a misconfigured kubelet that alloResearchersd anonymous access. Once getting a foothold into a Kubernetes cluster, the malware attempted to spread over as many containers as possible and eventually launched cryptojacking operations. Based on the tactics, techniques and procedures (TTP) that the attackers used, Researchers believe this is a new campaign from TeamTNT. Researchers refer to this new malware as Hildegard, the username of the tmate account that the malware used. TeamTNT is known for exploiting unsecured Docker daemons and deploying malicious container images, as documented in previous research (Cetus, Black-T and TeamTNT DDoS). HoResearchersver, this is the first time Researchers found TeamTNT targeting Kubernetes environments. In addition to the same tools and domains identified in TeamTNT’s previous campaigns, this new malware carries multiple new capabilities that make it more stealthy and persistent. In particular, Researchers found that TeamTNT’s Hildegard malware - Uses two ways to establish command and control (C2) connections, a tmate reverse shell and an Internet Relay Chat (IRC) channel. Uses a known Linux process name (bioset) to disguise the malicious process. Uses a library injection technique based on LD_PRELOAD to hide the malicious processes. Encrypts the malicious payload inside a binary to make automated static analysis more difficult.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/"
+        ]
+      },
+      "uuid": "2a9519a0-6bb0-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Hildegard Cryptominer"
+    },
+	{
+      "description": "Nephos7 started out in Q4 of 2019 with familiar tactics and techniques - Use of commercial ad servers to hide malicious code. Use of commercial CDNs as reverse proxies (Cloudfront). Mimick instantiation of popular JavaScript APIs (e.g. Hotjar, Snowplow, etc.) to hide in plain sight. Use of WebGL-based fingerprinting (among other tricks) to activate on victims’ devices only. By end-of-year 2019, Nephos7 had aligned with eGobbler’s weekend patterns with a large attack on December 29.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.confiant.com/malvertising-made-in-china-f5081521b3f0"
+        ]
+      },
+      "uuid": "2a951c16-6bb0-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Nephos7 Stealer"
+    },
+	{
+      "description": "SystemBC is a proxy malware leveraging SOCKS5. Based on screenshots used in ads on a underground marketplace, Proofpoint decided to call it SystemBC. SystemBC has been observed occasionally, but more pronounced since June 2019. First samples goes back to October 2018.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://isc.sans.edu/forums/diary/Excel+spreadsheets+push+SystemBC+malware/27060/",
+		  "https://malpedia.caad.fkie.fraunhofer.de/details/win.systembc"
+        ]
+      },
+      "uuid": "2a951d10-6bb0-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: SystemBC"
+    },
+	{
+      "description": "The code behavior and features strongly correlate with that of the WaterBear malware family, which has been active since as early as 2009. Analysis by Trend Micro and TeamT5 unveiled WaterBear as a multifaceted, stage-two implant, capable of file transfer, shell access, screen capture and much more. The malware is associated with the cyber espionage group BlackTech, which many in the broader threat research community have assessed to have ties to the Chinese government, and is believed to be responsible for recent attacks against several East Asian government organizations. Due to the similarities with WaterBear, and the polymorphic nature of the code, Unit 42 named this novel Chinese shellcode BendyBear. It stands in a class of its own in terms of being one of the most sophisticated, well-engineered and difficult-to-detect samples of shellcode employed by an Advanced Persistent Threat (APT). The BendyBear sample was determined to be x64 shellcode for a stage-zero implant whose sole function is to download a more robust implant from a command and control (C2) server. Shellcode, despite its name, is used to describe the small piece of code loaded onto the target immediately following exploitation, regardless of whether or not it actually spawns a command shell. At 10,000+ bytes, BendyBear is noticeably larger than most, and uses its size to implement advanced features and anti-analysis techniques, such as modified RC4 encryption, signature block verification, and polymorphic code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/"
+        ]
+      },
+      "uuid": "2a951dd8-6bb0-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: BendyBear"
+    },
+	{
+      "description": "The capabilities of the Domestic Kitten malware (which we are calling FurBall), include - collecting device identifiers, grabbing SMS messages and call logs, surround recording with the device microphone, call recording, stealing media files (such as videos and photos), obtaining a list of installed applications, tracking the device location, stealing files from the external storage, and more. For a full list of commands, see the Technical Analysis section.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/domestic-kitten-an-inside-look-at-the-iranian-surveillance-operations/"
+        ]
+      },
+      "uuid": "2a951ea0-6bb0-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: FurBall Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

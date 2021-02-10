@@ -1246,6 +1246,19 @@
       "value": "OSRS Ransomware: BlueCrab Ransomware"
     },
 	{
+      "description": "Zeoticus ransomware first appeared for sale in various underground forums and markets in early 2020. Initially, the ransomware was offered as a complete custom build for an undisclosed fee. The ransomware is currently Windows-specific and, according to the developers, functions on all supported versions of Windows. Unusually, there are no connectivity requirements for the payloads to execute. Zeoticus ransomware will execute fully offline, with no dependence on a C2 (Command & Control). It is also worth noting that the malware is designed not to function in some regions, specifically Russia, Belarus, and Kyrgyzstan. Like many other families, use within the CIS is discouraged in order to avoid any backlash from regional government and law enforcement agencies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/zeoticus-2-0-ransomware-with-no-c2-required/"
+        ]
+      },
+      "uuid": "6777e8da-6baf-11eb-9439-0242ac130002",
+      "value": "OSRS Ransomware: Zeoticus Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

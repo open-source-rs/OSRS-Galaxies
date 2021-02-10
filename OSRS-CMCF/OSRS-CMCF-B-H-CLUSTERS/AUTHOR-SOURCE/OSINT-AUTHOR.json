@@ -8302,6 +8302,110 @@
       "value": "OSRS OSINT Author Index: Arete Cyber Threat Intelligence Team"
     },
 	{
+      "description": "CTO & Co-Founder at Confiant. New York, New York, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jerome-dangu-730800/"
+        ]
+      },
+      "uuid": "8b3ff784-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jerome Dangu"
+    },
+	{
+      "description": "Senior Analyst - Falcon Complete at CrowdStrike. Wollongong, New South Wales, Australia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/thomas-simpson-7a416850/?originalSubdomain=au"
+        ]
+      },
+      "uuid": "8b3ff9e6-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Tom Simpson"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor CrowdStrike.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/solarmarker-backdoor-technical-analysis/"
+        ]
+      },
+      "uuid": "8b3ffad6-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Tom Henry"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor CrowdStrike.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/solarmarker-backdoor-technical-analysis/"
+        ]
+      },
+      "uuid": "8b3ffd88-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Seb Walla"
+    },
+	{
+      "description": "my passion solely is cyber security. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/demikey/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "8b3ffe5a-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Michael Dereviashkin"
+    },
+	{
+      "description": "Security Researcher at Palo Alto Networks. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nadav-markus-b44990a7/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "8b3fff0e-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Nadav Markus"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Palo Alto.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/cve-2020-25213/"
+        ]
+      },
+      "uuid": "8b3fffc2-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Efi Barkayev"
+    },
+	{
+      "description": "Security Researcher. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/gal-de-leon-a837b724/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "8b40006c-6bba-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Arete Cyber Threat Intelligence Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
