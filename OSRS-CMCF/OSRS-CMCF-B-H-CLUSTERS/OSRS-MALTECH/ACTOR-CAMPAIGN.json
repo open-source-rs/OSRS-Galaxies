@@ -2470,6 +2470,32 @@
       "value": "OSRS Actors AND Campaigns: Kasablanka Group"
     },
 	{
+      "description": "Ransomware group that targets various types of industries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.cadosecurity.com/post/punk-kitty-ransom-analysing-hellokitty-ransomware-attacks"
+        ]
+      },
+      "uuid": "cdfe454c-7125-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: HelloKitty Ransome Group"
+    },
+	{
+      "description": "While primarily known for desktop malware, the Confucius group was previously reported to have started leveraging mobile malware in 2017, with the Android surveillanceware ChatSpy. However, research discovery of SunBird and Hornbill shows that Confucius may have been spying on mobile users up to a year before it started using ChatSpy. Targets of these tools include personnel linked to Pakistan’s military, nuclear authorities, and Indian election officials in Kashmir. Hornbill and SunBird have sophisticated capabilities to exfiltrate SMS, encrypted messaging app content, and geolocation, among other types of sensitive information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict"
+        ]
+      },
+      "uuid": "cdfe4d4e-7125-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Confucius APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

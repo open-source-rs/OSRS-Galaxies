@@ -6159,6 +6159,58 @@
       "value": "OSRS Tool: FurBall Stealer"
     },
 	{
+      "description": "In contrast, Hornbill is more of a passive reconnaissance tool than SunBird. Not only does it target a limited set of data, the malware only uploads data when it initially runs and not at regular intervals like SunBird. After that, it only uploads changes in data to keep mobile data and battery usage low. The upload occurs when data monitored by Hornbill changes, such as when SMS, or WhatsApp notifications are received or calls are made from the device. Hornbill is keenly interested in the state of an infected device and closely monitors the use of resources. For example, if the device is low on memory, it triggers the garbage collector. In addition to the list of exfiltrated data mentioned earlier, Hornbill also collects hardware information. For example, the malware can check if a device’s screen is locked, the amount of available internal and external storage and whether WiFi and GPS are enabled. Hornbill only logs location information if it deems the changes to be significant enough from the previously recorded location – if the difference between the corresponding latitudes and longitudes differ by more than 0.0006 which is roughly 70 metres. Data collected by Hornbill is stored in hidden folders on external storage. Once call recordings or audio recordings are uploaded to C2 infrastructure they are deleted from the device to avoid suspicion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict"
+        ]
+      },
+      "uuid": "762163f8-7126-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Hornbill Stealer"
+    },
+	{
+      "description": "SunBird has a more extensive set of malicious capabilities than Hornbill. It attempts to upload all data it has access to at regular intervals to its command and control (C2) servers. Locally on the infected device, the data is collected in SQLite databases which are then compressed into ZIP files as they are uploaded to C2 infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict"
+        ]
+      },
+      "uuid": "7621666e-7126-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: SunBird Stealer"
+    },
+	{
+      "description": "Spyware that combines both the Hornbill and SunBird stealers into a single package.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict"
+        ]
+      },
+      "uuid": "76216768-7126-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: BuzzOut Stealer"
+    },
+	{
+      "description": "Javali trojan is active since November 2017 and targets users of financial and banking organizations geolocated in Brazil and Mexico. By analyzing this piece of malware, we found that Javali is using the same routines and calls often observed on other Latin American trojans, such as Grandoreiro, URSA aka Mispadu, Lampion, Vadokrist,  Amavaldo, Casbaneiro aka Metamorpho and Mekotio. The Javalis’ modus operandi is related to other threats such as Vadokrist, Lampion, URSA, Amavaldo, and Casbaneiro. After opening the URL distributed on the email body, a ZIP file is then downloaded from the Internet. For this, Cloud services are often used by crooks including Google, S3 Buckets from AWS, and MediaFire file sharing service. The next diagram demonstrates how Javali trojan banker works. When executed, the Javali trojan starts its operation and immediately gets the malware configuration from doc files available on Google Cloud. Next, the trojan collects information from web-browsers searching for target tabs opened related to hardcoded banking/financing portals and starts the malicious overlay activity presenting fake windows to victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://seguranca-informatica.pt/latin-american-javali-trojan-weaponizing-avira-antivirus-legitimate-injector-to-implant-malware/#.YC0TtehKiUk"
+        ]
+      },
+      "uuid": "76216952-7126-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Javali Banking Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

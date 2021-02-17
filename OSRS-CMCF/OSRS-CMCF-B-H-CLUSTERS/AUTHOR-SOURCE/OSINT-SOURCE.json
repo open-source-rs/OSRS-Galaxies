@@ -3267,6 +3267,34 @@
       "value": "OSRS OSINT Source: Arete Incident Response"
     },
 	{
+      "description": "Cybersecurity as a service vendor.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.cadosecurity.com/",
+		  "https://www.linkedin.com/company/cado-security/about/"
+        ]
+      },
+      "uuid": "659c807a-7127-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: Cado Security Blog"
+    },
+	{
+      "description": "A Y Combinator-backed and AI powered cyber threat intelligence company that empowers global organizations with darkweb & cybercrime monitoring and mitigation services.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cybleinc.com/",
+		  "https://www.linkedin.com/company/cyble-global/about/"
+        ]
+      },
+      "uuid": "659c8156-7127-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: Cyble Threat Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

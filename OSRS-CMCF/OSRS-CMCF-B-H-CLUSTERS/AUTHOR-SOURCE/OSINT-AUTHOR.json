@@ -8406,6 +8406,32 @@
       "value": "OSRS OSINT Author Index: Arete Cyber Threat Intelligence Team"
     },
 	{
+      "description": "Generic pen name used by the cybersecurity vendor Cado Security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cadosecurity.com/"
+        ]
+      },
+      "uuid": "659c7940-7127-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Cado Security Researchers"
+    },
+	{
+      "description": "Generic pen name used by the cybersecurity vendor Cyble Security.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cybleinc.com/"
+        ]
+      },
+      "uuid": "659c7f6c-7127-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Cyble Researchers"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
