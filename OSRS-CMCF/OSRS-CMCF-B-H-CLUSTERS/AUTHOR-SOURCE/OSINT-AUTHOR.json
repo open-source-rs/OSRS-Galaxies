@@ -8432,6 +8432,136 @@
       "value": "OSRS OSINT Author Index: Cyble Researchers"
     },
 	{
+      "description": "Senior Security Researcher of Special Investigations at Forcepoint. Hungary.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/robert-neumann-880a72136/?originalSubdomain=hu"
+        ]
+      },
+      "uuid": "8620fa2a-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Robert Neumann"
+    },
+	{
+      "description": "Security Researcher at Forcepoint. Budapest, Budapest, Hungary.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/mate-balatoni-b6b386144/"
+        ]
+      },
+      "uuid": "8620fd04-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Mate Balatoni"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor FireEye.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html"
+        ]
+      },
+      "uuid": "fffd998e-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Cyble Researchers"
+    },
+	{
+      "description": "Senior Threat Analyst at FireEye, Inc. Reston, Virginia, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/genevieve-stark-b31b75a/"
+        ]
+      },
+      "uuid": "fffda28a-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Genevieve Stark"
+    },
+	{
+      "description": "Principal Threat Analyst, Adversary Pursuit at FireEye, Inc. Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/isifibrahima/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "fffda3ca-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Isif Ibrahima"
+    },
+	{
+      "description": "Senior Threat Analyst, FLARE Advanced Practices at FireEye, Inc. Washington DC-Baltimore Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/van-t-6a574274/?trk=public_profile_publication_contributor_image"
+        ]
+      },
+      "uuid": "fffda4a6-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Van Ta"
+    },
+	{
+      "description": "Manager, Cyber Crime Analysis. Washington DC-Baltimore Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/kimberlygoody/"
+        ]
+      },
+      "uuid": "fffda56e-76d5-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Kimberly Goody"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the technology vendor Akamai.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blogs.akamai.com/sitr/2021/02/bitcoins-blockchains-and-botnets.html"
+        ]
+      },
+      "uuid": "bd4442ea-76d6-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Evyatar Saias"
+    },
+	{
+      "description": "Generic author pen name used by the cybersecurity vendor Antiy Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.antiy.net/"
+        ]
+      },
+      "uuid": "bd444574-76d6-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Antiy Labs Threat Researchers"
+    },
+	{
+      "description": "Junior Malware Researcher at Avast. Ho Chi Minh City, Vietnam.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/anh-quang-ho/"
+        ]
+      },
+      "uuid": "bd444664-76d6-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Anh Ho"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

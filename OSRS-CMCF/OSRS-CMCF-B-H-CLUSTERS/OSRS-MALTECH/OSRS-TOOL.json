@@ -6211,6 +6211,97 @@
       "value": "OSRS Tool: Javali Banking Trojan"
     },
 	{
+      "description": "Silver Sparrow is an activity cluster that includes a binary compiled to run on Apple’s new M1 chips.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://redcanary.com/blog/clipping-silver-sparrows-wings/"
+        ]
+      },
+      "uuid": "d6c10684-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Silver Sparrow"
+    },
+	{
+      "description": "IronNetInjector is made of an IronPython script that contains a .NET injector and one or more payloads. The payloads can be also .NET assemblies or native PEs. When an IronPython script is run, the .NET injector gets loaded, which in turn injects the payload(s) into its own or a remote process.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/ironnetinjector/"
+        ]
+      },
+      "uuid": "d6c108e6-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: IronNetInjector"
+    },
+	{
+      "description": "Although operations of the Masslogger trojan have been previously documented, we found the new campaign notable for using the compiled HTML file format to start the infection chain. This file format is typically used for Windows Help files, but it can also contain active script components, in this case JavaScript, which launches the malware's processes. The infection starts with an email message containing a legitimate-looking subject line that seems to relate to a business. The email contains a RAR attachment with a slightly unusual filename extension. The usual filename extension for RAR files is .rar. However, RAR-compressed archives can also be split into multi-volume archives. In this case, the filename creates files with the RAR extension named r00 and onwards with the .chm file extension. This naming scheme is used by the Masslogger campaign, presumably to bypass any programs that would block the email attachment based on its file extension. CHM is a compiled HTML file that contains an embedded HTML file with JavaScript code to start the active infection process. Every stage of the infection is obfuscated to avoid detection using simple signatures.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/02/masslogger-cred-exfil.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "d6c10bde-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Masslogger Stealer"
+    },
+	{
+      "description": "Office malware builder called APOMacroSploit. The malware infection begins when the dynamic content of the attached XLS document is enabled, and an XLM macro automatically starts downloading a Windows system command script.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/"
+        ]
+      },
+      "uuid": "d6c10cb0-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: APOMacroSploit"
+    },
+	{
+      "description": "The BitRAT functionalities include - SSL encryption, XMR mining, Webcam hacking, Remote control, Keylogging, Download and upload of files, and Compatibility with TOR.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/"
+        ]
+      },
+      "uuid": "d6c10d6e-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: BitRAT"
+    },
+	{
+      "description": "Attack framework used by Chinese APTs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/the-story-of-jian/"
+        ]
+      },
+      "uuid": "d6c10e22-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Jian Framework"
+    },
+	{
+      "description": "A webshell. In mid-December 2020, Mandiant responded to multiple incidents in which a web shell we call DEWMODE was used to exfiltrate data from Accellion FTA devices. The Accellion FTA device is a purpose-built application designed to allow an enterprise to securely transfer large files. The exfiltration activity has affected entities in a wide range of sectors and countries. Across these incidents, Mandiant observed common infrastructure usage and TTPs, including exploitation of FTA devices to deploy the DEWMODE web shell. Mandiant determined that a common threat actor we now track as UNC2546 was responsible for this activity. While complete details of the vulnerabilities leveraged to install DEWMODE are still being analyzed, evidence from multiple client investigations has shown multiple commonalities in UNC2546's activities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html"
+        ]
+      },
+      "uuid": "d6c10ed6-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: DEWMODE Webshell"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

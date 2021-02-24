@@ -3295,6 +3295,32 @@
       "value": "OSRS OSINT Source: Cyble Threat Blog"
     },
 	{
+      "description": "Online cybersecurity blog provided by the cybersecurity vendor Forcepoint.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.forcepoint.com/blog"
+        ]
+      },
+      "uuid": "2994d9e6-76d7-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: Forcepoint Blog"
+    },
+	{
+      "description": "Online cybersecurity blog provided by the cybersecurity vendor Antiy Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.antiy.net/"
+        ]
+      },
+      "uuid": "2994dce8-76d7-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: Antiy Labs"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

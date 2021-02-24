@@ -2496,6 +2496,58 @@
       "value": "OSRS Actors AND Campaigns: Confucius APT"
     },
 	{
+      "description": "Starting in mid-December 2020, malicious actors that Mandiant tracks as UNC2546 exploited multiple zero-day vulnerabilities in Accellion’s legacy File Transfer Appliance (FTA) to install a newly discovered web shell named DEWMODE.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html"
+        ]
+      },
+      "uuid": "4316764a-76d2-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2546 Threat Group"
+    },
+	{
+      "description": "We are currently tracking the exploitation of the zero-day Accellion FTA vulnerabilities and data theft from companies running the legacy FTA product as UNC2546, and the subsequent extortion activity as UNC2582. We have identified overlaps between UNC2582, UNC2546, and prior FIN11 operations, and we will continue to evaluate the relationships between these clusters of activity.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html"
+        ]
+      },
+      "uuid": "4316794c-76d2-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2582 Threat Group"
+    },
+	{
+      "description": "The Baby Elephant organization is an APT attack organization from the direction of the South Asian subcontinent.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/y2kRbYCt94yPu-5jtcZ_AA"
+        ]
+      },
+      "uuid": "43167a82-76d2-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Baby Elephant APT"
+    },
+	{
+      "description": "Unit 42 researchers are exposing one of the largest and longest-lasting Monero cryptojacking operations known to exist. The operation is called WatchDog, taken from the name of a Linux daemon called watchdogd. The WatchDog mining operation has been running since Jan. 27, 2019, and has collected at least 209 Monero (XMR), valued to be around $32,056 USD. Researchers have determined that at least 476 compromised systems, composed primarily of Windows and NIX cloud instances, have been performing mining operations at any one time for over two years.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/watchdog-cryptojacking/"
+        ]
+      },
+      "uuid": "7e6c9bce-76d3-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation Watchdog"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
