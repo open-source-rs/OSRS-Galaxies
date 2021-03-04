@@ -8562,6 +8562,45 @@
       "value": "OSRS OSINT Author Index: Anh Ho"
     },
 	{
+      "description": "Threat research group affiliated with the cybersecurity vendor Zscaler.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.zscaler.com/resources"
+        ]
+      },
+      "uuid": "60cc9324-7cf7-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: ZScaler Threat Research Group"
+    },
+	{
+      "description": "Senior Security Researcher – Kaspersky. Sverdlovsk, Russia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D0%BA%D0%BE%D0%BF%D0%B5%D0%B9%D1%86%D0%B5%D0%B2-946211167/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "60cc9568-7cf7-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Vyacheslav Kopeytsev"
+    },
+	{
+      "description": "Senior Security Researcher(GReAT) at Kaspersky Lab. Seoul Incheon Metropolitan Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/phr34k/?originalSubdomain=kr"
+        ]
+      },
+      "uuid": "60cc9658-7cf7-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Seongsu Park"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

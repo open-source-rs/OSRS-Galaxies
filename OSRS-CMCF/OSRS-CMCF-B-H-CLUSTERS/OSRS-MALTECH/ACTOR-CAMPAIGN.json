@@ -2548,6 +2548,115 @@
       "value": "OSRS Actors AND Campaigns: Operation Watchdog"
     },
 	{
+      "description": "Threat actor group identified by Malwarebytes researchers. Leverages phishing and other common backdoor TTPs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/malwarebytes-news/2021/02/lazyscripter-from-empire-to-double-rat/"
+        ]
+      },
+      "uuid": "4f9f69c4-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: LazyScripter APT"
+    },
+	{
+      "description": "Threat actor who uses ICEDID infections to deploy MAZE or EGREGOR ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "4f9f6c1c-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2198 APT"
+    },
+	{
+      "description": "UNC2374 began as its own distinct cluster where BEACON, WINDARC, and SYSTEMBC were observed during an incident at a Managed Defense customer. Initial similarities in tooling did not constitute a strong enough link to merge UNC2374 with UNC2198 yet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "4f9f6fa0-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2374 APT"
+    },
+	{
+      "description": "Threat group associated with two other threat groups - UNC2198 and UNC2374.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "4f9f707c-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2414 APT"
+    },
+	{
+      "description": "Security researchers at Recorded Future have spotted a suspected Chinese APT actor targeting critical infrastructure operators in India. The list of targets includes power plants, electricity distribution centers, and seaports in the country. The attacks surged while relations between India and China have deteriorated significantly following border clashes in May 2020. Recorded future tracked the APT group as “RedEcho” and pointed out that its operations have a significant overlap with the China-linked APT41/Barium actor.  Experts noticed that at least 3 of the targeted Indian IP addresses were previously hit by APT41 in a November 2020 campaign aimed at Indian Oil and Gas sectors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securityaffairs.co/wordpress/115156/apt/china-apt41-india.html?utm_source=feedly&utm_medium=rss&utm_campaign=china-apt41-india",
+		  "https://go.recordedfuture.com/hubfs/reports/cta-2021-0228.pdf"
+        ]
+      },
+      "uuid": "4f9f7144-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: RedEcho Threat Group"
+    },
+	{
+      "description": "Microsoft has detected multiple 0-day exploits being used to attack on-premises versions of Microsoft Exchange Server in limited and targeted attacks. In the attacks observed, the threat actor used these vulnerabilities to access on-premises Exchange servers which enabled access to email accounts, and allowed installation of additional malware to facilitate long-term access to victim environments. Microsoft Threat Intelligence Center (MSTIC) attributes this campaign with high confidence to HAFNIUM, a group assessed to be state-sponsored and operating out of China, based on observed victimology, tactics and procedures. The vulnerabilities recently being exploited were CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/"
+        ]
+      },
+      "uuid": "4f9f728e-7cf1-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: HAFNIUM Threat Group"
+    },
+	{
+      "description": "During June-August of 2020, ClearSky’s analysis team had investigated an offensive campaign attributed with high probability to North Korea, which we call Dream Job. This campaign has been active since the beginning of the year and it succeeded, in our assessment, to infect several dozens of companies and organizations in Israel and globally. Its main targets include defense, governmental companies, and specific employees of those companies. We assess this to be this year’s main offensive campaign by the Lazarus group, and it embodies the sum of the group’s accumulative knowledge on infiltration to companies and organizations around the globe. In our estimation, the group operates dozens of researchers and intelligence personnel to maintain the campaign globally.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.clearskysec.com/operation-dream-job/"
+        ],
+        "synonyms": [
+        "Operation Dream Job"
+        ]
+      },
+      "uuid": "ae06d8a2-7cf2-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation DeathNote"
+    },
+	{
+      "description": "While tracking the Lazarus group’s continuous campaigns targeting various industries, researchers discovered that they recently researchersnt after COVID-19-related entities. They attacked a pharmaceutical company at the end of September, and during our investigation researchers discovered that they had also attacked a government ministry related to the COVID-19 response. Each attack used different tactics, techniques and procedures (TTPs), but researchers found connections betresearchersen the two cases and evidence linking those attacks to the notorious Lazarus group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/",
+		  "https://www.welivesecurity.com/2020/11/16/lazarus-supply-chain-attack-south-korea/"
+        ]
+      },
+      "uuid": "ae06daf0-7cf2-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation Bookcode"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

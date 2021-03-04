@@ -6302,6 +6302,136 @@
       "value": "OSRS Tool: DEWMODE Webshell"
     },
 	{
+      "description": "Attack framework that combines malwares such as LuminosityLink RMS and Quasar RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://resources.malwarebytes.com/files/2021/02/LazyScripter.pdf"
+        ]
+      },
+      "uuid": "d69d2292-7cf4-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: KOCTOPUS Framework"
+    },
+	{
+      "description": "PowerShell Empire loader used in the KOCTOPUS attack framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://resources.malwarebytes.com/files/2021/02/LazyScripter.pdf"
+        ]
+      },
+      "uuid": "d69d2562-7cf4-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: Empoder Loader"
+    },
+	{
+      "description": "MINEBRIDGE remote-access Trojan (RAT) embedds in macro-based Word document files crafted to look like valid job resumes (CVs). Such lures are often used as social engineering schemes by threat actors. MINEBRIDGE buries itself into the vulnerable remote desktop software TeamViewer, enabling the threat actor to take a wide array of remote follow-on actions such as spying on users or deploying additional malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/security-research/return-minebridge-rat-new-ttps-and-social-engineering-lures"
+        ]
+      },
+      "uuid": "d69d2684-7cf4-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: MINEBRIDGE RAT"
+    },
+	{
+      "description": "Researchers attribute this malware family to the advanced version of Manuscrypt (a.k.a. NukeSped), a family belonging to the Lazarus group. researchers previously observed the Lazarus group utilizing this cluster when attacking cryptocurrency businesses and a mobile game company. Although the malware involved and the entire infection process is known and has not changed dramatically compared to previous findings, the Lazarus group continued using ThreatNeedle malware aggressively in this campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/lazarus-threatneedle/100803/"
+        ]
+      },
+      "uuid": "d69d2760-7cf4-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: ThreatNeedle Framework"
+    },
+	{
+      "description": "MOUSEISLAND is a Microsoft Word macro downloader used as the first infection stage and is delivered inside a password-protected zip attached to a phishing email.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "be4e4fe4-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: MOUSEISLAND Downloader"
+    },
+	{
+      "description": "PHOTOLOADER is a downloader that has been observed to download ICEDID. It makes an HTTP request for a fake image file, which is RC4 decrypted to provide the final payload. Host information is sent to the command and control (C2) via HTTP cookies. Samples have been observed to contain an embedded C2 configuration that contain the real C2 with a number of non-malicious domains. The non-malicious domains are contacted in addition to the real C2.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "be4e5246-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: PHOTOLOADER Downloader"
+    },
+	{
+      "description": "SOURBITS is a packaged exploit utility for CVE-2020-0787, which is a vulnerability that was disclosed in 2020 for Windows Background Intelligent Transfer Service (BITS). SOURBITS consists of code derived from a GitHub Repository that is implemented as a command-line utility, which can execute arbitrary files with elevated privileges.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/02/melting-unc2198-icedid-to-ransomware-operations.html"
+        ]
+      },
+      "uuid": "be4e5502-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: SOURBITS Privilege Escalation Utility"
+    },
+	{
+      "description": "Since March 2020, Proofpoint Threat Research has tracked low volume phishing campaigns targeting Tibetan organizations globally. In January and February 2021, researchers observed a continuation of these campaigns where threat actors aligned with the Chinese Communist Party’s state interests delivered a customized malicious Mozilla Firefox browser extension that facilitated access and control of users’ Gmail accounts. Proofpoint has named this malicious browser extension FriarFox. researchers attribute this activity to TA413, who in addition to the FriarFox browser extension, was also observed delivering both Scanbox and Sepulcher malware to Tibetan organizations in early 2021. Proofpoint has previously reported on Sepulcher malware and its links to the Lucky Cat and Exile Rat malware campaigns that targeted Tibetan organizations. This actor is believed to be an APT group aligned with the Chinese state with strategic objectives associated with espionage and civil dissident surveillance that includes the Tibetan Diaspora. This blog provides a detailed analysis of the JavaScript-based FriarFox browser extension, identifies TA413’s use of the Scanbox framework dating back to June 2020, and establishes links to watering hole attacks that targeted Tibetan organizations in 2019.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ta413-leverages-new-friarfox-browser-extension-target-gmail-accounts-global"
+        ]
+      },
+      "uuid": "be4e55de-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: FriarFox Downloader"
+    },
+	{
+      "description": "Cisco Talos recently discovered another new campaign distributing the malicious remote access trojan (RAT) ObliqueRAT. In the past, Talos connected ObliqueRAT and another campaign from December 2019 distributing CrimsonRAT. These two malware families share similar maldocs and macros. This new campaign, however, utilizes completely different macro code to download and deploy the ObliqueRAT payload. The attackers have also updated the infection chain to deliver ObliqueRAT via adversary-controlled websites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/02/obliquerat-new-campaign.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "be4e56a6-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: ObliqueRAT"
+    },
+	{
+      "description": "The Gootkit malware family has been around more than half a decade – a mature Trojan with functionality centered around banking credential theft. In recent years, almost as much effort has gone into improvement of its delivery method as has gone into the NodeJS-based malware itself. In the past, Sophos and other security experts have bundled the discussion of the malware itself with analysis of the delivery mechanism, but as this method has been adopted to deliver a wider range of malicious code, we assert that this mechanism deserves scrutiny (and its own name), distinct from its payload, which is why we’ve decided to call it Gootloader. In addition to the REvil and Gootkit payloads, Gootloader has been used most recently to deliver the Kronos trojan and Cobalt Strike. In its latest attempts to evade detection by endpoint security tools, Gootloader has moved as much of its infection infrastructure to a fileless methodology as possible. While it isn’t completely fileless, these techniques are effective at evading detection over a network – right up to the point where the malicious activity trips over behavioral detection rules.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2021/03/01/gootloader-expands-its-payload-delivery-options/"
+        ]
+      },
+      "uuid": "be4e5764-7cf5-11eb-9439-0242ac130002",
+      "value": "OSRS Tool: GootLoader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
