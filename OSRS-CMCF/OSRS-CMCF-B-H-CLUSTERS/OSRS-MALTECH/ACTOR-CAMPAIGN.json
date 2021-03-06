@@ -2657,6 +2657,19 @@
       "value": "OSRS Actors AND Campaigns: Operation Bookcode"
     },
 	{
+      "description": "SPRITE SPIDER is an eCrime actor that conducts low-volume BGH ransomware campaigns using the Defray777 ransomware. Other tools used by SPRITE SPIDER include the Vatet loader and the PyXie remote access tool (RAT). The adversary has established initial access by exploiting vulnerable Citrix Application Delivery Controllers, as well as by using LUNAR SPIDER’s BokBot trojan. To avoid detection, SPRITE SPIDER often stages payloads on internal servers within a victim network and uses in-memory-only deployments of its later-stage tooling. SPRITE SPIDER uses both PyXie and Cobalt Strike to move laterally within a victim environment after obtaining initial access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/carbon-spider-sprite-spider-target-esxi-servers-with-ransomware/"
+        ]
+      },
+      "uuid": "4ffba4f6-7eb7-11eb-9439-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Sprite Spider Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

@@ -796,6 +796,28 @@
 			"value": "Wyckoff Heights Medical Center"
 		},
 		{
+			"description": "Founded by the Sisters of the Holy Cross in 1929, Saint Agnes Medical Center is proud to be celebrating more than nine decades of providing the highest quality and most compassionate care for Valley residents. Since opening our ﬁrst 75-bed hospital on Fruit and Floradora avenues, Saint Agnes has been instrumental in shaping the Central Valley’s health care landscape by combining state-of-the-art technology and facilities with nationally-recognized physicians and staff. A lot has changed in the last 90 years, but our commitment to meeting the diverse needs of our growing population, and to healing the whole person – body, mind and spirit – still inspires everything we do.",
+			"meta": {
+				"refs": [
+					"https://www.samc.com/about-us/",
+					"https://www.samc.com/"
+				]
+			},
+			"uuid": "a3b75804-7ebe-11eb-9439-0242ac130002",
+			"value": "Saint Agnes Medical Center"
+		},
+		{
+			"description": "Saint Alphonsus Health System is proud to be named one of the Top 15 Health Systems in the country by IBM Watson Health. The study analyzes system metrics from publicly-available clinical, operational and patient perception of care data at more than 300 health systems across the country. Key performance measures in the report include inpatient and extended care quality, operational efficiency, financial health and patient experience. Saint Alphonsus Health System has the region's most advanced Trauma Center, which recognizes our dedication to providing the highest quality, most optimal care for all critically ill and injured patients. This distinction ensures we maintain the highest standards for chest pain, stroke, orthopedic and general surgery and emergency care. It also creates a foundation of medical excellence, innovation, and collaboration that makes the overall care all our patients receive throughout the region, that much better.",
+			"meta": {
+				"refs": [
+					"https://www.saintalphonsus.org/about-us/",
+					"https://www.saintalphonsus.org/"
+				]
+			},
+			"uuid": "a3b75a66-7ebe-11eb-9439-0242ac130002",
+			"value": "Saint Alphonsus Health System"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

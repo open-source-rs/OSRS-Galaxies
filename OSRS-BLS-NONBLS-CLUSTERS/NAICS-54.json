@@ -3104,6 +3104,26 @@
 			"value": "Miltenyi Biotec"
 		},
 		{
+			"description": "Qualys, Inc. provides cloud security, compliance and related services and is based in Foster City, California.",
+			"meta": {
+				"refs": [
+					"https://www.qualys.com/"
+				]
+			},
+			"uuid": "a3b75c0a-7ebe-11eb-9439-0242ac130002",
+			"value": "Qualys, Inc."
+		},
+		{
+			"description": "Netgain is a strategic IT business partner to organizations in the healthcare, financial and legal verticals that require stringent regulatory-compliance adherence. Netgain delivers industry-leading IT security, reliability, mobility, stability and compliance, and also deep vertical expertise to anticipate the unique challenges of your industry.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/netgain-technology/"
+				]
+			},
+			"uuid": "a3b75cf0-7ebe-11eb-9439-0242ac130002",
+			"value": "Netgain Technology, LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

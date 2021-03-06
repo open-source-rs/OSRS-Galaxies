@@ -1579,6 +1579,37 @@
 			"value": "The University of Vermont Health Network"
 		},
 		{
+			"description": "Elara Caring is one of the nation’s largest providers of home-based care, with a footprint in the Northeast, Midwest and South. Elara Caring brings together three award-winning organizations — Great Lakes Caring, National Home Health Care, and Jordan Health Services — into one transformational company. We provide the highest-quality comprehensive care continuum of personal care, skilled home health, hospice care and behavioral health. Our intimate understanding of our patients’ needs allows us to apply proprietary platforms to deliver proactive, customized care that improves quality of life and keeps patients in their homes.",
+			"meta": {
+				"refs": [
+					"https://elara.com/about-us/"
+				]
+			},
+			"uuid": "12d59918-7ebe-11eb-9439-0242ac130002",
+			"value": "Elara Caring"
+		},
+		{
+			"description": "Cochise Eye & Laser is committed to providing Southeastern Arizona with exceptional quality and compassionate eye care service. We provide a staff that is knowledgeable in the latest technology and educated in the areas of ophthalmology, optometry and opticianry services. We deliver affordable services to our patients in a pleasant environment and efficient manner. Cochise Eye & Laser is an active partner in maintaining the quality of life for all of our patients.",
+			"meta": {
+				"refs": [
+					"http://www.cochiseeye.com/"
+				]
+			},
+			"uuid": "12d59bca-7ebe-11eb-9439-0242ac130002",
+			"value": "Cochise Eye and Laser"
+		},
+		{
+			"description": "The physicians at the Altona Clinic are committed to the highest standards of quality and comprehensive and preventative healthcare. We work with families and individuals to promote overall physical and mental well-being. We also provide education for disease prevention and treatment of illnesses as well as manage chronic medical conditions. We treat acute conditions and establish relationships with specialists to provide care for those patients that are dealing with complex medical issues.",
+			"meta": {
+				"refs": [
+					"http://www.altonaclinic.ca/",
+					"http://www.altonaclinic.ca/services/"
+				]
+			},
+			"uuid": "12d59db4-7ebe-11eb-9439-0242ac130002",
+			"value": "Altona Clinic"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

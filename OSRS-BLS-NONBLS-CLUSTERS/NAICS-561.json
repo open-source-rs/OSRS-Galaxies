@@ -226,6 +226,27 @@
 			"value": "Timberline Billing Service LLC"
 		},
 		{
+			"description": "ProPath is the largest, nationwide, fully physician-owned pathology practice in the United States. Led by a team of world-class physicians and scientists, ProPath routinely diagnoses cases from 45 states and several foreign countries. Its over 500 employees reside in 10 states and staff labs and facilities in three states. For 55 years, ProPath’s mission has been to provide patient-centered, high quality and effective medical diagnostics, prognostics and research that creates better patient outcomes.",
+			"meta": {
+				"refs": [
+					"https://propath.com/our-company/"
+				]
+			},
+			"uuid": "621932e8-7ebc-11eb-9439-0242ac130002",
+			"value": "ProPath Services, LLC"
+		},
+		{
+			"description": "Service provider of medical administrative staffing and management.",
+			"meta": {
+				"refs": [
+					"https://www.phyins.com/magazine/third-path-woodcreek-pediatrics-mary-bridge-childrens-unique-hybrid-model-independence-and",
+					"https://opencorporates.com/companies/us_wa/601839437"
+				]
+			},
+			"uuid": "62193838-7ebc-11eb-9439-0242ac130002",
+			"value": "Woodcreek Provider Services, LLC"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

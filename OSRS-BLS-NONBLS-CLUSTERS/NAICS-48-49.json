@@ -157,6 +157,26 @@
       "value": "James Delivery"
     },
 	{
+      "description": "Singapore Airlines is the flag carrier airline of Singapore, with its hub at Singapore Changi Airport.",
+      "meta": {
+        "refs": [
+          "https://www.singaporeair.com/"
+        ]
+      },
+      "uuid": "7dd6e18a-7ebf-11eb-9439-0242ac130002",
+      "value": "Singapore Airlines"
+    },
+	{
+      "description": "Spirit Airlines, Inc. is an American ultra-low-cost carrier headquartered in Miramar, Florida in the Miami metropolitan area. It is the eighth largest commercial airline in North America. Spirit operates scheduled flights throughout the United States and in the Caribbean and Latin America.",
+      "meta": {
+        "refs": [
+          "https://www.spirit.com/"
+        ]
+      },
+      "uuid": "7dd6e658-7ebf-11eb-9439-0242ac130002",
+      "value": "Spirit Airlines, Inc."
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

@@ -3823,6 +3823,38 @@
 			"value": "The City of Annapolis, MD"
 		},
 		{
+			"description": "The Health & Family Welfare Department of the State Government has been vested with the responsibility of maintaining and developing the health care system in West Bengal. Public health, sanitation and hospitals are the exclusive responsibilities of the State. State provides financial and managerial support for the basic health care support and infrastructural facilities at the rural level, while the State level super specialty Medical Colleges & Hospitals predominantly provides the ambulatory care services.",
+			"meta": {
+				"refs": [
+					"https://www.wbhealth.gov.in/",
+					"https://www.wbhealth.gov.in/contents/aboutus"
+				]
+			},
+			"uuid": "c1a8b518-7ebb-11eb-9439-0242ac130002",
+			"value": "Health and Welfare Department of West Bengal, India"
+		},
+		{
+			"description": "The Chester Upland School District is a midsized, urban public school district serving the City of Chester, the Borough of Upland and Chester Township in Delaware County, Pennsylvania. The Chester-Upland School District, headquartered on the first floor of Chester High School, encompasses approximately 5 square miles.",
+			"meta": {
+				"refs": [
+					"https://www.chesteruplandsd.org/"
+				]
+			},
+			"uuid": "c1a8b75c-7ebb-11eb-9439-0242ac130002",
+			"value": "The Chester Upland School District"
+		},
+		{
+			"description": "The Foreign, Commonwealth & Development Office (FCDO), formerly known as the Foreign & Commonwealth Office (FCO), and commonly called the Foreign Office (FO), is a department of the Government of the United Kingdom. It is responsible for protecting and promoting British interests worldwide and was created in 1968 by the merger of the Foreign Office and the Commonwealth Office. The head of the FCDO is the Secretary of State for Foreign, Commonwealth and Development Affairs, commonly abbreviated to Foreign Secretary. This is regarded as one of the four most prestigious positions in the Cabinet – the Great Offices of State – alongside those of Prime Minister, Chancellor of the Exchequer and Home Secretary. The FCDO is managed from day to day by a civil servant, the Permanent Under-Secretary of State for Foreign Affairs, who also acts as the Head of Her Majesty's Diplomatic Service. This position is held by Sir Philip Barton, who took office on 2 September 2020. In September 2020, the Foreign, Commonwealth & Development Office was formed from merging with the Department for International Development and the Foreign Secretary's responsibilities merged with those of the Secretary of State for International Development.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Foreign,_Commonwealth_and_Development_Office",
+					"https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+				]
+			},
+			"uuid": "c1a8b856-7ebb-11eb-9439-0242ac130002",
+			"value": "The Foreign, Commonwealth and Development Office (FCDO)"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

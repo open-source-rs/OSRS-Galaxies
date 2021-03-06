@@ -948,6 +948,46 @@
 			"value": "Saskatchewan Polytechnic"
 		},
 		{
+			"description": "Southern Illinois University School of Medicine is a medical school located in Springfield, the capital of the U.S. state of Illinois. It is part of the Southern Illinois University system, which includes a campus in Edwardsville as well as the flagship in Carbondale.",
+			"meta": {
+				"refs": [
+					"https://www.siumed.edu/"
+				]
+			},
+			"uuid": "4dc71796-7ebd-11eb-9439-0242ac130002",
+			"value": "Southern Illinois University School of Medicine"
+		},
+		{
+			"description": "The Center for Early Education is a private primary school located in West Hollywood, Los Angeles County, California.",
+			"meta": {
+				"refs": [
+					"https://www.centerforearlyeducation.org/"
+				]
+			},
+			"uuid": "4dc719d0-7ebd-11eb-9439-0242ac130002",
+			"value": "The Center for Early Education, CA"
+		},
+		{
+			"description": "The Nova Education Trust is a cross-phase Multi-Academy Trust based in Nottinghamshire. Our trust is committed to providing high quality education to all of our students, regardless of their backgrounds. Our track record demonstrates our ability to deliver our core goal, achievement for every child. The schools in our portfolio includes both secondary and primaries, working in a range of contexts. We also run a successful School Centred Initial Teacher Training (SCITT) programme and a Teaching School Alliance (TSA) which links 23 schools together sharing effective practice and developing new models for staff development.",
+			"meta": {
+				"refs": [
+					"https://www.novaeducationtrust.net/"
+				]
+			},
+			"uuid": "4dc71ade-7ebd-11eb-9439-0242ac130002",
+			"value": "The Nova Education Trust"
+		},
+		{
+			"description": "Central Piedmont Community College is a public community college in Charlotte, North Carolina. With an enrollment of more than 50,000 students annually, Central Piedmont is the second largest community college in the North Carolina Community College System and the largest in the Charlotte metropolitan area.",
+			"meta": {
+				"refs": [
+					"https://www.cpcc.edu/"
+				]
+			},
+			"uuid": "4dc71bc4-7ebd-11eb-9439-0242ac130002",
+			"value": "Central Piedmont Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

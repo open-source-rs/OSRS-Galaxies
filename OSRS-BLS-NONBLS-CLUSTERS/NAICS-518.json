@@ -157,6 +157,17 @@
       "value": "Cloud Clusters Inc."
     },
 	{
+      "description": "Established in 1990, CompuCom Systems, Inc. provides end-to-end technology and consulting to create a true digital workplace for enterprise-level businesses. We help clients in all industries leverage the power of technology to maximize productivity and facilitate collaboration. As a single-source provider of end-to-end solutions, we’re uniquely qualified to serve companies that have a distributed workforce with employees in remote locations, some or all of the time. We supply hardware, devices, software, security and support to create a seamless experience, helping employees optimize their performance and organizations achieve their objectives.",
+      "meta": {
+        "refs": [
+          "https://www.compucom.com/",
+		  "https://www.compucom.com/about-compucom/"
+        ]
+      },
+      "uuid": "6219395a-7ebc-11eb-9439-0242ac130002",
+      "value": "CompuCom Systems Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

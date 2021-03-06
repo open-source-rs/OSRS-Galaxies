@@ -3321,6 +3321,45 @@
       "value": "OSRS OSINT Source: Antiy Labs"
     },
 	{
+      "description": "WCAU, virtual channel 10, is an NBC owned-and-operated television station licensed to Philadelphia, Pennsylvania, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.nbcphiladelphia.com/"
+        ]
+      },
+      "uuid": "1d56f176-7eb8-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: NBC 10 Philadelphia"
+    },
+	{
+      "description": "The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. Along with its sister papers The Observer and The Guardian Weekly, The Guardian is part of the Guardian Media Group, owned by the Scott Trust.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.theguardian.com/us"
+        ]
+      },
+      "uuid": "1d56f400-7eb8-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: The Guardian Online News"
+    },
+	{
+      "description": "For more than two decades, The Business Journal has been the comprehensive source for business news in Fresno, Kings, Madera and Tulare counties. We deliver the Valley’s most important business stories in print, online at thebusinessjournal.com and to email inboxes via our Daily Update and Morning Roundup newsletters. The Business Journal has won dozens of local, state and national awards for its news coverage, design and Web development. The Business Journal’s parent company is Pacific Publishing Group Inc., a multi-title publishing and events management company located in the Central San Joaquin Valley. Founded in 1886, PPG’s reputation for quality and accuracy is well known. Dozens of editorial and design awards further attest to this excellence as outside experts stamp their seals of approval. We’re extremely proud of this heritage of excellence. To that end, PPG assembles the area’s top writers, designers, marketers and support staff. Our people are a major factor in the company’s performance as it continues to thrive. Our publications are committed to presenting information to our readers that is interesting, accurate and timely. Just browse our website and you will get a good idea of PPG’s quality and overall excellence. You will see how we seek to add meaningful contributions to our communities to lead them by providing in-depth coverage not available in any other media.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://thebusinessjournal.com/"
+        ]
+      },
+      "uuid": "1d56f4f0-7eb8-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Source: The Business Journal Online"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

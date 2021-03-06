@@ -8601,6 +8601,45 @@
       "value": "OSRS OSINT Author Index: Seongsu Park"
     },
 	{
+      "description": "Reporter at The Guardian. United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ben-quinn-7a64644b/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "7fcd78fe-7ebb-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Ben Quinn"
+    },
+	{
+      "description": "Donald A. Promnitz reports on nonprofit and charity work and health care at The Business Journal. He is a Fresno native who studied history and journalism at Fresno City College. He previously worked for the Madera Tribune, where he specialized in crime reporting. In his spare time, Donald enjoys writing recreationally and reading, especially on history. He also enjoys hiking, cycling, classical music and film, his favorite director being Akira Kurosawa. Donald is also a produced playwright and has seen two of his works, On the Night in Question and Eminent Domain, performed on stage at Fresno City College.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://thebusinessjournal.com/blog-welcome-new-reporter-donald-promnitz/"
+        ]
+      },
+      "uuid": "7fcd7b92-7ebb-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Donald A. Promnitz"
+    },
+	{
+      "description": "Sergei a co-founder of Open Analysis, and volunteers as a malware researcher. His focus is reverse engineering malware and building automation tools for malware analysis.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://oalabs.openanalysis.net/author/sergei/"
+        ]
+      },
+      "uuid": "7fcd7dd6-7ebb-11eb-9439-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sergei Frankoff"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
