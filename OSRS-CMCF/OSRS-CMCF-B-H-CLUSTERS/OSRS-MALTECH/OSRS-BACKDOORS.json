@@ -1178,6 +1178,32 @@
       "value": "OSRS Backdoor: WINDARC Backdoor"
     },
 	{
+      "description": "Written in Go, GoldMax acts as command-and-control backdoor for the actor. It uses several different techniques to obfuscate its actions and evade detection. The malware writes an encrypted configuration file to disk, where the file name and AES-256 cipher keys are unique per implant and based on environmental variables and information about the network where it is running.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/"
+        ]
+      },
+      "uuid": "f3152f3c-826c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Backdoor: GoldMax Backdoor"
+    },
+	{
+      "description": "SUNSHUTTLE is written in GO, and reads an embedded or local configuration file, communicates with a hard-coded command and control (C2) server over HTTPS, and supports commands including remotely uploading its configuration, file upload and download, and arbitrary command execution. Notably, SUNSHUTTLE uses cookie headers to pass values to the C2, and if configured, can select referrers from a list of popular website URLs to help such network traffic blend in.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html"
+        ]
+      },
+      "uuid": "f3153162-826c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Backdoor: SUNSHUTTLE Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
