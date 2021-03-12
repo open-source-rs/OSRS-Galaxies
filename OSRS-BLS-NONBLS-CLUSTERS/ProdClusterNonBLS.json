@@ -3855,6 +3855,57 @@
 			"value": "The Foreign, Commonwealth and Development Office (FCDO)"
 		},
 		{
+			"description": "Petropolis, also known as The Imperial City, is a municipality in the Southeast Region of Brazil, inside the Rio de Janeiro state located 68 kilometres (42 mi) northeast of the Rio de Janeiro city. According to the 2010 National Brazilian Census, Petropolis municipality had 295,917 inhabitants that year, up from 286,537 inhabitants at the last census. Besides being the largest and most populous city in the Fluminense Mountain Region, the city also has the largest GDP and HDI in the region. Petropolis is considered the safest city in the state of Rio de Janeiro and the sixth safest city in Brazil, according to IPEA classification for medium and large cities.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Petr%C3%B3polis"
+				]
+			},
+			"uuid": "ae7833d4-8338-11eb-8dcd-0242ac130003",
+			"value": "The City of Petropolis"
+		},
+		{
+			"description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed the City of a Hundred Spires, it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Prague"
+				]
+			},
+			"uuid": "ae7837e4-8338-11eb-8dcd-0242ac130003",
+			"value": "The City of Prague"
+		},
+		{
+			"description": "Magnolia Independent School District is a public school district based in Magnolia, Texas, United States. In addition to Magnolia, the district also serves the town of Stagecoach and the community of Pinehurst. For the 2018–19 school year, the district received a score of 87 out of 100 from the Texas Education Agency.",
+			"meta": {
+				"refs": [
+					"https://www.magnoliaisd.org/"
+				]
+			},
+			"uuid": "ae7838e8-8338-11eb-8dcd-0242ac130003",
+			"value": "Magnolia Independent School District"
+		},
+		{
+			"description": "New Jersey is a northeastern U.S. state with some 130 miles of Atlantic coast. Jersey City, across the Hudson River from Lower Manhattan, is the site of Liberty State Park, where ferries embark for nearby Ellis Island, with its historic Immigration Museum, and the iconic Statue of Liberty. The Jersey Shore includes notable resort towns like historic Asbury Park and Cape May, with its preserved Victorian buildings.",
+			"meta": {
+				"refs": [
+					"https://www.nj.gov/"
+				]
+			},
+			"uuid": "ae7839b0-8338-11eb-8dcd-0242ac130003",
+			"value": "The State of New Jersey"
+		},
+		{
+			"description": "The State Public Employment Service of Spain is a sub-department of El Ministerio de Trabajo y Economia Social (MITES), and is responsible for economic development and job growth.",
+			"meta": {
+				"refs": [
+					"https://www.sepe.es/HomeSepe/que-es-el-sepe.html",
+					"https://es.wikipedia.org/wiki/Ministerio_de_Trabajo_y_Econom%C3%ADa_Social"
+				]
+			},
+			"uuid": "ae783a6e-8338-11eb-8dcd-0242ac130003",
+			"value": "The State Public Employment Service, Spain"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

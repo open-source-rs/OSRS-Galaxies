@@ -738,6 +738,27 @@
 			"value": "EyeMed Vision Care"
 		},
 		{
+			"description": "Trillium Community Health Plan is a leader in providing the most responsive customer service, outstanding coordination of care, and innovative health care through an extensive group of providers. Trillium has coordinated the health care of our members with physicians in the community to allow for improved care and access to services.",
+			"meta": {
+				"refs": [
+					"https://www.trilliumohp.com/about-us.html"
+				]
+			},
+			"uuid": "f90b2f6c-833f-11eb-8dcd-0242ac130003",
+			"value": "Trillium Community Health Plan"
+		},
+		{
+			"description": "The Nova Scotia Health Employees' Pension Plan(NSHEPP) is jointly sponsored by Health Association Nova Scotia and four unions, CUPE, Unifor, NSGEU and NSNU. Established on January 1, 1961, the Plan is a comprehensive and competitive.",
+			"meta": {
+				"refs": [
+					"https://www.nshepp.ca/index.aspx",
+					"https://www.nshepp.ca/aboutPlan.aspx"
+				]
+			},
+			"uuid": "f90b3246-833f-11eb-8dcd-0242ac130003",
+			"value": "Nova Scotia Health Employees’ Pension Plan"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

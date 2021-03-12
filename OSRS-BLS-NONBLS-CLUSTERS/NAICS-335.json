@@ -97,6 +97,16 @@
       "value": "Voxx International"
     },
 	{
+      "description": "PEI-Genesis is a world leader in the distribution, manufacture and integration of electronic connectors and cable assemblies with a highly evolved system for mass customized solutions. We have a terrific family culture and are a very successful privately held world leader in a niche industry. Our sales offices are located throughout the Americas, Europe and Asia. PEI-Genesis has been in business since 1946 and we have grown consistently year after year. This is a wonderful place to work and we need talented people to join us on our journey.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/pei-genesis/about/"
+        ]
+      },
+      "uuid": "d0d3aed2-833c-11eb-8dcd-0242ac130003",
+      "value": "PEI-Genesis, Inc."
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

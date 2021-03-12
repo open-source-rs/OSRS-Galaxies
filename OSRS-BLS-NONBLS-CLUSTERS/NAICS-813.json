@@ -295,6 +295,26 @@
 			"value": "Flagship_Group"
 		},
 		{
+			"description": "American Armed Forces Mutual Aid Association is a Virginia-based not-for-profit, tax-exempt, member-owned association that provides diversified financial services, including life insurance, investing and trust services, mortgage services, and survivor services to the U.S. Armed Forces communities.",
+			"meta": {
+				"refs": [
+					"https://www.aafmaa.com/"
+				]
+			},
+			"uuid": "51225494-8342-11eb-8dcd-0242ac130003",
+			"value": "The American Armed Forces Mutual Aid Association"
+		},
+		{
+			"description": "Nuffic is the Dutch organisation for internationalisation in education. It is an independent, non-profit organisation based in The Hague, the Netherlands. Its most important contract partners are the Dutch Ministry of Education, Culture & Science and the Dutch Ministry of Foreign Affairs.",
+			"meta": {
+				"refs": [
+					"https://www.nuffic.nl/en"
+				]
+			},
+			"uuid": "512256ba-8342-11eb-8dcd-0242ac130003",
+			"value": "Nuffic"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

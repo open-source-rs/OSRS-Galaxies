@@ -48,6 +48,16 @@
       "value": "Mediterranean Shipping Company S.A."
     },
 	{
+      "description": "COSCO SHIPPING Lines Co., Ltd. is a multinational ocean container shipping company. It is the world's third largest container shipping company in terms of vessel capacity, with 3.0 million TEUs as of December 2019.",
+      "meta": {
+        "refs": [
+          "http://lines.coscoshipping.com/"
+        ]
+      },
+      "uuid": "d53db9be-834f-11eb-8dcd-0242ac130003",
+      "value": "COSCO SHIPPING Lines Co., Ltd."
+    },
+	{
       "description": "Carnival Corporation & plc, the world’s largest leisure travel company, provides travelers around the globe with extraordinary vacations at an exceptional value. The company’s portfolio of global cruise line brands includes Carnival Cruise Line, Holland America Line, Princess Cruises and Seabourn in North America; P&O Cruises (UK) and Cunard in Southampton, England; AIDA Cruises in Rostock, Germany; Costa Cruises in Genoa, Italy; and P&O Cruises (Australia) in Sydney. Additionally, Carnival Corporation owns a tour company that complements its cruise operations -  Holland America Princess Alaska Tours which operates in Alaska and the Yukon.",
       "meta": {
         "refs": [

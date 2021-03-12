@@ -177,6 +177,76 @@
       "value": "Spirit Airlines, Inc."
     },
 	{
+      "description": "The Deutsche Lufthansa AG, commonly known as Lufthansa, is the largest German airline which, when combined with its subsidiaries, is the second largest airline in Europe in terms of passengers carried.",
+      "meta": {
+        "refs": [
+          "https://www.lufthansa.com/"
+        ]
+      },
+      "uuid": "0ebd1b22-834f-11eb-8dcd-0242ac130003",
+      "value": "The Deutsche Lufthansa AG"
+    },
+	{
+      "description": "Air New Zealand Limited is the flag carrier airline of New Zealand. Based in Auckland, the airline operates scheduled passenger flights to 20 domestic and 32 international destinations in 20 countries, primarily around and within the Pacific Rim. The airline has been a member of the Star Alliance since 1999.",
+      "meta": {
+        "refs": [
+          "https://www.airnewzealand.com/"
+        ]
+      },
+      "uuid": "0ebd1ed8-834f-11eb-8dcd-0242ac130003",
+      "value": "Air New Zealand Limited"
+    },
+	{
+      "description": "Scandinavian Airlines, usually known as SAS, is the flag carrier of Denmark, Norway and Sweden. SAS is an abbreviation of the company's full name, Scandinavian Airlines System or legally Scandinavian Airlines System Denmark-Norway-Sweden.",
+      "meta": {
+        "refs": [
+          "https://www.flysas.com/us-en/"
+        ]
+      },
+      "uuid": "0ebd1fdc-834f-11eb-8dcd-0242ac130003",
+      "value": "Scandinavian Airlines"
+    },
+	{
+      "description": "Cathay Pacific Airways Ltd., more widely known as Cathay Pacific, is the flag carrier of Hong Kong, with its head office and main hub located at Hong Kong International Airport.",
+      "meta": {
+        "refs": [
+          "https://www.cathaypacific.com/cx/en_US.html"
+        ]
+      },
+      "uuid": "0ebd20ae-834f-11eb-8dcd-0242ac130003",
+      "value": "Cathay Pacific Airways Ltd."
+    },
+	{
+      "description": "Jeju Air Co., Ltd., is the first and largest South Korean low-cost airline. It offers scheduled domestic services between several cities in South Korea, as well as between Seoul and international destinations including Japan, China, Russia, the Mariana Islands, and various Southeast Asian countries.",
+      "meta": {
+        "refs": [
+          "https://www.jejuair.net/"
+        ]
+      },
+      "uuid": "0ebd2176-834f-11eb-8dcd-0242ac130003",
+      "value": "Jeju Air Co., Ltd."
+    },
+	{
+      "description": "Malaysia Airlines Berhad, formerly known as Malaysian Airline System, branded as Malaysia Airlines is the flag carrier airline of Malaysia and a member of the oneworld airline alliance. The company headquarters are located at Kuala Lumpur International Airport.",
+      "meta": {
+        "refs": [
+          "https://www.malaysiaairlines.com/"
+        ]
+      },
+      "uuid": "0ebd223e-834f-11eb-8dcd-0242ac130003",
+      "value": "Malaysia Airlines Berhad"
+    },
+	{
+      "description": "Finnair is the flag carrier and largest airline of Finland, with its headquarters in Vantaa on the grounds of Helsinki Airport, its hub. Finnair and its subsidiaries dominate both domestic and international air travel in Finland. Its major shareholder is the government of Finland, which owns 55.8% of the shares.",
+      "meta": {
+        "refs": [
+          "https://www.finnair.com/"
+        ]
+      },
+      "uuid": "0ebd22f2-834f-11eb-8dcd-0242ac130003",
+      "value": "Finnair"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [
