@@ -1204,6 +1204,32 @@
       "value": "OSRS Backdoor: SUNSHUTTLE Backdoor"
     },
 	{
+      "description": "We have discovered an undocumented backdoor targeting Linux systems, masqueraded as polkit daemon. We named it RedXOR for its network data encoding scheme based on XOR. Based on victimology, as well as similar components and Tactics, Techniques, and Procedures (TTPs), we believe RedXOR was developed by high profile Chinese threat actors. The samples, which have low detection rates in VirusTotal, were uploaded from Indonesia and Taiwan, countries known to be targeted by Chinese threat actors. The samples are compiled with a legacy GCC compiler on an old release of Red Hat Enterprise Linux, hinting that RedXOR is used in targeted attacks against legacy Linux systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/"
+        ]
+      },
+      "uuid": "f70c24ec-8582-11eb-8dcd-0242ac130003",
+      "value": "OSRS Backdoor: RedXOR Backdoor"
+    },
+	{
+      "description": "Used in conjunction with RedXOR backdoor. RedXOR uses Python pty shell by importing the python pty library. PWNLNX implements the pty shell function in c.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/"
+        ]
+      },
+      "uuid": "f70c27d0-8582-11eb-8dcd-0242ac130003",
+      "value": "OSRS Backdoor: PWNLNX Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

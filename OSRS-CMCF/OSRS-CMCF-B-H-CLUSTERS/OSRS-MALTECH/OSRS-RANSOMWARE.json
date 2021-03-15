@@ -1273,6 +1273,32 @@
       "value": "OSRS Ransomware: Babuk Ransomware"
     },
 	{
+      "description": "HelloKitty is a ransomware family that emerged in late 2020. While it lacks the sophistication of some of the more well-known families such as Ryuk, REvil, and Conti, it has nevertheless struck some notable targets, including CEMIG0.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/hellokitty-ransomware-lacks-stealth-but-still-strikes-home/"
+        ]
+      },
+      "uuid": "d88318b8-8583-11eb-8dcd-0242ac130003",
+      "value": "OSRS Ransomware: HelloKitty Ransomware"
+    },
+	{
+      "description": "DearCry is a new ransomware variant that has been observed exploiting Microsoft Exchange Servers ProxyLogon vulnerabilities for initial access. Early reports of the appearance of DearCry ransom notes in tandem with associated Microsoft Exchange Server compromises via ProxyLogon vulnerabilities began to surface on March 9, 2021, and victims in the U.S., Canada and Australia are suspected, according to security researcher Michael Gillespie. When executed, DearCry ransomware uses AES-256 and RSA-2048 to encrypt victim files, while also modifying file headers to include the string ‘DEARCRY!’.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/dearcry-ransomware/"
+        ]
+      },
+      "uuid": "d8831ad4-8583-11eb-8dcd-0242ac130003",
+      "value": "OSRS Ransomware: DearCry Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

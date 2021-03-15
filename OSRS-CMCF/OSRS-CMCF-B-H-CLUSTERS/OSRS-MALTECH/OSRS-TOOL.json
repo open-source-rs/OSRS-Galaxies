@@ -6484,6 +6484,71 @@
       "value": "OSRS Tool: NOBELIUM Attack Tool"
     },
 	{
+      "description": "The FIN8 group is known for taking long breaks to improve TTPs and increase their rate of success. Bitdefender has just uncovered a series of improvements to the BADHATCH backdoor aiming to improve persistence and data collection (grabbing screenshots and file uploads) The BADHATCH malware is a mature, highly advanced backdoor that uses several evasion and defense techniques. The new backdoor also attempts to evade security monitoring by using TLS encryption to conceal Powershell commands. Living off the land attacks call for additional defenses to complement behavioral- and commandline detection. Endpoint Detection and Remediation increases the chances of blocking and alerting as soon as the malware attempts discovery and lateral movement.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/files/News/CaseStudies/study/394/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf"
+        ]
+      },
+      "uuid": "83fb5688-8584-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: BADHATCH Toolkit"
+    },
+	{
+      "description": "Proofpoint researchers observed an interesting email campaign by a threat actor we track as TA800. This actor has predominantly used BazaLoader since April of 2020, but on February 3rd, 2021 they distributed a new malware we are calling NimzaLoader. One of NimzaLoader’s distinguishing features is that it is written in the Nim programming language. Malware written in Nim are rare in the threat landscape. Malware developers may choose to use a rare programming language to avoid detection, as reverse engineers may not be familiar with Nim’s implementation, or focused on developing detection for it, and therefore tools and sandboxes may struggle to analyze samples of it.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/nimzaloader-ta800s-new-initial-access-malware"
+        ]
+      },
+      "uuid": "83fb5c6e-8584-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: NimzaLoader"
+    },
+	{
+      "description": "The AlienBot malware family is a Malware-as-a-Service (MaaS) for Android devices that allows a remote attacker, at a first step, to inject malicious code into legitimate financial applications. The attacker obtains access to victims’ accounts, and eventually completely controls their device. Upon taking control of a device, the attacker has the ability to control certain functions just as if he was holding the device physically, like installing a new application on the device, or even control it with TeamViewer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/clast82-a-new-dropper-on-google-play-dropping-the-alienbot-banker-and-mrat/"
+        ]
+      },
+      "uuid": "83fb5d54-8584-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: AlienBot Banker"
+    },
+	{
+      "description": "Malware packaged with the Clast82 Dropper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/clast82-a-new-dropper-on-google-play-dropping-the-alienbot-banker-and-mrat/"
+        ]
+      },
+      "uuid": "83fb5e1c-8584-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: MRAT"
+    },
+	{
+      "description": "Check Point Research (CPR) recently discovered a new Dropper spreading via the official Google Play store, which downloads and installs the AlienBot Banker and MRAT. This Dropper, dubbed Clast82, utilizes a series of techniques to avoid detection by Google Play Protect detection, completes the evaluation period successfully, and changes the payload dropped from a non-malicious payload to the AlienBot Banker and MRAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/clast82-a-new-dropper-on-google-play-dropping-the-alienbot-banker-and-mrat/"
+        ]
+      },
+      "uuid": "83fb5ee4-8584-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: Clast82 Dropper"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
