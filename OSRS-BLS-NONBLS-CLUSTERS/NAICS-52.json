@@ -759,6 +759,36 @@
 			"value": "Nova Scotia Health Employees’ Pension Plan"
 		},
 		{
+			"description": "Flagstar Bank is a bank headquartered in Michigan. It is the primary subsidiary of Flagstar Bancorp, Inc., a bank holding company. It is one of the largest residential mortgage servicers and is on the list of largest banks in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.flagstar.com/"
+				]
+			},
+			"uuid": "e65b00be-872b-11eb-8dcd-0242ac130003",
+			"value": "Flagstar Bank"
+		},
+		{
+			"description": "K.L.S CAPITAL LTD is located in TIRAT CARMEL, Israel and is part of the Lending Industry. K.L.S CAPITAL LTD has 25 employees at this location and generates 8.02 million in sales (USD). There are 2 companies in the K.L.S CAPITAL LTD corporate family.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.kls_capital_ltd.d3be4a000f78726b8b00e935f8ad2753.html"
+				]
+			},
+			"uuid": "e65b01a4-872b-11eb-8dcd-0242ac130003",
+			"value": "K.L.S. Capital Ltd"
+		},
+		{
+			"description": "PPS offers tailor-made insurance, investment and healthcare solutions exclusively for graduate professionals with an honours level equivalent or higher qualification, from a public institution or certain listed private institutions.",
+			"meta": {
+				"refs": [
+					"https://www.pps.co.za/our-story"
+				]
+			},
+			"uuid": "e65b02e4-872b-11eb-8dcd-0242ac130003",
+			"value": "PPS, South Africa"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

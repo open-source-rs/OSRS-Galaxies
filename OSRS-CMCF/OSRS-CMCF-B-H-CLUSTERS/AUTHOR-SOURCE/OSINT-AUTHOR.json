@@ -8692,6 +8692,123 @@
       "value": "OSRS OSINT Author Index: William Turton"
     },
 	{
+      "description": "Reporter at CyberScoop. Washington DC-Baltimore Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/shannon-vavra-18676398/"
+        ]
+      },
+      "uuid": "e721cab6-8724-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Shannon Vavra"
+    },
+	{
+      "description": "Software Development Engineer at Google. Zurich, Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ilya-krupnov-61086355/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "e721ccfa-8724-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ilya Krupnov"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securelist.com/ad-blocker-with-miner-included/101105/"
+        ]
+      },
+      "uuid": "e721cdfe-8724-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Anton Kuzmenko"
+    },
+	{
+      "description": "Threat researcher at binary defense. Alliance, Ohio, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/james-quinn-013396143/"
+        ]
+      },
+      "uuid": "e721cec6-8724-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: James Quinn"
+    },
+	{
+      "description": "Generic pen name used by Lake Geneva Regional News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.lakegenevanews.net/"
+        ]
+      },
+      "uuid": "e721d18c-8724-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lake Geneva Regional News"
+    },
+	{
+      "description": "Reporter at c't Magazin  heise online.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.heise.de/news/c-t-deckt-auf-Datenleck-bei-grosser-SEO-Agentur-5074653.html"
+        ]
+      },
+      "uuid": "ae8eb62c-8725-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jan Mahn"
+    },
+	{
+      "description": "Senior Writer on ZDNet, a Red Ventures company. Goshen, Kentucky, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/natalie-gagliordi-49302449/"
+        ]
+      },
+      "uuid": "ae8eb8ca-8725-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Natalie Gagliordi"
+    },
+	{
+      "description": "Reporter at the Jerusalem Post.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.jpost.com/jpost-tech/israeli-car-financing-company-hacked-private-information-held-for-ransom-661865"
+        ]
+      },
+      "uuid": "ae8eb9c4-8725-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Tzvi Joffre"
+    },
+	{
+      "description": "Reporter at the Jerusalem Post.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.jpost.com/jpost-tech/israeli-car-financing-company-hacked-private-information-held-for-ransom-661865"
+        ]
+      },
+      "uuid": "ae8eba8c-8725-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Tamar Beeri"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

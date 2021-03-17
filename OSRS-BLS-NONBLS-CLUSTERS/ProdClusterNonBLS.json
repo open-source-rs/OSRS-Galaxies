@@ -3906,6 +3906,97 @@
 			"value": "The State Public Employment Service, Spain"
 		},
 		{
+			"description": "The Oklahoma Department of Tourism and Recreation is a department of the government of Oklahoma within the Tourism and Branding Cabinet. The Department is responsible for regulating Oklahoma's tourism industry and for promoting Oklahoma as a tourist destination. It is the Department which established regional designations for the various parts of the state which are in common use today: Red Carpet Country (Northwest, being the Panhandle and North Central), Green Country (Northeast). Frontier Country (Central), Choctaw Country (Southeast), Chickasaw Country (South Central), and Great Plains Country (Southwest).The Department is under the direction of the Executive Director, who is appointed by the Governor. The Oklahoma Tourism and Recreation Commission serves in an advisory board to the Executive Director and is made up of 8 members of the public, along with the Lieutenant Governor of Oklahoma serving as the ninth member and chair of the Commission. The Department of Tourism and Recreation was created in 1972 during the term of Governor David Hall.",
+			"meta": {
+				"refs": [
+					"https://www.travelok.com/",
+					"https://en.wikipedia.org/wiki/Oklahoma_Department_of_Tourism_and_Recreation"
+				]
+			},
+			"uuid": "f198906a-8729-11eb-8dcd-0242ac130003",
+			"value": "The Oklahoma Tourism and Recreation Department"
+		},
+		{
+			"description": "New Delhi is the capital of India and an administrative district of NCT Delhi. New Delhi is also the seat of all three branches of the government of India, hosting the Rashtrapati Bhavan, Parliament House, and the Supreme Court of India. The foundation stone of New Delhi was laid by Emperor George V during the Delhi Durbar of 1911. It was designed by British architects Sir Edwin Lutyens and Sir Herbert Baker. The new capital was inaugurated on 13 February 1931, by Viceroy and Governor-General Lord Irwin. Although colloquially Delhi and New Delhi are used interchangeably to refer to the National Capital Territory of Delhi (NCT), these are two distinct entities, with New Delhi forming a small part of the city of Delhi. The National Capital Region is a much larger entity comprising the entire NCT along with adjoining districts in neighbouring states which includes but is not limited to Ghaziabad, Noida, and Faridabad.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/New_Delhi"
+				]
+			},
+			"uuid": "f19892b8-8729-11eb-8dcd-0242ac130003",
+			"value": "New Delhi"
+		},
+		{
+			"description": "Health and human services department 1910 County Rd NN, Elkhorn, WI 53121.",
+			"meta": {
+				"refs": [
+					"https://www.co.walworth.wi.us/304/Health-Human-Services"
+				]
+			},
+			"uuid": "f19893a8-8729-11eb-8dcd-0242ac130003",
+			"value": "Walworth County Department of Health & Human Services"
+		},
+		{
+			"description": "Buffalo Public Schools serves approximately 34,000 students in Buffalo, New York, the second largest city in the state of New York. It is located in Erie County of western New York and operates nearly 70 facilities.",
+			"meta": {
+				"refs": [
+					"https://www.buffaloschools.org/"
+				]
+			},
+			"uuid": "f1989470-8729-11eb-8dcd-0242ac130003",
+			"value": "Buffalo Public Schools"
+		},
+		{
+			"description": "Ebeleben is a town in the Kyffhauserkreis district, in Thuringia, Germany. It is situated 13 km southwest of Sondershausen. The former municipality Thüringenhausen was merged into Ebeleben in December 2019.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ebeleben"
+				]
+			},
+			"uuid": "f1989524-8729-11eb-8dcd-0242ac130003",
+			"value": "The City of Ebeleben"
+		},
+		{
+			"description": "Covington is a city in, and the parish seat of, St. Tammany Parish, Louisiana, United States. The population was 8,765 at the 2010 census. It is located at a fork of the Bogue Falaya and the Tchefuncte River. Covington is part of the New Orleans–Metairie–Kenner Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.covla.com/"
+				]
+			},
+			"uuid": "c0701124-872a-11eb-8dcd-0242ac130003",
+			"value": "The City of Covington, LA"
+		},
+		{
+			"description": "The Department of Health and Human Services was a government department in Victoria, Australia. Commencing operation on 1 January 2015, it was responsible for the state's health system, as well as various other aspects of social policy.",
+			"meta": {
+				"refs": [
+					"https://www.dhhs.vic.gov.au/"
+				]
+			},
+			"uuid": "c070139a-872a-11eb-8dcd-0242ac130003",
+			"value": "Department of Health and Human Services Victoria"
+		},
+		{
+			"description": "Sarnia is a city in Southwestern Ontario, Canada, with a 2016 population of 71,594. It is the largest city on Lake Huron and in Lambton County.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Sarnia"
+				]
+			},
+			"uuid": "c070148a-872a-11eb-8dcd-0242ac130003",
+			"value": "The City of Sarnia"
+		},
+		{
+			"description": "The City of Lot-et-Garonne Fire Department, France.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Lot-et-Garonne"
+				]
+			},
+			"uuid": "c0701688-872a-11eb-8dcd-0242ac130003",
+			"value": "The City of Lot-et-Garonne Fire Department"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

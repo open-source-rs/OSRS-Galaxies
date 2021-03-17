@@ -315,6 +315,16 @@
 			"value": "Nuffic"
 		},
 		{
+			"description": "Adim Adim is a non-profit organization. Adim Adim aims to raise funds for NGOs that are in need of support, via sports activities. Adim Adim is based in Istanbul, Turkey. It has a network of 300+ sports people. Adim Adim was founded in 2007.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/adim-adim/?trk=public_profile_volunteering_position&originalSubdomain=fi"
+				]
+			},
+			"uuid": "519e63ce-872d-11eb-8dcd-0242ac130003",
+			"value": "Adim Adim"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
