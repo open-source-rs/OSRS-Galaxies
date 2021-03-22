@@ -1230,6 +1230,19 @@
       "value": "OSRS Backdoor: PWNLNX Backdoor"
     },
 	{
+      "description": "On execution, the customized EggShell binaries drop a LaunchAgent. This plist checks to see if the original executable is running, if not, it creates a copy of the executable from a master version then executes it. The EggShell also drops a zero byte file and a data file. A number of other filepaths are also encrypted in the binaries. Almost all of these paths have been customized by the attacker. However, one encrypted string decrypts, a default path found in the public EggShell repo for storing AV captures.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/"
+        ]
+      },
+      "uuid": "bf1cc6de-8b0b-11eb-8dcd-0242ac130003",
+      "value": "OSRS Backdoor: EggShell Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

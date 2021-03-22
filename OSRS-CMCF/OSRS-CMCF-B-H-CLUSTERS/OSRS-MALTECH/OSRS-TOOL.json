@@ -6549,6 +6549,58 @@
       "value": "OSRS Tool: Clast82 Dropper"
     },
 	{
+      "description": "Threat actors are abusing the Run Script feature in Apple’s Xcode IDE to infect unsuspecting Apple Developers via shared Xcode Projects. XcodeSpy is a malicious Xcode project that installs a custom variant of the EggShell backdoor on the developer’s macOS computer along with a persistence mechanism. The backdoor has functionality for recording the victim’s microphone, camera and keyboard, as researchersll as the ability to upload and download files. The XcodeSpy infection vector could be used by other threat actors, and all Apple Developers using Xcode are advised to exercise caution when adopting shared Xcode projects. SentinelOne Singularity protects against XcodeSpy. researchers also provide a simple method developers can use to scan their Xcode repositories for XcodeSpy in this post.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/"
+        ]
+      },
+      "uuid": "a38fcd70-8b0c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: XcodeSpy Dropper"
+    },
+	{
+      "description": "CopperStealer exhibits many of the same targeting and delivery methods as SilentFade, a Chinese-sourced malware family first reported by Facebook in 2019.  Researchers believe Copperstealer to be a previously undocumented family within the same class of malware as SilentFade, StressPaint, FacebookRobot and Scranos.  Facebook attributed the creation of SilentFade to Hong Kong-based  ILikeAD Media International Company Ltd and during the 2020 Virus Bulletin conference disclosed it was responsible for over 4 million in damages by compromising people’s Facebook accounts and then using people’s accounts to run deceptive ads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/now-you-see-it-now-you-dont-copperstealer-performs-widespread-theft"
+        ]
+      },
+      "uuid": "a38fd194-8b0c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: CopperStealer"
+    },
+	{
+      "description": "The crypter-as-a-service model is indicative of the trend toward malware authors creating and selling code to other groups with less technical sophistication. As a result, more financially motivated threat actors can adopt better attacks if they have the money to spend. This results in many groups putting forward the bare-minimum effort required to execute sophisticated malware campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/tracking-hcrypt-an-active-crypter-as-a-service"
+        ]
+      },
+      "uuid": "a38fd298-8b0c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: HCRYPT (Crypter-as-a-Service)"
+    },
+	{
+      "description": "OnionCrypter forms a malware family on its own, even though it is used to protect malware from many different families. OnionCrypter has been around for several years so it is not something entirely new, however it is interesting that because of the multiple layers and uniqueness of the first layer, nobody was detecting this crypter as one malware family. After downloading thousands of samples of this crypter from VirusTotal, we were able to confirm that most of the detections from all AVs are based on detecting what’s encrypted inside this crypter. Even when AVs are recognizing the samples as a crypter with some other malware packed inside, they are detecting the samples as tens of different malware families.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/jakubkaloc/onion-crypter/"
+        ]
+      },
+      "uuid": "a38fd360-8b0c-11eb-8dcd-0242ac130003",
+      "value": "OSRS Tool: OnionCrypter"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

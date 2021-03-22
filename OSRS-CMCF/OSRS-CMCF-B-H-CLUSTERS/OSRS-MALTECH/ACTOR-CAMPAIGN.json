@@ -2723,6 +2723,50 @@
       "value": "OSRS Actors AND Campaigns: Operation Exchange Marauder"
     },
 	{
+      "description": "On Thursday, Swiss cybersecurity firm Prodaft said that SilverFish (.PDF), an extremely skilled threat group, has been responsible for intrusions at over 4,720 private and government organizations including Fortune 500 companies, ministries, airlines, defense contractors, audit and consultancy companies, and automotive manufacturers. Attacks are geared toward US and European entities and there is a specific focus on critical infrastructure and targets with a market value of over 100 million. SilverFish been connected to the recent SolarWinds breach as one of many threat groups taking advantage of the situation, in which malicious SolarWinds Orion updates were pushed to customers, leading to the compromise of thousands of corporate networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.zdnet.com/article/solarwinds-linked-hacking-group-silverfish-abuses-enterprise-victims-in-sandbox-malware-tests/#ftag=RSSbaffb68",
+		  "https://www.prodaft.com/m/uploads/SilverFish_TLPWHITE.pdf"
+        ]
+      },
+      "uuid": "df0aa002-8b0a-11eb-8dcd-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: SilverFish Threat Group"
+    },
+	{
+      "description": "Kek Security (aka Keksec) is a prolific threat actor group that was recently detailed in Checkpoint (Freakout) and Netlab360 (Necro) reporting. Keksec exploits several vulnerabilities and targets multiple architectures with polymorphic tools including Linux and Windows payloads, and custom python malware. The group is actively constructing IRC botnets for the purposes of DDoS operations and cryptojacking campaigns using both Doge and Monero.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.lacework.com/the-kek-security-network/"
+        ],
+        "synonyms": [
+        "Keksec"
+        ]
+      },
+      "uuid": "df0aa3a4-8b0a-11eb-8dcd-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Kek Security Threat Group"
+    },
+	{
+      "description": "In this attack, researchers discovered malware using similar tactics, techniques and procedures (TTPs) to those observed in earlier campaigns publicly attributed to the threat actors RedDelta and Mustang Panda. While the initial vector for the infection is not entirely clear, researchers believe with a medium level of confidence that victims researchersre lured to a domain under control of the threat actor, from which they researchersre infected with malware which the threat actor leveraged to perform additional discovery and data collection. researchers believe with a medium level of confidence that the attackers used a phishing researchersbsite masquerading as the Huaresearchersi company career page to target people working in the telecommunications industry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-dianxun-cyberespionage-campaign-targeting-telecommunication-companies/",
+		  "https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-dianxun.pdf"
+        ]
+      },
+      "uuid": "df0aa4b2-8b0a-11eb-8dcd-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation Dianxun"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

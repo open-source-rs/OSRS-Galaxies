@@ -8809,6 +8809,84 @@
       "value": "OSRS OSINT Author Index: Tamar Beeri"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with Netlab 360 Research Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/"
+        ]
+      },
+      "uuid": "9d8c8d72-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jinye"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with Netlab 360 Research Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/"
+        ]
+      },
+      "uuid": "9d8c8fa2-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Yang Xu"
+    },
+	{
+      "description": "Security Researcher, Advanced Threat Research at McAfee. France.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/thomas-roccia/?originalSubdomain=fr"
+        ]
+      },
+      "uuid": "9d8c9092-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Thomas Roccia"
+    },
+	{
+      "description": "Security Researcher at McAfee. Amsterdam, North Holland, Netherlands.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/thibault-seret-b606731aa/?originalSubdomain=nl"
+        ]
+      },
+      "uuid": "9d8c915a-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Thibault Seret"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Avast.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://decoded.avast.io/jakubkaloc/onion-crypter/"
+        ]
+      },
+      "uuid": "9d8c9218-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jakub Kaloc"
+    },
+	{
+      "description": "Online journalist affilated with the online news source Trak.in.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://trak.in/tags/business/2021/03/15/tech-mahindra-hit-by-ransomware-attack-spends-rs-5-cr-to-restore-servers-will-govt-pay/"
+        ]
+      },
+      "uuid": "9d8c92d6-8b0d-11eb-8dcd-0242ac130003",
+      "value": "OSRS OSINT Author Index: Rohit Kulkarni"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
