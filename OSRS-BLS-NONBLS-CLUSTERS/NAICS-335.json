@@ -107,6 +107,16 @@
       "value": "PEI-Genesis, Inc."
     },
 	{
+      "description": "Acer Inc. is a Taiwanese multinational hardware and electronics corporation specializing in advanced electronics technology, headquartered in Xizhi, New Taipei City.",
+      "meta": {
+        "refs": [
+          "https://www.acer.com/ac/en/US/content/home"
+        ]
+      },
+      "uuid": "7d82cd08-8b11-11eb-8dcd-0242ac130003",
+      "value": "Acer Inc."
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

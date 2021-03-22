@@ -3204,6 +3204,46 @@
 			"value": "Mobile Anesthesiologists"
 		},
 		{
+			"description": "We rethink and redesign mobility global and holistic. Always with the claim to make the mobility of tomorrow a bit better. For this, we combine German engineering with a high degree of innovation and perception for future topics. The result is exclusive mobility solutions. At 60 locations worldwide, recognised experts develop vehicles and production facilities across national and technical borders and optimise mechanical and technical processes. For the success of our customers.",
+			"meta": {
+				"refs": [
+					"https://www.edag.com/en/"
+				]
+			},
+			"uuid": "d6094a5a-8b12-11eb-8dcd-0242ac130003",
+			"value": "EDAG Engineering Group"
+		},
+		{
+			"description": "LINE Corporation is a Tokyo-based subsidiary of Softbank Group and Naver Corporation. The company's business is mainly associated with the development of mobile applications and Internet services, particularly the Line communication app.",
+			"meta": {
+				"refs": [
+					"https://linecorp.com/"
+				]
+			},
+			"uuid": "d6094c9e-8b12-11eb-8dcd-0242ac130003",
+			"value": "LINE Corporation"
+		},
+		{
+			"description": "Mimecast Limited is a Jersey-domiciled, UK-headquartered company specializing in cloud-based email management for Microsoft Exchange and Microsoft Office 365, including security, archiving, and continuity services to protect business mail. The company is listed on the NASDAQ.",
+			"meta": {
+				"refs": [
+					"https://www.mimecast.com/"
+				]
+			},
+			"uuid": "d6094d98-8b12-11eb-8dcd-0242ac130003",
+			"value": "Mimecast Limited"
+		},
+		{
+			"description": "In order to achieve its objectives, CELG GT conducts studies, prepares projections, researches, plans, builds and operates electricity generation facilities, regardless of the source used and the networks and substations linked to the generation, necessary for connection to the accessed electrical system (transmission or distribution); and transmission facilities, whether or not they belong to the Basic Network, in compliance with specific regulations regarding classification and classification as transmission. Vision To be a company of excellence in the energy generation and transmission business. Mission To act in an entrepreneurial and innovative way in the areas of generation, commercialization and transmission of energy, promoting sustainable development.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/celg-gt/about/"
+				]
+			},
+			"uuid": "d6094e6a-8b12-11eb-8dcd-0242ac130003",
+			"value": "Celg GT"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

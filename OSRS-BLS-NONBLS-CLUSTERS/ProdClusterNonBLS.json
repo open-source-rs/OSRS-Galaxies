@@ -3997,6 +3997,66 @@
 			"value": "The City of Lot-et-Garonne Fire Department"
 		},
 		{
+			"description": "Pimpri Chinchwad Municipal Corporation, Pune is the civic body that governs the neighbourhood of Pimpri Chinchwad, north western city limits of Pune, India. It was established on 11 October 1982 to govern the newly industrialized towns of Chinchwad, Akurdi, Pimpri & Bhosari.",
+			"meta": {
+				"refs": [
+					"https://www.pcmcindia.gov.in/"
+				]
+			},
+			"uuid": "fe0e6a16-8b0e-11eb-8dcd-0242ac130003",
+			"value": "Pimpri-Chinchwad Municipal Corporation (PCMC)"
+		},
+		{
+			"description": "The Ministry of Defence is the British government department responsible for implementing the defence policy set by Her Majesty's Government, and is the headquarters of the British Armed Forces. It is the UK's ministry of defence.",
+			"meta": {
+				"refs": [
+					"https://www.gov.uk/government/organisations/ministry-of-defence"
+				]
+			},
+			"uuid": "fe0e6cc8-8b0e-11eb-8dcd-0242ac130003",
+			"value": "The Ministry of Defence"
+		},
+		{
+			"description": "The West Coast District Health Board is a district health board with the focus on providing healthcare to the West Coast region of New Zealand.",
+			"meta": {
+				"refs": [
+					"https://www.wcdhb.health.nz/"
+				]
+			},
+			"uuid": "fe0e6ec6-8b0e-11eb-8dcd-0242ac130003",
+			"value": "The West Coast District Health Board"
+		},
+		{
+			"description": "The Albany County Sheriff's Department, is a full-service law enforcement agency servicing the citizens of Albany County, New York. The ACSD has a strength of over 800 employees.",
+			"meta": {
+				"refs": [
+					"https://www.albanycounty.com/government/departments/county-sheriff"
+				]
+			},
+			"uuid": "fe0e6fa2-8b0e-11eb-8dcd-0242ac130003",
+			"value": "The Albany County Sheriff's Department"
+		},
+		{
+			"description": "Leon County Schools is a school district headquartered in the LCS Admin Complex in Tallahassee, Florida, United States.",
+			"meta": {
+				"refs": [
+					"https://www.leonschools.net/"
+				]
+			},
+			"uuid": "fe0e7060-8b0e-11eb-8dcd-0242ac130003",
+			"value": "Leon County Schools"
+		},
+		{
+			"description": "The Barcelona urban area is an urban area in Catalonia centered on the city of Barcelona and located less than 100 km south of the border with France. With a population of over 5 million, it is the most populous urban area on the Mediterranean coast, and one of the largest in Europe.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Barcelona_metropolitan_area"
+				]
+			},
+			"uuid": "fe0e75a6-8b0e-11eb-8dcd-0242ac130003",
+			"value": "The Metropolitan Area of Barcelona"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
