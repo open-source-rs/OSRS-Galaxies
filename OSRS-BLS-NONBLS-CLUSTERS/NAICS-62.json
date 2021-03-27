@@ -1680,6 +1680,36 @@
 			"value": "Lumino The Dentists"
 		},
 		{
+			"description": "Eastern Health is one of Melbourne's largest metropolitan public health services.  We provide a range of emergency, surgical, medical and general healthcare services, including maternity, palliative care, mental health, drug and alcohol, residential care, community health and statewide specialist services to people and communities that are diverse in culture, age, socio-economic status, population and healthcare needs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/easternhealthau/about/"
+				]
+			},
+			"uuid": "63b6edca-8f33-11eb-8dcd-0242ac130003",
+			"value": "Eastern Health, AU"
+		},
+		{
+			"description": "When you start or continue your treatment at Mendelson Kornblum Physical Therapy, you are already a step ahead to achieving your rehabilitation goals. Our licensed physical therapists work hand-in-hand with the physicians, and have extensive experience in the field of orthopedics.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/mendelson-kornblum-physical-therapy/about/"
+				]
+			},
+			"uuid": "63b6f158-8f33-11eb-8dcd-0242ac130003",
+			"value": "Mendelson Kornblum Rehabilitation"
+		},
+		{
+			"description": "Headquartered in Nashville, Tennessee, the hospitals under the Haven Behavioral Healthcare banner provide inpatient psychiatric stabilization and treatment to adults experiencing acute symptoms of depression, anxiety, psychosis or other severe behavioral problems in locations across the country.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/haven-behavioral-healthcare/about/"
+				]
+			},
+			"uuid": "63b6f25c-8f33-11eb-8dcd-0242ac130003",
+			"value": "Haven Behavioral Healthcare"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -3244,6 +3244,46 @@
 			"value": "Celg GT"
 		},
 		{
+			"description": "Edsembli empowers school boards and individual schools to rethink existing processes, reallocate resources to the classroom, and reimagine the student learning experience.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/edsembli/about/"
+				]
+			},
+			"uuid": "835d506c-8f36-11eb-8dcd-0242ac130003",
+			"value": "edsembli Inc."
+		},
+		{
+			"description": "DeCotiis, FitzPatrick, Cole & Giblin, LLP, is a 60-plus-lawyer, full-service firm headquartered in Teaneck, New Jersey. We are a group of exceptionally skilled, experienced attorneys, who practice in a wide variety of specialties. A partial list of our practice areas includes real estate, labor law, public procurement, litigation, environmental law, public finance, tax, municipal law, government and regulatory affairs, health care law, corporate law, banking, and bankruptcy.",
+			"meta": {
+				"refs": [
+					"https://www.decotiislaw.com/about/"
+				]
+			},
+			"uuid": "835d52ec-8f36-11eb-8dcd-0242ac130003",
+			"value": "DeCotiis, FitzPatrick, Cole & Giblin, LLP"
+		},
+		{
+			"description": "Elector Software is a technology company that developed a voting system for Election Campaigns.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/elector-software"
+				]
+			},
+			"uuid": "9708beee-8f36-11eb-8dcd-0242ac130003",
+			"value": "Elector Software"
+		},
+		{
+			"description": "Telsolutions On-Demand, integrated Multi-Channel communications and Cloud based Contact Centre solutions, enable clients to achieve superior business results.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/telsolutions-ltd/about/"
+				]
+			},
+			"uuid": "835d55c6-8f36-11eb-8dcd-0242ac130003",
+			"value": "Telsolutions Ltd"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

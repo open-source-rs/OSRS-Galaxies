@@ -4067,6 +4067,96 @@
 			"value": "Troy School District"
 		},
 		{
+			"description": "Administrative council, the City of Birmingham, UK.",
+			"meta": {
+				"refs": [
+					"https://www.birmingham.gov.uk/"
+				]
+			},
+			"uuid": "caefca84-8f2e-11eb-8dcd-0242ac130003",
+			"value": "Birmingham City Council, UK"
+		},
+		{
+			"description": "Georgetown County is a county located in the U.S. state of South Carolina. As of the 2010 census, the population was 60,158. Its county seat is Georgetown. The county was founded in 1769. It is named for George III of the United Kingdom.",
+			"meta": {
+				"refs": [
+					"http://www.georgetowncountysc.org/"
+				]
+			},
+			"uuid": "caefccc8-8f2e-11eb-8dcd-0242ac130003",
+			"value": "Georgetown County, SC"
+		},
+		{
+			"description": "The Department of Education, under the direction of the Minister of Education, is responsible for programs and services that support the following: early childhood education, the K-12 school system, adult learning, and literacy.",
+			"meta": {
+				"refs": [
+					"https://www.gov.nu.ca/education/information/about-us"
+				]
+			},
+			"uuid": "caefcdcc-8f2e-11eb-8dcd-0242ac130003",
+			"value": "Government of Nunavut Department of Education"
+		},
+		{
+			"description": "The Park Hill School District encompasses most of southern Platte County, Missouri, in the Northland region of the Kansas City Metropolitan Area.",
+			"meta": {
+				"refs": [
+					"https://www.parkhill.k12.mo.us/"
+				]
+			},
+			"uuid": "5c26db8c-8f2f-11eb-8dcd-0242ac130003",
+			"value": "Park Hill School District"
+		},
+		{
+			"description": "The Polk County School District, Forida.",
+			"meta": {
+				"refs": [
+					"https://polkschoolsfl.com/"
+				]
+			},
+			"uuid": "5c26de2a-8f2f-11eb-8dcd-0242ac130003",
+			"value": "The Polk County School District"
+		},
+		{
+			"description": "The Inland Revenue or Inland Revenue Department is the public service department of New Zealand charged with advising the government on tax policy, collecting and disbursing payments for social support programmes, and collecting tax.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Inland_Revenue_Department_(New_Zealand)"
+				]
+			},
+			"uuid": "5c26e0a0-8f2f-11eb-8dcd-0242ac130003",
+			"value": "Inland Revenue Department"
+		},
+		{
+			"description": "Transport for NSW, sometimes abbreviated to TfNSW, and pronounced as Transport for New South Wales, is an agency of the New South Wales Government established on 1 November 2011, and is the leading transport and roads agency in New South Wales, Australia.",
+			"meta": {
+				"refs": [
+					"https://transportnsw.info/"
+				]
+			},
+			"uuid": "66ae6c6e-8f2f-11eb-8dcd-0242ac130003",
+			"value": "Transport for NSW"
+		},
+		{
+			"description": "The State Controller of California is the chief financial officer of the U.S. state of California. The post has broader responsibilities and authority than the California State Treasurer. Responsibilities include investigative authority for every dollar spent by the state, and being an ex-officio member of the state's Board of Equalization.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/California_State_Controller"
+				]
+			},
+			"uuid": "66ae7362-8f2f-11eb-8dcd-0242ac130003",
+			"value": "California State Controller’s Office (SCO)"
+		},
+		{
+			"description": "Frankfort is the capital city of the Commonwealth of Kentucky and the seat of Franklin County. It is a home rule-class city in Kentucky; the population was 25,527 at the 2010 census.",
+			"meta": {
+				"refs": [
+					"https://frankfort.ky.gov/"
+				]
+			},
+			"uuid": "66ae7498-8f2f-11eb-8dcd-0242ac130003",
+			"value": "The City of Frankfort, KY"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

@@ -1018,6 +1018,66 @@
 			"value": "Castle School Education Trust"
 		},
 		{
+			"description": "Kentucky Wesleyan College is a private Methodist college in Owensboro, Kentucky. The college is known for its liberal arts programs. Fall 2018 enrollment was 830 students.",
+			"meta": {
+				"refs": [
+					"https://kwc.edu/"
+				]
+			},
+			"uuid": "3f0e476c-8f32-11eb-8dcd-0242ac130003",
+			"value": "Kentucky Wesleyan College"
+		},
+		{
+			"description": "The Maricopa County Community College District, also known as Maricopa Community Colleges, is a community college district in Arizona with its headquarters in Tempe. It is one of the largest, serving more than 220,000 students each year in Maricopa County, Arizona.",
+			"meta": {
+				"refs": [
+					"https://www.maricopa.edu/"
+				]
+			},
+			"uuid": "3f0e4a0a-8f32-11eb-8dcd-0242ac130003",
+			"value": "The Maricopa County Community College District"
+		},
+		{
+			"description": "CMAT exists to provide, support, and champion high-quality education at the heart of local communities.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/cambridge-meridian-academies-trust/about/"
+				]
+			},
+			"uuid": "3f0e4b7c-8f32-11eb-8dcd-0242ac130003",
+			"value": "Cambridge Meridian Academies Trust"
+		},
+		{
+			"description": "The University of Miami is a private research university in Coral Gables, Florida. As of 2020, the university enrolled approximately 18,000 students in 12 separate colleges and schools.",
+			"meta": {
+				"refs": [
+					"https://welcome.miami.edu/"
+				]
+			},
+			"uuid": "4e52d904-8f32-11eb-8dcd-0242ac130003",
+			"value": "The University of Miami"
+		},
+		{
+			"description": "The University of Colorado Boulder, colloquially referred to as CU or Colorado, is a public research university in Boulder, Colorado. It is the flagship university of the University of Colorado system, and was founded in 1876, five months before Colorado became a state.",
+			"meta": {
+				"refs": [
+					"https://www.colorado.edu/"
+				]
+			},
+			"uuid": "4e52db20-8f32-11eb-8dcd-0242ac130003",
+			"value": "The University of Colorado Boulder"
+		},
+		{
+			"description": "Mott Community College is a public community college in Flint, Michigan. It is named for politician, businessman, and philanthropist Charles Stewart Mott. Its district is the same as the Genesee Intermediate School District and is governed by an elected board of trustees.",
+			"meta": {
+				"refs": [
+					"https://www.mcc.edu/"
+				]
+			},
+			"uuid": "4e52dc1a-8f32-11eb-8dcd-0242ac130003",
+			"value": "Mott Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

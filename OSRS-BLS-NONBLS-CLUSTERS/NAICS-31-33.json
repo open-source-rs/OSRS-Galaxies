@@ -297,6 +297,26 @@
       "value": "The North Face"
     },
 	{
+      "description": "Stratus Technologies, Inc. is a major producer of fault tolerant computer servers and software. The company was founded in 1980 as Stratus Computer, Inc. in Natick, Massachusetts, and adopted its present name in 1999. The current CEO and president is Dave Laurello.",
+      "meta": {
+        "refs": [
+          "https://www.stratus.com/"
+        ]
+      },
+      "uuid": "c70ec4c2-8f35-11eb-8dcd-0242ac130003",
+      "value": "Stratus Technologies, Inc."
+    },
+	{
+      "description": "Sierra Wireless is a Canadian multinational wireless communications equipment designer and manufacturer headquartered in Richmond, British Columbia, Canada. It also maintains offices and operations in California, Georgia, Brazil, Germany, Sweden, Korea, Japan, China, Taiwan, France, Guangdong and Hong Kong.",
+      "meta": {
+        "refs": [
+          "https://www.sierrawireless.com/"
+        ]
+      },
+      "uuid": "c70ec72e-8f35-11eb-8dcd-0242ac130003",
+      "value": "Sierra Wireless"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
