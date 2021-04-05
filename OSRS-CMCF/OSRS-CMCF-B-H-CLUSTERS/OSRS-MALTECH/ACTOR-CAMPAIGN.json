@@ -2767,6 +2767,52 @@
       "value": "OSRS Actors AND Campaigns: Operation Dianxun"
     },
 	{
+      "description": "In late 2020, TA453, an Iranian-nexus threat actor, launched a credential phishing campaign targeting senior medical professionals who specialize in genetic, neurology, and oncology research in the United States and Israel. TA453 (aka CHARMING KITTEN and PHOSPHORUS) has historically aligned with Islamic Revolutionary Guard Corps (IRGC) collection priorities, targeting dissidents, academics, diplomats, and journalists. This latest campaign, dubbed BadBlood, is a deviation from the group’s usual activity. While this campaign may represent a shift in TA453 targeting overall, it is also possible it may be the result of a specific short term intelligence collection requirement. BadBlood is aligned with an escalating trend of medical research being increasingly targeted by threat actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential"
+        ],
+        "synonyms": [
+        "Charming Kitten",
+		"PHOSPHORUS"
+        ]
+      },
+      "uuid": "5994af7e-9624-11eb-a8b3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: TA453"
+    },
+	{
+      "description": "In late 2020, TA453, an Iranian-nexus threat actor, launched a credential phishing campaign targeting senior medical professionals who specialize in genetic, neurology, and oncology research in the United States and Israel. TA453 (aka CHARMING KITTEN and PHOSPHORUS) has historically aligned with Islamic Revolutionary Guard Corps (IRGC) collection priorities, targeting dissidents, academics, diplomats, and journalists. This latest campaign, dubbed BadBlood, is a deviation from the group’s usual activity. While this campaign may represent a shift in TA453 targeting overall, it is also possible it may be the result of a specific short term intelligence collection requirement. BadBlood is aligned with an escalating trend of medical research being increasingly targeted by threat actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential"
+        ]
+      },
+      "uuid": "e0905870-9624-11eb-a8b3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation BadBlood"
+    },
+	{
+      "description": "Hancitor is an information stealer and malware downloader used by a threat actor designated as MAN1, Moskalvzapoe or TA511. In a threat brief from 2018, researchers noted Hancitor was relatively unsophisticated, but it would remain a threat for years to come. Approximately three years later, Hancitor remains a threat and has evolved to use tools like Cobalt Strike. In recent months, this actor began using a network ping tool to help enumerate the Active Directory (AD) environment of infected hosts. This blog illustrates how the threat actor behind Hancitor uses the network ping tool, so security professionals can better identify and block its use. As early as October 2020, Hancitor began utilizing Cobalt Strike and some of these infections utilized a network ping tool to enumerate the infected host’s internal network. Normal ping activity is low to nonexistent within a Local Area Network (LAN), but this ping tool generates approximately 1.5 GB of Internet Control Message Protocol (ICMP) traffic as it pings more than 17 million IP addresses of internal, non-routable IPv4 address space.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/"
+        ],
+        "synonyms": [
+        "TA511"
+        ]
+      },
+      "uuid": "e0905b22-9624-11eb-a8b3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: MAN1"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

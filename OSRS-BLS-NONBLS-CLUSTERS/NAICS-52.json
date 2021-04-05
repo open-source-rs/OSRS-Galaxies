@@ -820,6 +820,16 @@
 			"value": "CNA Financial"
 		},
 		{
+			"description": "MobiKwik is an Indian company founded in 2009 that provides a mobile phone based payment system and digital wallet. Customers add money to an online wallet that can be used for payments.",
+			"meta": {
+				"refs": [
+					"https://www.mobikwik.com/"
+				]
+			},
+			"uuid": "d9beb50c-962c-11eb-a8b3-0242ac130003",
+			"value": "MobiKwik"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -8965,6 +8965,58 @@
       "value": "OSRS OSINT Author Index: Lucas Hu"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Zimperium.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.zimperium.com/new-advanced-android-malware-posing-as-system-update/"
+        ]
+      },
+      "uuid": "abf965ec-962a-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Aazim Yaswant"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Facebook.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://about.fb.com/news/2021/03/taking-action-against-hackers-in-china/"
+        ]
+      },
+      "uuid": "abf96876-962a-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Mike Dvilyanski"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Facebook.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://about.fb.com/news/2021/03/taking-action-against-hackers-in-china/"
+        ]
+      },
+      "uuid": "abf9695c-962a-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Nathaniel Gleicher"
+    },
+	{
+      "description": "Staff Writer at Gizmodo Media. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/lucas-ropek-02176b51/"
+        ]
+      },
+      "uuid": "abf96a24-962a-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Lucas Ropek"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

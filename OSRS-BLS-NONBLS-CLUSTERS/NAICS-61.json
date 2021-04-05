@@ -1078,6 +1078,26 @@
 			"value": "Mott Community College"
 		},
 		{
+			"description": "Redborne Upper School & Community College is an academy school and sixth-form located in Ampthill, Bedfordshire, England. The school serves the population of Ampthill, Flitwick and surrounding villages. Redborne is a designated Training school.",
+			"meta": {
+				"refs": [
+					"https://www.redbornecommunitycollege.com/"
+				]
+			},
+			"uuid": "d9beb0c0-962c-11eb-a8b3-0242ac130003",
+			"value": "Redborne Upper School & Community College"
+		},
+		{
+			"description": "Harris Federation is a multi-academy trust of 48 primary and secondary academies in and around London. They are sponsored by Philip Harris, educating 36,000 students.",
+			"meta": {
+				"refs": [
+					"https://www.harrisfederation.org.uk/"
+				]
+			},
+			"uuid": "d9beb3ea-962c-11eb-a8b3-0242ac130003",
+			"value": "Harris Federation"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

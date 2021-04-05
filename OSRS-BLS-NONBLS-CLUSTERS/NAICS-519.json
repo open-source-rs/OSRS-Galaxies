@@ -286,6 +286,26 @@
 			"value": "The Midlands News Association"
 		},
 		{
+			"description": "Data collection company.",
+			"meta": {
+				"refs": [
+					"https://www.zoominfo.com/c/the-rdc/425818941"
+				]
+			},
+			"uuid": "821d3a08-9631-11eb-a8b3-0242ac130003",
+			"value": "The RDC"
+		},
+		{
+			"description": "The Nine Network (commonly known as Channel Nine or simply Nine) is a major Australian commercial free-to-air television network. The network's headquarters are located in Sydney and it is one of five main free-to-air networks in Australia. It is owned by Nine Entertainment Co.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Nine_Network"
+				]
+			},
+			"uuid": "821d3d14-9631-11eb-a8b3-0242ac130003",
+			"value": "The Nine Network"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

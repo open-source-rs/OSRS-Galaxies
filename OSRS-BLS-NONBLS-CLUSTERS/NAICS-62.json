@@ -1710,6 +1710,46 @@
 			"value": "Haven Behavioral Healthcare"
 		},
 		{
+			"description": "SalusCare is a Fort Myers, Florida based not-for-profit mental health and substance abuse service provider incorporated in 2013 after the merger of Lee Mental Health Center and Southwest Florida Addiction Services (SWFAS). SalusCare has seven locations to serve you throughout Southwest Florida. Our fees are affordable and may be adjusted to the means of our patients based on household income. SalusCare accepts Medicaid, Medicare, Visa, MasterCard and some major health insurance providers. Please call us beforehand to verify that your insurance is accepted. SalusCare provides services for all regardless of disability or handicap. Accommodations will be provided upon request. All substance abuse programs and most mental health services are accredited by CARF International, an independent, nonprofit accreditor of health and human services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/saluscare-inc/about/"
+				]
+			},
+			"uuid": "10706d82-962f-11eb-a8b3-0242ac130003",
+			"value": "SalusCare, Inc."
+		},
+		{
+			"description": "As part of Wake Forest Baptist Health, Lexington Medical Center has the resources of a nationally recognized academic medical center at its doorstep, enabling the facility to offer world-class health care here, close to home. Lexington Medical Center is a not-for-profit facility licensed with 94 acute care beds. The medical center's specialty services include orthopaedic surgery, general surgery, ENT, head and neck surgery and cancer care. Our outpatient expertise includes digestive health services, a state-of-the-art rehabilitation department, a diagnostic imaging center and wound care center.",
+			"meta": {
+				"refs": [
+					"https://www.wakehealth.edu/Locations/Hospitals/Lexington-Medical-Center"
+				]
+			},
+			"uuid": "10706fee-962f-11eb-a8b3-0242ac130003",
+			"value": "Wake Forest Baptist Health - Lexington Medical Center"
+		},
+		{
+			"description": "The Canterbury District Health board is transforming the delivery of health care services and is being recognised in New Zealand and overseas for our extraordinary journey.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/canterbury-district-health-board/about/"
+				]
+			},
+			"uuid": "107072f0-962f-11eb-a8b3-0242ac130003",
+			"value": "Canterbury District Health Board"
+		},
+		{
+			"description": "PERSONAL-TOUCH HOME CARE, began operations in 1974 and since then has grown into a national company. Each office is licensed by the State in which it operates and most of the offices are certified as home health agencies offering Medicare services. We provide skilled nursing, physical, occupational and speech therapy, medical social work and home health aides and companions. In addition to these traditional home health services, Personal-Touch has developed specialty programs, including mental health, pediatrics, maternal/child, hospice, rehabilitation, early intervention and early childhood education, dialysis, infusion and others.",
+			"meta": {
+				"refs": [
+					"https://www.pthomecare.com/about"
+				]
+			},
+			"uuid": "107073cc-962f-11eb-a8b3-0242ac130003",
+			"value": "Personal Touch Holding Corp."
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

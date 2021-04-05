@@ -517,6 +517,26 @@
 			"value": "The Sewell Family of Companies, Inc."
 		},
 		{
+			"description": "Guns.com started in 2011 with a goal of creating a website where gun enthusiasts could come for news, product reviews, and the latest information on the issues that impact gun owners. Guns.com rapidly grew into the most trusted source of information about guns online. Over the years, we have published thousands of articles and reviews, keeping gun owners in the know about the issues they care about. Now, in addition to being your most trusted source for news, we have evolved into an online marketplace that celebrates gun ownership.",
+			"meta": {
+				"refs": [
+					"https://www.guns.com/about-us"
+				]
+			},
+			"uuid": "4a71032c-9632-11eb-a8b3-0242ac130003",
+			"value": "Guns.com"
+		},
+		{
+			"description": "Online furniture retailer located in Singapore.",
+			"meta": {
+				"refs": [
+					"http://www.vhive.com.sg/"
+				]
+			},
+			"uuid": "4a710598-9632-11eb-a8b3-0242ac130003",
+			"value": "Vhive Singapore"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

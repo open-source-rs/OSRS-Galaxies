@@ -317,6 +317,36 @@
       "value": "Sierra Wireless"
     },
 	{
+      "description": "The PDI Group consists of manufacturing company PDI Ground Support Systems and logistics management and distribution company PDI Global.  The Group is a provider of high quality munitions trailers, running gear, weapons containers and modules, weapons adapters, munitions assembly conveyor systems, tow bars, specialized electronic equipment for smart weapons, steerable axle systems, and other ground support equipment used primarily by the United States Air Force, Navy, Army and over 40 allied air forces worldwide.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/the-pdi-group/about/"
+        ]
+      },
+      "uuid": "25ee425a-9630-11eb-a8b3-0242ac130003",
+      "value": "The PDI Group"
+    },
+	{
+      "description": "MND Group development, planning and the security of ski areas, recreational sites, access roads and other mountain infrastructure.",
+      "meta": {
+        "refs": [
+          "https://www.crunchbase.com/organization/mnd-group"
+        ]
+      },
+      "uuid": "25ee4660-9630-11eb-a8b3-0242ac130003",
+      "value": "MND Group"
+    },
+	{
+      "description": "Yposkesi is one of the largest Contract Development & Manufacturing Organizations (CDMO) in Europe for gene therapy viral vector manufacturing. A spin-off from the world-class gene therapy pioneer Genethon, Yposkesi capitalizes on more than 20 years’ expertise in biotherapeutic research.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/yposkesi/about/"
+        ]
+      },
+      "uuid": "25ee47a0-9630-11eb-a8b3-0242ac130003",
+      "value": "Yposkesi"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

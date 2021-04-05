@@ -207,6 +207,16 @@
       "value": "Mithaas Sweets & Restaurant Pvt Ltd"
     },
 	{
+      "description": "Yemeksepeti is an online food delivery company. Yemeksepeti currently operates in 70 cities in Turkey and in Cyprus, with more than 35,000 member restaurants, 18 million users, and 520,000 daily orders.",
+      "meta": {
+        "refs": [
+          "https://www.yemeksepeti.com/en"
+        ]
+      },
+      "uuid": "d9beb7f0-962c-11eb-a8b3-0242ac130003",
+      "value": "Yemeksepeti"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [

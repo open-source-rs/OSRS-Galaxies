@@ -178,6 +178,16 @@
       "value": "Tech Mahindra"
     },
 	{
+      "description": "Backblaze, Inc. is a cloud storage and data backup company, founded in 2007 by Gleb Budman, Billy Ng, Nilay Patel, Brian Wilson, Tim Nufire, Damon Uyeda, and Casey Jones. Its two main products are their B2 Cloud Storage and Computer Backup services, targeted at both business and personal markets.",
+      "meta": {
+        "refs": [
+          "https://www.backblaze.com/"
+        ]
+      },
+      "uuid": "948e35b6-962c-11eb-a8b3-0242ac130003",
+      "value": "Backblaze, Inc."
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

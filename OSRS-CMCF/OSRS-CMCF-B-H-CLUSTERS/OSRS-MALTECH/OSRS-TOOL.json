@@ -6601,6 +6601,45 @@
       "value": "OSRS Tool: OnionCrypter"
     },
 	{
+      "description": "The main purpose of P8RAT is downloading and executing payloads (consisting of PE and shellcode) from its C2 server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/"
+        ]
+      },
+      "uuid": "dae3abb4-9626-11eb-a8b3-0242ac130003",
+      "value": "OSRS Tool: P8RAT"
+    },
+	{
+      "description": "RAT and file downloader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/"
+        ]
+      },
+      "uuid": "dae3ae34-9626-11eb-a8b3-0242ac130003",
+      "value": "OSRS Tool: LilimRAT"
+    },
+	{
+      "description": "RAT and file downloader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/"
+        ]
+      },
+      "uuid": "dae3af24-9626-11eb-a8b3-0242ac130003",
+      "value": "OSRS Tool: Lodeinfo"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

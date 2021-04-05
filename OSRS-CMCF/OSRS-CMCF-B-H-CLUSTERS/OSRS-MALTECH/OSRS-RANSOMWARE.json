@@ -1299,6 +1299,58 @@
       "value": "OSRS Ransomware: DearCry Ransomware"
     },
 	{
+      "description": "Matrix is a ransomware family that was first identified publicly in December 2016. Over the years since its inception, it has primarily targeted small- to medium-sized organizations. As of 2019, it had been observed across geographic locations such as the U.S., Belgium, Taiwan, Singapore, Germany, Brazil, Chile, South Africa, Canada and the UK. While initially leveraging tactics such as spam email campaigns, propagation via Windows shortcuts and the RIG exploit kit for distribution, the primary attack vector for the Matrix ransomware family shifted in 2018 to brute forcing researchersak Remote Desktop Protocol (RDP) credentials. The shift to this attack methodology appears to be a recurring trend in similar targeted ransomware families such as Dharma, Ryuk and BitPaymer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/matrix-ransomware/"
+        ]
+      },
+      "uuid": "537ca5c8-9625-11eb-a8b3-0242ac130003",
+      "value": "OSRS Ransomware: Matrix Ransomware"
+    },
+	{
+      "description": "An unknown financially motivated threat group is using the self-proclaimed Hades ransomware variant in cybercrime operations that have impacted at least three victims since December 2020. Known victims include a large US transportation & logistics organization, a large US consumer products organization, and a global manufacturing organization. Tactics, Techniques and Procedures (TTP) employed to compromise a victim network, escalate privileges, move laterally, evade defenses, exfiltrate data and deploy Hades ransomware are relatively consistent with other researchersll-known ransomware operators, using a combination of commodity tooling and various living-off-the-land techniques. Of note, researchers observed significant effort by the threat group to disable or bypass endpoint defenses, including Endpoint Detection and Response (EDR) tooling, using both custom tooling and hands on keys approaches. researchers assess with moderate confidence that the group's operations have just begun, and that Hades activity will likely continue to proliferate into the foreseeable future, impacting additional victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.accenture.com/us-en/blogs/cyber-defense/unknown-threat-group-using-hades-ransomware"
+        ]
+      },
+      "uuid": "537ca938-9625-11eb-a8b3-0242ac130003",
+      "value": "OSRS Ransomware: Hades Ransomware"
+    },
+	{
+      "description": "DoejoCrypt was the first ransomware to appear to take advantage of the vulnerabilities, starting to encrypt in limited numbers shortly after the patches were released. Ransomware attackers often use multiple tools and exploits to gain initial access, including purchasing access through a broker or reseller who sells access to systems they have already compromised. The DoejoCrypt attacks start with a variant of the Chopper web shell being deployed to the Exchange server post-exploitation. The web shell writes a batch file. Found on all systems that received the DoejoCrypt ransomware payload, this batch file performs a backup of the Security Account Manager (SAM) database and the System and Security registry hives, allowing the attackers later access to passwords of local users on the system and, more critically, in the LSA Secrets portion of the registry, where passwords for services and scheduled tasks are stored.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/03/25/analyzing-attacks-taking-advantage-of-the-exchange-server-vulnerabilities/"
+        ]
+      },
+      "uuid": "537caabe-9625-11eb-a8b3-0242ac130003",
+      "value": "OSRS Ransomware: DoejoCrypt Ransomware"
+    },
+	{
+      "description": "While DoejoCrypt was a new ransomware payload, the access gained by attackers via the on-premises Exchange Server vulnerabilities will likely become part of the complex cybercriminal economy where additional ransomware operators and affiliates take advantage of it. The first existing ransomware family to capitalize on the vulnerabilities was Pydomer. This ransomware family was previously seen using vulnerabilities in attacks, notably taking advantage of Pulse Secure VPN vulnerabilities, for which Pulse Secure has released security patches, to steal credentials and perform ransomware attacks. In this campaign, the operators scanned and mass-compromised unpatched Exchange Servers to drop a web shell. They started later than some other attackers, with many compromises occurring between March 18 and March 20, a window when fewer unpatched systems were available. They then dropped a web shell, with a notable file name format.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/03/25/analyzing-attacks-taking-advantage-of-the-exchange-server-vulnerabilities/"
+        ]
+      },
+      "uuid": "537cac58-9625-11eb-a8b3-0242ac130003",
+      "value": "OSRS Ransomware: Pydomer Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

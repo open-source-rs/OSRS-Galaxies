@@ -3284,6 +3284,26 @@
 			"value": "Telsolutions Ltd"
 		},
 		{
+			"description": "Jefit is an award winning social workout tracking platform that keeps gym goers stay motivated by tracking and analyzing their fitness goals. Jefit has been downloaded over 8 million times in over 50 countries across the iOS and Android apps and grown to be one of the top health and fitness apps in the app store.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/jefit-inc-/about/"
+				]
+			},
+			"uuid": "e02cfbc4-9631-11eb-a8b3-0242ac130003",
+			"value": "Jefit Inc."
+		},
+		{
+			"description": "Computer Information Concepts, Inc. is a growing software and professional services firm based in Northern Colorado.  CIC has 35 years of experience servicing and supporting 500 K-12 Education, City and County Government customers from coast to coast.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/computer-information-concepts-inc-/about/"
+				]
+			},
+			"uuid": "e02cfdfe-9631-11eb-a8b3-0242ac130003",
+			"value": "Computer Information Concepts, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

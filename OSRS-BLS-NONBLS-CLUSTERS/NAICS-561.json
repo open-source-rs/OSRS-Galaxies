@@ -257,6 +257,16 @@
 			"value": "Security Industry Specialists, Inc."
 		},
 		{
+			"description": "Healthgrades is dedicated to empowering stronger and more meaningful connections between patients and their healthcare providers. At www.healthgrades.com, we help 30 million consumers a month to find and schedule appointments with their provider of choice. With our scheduling solutions and advanced analytics applications, we help more than 1,500 hospitals across the country to cultivate new patient relationships, improve patient access, and build customer loyalty. At Healthgrades, better health gets a head start.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/healthgrades/about/"
+				]
+			},
+			"uuid": "948e37dc-962c-11eb-a8b3-0242ac130003",
+			"value": "Healthgrades Operating Company, Inc."
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [
