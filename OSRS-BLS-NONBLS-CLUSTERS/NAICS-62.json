@@ -1750,6 +1750,16 @@
 			"value": "Personal Touch Holding Corp."
 		},
 		{
+			"description": "Allina Health Apple Valley, Apple Valley, MN.",
+			"meta": {
+				"refs": [
+					"https://www.applevalleymedicalcenter.com/?utm_source=gmb_auth"
+				]
+			},
+			"uuid": "f50256b8-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Apple Valley Clinic"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

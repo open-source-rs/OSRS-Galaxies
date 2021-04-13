@@ -267,6 +267,16 @@
       "value": "Solairus Aviation"
     },
 	{
+      "description": "Ecu Worldwide (Belgium) is located in Antwerpen, Belgium and is part of the Transportation Services Sector Industry. Ecu Worldwide (Belgium) has 103 employees.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.ecu_worldwide_(belgium).56cf38c89659ea2db17e554351bad02d.html"
+        ]
+      },
+      "uuid": "079678ca-9c6d-11eb-a8b3-0242ac130003",
+      "value": "Ecu Worldwide (Belgium)"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

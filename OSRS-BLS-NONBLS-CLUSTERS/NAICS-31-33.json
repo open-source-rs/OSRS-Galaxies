@@ -347,6 +347,16 @@
       "value": "Yposkesi"
     },
 	{
+      "description": "Ubiquiti Inc. is an American technology company founded in San Jose, California, in 2005. Now based in New York City, Ubiquiti manufactures and sells wireless data communication and wired products for enterprises and homes under multiple brand names.",
+      "meta": {
+        "refs": [
+          "https://www.ui.com/"
+        ]
+      },
+      "uuid": "f5025834-9c6a-11eb-a8b3-0242ac130003",
+      "value": "Ubiquiti Inc."
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

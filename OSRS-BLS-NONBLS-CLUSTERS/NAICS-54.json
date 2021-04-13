@@ -3304,6 +3304,46 @@
 			"value": "Computer Information Concepts, Inc."
 		},
 		{
+			"description": "Pierre Jacques Louis Fabre was a French pharmaceutical and cosmetics executive and pharmacist, who founded Laboratoires Pierre Fabre in 1962. Fabre, a rugby enthusiast, was also the owner of Castres Olympique, a French rugby union club based in the city of Castres.",
+			"meta": {
+				"refs": [
+					"https://www.pierre-fabre.com/en"
+				]
+			},
+			"uuid": "2d3af606-9c6c-11eb-a8b3-0242ac130003",
+			"value": "Pierre Fabre"
+		},
+		{
+			"description": "We service no other markets, period. Our students, parents, and district staff, get our full attention. Our product offering includes prepayments on the web, free and reduced application processing, meal accountability, claims reporting, menu nutrition analysis, food purchases and inventory control, custom forms and workflows, plus services including project management, training, webinars, continuing maintenance, upgrades, and support.",
+			"meta": {
+				"refs": [
+					"https://pcsrcs.com/about-us/"
+				]
+			},
+			"uuid": "2d3afbb0-9c6c-11eb-a8b3-0242ac130003",
+			"value": "PCS Revenue Control Systems"
+		},
+		{
+			"description": "Since 1939, Boggi Milano plans and designs contemporary men’s fashion with a unique style. References from the past and visions of the future generate the elegance of the present.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/boggi-milano/about/"
+				]
+			},
+			"uuid": "2d3afcdc-9c6c-11eb-a8b3-0242ac130003",
+			"value": "Boggi Milano"
+		},
+		{
+			"description": "Applus Technologies is a leader in developing, implementing and managing innovative technology and system solutions that enable customers worldwide to address their business and environmental challenges. Our experienced teams deliver customized and flexible solutions in the areas of Information Management, Decision Support Services and Business Process Management, designed to support our clients’ strategic, financial, operational, regulatory and compliance decisions. Applus expanded capabilities include program management, vehicle diagnostics, environmental testing, design and development of database solutions and portal and mobile applications development. Applus is a leading provider of air quality emissions testing solutions to governmental and commercial customers. In the U.S. alone, Applus manages over 6.5 million vehicle tests annually, oversees more than 1,800 inspection stations and has trained over 14,000 inspectors.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/applus-technologies/"
+				]
+			},
+			"uuid": "2d3afdb8-9c6c-11eb-a8b3-0242ac130003",
+			"value": "Applus Technologies"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -9017,6 +9017,32 @@
       "value": "OSRS OSINT Author Index: Lucas Ropek"
     },
 	{
+      "description": "Senior Vice President at Info Security Buzz online magazine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://informationsecuritybuzz.com/expert-profile/?expert_id=678"
+        ]
+      },
+      "uuid": "6369a0cc-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Mark Bower"
+    },
+	{
+      "description": "Bicycle Retailer and Industry News Online generic moniker.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bicycleretailer.com/"
+        ]
+      },
+      "uuid": "6369a536-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Bicycle Retailer and Industry News Online"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

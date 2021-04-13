@@ -6640,6 +6640,32 @@
       "value": "OSRS Tool: Lodeinfo"
     },
 	{
+      "description": "Snake Keylogger is an information leak malware created in .NET.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/21914/"
+        ]
+      },
+      "uuid": "036872ac-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS Tool: Snake Keylogger"
+    },
+	{
+      "description": "This new threat, which we’ve named Janeleiro, attempts to deceive its victims with pop-up windows designed to look like the websites of some of the biggest banks in Brazil. These pop-ups contain fake forms, aiming to trick the malware’s victims into entering their banking credentials and personal information that the malware captures and exfiltrates to its C&C servers. Janeleiro follows exactly the same blueprint for the core implementation of this technique as some of the most prominent malware families targeting the region: Casbaneiro, Grandoreiro, Mekotio, Amavaldo, and Vadokrist, among others.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/04/06/janeleiro-time-traveler-new-old-banking-trojan-brazil/"
+        ]
+      },
+      "uuid": "03687522-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS Tool: Janeleiro Banking Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

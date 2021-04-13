@@ -306,6 +306,16 @@
 			"value": "The Nine Network"
 		},
 		{
+			"description": "Allied Press is a New Zealand publishing company based in Dunedin. The company's main asset is the Otago Daily Times, New Zealand's oldest daily newspaper. Allied Press has a number of other daily and community newspapers and commercial printing operations throughout southern New Zealand.",
+			"meta": {
+				"refs": [
+					"http://www.alliedpress.co.nz/"
+				]
+			},
+			"uuid": "2d3aca0a-9c6c-11eb-a8b3-0242ac130003",
+			"value": "Allied Press"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

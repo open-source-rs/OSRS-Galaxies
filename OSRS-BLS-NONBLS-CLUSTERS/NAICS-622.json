@@ -858,6 +858,16 @@
 			"value": "Heart of Texas Community Health Center"
 		},
 		{
+			"description": "The Evangelical Hospital Lippstadt belongs to Valeo Kliniken GmbH and with 328 beds and almost 17,000 inpatients is one of the largest acute care hospitals in the Soest district. Almost 800 qualified and committed employees take care of individual patient care. With this team and the most modern diagnostic and therapeutic measures, we offer the best possible medical treatment.",
+			"meta": {
+				"refs": [
+					"https://ev-krankenhaus.de/ueber-uns.html"
+				]
+			},
+			"uuid": "f5025776-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Evangelical Hospital Lippstadt (EVK)"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

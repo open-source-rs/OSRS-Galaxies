@@ -3529,6 +3529,32 @@
       "value": "OSRS OSINT Source: Gizmodo"
     },
 	{
+      "description": "Information Security Buzz (aka ISBuzz News) is an independent resource that provides the experts comments, analysis and opinion on the latest Information Security News. Collated from security experts and industry leaders, content is carefully reviewed and selected to provide you with the latest threat trends, insights, practical solutions, hot topics and advice from around the globe.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://informationsecuritybuzz.com/about-us/"
+        ]
+      },
+      "uuid": "ca293bb0-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Source: isBuzz News"
+    },
+	{
+      "description": "Online news source about bicycle retail and industry news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.bicycleretailer.com/"
+        ]
+      },
+      "uuid": "ca293e12-9c69-11eb-a8b3-0242ac130003",
+      "value": "OSRS OSINT Source: Bicycle Retailer and Industry News Online"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

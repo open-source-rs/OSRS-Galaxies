@@ -1098,6 +1098,26 @@
 			"value": "Harris Federation"
 		},
 		{
+			"description": "The University of Maryland, College Park is the state's flagship university and one of the nation's preeminent public research universities. A global leader in research, entrepreneurship and innovation, the university is home to more than 40,700 students, 14,000 faculty and staff, and 388,000 alumni all dedicated to the pursuit of Fearless Ideas. Located just outside Washington, D.C., we discover and share new knowledge every day through our renowned research enterprise and programs in academics, the arts and athletics.",
+			"meta": {
+				"refs": [
+					"https://www.umd.edu/"
+				]
+			},
+			"uuid": "f50250e6-9c6a-11eb-a8b3-0242ac130003",
+			"value": "University of Maryland"
+		},
+		{
+			"description": "Brown University is a private Ivy League research university in Providence, Rhode Island. Founded in 1764 as the College in the English Colony of Rhode Island and Providence Plantations.",
+			"meta": {
+				"refs": [
+					"https://www.brown.edu/"
+				]
+			},
+			"uuid": "f5025316-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Brown University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

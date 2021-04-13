@@ -15,6 +15,16 @@
       },
       "uuid": "5659a2e4-48f9-11e9-8646-d663bd873d93",
       "value": "Test Printing and Related Support Activities Value"
+    },
+	{
+      "description": "Our main service lines include lithographic and digital print, business critical and direct mail fulfilment, plus postage optimisation. These are complemented by integrated e-Solutions, personalised and interactive video production and digital contact centre solutions.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/mba-group-ltd/about/"
+        ]
+      },
+      "uuid": "2d3ae0d0-9c6c-11eb-a8b3-0242ac130003",
+      "value": "MBA Group Ltd"
     }
 	  ],
 	"version": 1

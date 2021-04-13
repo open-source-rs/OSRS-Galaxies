@@ -4197,6 +4197,66 @@
 			"value": "The Town of Didsbury"
 		},
 		{
+			"description": "Local school district. St. Louis, MO.",
+			"meta": {
+				"refs": [
+					"http://afftonschools.net/"
+				]
+			},
+			"uuid": "3539d1ee-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Affton School District"
+		},
+		{
+			"description": "Angermünde is a town in the district of Uckermark in the state of Brandenburg, Germany. It is about 43 miles northeast of Berlin, the capital of Germany. The population is about 10,000, but the population has been rapidly falling as its traditional industrial base has declined.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Angerm%C3%BCnde"
+				]
+			},
+			"uuid": "3539d432-9c6a-11eb-a8b3-0242ac130003",
+			"value": "The City of Angermunde"
+		},
+		{
+			"description": "The Cobb County School District is the county government agency which operates public schools in Cobb County, Georgia, United States. The school district includes all of Cobb County except for the Marietta City Schools, though a number of schools in unincorporated parts of the county have Marietta addresses.",
+			"meta": {
+				"refs": [
+					"https://www.cobbk12.org/"
+				]
+			},
+			"uuid": "3539d522-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Cobb County School District"
+		},
+		{
+			"description": "Alachua County Public Schools is a public school district serving Alachua County in North Central Florida. It serves approximately 29845 students in 64 schools and centers.",
+			"meta": {
+				"refs": [
+					"https://www.sbac.edu/"
+				]
+			},
+			"uuid": "3539d5f4-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Alachua County Public Schools"
+		},
+		{
+			"description": "Broward County Public Schools is a public school district serving Broward County, Florida, is the sixth largest public school system in the nation. During the 2016–2017 school year, Broward County Public Schools served 271,517 students enrolled in 327 schools and education centers district wide.",
+			"meta": {
+				"refs": [
+					"https://www.browardschools.com/"
+				]
+			},
+			"uuid": "3539d6b2-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Broward County Public Schools"
+		},
+		{
+			"description": "Brescia is a city in the northern Italian region of Lombardy. On the eastern outskirts is the San Salvatore–Santa Giulia complex. This former monastery includes a basilica, cloisters and the Santa Giulia Museum, with items including Roman bronzes and medieval frescoes. On Cidneo Hill, Brescia Castle has a drawbridge and ramparts, plus the Luigi Marzoli Arms Museum, exhibiting ancient weapons and armor.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Brescia"
+				]
+			},
+			"uuid": "3539e350-9c6a-11eb-a8b3-0242ac130003",
+			"value": "Municipality of Brescia"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

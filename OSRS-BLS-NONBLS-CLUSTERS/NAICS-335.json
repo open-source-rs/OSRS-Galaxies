@@ -117,6 +117,16 @@
       "value": "Acer Inc."
     },
 	{
+      "description": "Asteelflash Group is a French multinational electronics contract manufacturing company specializing in printed circuit board assembly and also offering design and aftermarket services.",
+      "meta": {
+        "refs": [
+          "https://www.asteelflash.com/"
+        ]
+      },
+      "uuid": "f50255dc-9c6a-11eb-a8b3-0242ac130003",
+      "value": "Asteelflash Group"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [
