@@ -830,6 +830,36 @@
 			"value": "MobiKwik"
 		},
 		{
+			"description": "Cardpool is a gift card exchange service for individuals to buy, sell and trade their new or pre-owned gift cards.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/cardpool"
+				]
+			},
+			"uuid": "8730eb6e-a2a9-11eb-bcbc-0242ac130002",
+			"value": "Cardpool"
+		},
+		{
+			"description": "CareFirst BlueCross BlueShield Community Health Plan District of Columbia (CareFirst CHPDC) is a for-profit healthcare company which offers a comprehensive portfolio of health insurance benefits and services to over 66,000 enrollees in the District of Columbia. Since 2013, our team has provided comprehensive managed care services to Medicaid recipients in the District of Columbia through a consumer-centric, high-touch health plan focused on personal enrollee engagement. CareFirst CHPDC is committed to providing care to the region's most vulnerable and diverse populations including children, the elderly and people living with disabilities.",
+			"meta": {
+				"refs": [
+					"https://www.carefirstchpdc.com/why-carefirst-chpdc.html"
+				]
+			},
+			"uuid": "8730edee-a2a9-11eb-bcbc-0242ac130002",
+			"value": "CareFirst BlueCross BlueShield Community Health Plan District of Columbia (CareFirst CHPDC)"
+		},
+		{
+			"description": "Upstox was founded with the vision of making financial investing easy, equitable, and affordable to all Indian investors. It offers online investments in stocks, derivatives, commodities, currencies, mutual funds and ETFs for both professional traders and investors. It has also ensured full transparency in pricing by offering zero brokerage on equity delivery trades and up to Rs. 20 per order for intraday, F&O, commodities, and currencies.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/upstox/about/"
+				]
+			},
+			"uuid": "8730eefc-a2a9-11eb-bcbc-0242ac130002",
+			"value": "Upstox"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

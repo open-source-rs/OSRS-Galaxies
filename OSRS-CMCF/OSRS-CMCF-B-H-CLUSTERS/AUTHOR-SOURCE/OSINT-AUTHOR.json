@@ -9043,6 +9043,32 @@
       "value": "OSRS OSINT Author Index: Bicycle Retailer and Industry News Online"
     },
 	{
+      "description": "Generic pen name used by WFSB news.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.wfsb.com/"
+        ]
+      },
+      "uuid": "522cce12-a2a2-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: WFSB Staff"
+    },
+	{
+      "description": "Online news writer affiliated with Building Design Online News.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bdonline.co.uk/news/arup-staff-caught-up-in-ransomware-attack/5111285.article"
+        ]
+      },
+      "uuid": "522cd02e-a2a2-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jim Dunton"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

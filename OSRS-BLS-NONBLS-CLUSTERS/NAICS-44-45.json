@@ -567,6 +567,16 @@
 			"value": "UNIX Auto"
 		},
 		{
+			"description": "Italian car dealership.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/pg/ginoluxurymotorsport/about/?ref=page_internal"
+				]
+			},
+			"uuid": "eb140a8e-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Gino Luxury & Motorsport"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

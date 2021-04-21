@@ -267,6 +267,16 @@
 			"value": "Healthgrades Operating Company, Inc."
 		},
 		{
+			"description": "Administrative Advantage LLC is located in Savannah, GA, United States and is part of the Government Industry. Administrative Advantage LLC has 51 total employees across all of its locations.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.administrative_advantage_llc.2ffbe8cc3ee9007a61bde172a3fc88c8.html"
+				]
+			},
+			"uuid": "e53719a4-a2a4-11eb-bcbc-0242ac130002",
+			"value": "Administrative Advantage LLC"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

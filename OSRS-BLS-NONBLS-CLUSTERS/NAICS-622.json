@@ -868,6 +868,16 @@
 			"value": "Evangelical Hospital Lippstadt (EVK)"
 		},
 		{
+			"description": "Hospital located at 351 Avenue de Saint-Plancard, 31800 Saint-Gaudens, France.",
+			"meta": {
+				"refs": [
+					"http://www.ch-saintgaudens.fr/"
+				]
+			},
+			"uuid": "eb140520-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Hospital Center Comminges Pyrenees"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

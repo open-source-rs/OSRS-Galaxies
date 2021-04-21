@@ -37,6 +37,16 @@
       "value": "RedMart"
     },
 	{
+      "description": "Nah & Frisch is an umbrella brand founded in 1983 under which around 500 independent Austrian retail salespeople from the food industry have come together. The group emerges from the former brands A&O, IFA and ff and is particularly well represented in rural areas.",
+      "meta": {
+        "refs": [
+          "https://de.wikipedia.org/wiki/Nah_%26_Frisch"
+        ]
+      },
+      "uuid": "f646e5da-a2a9-11eb-bcbc-0242ac130002",
+      "value": "Nah & Frisch Food & Beverage Market"
+    },
+	{
       "description": "Hy-Vee is a chain of more than 245 supermarkets located throughout the Midwestern United States in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.",
       "meta": {
         "refs": [

@@ -1118,6 +1118,57 @@
 			"value": "Brown University"
 		},
 		{
+			"description": "National College of Ireland is a not-for-profit, state-aided third-level education institution in Dublin.",
+			"meta": {
+				"refs": [
+					"https://www.ncirl.ie/"
+				]
+			},
+			"uuid": "a22cdfbe-a2a8-11eb-bcbc-0242ac130002",
+			"value": "The National College of Ireland"
+		},
+		{
+			"description": "Technological University Dublin or TU Dublin is Ireland's first technological university, established on 1 January 2019.",
+			"meta": {
+				"refs": [
+					"https://tudublin.ie/"
+				]
+			},
+			"uuid": "a22ce1da-a2a8-11eb-bcbc-0242ac130002",
+			"value": "The Technological University of Dublin"
+		},
+		{
+			"description": "e2i is the empowering network for workers and employers seeking employment and employability solutions. e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives.",
+			"meta": {
+				"refs": [
+					"https://e2i.com.sg/about-e2i/corporate-information/"
+				]
+			},
+			"uuid": "a22ce2ca-a2a8-11eb-bcbc-0242ac130002",
+			"value": "Employment and Employability Institute (e2i)"
+		},
+		{
+			"description": "The Allgemeine Gewerbeschule Basel (AGS) is a vocational school at which apprentices receive supplementary courses in professional-theoretical, professional-practical, business and general subjects.",
+			"meta": {
+				"refs": [
+					"https://www.agsbs.ch/",
+					"https://de.wikipedia.org/wiki/Allgemeine_Gewerbeschule_Basel"
+				]
+			},
+			"uuid": "a22ce39c-a2a8-11eb-bcbc-0242ac130002",
+			"value": "Allgemeine Gewerbeschule Basel"
+		},
+		{
+			"description": "Edraak is a non-profit massive open online course (MOOC) portal established by Queen Rania al Abdallah of Jordan for the promotion of knowledge in the Arab world. It is considered the first non-profit and pan-Arab online educational platform that offers courses for free to learners worldwide. The MOOC platform operates in partnership with the Harvard-Stanford-MIT consortium called edX and is headquartered in Amman.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Edraak"
+				]
+			},
+			"uuid": "a22ce45a-a2a8-11eb-bcbc-0242ac130002",
+			"value": "Edraak"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

@@ -3555,6 +3555,32 @@
       "value": "OSRS OSINT Source: Bicycle Retailer and Industry News Online"
     },
 	{
+      "description": "WFSB, virtual channel 3, is a CBS-affiliated television station licensed to Hartford, Connecticut, United States and serving the Hartford–New Haven television market. The station is owned by the Meredith Local Media subsidiary of Des Moines, Iowa-based Meredith Corporation.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.wfsb.com/"
+        ]
+      },
+      "uuid": "e4a65d80-a2a2-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Source: Eyewitness News 3, CT"
+    },
+	{
+      "description": "BD is a leading, digital first source of news, comment and reviews keeping architects up to date with the key issues affecting the practice and profession of architecture. BD is the place architects turn to for hard hitting stories covering a broad range of topics including controversial planning issues, policy, business, project wins and professional issues. Our diverse stable of columnists provide industry insight into these issues and cover a broad range of other topics too. Debate is at the heart of BD and is acknowledged by the profession as the leading forum to discuss the issues raised by our news and comment. Online BD receives 130,000 monthly unique users, who generate 580,000 page views a month. Our popular e-newsletters ensure readers always have the latest information at their finger tips.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.bdonline.co.uk/home/about-bd/5004629.article"
+        ]
+      },
+      "uuid": "e4a66154-a2a2-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Source: Building Design Online"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

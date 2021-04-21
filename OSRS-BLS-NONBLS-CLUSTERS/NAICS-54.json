@@ -3344,6 +3344,46 @@
 			"value": "Applus Technologies"
 		},
 		{
+			"description": "OnlyFans is a content subscription service based in London, England. Content creators can earn money from users who subscribe to their content—the fans. It allows content creators to receive funding directly from their fans on a monthly basis as well as one-time tips and the pay-per-view feature.",
+			"meta": {
+				"refs": [
+					"https://onlyfans.com/"
+				]
+			},
+			"uuid": "eb14075a-a2aa-11eb-bcbc-0242ac130002",
+			"value": "OnlyFans"
+		},
+		{
+			"description": "Arup is the creative force at the heart of many of the world’s most prominent projects in the built environment and across industry. We offer a broad range of professional services that combine to make a real difference to our clients and the communities in which we work.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/arup/about/"
+				]
+			},
+			"uuid": "eb14084a-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Arup"
+		},
+		{
+			"description": "Axios Italia develops software platforms for distance education and offers web services for school management.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/axios-italia-service"
+				]
+			},
+			"uuid": "eb140912-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Axios Italia"
+		},
+		{
+			"description": "Clubhouse is an invitation-only social media app for iOS that facilitates auditory communication through rooms that can accommodate groups of up to 5,000 people. The audio-only app hosts virtual rooms for live discussions, with opportunities for individuals to participate through speaking and listening.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Clubhouse_(app)"
+				]
+			},
+			"uuid": "eb1409d0-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Clubhouse App"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

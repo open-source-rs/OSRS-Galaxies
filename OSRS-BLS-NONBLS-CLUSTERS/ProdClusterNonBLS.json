@@ -4257,6 +4257,66 @@
 			"value": "Municipality of Brescia"
 		},
 		{
+			"description": "El Monte is a residential, industrial, and commercial city in Los Angeles County, California, United States. The city lies in the San Gabriel Valley, east of the city of Los Angeles. El Monte's slogan is Welcome to Friendly El Monte and historically is known as The End of the Santa Fe Trail.",
+			"meta": {
+				"refs": [
+					"https://www.ci.el-monte.ca.us/"
+				]
+			},
+			"uuid": "dfbcb49e-a2a3-11eb-bcbc-0242ac130002",
+			"value": "The City of El Monte"
+		},
+		{
+			"description": "Part of Vallauris, France.",
+			"meta": {
+				"refs": [
+					"http://www.vallauris-golfe-juan.fr/"
+				]
+			},
+			"uuid": "dfbcb6f6-a2a3-11eb-bcbc-0242ac130002",
+			"value": "La Ville de Vallauris Golfe-Juan"
+		},
+		{
+			"description": "Public school district, Massachusetts.",
+			"meta": {
+				"refs": [
+					"https://www.haverhill-ps.org/"
+				]
+			},
+			"uuid": "dfbcb7dc-a2a3-11eb-bcbc-0242ac130002",
+			"value": "The Haverhill Public School District"
+		},
+		{
+			"description": "The Connecticut Department of Motor Vehicles was founded in 1917. In 1919 the State Legislature authorized a uniformed force of 30 Inspectors equipped with motorcycles to inspect and weigh trucks on both the New York and Massachusetts borders. Connecticut pioneered the world’s first Point System to control careless and dangerous drivers in 1947, and in 1950 Connecticut was the first to record vehicle engine numbers to track stolen vehicles. Today, Motor Vehicle Inspectors are P.O.S.T. certified (Police Officers Standards and Training) law enforcement officers with powers of arrest.",
+			"meta": {
+				"refs": [
+					"https://portal.ct.gov/DMV/Commercial-Vehicle-Safety/Commercial-Vehicle-Safety/Who-We-Are"
+				]
+			},
+			"uuid": "dfbcb8a4-a2a3-11eb-bcbc-0242ac130002",
+			"value": "Connecticut Department of Motor Vehicles"
+		},
+		{
+			"description": "The Regional Municipality of Durham, informally referred to as Durham Region, is a regional municipality in Southern Ontario, Canada. Located east of Toronto and the Regional Municipality of York, Durham forms the east-end of the Greater Toronto Area and part of the Golden Horseshoe region.",
+			"meta": {
+				"refs": [
+					"https://www.durham.ca/"
+				]
+			},
+			"uuid": "dfbcb962-a2a3-11eb-bcbc-0242ac130002",
+			"value": "Regional Municipality of Durham"
+		},
+		{
+			"description": "L'Isle-sur-la-Sorgue is a Provencal town in the department of Vaucluse, southeast France. It’s known for its antiques stores and weekend markets, plus waterwheels on the Sorgue river. Campredon Art Center displays contemporary works in an 18th-century mansion.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/L%27Isle-sur-la-Sorgue"
+				]
+			},
+			"uuid": "dfbcba2a-a2a3-11eb-bcbc-0242ac130002",
+			"value": "The Town of L'Isle-sur-la-Sorgue"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

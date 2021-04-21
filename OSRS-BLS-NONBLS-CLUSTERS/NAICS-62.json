@@ -1760,6 +1760,26 @@
 			"value": "Apple Valley Clinic"
 		},
 		{
+			"description": "Pain management and other physicians in the San Francisco area, US.",
+			"meta": {
+				"refs": [
+					"https://www.remedydocs.com/index.html"
+				]
+			},
+			"uuid": "66869d4a-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Remedy Medical Group"
+		},
+		{
+			"description": "Signify Health is a leading healthcare platform that leverages advanced analytics, technology, and nationwide healthcare provider networks to create and power value-based payment programs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/signifyhealth/about/"
+				]
+			},
+			"uuid": "6686a4de-a2aa-11eb-bcbc-0242ac130002",
+			"value": "Signify Health, LLC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
