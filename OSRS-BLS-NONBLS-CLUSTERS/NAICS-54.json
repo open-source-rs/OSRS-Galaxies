@@ -3384,6 +3384,36 @@
 			"value": "Clubhouse App"
 		},
 		{
+			"description": "ParkMobile, LLC is the leading provider for on-demand and prepaid mobile payments for on- and off-street parking. its mission is to leverage technology and innovation to maximize convenience and efficiency for the owner, operator, and consumer.  Parkmobile’s services have been adopted by over 8 million consumers and are available in more than 1M parking spaces, 3,000+ locations, including 39 of the top 100 cities in the U.S. ParkMobile’s services include on- and off-street parking, airport and event reservations, and municipal parking permit solutions. Parkmobile serves over 350 cities, 150 events and venues and 20 airports with on-demand, permit and reservations parking solutions.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/parkmobile-usa-inc-/about/"
+				]
+			},
+			"uuid": "73410d22-a6a1-11eb-bcbc-0242ac130002",
+			"value": "ParkMobile, LLC"
+		},
+		{
+			"description": "ASBISc Enterprises PLC is based in 27 countries with a headquarter in Cyprus and specializes in the distribution of Information and Communications Technology products and solutions from leading suppliers including Apple, AMD, Dell EMC, HGST, Infinidat, Infortrend, Intel, Lenovo, Microsoft, Samsung, Seagate, Supermicro, Toshiba, WD. The Group also manufactures and sells own brands products.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/asbis/about/"
+				]
+			},
+			"uuid": "73410f34-a6a1-11eb-bcbc-0242ac130002",
+			"value": "ASBISc Enterprises PLC"
+		},
+		{
+			"description": "Testing newly released code is essential for building successful products and new features. A major pain point when testing new code is the struggle to understand what sections of code were tested, and what sections were missed. Codecov's software will become part of your development workflow by introducing a programmatic approach to code coverage and by providing insightful reports and metrics that help you better understand your product and its features. Our roadmap includes a number of exciting features that all start with code coverage. The first step to driving performance insights and quickly identifying the origin of any bugs is understanding the portions of your code that remain untested.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/codecov/about/"
+				]
+			},
+			"uuid": "73411024-a6a1-11eb-bcbc-0242ac130002",
+			"value": "Codecov"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

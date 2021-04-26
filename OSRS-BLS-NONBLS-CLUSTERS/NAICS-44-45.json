@@ -577,6 +577,16 @@
 			"value": "Gino Luxury & Motorsport"
 		},
 		{
+			"description": "The Wurth Group is a worldwide wholesaler of fasteners, screws and screw accessories, dowels, chemicals, electronic and electromechanical components, furniture and construction fittings, tools, machines, installation material, automotive hardware, inventory management, storage and retrieval systems.",
+			"meta": {
+				"refs": [
+					"https://www.wurthusa.com/"
+				]
+			},
+			"uuid": "734112ea-a6a1-11eb-bcbc-0242ac130002",
+			"value": "The Wurth Group"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

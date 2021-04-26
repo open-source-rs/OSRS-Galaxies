@@ -860,6 +860,16 @@
 			"value": "Upstox"
 		},
 		{
+			"description": "Cryptocurrency exchange provider.",
+			"meta": {
+				"refs": [
+					"https://celsius.network/"
+				]
+			},
+			"uuid": "4903b440-a69e-11eb-bcbc-0242ac130002",
+			"value": "Celsius Network"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

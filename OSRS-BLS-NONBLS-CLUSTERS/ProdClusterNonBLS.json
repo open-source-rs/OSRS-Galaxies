@@ -4317,6 +4317,86 @@
 			"value": "The Town of L'Isle-sur-la-Sorgue"
 		},
 		{
+			"description": "A commune in the Vaucluse department in the Provence-Alpes-Cote d'Azur region in southeastern France.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Mori%C3%A8res-l%C3%A8s-Avignon"
+				]
+			},
+			"uuid": "1651bdc8-a69c-11eb-bcbc-0242ac130002",
+			"value": "City of Morieres-les-Avignon"
+		},
+		{
+			"description": "Douai is a commune in the Nord departement in northern France. It is a sub-prefecture of the department.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Douai"
+				]
+			},
+			"uuid": "1651c02a-a69c-11eb-bcbc-0242ac130002",
+			"value": "The Town of Douai"
+		},
+		{
+			"description": "Floreffe is a Walloon municipality in Namur Province, Belgium.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Floreffe"
+				]
+			},
+			"uuid": "1651c11a-a69c-11eb-bcbc-0242ac130002",
+			"value": "The City of Floreffe"
+		},
+		{
+			"description": "Vermont Health Connect operates under the Department of Vermont Health Access (DVHA) which is part of Vermont's Agency of Human Services (AHS). Vermont Health Connect handles eligibility for individuals and families, as well as Vermont small businesses. Individuals and families who enroll though Vermont Health Connect can get financial help paying for coverage, or Medicaid, if they qualify.",
+			"meta": {
+				"refs": [
+					"https://info.healthconnect.vermont.gov/about-us"
+				]
+			},
+			"uuid": "1651c1ec-a69c-11eb-bcbc-0242ac130002",
+			"value": "Vermont Health Connect"
+		},
+		{
+			"description": "Somerset County Public Schools is a U.S. public school system serving the residents of Somerset County, Maryland.",
+			"meta": {
+				"refs": [
+					"https://www.somerset.k12.md.us/"
+				]
+			},
+			"uuid": "1651c2aa-a69c-11eb-bcbc-0242ac130002",
+			"value": "Somerset County Public Schools"
+		},
+		{
+			"description": "Territorial Agency for the Casa del Piemonte Centrale which has the task of providing cheap apartments for disadvantaged categories through the redevelopment of the public housing stock and the implementation of subsidized and subsidized building interventions.",
+			"meta": {
+				"refs": [
+					"http://www.comune.torino.it/torinogiovani/luoghi/atc-torino-agenzia-territoriale-per-la-casa-del-piemonte-centrale"
+				]
+			},
+			"uuid": "e01ffbe2-a69c-11eb-bcbc-0242ac130002",
+			"value": "ATC Turin - Territorial Agency for the Central Piedmont House"
+		},
+		{
+			"description": "Aneurin Bevan University Health Board is the operational name of Aneurin Bevan University Local Health Board. The Health Board was established on the 1st October 2009 and covers the areas of Blaenau Gwent, Caerphilly, Monmouthshire, Newport, Torfaen and South Powys. The Health Board employs over 14,000 staff, two thirds of whom are involved in direct patient care.  There are more than 250 consultants in a total of over 1000 hospital and general practice doctors, 6,000 nurses, midwives, allied professionals and community workers. Our organisation is led by a Board of Independant Members and Executive Directors. The Chair of the Board is Ann Lloyd and the Chief Executive is Judith Paget.",
+			"meta": {
+				"refs": [
+					"https://abuhb.nhs.wales/about-us/the-health-board1/"
+				]
+			},
+			"uuid": "e01ffe44-a69c-11eb-bcbc-0242ac130002",
+			"value": "The Aneurin Bevan University Health Board"
+		},
+		{
+			"description": "Kammeltal is a municipality in the district of Gunzburg in Bavaria in Germany.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Kammeltal"
+				]
+			},
+			"uuid": "e01fff34-a69c-11eb-bcbc-0242ac130002",
+			"value": "The Municipality of Kammeltal"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

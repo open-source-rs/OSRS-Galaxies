@@ -1780,6 +1780,36 @@
 			"value": "Signify Health, LLC"
 		},
 		{
+			"description": "AZIENDA UNITA' SANITARIA LOCALE UMBRIA 2 is located in TERNI, TERNI, Italy and is part of the Ambulatory Health Care Services Industry. AZIENDA UNITA' SANITARIA LOCALE UMBRIA 2 has 1,549 employees at this location and generates 190.12 million in sales (USD). There are 35,639 companies in the AZIENDA UNITA' SANITARIA LOCALE UMBRIA 2 corporate family.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.azienda_unita_sanitaria_locale_umbria_2.600b62dddd8162136ba17ca1f1bb76ec.html"
+				]
+			},
+			"uuid": "429a94b4-a6a0-11eb-bcbc-0242ac130002",
+			"value": "Azienda Unita' Sanitaria Locale Umbria 2"
+		},
+		{
+			"description": "The Council is one of the largest and most diverse employers in South West Wales employing over 9000 people providing services across a rural county to a population of around 180,500.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/carmarthenshire-county-council/"
+				]
+			},
+			"uuid": "429a96bc-a6a0-11eb-bcbc-0242ac130002",
+			"value": "Carmarthenshire County Council"
+		},
+		{
+			"description": "Planned Parenthood of Metropolitan Washington, DC (PPMW) was founded on the visionary idea that access to sexual and reproductive health care could transform people’s lives. For over 80 years, PPMW has provided high quality, supportive reproductive medical care for families in the DC metro area.",
+			"meta": {
+				"refs": [
+					"https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc/who-we-are"
+				]
+			},
+			"uuid": "429a97ac-a6a0-11eb-bcbc-0242ac130002",
+			"value": "Planned Parenthood of Metropolitan Washington, DC (PPMW)"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

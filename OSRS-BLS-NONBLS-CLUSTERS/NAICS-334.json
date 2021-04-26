@@ -67,6 +67,16 @@
 			"value": "Mitsubishi Electric Corp."
 		},
 		{
+			"description": "Quanta Computer Incorporated is a Taiwan-based manufacturer of notebook computers and other electronic hardware.",
+			"meta": {
+				"refs": [
+					"https://www.quantatw.com/quanta/english/"
+				]
+			},
+			"uuid": "e01ffffc-a69c-11eb-bcbc-0242ac130002",
+			"value": "Quanta Computer"
+		},
+		{
 			"description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.",
 			"meta": {
 				"refs": [

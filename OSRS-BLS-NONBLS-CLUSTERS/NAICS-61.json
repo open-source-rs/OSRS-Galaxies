@@ -1169,6 +1169,26 @@
 			"value": "Edraak"
 		},
 		{
+			"description": "The University of Portsmouth is a public university in the city of Portsmouth, Hampshire, England. The earliest incarnation of the University existed in the Victorian era, and it was granted university status in 1992.",
+			"meta": {
+				"refs": [
+					"https://www.port.ac.uk/"
+				]
+			},
+			"uuid": "4903affe-a69e-11eb-bcbc-0242ac130002",
+			"value": "The University of Portsmouth"
+		},
+		{
+			"description": "The University of Castilla–La Mancha is a Spanish university. It offers courses in the cities of Albacete, Ciudad Real, Cuenca, Toledo, Almadén and Talavera de la Reina. This university was recognised by law on 30 June 1982, and began to operate three years later.",
+			"meta": {
+				"refs": [
+					"https://www.uclm.es/home?sc_lang=en"
+				]
+			},
+			"uuid": "4903b346-a69e-11eb-bcbc-0242ac130002",
+			"value": "The University of Castilla–La Mancha"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

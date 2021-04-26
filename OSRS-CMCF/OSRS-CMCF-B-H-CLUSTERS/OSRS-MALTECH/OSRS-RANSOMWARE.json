@@ -1351,6 +1351,19 @@
       "value": "OSRS Ransomware: Pydomer Ransomware"
     },
 	{
+      "description": "The extension added after file encryption of the ransomware is Pecunia, but the distribution method, the contents of the ransom note and the format of the file name change after file encryption are considered to be the same as the existing Makop ransomware. Use the makop string as an extension added after Makop ransomware has been steadily spreading in this way since a year ago, so you need to be constantly careful.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/22159/"
+        ]
+      },
+      "uuid": "3a15c7b2-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Ransomware: Makop Ransomware"
+    },
+	{
       "description": "Cuba ransomware is currently hitting several companies in north and south America, as well as in Europe. The attackers use a set of obfuscated PowerShell scripts to move laterally and deploy their attack. The website to leak the stolen data has been put online recently. The malware is obfuscated and comes with several evasion techniques. The actors have sold some of the stolen data. The ransomware uses multiple argument options and has the possibility to discover shared resources using the NetShareEnum API.",
       "meta": {
 	  "kill_chain": [

@@ -68,6 +68,16 @@
       "value": "The Wash Tub (Car Wash Service)"
     },
 	{
+      "description": "The Nationalist Party is a Christian-democratic, liberal conservative political party in Malta. It is one of two major contemporary political parties in Malta, along with the governing Labour Party. The Nationalist Party is currently in opposition to the Labour Party.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)"
+        ]
+      },
+      "uuid": "f1c08822-a6a0-11eb-bcbc-0242ac130002",
+      "value": "The Nationalist Party, Malta"
+    },
+	{
       "description": "Health and fitness service provider.  Mainly gyms that patrons can engage in fitness activies.",
       "meta": {
         "refs": [

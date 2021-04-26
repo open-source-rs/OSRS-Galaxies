@@ -6666,6 +6666,97 @@
       "value": "OSRS Tool: Janeleiro Banking Trojan"
     },
 	{
+      "description": "Campo Loader is a simple but effective malware distribution chain that has been used in tandem with BazarCall to spread malware such as TrickBot and BazarLoader.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://fr3d.hk/blog/campo-loader-simple-but-effective"
+        ]
+      },
+      "uuid": "9e347d92-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: Campo Loader"
+    },
+	{
+      "description": "Lacework Labs recently came across an interesting shell script that’s part of an opportunistic Cryptojacking campaign. This campaign operated through the remote code execution of public facing Nagios XI applications. researchers have dubbed the loader script Carbine Loader during our clustering process. As background context, Nagios Core is a free and Open Source IT infrastructure monitoring solution, while Nagios XI is a commercially available UI system framework built on top of Nagios Core. The activity observed in this blog is isolated to targeting of Nagios XI and its associated addons. Based on open source data, up to roughly ten thousand Nagios servers are publicly accessible globally, with the majority being hosted on AWS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.lacework.com/carbine-loader-cryptojacking-campaign/"
+        ]
+      },
+      "uuid": "9e348030-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: Carbine Loader"
+    },
+	{
+      "description": "Researchers have discovered a new malware written in Go, which researchers are calling HabitsRAT, targeting both Windows and Linux machines. The Windows version of the malware was first reported on by Brian Krebs and The Shadowserver Foundation in attacks against Microsoft Exchange servers. In addition to this version, researchers have identified a neresearchersr Windows variant and a variant targeting Linux environments. As of this writing, the Linux version is undetected by all Antivirus engines on VirusTotal. researchers assess that the Linux version is used to target Linux servers in an adjacent campaign to the one reported by The Shadowserver Foundation. The malware allows the attacker to control the compromised machine remotely. To protect themself from being taken over by others, the attacker’s commands are signed by a private key that only the attacker has access to. The malware does not execute commands that are not signed by the correct key, suggesting that the malware has been developed by a sophisticated programmer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/malware-analysis/habitsrat-used-to-target-linux-and-windows-servers/"
+        ]
+      },
+      "uuid": "9e348116-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: HabitsRAT"
+    },
+	{
+      "description": "Telegram, the cloud-based IM platform has enjoyed a surge in popularity this year because of controversial changes to its rival, WhatsApp’s privacy settings. Telegram was the most downloaded app worldwide for January 2021 with more than 63 million installs, and has surpassed 500 million monthly active users.  This popularity also extends to the cyber-criminal community.  Malware authors are increasingly using Telegram as a ready-made command and control system for their malicious products, because it offers several advantages compared to conventional researchersb-based malware administration. Researchers explored why criminals are increasingly using Telegram for malware control, using the example of a new malware variant called ToxicEye that researchers have recently observed in the wild.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.checkpoint.com/2021/04/22/turning-telegram-toxic-new-toxiceye-rat-is-the-latest-to-use-telegram-for-command-control/"
+        ]
+      },
+      "uuid": "9e3481de-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: ToxicEye RAT"
+    },
+	{
+      "description": "A patcher utility responsible for inserting the malicious logic known as LOCKPICK. The patcher starts by running sed on the integrity checker script built into the appliance to insert an early exit routine. This is inserted by the command which when applied causes this script to exit without performing its intended checks. After this the sample uses python file read write APIs to insert long strings of assembly that represent the logic known as LOCKPICK. This file is different from the other patchers we’ve identified in that it is python and specifically targets system integrity routines.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+        ]
+      },
+      "uuid": "9e3484ea-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: LOCKPICK"
+    },
+	{
+      "description": "The sample starts by setting an alarm that kills the application after a configurable number of minutes, 14 by default. It then enters a loop which reads proc entries every 2 seconds looking for a target application, this interval is also configurable. The target is found by opening proc process name for each entry in the folder and then reading this file looking for the string dswsd within the command line. Once found the target applications proc mem is opened, the process is attached to with PTRACE, then memory read in chunks up to 512 bytes in size. For each chunk, the string is searched for as a needle. If found the sample splits the data by first space, then a dash. Two dashes are expected to be found, and these are immediately converted into hex numbers. If the second number minus the first is greater than 8191 the sample reads the data starting at the file offset of the first number, up to a size specified by second number minus first number. Once the sample has read the process memory and found all memory data of interest the sample detaches PTRACE then the sample begins memory scanning the copied data. The sample tries to locate a sequence of flags in memory one by one to locate what seem to be information the attacker wishes to steal.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+        ]
+      },
+      "uuid": "9e3485bc-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: PACEMAKER Launcher Utility"
+    },
+	{
+      "description": "To perform its log cleaning operations the sample first makes two copies of whichever log file was chosen, but uses .vc1 and .vc2 as the extension for the new files. The file with the .vc1 is used to search for entries that match the given entries, and the file with the .vc2 extension is used as a temporary file where the cleaned log is written. After generating both files and log cleaning is finished the sample executes the following commands via the system API to overwrite the original log with the cleaned version, then removes the intermediate.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
+        ]
+      },
+      "uuid": "9e348670-a68e-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: THINBLOOD Log Wiper"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

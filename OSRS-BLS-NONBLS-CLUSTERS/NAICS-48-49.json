@@ -277,6 +277,16 @@
       "value": "Ecu Worldwide (Belgium)"
     },
 	{
+      "description": "The Bakker Logistics Group is part of the Bakker Group, which has been young for over 100 years. In addition to logistics, the Bakker Group is engaged in commercial vehicles and real estate. With 4 branches in the middle of the Netherlands, commercial vehicles is one of the larger dealers of the DAF brand. The Bakker Logistics Group is a prominent player in the market of specialized logistics services. The turnover of approximately 150 million euros is realized with more than 1200 employees. The Bakker Group consists of: Bakker Transport Bakker Logistics Bakker Commercial vehicles Becker Logistics Broersma Logistics Huybregts Logistics.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/bakker-logistiek-groep/about/"
+        ]
+      },
+      "uuid": "734113a8-a6a1-11eb-bcbc-0242ac130002",
+      "value": "Bakker Logistics Group"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

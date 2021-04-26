@@ -878,6 +878,16 @@
 			"value": "Hospital Center Comminges Pyrenees"
 		},
 		{
+			"description": "Red Deer Regional Hospital Centre is a medical facility located in Red Deer, Alberta. Alberta Health Services is responsible for the operations of the hospital.",
+			"meta": {
+				"refs": [
+					"https://www.albertahealthservices.ca/rdrhc/rdrhc.aspx"
+				]
+			},
+			"uuid": "429a9874-a6a0-11eb-bcbc-0242ac130002",
+			"value": "Red Deer Regional Hospital Centre"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

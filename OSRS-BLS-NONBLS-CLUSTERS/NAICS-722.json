@@ -217,6 +217,16 @@
       "value": "Yemeksepeti"
     },
 	{
+      "description": "Jubilant FoodWorks Limited is an Indian food service company based in Noida, Uttar Pradesh which holds the master franchise for Domino's Pizza in India, Nepal, Sri Lanka and Bangladesh, for Popeyes in India, Bangladesh, Nepal and Bhutan, and also for Dunkin' Donuts in India.",
+      "meta": {
+        "refs": [
+          "https://www.jubilantfoodworks.com/"
+        ]
+      },
+      "uuid": "4903b508-a69e-11eb-bcbc-0242ac130002",
+      "value": "Jubilant FoodWorks Limited"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [
