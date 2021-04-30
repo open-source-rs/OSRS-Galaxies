@@ -256,6 +256,16 @@
 			"value": "Singapore Telecommunications Limited"
 		},
 		{
+			"description": "The Phone House Spain SL provides communication services. The Company offers mobiles, smartphones, tablet, internet, sim, and accessories. Phone House operates throughout Europe.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/6850153Z:SM"
+				]
+			},
+			"uuid": "3654dd9a-a9de-11eb-bcbc-0242ac130002",
+			"value": "The Phone House Spain SL"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [

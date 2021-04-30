@@ -888,6 +888,46 @@
 			"value": "Red Deer Regional Hospital Centre"
 		},
 		{
+			"description": "At Smilow Cancer Hospital, we are committed to making sure that each patient has an outstanding and positive cancer care experience, and to a steadfast focus on patient- and family-centered care. We offer the latest in screening and diagnosis, genetic counseling, treatment, psychosocial support, pain management, rehabilitation and long-term, follow-up care. Building on the scientific traditions of Yale University, we are dedicated to interdisciplinary cancer research in basic science, translational research and prevention and control. Our patients often have the opportunity to take advantage of clinical trials not available at most hospitals.",
+			"meta": {
+				"refs": [
+					"https://www.ynhh.org/locations/new-haven-35-park-street-smilow.aspx"
+				]
+			},
+			"uuid": "ed71349c-a9d9-11eb-bcbc-0242ac130002",
+			"value": "Smilow Cancer Hospital"
+		},
+		{
+			"description": "Southcoast Health is a not-for-profit, community-based health system with multiple access points, offering an integrated continuum of health services throughout southeastern Massachusetts and Rhode Island.",
+			"meta": {
+				"refs": [
+					"https://www.southcoast.org/about-southcoast-health/"
+				]
+			},
+			"uuid": "ed713884-a9d9-11eb-bcbc-0242ac130002",
+			"value": "Southcoast Health"
+		},
+		{
+			"description": "Rhode Island Hospital is a private, not-for-profit hospital located in the Upper South Providence neighborhood in Providence, Rhode Island. It is the largest academic medical center in the region, affiliated with Brown University since 1959.",
+			"meta": {
+				"refs": [
+					"https://www.lifespan.org/locations/rhode-island-hospital"
+				]
+			},
+			"uuid": "ed713992-a9d9-11eb-bcbc-0242ac130002",
+			"value": "Rhode Island Hospital"
+		},
+		{
+			"description": "The Lifespan Cancer Institute at Rhode Island, The Miriam, Newport and Hasbro Children's hospitals provides the most current cancer diagnosis and treatment options. Our world-renowned physicians and specialists form multidisciplinary teams, both in the hospitals and at the Lifespan Ambulatory Care Center in East Greenwich. Their collective level of knowledge and experience is unparalleled in the region.",
+			"meta": {
+				"refs": [
+					"https://www.lifespan.org/centers-services/lifespan-cancer-institute"
+				]
+			},
+			"uuid": "ed713d48-a9d9-11eb-bcbc-0242ac130002",
+			"value": "Lifespan Cancer Institute at Rhode Island Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

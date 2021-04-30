@@ -77,6 +77,16 @@
       "value": "bigbasket.com"
     },
 	{
+      "description": "Reverb is the largest online marketplace dedicated to buying and selling new, used, and vintage musical instruments.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/reverbdotcom/about/"
+        ]
+      },
+      "uuid": "c100befe-a9da-11eb-bcbc-0242ac130002",
+      "value": "Reverb Online Marketplace"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

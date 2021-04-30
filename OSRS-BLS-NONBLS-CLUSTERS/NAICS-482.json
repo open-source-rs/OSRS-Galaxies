@@ -27,6 +27,16 @@
       "value": "Gautrain"
     },
 	{
+      "description": "Merseyrail is a suburban railway network serving Liverpool, England, the surrounding Liverpool City Region, the Wirral Peninsula and adjacent areas of Cheshire and Lancashire, including a number of underground stations.",
+      "meta": {
+        "refs": [
+          "https://www.merseyrail.org/"
+        ]
+      },
+      "uuid": "3654d9b2-a9de-11eb-bcbc-0242ac130002",
+      "value": "Merseyrail"
+    },
+	{
       "description": "The Kyushu Railway Company, also referred to as JR Kyushu, is one of the constituent companies of Japan Railways Group aka JR Group. It operates intercity rail services in Kyushu, Japan and the JR Kyushu Jet Ferry Beetle hydrofoil service across the Tsushima Strait between Fukuoka and Busan, South Korea. It also operates hotels, restaurants, and drugstores across its service region. JR Kyushu's headquarters are in Hakata-ku, Fukuoka.",
       "meta": {
         "refs": [

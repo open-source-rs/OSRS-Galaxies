@@ -188,6 +188,26 @@
       "value": "Backblaze, Inc."
     },
 	{
+      "description": "Managed-IT B.V. is located in Nieuwegein, UTRECHT, Netherlands and is part of the Information Technology Services Industry. Managed-IT B.V. has 23 employees at this location and generates 1.57 million in sales (USD). There are 2 companies in the Managed-IT B.V. corporate family.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.managed-it_bv.90fc00473ab71204db60b6892610cc5a.html"
+        ]
+      },
+      "uuid": "691b0cba-a9d7-11eb-bcbc-0242ac130002",
+      "value": "Managed-IT B.V."
+    },
+	{
+      "description": "Information Technology and Services, Sweden.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/nordlo/about/"
+        ]
+      },
+      "uuid": "691b0db4-a9d7-11eb-bcbc-0242ac130002",
+      "value": "Nordlo Group"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

@@ -15,6 +15,16 @@
       },
       "uuid": "e7ecf5bc-48ef-11e9-8646-d663bd873d93",
       "value": "Test Merchant Wholesalers, Nondurable Goods Value"
+    },
+	{
+      "description": "MATTHEW CLARK BIBENDUM LIMITED is located in BRISTOL, United Kingdom and is part of the Food Wholesalers Industry. MATTHEW CLARK BIBENDUM LIMITED has 1,811 employees at this location and generates 1.32 billion in sales (USD). (There are 100 companies in the MATTHEW CLARK BIBENDUM LIMITED corporate family.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.matthew_clark_bibendum_limited.8b8935feef2b02d07a3aab046d561857.html"
+        ]
+      },
+      "uuid": "c100bc4c-a9da-11eb-bcbc-0242ac130002",
+      "value": "Matthew Clark Bibendum Limited"
     }
 	  ],
 	"version": 1

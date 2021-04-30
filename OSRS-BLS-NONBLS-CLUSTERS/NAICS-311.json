@@ -47,6 +47,16 @@
       "value": "Davide Campari-Milano S.p.A."
     },
 	{
+      "description": "Laurent-Perrier is an independent family House that was built with 4 strong convictions. These 4 convictions make Laurent-Perrier, through its Cuvees, very different from other Champagne Houses.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/champagne-laurent-perrier/about/"
+        ]
+      },
+      "uuid": "180a7c38-a9d8-11eb-bcbc-0242ac130002",
+      "value": "Champagne Laurent-Perrier"
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [

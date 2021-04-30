@@ -15,6 +15,16 @@
       },
       "uuid": "496d30c2-48fa-11e9-8646-d663bd873d93",
       "value": "Test Publishing Industries (except Internet) Value"
+    },
+	{
+      "description": "Verlagsgesellschaft Madsack GmbH & Co. KG is located in Braunschweig, Niedersachsen, Germany and is part of the Publishing Industry. Verlagsgesellschaft Madsack GmbH & Co. KG generates 263,939 million in sales (USD). There are 154 companies in the Verlagsgesellschaft Madsack GmbH & Co. KG corporate family.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.verlagsgesellschaft_madsack_gmbh__co_kg.8d4d445a73d84905ecd5bfe2bd107000.html"
+        ]
+      },
+      "uuid": "6013320e-a9dd-11eb-bcbc-0242ac130002",
+      "value": "Verlagsgesellschaft Madsack GmbH & Co. KG"
     }
 	  ],
 	"version": 1

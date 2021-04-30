@@ -377,6 +377,16 @@
       "value": "Dixie Group, Inc."
     },
 	{
+      "description": "Founded in 1941 in Tokyo, Japan, Hoya is a global med-tech company, and a leading supplier of innovative high-tech and medical products. Hoya is active in the fields of healthcare and information technology providing eyeglasses, medical endoscopes, intraocular lenses, optical lenses as well as key components for semiconductor devices, LCD panels and HDDs. With over 150 offices and subsidiaries worldwide, Hoya currently employs a multinational workforce of 37,000 people.",
+      "meta": {
+        "refs": [
+          "https://www.hoya.co.jp/english/company/profile.html"
+        ]
+      },
+      "uuid": "ed713e56-a9d9-11eb-bcbc-0242ac130002",
+      "value": "Hoya Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

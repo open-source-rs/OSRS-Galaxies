@@ -47,6 +47,16 @@
       "value": "Nah & Frisch Food & Beverage Market"
     },
 	{
+      "description": "Tegut is a Swiss-owned supermarket chain based in Fulda, Germany, which operates 275 stores across seven of Germany's Bundeslander, namely in Hesse, Thuringia, Bavaria, Rhineland-Palatinate, Saxony-Anhalt, Lower Saxony and Baden-Württemberg. In early January 2013 it was bought by Migros.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Tegut"
+        ]
+      },
+      "uuid": "180a80de-a9d8-11eb-bcbc-0242ac130002",
+      "value": "Tegut"
+    },
+	{
       "description": "Hy-Vee is a chain of more than 245 supermarkets located throughout the Midwestern United States in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.",
       "meta": {
         "refs": [

@@ -870,6 +870,36 @@
 			"value": "Celsius Network"
 		},
 		{
+			"description": "Nissan Century Securities Co.,Ltd. was founded in 2006. The Company's line of business includes the purchase, sale, and brokerage of securities.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/NSSEZ:JP"
+				]
+			},
+			"uuid": "180a7882-a9d8-11eb-bcbc-0242ac130002",
+			"value": "Nissan Securities Co., Ltd."
+		},
+		{
+			"description": "First Horizon Bank, formerly First Tennessee Bank, is a financial services company based in Memphis, Tennessee. The leading subsidiary of First Horizon National Corporation, it provides financial services through more than 180 locations in and around Tennessee. The company was founded during the Civil War in 1864.",
+			"meta": {
+				"refs": [
+					"https://www.firsthorizon.com/"
+				]
+			},
+			"uuid": "180a7a8a-a9d8-11eb-bcbc-0242ac130002",
+			"value": "First Horizon Bank"
+		},
+		{
+			"description": "Italian cooperative bank based in Rome.",
+			"meta": {
+				"refs": [
+					"https://m.wikidata.org/wiki/Q25060394"
+				]
+			},
+			"uuid": "180a7b70-a9d8-11eb-bcbc-0242ac130002",
+			"value": "Banca di Credito Cooperativo di Roma (BCC)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

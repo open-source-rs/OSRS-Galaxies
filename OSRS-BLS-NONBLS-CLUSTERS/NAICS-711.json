@@ -67,6 +67,16 @@
       "value": "Williams Grand Prix Engineering Limited"
     },
 	{
+      "description": "The Houston Rockets are an American professional basketball team based in Houston. The Rockets compete in the National Basketball Association as a member team of the league's Western Conference Southwest Division. The team plays its home games at the Toyota Center, located in Downtown Houston.",
+      "meta": {
+        "refs": [
+          "https://www.nba.com/rockets/"
+        ]
+      },
+      "uuid": "7e8f5fec-a9dc-11eb-bcbc-0242ac130002",
+      "value": "The Houston Rockets"
+    },
+	{
       "description": "Woodruff Arts Center is a visual and performing arts center located in Atlanta, Georgia. The center houses three not-for-profit arts divisions on one campus. Opened in 1968, the Woodruff Arts Center is home to the Alliance Theatre, the Atlanta Symphony Orchestra, and the High Museum of Art.",
       "meta": {
         "refs": [

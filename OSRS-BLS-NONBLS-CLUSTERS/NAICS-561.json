@@ -277,6 +277,16 @@
 			"value": "Administrative Advantage LLC"
 		},
 		{
+			"description": "Elekta is a Swedish company that provides radiation therapy, radiosurgery, related equipment and clinical management for the treatment of cancer and brain disorders.",
+			"meta": {
+				"refs": [
+					"https://www.elekta.com/"
+				]
+			},
+			"uuid": "691b0972-a9d7-11eb-bcbc-0242ac130002",
+			"value": "Elekta"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

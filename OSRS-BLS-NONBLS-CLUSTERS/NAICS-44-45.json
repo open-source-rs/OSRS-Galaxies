@@ -587,6 +587,16 @@
 			"value": "The Wurth Group"
 		},
 		{
+			"description": "Canac is the first independent hardware and building materials chain to have emerged in Quebec and today has 31 branches in the province. With personalized service and over 140 years of construction and renovation expertise, Canac enjoys an enviable reputation. With 4,000 employees and a more than competitive price offer, the company continues to expand in order to extend its service throughout Quebec. Always very close to people, Canac continues, in its own way, to perpetuate the spirit of the hardware stores of yesteryear in a modern environment, by remaining at the forefront of their needs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/canac/about/"
+				]
+			},
+			"uuid": "3654dbf6-a9de-11eb-bcbc-0242ac130002",
+			"value": "Canac"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

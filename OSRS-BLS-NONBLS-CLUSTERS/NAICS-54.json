@@ -3414,6 +3414,96 @@
 			"value": "Codecov"
 		},
 		{
+			"description": "Using organisational network analysis we reveal the hidden networks and relationships which hold the keys to unlocking performance, driving engagement and identifying growth opportunities.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/clearvoice-ltd/about/"
+				]
+			},
+			"uuid": "bab8dc28-a9dc-11eb-bcbc-0242ac130002",
+			"value": "ClearVoice"
+		},
+		{
+			"description": "Radixx offers a world-class, browser-based, Passenger Services System, Departure Control System, and Internet Booking Engine, natively designed to help airlines increase their profitability and maximize productivity through expanded distribution services. The systems micro-services based architecture allows airlines to auto-scale and rapidly deploy to quickly adapt to their needs. Since 2016, Radixx has the backing of TA Associates, a leading global growth private equity firm, and is now delivering its sixth-generation passenger service system. Radixx’s fully integrated, cloud-based solutions support all airline business models and currently hosts over 35 airlines across six continents.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/radixx-international/about/"
+				]
+			},
+			"uuid": "bab8de12-a9dc-11eb-bcbc-0242ac130002",
+			"value": "Radixx"
+		},
+		{
+			"description": "Originally founded under the name of Visual Data Engineering in May 2000, we provided contracting services for agile software development for 4 years. During this time we developed primarily web based solutions, hosted internally within a customer's network, in industry verticals including Property Management, Gaming & Entertainment, Hospitality, Health & Fitness, Lotteries and Agriculture. During these initial 4 years, we witnessed a large number of clients who adopted poor Password Management practices, such as storing passwords in unprotected spreadsheets etc. Based on our observations, and the widespreed nature of poor practices, we commenced development of Passwordstate in March 2004.",
+			"meta": {
+				"refs": [
+					"https://www.clickstudios.com.au/about-us.aspx"
+				]
+			},
+			"uuid": "bab8df02-a9dc-11eb-bcbc-0242ac130002",
+			"value": "Click Studios (SA) Pty Ltd"
+		},
+		{
+			"description": "ShopBack is a cashback reward program available across Asia-Pacific with over 5 million members on its platform. It allows online shoppers to receive a small percentage of their purchases on the platform, paid for through affiliate programs by the merchant.",
+			"meta": {
+				"refs": [
+					"https://www.shopback.sg/"
+				]
+			},
+			"uuid": "bab8e16e-a9dc-11eb-bcbc-0242ac130002",
+			"value": "ShopBack"
+		},
+		{
+			"description": "Gyrodata, Incorporated is a privately owned company headquartered in Houston, Texas. The company has principal offices in Aberdeen, Scotland and Kuala Lumpur, Malaysia.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Gyrodata"
+				]
+			},
+			"uuid": "bab8e236-a9dc-11eb-bcbc-0242ac130002",
+			"value": "Gyrodata, Inc."
+		},
+		{
+			"description": "Mipharm has been investing significant resources to continuously improve manufacturing site qualitative standard and currently it is able to produce and to pack a huge range of products and pharmaceutical forms.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/mipharm-s.p.a./about/"
+				]
+			},
+			"uuid": "60132c6e-a9dd-11eb-bcbc-0242ac130002",
+			"value": "Mipharm SPA"
+		},
+		{
+			"description": "Descomplica is the 1st large digital education company in Brazil, the only one present in the entire national territory and the fastest growing in the world.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/school/descomplica/about/"
+				]
+			},
+			"uuid": "60132e62-a9dd-11eb-bcbc-0242ac130002",
+			"value": "Descomplica, Ltd."
+		},
+		{
+			"description": "Zambon is an Italian company that has been operating in the pharmaceutical and fine chemical industry since 1906. It is well-known for its mucolytic agent, Fluimucil, used to treat respiratory problems. The company is currently run by Elena Zambon who is the daughter of the founder.",
+			"meta": {
+				"refs": [
+					"https://www.zambon.com/en"
+				]
+			},
+			"uuid": "60132fe8-a9dd-11eb-bcbc-0242ac130002",
+			"value": "Zambon"
+		},
+		{
+			"description": "Security alarm installation and service company, Norway.",
+			"meta": {
+				"refs": [
+					"http://www.vaktogalarm.no/om-oss.296574.no.html"
+				]
+			},
+			"uuid": "601330b0-a9dd-11eb-bcbc-0242ac130002",
+			"value": "Vakt og Alarm AS"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
