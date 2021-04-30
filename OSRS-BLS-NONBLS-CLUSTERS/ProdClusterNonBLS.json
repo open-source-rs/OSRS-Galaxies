@@ -4397,6 +4397,109 @@
 			"value": "The Municipality of Kammeltal"
 		},
 		{
+			"description": "The Attorney General is the state's chief legal officer and is responsible for protecting the public interest of the state and its people. The job of the Attorney General is to Advocate on behalf of all of the people of Illinois, Legislate with members of the General Assembly for new laws, and Litigate to ensure state laws are followed and respected. The Attorney General provides services that cover a broad range of issues, reaching every corner of Illinois.",
+			"meta": {
+				"refs": [
+					"https://illinoisattorneygeneral.gov/about/index.html"
+				]
+			},
+			"uuid": "6c180698-a9d2-11eb-bcbc-0242ac130002",
+			"value": "Illinois Attorney General"
+		},
+		{
+			"description": "The Santa Clara Valley Transportation Authority is a special district responsible for public transit services, congestion management, specific highway improvement projects, and countywide transportation planning for Santa Clara County, California.",
+			"meta": {
+				"refs": [
+					"https://www.vta.org/"
+				]
+			},
+			"uuid": "6c180972-a9d2-11eb-bcbc-0242ac130002",
+			"value": "Santa Clara Valley Transportation Authority"
+		},
+		{
+			"description": "Jijona or Xixona is a town and municipality in the Valencian Community on the eastern coast of Spain.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Jijona/Xixona"
+				],
+        "synonyms": [
+        "Xixona"
+        ]
+			},
+			"uuid": "6c180a62-a9d2-11eb-bcbc-0242ac130002",
+			"value": "Municipality of Jijona"
+		},
+		{
+			"description": "The Department for Digital, Culture, Media and Sport is a department of the United Kingdom government, with responsibility for culture and sport in England, the building of a digital economy, and some aspects of the media throughout the UK, such as broadcasting and Internet.",
+			"meta": {
+				"refs": [
+					"https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
+				]
+			},
+			"uuid": "6c180b2a-a9d2-11eb-bcbc-0242ac130002",
+			"value": "Department for Digital, Culture, Media and Sport"
+		},
+		{
+			"description": "Fiji, a country in the South Pacific, is an archipelago of more than 300 islands. It's famed for rugged landscapes, palm-lined beaches and coral reefs with clear lagoons. Its major islands, Viti Levu and Vanua Levu, contain most of the population. Viti Levu is home to the capital, Suva, a port city with British colonial architecture.",
+			"meta": {
+				"refs": [
+					"https://www.fiji.gov.fj/Home"
+				]
+			},
+			"uuid": "6c180be8-a9d2-11eb-bcbc-0242ac130002",
+			"value": "The Government of Fiji"
+		},
+		{
+			"description": "Centennial School District is a school district in the U.S. state of Oregon. It serves the cities of Gresham and southeast Portland, with an enrollment of approximately 6,700 students.",
+			"meta": {
+				"refs": [
+					"https://www.csd28j.org/"
+				]
+			},
+			"uuid": "42024cc8-a9d3-11eb-bcbc-0242ac130002",
+			"value": "Centennial School District, OR"
+		},
+		{
+			"description": "Public school district in Guilderland Center, NY.",
+			"meta": {
+				"refs": [
+					"https://www.guilderlandschools.org/"
+				]
+			},
+			"uuid": "42024eee-a9d3-11eb-bcbc-0242ac130002",
+			"value": "Guilderland Central School District"
+		},
+		{
+			"description": "Bourg-Saint-Maurice, popularly known as just Bourg, is a commune in the Savoie department in the Auvergne-Rhone-Alpes region in south-eastern France. It serves as a transport hub for the Paradiski ski area, with direct trains from London during the winter.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Bourg-Saint-Maurice"
+				]
+			},
+			"uuid": "420251dc-a9d3-11eb-bcbc-0242ac130002",
+			"value": "Bourg-Saint-Maurice"
+		},
+		{
+			"description": "The Maine Department of Health and Human Services (DHHS) is dedicated to promoting health, safety, resilience, and opportunity for Maine people. The Department provides health and social services to approximately a third of the State's population, including children, families, older Mainers, and individuals with disabilities, mental illness, and substance use disorders.",
+			"meta": {
+				"refs": [
+					"https://www.maine.gov/dhhs/about-us"
+				]
+			},
+			"uuid": "420252b8-a9d3-11eb-bcbc-0242ac130002",
+			"value": "Maine Department of Health and Human Services"
+		},
+		{
+			"description": "The Metropolitan Police Department of the District of Columbia, more commonly known as the Metropolitan Police Department and the DC Police, is the primary law enforcement agency for the District of Columbia, in the United States.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Metropolitan_Police_Department_of_the_District_of_Columbia"
+				]
+			},
+			"uuid": "42025376-a9d3-11eb-bcbc-0242ac130002",
+			"value": "Metropolitan Police Department of the District of Columbia"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
