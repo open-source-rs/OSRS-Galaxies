@@ -3581,6 +3581,19 @@
       "value": "OSRS OSINT Source: Building Design Online"
     },
 	{
+      "description": "Jamf is a software company that is the developer of Jamf Pro, an application used by system administrators to configure and automate IT administration tasks for macOS, iOS, iPadOS, and tvOS devices. The product includes server and client software that runs on iOS, macOS, and tvOS.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.jamf.com/blog/"
+        ]
+      },
+      "uuid": "42973dd0-a9cc-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Source: Jamf Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

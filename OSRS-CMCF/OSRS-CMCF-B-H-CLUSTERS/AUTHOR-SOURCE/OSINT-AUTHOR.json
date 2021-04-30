@@ -9069,6 +9069,58 @@
       "value": "OSRS OSINT Author Index: Jim Dunton"
     },
 	{
+      "description": "Simon is a Principal Researcher in Palo Alto Network Unit 42 research group. He draws upon more than twenty-five years of international experience in the fields of computer and Internet infrastructure, networking, and security and investigation, including several years in the Microsoft Security Response Center.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.crunchbase.com/person/simon-conant"
+        ]
+      },
+      "uuid": "4297390c-a9cc-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: Simon Conant"
+    },
+	{
+      "description": "macOS Detections Expert. Greater Lansing.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/jaron-bradley/"
+        ]
+      },
+      "uuid": "42973b50-a9cc-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: Jaron Bradley"
+    },
+	{
+      "description": "Security Researcher, Cyber Threat Intelligence Lab la Bitdefender. Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/victor-vrabie-33a378139/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "42973c40-a9cc-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: Victor Vrabie"
+    },
+	{
+      "description": "Director of Threat Research and Reporting at Bitdefender. Bucharest, Bucharest, Romani.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/bogdanbotezatu/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "42973d12-a9cc-11eb-bcbc-0242ac130002",
+      "value": "OSRS OSINT Author Index: Bogdan BOTEZATU"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

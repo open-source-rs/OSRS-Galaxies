@@ -1256,6 +1256,46 @@
       "value": "OSRS Backdoor: Vyveva Backdoor"
     },
 	{
+      "description": "Backdoor similar to the CommsCacher backdoor, a legitimate SQLite DLL with a malicious sqlite3_create_functionex exported.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/"
+        ]
+      },
+      "uuid": "86c396cc-a9ca-11eb-bcbc-0242ac130002",
+      "value": "OSRS Backdoor: ApplicationCacher Backdoor"
+    },
+	{
+      "description": "RotaJakiro pays quite some attention to hide its trails, using multiple of encryption algorithms, including the use of AES algorithm to encrypt the resource information within the sample, C2 communication using a combination of AES, XOR, ROTATE encryption and ZLIB compression. RotaJakiro supports a total of 12 functions, three of which are related to the execution of specific Plugins. Unfortunately, we have no visibilityto the plugins, and therefore do not know its true purpose. From a broad backdoor perspective, the functions can be grouped into the following four categories.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/"
+        ]
+      },
+      "uuid": "86c398de-a9ca-11eb-bcbc-0242ac130002",
+      "value": "OSRS Backdoor: RotaJakiro Backdoor"
+    },
+	{
+      "description": "Nebulae is used as a measure of precaution to not lose the persistence in case any signs of infections gets detected.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://labs.bitdefender.com/2021/04/new-nebulae-backdoor-linked-with-the-naikon-group/",
+		  "https://www.bitdefender.com/files/News/CaseStudies/study/396/Bitdefender-PR-Whitepaper-NAIKON-creat5397-en-EN.pdf"
+        ]
+      },
+      "uuid": "86c399c4-a9ca-11eb-bcbc-0242ac130002",
+      "value": "OSRS Backdoor: Nebulae Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

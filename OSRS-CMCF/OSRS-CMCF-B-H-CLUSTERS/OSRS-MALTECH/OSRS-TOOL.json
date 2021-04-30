@@ -6757,6 +6757,45 @@
       "value": "OSRS Tool: THINBLOOD Log Wiper"
     },
 	{
+      "description": "WeSteal uses regular expressions to look for strings matching the patterns of Bitcoin and Ethereum wallet identifiers being copied to the clipboard. When it matches these, it replaces the copied wallet ID in the clipboard with one supplied by the malware. The victim then pastes the substituted wallet ID for a transaction, and the funds are sent instead to the substitute wallet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/westeal/"
+        ]
+      },
+      "uuid": "8ed1e0b6-a9cb-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: WeSteal Miner"
+    },
+	{
+      "description": "WeControl is marketed as a rat botnet hybrid. The description seems to indicate that the actors have incorporated the C2-as-a-service model of WeSteal into this RAT as well. This is not the first web-based C2aaS as they claim – WebMonitor RAT has been offering C2aaS for over two years. Using a familiar technique from WeSteal, WeControl is again compiled Python obfuscated with PyArmor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/westeal/"
+        ]
+      },
+      "uuid": "8ed1e89a-a9cb-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: WeControl RAT"
+    },
+	{
+      "description": "From the end of last year to now, researchers have see the uptick of the mining botnet families. While new families have been popping up, some old ones are get frequently updated. Our BotMon system has recently reported about the rinfo z0miner. And the latest case comes from Sysrv-hello. Two security companies have recently analyzed the new variant of the family, but researchers noticed sysrv's author pushed a new update on April 20, adding a new infection method, injecting malicious script into the html page and infecting users when they visit the compromised researchers webpage.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/threat-alert-new-update-from-sysrv-hello-now-infecting-victims-webpages-to-push-malicious-exe-to-end-users/"
+        ]
+      },
+      "uuid": "8ed1ed68-a9cb-11eb-bcbc-0242ac130002",
+      "value": "OSRS Tool: Sysrv-hello Miner"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
