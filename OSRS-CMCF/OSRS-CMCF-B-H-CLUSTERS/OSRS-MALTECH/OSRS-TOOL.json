@@ -6796,6 +6796,97 @@
       "value": "OSRS Tool: Sysrv-hello Miner"
     },
 	{
+      "description": "WARPRISM is a PowerShell dropper that has been observed by Mandiant delivering SUNCRYPT, BEACON, and MIMIKATZ. WARPRISM is used to evade endpoint detection and will load its payload directly into memory. WARPRISM may be used by multiple groups.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat.html"
+        ]
+      },
+      "uuid": "4098657a-ad9d-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: WARPRISM Dropper"
+    },
+	{
+      "description": "FOXGRABBER is a command line utility used to harvest FireFox credential files from remote systems. FOXGRABBER has also been observed in DARKSIDE ransomware intrusions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat.html"
+        ]
+      },
+      "uuid": "409867e6-ad9d-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: FOXGRABBER Command Line Utility"
+    },
+	{
+      "description": "After being loaded by a legitimate component from Microsoft Outlook, outlib.dll hijacks the intended execution flow of the program to decode and run a shellcode placed in a binary file, rdmin.src.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/"
+        ]
+      },
+      "uuid": "409868fe-ad9d-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: FoundCore Loader"
+    },
+	{
+      "description": "Is a simple shellcode loader which performs anti-analysis and loads additional code from a file named WsmRes.xsl.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/"
+        ]
+      },
+      "uuid": "409869d0-ad9d-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: CoreLoader"
+    },
+	{
+      "description": "DropPhone launches sdclt.exe, then collects environment information from the victim machine and sends it to DropBox. The last thing this implant does is delete data.dat without ever accessing its contents.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/"
+        ]
+      },
+      "uuid": "40986a8e-ad9d-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: DropPhone Loader"
+    },
+	{
+      "description": "Android malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://about.fb.com/news/2021/04/taking-action-against-hackers-in-palestine/"
+        ]
+      },
+      "uuid": "45fcad90-ad9e-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: FrozenCell"
+    },
+	{
+      "description": "The company ClickStudios recently notified their customers about a breach resulting in a supply chain attack conducted via an update of the password manager PASSWORDSTATE. ClickStudios mentioned a breach between the 20th of April 2021 833 PM UTC and 22nd of April 2021 00.30am UTC. The update mechanism was used to drop a malicious update via a zip file Passwordstate_upgrade.zip containing a rogue dll moserware.secretsplitter.dll. The company mentions that the C&C of the rogue dll was using a CDN (Content Delivery Network) that was terminated on the 22nd of April 2021 700am UTC. CSIS Security Group researchers discovered one of the rogue dll's during an investigation. We will try to share the IoC's that we have discovered in order for companies to determine if they have been impacted by this attack. We have dubbed this incident malware Moserpass.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.csis.dk/newsroom-blog-overview/2021/moserpass-supply-chain/"
+        ]
+      },
+      "uuid": "45fcb0b0-ad9e-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: Moserpass Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

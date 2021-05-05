@@ -1296,6 +1296,32 @@
       "value": "OSRS Backdoor: Nebulae Backdoor"
     },
 	{
+      "description": "The Cybereason Nocturnus Team has been tracking recent developments in the RoyalRoad weaponizer, also known as the 8.t Dropper RTF exploit builder. Over the years, this tool has become a part of the arsenal of several Chinese-related threat actors such as Tick, Tonto Team and TA428, all of which  employ RoyalRoad regularly for spear-phishing in targeted attacks against high-value targets. While analyzing newly discovered RoyalRoad samples observed in-the-wild, the Nocturnus Team detected one that not only exhibits anomalous characteristics, but also delivers PortDoor malware, a previously undocumented backdoor assessed to have been developed by a threat actor likely operating on behalf of Chinese state-sponsored interests. According to the phishing lure content examined, the target of the attack was a general director working at the Rubin Design Bureau, a Russian-based defense contractor that designs nuclear submarines for the Russian Federation’s Navy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/portdoor-new-chinese-apt-backdoor-attack-targets-russian-defense-sector"
+        ]
+      },
+      "uuid": "320d1fc4-ad9c-11eb-8529-0242ac130003",
+      "value": "OSRS Backdoor: PortDoor Backdoor"
+    },
+	{
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) recently responded to an advanced persistent threat (APT) actor’s long-term compromise of an entity’s enterprise network, which began in at least March 2020. The threat actor connected to the entity’s network via a Pulse Secure virtual private network (VPN) appliance, moved laterally to its SolarWinds Orion server, installed malware referred to by security researchers as SUPERNOVA (a .NET webshell), and collected credentials. (Updated April 29, 2021) Note at this time CISA cannot link this activity to exploitation of CVE-2021-22893 as addressed in AA21-110A. The entity has run the Ivanti Pulse Secure Connect Integrity Tool and found activity consistent with mismatched files. CISA is still investigating the root cause for the mismatched files. SUPERNOVA is a malicious webshell backdoor that allows a remote operator to dynamically inject C# source code into a web portal to subsequently inject code. APT actors use SUPERNOVA to perform reconnaissance, conduct domain mapping, and steal sensitive information and credentials. (Note for more information on SUPERNOVA, refer to Malware Analysis Report MAR-10319053-1.v1 - SUPERNOVA.) According to a SolarWinds advisory, SUPERNOVA is not embedded within the Orion platform as a supply chain attack rather, an attacker places it directly on a system that hosts SolarWinds Orion, and it is designed to appear as part of the SolarWinds product. CISA assesses this is a separate actor than the APT actor responsible for the SolarWinds supply chain compromise described in Alert AA20-352A Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations. Organizations that find SUPERNOVA on their SolarWinds installations should treat this incident as a separate attack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/"
+        ]
+      },
+      "uuid": "320d2212-ad9c-11eb-8529-0242ac130003",
+      "value": "OSRS Backdoor: SUPERNOVA Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

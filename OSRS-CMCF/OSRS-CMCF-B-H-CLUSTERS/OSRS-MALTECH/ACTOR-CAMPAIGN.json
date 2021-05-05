@@ -2829,6 +2829,47 @@
       "value": "OSRS Actors AND Campaigns: UNC2630"
     },
 	{
+      "description": "Mandiant has observed an aggressive financially motivated group, UNC2447, exploiting one SonicWall VPN zero-day vulnerability prior to a patch being available and deploying sophisticated malware previously reported by other vendors as SOMBRAT. Mandiant has linked the use of SOMBRAT to the deployment of ransomware, which has not been previously reported publicly. UNC2447 monetizes intrusions by extorting their victims first with FIVEHANDS ransomware followed by aggressively applying pressure through threats of media attention and offering victim data for sale on hacker forums. UNC2447 has been observed targeting organizations in Europe and North America and has consistently displayed advanced capabilities to evade detection and minimize post-intrusion forensics. Mandiant has observed evidence of UNC2447 affiliated actors previously using RAGNARLOCKER ransomware. Based on technical and temporal observations of HELLOKITTY and FIVEHANDS deployments, Mandiant suspects that HELLOKITTY may have been used by an overall affiliate program from May 2020 through December 2020, and FIVEHANDS since approximately January 2021.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat.html"
+        ]
+      },
+      "uuid": "3c81d91e-ad9b-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2447"
+    },
+	{
+      "description": "In July 2020, Mandiant Threat Intelligence released a public report detailing an ongoing influence campaign we named Ghostwriter. Ghostwriter is a cyber-enabled influence campaign which primarily targets audiences in Lithuania, Latvia and Poland and promotes narratives critical of the North Atlantic Treaty Organization’s (NATO) presence in Eastern Europe. Since releasing our public report, we have continued to investigate and report on Ghostwriter activity to Mandiant Intelligence customers. We tracked new incidents as they happened and identified activity extending back years before we formally identified the campaign in 2020.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
+		  "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update"
+        ]
+      },
+      "uuid": "3c81db62-ad9b-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Ghostwriter Campaign"
+    },
+	{
+      "description": "Recently obtained technical evidence now allows us to assess with high confidence that UNC1151, a suspected state-sponsored cyber espionage actor that engages in credential harvesting and malware campaigns, conducts at least some components of Ghostwriter influence activity current intelligence gaps, including gaps pertaining to website compromises and the operation of false personas, do not allow us to conclusively attribute all aspects of the Ghostwriter campaign to UNC1151 at this time. We do not associate UNC1151 with any other previously tracked threat groups. Since the start of 2021, UNC1151 has expanded its credential theft activity to target German politicians. This targeting has been publicly reported in the German Tagesschau.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html",
+		  "https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update"
+        ]
+      },
+      "uuid": "3c81dc66-ad9b-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC1151"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
