@@ -1189,6 +1189,26 @@
 			"value": "The University of Castilla–La Mancha"
 		},
 		{
+			"description": "The Technical University of Berlin is a public research university located in Berlin, Germany.",
+			"meta": {
+				"refs": [
+					"https://www.tu.berlin/en/"
+				]
+			},
+			"uuid": "031912f2-ae70-11eb-8529-0242ac130003",
+			"value": "Berlin Institute of Technology"
+		},
+		{
+			"description": "Colchester Institute is a large provider of further and higher education based in the town of Colchester. The institute includes the Colchester School of Art, Faculty of Creative Arts, the Centre for Hospitality and Food Studies, and the Professional Training Centre.",
+			"meta": {
+				"refs": [
+					"https://www.colchester.ac.uk/"
+				]
+			},
+			"uuid": "031913b0-ae70-11eb-8529-0242ac130003",
+			"value": "Colchester Institute"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

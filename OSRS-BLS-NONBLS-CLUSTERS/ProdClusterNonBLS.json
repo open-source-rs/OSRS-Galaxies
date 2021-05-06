@@ -4500,6 +4500,106 @@
 			"value": "Metropolitan Police Department of the District of Columbia"
 		},
 		{
+			"description": "Police deparment, Maine. The Presque Isle Police Department prides itself in its core values of honor, integrity, service to others, and excellence in all we do. It is the mission of the Presque Isle Police Department to create an atmosphere of partnership with the community toward a common goal of protecting life and property and enhancing the overall quality of life through mutual trust and respect and the fair and equitable enforcement of law while carefully safeguarding the dignity of all we serve.",
+			"meta": {
+				"refs": [
+					"http://presqueislemaine.gov/police/"
+				]
+			},
+			"uuid": "837dcbd8-ae6e-11eb-8529-0242ac130003",
+			"value": "Presque Isle Police Department"
+		},
+		{
+			"description": "Pennsylvania Department of Health is a cabinet-level agency in Pennsylvania.",
+			"meta": {
+				"refs": [
+					"https://www.health.pa.gov/"
+				]
+			},
+			"uuid": "837dcec6-ae6e-11eb-8529-0242ac130003",
+			"value": "Pennsylvania Department of Health"
+		},
+		{
+			"description": "Whistler is a town north of Vancouver, British Columbia, that's home to Whistler Blackcomb, one of the largest ski resorts in North America. Besides skiing and snowboarding, the area offers snowshoeing, tobogganing and ski jumping at the Olympic Park, a venue for the 2010 Vancouver Winter Olympics. The hub of Whistler is a compact, chalet-style pedestrian village at the base of Whistler and Blackcomb mountains.",
+			"meta": {
+				"refs": [
+					"https://www.whistler.ca/"
+				]
+			},
+			"uuid": "837dcfde-ae6e-11eb-8529-0242ac130003",
+			"value": "Resort Municipality of Whistler"
+		},
+		{
+			"description": "The Alaska Court System is the unified, centrally administered, and totally state-funded judicial system for the state of Alaska. The Alaska District Courts are the primary misdemeanor trial courts, the Alaska Superior Courts are the primary felony trial courts, and the Alaska Supreme Court and the Alaska Court of Appeals are the primary appellate courts. The chief justice of the Alaska Supreme Court is the administrative head of the Alaska Court System.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Judiciary_of_Alaska"
+				]
+			},
+			"uuid": "837dd0c4-ae6e-11eb-8529-0242ac130003",
+			"value": "Judiciary of Alaska"
+		},
+		{
+			"description": "StudentAid BC is a government program that helps British Columbia students with the cost of post-secondary education. The program connects students to both federal and provincial student financial assistance, and eligibility is based on financial need. StudentAid BC funding is calculated by comparing your educational costs and your financial resources. The amount of funding you may be eligible for depends on your financial situation.",
+			"meta": {
+				"refs": [
+					"https://www.educationplannerbc.ca/plan/finance/aid#:~:text=StudentAid%20BC%20is%20a%20government,is%20based%20on%20financial%20need.&text=Grants%20provided%20by%20StudentAid%20BC%20do%20not%20need%20to%20be%20repaid."
+				]
+			},
+			"uuid": "837dd18c-ae6e-11eb-8529-0242ac130003",
+			"value": "StudentAid BC"
+		},
+		{
+			"description": "The Transportation Research Board (TRB), part of the National Academies of Sciences, Engineering, and Medicine, promotes innovation and progress in transportation through research.  In an objective and interdisciplinary setting, TRB facilitates the sharing of information on transportation practice and policy by researchers and practitioners stimulates research and offers research management services that promote technical excellence provide expert advice on transportation policy and programs and disseminates research results broadly and encouraged their implementation.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/transportation-research-board-of-the-national-academies/about/"
+				]
+			},
+			"uuid": "29a8bd1a-ae6f-11eb-8529-0242ac130003",
+			"value": "The Transportation Research Board"
+		},
+		{
+			"description": "Our mission is to create GMSSS NYC, Sec-23 A, Chandigarh an highly regarded for its academic excellence . Our School Contribute actively serving and improving the community. To provide Quality education so that every child achieve personal success and became a responsible Citizen. School prepare students to be confident and active citizen who are self directed for life long and become faithful family members .We promote positive attitude towards success. India.",
+			"meta": {
+				"refs": [
+					"http://www.gmsss23nyc.co.in/"
+				]
+			},
+			"uuid": "29a8bf86-ae6f-11eb-8529-0242ac130003",
+			"value": "Government Senior Secondary School, Sector 23"
+		},
+		{
+			"description": "The Office of the Solicitor General of the Philippines, formerly known as the Bureau of Justice, is an independent and autonomous office attached to the Department of Justice. The OSG is headed by Jose Calida. The Office of the Solicitor General is the law firm of the Republic of the Philippines.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Office_of_the_Solicitor_General_of_the_Philippines"
+				]
+			},
+			"uuid": "29a8c2ec-ae6f-11eb-8529-0242ac130003",
+			"value": "The Office of the Solicitor General of the Philippines"
+		},
+		{
+			"description": "Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower. Toronto also has many green spaces, from the orderly oval of Queen’s Park to 400-acre High Park and its trails, sports facilities and zoo.",
+			"meta": {
+				"refs": [
+					"https://www.toronto.ca/"
+				]
+			},
+			"uuid": "29a8c45e-ae6f-11eb-8529-0242ac130003",
+			"value": "The City of Toronto"
+		},
+		{
+			"description": "Nama Khoi Municipality is a local municipality in the Northern Cape Province of South Africa. It is administered from the town of Springbok.",
+			"meta": {
+				"refs": [
+					"http://www.namakhoi.gov.za/"
+				]
+			},
+			"uuid": "29a8c530-ae6f-11eb-8529-0242ac130003",
+			"value": "Nama Khoi Local Municipality"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

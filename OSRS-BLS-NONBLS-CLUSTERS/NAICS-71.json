@@ -237,6 +237,16 @@
       "value": "Pluto TV"
     },
 	{
+      "description": "Virgin Active is a chain of health clubs in South Africa, Botswana, Namibia, Italy, Australia, Singapore, Thailand and the United Kingdom.",
+      "meta": {
+        "refs": [
+          "https://www.virginactive.com/"
+        ]
+      },
+      "uuid": "03190cda-ae70-11eb-8529-0242ac130003",
+      "value": "Virgin Active"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

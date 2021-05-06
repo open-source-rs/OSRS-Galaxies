@@ -1830,6 +1830,36 @@
 			"value": "UnitingCare"
 		},
 		{
+			"description": "St. John's Well Child and Family Center is an independent, 501(c)(3) network of community health centers that provides care to patients of all ages in South Los Angeles. Our mission is to eliminate health disparities and foster community well-being by providing and promoting the highest quality care in South Los Angeles.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/st.-john's-well-child-&-family-center/about/"
+				]
+			},
+			"uuid": "1815aec6-ae71-11eb-8529-0242ac130003",
+			"value": "St. John’s Well Child and Family Center"
+		},
+		{
+			"description": "Scripps Health is a nonprofit health care system based in San Diego, California. The system includes five hospitals and 19 outpatient facilities, and treats a half-million patients annually through 2,600 affiliated physicians. The system also includes clinical research and medical education programs.",
+			"meta": {
+				"refs": [
+					"https://www.scripps.org/"
+				]
+			},
+			"uuid": "1815b128-ae71-11eb-8529-0242ac130003",
+			"value": "Scripps Health"
+		},
+		{
+			"description": "Midwest Transplant Network (MTN) has been connecting lives in Kansas and western Missouri since 1973. As a federally certified, not-for-profit organ procurement organization (OPO), we work with organ, eye, and tissue donors, their families, hospitals, and other professional partners to extend legacies, provide hope and give life.",
+			"meta": {
+				"refs": [
+					"https://mwtn.org/about-midwest-transplant-network/"
+				]
+			},
+			"uuid": "1815b1fa-ae71-11eb-8529-0242ac130003",
+			"value": "Midwest Transplant Network"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -57,6 +57,16 @@
       "value": "Dussmann Group"
     },
 	{
+      "description": "J. Spargo and Associates, Incorporated provides management services. The Company offers services to trade groups, professional associations, and other groups. J. Spargo and Associates operates worldwide.",
+      "meta": {
+        "refs": [
+          "https://www.bloomberg.com/profile/company/3946660Z:US"
+        ]
+      },
+      "uuid": "09c1de10-ae73-11eb-8529-0242ac130003",
+      "value": "J Spargo & Associates Inc"
+    },
+	{
       "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
       "meta": {
         "refs": [
