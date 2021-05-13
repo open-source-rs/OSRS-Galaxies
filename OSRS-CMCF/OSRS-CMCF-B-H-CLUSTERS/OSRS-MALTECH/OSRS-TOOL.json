@@ -6887,6 +6887,123 @@
       "value": "OSRS Tool: Moserpass Loader"
     },
 	{
+      "description": "This tool is a passive backdoor which allows attackers to inspect all incoming traffic to the infected machine, filter out packets that are marked as designated for the malware and respond to them. This forms a covert channel over which attackers are able to issue shell commands and receive back their outputs.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "5a50c7fc-b3f9-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: Moriya Rootkit"
+    },
+	{
+      "description": "Earthworm is used to create tunnels between compromised hosts and transfer data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "5a50ca9a-b3f9-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: Earthworm"
+    },
+	{
+      "description": "Another tool that researchers detected under the filename tmp that was used to transfer data between compromised hosts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "5a50cc34-b3f9-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: TRAN Loader"
+    },
+	{
+      "description": "IISSpy is an older user-mode version of the Moriya rootkit that we were able to pinpoint in our telemetry. It is used to target IIS servers for establishing a backdoor in their underlying websites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "5a50d06c-b3f9-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: IISSpy"
+    },
+	{
+      "description": "As its name suggests, it is intended to eliminate execution of processes, with the use of a kernel mode driver. Ultimately, this tool is used to shut down and block initiation of AV processes from kernel space, thus allowing other attack tools to run without being detected.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "5a50d166-b3f9-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: ProcessKiller Rootkit"
+    },
+	{
+      "description": "Variant of the Gozi banking trojan.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2021/05/04/rm3-curiosities-of-the-wildest-banking-malware/"
+        ]
+      },
+      "uuid": "01b7fdb2-b3fa-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: RM3 (Gozi Variant)"
+    },
+	{
+      "description": "Ousaban is a Latin American banking trojan active exclusively in Brazil. ESET has been tracking this malware family since 2018. In common with most other LATAM banking trojans, Ousaban uses overlay windows to steal credentials and more from financial institutions. However, unlike most other LATAM banking trojans, Ousaban’s developers have extended the use of overlay windows to steal credentials from popular regional email services. In this installment of our series, we examine its main features and many connections to other Latin American banking trojan families.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://"
+        ]
+      },
+      "uuid": "01b80294-b3fa-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: Ousaban Banking Trojan"
+    },
+	{
+      "description": "The dropper component is implemented as an obfuscated in-memory dropper written in PowerShell. Two payloads are embedded in the script—the same instances of the DOUBLEBACK backdoor compiled for 32 and 64-bit architectures. The dropper saves the encrypted payload along with the information related to its decryption and execution in the compromised system’s registry database, effectively achieving a file-less malware execution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html"
+        ]
+      },
+      "uuid": "01b80384-b3fa-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: DOUBLEDROP Dropper"
+    },
+	{
+      "description": "DOUBLEDRAG reaches out to its C2 server and downloads a memory-only dropper. The dropper, DOUBLEDROP, is implemented as a PowerShell script that contains both 32-bit and 64-bit instances of the backdoor DOUBLEBACK. The dropper performs the initial setup that establishes the backdoor’s persistence on the compromised system and proceeds by injecting the backdoor into its own process (PowerShell.exe) and then executing it. The backdoor, once it has the execution control, loads its plugins and then enters a communication loop, fetching commands from its C2 server and dispatching them. One interesting fact about the whole ecosystem is that only the downloader exists in the file system. The rest of the components are serialized in the registry database, which makes their detection somewhat harder, especially by file-based antivirus engines.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html"
+        ]
+      },
+      "uuid": "01b80442-b3fa-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: DOUBLEDRAG Downloader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

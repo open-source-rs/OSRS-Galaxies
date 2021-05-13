@@ -2870,6 +2870,71 @@
       "value": "OSRS Actors AND Campaigns: UNC1151"
     },
 	{
+      "description": "In December 2020, Mandiant observed a widespread, global phishing campaign targeting numerous organizations across an array of industries. Mandiant tracks this threat actor as UNC2529. Based on the considerable infrastructure employed, tailored phishing lures and the professionally coded sophistication of the malware, this threat actor appears experienced and well resourced. This blog post will discuss the phishing campaign, identification of three new malware families, DOUBLEDRAG, DOUBLEDROP and DOUBLEBACK, provide a deep dive into their functionality, present an overview of the actor’s modus operandi and our conclusions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html"
+        ]
+      },
+      "uuid": "76938582-b3f7-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2529"
+    },
+	{
+      "description": "UNC2628 has been active since at least February 2021. Their intrusions progress relatively quickly with the threat actor typically deploying ransomware in two to three days. We have some evidence that suggests UNC2628 has partnered with other RaaS including SODINOKIBI (REvil) and NETWALKER.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html"
+        ]
+      },
+      "uuid": "76938992-b3f7-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2628"
+    },
+	{
+      "description": "UNC2659 has been active since at least January 2021. We have observed the threat actor move through the whole attack lifecycle in under 10 days. UNC2659 is notable given their use of an exploit in the SonicWall SMA100 SSL VPN product, which has since been patched by SonicWall. The threat actor appeared to download several tools used for various phases of the attack lifecycle directly from those tool's legitimate public websites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html"
+        ]
+      },
+      "uuid": "76938a96-b3f7-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2659"
+    },
+	{
+      "description": "UNC2465 activity dates back to at least April 2019 and is characterized by their use of similar TTPs to distribute the PowerShell-based .NET backdoor SMOKEDHAM in victim environments. In one case where DARKSIDE was deployed, there were months-long gaps, with only intermittent activity between the time of initial compromise to ransomware deployment. In some cases, this could indicate that initial access was provided by a separate actor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html"
+        ]
+      },
+      "uuid": "76938b5e-b3f7-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2465"
+    },
+	{
+      "description": "Consequently, the number of Windows rootkits in the wild has decreased dramatically, with the bulk of those still active often being leveraged in high profile APT attacks. One such example came to our attention during an investigation last year, in which we uncovered a formerly unknown Windows rootkit and its underlying cluster of activity. We observed this rootkit and other tools by the threat actor behind it being used as part of a campaign we dubbed TunnelSnake, conducted against several prominent organizations in Asia and Africa.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/"
+        ]
+      },
+      "uuid": "0d216618-b3f8-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation TunnelSnake"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

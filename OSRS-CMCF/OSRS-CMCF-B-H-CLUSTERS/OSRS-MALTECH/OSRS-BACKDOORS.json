@@ -1322,6 +1322,32 @@
       "value": "OSRS Backdoor: SUPERNOVA Backdoor"
     },
 	{
+      "description": "In this post, we analyze a piece of malware that we encountered during a recent breach investigation. What caught our attention was how the malware achieved persistence, how it used ICMP tunneling for its backdoor communications, and how it operated with different modes to increase its chances of a successful attack. Malware using ICMP is not new but is relatively uncommon. Because of this, and the presence of certain strings, we decided to name this malware Pingback. Below we demonstrate how Pingback’s protocols work and also provide sample code on how we interacted with the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/backdoor-at-the-end-of-the-icmp-tunnel/"
+        ]
+      },
+      "uuid": "66aa9574-b3f8-11eb-8529-0242ac130003",
+      "value": "OSRS Backdoor: Pingback Backdoor"
+    },
+	{
+      "description": "The observed DOUBLEDROP instances contain a well-designed backdoor implemented as a 32 or 64-bit PE dynamic library which we track as DOUBLEBACK. The backdoor is initially mapped into the same PowerShell process started by the bootstrap script, but it will then inject itself into a msiexec.exe process if certain conditions are met. By design, the core of the backdoor functionality is intended to be executed after injected into a newly spawned msiexec.exe process. In contrast with other backdoors DOUBLEBACK does not have its services hardcoded and the functionality is expected to be implemented as plugins that are expected to be serialized in the registry database under a host-specific registry path. That way, the backdoor can be configured to implement a flexible set of services depending on the target. With all the common functionality implemented as plugins, the backdoor’s main goal is to establish a communication framework ensuring data integrity between the C2 server and the appropriate plugins.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html"
+        ]
+      },
+      "uuid": "66aa97b8-b3f8-11eb-8529-0242ac130003",
+      "value": "OSRS Backdoor: DOUBLEBACK Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
