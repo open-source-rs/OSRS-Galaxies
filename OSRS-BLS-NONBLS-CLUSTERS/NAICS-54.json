@@ -3534,6 +3534,46 @@
 			"value": "The Achievement Center of LECOM Health"
 		},
 		{
+			"description": "SmileDirectClub is a teledentistry company. The company was co-founded in 2014 by Jordan Katzman and Alex Fenkell. It is based in Nashville, Tennessee.",
+			"meta": {
+				"refs": [
+					"https://smiledirectclub.com/"
+				]
+			},
+			"uuid": "ceaeac62-b70b-11eb-8529-0242ac130003",
+			"value": "SmileDirectClub"
+		},
+		{
+			"description": "DriveSure helps new car dealership remain the go-to provider for maintenance, tires, and repairs. We don’t do it through gimmicks, discounts, or spam – but through a truly unique way to offer more value to vehicle owners.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/krex-inc/about/"
+				]
+			},
+			"uuid": "ceaeaed8-b70b-11eb-8529-0242ac130003",
+			"value": "DriveSure"
+		},
+		{
+			"description": "As the embodiment of our corporate vision, our name and its structural components are a constant affirmation of who we are, what we do and how we do it. Through these partnerships and our experienced scientists we have optimized study outcomes, decreased sponsors’ timelines for FDA approval, and provided competitive product differentiation. From long experience, we believe that success in our field is best achieved by a fusion of scientific discipline, human agility and client partnership. Together, these guiding principles provide a solid working foundation, enabling our teams to excel with every mission, no matter how demanding, complex, or time sensitive.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/nexelis/about/"
+				]
+			},
+			"uuid": "ceaeafc8-b70b-11eb-8529-0242ac130003",
+			"value": "Nexelis Group"
+		},
+		{
+			"description": "As a long-term care pharmacy (LTCP), we provide medications and consultant pharmacy services to long-term care facilities such as nursing homes. As a LTCP, we provide continuous access to a pharmacist as well as offer emergency delivery of medication. Our main focus is to ensure that patients have access to their medication therapies in a timely manner.",
+			"meta": {
+				"refs": [
+					"https://www.tricitiesrx.com/long-term-care"
+				]
+			},
+			"uuid": "ceaeb0a4-b70b-11eb-8529-0242ac130003",
+			"value": "RX Pharmacy LTC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

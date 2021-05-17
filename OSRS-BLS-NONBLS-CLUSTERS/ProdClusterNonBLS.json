@@ -4600,6 +4600,86 @@
 			"value": "Nama Khoi Local Municipality"
 		},
 		{
+			"description": "Tulsa is a city on the Arkansas River, in the U.S. state of Oklahoma. It’s known for its art deco architecture, mostly in the central Deco District. Landmarks like the Philcade and Philtower buildings reflect a 20th-century construction boom fueled by the prosperous local oil industry. The Philbrook Museum of Art is housed in an Italianate villa that was once the home of a local oil magnate.",
+			"meta": {
+				"refs": [
+					"http://www.cityoftulsa.org/"
+				]
+			},
+			"uuid": "2ed201da-b706-11eb-8529-0242ac130003",
+			"value": "The City of Tulsa"
+		},
+		{
+			"description": "Oviedo is a town in northwest Spain between the Cantabrian Mountains and the Bay of Biscay. The capital of Asturias, it’s known for its medieval old town, the site of the Gothic Oviedo Cathedral with its 9th-century Holy Chamber. The Archaeological Museum of Asturias, in a nearby convent, displays regional artifacts. The Fine Arts Museum of Asturias includes 2 palaces and has an expansive Spanish art collection.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Oviedo"
+				]
+			},
+			"uuid": "2ed2040a-b706-11eb-8529-0242ac130003",
+			"value": "The Town of Oviedo, Spain"
+		},
+		{
+			"description": "The Mandan, Hidatsa, and Arikara Nation, also known as the Three Affiliated Tribes, is a Native American Nation resulting from the alliance of the Mandan, Hidatsa, and Arikara peoples, whose native lands ranged across the Missouri River basin extending from present day North Dakota through western Montana and Wyoming. After the signing of the Fort Laramie Treaty and subsequent taking of land, the Nation's land base is currently approximately 1 million acres located Fort Berthold Reservation in northwestern North Dakota. The Tribe reported a total enrollment of 16,750 living enrolled tribal members as of November 13, 2020. Nearly 5,200 live on the reservation, others live and work elsewhere.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Mandan,_Hidatsa,_and_Arikara_Nation"
+				]
+			},
+			"uuid": "2ed204fa-b706-11eb-8529-0242ac130003",
+			"value": "The Mandan, Hidatsa and Arikara Nation"
+		},
+		{
+			"description": "Chicago, on Lake Michigan in Illinois, is among the largest cities in the U.S. Famed for its bold architecture, it has a skyline punctuated by skyscrapers such as the iconic John Hancock Center, 1,451-ft. Willis Tower (formerly the Sears Tower) and the neo-Gothic Tribune Tower. The city is also renowned for its museums, including the Art Institute of Chicago with its noted Impressionist and Post-Impressionist works.",
+			"meta": {
+				"refs": [
+					"https://www.chicago.gov/"
+				]
+			},
+			"uuid": "2ed2072a-b706-11eb-8529-0242ac130003",
+			"value": "The City of Chicago"
+		},
+		{
+			"description": "Timberland Regional Library is a public library system serving the residents of western Washington state, United States including Grays Harbor, Lewis, Mason, Pacific, and Thurston counties. Timberland Regional Library has 27 community libraries, 2 cooperative library centers, and 3 library kiosks.",
+			"meta": {
+				"refs": [
+					"https://www.trl.org/"
+				]
+			},
+			"uuid": "2ed207e8-b706-11eb-8529-0242ac130003",
+			"value": "Timberland Regional Library"
+		},
+		{
+			"description": "Brevard Public Schools is a school district serving Brevard County, Florida, and based in Viera, Florida. In 2015, the district had about 74,000 students. 24 percent attend a school other than the one to which they are assigned.",
+			"meta": {
+				"refs": [
+					"https://www.brevardschools.org/"
+				]
+			},
+			"uuid": "efbfa6d6-b706-11eb-8529-0242ac130003",
+			"value": "Brevard County School District"
+		},
+		{
+			"description": "The Yukon, a territory in northwest Canada, is wild, mountainous and sparsely populated. Kluane National Park and Reserve includes Mount Logan, Canada’s highest peak, as well as glaciers, trails and the Alsek River. In the far north is Ivvavik National Park, with protected calving grounds for Porcupine caribou. In the south are numerous glacier-fed alpine lakes, including boldly coloured Emerald Lake.",
+			"meta": {
+				"refs": [
+					"https://yukon.ca/"
+				]
+			},
+			"uuid": "efbfa91a-b706-11eb-8529-0242ac130003",
+			"value": "Government of Yukon"
+		},
+		{
+			"description": "Cluj County is a county of Romania, in Transylvania, with the capital city at Cluj-Napoca.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Cluj_County"
+				]
+			},
+			"uuid": "efbfa9f6-b706-11eb-8529-0242ac130003",
+			"value": "Cluj County"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

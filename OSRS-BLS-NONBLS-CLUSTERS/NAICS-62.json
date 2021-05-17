@@ -1860,6 +1860,76 @@
 			"value": "Midwest Transplant Network"
 		},
 		{
+			"description": "Shortly after the turn of the 20th century, Dr. John Gifford, a popular local physician and the son of an East Randolph farmer, took up as a personal cause the creation of a hospital in his home town. In 1903, he purchased the Seldon Holman house on South Main Street – at the site of today’s Gifford Medical Center – and with two nurses established a private hospital. Two years later, discouraged by the high expenses and demands that came with running a small hospital alone, Dr. Gifford made plans to close his hospital. It was then that several local leaders, realizing the value of the hospital, stepped forward to create a corporation that would purchase the hospital and keep it open. Offering shares of capital stock to the community at 25 a piece, they easily raised the 7,500 that was needed to keep the doors open. The hospital became the Randolph Sanatorium, with Dr. Gifford as its medical director. Student nurses were a part of the hospital from the very beginning and in 1905 a two-year nursing program was established.",
+			"meta": {
+				"refs": [
+					"https://giffordhealthcare.org/about-us/history/"
+				]
+			},
+			"uuid": "c2d1c738-b708-11eb-8529-0242ac130003",
+			"value": "Gifford Health Care"
+		},
+		{
+			"description": "San Diego Family Care operates eight health centers in San Diego County. This includes 4 sites in Linda Vista, the Mid-City Community Clinic and the Mid-City Community Clinic, as well as two school based clinics inside elementary and middle schools. These high quality community health centers deliver 116,337 primary care medical, dental and mental health visits annually to all residents of San Diego County. All health centers have been nationally recognized by the National Council on Quality Assurance. Translation is available in multiple languages.",
+			"meta": {
+				"refs": [
+					"https://sdfamilycare.org/about-sdfc/"
+				]
+			},
+			"uuid": "c2d1ca3a-b708-11eb-8529-0242ac130003",
+			"value": "San Diego Family Care"
+		},
+		{
+			"description": "Founded in 1977, Health Center Partners of Southern California is a private, nonprofit association comprised of 16 community clinics and health centers providing primary care for San Diego, Imperial and Riverside counties. A premier consortium of primary health care organizations, Health Center Partners is an advocate for its members providing them with the voice and power to serve vulnerable populations.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/health-center-partners-of-southern-california/about/"
+				]
+			},
+			"uuid": "c2d1cb34-b708-11eb-8529-0242ac130003",
+			"value": "Health Center Partners of Southern California"
+		},
+		{
+			"description": "When it comes to selecting an eye-care specialist, seeing is believing. That’s why since 1919, generations of Iowans have trusted the medical and surgical experts at Wolfe Eye Clinic to provide a higher standard of eye-care excellence. At Wolfe Eye Clinic, some of the nation’s most highly skilled physicians utilize the latest technologies and treatments in LASIK, laser vision correction, age-related eye disease and childhood eye disorders. After all, your sight is our vision.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wolfe-eye-clinic/about/"
+				]
+			},
+			"uuid": "c2d1cbfc-b708-11eb-8529-0242ac130003",
+			"value": "Wolfe Eye Clinic"
+		},
+		{
+			"description": "Mental health clinic in Edinburgh, Scotland",
+			"meta": {
+				"refs": [
+					"https://edinburghpractice.com/"
+				]
+			},
+			"uuid": "c2d1cd96-b708-11eb-8529-0242ac130003",
+			"value": "The Edinburgh Practice"
+		},
+		{
+			"description": "Orthopedic Associates of Dutchess County is a medical group practice located in Poughkeepsie, NY that specializes in Orthopedic Surgery and Physician Assistant (PA).",
+			"meta": {
+				"refs": [
+					"http://www.orthoadc.com/about-us"
+				]
+			},
+			"uuid": "a129f4ec-b709-11eb-8529-0242ac130003",
+			"value": "Orthopedic Associates of Dutchess County"
+		},
+		{
+			"description": "Faxton St. Luke’s Healthcare (FSLH) and St. Elizabeth Medical Center (SEMC) affiliated as the Mohawk Valley Health System (MVHS) effective March 2014. MVHS is governed by a single, 18-member board of directors, with nine members from FSLH’s board and nine from SEMC’s board. The system is operated by a single management team.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/faxton-st-luke's-healthcare/about/"
+				]
+			},
+			"uuid": "a129f8c0-b709-11eb-8529-0242ac130003",
+			"value": "Faxton St. Luke's Healthcare"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

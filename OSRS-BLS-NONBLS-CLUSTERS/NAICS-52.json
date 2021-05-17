@@ -920,6 +920,36 @@
 			"value": "Hotbit"
 		},
 		{
+			"description": "Noblr wants to create friendlier, safer roads for everyone by building a community of responsible drivers, or as we like to call them, Noblr members. By rewarding our members'​ good driving habits, we believe that Noblr can help smart people make even smarter decisions when it comes to getting around – wherever, however, and whenever. Noblr is a new kind of car insurance company that uses the latest technology to provide a seamless quote-to-claim experience, getting drivers safely and economically from point a to point b.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/noblr/about/"
+				]
+			},
+			"uuid": "a847587a-b707-11eb-8529-0242ac130003",
+			"value": "Noblr Car Insurance"
+		},
+		{
+			"description": "United Overseas Bank Limited is a Singaporean multinational banking organisation headquartered in Singapore, with branches mostly found in most Southeast Asian countries.",
+			"meta": {
+				"refs": [
+					"https://www.uobgroup.com/uobgroup/index.page"
+				]
+			},
+			"uuid": "a8475942-b707-11eb-8529-0242ac130003",
+			"value": "United Overseas Bank Limited"
+		},
+		{
+			"description": "SEIU 775 Benefits Group is the nation’s leading organization dedicated to improving the skills, health and sustainability of the home care workforce. Leading with innovation and technology, SEIU 775 Benefits Group partners with government, labor and private industry ensuring that Washington home care workers have access to the skills and benefits they need to thrive. It serves 50,000 caregivers through health and wellness programs and provides 18,000 caregivers with affordable, high-quality medical, prescription and dental plans. Based on enrollment, SEIU 775 Benefits Group is Washington’s second-largest educational institution, providing an estimated 2.1 million hours of essential home care training since 2010. By caring for those who care for others, SEIU 775 Benefits Group is leading the transformation of home care into a thriving career and helping prevent the looming care crisis.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/seiu-775-benefits-group/about/"
+				]
+			},
+			"uuid": "a8475a00-b707-11eb-8529-0242ac130003",
+			"value": "SEIU 775 Benefits Group"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

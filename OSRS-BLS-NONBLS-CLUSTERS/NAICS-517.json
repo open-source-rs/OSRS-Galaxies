@@ -266,6 +266,16 @@
 			"value": "The Phone House Spain SL"
 		},
 		{
+			"description": "Schepisi Communications was formed in 1990 and is now a recognised leader in delivering innovative telecommunications solutions to a diverse range of Corporate, Business and SME customers. This leadership comes from many years of specialist industry knowledge and ongoing commitment to delivering whole-of-business solutions across all areas of Voice, Data, Internet and Mobility.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/schepisi-communications/about/"
+				]
+			},
+			"uuid": "c6879ade-b70c-11eb-8529-0242ac130003",
+			"value": "Schepisi Communications"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [
