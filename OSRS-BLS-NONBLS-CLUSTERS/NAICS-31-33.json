@@ -417,6 +417,36 @@
       "value": "Medtronic plc"
     },
 	{
+      "description": "The Yamabiko Corporation is a Japanese manufacturer of power tools formed with the September 2008 merger of the Kioritz and Shindaiwa corporations. The brands owned and distributed by Yamabiko are Kioritz, Shindaiwa and Echo. The Yamabiko Corporation is based in Ome, Japan.",
+      "meta": {
+        "refs": [
+          "https://www.yamabiko-corp.co.jp/english/"
+        ]
+      },
+      "uuid": "5618db98-bc9b-11eb-8529-0242ac130003",
+      "value": "The Yamabiko Corporation"
+    },
+	{
+      "description": "Herff Jones is an American company that manufactures and sells educational recognition and achievement products and motivational materials, and has been in continuous operation since 1920.",
+      "meta": {
+        "refs": [
+          "https://www.herffjones.com/"
+        ]
+      },
+      "uuid": "5618dc4c-bc9b-11eb-8529-0242ac130003",
+      "value": "Herff Jones"
+    },
+	{
+      "description": "Toshiba Corporation is a Japanese multinational conglomerate headquartered in Minato, Tokyo. Its diversified products and services include power, industrial and social infrastructure systems.",
+      "meta": {
+        "refs": [
+          "https://www.toshiba.com/tai/"
+        ]
+      },
+      "uuid": "5618dd1e-bc9b-11eb-8529-0242ac130003",
+      "value": "Toshiba Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

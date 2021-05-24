@@ -1229,6 +1229,16 @@
 			"value": "Rochester Community and Technical College"
 		},
 		{
+			"description": "The University of Houston is a public research university in Houston, Texas, and the flagship institution of the University of Houston System. Founded in 1927, U of H is the third-largest university in Texas with over 46,000 students.",
+			"meta": {
+				"refs": [
+					"https://www.uh.edu/"
+				]
+			},
+			"uuid": "f607459c-bc99-11eb-8529-0242ac130003",
+			"value": "The University of Houston"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

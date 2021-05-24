@@ -76,6 +76,26 @@
 			"value": "Entercom Communications Corporation"
 		},
 		{
+			"description": "We are the largest media and content group in the north and northeast of Brazil with operations in 4 areas Television 6 open TV stations affiliated with Rede Globo Radio 4 FM Internet radios 3 portals Events 1 event producer Together our business brings entertainment, culture and information to more than 12 million people. First and only group of open TV stations to cover the entire state.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/redebahia/about/"
+				]
+			},
+			"uuid": "f607420e-bc99-11eb-8529-0242ac130003",
+			"value": "Rede Bahia"
+		},
+		{
+			"description": "Launched in France in 1981. In Germany you can find us and listen to in Berlin, Hamburg, Munich, Nuremberg, Stuttgart, Saxony & Bremen as well as on www.Energy.De, mobile apps and your smart tv.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/radio-energy-deutschland-/?originalSubdomain=de"
+				]
+			},
+			"uuid": "f60744ac-bc99-11eb-8529-0242ac130003",
+			"value": "Radio ENERGY (Germany)"
+		},
+		{
 			"description": "Discovery Channel is an American pay television television network and flagship channel owned by Discovery, Inc., a publicly traded company run by CEO David Zaslav.",
 			"meta": {
 				"refs": [

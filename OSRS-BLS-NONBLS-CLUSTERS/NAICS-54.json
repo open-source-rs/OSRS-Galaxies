@@ -3574,6 +3574,36 @@
 			"value": "RX Pharmacy LTC"
 		},
 		{
+			"description": "We are shaping the green energy transition Volue is a leading technology supplier and enabler for Europe’s green energy transition. We offer software, hardware and expertise to make the green shift from fossil to renewable energy possible.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/volue/"
+				]
+			},
+			"uuid": "583f7174-bc9c-11eb-8529-0242ac130003",
+			"value": "Volue"
+		},
+		{
+			"description": "WedMeGood is an Indian wedding planning website and app where couples planning their wedding can search for local vendors and discover ideas and inspirations for their wedding. Founded in 2014 by Mehak Sagar Shahani and Anand Shahani, the company is based out of Gurgaon.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wedmegood/about/"
+				]
+			},
+			"uuid": "583f73ae-bc9c-11eb-8529-0242ac130003",
+			"value": "WedMeGood"
+		},
+		{
+			"description": "Organizations around the globe rely on Rapid7 technology, services, and research to securely advance. The visibility, analytics, and automation delivered through our Insight cloud simplifies the complex and helps security teams reduce vulnerabilities, monitor for malicious behavior, investigate and shut down attacks, and automate routine tasks.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/rapid7/"
+				]
+			},
+			"uuid": "583f7624-bc9c-11eb-8529-0242ac130003",
+			"value": "Rapid7"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
