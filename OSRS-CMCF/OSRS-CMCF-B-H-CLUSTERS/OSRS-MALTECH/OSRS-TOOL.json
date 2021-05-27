@@ -7017,6 +7017,45 @@
       "value": "OSRS Tool: STRRAT Stealer"
     },
 	{
+      "description": "Apostle is a .NET malware whose functionality iteratively developed from a wiper to full-fledged ransomware.  We  believe  the  implementation  of  the  encryption  functionality  is  there  to  mask  its  actual  intention - destroying  victim  data.  This  thesis  is  supported  by  an  early  version  of  Apostle  that the attacker’s internally named wiper-action. This early version was deployed in an attempt to wipe data but failed to do so possibly due to a logic flaw in the malware. The flawed execution led to the deployment of the DEADWOOD wiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://assets.sentinelone.com/sentinellabs/evol-agrius"
+        ]
+      },
+      "uuid": "056b9554-bef4-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: Apostle Wiper"
+    },
+	{
+      "description": "Agrius  also  utilized  DEADWOOD  aka  Detbosit,  a  wiper  malware  written  in  C++  using  the  Boost  libraries.  This  wiper  was  previously  reported, although barely discussed compared to other Middle-Eastern wiper  malware.  According  to  publicly  available  information,  it  was  involved in a wiping attack in Saudi Arabia in 2019. The  wiper  can  be  executed  in  two  modes as a Service  and  as  a  Windows  Application.  Executing  it  in  either  of  the  modes  will  also  cause an attempt to execute the other as some of the features work in  only  one  of  the  modes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://assets.sentinelone.com/sentinellabs/evol-agrius"
+        ]
+      },
+      "uuid": "056b97a2-bef4-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: DEADWOOD Wiper"
+    },
+	{
+      "description": "PwnRig, a custom XMRig-based miner variant, attempts to conceal its configuration details and makes use of a mining proxy to prevent the public from monitoring its pool details.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.lacework.com/8220-gangs-recent-use-of-custom-miner-and-botnet/"
+        ]
+      },
+      "uuid": "056b9892-bef4-11eb-8529-0242ac130003",
+      "value": "OSRS Tool: PwnRig Miner"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

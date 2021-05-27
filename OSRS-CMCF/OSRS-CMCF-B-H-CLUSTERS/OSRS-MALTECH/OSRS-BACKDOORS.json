@@ -1348,6 +1348,19 @@
       "value": "OSRS Backdoor: DOUBLEBACK Backdoor"
     },
 	{
+      "description": "The main implant used by Agrius is IPsec Helper, which is a custom .NET backdoor. The backdoor provides basic functionality like uploading of files from the infected system, running commands, and  deploying  additional  executables.  It  connects  back  to  C2  servers  over  HTTP  based  on  a  configuration file. The tool is run as a service, suggesting it is executed once the threat actor has achieved elevated privileges. What appears to be authentic victim uploads of IPsec Helper samples were submitted to VirusTotal from Israel and the United Arab Emirates.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://assets.sentinelone.com/sentinellabs/evol-agrius"
+        ]
+      },
+      "uuid": "9a17d8fe-bef2-11eb-8529-0242ac130003",
+      "value": "OSRS Backdoor: IPsec Helper Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

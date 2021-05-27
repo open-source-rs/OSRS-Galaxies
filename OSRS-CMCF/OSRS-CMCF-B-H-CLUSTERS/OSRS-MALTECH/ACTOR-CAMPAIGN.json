@@ -2961,6 +2961,32 @@
       "value": "OSRS Actors AND Campaigns: BazarCall Campaign"
     },
 	{
+      "description": "A new threat actor SentinelLabs tracks as Agrius was observed operating in Israel starting in 2020. Initially engaged in espionage activity, Agrius deployed a set of destructive wiper attacks against Israeli targets, masquerading the activity as ransomware attacks. The attacks were carried out using DEADWOOD aka Detbosit, a wiper with unconfirmed links to an Iranian threat group. Agrius actors also dropped a novel wiper named Apostle and a custom .NET backdoor called IPsec Helper. Later intrusions carried out by Agrius revealed they kept maintaining and improving Apostle, turning it into a fully functional ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/from-wiper-to-ransomware-the-evolution-of-agrius/"
+        ]
+      },
+      "uuid": "9a17d39a-bef2-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Agrius Threat Group"
+    },
+	{
+      "description": "Lacework Labs has recently encountered a cluster of malicious activity based around loader scripts, and delivery of a custom cryptocurrency miner and an IRC bot. Specifically, we’ve identified a new loader script, a custom PwnRig miner, and unique Tsunami IRC botnet variants. Additionally, this blog shares insight into noteworthy infrastructure and attribution findings. The specific cluster of activity has been in use since 2019. Lacework Labs assesses with moderate confidence this activity is associated with the crimeware group most commonly known as the 8220 Gang, who have been operating since at least 2017.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.lacework.com/8220-gangs-recent-use-of-custom-miner-and-botnet/"
+        ]
+      },
+      "uuid": "9a17d7f0-bef2-11eb-8529-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: 8220 Gang"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
