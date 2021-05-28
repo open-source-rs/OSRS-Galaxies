@@ -1960,6 +1960,36 @@
 			"value": "Vitality Senior Living LLC"
 		},
 		{
+			"description": "A Salt Lake City, Utah based health care company that focuses on skilled nursing and rehabilitation, sub-acute, and assisted living acquisitions and operations, real estate investment into healthcare related properties, home health and hospice, and other geriatric related healthcare investment. We currently manage properties in nine states, and are rapidly growing.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/eduro-healthcare-llc-/"
+				]
+			},
+			"uuid": "11b014f8-bfb1-11eb-8529-0242ac130003",
+			"value": "Eduro Healthcare, LLC"
+		},
+		{
+			"description": "RMCHCS is an integrated delivery system providing care for Northwestern New Mexico and Eastern Arizona. We are proud to continue a history of healthcare dating back to the early 1900s. As a private, not-for-profit healthcare system, we are committed to improving the health and wellness of our community and the individuals for whom we care.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/rehoboth-mckinley-christian-health-care-services/about/"
+				]
+			},
+			"uuid": "11b01840-bfb1-11eb-8529-0242ac130003",
+			"value": "Rehoboth McKinley Christian Health Care Services"
+		},
+		{
+			"description": "About Health Plan of San Joaquin – HPSJ has been serving members enrolled in publicly-funded programs in the heart of the Central Valley since 1996. As a publicly sponsored, not-for-profit, Health Maintenance Organization (HMO), we have a contract with the California Department of Health Care Services (DHCS) to manage health care for Medi-Cal members.",
+			"meta": {
+				"refs": [
+					"https://www.hpsj.com/about-us/"
+				]
+			},
+			"uuid": "11b0194e-bfb1-11eb-8529-0242ac130003",
+			"value": "Health Plan of San Joaquin"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

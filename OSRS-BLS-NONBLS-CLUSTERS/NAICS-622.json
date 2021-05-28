@@ -958,6 +958,16 @@
 			"value": "UF Health Shands Hospital"
 		},
 		{
+			"description": "The Waikato District Health Board is a district health board with the focus on providing healthcare to the Waikato region of New Zealand.",
+			"meta": {
+				"refs": [
+					"https://www.waikatodhb.health.nz/"
+				]
+			},
+			"uuid": "11b01a16-bfb1-11eb-8529-0242ac130003",
+			"value": "Waikato District Health Board"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

@@ -4740,6 +4740,66 @@
 			"value": "Anson County"
 		},
 		{
+			"description": "BPJS Kesehatan is a State Owned Company of Republic Of Indonesia aimed at providing universal health care to its citizens. In 2016, the BPJS program had a deficit of more than six trillion IDR. However, the deficit ballooned to 32 trillion in only three years.",
+			"meta": {
+				"refs": [
+					"https://bpjs-kesehatan.go.id/"
+				]
+			},
+			"uuid": "3c309318-bfae-11eb-8529-0242ac130003",
+			"value": "BPJS Kesehatan"
+		},
+		{
+			"description": "Public school district Tigerton, WI.",
+			"meta": {
+				"refs": [
+					"https://www.tigerton.k12.wi.us/"
+				]
+			},
+			"uuid": "3c309714-bfae-11eb-8529-0242ac130003",
+			"value": "Tigerton School District"
+		},
+		{
+			"description": "The National Library of the Czech Republic is the central library of the Czech Republic. It is directed by the Ministry of Culture. The library's main building is located in the historical Clementinum building in the centre of Prague, where approximately half of its books are kept.",
+			"meta": {
+				"refs": [
+					"https://www.nkp.cz/"
+				]
+			},
+			"uuid": "3c309818-bfae-11eb-8529-0242ac130003",
+			"value": "National Library of the Czech Republic"
+		},
+		{
+			"description": "The Alaska Department of Health and Social Services is a state agency of Alaska, headquartered in Juneau.",
+			"meta": {
+				"refs": [
+					"http://dhss.alaska.gov/Pages/default.aspx"
+				]
+			},
+			"uuid": "3c3098e0-bfae-11eb-8529-0242ac130003",
+			"value": "Alaska Department of Health and Social Services"
+		},
+		{
+			"description": "The Visalia Unified School District is a school district in Tulare County, California. VUSD was established in 1965. VUSD was created by the unification of Visalia Union High School and the elementary districts it served.",
+			"meta": {
+				"refs": [
+					"https://www.vusd.org/"
+				]
+			},
+			"uuid": "3c309994-bfae-11eb-8529-0242ac130003",
+			"value": "Visalia Unified School District"
+		},
+		{
+			"description": "Public school distric Rockland, MA.",
+			"meta": {
+				"refs": [
+					"https://www.rocklandschools.org/"
+				]
+			},
+			"uuid": "3c309a48-bfae-11eb-8529-0242ac130003",
+			"value": "Rockland Public Schools"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
