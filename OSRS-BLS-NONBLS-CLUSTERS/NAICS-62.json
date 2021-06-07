@@ -2010,6 +2010,16 @@
 			"value": "Riagg Rijnmond"
 		},
 		{
+			"description": "Beech Acres Parenting Center has served Greater Cincinnati children and families for more than 160 years. Our programs are based on the guiding principle that parents, and other dedi­cated adults filling that role, all want the best for their children. They all need education, support and guidance in raising their children to achieve their unique potential.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/beech-acres-parenting-center"
+				]
+			},
+			"uuid": "2de93d08-c7a8-11eb-b8bc-0242ac130003",
+			"value": "Beech Acres Parenting Center"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
