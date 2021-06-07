@@ -28,6 +28,16 @@
       "value": "Remmers GmbH"
     },
 	{
+      "description": "Siegfried is a preferred manufacturing and service partner in the global pharmaceutical industry. Our company is looking back on more than 140 years of unmatched quality and combines both chemistry and pharmaceutics under one roof. We develop and manufacture active pharmaceutical ingredients for pharmaceutical clients with R&D programs, related intermediates and controlled substances. Siegfried also offers development and production of finished dosage forms, including sterile fillings.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/siegfried-holding-ag/about/"
+        ]
+      },
+      "uuid": "b6ff99ec-c786-11eb-b8bc-0242ac130003",
+      "value": "Siegfried Holding AG"
+    },
+	{
       "description": "Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world.",
       "meta": {
         "refs": [

@@ -968,6 +968,16 @@
 			"value": "Waikato District Health Board"
 		},
 		{
+			"description": "Harper County Community Hospital is a critical access, county hospital. Our mission is to provide all of Harper County and the surrounding area with the highest quality health care at the lowest possible competitive cost.",
+			"meta": {
+				"refs": [
+					"https://www.hcchospital.com/about"
+				]
+			},
+			"uuid": "2043cfa2-c789-11eb-b8bc-0242ac130003",
+			"value": "Harper County Community Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

@@ -297,6 +297,26 @@
 			"value": "ATC Transportation"
 		},
 		{
+			"description": "Zocdoc is a New York City-based company offering an online service that allows people to find and book in-person or telemedicine appointments for medical or dental care. The platform also functions as a physician and dentist rating and comparison database.",
+			"meta": {
+				"refs": [
+					"https://www.zocdoc.com/"
+				]
+			},
+			"uuid": "b6ff983e-c786-11eb-b8bc-0242ac130003",
+			"value": "Zocdoc"
+		},
+		{
+			"description": "Groupe TEXA provides claims services for insurance companies. It offers its services in the areas of claims and losses management, including mass-market claims settlement, commercial/enterprise risks, civil responsibilities and claims, and special niche risks. Headquarters based in Paris, France.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/stelliant/about/"
+				]
+			},
+			"uuid": "b6ff991a-c786-11eb-b8bc-0242ac130003",
+			"value": "Stelliant"
+		},
+		{
 			"description": "We were born and work to create the future we want to see. We are a leading Digital Customer Experience service company in Latin America. Apex America emerged out of the dream of two entrepreneurs from Cordoba, who wished to create a technological pole in their city. Today, we are more than 6000 associates strategically located in Latin America to offer international quality services to our customers. We are a company with high global standards looking for the personal and professional development of our associates.",
 			"meta": {
 				"refs": [

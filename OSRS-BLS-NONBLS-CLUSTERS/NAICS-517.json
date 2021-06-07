@@ -276,6 +276,16 @@
 			"value": "Schepisi Communications"
 		},
 		{
+			"description": "TPG is an Australian internet service provider that specialises in consumer and business internet services as well as mobile telephone services. As of August 2015, TPG is the second largest internet service provider in Australia and is the largest mobile virtual network operator.",
+			"meta": {
+				"refs": [
+					"http://www.tpgtelecom.com.au/"
+				]
+			},
+			"uuid": "ef5a79c2-c78d-11eb-b8bc-0242ac130003",
+			"value": "TPG Telecom"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [

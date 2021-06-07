@@ -335,6 +335,16 @@
 			"value": "The Apperta Foundation CIC"
 		},
 		{
+			"description": "Volunteer Service Abroad is a New Zealand-based volunteering agency working in international development.",
+			"meta": {
+				"refs": [
+					"https://www.vsa.org.nz/"
+				]
+			},
+			"uuid": "ef5a74ea-c78d-11eb-b8bc-0242ac130003",
+			"value": "Volunteer Service Abroad"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

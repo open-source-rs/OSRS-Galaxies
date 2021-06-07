@@ -457,6 +457,26 @@
       "value": "Utility Trailer Manufacturing Company"
     },
 	{
+      "description": "Livpure Pvt. Ltd. is a well-known Organisation in the Indian corporate world and is one of the most trusted manufacturers of water purifiers in India.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/livpure-private-limited/about/"
+        ]
+      },
+      "uuid": "e91806b8-c78a-11eb-b8bc-0242ac130003",
+      "value": "Livpure Pvt. Ltd."
+    },
+	{
+      "description": "Bose Corporation is an American manufacturing company that predominantly sells audio equipment. The company was established by Amar Bose in 1964 and is based in Framingham, Massachusetts.",
+      "meta": {
+        "refs": [
+          "https://www.bose.com/en_us/index.html"
+        ]
+      },
+      "uuid": "e91809b0-c78a-11eb-b8bc-0242ac130003",
+      "value": "Bose Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

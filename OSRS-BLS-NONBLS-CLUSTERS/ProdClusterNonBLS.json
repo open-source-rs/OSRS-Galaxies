@@ -4800,6 +4800,76 @@
 			"value": "Rockland Public Schools"
 		},
 		{
+			"description": "Grenoble-Alpes Metropole is the metropole, an intercommunal structure, centred on the city of Grenoble. It is located in the Isère department, in the Auvergne-Rhone-Alpes region, eastern France.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Grenoble-Alpes_M%C3%A9tropole"
+				]
+			},
+			"uuid": "9e8313e0-c785-11eb-b8bc-0242ac130003",
+			"value": "Grenoble-Alpes Metropole"
+		},
+		{
+			"description": "Grenoble is the prefecture and largest city of the Isere department in the Auvergne-Rhône-Alpes region of Southeastern France. It is located within the Dauphiné province and lies where the river Drac joins the Isere at the foot of the French Alps.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Malware"
+				]
+			},
+			"uuid": "9e831624-c785-11eb-b8bc-0242ac130003",
+			"value": "City of Grenoble"
+		},
+		{
+			"description": "Local school district residing in Marietta, OH.",
+			"meta": {
+				"refs": [
+					"https://www.mariettacityschools.k12.oh.us/"
+				]
+			},
+			"uuid": "9e83170a-c785-11eb-b8bc-0242ac130003",
+			"value": "Marietta City School District, OH"
+		},
+		{
+			"description": "The Clover Park School District is the fourth largest school district in Pierce County, Washington, United States, and the 28th largest public school district in the state.",
+			"meta": {
+				"refs": [
+					"http://www.cloverpark.k12.wa.us/"
+				]
+			},
+			"uuid": "9e8317d2-c785-11eb-b8bc-0242ac130003",
+			"value": "Clover Park School District"
+		},
+		{
+			"description": "The Ministry of Land, Infrastructure, Transport and Tourism, abbreviated MLIT, is a ministry of the Japanese government.",
+			"meta": {
+				"refs": [
+					"https://www.mlit.go.jp/en/"
+				]
+			},
+			"uuid": "9e83189a-c785-11eb-b8bc-0242ac130003",
+			"value": "Ministry of Land, Infrastructure, Transport and Tourism"
+		},
+		{
+			"description": "Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on display at the Liberty Bell, Independence Hall (where the Declaration of Independence and Constitution were signed) and other American Revolutionary sites. Also iconic are the steps of the Philadelphia Museum of Art, immortalized by Sylvester Stallone’s triumphant run in the film Rocky.",
+			"meta": {
+				"refs": [
+					"https://www.phila.gov/"
+				]
+			},
+			"uuid": "b6ff9492-c786-11eb-b8bc-0242ac130003",
+			"value": "The City of Philadelphia"
+		},
+		{
+			"description": "Local school district located in Charlottesville, IN.",
+			"meta": {
+				"refs": [
+					"https://www.easternhancock.org/"
+				]
+			},
+			"uuid": "b6ff974e-c786-11eb-b8bc-0242ac130003",
+			"value": "Eastern Hancock School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

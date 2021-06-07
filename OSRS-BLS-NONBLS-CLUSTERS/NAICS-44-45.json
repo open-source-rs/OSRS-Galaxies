@@ -637,6 +637,16 @@
 			"value": "Mercari, Inc."
 		},
 		{
+			"description": "CEFCO Stores is an independently owned chain of convenience stores based in Temple, TX.  CEFCO operates approximately 250 stores in seven states (Texas, Oklahoma, Louisiana, Arkansas, Alabama, Mississippi, and Florida). CEFCO continues to grow by building new stores, exploring acquisition opportunities, and, most importantly, upholding the values of hard work, dedication to customers, and respected corporate citizenship engrained in the company by its founder.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/cefco-convenience-stores/about/"
+				]
+			},
+			"uuid": "ef5a771a-c78d-11eb-b8bc-0242ac130003",
+			"value": "CEFCO Convenience Stores"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

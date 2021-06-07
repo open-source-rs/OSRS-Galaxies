@@ -27,6 +27,16 @@
       "value": "Colis Prive"
     },
 	{
+      "description": "Canada Post Corporation, trading as Canada Post, is a Crown corporation which functions as the primary postal operator in Canada. Originally known as Royal Mail Canada, rebranding was done to the Canada Post name in the late 1960s, even though it had not yet been separated from the government.",
+      "meta": {
+        "refs": [
+          "https://www.canadapost-postescanada.ca/cpc/en/home.page"
+        ]
+      },
+      "uuid": "6013fd24-c788-11eb-b8bc-0242ac130003",
+      "value": "Canada Post Corporation"
+    },
+	{
       "description": "Home Chef is a Chicago, Illinois-based meal kit and food delivery company that delivers pre-portioned ingredients and recipes to subscribers weekly in the United States. According to the company it delivers three million meals monthly to its subscribers.",
       "meta": {
         "refs": [

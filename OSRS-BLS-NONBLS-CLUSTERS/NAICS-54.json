@@ -3634,6 +3634,36 @@
 			"value": "monday.com"
 		},
 		{
+			"description": "We provide consulting services aimed at maximizing the effect of advertising. In addition to supplementing resources for customer's advertising operations, we plan advertising strategies that identify and solve the problems that our customers face as they attract their own customers and promote sales, based on our customer's business and marketing strategies.",
+			"meta": {
+				"refs": [
+					"https://www.net-marketing.co.jp/en/aboutus/"
+				]
+			},
+			"uuid": "e9180ab4-c78a-11eb-b8bc-0242ac130003",
+			"value": "Net Marketing Co"
+		},
+		{
+			"description": "Commport Communications. We enable you to do business with comprehensive solutions for GDSN, EDI, and VAN. Commport is a leading provider in innovative technologies that leverage integration, collaboration and automation to deliver true value in corporate supply chains. A privately owned corporation and is currently the only provider in the world positioned to offer full service Value Added Network, EDI, translation and GDSN data synchronization services to both the demand side and the supply side of the trading partnership.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/commport-communication-international-inc/about/"
+				]
+			},
+			"uuid": "e9180b7c-c78a-11eb-b8bc-0242ac130003",
+			"value": "Commport Communications International, Inc."
+		},
+		{
+			"description": "Fujitsu Limited is a Japanese multinational information and communications technology equipment and services company, established in 1935 and headquartered in Tokyo. Fujitsu was the world's fourth-largest IT services provider by annual revenue, after IBM, Accenture and AWS, in 2018.",
+			"meta": {
+				"refs": [
+					"https://www.fujitsu.com/global/"
+				]
+			},
+			"uuid": "e9180c30-c78a-11eb-b8bc-0242ac130003",
+			"value": "Fujitsu Limited"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -990,6 +990,26 @@
 			"value": "guard.me International Insurance"
 		},
 		{
+			"description": "One Call Insurance lets you compare car insurance, home insurance, van insurance and travel insurance from our panel of trusted insurance brands.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/one-call-insurance-ltd./about/"
+				]
+			},
+			"uuid": "2043c5a2-c789-11eb-b8bc-0242ac130003",
+			"value": "One Call Insurance Ltd."
+		},
+		{
+			"description": "Klarna Bank AB, commonly referred to as Klarna, is a Swedish fintech company that provides online financial services such as payments for online storefronts, direct payments and post purchase payments. The company has more than 3,000 employees, most of them working at the headquarters in Stockholm.",
+			"meta": {
+				"refs": [
+					"https://www.klarna.com/us/"
+				]
+			},
+			"uuid": "2043c93a-c789-11eb-b8bc-0242ac130003",
+			"value": "Klarna Bank AB"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

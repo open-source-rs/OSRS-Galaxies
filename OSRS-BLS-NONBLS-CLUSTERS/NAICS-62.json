@@ -1990,6 +1990,26 @@
 			"value": "Health Plan of San Joaquin"
 		},
 		{
+			"description": "1727 E Bell Rd, Phoenix, AZ 85022",
+			"meta": {
+				"refs": [
+					"http://spineanddisc.net/"
+				]
+			},
+			"uuid": "2043caca-c789-11eb-b8bc-0242ac130003",
+			"value": "Spine & Disc"
+		},
+		{
+			"description": "Dutch mental health center, Riagg Rijnmond, cures IT budget woes and reduces their employee desktop budget by migrating from Citrix and Windows to a Linux and open source-based system hosted on NoMachine software.",
+			"meta": {
+				"refs": [
+					"https://www.nomachine.com/Riagg-Rijnmond"
+				]
+			},
+			"uuid": "2043cd7c-c789-11eb-b8bc-0242ac130003",
+			"value": "Riagg Rijnmond"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

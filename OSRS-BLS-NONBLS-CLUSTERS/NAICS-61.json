@@ -1239,6 +1239,26 @@
 			"value": "The University of Houston"
 		},
 		{
+			"description": "The University of Franche-Comte (UFC) is a pluridisciplinary public French university located in Besançon, Franche-Comte, with decentralized campuses in Belfort, Montbeliard, Vesoul and Lons-le-Saunier. It is a founding member of the community of universities and institutions University of Burgundy - Franche-Comte (COMUE UBFC), headquartered in Besançon and which federates universities and other higher learning institutes in the Bourgogne-Franche-Comte region. With 28 research labs, 667 PhD students and 788 research professors in 2016–2017, the University of Franche-Comte is well represented in the research community. It collaborates with many organizations (University Hospital of Besançon, CNRS, INSERM, CEA, etc.). It has about 28,000 students, including nearly a third of scholarship students and 12% of foreign students. Its Centre for Applied Linguistics (CLA) is one of the world's leading schools for teaching French as a foreign language and French linguistics.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9"
+				]
+			},
+			"uuid": "6013fe14-c788-11eb-b8bc-0242ac130003",
+			"value": "University of Franche-Comte"
+		},
+		{
+			"description": "Sierra College is a public community college in Rocklin, California. Sierra College is owned and operated by the Sierra Joint Community College District, a district that covers over 3,200 square miles, serves Placer, Nevada and parts of El Dorado and Sacramento counties.",
+			"meta": {
+				"refs": [
+					"https://academics.sierracollege.edu/sierra-college"
+				]
+			},
+			"uuid": "6013fedc-c788-11eb-b8bc-0242ac130003",
+			"value": "Sierra College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
