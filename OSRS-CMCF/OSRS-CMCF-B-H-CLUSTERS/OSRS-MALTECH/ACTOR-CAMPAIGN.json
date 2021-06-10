@@ -2987,6 +2987,88 @@
       "value": "OSRS Actors AND Campaigns: 8220 Gang"
     },
 	{
+      "description": "Supposed Chinese threat actor. Both UNC2630 and UNC2717 display advanced tradecraft and go to impressive lengths to avoid detection. The actors modify file timestamps and regularly edit or delete forensic evidence such as logs, web server core dumps, and files staged for exfiltration. They also demonstrate a deep understanding of network appliances and advanced knowledge of a targeted network. This tradecraft can make it difficult for network defenders to establish a complete list of tools used, credentials stolen, the initial intrusion vector, or the intrusion start date.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html"
+        ]
+      },
+      "uuid": "838af47a-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC2717"
+    },
+	{
+      "description": "Check Point Research identified an ongoing surveillance operation targeting a Southeast Asian government. The attackers use spear-phishing to gain initial access and leverage old Microsoft Office vulnerabilities together with the chain of in-memory loaders to attempt and install a previously unknown backdoor on victim’s machines. Our investigation shows the operation was carried out by what we believe is a Chinese APT group that has been testing and refining the tools in its arsenal for at least 3 years.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/chinese-apt-group-targets-southeast-asian-government-with-previously-unknown-backdoor/"
+        ]
+      },
+      "uuid": "838af704-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: SharpPanda APT"
+    },
+	{
+      "description": "In late May, 2021, Microsoft and Volexity released public reports detailing recent Nobelium activity. Nobelium is suspected to be the new face of APT29 (aka The Dukes). We track this activity under the name NobleBaron. This campaign employs a convoluted multi-stage infection chain, five to six layers deep. Most custom downloaders leverage Cobalt Strike Beacon in-memory as a mechanism to drop more elusive payloads on select victims. This report focuses on NobleBarons DLL_stageless downloaders (aka NativeZone) SentinelLabs has discovered the use of one of these DLL_stageless downloaders as part of a poisoned update installer for electronic keys used by the Ukrainian government. At this time, the means of distribution are unknown. Its possible that these update archives are being used as part of a regionally-specific supply chain attack. We uncovered additional unreported DLL_stageless downloaders.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/"
+        ],
+        "synonyms": [
+        "Nobelium",
+        "APT29"
+        ]
+      },
+      "uuid": "838af7f4-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: NobleBaron"
+    },
+	{
+      "description": "Prometheus leverages double-extortion tactics and hosts a leak site, where it names new victims and posts stolen data available for purchase. It claims to have breached 30 organizations in government, financial services, manufacturing, logistics, consulting, agriculture, healthcare services, insurance agencies, energy and law firms in the United States, United Kingdom and a dozen more countries in Asia, Europe, the Middle East and South America. Like many ransomware gangs, Prometheus runs like a professional enterprise. It refers to its victims as customers, communicates with them using a customer service ticketing system that warns them when payment deadlines are approaching and even uses a clock to count down the hours, minutes and seconds to a payment deadline.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/prometheus-ransomware/"
+        ]
+      },
+      "uuid": "838af966-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Prometheus Ransomware Gang"
+    },
+	{
+      "description": "On April 14-15, 2021, Kaspersky technologies detected a wave of highly targeted attacks against multiple companies. Closer analysis revealed that all these attacks exploited a chain of Google Chrome and Microsoft Windows zero-day exploits. While we were not able to retrieve the exploit used for remote code execution (RCE) in the Chrome web browser, we were able to find and analyze an elevation of privilege (EoP) exploit that was used to escape the sandbox and obtain system privileges. The elevation of privilege exploit was fine-tuned to work against the latest and most prominent builds of Windows 10 (17763 – RS5, 18362 – 19H1, 18363 – 19H2, 19041 – 20H1, 19042 – 20H2) and it exploits two distinct vulnerabilities in the Microsoft Windows OS kernel. On April 20, 2021, we reported these vulnerabilities to Microsoft and they assigned CVE-2021-31955 to the information disclosure vulnerability and CVE-2021-31956 to the elevation of privilege vulnerability. Both vulnerabilities were patched on June 8, 2021, as a part of the June Patch Tuesday. None of the artifacts we analyzed appear to have strong connections to any known threat actors. The only similarity to CHAINSHOT we observed is the PreviousMode technique, although this is publicly known and may be used by various groups. We are calling the threat actor behind these attacks PuzzleMaker.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/"
+        ]
+      },
+      "uuid": "838afa2e-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: PuzzleMaker APT"
+    },
+	{
+      "description": "This research focuses on the Mail-O malware used against the FSB and other Russian government organizations, detailed in the May 2021 FSB NKTsKI and Rostelecom-Solar report. Early armchair commentary presumed that given the targets, this attack would undoubtedly be the work of a Western government, Five Eyes, or the United States. Our analysis disproves that hypothesis. Instead, we present the argument that the Mail-O malware is a variant of a relatively well-known malware called PhantomNet or SManager used by a threat actor TA428 Previous reporting on TA428 points to Chinese origin and details a history of attacks against South East Asian and Russian targets. Initial attempts to find the samples were fruitless but that changed this past weekend as some kind soul (or more likely a bulk autosubmitter) uploaded a copy of the Mail-O malware to VirusTotal. We track this activity under the name ThunderCats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op/"
+        ]
+      },
+      "uuid": "838afc7c-c9e4-11eb-b8bc-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: ThunderCats Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

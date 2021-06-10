@@ -978,6 +978,16 @@
 			"value": "Harper County Community Hospital"
 		},
 		{
+			"description": "For over 100 years, Sturdy Memorial Hospital has been dedicated to providing an extraordinary combination of compassionate care with the latest technology, sophisticated diagnostics, and therapeutic services. As one of the few remaining independent and locally controlled community hospitals in Southeastern New England, Sturdy remains committed to our mission of providing high quality health care to meet the needs of our communities for years to come.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/sturdy-memorial-hospital/about/"
+				]
+			},
+			"uuid": "4e3be178-c9f6-11eb-b8bc-0242ac130003",
+			"value": "Sturdy Memorial Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

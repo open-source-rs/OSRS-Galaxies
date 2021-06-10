@@ -7056,6 +7056,209 @@
       "value": "OSRS Tool: PwnRig Miner"
     },
 	{
+      "description": "As part of our ongoing mission to assess and monitor cloud-related threats, we’ve deployed several types of honeypots and monitor them periodically. In this research, we will focus on a honeypot that mimics a misconfigured Docker daemon and explore the data obtained between March and April 2021, including 33 different kinds of attacks with a total of 850 attacks. More than 75% were cryptojacking attacks, and Kinsing was the most common malware with a total of 360 attacks. We will provide insights on how frequently the instance was attacked and detail the payloads. Some malicious images were involved in those activities, so we contacted the Docker security team to disclose them. The team responded quickly to remove the images from Docker Hub. Misconfigured Docker daemons comprise a well-known security issue. Misconfigured daemons allow remote attackers to gain full control over a Docker instance and perform operations, such as deploying new containers and even escalating to the host. In the past, we found out there were 1,400 vulnerable Docker instances over the web and identified numerous cryptojacking malware that propagates using this security issue, such as Cetus, Pro-Ocean, Graboid and Black-T.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/docker-honeypot/"
+        ]
+      },
+      "uuid": "8523cda8-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: G-Miner"
+    },
+	{
+      "description": "NV.html, tracked by Microsoft as EnvyScout, can be best described as a malicious dropper capable of de-obfuscating and writing a malicious ISO file to disk. EnvyScout is chiefly delivered to targets of NOBELIUM by way of an attachment to spear-phishing emails.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/"
+        ]
+      },
+      "uuid": "cb3fa0e6-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: EnvyScout Dropper"
+    },
+	{
+      "description": "BOOM.exe, tracked by Microsoft as BoomBox, can be best described as a malicious downloader. The downloader is responsible for downloading and executing the next-stage components of the infection. These components are downloaded from Dropbox (using a hardcoded Dropbox Bearer Access token). When executed, BoomBox ensures that a directory named NV is present in its current working directory; otherwise it terminates. If the directory is present, BoomBox displays the contents of the NV directory in a new Windows Explorer window (leaving it up to the user to open the PDF file).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/"
+        ]
+      },
+      "uuid": "cb3fa4ba-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: BoomBox Downloader"
+    },
+	{
+      "description": "NativeCacheSvc.dll, tracked by Microsoft as NativeZone can best be described as a malicious loader responsible for utilizing rundll32.exe to load the malicious downloader component CertPKIProvider.dll. The malicious functionality of NativeCacheSvc.dll is located inside a DLL export named configNativeCache.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/"
+        ]
+      },
+      "uuid": "cb3fa5b4-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: NativeZone Loader"
+    },
+	{
+      "description": "CertPKIProvider.dll, tracked by Microsoft as VaporRage can best be described as a shellcode downloader. This version of VaporRage contains 11 export functions including eglGetConfigs, which houses the malicious functionality of the DLL.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/"
+        ]
+      },
+      "uuid": "cb3fa690-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: VaporRage Downloader"
+    },
+	{
+      "description": "Used to deploy Cobalt Strike.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.volexity.com/blog/2021/05/27/suspected-apt29-operation-launches-election-fraud-themed-phishing-campaigns/"
+        ]
+      },
+      "uuid": "cb3fa76c-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: FLIPFLOP Loader"
+    },
+	{
+      "description": "Deployed via Cobalt Strike to load encrypted shellcode from Google Firebase.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.volexity.com/blog/2021/05/27/suspected-apt29-operation-launches-election-fraud-themed-phishing-campaigns/"
+        ]
+      },
+      "uuid": "cb3fa83e-c9e8-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: FRESHFIRE Downloader"
+    },
+	{
+      "description": "BLOODMINE is a utility for parsing Pulse Secure Connect log files. It extracts information related to logins, Message IDs and Web Requests and copies the relevant data to another file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html"
+        ]
+      },
+      "uuid": "b2abcd60-c9e9-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: BLOODMINE"
+    },
+	{
+      "description": "BLOODBANK is a credential theft utility that parses two files containing password hashes or plaintext passwords and expects an output file to be given at the command prompt.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html"
+        ]
+      },
+      "uuid": "b2abd026-c9e9-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: BLOODBANK"
+    },
+	{
+      "description": "CLEANPULSE is a memory patching utility that may be used to prevent certain log events from occurring. It was found in close proximity to an ATRIUM webshell.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html"
+        ]
+      },
+      "uuid": "b2abd2d8-c9e9-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: CLEANPULSE"
+    },
+	{
+      "description": "RAPIDPULSE is a webshell capable of arbitrary file read. As is common with other webshells, RAPIDPULSE exists as a modification to a legitimate Pulse Secure file. RAPIDPULSE can serve as an encrypted file downloader for the attacker.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html"
+        ]
+      },
+      "uuid": "b2abd3be-c9e9-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: RAPIDPULSE"
+    },
+	{
+      "description": "A minimized .Net version of the Redline stealer with some common functionality for stealing data from browsers. It features  different configuration and communication patterns wrapped in four layers of obfuscation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/google-ppc-ads-deliver-redline-taurus-and-mini-redline-infostealers"
+        ]
+      },
+      "uuid": "b2abd486-c9e9-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: Mini-Redline Stealer"
+    },
+	{
+      "description": "Mail-O malware is a variant of a relatively well-known malware called PhantomNet or SManager used by a threat actor TA428.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op/"
+        ]
+      },
+      "uuid": "3db4aed6-c9ea-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: Mail-O Downloader"
+    },
+	{
+      "description": "In December 2020, Ignacio Sanmillan and Matthieu Faou released an excellent report on a Vietnamese supply-chain attack that used PhantomNet (aka SManager) malware. The researchers noted that the malware’s persistence was established via a scheduled task that called the malicious DLL’s export, Entery. The researchers note that this same export was pointed out by NTT Security in their analysis of TManger malware, which they in turn correlate with Proofpoint’s TA428 threat actor. That nondescript threat actor name is adopted by Dr. Web in reporting recent attacks against additional Russian targets including research institutes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op/"
+        ],
+        "synonyms": [
+        "SManager Downloader",
+        "SManager"
+        ]
+      },
+      "uuid": "3db4b142-c9ea-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: PhantomNet Loader"
+    },
+	{
+      "description": "The vector of the infection is a spear phishing email delivering a Word Office document with a significant name related to an International Conference. Both the vector and its naming are consistent with APT28 / FancyBear TTPs. As expected, the document triggers a MACRO function able to extract a Microsoft Dynamic Link Library (DLL) which then acts as downloader of a SkinnyBoy dropper (tdp1.exe) from a first dropurl. tpd1.exe is the second stage of the infection. Once downloaded in the victim's file system, it extracts all the components necessary to set persistence and trigger the following malicious operations. The extracted payload is encoded in Base64 format and appended as an overlay in the executable file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cluster25.io/2021/06/03/a-not-so-fancy-game-apt28-skinnyboy/",
+		  "https://cluster25.io/wp-content/uploads/2021/05/2021-05_FancyBear.pdf"
+        ],
+        "synonyms": [
+        "AceLog Dropper"
+        ]
+      },
+      "uuid": "3db4b304-c9ea-11eb-b8bc-0242ac130003",
+      "value": "OSRS Tool: SkinnyBoy Dropper"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

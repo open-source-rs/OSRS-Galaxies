@@ -3664,6 +3664,16 @@
 			"value": "Fujitsu Limited"
 		},
 		{
+			"description": "Fujifilm Holdings Corporation, trading as Fujifilm, or simply Fuji, is a Japanese multinational conglomerate headquartered in Tokyo, Japan, operating in the realms of photography, optics, office and medical electronics, biotechnology, and chemicals.",
+			"meta": {
+				"refs": [
+					"https://www.fujifilm.com/"
+				]
+			},
+			"uuid": "4e3be59c-c9f6-11eb-b8bc-0242ac130003",
+			"value": "Fujifilm Holdings Corporation"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

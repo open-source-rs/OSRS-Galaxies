@@ -67,6 +67,16 @@
       "value": "Ehrmann SE"
     },
 	{
+      "description": "JBS S.A. is a Brazilian company that is the largest meat processing company in the world, producing factory processed beef, chicken and pork, and also selling by-products from the processing of these meats. It is headquartered in Sao Paulo. It was founded in 1953 in Anapolis, Goias.",
+      "meta": {
+        "refs": [
+          "https://jbs.com.br/en/"
+        ]
+      },
+      "uuid": "e2ba91a2-c9f4-11eb-b8bc-0242ac130003",
+      "value": "JBS S.A."
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [

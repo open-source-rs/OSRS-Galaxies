@@ -9186,6 +9186,97 @@
       "value": "OSRS OSINT Author Index: Amitai Ben Shushan Ehrlich"
     },
 	{
+      "description": "Senior Threat Intelligence Analyst at Proofpoint. Washington, District of Columbia, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/selenalarson/"
+        ]
+      },
+      "uuid": "c6909ede-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Selena Larson"
+    },
+	{
+      "description": "Researcher with the cybersecurity vendor Proofpoint.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/mesa_matt"
+        ]
+      },
+      "uuid": "c690a1a4-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Matthew Mesa"
+    },
+	{
+      "description": "Application Security, Container Security, Cloud Security, DevSecOps Ottawa, Ontario, Canada.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/magnologan/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "c690a2b2-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Magno Logan"
+    },
+	{
+      "description": "Security Researcher. Prague, Czechia",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/david-fi%C5%A1er-a7888a43/?originalSubdomain=cz"
+        ]
+      },
+      "uuid": "c690a384-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: David Fiser"
+    },
+	{
+      "description": "Cyber Paleontologist, Fourth-Party Collector. Principal Threat Researcher at SentinelOne.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://twitter.com/juanandres_gs?lang=en"
+        ]
+      },
+      "uuid": "c690a44c-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Juan Andres Guerrero-Saade"
+    },
+	{
+      "description": "Generic pen name used for the Cluster25 online cybersecurity blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cluster25.io/"
+        ]
+      },
+      "uuid": "c690a79e-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Cluster25 Researchers"
+    },
+	{
+      "description": "Senior Security Researcher at Palo Alto Networks. San Francisco Bay Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/prizmant/"
+        ]
+      },
+      "uuid": "c690a88e-c9f1-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Author Index: Daniel Prizmant"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

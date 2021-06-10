@@ -77,6 +77,16 @@
       "value": "The Houston Rockets"
     },
 	{
+      "description": "Ralph Engelstad Arena, commonly called the Ralph, is an indoor arena located on the campus of the University of North Dakota in Grand Forks, North Dakota and serves as the home of UND men's ice hockey. The arena was built by controversial UND alumnus Ralph Engelstad.",
+      "meta": {
+        "refs": [
+          "http://www.theralph.com/"
+        ]
+      },
+      "uuid": "4e3be4de-c9f6-11eb-b8bc-0242ac130003",
+      "value": "Ralph Engelstad Arena"
+    },
+	{
       "description": "Woodruff Arts Center is a visual and performing arts center located in Atlanta, Georgia. The center houses three not-for-profit arts divisions on one campus. Opened in 1968, the Woodruff Arts Center is home to the Alliance Theatre, the Atlanta Symphony Orchestra, and the High Museum of Art.",
       "meta": {
         "refs": [

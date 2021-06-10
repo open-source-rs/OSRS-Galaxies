@@ -4870,6 +4870,76 @@
 			"value": "Eastern Hancock School District"
 		},
 		{
+			"description": "Union Community School District is a rural public school district headquartered in La Porte City, Iowa. It is located in sections of Benton, Black Hawk, and Tama counties. In addition to La Porte City it also serves Dysart and Mount Auburn.",
+			"meta": {
+				"refs": [
+					"https://www.union.k12.ia.us/"
+				]
+			},
+			"uuid": "d5fa4e04-c9f3-11eb-b8bc-0242ac130003",
+			"value": "Union Community School District"
+		},
+		{
+			"description": "Local law enforcement department. 725 N Alameda Ave, Azusa, CA 91702.",
+			"meta": {
+				"refs": [
+					"https://azusapd.org/"
+				]
+			},
+			"uuid": "d5fa505c-c9f3-11eb-b8bc-0242ac130003",
+			"value": "Azusa Police Department"
+		},
+		{
+			"description": "Porto Sant'Elpidio is a coastal town in the province of Fermo, Marche, Italy. The commune has a population of 25,071.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Porto_Sant%27Elpidio"
+				]
+			},
+			"uuid": "d5fa5142-c9f3-11eb-b8bc-0242ac130003",
+			"value": "The Municipality of Porto Sant’elpidio"
+		},
+		{
+			"description": "Pinellas County Schools is the public school district serving Pinellas County, Florida. The district is based in Largo. With over 104,000 students served in more than 140 schools and centers, the district is the 7th-largest in Florida and 26th-largest in the nation.",
+			"meta": {
+				"refs": [
+					"https://www.pcsb.org/"
+				]
+			},
+			"uuid": "d5fa5214-c9f3-11eb-b8bc-0242ac130003",
+			"value": "Pinellas County School District"
+		},
+		{
+			"description": "The Metropolitan Transportation Authority is a public benefit corporation responsible for public transportation in the New York City metropolitan area of the U.S. state of New York.",
+			"meta": {
+				"refs": [
+					"https://new.mta.info/"
+				]
+			},
+			"uuid": "d5fa52c8-c9f3-11eb-b8bc-0242ac130003",
+			"value": "Metropolitan Transportation Authority"
+		},
+		{
+			"description": "The Anchorage Police Department is the police department of the Municipality of Anchorage in Alaska.",
+			"meta": {
+				"refs": [
+					"https://www.muni.org/departments/police"
+				]
+			},
+			"uuid": "d5fa55f2-c9f3-11eb-b8bc-0242ac130003",
+			"value": "Anchorage Police Department"
+		},
+		{
+			"description": "The Woods Hole, Martha's Vineyard and Nantucket Steamship Authority, doing business as The Steamship Authority (SSA), is the statutory regulatory body for all ferry operations between mainland Massachusetts and the islands of Martha's Vineyard and Nantucket, as well an operator of ferry services between the mainland and the islands. It is the only ferry operator to carry automobiles to and from the islands. The Authority also operates several freight vessels, thus serving as the main link for shipping any commercial goods that are not transported using the airports on Nantucket or Martha's Vineyard.",
+			"meta": {
+				"refs": [
+					"https://www.steamshipauthority.com/"
+				]
+			},
+			"uuid": "d5fa56ce-c9f3-11eb-b8bc-0242ac130003",
+			"value": "The Steamship Authority"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

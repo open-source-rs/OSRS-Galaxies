@@ -227,6 +227,16 @@
       "value": "Jubilant FoodWorks Limited"
     },
 	{
+      "description": "Domino's Pizza, Inc., branded as Domino's, is an American multinational pizza restaurant chain founded in 1960. The corporation is Delaware domiciled and headquartered at the Domino's Farms Office Park in Ann Arbor, Michigan.",
+      "meta": {
+        "refs": [
+          "https://www.dominos.com/en/"
+        ]
+      },
+      "uuid": "e2ba9260-c9f4-11eb-b8bc-0242ac130003",
+      "value": "Domino's Pizza, Inc."
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [

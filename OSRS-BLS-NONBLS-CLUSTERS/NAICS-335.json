@@ -127,6 +127,16 @@
       "value": "Asteelflash Group"
     },
 	{
+      "description": "ExaGrid Systems, Inc. is a disk-based backup hardware company that was founded in 2002 and is headquartered in Westborough, Massachusetts, with several satellite offices throughout the United States, Europe and Asia.",
+      "meta": {
+        "refs": [
+          "https://www.exagrid.com/"
+        ]
+      },
+      "uuid": "e2ba9012-c9f4-11eb-b8bc-0242ac130003",
+      "value": "ExaGrid Systems, Inc."
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

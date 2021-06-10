@@ -3620,6 +3620,19 @@
       "value": "OSRS OSINT Source: Dragos"
     },
 	{
+      "description": "Cluster25 is the internal cybersecurity research division of a worldwide technological company. The Cluster25 experts are specialized in hunting and collecting cyber threats, analysis and reverse-engineering processes. Cluster25’s members internally develops technologies and capabilities for attribution practices, classification and categorization of malicious artifacts often before being used in operations. Cluster25 shares its findings and insights about the tool, techniques and procedures threat actors use to break in enterprises, organizations and government institutions around the world.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cluster25.io/about-us/"
+        ]
+      },
+      "uuid": "40b464f6-c9f3-11eb-b8bc-0242ac130003",
+      "value": "OSRS OSINT Source: Cluster25"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

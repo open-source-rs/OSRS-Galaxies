@@ -88,6 +88,16 @@
       "value": "Australian Labor Party (New South Wales Branch)"
     },
 	{
+      "description": "Waschbar GmbH is located in Mühlhausen/Thüringen, Thüringen, Germany and is part of the Linen & Uniform Supply Services Industry. Waschbar GmbH has 74 employees at this location and generates $5.60 million in sales (USD). (Sales figure is estimated).",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.Waschb%C3%A4r_GmbH.9591a945db0c63ef641fbb160fe91f5b.html"
+        ]
+      },
+      "uuid": "4e3be420-c9f6-11eb-b8bc-0242ac130003",
+      "value": "Waschbar GmbH"
+    },
+	{
       "description": "Health and fitness service provider.  Mainly gyms that patrons can engage in fitness activies.",
       "meta": {
         "refs": [

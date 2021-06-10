@@ -218,6 +218,16 @@
       "value": "Swiss Cloud Computing AG"
     },
 	{
+      "description": "DDoS-GUARD is one of the leading companies on DDoS protection market. We have filtering nodes on huge interstate channels operated by leading communications companies. Geo-distributed filtering infranet, modern equipment and innovative software solutions allow us to provide the best service for our customers and filter more than 1.5Tb per second of attacking traffic.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/ddos-guard/about/"
+        ]
+      },
+      "uuid": "e2ba8f2c-c9f4-11eb-b8bc-0242ac130003",
+      "value": "DDoS-Guard"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

@@ -57,6 +57,16 @@
       "value": "Luxottica Group S.p.A."
     },
 	{
+      "description": "BLK is an Australian sporting goods manufacturing company which was established in 1999 in the city of Gold Coast in Queensland. The overall but now heavily transitioned company has origins as far back as 1999, but evolved from the Australian arm of the brand KooGa.",
+      "meta": {
+        "refs": [
+          "https://blksport.com/"
+        ]
+      },
+      "uuid": "e2ba8b12-c9f4-11eb-b8bc-0242ac130003",
+      "value": "BLK Sport"
+    },
+	{
       "description": "Uniqlo Co., Ltd. is a Japanese casual wear designer, manufacturer and retailer. The company is a wholly owned subsidiary of Fast Retailing Co., Ltd. The company operates in Japan and several other countries.",
       "meta": {
         "refs": [

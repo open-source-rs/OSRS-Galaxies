@@ -2020,6 +2020,36 @@
 			"value": "Beech Acres Parenting Center"
 		},
 		{
+			"description": "Glacier Medical Associates is a Medical Practice company located in 1111 Baker Ave, Whitefish, Montana, United States. Specializing in family medicine, internal medicine, pediatrics and geriatrics, Glacier Medical Associates offers 15 Providers, including 4 Family Nurse Practitioners and 1 Physician’s Assistant.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/glacier-medical-associates/about/"
+				]
+			},
+			"uuid": "e2ba931e-c9f4-11eb-b8bc-0242ac130003",
+			"value": "Glacier Medical Associates"
+		},
+		{
+			"description": "Radiological service provider. 79 Hudson St Suite 100, Hoboken, NJ 07030.",
+			"meta": {
+				"refs": [
+					"https://hobokenradiology.com/"
+				]
+			},
+			"uuid": "4e3bde6c-c9f6-11eb-b8bc-0242ac130003",
+			"value": "Hoboken Radiology, LLC"
+		},
+		{
+			"description": "20/20 Eye Care Network is a premier vision care administrator committed to providing comprehensive superior vision benefits throughout the state of Florida.  We have a complete network of vision care professionals including board certified optometrists and ophthalmologists to serve all of your vision care needs.  Comprised of independent, affiliated optical practices, we offer a statewide system of vision health benefits for a wide range of employers, as well as individuals and families. We also offer programs and reporting systems that provide our members with quality, cost-effective vision benefit programs and services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/20-20-eye-care-network/about/"
+				]
+			},
+			"uuid": "4e3be092-c9f6-11eb-b8bc-0242ac130003",
+			"value": "20/20 Eye Care Network"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

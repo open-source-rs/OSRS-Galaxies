@@ -1420,6 +1420,32 @@
       "value": "OSRS Ransomware: Apostle Ransomware"
     },
 	{
+      "description": "Prometheus ransomware was first observed in February 2021 and is a new variant of a known strain called Thanos. Thanos ransomware has been advertised for sale on underground forums since at least the first half of 2020, where it has a builder that allows actors to customize a sample with a wide variety of available settings. This suggests that different threat actors may have leveraged this builder to create their own variants and brands. In this case, we turn our attention to one of those threat actors, Prometheus. While this ransomware gang claims to be part of REvil, we haven’t seen any other solid connection between the two groups. REvil operates on an affiliate-driven RaaS program, but we believe the Prometheus ransomware gang may be acting on their own and attempting to leverage the infamous REvil name and reputation to improve the chance that victims will pay the demanded ransom. This would not be the first time adversaries have used the names of well-known threat groups to strengthen their credibility. When Prometheus ransomware is executed, it tries to kill several backups and security software-related processes, such as Raccine, a ransomware prevention tool that tries to stop ransomware from deleting shadow copies in Windows.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/prometheus-ransomware/"
+        ]
+      },
+      "uuid": "35113a0a-c9e6-11eb-b8bc-0242ac130003",
+      "value": "OSRS Ransomware: Prometheus Ransomware"
+    },
+	{
+      "description": "In the past week, Sophos analysts uncovered a new ransomware written in the Go programming language that calls itself Epsilon Red. The malware was delivered as the final executable payload in a hand-controlled attack against a US-based business in the hospitality industry in which every other early-stage component was a PowerShell script.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2021/05/28/epsilonred/"
+        ]
+      },
+      "uuid": "35113b0e-c9e6-11eb-b8bc-0242ac130003",
+      "value": "OSRS Ransomware: Epsilon Red Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
