@@ -7259,6 +7259,58 @@
       "value": "OSRS Tool: SkinnyBoy Dropper"
     },
 	{
+      "description": "RAT used by the threat group SideCopy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "84a95f9c-e17f-11eb-ba80-0242ac130004",
+      "value": "OSRS Tool: CetaRAT"
+    },
+	{
+      "description": "A publicly available Delphi-based RAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "84a961f4-e17f-11eb-ba80-0242ac130004",
+      "value": "OSRS Tool: Allakore RAT"
+    },
+	{
+      "description": "A commodity RAT used by the threat group SideCopy.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "84a96384-e17f-11eb-ba80-0242ac130004",
+      "value": "OSRS Tool: Epicenter RAT"
+    },
+	{
+      "description": "This computer virus spreads through cracked software, specifically through illicit video game copies. The malware’s main purpose is Monero crypto mining, which is quite a conspicuous activity that should be detected by security products. With that in mind, the malware’s authors have incorporated multiple evasion techniques into the malware. Despite its blatant behavior, Crackonosh has not received much cover from security vendors, and its developers have managed to mine approximately 2 million dollars’ worth of cryptocurrency.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/crackonosh-the-hidden-crypto-mining-malware"
+        ]
+      },
+      "uuid": "84a96474-e17f-11eb-ba80-0242ac130004",
+      "value": "OSRS Tool: Crackonosh Miner"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

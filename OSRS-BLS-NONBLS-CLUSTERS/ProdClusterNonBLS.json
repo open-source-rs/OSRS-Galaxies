@@ -4940,6 +4940,106 @@
 			"value": "The Steamship Authority"
 		},
 		{
+			"description": "The Department of Education, Culture and Employment (ECE) encompasses many programs and services needed within a government structure. The Department is mandated to provide residents of the Northwest Territories with access to quality programs, services and supports to assist residents in making informed and productive choices for themselves and their families in regard to education, training, careers, employment and labour, child development, languages, culture and heritage.",
+			"meta": {
+				"refs": [
+					"https://www.ece.gov.nt.ca/en/about-ece"
+				]
+			},
+			"uuid": "78b605fe-e180-11eb-ba80-0242ac130004",
+			"value": "The Department of Education, Culture and Employment (ECE)"
+		},
+		{
+			"description": "Mobile County is located in the southwestern corner of the U.S. state of Alabama. It is the second most-populous county in the state after Jefferson County. As of the 2010 census, its population was 412,992. Its county seat is Mobile, which was founded as a deepwater port on the Mobile River.",
+			"meta": {
+				"refs": [
+					"https://www.mobilecountyal.gov/"
+				]
+			},
+			"uuid": "78b6082e-e180-11eb-ba80-0242ac130004",
+			"value": "Mobile County"
+		},
+		{
+			"description": "The New South Wales Ministry of Health, branded NSW Health, is a ministerial department of the New South Wales Government. NSW Health supports the executive and statutory roles of the Minister for Health, the Minister for Medical Research, and the Minister for Mental Health. The Ministry also monitors the performance of state-wide health organisations that collectively make up NSW Health. It is primarily responsible for the public health system in New South Wales, particularly through public hospitals as well as associated agencies and statutory authorities, such as the NSW Ambulance service.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Health_(New_South_Wales)"
+				]
+			},
+			"uuid": "78b60b9e-e180-11eb-ba80-0242ac130004",
+			"value": "The New South Wales Ministry of Health"
+		},
+		{
+			"description": "Brechin High School is a non-denominational secondary school in Brechin, Angus, Scotland.",
+			"meta": {
+				"refs": [
+					"https://www.brechinhigh.angus.sch.uk/"
+				]
+			},
+			"uuid": "78b60c70-e180-11eb-ba80-0242ac130004",
+			"value": "Brechin High School"
+		},
+		{
+			"description": "The New York City Law Department, also known as the Office of the Corporation Counsel, is the department of the government of New York City responsible for most of the city's legal affairs. The department is headed by the Corporation Counsel, currently Jim Johnson, the 79th official to hold this position.",
+			"meta": {
+				"refs": [
+					"https://www1.nyc.gov/site/law/index.page"
+				]
+			},
+			"uuid": "78b60d24-e180-11eb-ba80-0242ac130004",
+			"value": "New York City Law Department"
+		},
+		{
+			"description": "The Skinners' Kent Academy is a secondary school with academy status in Royal Tunbridge Wells. The academy is rated outstanding by Ofsted. Tunbridge Wells High School became The Skinners' Kent Academy in September 2009, when the school became an academy, and independent of local authority control.",
+			"meta": {
+				"refs": [
+					"https://www.skinnerskentacademy.org.uk/"
+				]
+			},
+			"uuid": "076d0108-e181-11eb-ba80-0242ac130004",
+			"value": "The Skinners' Kent Academy"
+		},
+		{
+			"description": "Skinners' Kent Primary School is proud to be a part of the Skinners' heritage and part of the successful Skinners' Kent Academy Trust, and will endeavour to maintain the extremely high standards and excellent levels of teaching set by our Trust. Skinners' Kent Primary School will be overseen by The Skinners' Kent Academy Trust. The other Trust school, The Skinners' Kent Academy (SKA) located nearby has caused somewhat of a whirlwind in Tunbridge Wells, going from strength to strength each year with ever improving GCSE Results.",
+			"meta": {
+				"refs": [
+					"http://www.skinnerskentprimaryschool.org.uk/about-us.html"
+				]
+			},
+			"uuid": "076d04dc-e181-11eb-ba80-0242ac130004",
+			"value": "Skinners' Kent Primary School"
+		},
+		{
+			"description": "Pont-Saint-Esprit is a commune in the Gard département in southern France. It is situated on the river Rhône and is the site of a historical crossing, hence its name. The Ardeche flows into the Rhône, just to the north of the bridge. The residents are called Spiripontains.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Pont-Saint-Esprit"
+				]
+			},
+			"uuid": "076d05e0-e181-11eb-ba80-0242ac130004",
+			"value": "Pont-Saint-Esprit"
+		},
+		{
+			"description": "Victor Valley Union High School District (VVUHSD) is a school district in the Victor Valley of San Bernardino County, southern California. It serves grades 7-12 in the Victor Valley region of the Mojave Desert, including the towns of Victorville and Adelanto. It operates eight schools. As of 2016 it has about 9,600 students and over 900 faculty members. The Victor Valley Union High School District headquarters are in Victorville.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Victor_Valley_Union_High_School_District"
+				]
+			},
+			"uuid": "076d06a8-e181-11eb-ba80-0242ac130004",
+			"value": "Victor Valley Union High School District"
+		},
+		{
+			"description": "Lancaster Independent School District is a public school district based in Lancaster, Texas. The district serves most of the city of Lancaster, a small portion of Dallas, and a small portion of the city of Hutchins. In 2010, the school district was rated academically acceptable by the Texas Education Agency.",
+			"meta": {
+				"refs": [
+					"https://www.lancasterisd.org/"
+				]
+			},
+			"uuid": "076d0766-e181-11eb-ba80-0242ac130004",
+			"value": "Lancaster Independent School District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

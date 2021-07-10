@@ -3069,6 +3069,19 @@
       "value": "OSRS Actors AND Campaigns: ThunderCats Campaign"
     },
 	{
+      "description": "Cisco Talos is tracking an increase in SideCopy's activities targeting government personnel in India using themes and tactics similar to APT36 (aka Mythic Leopard and Transparent Tribe). SideCopy is an APT group that mimics the Sidewinder APT's infection chains to deliver its own set of malware. We've discovered multiple infection chains delivering bespoke and commodity remote access trojans (RATs) such as CetaRAT, Allakore and njRAT. Apart from the three known malware families utilized by SideCopy, Talos also discovered the usage of four new custom RAT families and two other commodity RATs known as Lilith and Epicenter. Post-infection activities by SideCopy consist of deploying a variety of plugins, ranging from file enumerators to credential-stealers and keyloggers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/07/sidecopy.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "3940f1be-e17f-11eb-ba80-0242ac130004",
+      "value": "OSRS Actors AND Campaigns: SideCopy Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
