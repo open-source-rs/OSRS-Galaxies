@@ -9277,6 +9277,84 @@
       "value": "OSRS OSINT Author Index: Daniel Prizmant"
     },
 	{
+      "description": "Senior Security Researcher at SentinelOne Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/conti-unpacked-understanding-ransomware-development-as-a-response-to-detection/"
+        ]
+      },
+      "uuid": "1fdef242-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Idan Weizman"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity blog S2W Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://medium.com/s2wlab/analysis-of-lazarus-malware-abusing-non-activex-module-in-south-korea-7d52b9539c12"
+        ]
+      },
+      "uuid": "1fdef4b8-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Sojun Ryu"
+    },
+	{
+      "description": "Generic pan name used by the cybersecurity vendor K7 Security Labs for authorship of their online blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://labs.k7computing.com/"
+        ]
+      },
+      "uuid": "1fdef59e-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: K7 Security Labs"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Team Cymru.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://team-cymru.com/blog/2021/07/02/transparent-tribe-apt-infrastructure-mapping-2/"
+        ]
+      },
+      "uuid": "1fdef666-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joshua Picolet"
+    },
+	{
+      "description": "Generic pen name used by the group of cybersecurity researchers using the moniker Satori Threat Intelligence and Research Team.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.humansecurity.com/"
+        ]
+      },
+      "uuid": "1fdef724-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Satori Threat Intelligence and Research Team"
+    },
+	{
+      "description": "Security researcher affiliated with the cybersecurity blog S2W Lab.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://medium.com/s2wlab/matryoshka-variant-of-rokrat-apt37-scarcruft-69774ea7bf48"
+        ]
+      },
+      "uuid": "1fdef7e2-ee1e-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Jaeki Kim"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

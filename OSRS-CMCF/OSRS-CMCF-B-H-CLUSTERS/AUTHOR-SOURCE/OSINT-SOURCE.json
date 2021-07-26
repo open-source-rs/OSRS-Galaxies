@@ -3633,6 +3633,45 @@
       "value": "OSRS OSINT Source: Cluster25"
     },
 	{
+      "description": "S2W Lab is a big data analytics for cyber threat intelligence.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.crunchbase.com/organization/s2w-lab"
+        ]
+      },
+      "uuid": "23f83ff4-ee1f-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: S2W Lab"
+    },
+	{
+      "description": "We (K7 Computing) are one of the earliest and most accomplished IT security companies protecting more than 25 million clients worldwide against threats to their IT environment. We are recognized as a leader in providing safe and secure computing experience for home users as well as enterprise users across various industries. After Jayaraman Keseven Kesavardhanan founded the organization in 1991, he developed a team of the brightest and most forward-thinking technologists to continue building world-class products. The extensive scope of technological advancements has enabled us to introduce cyber protection solutions that continue to garner international awards and certifications. We protect clients in over 100 countries and continue to cherish our deep-rooted culture of helping each and every client achieve maximum protection against cyber-crimes. Our Threat Control Lab comprises expert engineers and researchers who work around the clock to detect any new malware, spyware, viruses, or any other cyber-threats this safeguarding provides evert client constant protection against Internet-based threats that could otherwise compromise the security of their systems or individual information Our flagship products—K7 Total Security and K7 Enterprise Security—are being used to protect clients on almost every continent, and inside some of the most securely protected and defended organizations in the world. Our client base covers home users, local and central governments, the financial sector, manufacturing, telecommunications, utilities, retail, healthcare, education, technology, and a range of other sectors operating in Europe, the United States, and Asia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.k7computing.com/us/about-us"
+        ]
+      },
+      "uuid": "23f84350-ee1f-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: Cluster25"
+    },
+	{
+      "description": "HUMAN is a pro-privacy, pro-human organization. Our privacy-sensitive code detects bots without tracking humans. And that privacy-centric approach has earned the trust of our partners and allowed us to reach an enormous global scale. Our code, running in countless websites and apps every day, verifies the humanity of more than 10 trillion interactions per week and affords us a footprint larger than any single anti-virus or threat detection platform on the internet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.humansecurity.com/company/about"
+        ]
+      },
+      "uuid": "23f84486-ee1f-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: HUMAN Intelligence Research Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
