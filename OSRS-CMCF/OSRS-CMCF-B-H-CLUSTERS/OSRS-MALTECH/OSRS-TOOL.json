@@ -7311,6 +7311,45 @@
       "value": "OSRS Tool: Crackonosh Miner"
     },
 	{
+      "description": "Threat actors are constantly using new tricks and tactics to target users across the globe. This blog is about the spyware PJobRAT targeting Indian users by disguising as dating and instant messaging apps. The initial vector information was found on Twitter.  This RAT disguises as famous Indian dating applications like Trendbanter, Rita, Ponam and instant messaging applications like SignalLite and HangOn.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.k7computing.com/?p=22537"
+        ]
+      },
+      "uuid": "ee85aba6-ee1c-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: PJobRAT"
+    },
+	{
+      "description": "We discovered a new malware that targets online gambling companies in China via a watering hole attack, in which visitors are tricked into downloading a malware loader disguised as a legitimate installer for well-known apps such as Adobe Flash Player or Microsoft Silverlight. Closer examination of the loader shows that it loads either a Cobalt Strike shellcode or a previously undocumented backdoor written in Python, a new type of malware that we found to be named BIOPASS RAT (remote access trojan). BIOPASS RAT possesses basic features found in other malware, such as file system assessment, remote desktop access, file exfiltration, and shell command execution. It also has the ability to compromise the private information of its victims by stealing web browser and instant messaging client data. What makes BIOPASS RAT particularly interesting is that it can sniff its victim’s screen by abusing the framework of Open Broadcaster Software (OBS) Studio, a popular live streaming and video recording app, to establish live streaming to a cloud service via Real-Time Messaging Protocol (RTMP). In addition, the attack misuses the object storage service (OSS) of Alibaba Cloud (Aliyun) to host the BIOPASS RAT Python scripts as well as to store the exfiltrated data from victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html"
+        ]
+      },
+      "uuid": "ee85ae26-ee1c-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: BIOPASS RAT"
+    },
+	{
+      "description": "The Gasket tool referenced a proxying and tunneling capability known as MagicSocks, which is based on the open-source Chisel project. The actors also created a standalone version of MagicSocks that they would use in addition to Gasket. The standalone MagicSocks tool comes as a dynamic link library (DLL), which the actor also wrote in Golang. The developer of MagicSocks uses code from the Chisel project to tunnel traffic from the local system to an external actor-controlled Chisel server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/"
+        ]
+      },
+      "uuid": "ee85af0c-ee1c-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: MagicSocks Tunneler"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

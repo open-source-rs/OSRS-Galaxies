@@ -3082,6 +3082,84 @@
       "value": "OSRS Actors AND Campaigns: SideCopy Threat Group"
     },
 	{
+      "description": "Recorded Future has identified a suspected Chinese state-sponsored group that we track as Threat Activity Group 22 (TAG-22) targeting telecommunications, academia, research and development, and government organizations in Nepal, the Philippines, Taiwan, and more historically, Hong Kong. In this most recent activity, the group likely used compromised GlassFish servers and Cobalt Strike in initial access operations before switching to the bespoke Winnti, ShadowPad, and Spyder backdoors for long-term access using dedicated actor-provisioned command and control infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.recordedfuture.com/chinese-group-tag-22-targets-nepal-philippines-taiwan/"
+        ]
+      },
+      "uuid": "3e3f4d2c-ee19-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: TAG-22 Threat Group"
+    },
+	{
+      "description": "As we shared in the Microsoft on the Issues blog, Microsoft and Citizen Lab have worked together to disable the malware being used by SOURGUM that targeted more than 100 victims around the world including politicians, human rights activists, journalists, academics, embassy workers, and political dissidents. To limit these attacks, Microsoft has created and built protections into our products against this unique malware, which we are calling DevilsTongue. We have shared these protections with the security community so that we can collectively address and mitigate this threat. We have also issued a software update that will protect Windows customers from the associated exploits that the actor used to help deliver its highly sophisticated malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/07/15/protecting-customers-from-a-private-sector-offensive-actor-using-0-day-exploits-and-devilstongue-malware/"
+        ]
+      },
+      "uuid": "3e3f509c-ee19-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: SOURGUM APT"
+    },
+	{
+      "description": "As cyber extortion flourishes, ransomware gangs are constantly changing tactics and business models to increase the chances that victims will pay increasingly large ransoms. As these criminal organizations become more sophisticated, they are increasingly taking on the appearance of professional enterprises. One good example is Mespinoza ransomware, which is run by a prolific group with a penchant for using whimsical terms to name its hacking tools. Our Unit 42 cybersecurity consultants have observed the gang attacking U.S. publishing, real estate, industrial manufacturing and education organizations with ransom demands as high as $1.6 million and payments as high as $470,000. The FBI recently published an alert about the group, also known as PYSA, following a hacking spree on K-12 schools, colleges, universities and even seminaries in the United States, as well as the United Kingdom. To learn more about this group, we monitored its infrastructure — including a command and control (C2) server it uses to manage attacks and a leak site where it posts data of victims who refused to pay large ransoms.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/"
+        ]
+      },
+      "uuid": "3e3f518c-ee19-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Mespinoza Ransomware Gang"
+    },
+	{
+      "description": "Further analysis revealed that the underlying actor, which we dubbed LuminousMoth, shows an affinity to the HoneyMyte group, otherwise known as Mustang Panda. This is evident in both network infrastructure connections, and the usage of similar TTPs to deploy the Cobalt Strike Beacon as a payload. In fact, our colleagues at ESET and Avast recently assessed that HoneyMyte was active in the same region. The proximity in time and common occurrence in Myanmar of both campaigns could suggest that various TTPs of HoneyMyte may have been borrowed for the activity of LuminousMoth.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/apt-luminousmoth/103332/"
+        ]
+      },
+      "uuid": "3e3f5254-ee19-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: LuminousMoth APT"
+    },
+	{
+      "description": "MSTIC tracks and investigates a range of malicious cyber activities and operations. During the tracking and investigation phases prior to when MSTIC reaches high confidence about the origin or identity of the actor behind an operation, we refer to the unidentified threat actor as a development group or DEV group and assigns each DEV group a unique number for tracking purposes. MSTIC has observed DEV-0322 targeting entities in the U.S. Defense Industrial Base Sector and software companies. This activity group is based in China and has been observed using commercial VPN solutions and compromised consumer routers in their attacker infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/07/13/microsoft-discovers-threat-actor-targeting-solarwinds-serv-u-software-with-0-day-exploit/"
+        ]
+      },
+      "uuid": "3e3f5506-ee19-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: DEV-0322 Threat Group"
+    },
+	{
+      "description": "In 2021 we detected an ongoing campaign targeting corporate networks in Spanish-speaking countries, with 90 percent of the detections in Venezuela. When comparing the malware used in this campaign with what was previously documented, we found new functionality and changes to this malware, known as Bandook. We also found that this campaign targeting Venezuela, despite being active since at least 2015, has somehow remained undocumented. Given the malware used and the targeted locale, we chose to name this campaign Bandidos.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/07/07/bandidos-at-large-spying-campaign-latin-america/"
+        ]
+      },
+      "uuid": "48d2bd04-ee1a-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation Manul"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

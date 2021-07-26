@@ -1387,6 +1387,32 @@
       "value": "OSRS Backdoor: Siloscape Backdoor"
     },
 	{
+      "description": "DevilsTongue is a complex modular multi-threaded piece of malware written in C and C++ with several novel capabilities. Analysis is still on-going for some components and capabilities, but we’re sharing our present understanding of the malware so defenders can use this intelligence to protect networks and so other researchers can build on our analysis. For files on disk, PDB paths and PE timestamps are scrubbed, strings and configs are encrypted, and each file has a unique hash. The main functionality resides in DLLs that are encrypted on disk and only decrypted in memory, making detection more difficult. Configuration and tasking data is separate from the malware, which makes analysis harder.  DevilsTongue has both user mode and kernel mode capabilities. There are several novel detection evasion mechanisms built in. All these features are evidence that SOURGUM developers are very professional, have extensive experience writing Windows malware, and have a good understanding of operational security.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/07/15/protecting-customers-from-a-private-sector-offensive-actor-using-0-day-exploits-and-devilstongue-malware/"
+        ]
+      },
+      "uuid": "48d2bfa2-ee1a-11eb-9a03-0242ac130003",
+      "value": "OSRS Backdoor: DevilsTongue Backdoor"
+    },
+	{
+      "description": "During our analysis of a Mespinoza ransomware incident, we observed the threat actors installing a backdoor written in the Go language on the system prior to the distribution of the ransomware. According to a report published by France’s National Agency for the Security of Information Systems (ANSSI), ANSSI also observed threat actors delivering the Mespinoza ransomware using a payload written in Go. We analyzed the Go sample mentioned in the ANSSI report and found that it was an earlier and an unobfuscated version of the same tool we observed in our case. The developers of Gasket wrote this backdoor in Golang and used the open-source Gobfuscate tool to obfuscate the payload. We call this tool Gasket, as the variant of this tool mentioned in the ANSSI report designated as version 001, which had the following two functions that it called to carry out its command and control (c2) communications. We believe that the actors use this backdoor as a backup to RDP to maintain access to the network.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/"
+        ]
+      },
+      "uuid": "48d2c1dc-ee1a-11eb-9a03-0242ac130003",
+      "value": "OSRS Backdoor: Gasket Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
