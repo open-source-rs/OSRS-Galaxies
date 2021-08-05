@@ -3160,6 +3160,48 @@
       "value": "OSRS Actors AND Campaigns: Operation Manul"
     },
 	{
+      "description": "Proofpoint researchers identified a new group, TA2721 distributing Spanish-language email threats. The group often targets individuals with Spanish-language surnames at global organizations representing multiple different industries. The infection chain features a PDF containing a URL that leads to an encrypted RAR file which installs Bandook malware. The threat actor tends to use the same command and control (C2) infrastructure for weeks or months at a time. Poofpoint has only seen three different C2 domains in the last six months. Bandook is an old malware that is not used by many threat actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/new-threat-actor-uses-spanish-language-lures-distribute-seldom-observed-bandook"
+        ]
+      },
+      "uuid": "401f8242-f620-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: TA2721"
+    },
+	{
+      "description": "Starting in 2020, we have discovered that the activities of overseas APT organizations in South Asia can be traced back to January 2020, and they are still active today . The attack activities organized by the APT mainly targeted important areas such as national institutions, military industry, scientific research, and national defense in Pakistan, Bangladesh and other countries. It is not related to APT organizations such as Manling Flower and Rattlesnake that are active in South Asia. It is a new attack organization. The APT organization uses harpoon emails and social engineering methods to infiltrate, spread malicious programs to target devices, secretly control the target devices, and continue to steal sensitive files on the devices. Since the C2, load distribution, and stolen data storage all rely on cloud services, and the Trojan horse used is written in python, we named it Tengyun snake, numbered APT-C-61.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/Jpw7TqyPzOy57RAZDQdlWA"
+        ],
+        "synonyms": [
+        "Tengyun Snake Organization"
+        ]
+      },
+      "uuid": "401f84fe-f620-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: APT-C-61"
+    },
+	{
+      "description": "On July 9th, 2021 a wiper attack paralyzed the Iranian train system. The attackers taunted the Iranian government as hacked displays instructed passengers to direct their complaints to the phone number of the Iranian Supreme Leader Khameneis office. SentinelLabs researchers were able to reconstruct the majority of the attack chain, which includes an interesting never-before-seen wiper. OPSEC mistakes let us know that the attackers refer to this wiper as Meteor, prompting us to name the campaign MeteorExpress. At this time, we have not been able to tie this activity to a previously identified threat group nor to additional attacks. However, the artifacts suggest that this wiper was developed in the past three years and was designed for reuse. To encourage further discovery of this new threat actor, we are providing indicators as well as hunting YARA rules for fellow security researchers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/"
+        ]
+      },
+      "uuid": "401f85f8-f620-11eb-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: MeteorExpress Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

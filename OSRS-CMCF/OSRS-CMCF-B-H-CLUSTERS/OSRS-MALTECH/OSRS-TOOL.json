@@ -7350,6 +7350,71 @@
       "value": "OSRS Tool: MagicSocks Tunneler"
     },
 	{
+      "description": "LemonDuck is named after the variable Lemon_Duck in one of the said PowerShell scripts. The variable is often used as the user agent, in conjunction with assigned numbers, for infected devices. The format used two sets of alphabetical characters separated by dashes. The term still appears in PowerShell scripts, as well as in many of the execution scripts, specifically in a function called SIEX, which is used to assign a unique user-agent during botnet connection in attacks as recently as June 2021. LemonDuck frequently utilizes open-source material built off of resources also used by other botnets, so there are many components of this threat that would seem familiar. Microsoft researchers are aware of two distinct operating structures, which both use the LemonDuck malware but are potentially operated by two different entities for separate goals.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/07/22/when-coin-miners-evolve-part-1-exposing-lemonduck-and-lemoncat-modern-mining-malware-infrastructure/"
+        ]
+      },
+      "uuid": "b1f5d240-f625-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: LemonCat Miner"
+    },
+	{
+      "description": "AnchorAdjuster is a tool that is used to modify an AnchorDNS sample with an updated config and the victim’s UUID. The tool is executed by an external command and has been seen being run by CobaltStrike.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.kryptoslogic.com/blog/2021/07/adjusting-the-anchor/"
+        ]
+      },
+      "uuid": "b1f5d452-f625-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: Trickbot AnchorAdjuster"
+    },
+	{
+      "description": "While monitoring the Microsoft Exchange Server attacks in March 2021, Unit 42 researchers identified a PlugX variant delivered as a post-exploitation remote access tool (RAT) to one of the compromised servers. The variant observed by Unit 42 is unique in that it contains a change to its core source code - the replacement of its trademark word PLUG to THOR. The earliest THOR sample uncovered was from August 2019, and it is the earliest known instance of the rebranded code. New features were observed in this variant, including enhanced payload-delivery mechanisms and abuse of trusted binaries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/thor-plugx-variant/"
+        ]
+      },
+      "uuid": "b1f5d538-f625-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: Thor RAT"
+    },
+	{
+      "description": "Wiper variant discovered by security researchers during MeteorExpress campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/"
+        ]
+      },
+      "uuid": "b1f5d5ec-f625-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: Meteor Wiper"
+    },
+	{
+      "description": "FatalRAT is a remote access trojan with a wide set of capabilities that can be executed remotely by an attacker. The malware runs several tests before fully infecting a system, checking the existence of multiple virtual machine products, disk space, number of physical processors, and more (T1497.001).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cybersecurity.att.com/blogs/labs-research/new-sophisticated-rat-in-town-fatalrat-analysis"
+        ]
+      },
+      "uuid": "b1f5d6aa-f625-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: FatalRAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

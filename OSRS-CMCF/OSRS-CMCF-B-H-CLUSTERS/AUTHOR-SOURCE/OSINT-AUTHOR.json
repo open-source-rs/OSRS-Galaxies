@@ -9355,6 +9355,45 @@
       "value": "OSRS OSINT Author Index: Jaeki Kim"
     },
 	{
+      "description": "Cybersecurity researcher.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/Jpw7TqyPzOy57RAZDQdlWA"
+        ]
+      },
+      "uuid": "c3baf778-f623-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: 360 Advanced Threat Institute"
+    },
+	{
+      "description": "Cybersecurity researcher.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cert.ssi.gouv.fr/"
+        ]
+      },
+      "uuid": "c3baf994-f623-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: CERT-FR"
+    },
+	{
+      "description": "Cybersecurity researcher.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cleafy.com/"
+        ]
+      },
+      "uuid": "c3bafa84-f623-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Cleafy Labs"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

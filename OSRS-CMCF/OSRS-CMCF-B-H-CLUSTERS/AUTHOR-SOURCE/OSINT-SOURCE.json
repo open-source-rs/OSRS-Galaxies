@@ -3672,6 +3672,45 @@
       "value": "OSRS OSINT Source: HUMAN Intelligence Research Blog"
     },
 	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/Jpw7TqyPzOy57RAZDQdlWA"
+        ]
+      },
+      "uuid": "2db82588-f624-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: 360 Advanced Threat Institute"
+    },
+	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.cert.ssi.gouv.fr/"
+        ]
+      },
+      "uuid": "2db827ea-f624-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: CERT-FR"
+    },
+	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.cleafy.com/"
+        ]
+      },
+      "uuid": "2db82902-f624-11eb-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: Cleafy Labs"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
