@@ -2050,6 +2050,36 @@
 			"value": "20/20 Eye Care Network"
 		},
 		{
+			"description": "University of Florida Health is a medical network associated with the University of Florida. It includes two academic hospitals – UF Health Shands Hospital in Gainesville and UF Health Jacksonville – and several other hospitals and facilities in North Florida. It used to be known as Shands Healthcare and UF&Shands.",
+			"meta": {
+				"refs": [
+					"https://ufhealth.org/"
+				]
+			},
+			"uuid": "a6ab2e52-f842-11eb-9a03-0242ac130003",
+			"value": "University of Florida Health"
+		},
+		{
+			"description": "Care home with nursing",
+			"meta": {
+				"refs": [
+					"https://carehomescentre.co.uk/prezentacja/pine-heath-nursing-home-,1235.html"
+				]
+			},
+			"uuid": "a6ab2f42-f842-11eb-9a03-0242ac130003",
+			"value": "Pine Heath Nursing Home"
+		},
+		{
+			"description": "Hope Medical LLC is a medical group practice located in Stone Mountain, GA that specializes in Family Medicine and Nursing (Nurse Practitioner).",
+			"meta": {
+				"refs": [
+					"https://www.healthgrades.com/group-directory/ga-georgia/stone-mountain/hope-medical-llc-oo76rxt"
+				]
+			},
+			"uuid": "a6ab300a-f842-11eb-9a03-0242ac130003",
+			"value": "Hope Medical LLC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

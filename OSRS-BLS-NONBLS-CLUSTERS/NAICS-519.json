@@ -336,6 +336,16 @@
 			"value": "yam media"
 		},
 		{
+			"description": "Kadokawa Corporation is a Japanese media conglomerate that was created as a result of the merger of the original Kadokawa Corporation and Dwango Co., Ltd. on October 1, 2014.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Kadokawa_Corporation"
+				]
+			},
+			"uuid": "a0bf5efe-f843-11eb-9a03-0242ac130003",
+			"value": "Kadokawa Corporation"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

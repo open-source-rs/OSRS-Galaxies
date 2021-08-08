@@ -237,6 +237,26 @@
       "value": "Domino's Pizza, Inc."
     },
 	{
+      "description": "Euro Pizza Products is the number one wholesaler for New York Pizza, as a buyer and supplier. The range varies from pizza dough, sauce, toppings to the pizza boxes. Euro Pizza Products has its own website www.europizzaproducts.com. As of 2015 Euro Pizza Products has its own active LinkedIn page, where fun and informative content is shared every week.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/new-york-pizza/about/"
+        ]
+      },
+      "uuid": "a1a52c9c-f841-11eb-9a03-0242ac130003",
+      "value": "New York Pizza, Netherlands"
+    },
+	{
+      "description": "Apache Pizza is a chain of fast food pizza delivery restaurants in Ireland. Founded in 1996 by Robert Pendleton and his wife Emily Gore Grimes, Apache is the trading name of The Good Food Company. As of 2016, there are over 150 stores across the Republic of Ireland and nine stores in Northern Ireland.",
+      "meta": {
+        "refs": [
+          "https://www.apache.ie/"
+        ]
+      },
+      "uuid": "a1a52d5a-f841-11eb-9a03-0242ac130003",
+      "value": "Apache Pizza"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [

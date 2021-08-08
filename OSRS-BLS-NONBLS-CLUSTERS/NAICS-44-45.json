@@ -647,6 +647,16 @@
 			"value": "CEFCO Convenience Stores"
 		},
 		{
+			"description": "French retailer.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Cama%C3%AFeu"
+				]
+			},
+			"uuid": "2714cfd8-f845-11eb-9a03-0242ac130003",
+			"value": "Camaieu"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

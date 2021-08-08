@@ -77,6 +77,16 @@
 			"value": "Quanta Computer"
 		},
 		{
+			"description": "We invest in industries that are fundamental to propel societal advancement and sustainable development. We believe that through memory humans can build the future, with ambition everyone can be legendary, with courage, transportation can drive us to a sustainable destination, and with aspiration, lighting can broaden our vision.",
+			"meta": {
+				"refs": [
+					"https://www.adata.com/us/about"
+				]
+			},
+			"uuid": "a1a52a12-f841-11eb-9a03-0242ac130003",
+			"value": "ADATA Technology Co., Ltd."
+		},
+		{
 			"description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.",
 			"meta": {
 				"refs": [

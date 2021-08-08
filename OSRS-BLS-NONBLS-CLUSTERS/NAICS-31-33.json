@@ -477,6 +477,16 @@
       "value": "Bose Corporation"
     },
 	{
+      "description": "Manufacturer of building materials.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/prb-produits-de-rev%C3%AAtement-du-b%C3%A2timent/about/"
+        ]
+      },
+      "uuid": "a0bf5b48-f843-11eb-9a03-0242ac130003",
+      "value": "PRB - Building Coating Products"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

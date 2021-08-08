@@ -27,6 +27,16 @@
       "value": "Ardagh Group"
     },
 	{
+      "description": "Edward Don & Company, a family-owned business since 1921, is the nation’s leading distributor of foodservice equipment and supplies. DON combines extensive inventory, technological expertise and dedication to excellence to bring its customers the products they need when they need them.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/edward-don-and-company/about/"
+        ]
+      },
+      "uuid": "2714d154-f845-11eb-9a03-0242ac130003",
+      "value": "Edward Don & Company"
+    },
+	{
       "description": "Brenntag SE is a German chemical distribution company founded in 1874 in Berlin. The company is Headquartered in Essen, Germany and has operations in more than 77 countries worldwide.",
       "meta": {
         "refs": [

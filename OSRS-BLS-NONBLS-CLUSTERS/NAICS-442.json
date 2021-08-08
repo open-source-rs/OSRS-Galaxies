@@ -37,6 +37,16 @@
       "value": "IKEA"
     },
 	{
+      "description": "Back in 1989 two friends decided to open the first Furniture Village store in Abingdon, Oxfordshire with a simple philosophy – to offer high quality, beautifully designed furniture at a great price with exceptional service.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/furniture-village/about/"
+        ]
+      },
+      "uuid": "a6ab2baa-f842-11eb-9a03-0242ac130003",
+      "value": "Furniture Village"
+    },
+	{
       "description": "Amerisleep is a retailer and producer of mattresses.",
       "meta": {
         "refs": [

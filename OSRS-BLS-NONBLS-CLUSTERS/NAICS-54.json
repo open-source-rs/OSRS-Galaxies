@@ -3674,6 +3674,66 @@
 			"value": "Fujifilm Holdings Corporation"
 		},
 		{
+			"description": "Nucleus Software Exports Limited is an Indian IT company in the Banking and Financial Services sector. It offers IT and consultancy services serving a variety of sectors of the banking industry. It is listed on the Bombay Stock Exchange and the National Stock Exchange of India.",
+			"meta": {
+				"refs": [
+					"https://www.nucleussoftware.com/"
+				]
+			},
+			"uuid": "65a220c6-f844-11eb-9a03-0242ac130003",
+			"value": "Nucleus Software Exports Limited"
+		},
+		{
+			"description": "The WMed Innovation Center on the WMU Homer Stryker MD School of Medicine’s Parkview Campus is a 69,000-square-foot, purpose-built incubator and accelerator created to support life science, technology, and engineering ventures of all kinds, from the earliest startups to maturing companies. We rent more than space. With access to specialized equipment, flexible lease terms, and the ability to grow or contract as needed in a fully managed facility, clients can focus on their business without unexpected hassles or expenses. Through regular interaction with Innovation Center management, clients receive business mentoring and guidance as well as access to numerous state, local, and university resources to advance their business and technology.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wmed-innovation-center/about/"
+				]
+			},
+			"uuid": "65a222e2-f844-11eb-9a03-0242ac130003",
+			"value": "WMed Innovation Center"
+		},
+		{
+			"description": "BioTelemetry Healthcare is focused on the diagnosis and monitoring of cardiac arrhythmias, or heart rhythm disorders.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/biotelheart/about/"
+				]
+			},
+			"uuid": "65a223d2-f844-11eb-9a03-0242ac130003",
+			"value": "BioTel Heart"
+		},
+		{
+			"description": "iConstituent Engagement Platform helps senators, congresspeople, state & local officials to automate and streamline communication with personalized one-on-one focus and increase their reach within their constituency. This allows them to develop a positive relationship and improves voters' perception of the official, in addition to building targeted solutions to solve constituents’ problems.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/iconstituent/about/"
+				]
+			},
+			"uuid": "65a2249a-f844-11eb-9a03-0242ac130003",
+			"value": "iConstituent"
+		},
+		{
+			"description": "LineStar is the parent company of three integrated operating entities, all focused on providing premier service to owners and operators of oil and gas infrastructure.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/linestar-services-inc-/about/"
+				]
+			},
+			"uuid": "65a2260c-f844-11eb-9a03-0242ac130003",
+			"value": "LineStar Integrity Services"
+		},
+		{
+			"description": "Sol Oriens LLC is a small, veteran-owned consulting firm focused on managing advanced technologies and concepts with strong potential for military and space applications.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/sol-oriens-llc/about/"
+				]
+			},
+			"uuid": "65a226d4-f844-11eb-9a03-0242ac130003",
+			"value": "Sol Oriens LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

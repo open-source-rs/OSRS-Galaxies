@@ -1259,6 +1259,16 @@
 			"value": "Sierra College"
 		},
 		{
+			"description": "Des Moines Area Community College (DMACC), a public institution serving the educational and career training needs of Iowans, is committed to the lifelong success of its students. Situated in one of America’s most vibrant regions, DMACC offers 200 programs, certificates and transfer degrees, annually serving more than 70,000 credit and noncredit students across six campuses and six learning centers. Thanks to College-wide innovation, including Continuous Process Improvement (CPI), new programs and affordable tuition, DMACC continues to experience strong growth. For more information, please visit www.dmacc.edu.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/school/des-moines-area-community-college/about/"
+				]
+			},
+			"uuid": "a1a52b02-f841-11eb-9a03-0242ac130003",
+			"value": "Des Moines Area Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

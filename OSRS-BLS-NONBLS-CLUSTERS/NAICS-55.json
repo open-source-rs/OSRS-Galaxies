@@ -67,6 +67,16 @@
       "value": "J Spargo & Associates Inc"
     },
 	{
+      "description": "Navistar International Corporation is an American holding company created in 1986 as the successor to International Harvester. Navistar operates as the owner of International brand of trucks and diesel engines. The company also produces buses under the IC Bus brand.",
+      "meta": {
+        "refs": [
+          "https://www.navistar.com/"
+        ]
+      },
+      "uuid": "a6ab332a-f842-11eb-9a03-0242ac130003",
+      "value": "Navistar International Corporation"
+    },
+	{
       "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
       "meta": {
         "refs": [

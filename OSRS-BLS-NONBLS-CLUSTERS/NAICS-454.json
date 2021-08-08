@@ -107,6 +107,16 @@
       "value": "JD.com, Inc."
     },
 	{
+      "description": "PEARL. GmbH is located in Buggingen, Baden-Wurttemberg, Germany and is part of the Electronics and Appliance Stores Industry. PEARL. GmbH has 400 employees at this location and generates 147.78 million in sales (USD). There are 3 companies in the PEARL. GmbH corporate family.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.pearl_gmbh.7719c87cb2a8b6c43bb7bcd883547155.html"
+        ]
+      },
+      "uuid": "a0bf5d96-f843-11eb-9a03-0242ac130003",
+      "value": "PEARL. GmbH"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

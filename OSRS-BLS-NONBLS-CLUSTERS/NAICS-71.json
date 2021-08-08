@@ -247,6 +247,16 @@
       "value": "Virgin Active"
     },
 	{
+      "description": "Electronic Arts Inc. is an American video game company headquartered in Redwood City, California. It is the second-largest gaming company in the Americas and Europe by revenue and market capitalization after Activision Blizzard and ahead of Take-Two Interactive, and Ubisoft as of May 2020.",
+      "meta": {
+        "refs": [
+          "https://www.ea.com/"
+        ]
+      },
+      "uuid": "a1a526de-f841-11eb-9a03-0242ac130003",
+      "value": "Electronic Arts Inc."
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

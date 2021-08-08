@@ -345,6 +345,36 @@
 			"value": "Volunteer Service Abroad"
 		},
 		{
+			"description": "The Tokyo Organising Committee of the Olympic and Paralympic Games is the organisation responsible for overseeing the planning and development of the 2020 Summer Olympic and Paralympic Games.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Tokyo_Organising_Committee_of_the_Olympic_and_Paralympic_Games"
+				]
+			},
+			"uuid": "2714c93e-f845-11eb-9a03-0242ac130003",
+			"value": "The Tokyo Organising Committee of the Olympic and Paralympic Games"
+		},
+		{
+			"description": "NIAAA is a non-profit organization and has been designated by the Illinois Department on Aging to be the area agency on aging for northwestern Illinois.",
+			"meta": {
+				"refs": [
+					"http://www.nwilaaa.org/"
+				]
+			},
+			"uuid": "2714cdf8-f845-11eb-9a03-0242ac130003",
+			"value": "The Northwestern Illinois Area Agency on Aging"
+		},
+		{
+			"description": "We cultivate a culture of health to inspire active lifestyles and healthy food choices in the places we live, work, and play.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/michiganfitness/about/"
+				]
+			},
+			"uuid": "2714cf1a-f845-11eb-9a03-0242ac130003",
+			"value": "The Michigan Fitness Foundation"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
