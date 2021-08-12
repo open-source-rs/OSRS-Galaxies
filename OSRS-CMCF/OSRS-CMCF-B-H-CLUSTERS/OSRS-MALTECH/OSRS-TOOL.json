@@ -7415,6 +7415,32 @@
       "value": "OSRS Tool: FatalRAT"
     },
 	{
+      "description": "IIStealer is implemented as a malicious, native IIS module – a C++ DLL dropped in the windir_system32_inetsrv_ folder on the compromised IIS server and configured in the windir_system32_inetsrv_config_ApplicationHost.config file. In some cases, IIStealer is deployed under the name dir.dll and, as seen in Figure 2, uses a forged VERSIONINFO resource to mimic a legitimate Windows IIS module called dirlist.dll. Because it is an IIS module, IIStealer is loaded automatically by the IIS Worker Process (w3wp.exe), which handles the requests sent to the IIS web server – this is how IIStealer achieves persistence, and how it can affect the processing of incoming requests.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/08/06/iistealer-server-side-threat-ecommerce-transactions/"
+        ]
+      },
+      "uuid": "d99e67da-fb6b-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: IIStealer"
+    },
+	{
+      "description": "One of the tools used by the attackers was a custom-built keylogger dubbed EnrollLogger by Cybereason. In order to hide the malicious activity, the attackers deployed a legitimate South-Korean multimedia player called Potplayer that has a known DLL-hijacking vulnerability, along with a trojanized DLL file called PotPlayer.dll.txt that is loaded to Potplayer.exe upon execution, making it appear legitimate.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/deadringer-exposing-chinese-threat-actors-targeting-major-telcos"
+        ]
+      },
+      "uuid": "d99e68b6-fb6b-11eb-9a03-0242ac130003",
+      "value": "OSRS Tool: EnrollLoger Keylogger"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
