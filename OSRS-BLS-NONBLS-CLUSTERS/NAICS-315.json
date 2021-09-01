@@ -67,6 +67,16 @@
       "value": "BLK Sport"
     },
 	{
+      "description": "Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world.",
+      "meta": {
+        "refs": [
+          "https://us.puma.com/"
+        ]
+      },
+      "uuid": "6e343824-0b30-11ec-9a03-0242ac130003",
+      "value": "Puma SE"
+    },
+	{
       "description": "Uniqlo Co., Ltd. is a Japanese casual wear designer, manufacturer and retailer. The company is a wholly owned subsidiary of Fast Retailing Co., Ltd. The company operates in Japan and several other countries.",
       "meta": {
         "refs": [

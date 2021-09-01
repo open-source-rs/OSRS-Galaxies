@@ -9394,6 +9394,32 @@
       "value": "OSRS OSINT Author Index: Cleafy Labs"
     },
 	{
+      "description": "Generic blogger name used by the cybersecurity vendor Sygnia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.sygnia.co/"
+        ]
+      },
+      "uuid": "110c0984-0b2f-11ec-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: The Sygnia Incident Response Team"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Inquest.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://inquest.net/blog/2021/08/23/kimsuky-espionage-campaign"
+        ]
+      },
+      "uuid": "110c0bc8-0b2f-11ec-9a03-0242ac130003",
+      "value": "OSRS OSINT Author Index: Dmitry Melikov"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

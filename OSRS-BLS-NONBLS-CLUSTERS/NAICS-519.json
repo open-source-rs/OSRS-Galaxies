@@ -346,6 +346,16 @@
 			"value": "Kadokawa Corporation"
 		},
 		{
+			"description": "Gettr is an alt-tech social media platform targeted to American conservatives. It was created by Jason Miller, a former Donald Trump aide and spokesman, and launched officially on July 4, 2021. Its user interface and feature set have been described as very similar to those of Twitter.",
+			"meta": {
+				"refs": [
+					"https://www.gettr.com/"
+				]
+			},
+			"uuid": "ff492a04-0b30-11ec-9a03-0242ac130003",
+			"value": "Gettr"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

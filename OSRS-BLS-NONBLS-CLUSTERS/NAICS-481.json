@@ -77,6 +77,16 @@
       "value": "EasyJet Switzerland SA"
     },
 	{
+      "description": "Bangkok Airways Public Company Limited is a regional airline based in Bangkok, Thailand. It operates scheduled services to destinations in Thailand, Cambodia, China, Hong Kong, India, Laos, Malaysia, Maldives, Myanmar, Singapore, and Vietnam. Its main base is Suvarnabhumi Airport.",
+      "meta": {
+        "refs": [
+          "https://www.bangkokair.com/"
+        ]
+      },
+      "uuid": "6e3435fe-0b30-11ec-9a03-0242ac130003",
+      "value": "Bangkok Airways Public Company Limited"
+    },
+	{
       "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
       "meta": {
         "refs": [

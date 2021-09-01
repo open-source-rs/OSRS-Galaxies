@@ -3202,6 +3202,87 @@
       "value": "OSRS Actors AND Campaigns: MeteorExpress Campaign"
     },
 	{
+      "description": "TG1021 utilize a completely volatile and custom malware framework tailor-made for IIS servers. The core component, loaded on to internet facing IIS servers, intercepts and handles any HTTP request received by the server. TG1021 also use an additional stealthy backdoor and several post-exploitations modules to perform network reconnaissance, elevate privileges, and move laterally within networks. The nature of the activity and general modus-operandi suggest TG1021 to be an experienced stealthy actor, highly aware of OPSEC (operations security). The malware used by TG1021 shows a significant effort to avoid detection, both by actively interfering with logging mechanisms, successfully evading commercial EDRs and by silently awaiting incoming connections, rather than connecting back to a C2 channel and continuously generating traffic. Furthermore, the threat actor actively removed all disk-resident tools after using them, effectively giving up on persistency in exchange for stealth.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://f.hubspotusercontent30.net/hubfs/8776530/TG1021%20-%20Praying%20Mantis%20Threat%20Actor.pdf"
+        ],
+        "synonyms": [
+        "TG1021"
+        ]
+      },
+      "uuid": "fe7fc536-0b28-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Praying Mantis Threat Group"
+    },
+	{
+      "description": "The CNC (APT-C-48) organization is a new organization that appeared in 2019. Because the PDB of the remote control Trojan used by it contains the words cnc_client, the organization is named CNC, and the organization's main target of attack is my country Military industry and education industry. At the beginning of the outbreak of the epidemic in my country at the beginning of last year, CNC organized an attack on the medical industry by forging documents related to the epidemic and phishing websites.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/dMFyLxsErYUZX7BQyBL9YQ"
+        ]
+      },
+      "uuid": "fe7fc78e-0b28-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: APT-C-48"
+    },
+	{
+      "description": "In early 2019, Mandiant began identifying and responding to intrusions in the Middle East by Chinese espionage group UNC215. These intrusions exploited the Microsoft SharePoint vulnerability CVE-2019-0604 to install web shells and FOCUSFJORD payloads at targets in the Middle East and Central Asia. There are targeting and high level technique overlaps with between UNC215 and APT27, but we do not have sufficient evidence to say that the same actor is responsible for both sets of activity. APT27 has not been seen since 2015, and UNC215 is targeting many of the regions that APT27 previously focused on; however, we have not seen direct connection or shared tools, so we are only able to assess this link with low confidence. In addition to data from Mandiant Incident Response and FireEye telemetry, we worked with Israeli defense agencies to review data from additional compromises of Israeli entities. This analysis showed multiple, concurrent operations against Israeli government institutions, IT providers and telecommunications entities beginning in January 2019. During this time, UNC215 used new TTPs to hinder attribution and detection, maintain operational security, employ false flags, and leverage trusted relationships for lateral movement. We believe this adversary is still active in the region.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html"
+        ]
+      },
+      "uuid": "fe7fc874-0b28-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: UNC215"
+    },
+	{
+      "description": "In a previous blog entry, we reported on a campaign, which we labeled Operation Overtrap, that targeted Japan with a new banking trojan called Cinobi. The campaign, which was perpetrated by a  group we named Water Kappa, delivered Cinobi via spam. It also delivered the trojan using the Bottle exploit kit, which included newer Internet Explorer exploits CVE-2020-1380 and CVE-2021-26411 and was used for malvertising attacks that was distributed only to Microsoft Internet Explorer users. Throughout 2020 and the first half of 2021, we observed limited activity from the Bottle exploit kit, with traffic decreasing during the middle of June — possibly indicating that the group was turning to new tools and techniques.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/21/h/cinobi-banking-trojan-targets-users-of-cryptocurrency-exchanges-.html?&web_view=true"
+        ]
+      },
+      "uuid": "fe7fc93c-0b28-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Water Kappa Threat Group"
+    },
+	{
+      "description": "In November 2019, we discovered a Winnti Group campaign targeting several Hong Kong universities; it had started at the end of October 2019, and we published a blogpost about it. During that campaign the attackers mostly made use of the ShadowPad backdoor and the Winnti malware, but also the Spyder backdoor and a backdoor based on DarkShell (an open source RAT) that we named Doraemon. Subsequent to that campaign, in May 2020 (as documented in our Q2 2020 Threat Report) we observed a new campaign targeting one of the universities that was previously compromised by Winnti Group in October 2019, where the attackers used the CROSSWALK backdoor and a PlugX variant using Google Docs as a dead drop resolver. Even though that campaign exhibited links to Winnti Group, the modus operandi was quite different, and we started tracking it as a separate threat actor. Following this (second) Hong Kong university compromise, we observed multiple compromises against organizations around the world using similar toolsets and TTPs. Considering those particular TTPs and to avoid adding to the general confusion around the Winnti Group label, we decided to document this cluster of activity as a new group, which we have named SparklingGoblin, and that we believe is connected to Winnti Group while exhibiting some differences.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/"
+        ]
+      },
+      "uuid": "fe7fc9f0-0b28-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: SparklingGoblin APT"
+    },
+	{
+      "description": "Recently, the 360 ​​Advanced Threat Research Institute has monitored that CNC organized multiple targeted attacks on my country’s scientific research institutions, universities and aerospace-related fields before and after my country’s aerospace-related current affairs hotspots in mid-June. Therefore, we named this attack Operation Hunting.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/dMFyLxsErYUZX7BQyBL9YQ"
+        ]
+      },
+      "uuid": "44221164-0b2b-11ec-9a03-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Operation Hunting"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

@@ -2080,6 +2080,16 @@
 			"value": "Hope Medical LLC"
 		},
 		{
+			"description": "DuPage Medical Group is the largest independent, multi-specialty physician group in the state, providing physician-directed healthcare focused on quality, efficiency and access. Our team is comprised of more than 700 experienced physicians and 4,000 dynamic individuals who work collaboratively to transform healthcare for the thousands of patients we serve each day. We seek candidates who can help fulfill our mission to enhance the well-being of the patients we serve by providing the highest quality medical care available.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/dupage-medical-group/about/"
+				]
+			},
+			"uuid": "ff492928-0b30-11ec-9a03-0242ac130003",
+			"value": "DuPage Medical Group"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

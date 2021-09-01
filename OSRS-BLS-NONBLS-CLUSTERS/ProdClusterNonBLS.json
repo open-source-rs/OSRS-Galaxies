@@ -5040,6 +5040,56 @@
 			"value": "Lancaster Independent School District"
 		},
 		{
+			"description": "The Boston Public Library is a municipal public library system in Boston, Massachusetts, United States, founded in 1848.",
+			"meta": {
+				"refs": [
+					"https://www.bpl.org/"
+				]
+			},
+			"uuid": "a9e0cbea-0b2f-11ec-9a03-0242ac130003",
+			"value": "The Boston Public Library"
+		},
+		{
+			"description": "Cook County is the most populous county in the U.S. state of Illinois and the second-most-populous county in the United States after Los Angeles County, California. More than 40 percent of all residents of Illinois live in Cook County. As of 2020, the population was 5,275,541.",
+			"meta": {
+				"refs": [
+					"https://www.cookcountyil.gov/"
+				]
+			},
+			"uuid": "a9e0ce38-0b2f-11ec-9a03-0242ac130003",
+			"value": "Cook County"
+		},
+		{
+			"description": "Denton County is located in the U.S. state of Texas. As of the 2010 census, its population was 662,614, making it the 9th-most populous county in Texas. The county seat is Denton. The 2019 Census Bureau estimate for Denton County's population is 887,207.",
+			"meta": {
+				"refs": [
+					"https://www.dentoncounty.gov/"
+				]
+			},
+			"uuid": "a9e0cf1e-0b2f-11ec-9a03-0242ac130003",
+			"value": "Denton County"
+		},
+		{
+			"description": "Canadian law enforcement service located in Sault Ste. Marie, Canada.",
+			"meta": {
+				"refs": [
+					"https://saultpolice.ca/"
+				]
+			},
+			"uuid": "a9e0cfdc-0b2f-11ec-9a03-0242ac130003",
+			"value": "Sault Ste. Marie Police Service"
+		},
+		{
+			"description": "Rolle is a municipality in the Canton of Vaud in Switzerland. It was the seat of the district of Rolle until 2006, when it became part of the district of Nyon. It is located on the northwestern shore of Lake Geneva between Nyon and Lausanne.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rolle"
+				]
+			},
+			"uuid": "a9e0d0a4-0b2f-11ec-9a03-0242ac130003",
+			"value": "The Town of Rolle"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

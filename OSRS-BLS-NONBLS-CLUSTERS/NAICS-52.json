@@ -1020,6 +1020,36 @@
 			"value": "Caravus"
 		},
 		{
+			"description": "Envision Credit Union is a full-service financial institution that serves as a financial partner for residents and employees across multiple counties in North Florida and South Georgia.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/envision-credit-union/"
+				]
+			},
+			"uuid": "ff49231a-0b30-11ec-9a03-0242ac130003",
+			"value": "Envision Credit Union"
+		},
+		{
+			"description": "Consumer finance services provider Creamfinance was founded in 2012 in Latvia and has achieved consistent growth since. With over 35M in revenue and 100M capital raised, the company is currently operating in seven countries both within and outside of Europe. Utilizing advanced algorithms and machine-learning capabilities to quickly evaluate and score, Creamfinance offers a highly customized approach to the personal loan process in a speedy and reliable manner and aims to become a one-click loans provider to consumers globally.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/creamfinance/about/"
+				]
+			},
+			"uuid": "ff492554-0b30-11ec-9a03-0242ac130003",
+			"value": "Creamfinance"
+		},
+		{
+			"description": "Banque Cantonale Neuchateloise is a Swiss cantonal bank which is part of the 24 cantonal banks serving Switzerland's 26 cantons.",
+			"meta": {
+				"refs": [
+					"https://www.bcn.ch/"
+				]
+			},
+			"uuid": "ff4927d4-0b30-11ec-9a03-0242ac130003",
+			"value": "Banque Cantonale Neuchateloise"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

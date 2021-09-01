@@ -3711,6 +3711,32 @@
       "value": "OSRS OSINT Source: Cleafy Labs"
     },
 	{
+      "description": "Provider of incident response services for cyber systems.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.sygnia.co/"
+        ]
+      },
+      "uuid": "110c0f4c-0b2f-11ec-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: The Sygnia Incident Response Team"
+    },
+	{
+      "description": "Cybersecurity service provider.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://inquest.net/"
+        ]
+      },
+      "uuid": "110c103c-0b2f-11ec-9a03-0242ac130003",
+      "value": "OSRS OSINT Source: Inquest Cybersecurity"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

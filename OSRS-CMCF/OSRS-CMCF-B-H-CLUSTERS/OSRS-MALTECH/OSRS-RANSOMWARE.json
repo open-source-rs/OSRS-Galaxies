@@ -1459,6 +1459,32 @@
       "value": "OSRS Ransomware: AvosLocker Ransomware"
     },
 	{
+      "description": "The LockFile ransomware was first observed on the network of a U.S. financial organization on July 20, 2021, with its latest activity seen as recently as August 20. LockFile has been seen on organizations around the world, with most of its victims based in the U.S. and Asia. Indications are that the attackers gain access to victims' networks via Microsoft Exchange Servers, and then use the incompletely patched PetitPotam vulnerability to gain access to the domain controller, and then spread across the network. It is not clear how the attackers gain initial access to the Microsoft Exchange Servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockfile-ransomware-new-petitpotam-windows"
+        ]
+      },
+      "uuid": "44221574-0b2b-11ec-9a03-0242ac130003",
+      "value": "OSRS Ransomware: LockFile Ransomware"
+    },
+	{
+      "description": "Hive is a double-extortion ransomware group that first appeared in June 2021. The group is notable in its undiscerning choice of targets, having no limits when it comes to healthcare providers and hospitals, as evidenced in a recent attack on Memorial Health System hospitals in Ohio. Hive ransomware is written in Go to take advantage of the language’s concurrency features to encrypt files faster.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/hive-attacks-analysis-of-the-human-operated-ransomware-targeting-healthcare/"
+        ]
+      },
+      "uuid": "442217fe-0b2b-11ec-9a03-0242ac130003",
+      "value": "OSRS Ransomware: Hive Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

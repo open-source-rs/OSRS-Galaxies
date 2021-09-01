@@ -3734,6 +3734,26 @@
 			"value": "Sol Oriens LLC"
 		},
 		{
+			"description": "CareATC, Inc. provides software solutions. The Company offers customized population health management solutions for employers that reduce healthcare costs by promoting health, preventing disease, and providing a shorter path to care. CareATC operates in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.bloomberg.com/profile/company/1704948D:US"
+				]
+			},
+			"uuid": "dfc186c6-0b31-11ec-9a03-0242ac130003",
+			"value": "CareATC Inc"
+		},
+		{
+			"description": "Goodwin Procter LLP is an international law firm headquartered in Boston. It is one of the largest law firms in the world as measured by revenue and consists of more than 1,400 lawyers across offices.",
+			"meta": {
+				"refs": [
+					"https://www.goodwinlaw.com/"
+				]
+			},
+			"uuid": "dfc18900-0b31-11ec-9a03-0242ac130003",
+			"value": "Goodwin Procter LLP"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -108,6 +108,16 @@
       "value": "Albioma"
     },
 	{
+      "description": "EPCOR Utilities Inc., formerly known as Aqualta and Eltec, is a utility company based in Edmonton, Alberta. EPCOR manages water, wastewater, natural gas, and electricity distribution systems in the Canadian provinces of Alberta, British Columbia, and Ontario, and the American states of Arizona, New Mexico, and Texas.",
+      "meta": {
+        "refs": [
+          "https://www.epcor.com/"
+        ]
+      },
+      "uuid": "dfc18a4a-0b31-11ec-9a03-0242ac130003",
+      "value": "EPCOR Utilities Inc."
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [

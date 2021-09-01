@@ -7441,6 +7441,110 @@
       "value": "OSRS Tool: EnrollLoger Keylogger"
     },
 	{
+      "description": "The first FOCUSFJORD payload delivered to a system contains a blob that includes C2 and other configuration data. On initial execution, FOCUSFJORD writes its encrypted C2 configuration into the system’s registry, sets up a persistence mechanism and then rewrites itself on disk without the embedded configuration and with limited functionality to only read configuration data. This process enables the operators to obfuscate the configured C2 servers from automated sandbox runs or disclosure in public file scanning services.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html"
+        ]
+      },
+      "uuid": "a84ac888-0b2c-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: FOCUSFJORD"
+    },
+	{
+      "description": "After gaining initial access, the operators conduct credential harvesting and extensive internal network reconnaissance. This includes running native Windows commands on compromised servers, executing ADFind on the Active Directory, and scanning the internal network with numerous publicly available tools and a non-public scanner we named WHEATSCAN.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html"
+        ]
+      },
+      "uuid": "a84acb9e-0b2c-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: WHEATSCAN"
+    },
+	{
+      "description": "Vultur, a new Android banking Trojan discovered by ThreatFabric in March 2021, operates in a very similar way. Just like these big birds, this trojan observes everything that is happening on the devices using a screen recording feature based on VNC to obtain all the PII (Personal Identifiable Information) needed to perform fraud, such as banking account username, password and access tokens.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/vultur-v-for-vnc.html"
+        ]
+      },
+      "uuid": "a84acc98-0b2c-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: Vultur RAT"
+    },
+	{
+      "description": "Brunhilda is a privately operated dropper that has been previously observed dropping Alien.A. The sample analyzed in this section was found on the Google Play Store, but it has been removed at the time of writing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/vultur-v-for-vnc.html"
+        ]
+      },
+      "uuid": "a84acdb0-0b2c-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: Brunhilda Dropper"
+    },
+	{
+      "description": "The mobile application poses a threat to the victim’s social identity by hijacking their Facebook accounts via a Trojan infecting their Android device.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.zimperium.com/flytrap-android-malware-compromises-thousands-of-facebook-accounts/"
+        ]
+      },
+      "uuid": "a84ace78-0b2c-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: FlyTrap Android Malware"
+    },
+	{
+      "description": "AdLoad is one of several widespread adware and bundleware loaders currently afflicting macOS. In late 2019, SentinelLabs described how AdLoad was continuing to adapt and evade detection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://labs.sentinelone.com/massive-new-adload-campaign-goes-entirely-undetected-by-apples-xprotect/"
+        ]
+      },
+      "uuid": "86415a80-0b2d-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: AdLoad Loader"
+    },
+	{
+      "description": "ReverseRat 2.0 differs from its predecessor in three main ways. First, the AllaKore agent that was installed in parallel is now replaced by a new agent that runs before ReverseRat 2.0. The second is that ReverseRat 2.0 leverages new functionality and modified command calls from the original version, including commands relating to creating, listing and deleting registry keys. Finally, ReverseRat 2.0 adds new capabilities to take photos via webcams from infected machines and to steal files from USB connections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lumen.com/reverserat-reemerges-with-a-nightfury-new-campaign-and-new-developments-same-familiar-side-actor/"
+        ]
+      },
+      "uuid": "86415cc4-0b2d-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: ReverseRat"
+    },
+	{
+      "description": "Currently, one of the most active COVID-19 related threats is RustyBuer, a new Rust-based Buer Loader strain first identified by Proofpoint researchers in April 2021. Buer is a downloader  that is used as a foothold in compromised networks & an Initial Access Broker to distribute other secondary payloads including ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/delta-variant-spreads-covid-19-themes-make-resurgence-email-threats"
+        ]
+      },
+      "uuid": "86415e18-0b2d-11ec-9a03-0242ac130003",
+      "value": "OSRS Tool: RustyBuer Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
