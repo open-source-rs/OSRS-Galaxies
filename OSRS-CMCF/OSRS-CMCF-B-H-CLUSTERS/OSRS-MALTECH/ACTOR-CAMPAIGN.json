@@ -3283,6 +3283,58 @@
       "value": "OSRS Actors AND Campaigns: Operation Hunting"
     },
 	{
+      "description": "EGoManiac is responsible for the previously reported Octopus Brain campaign, where the operators interdicted the machines of OdaTV journalists to place malware and incriminating documents, effectively framing them before arrest.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/egomaniac-an-unscrupulous-turkish-nexus-threat-actor/"
+        ]
+      },
+      "uuid": "2db2c2f2-1c6f-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: EGoManiac Threat Group"
+    },
+	{
+      "description": "ESET researchers have investigated a targeted mobile espionage campaign against the Kurdish ethnic group. This campaign has been active since at least March 2020, distributing (via dedicated Facebook profiles) two Android backdoors known as 888 RAT and SpyNote, disguised as legitimate apps. These profiles appeared to be providing Android news in Kurdish, and news for the Kurds’ supporters. Some of the profiles deliberately spread additional spying apps to Facebook public groups with pro-Kurd content. Data from a download site indicates at least 1,481 downloads from URLs promoted in just a few Facebook posts. The espionage activity reported here is directly connected to two publicly disclosed cases published in 2020. QiAnXin Threat Intelligence Center named the group behind these attacks BladeHawk, which we have adopted. Both campaigns were distributed via Facebook, using malware that was built with commercial, automated tools (888 RAT and SpyNote), with all samples of the malware using the same C&C servers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/"
+        ]
+      },
+      "uuid": "2db2c568-1c6f-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: BladeHawk Group"
+    },
+	{
+      "description": "Trend Micro has previously covered the various methodologies employed by this APT group, which also operates under the alias APT41. Its exploits have been well documented, the group has garnered a reputation for its use of advanced, self-developed tools. In fact, Earth Baku has been associated with a slew of cybercrimes such as watering hole attacks and spear phishing attacks. Its previous targets include companies in the pharmaceutical and telecommunications industries. Earth Baku has yet again updated its arsenal, as evidenced by the latest additions of two shellcode loaders, which we have named StealthVector and StealthMutant, and a modular Windows backdoor, which we have dubbed ScrambleCross. Our in-depth analysis of these newfound malware tools revealed that they have easily customizable features and are distributed through different attack vectors, making it convenient for malicious actors to tailor them to specific victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://documents.trendmicro.com/assets/white_papers/wp-earth-baku-an-apt-group-targeting-indo-pacific-countries.pdf"
+        ]
+      },
+      "uuid": "2db2c6b2-1c6f-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Earth Baku Threat Group"
+    },
+	{
+      "description": "What we refer to as EGoManiac is a cluster of two notable campaigns starting as early as 2010. The first campaign came to be known in research circles as Octopus Brain, based on the Turkish strings Ahtapot and Bejin left in the malware. This original campaign used a combination of publicly available RATs (including Turkojan and Bandook) as well as the closed-source Ahtapot, with delivery methods ranging from malicious documents to personal visits by the attackers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/egomaniac-an-unscrupulous-turkish-nexus-threat-actor/"
+        ]
+      },
+      "uuid": "2db2c856-1c6f-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Octopus Brain Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

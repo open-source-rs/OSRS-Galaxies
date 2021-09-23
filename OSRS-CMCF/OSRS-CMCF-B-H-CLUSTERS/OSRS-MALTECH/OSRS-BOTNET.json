@@ -921,6 +921,19 @@
       "value": "OSRS Botnet: UBEL Botnet"
     },
 	{
+      "description": "In early September 2021 QRATOR labs published an article about a new wave of DDoS attacks, which are originating from a botnet involving MikroTik devices. As far as we have seen, these attacks use the same routers that were compromised in 2018, when MikroTik RouterOS had a vulnerability, that was quickly patched. There is no new vulnerability in RouterOS and there is no malware hiding inside the RouterOS filesystem even on the affected devices. The attacker is reconfiguring RouterOS devices for remote access, using commands and features of RouterOS itself.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.mikrotik.com/security/meris-botnet.html"
+        ]
+      },
+      "uuid": "4e42cc32-1c70-11ec-9621-0242ac130002",
+      "value": "OSRS Botnet: Meris Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

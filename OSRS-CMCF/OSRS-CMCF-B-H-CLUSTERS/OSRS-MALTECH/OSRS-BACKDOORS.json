@@ -1452,6 +1452,19 @@
       "value": "OSRS Backdoor: Sardonic Backdoor"
     },
 	{
+      "description": "The DirtyMoe malware uses a driver signed with a revoked certificate that can be seamlessly loaded into the Windows kernel. Therefore, one of the goals is to analyze how Windows works with a code signature of Windows drivers. Similarly, we will be also interested in the code signature verification of user-mode applications since the user account control (UAC) does not block the application execution even if this one is also signed with a revoked certificate. The second goal is a statistical analysis of certificates that sign the DirtyMoe driver because the certificates are also used to sign other malicious software. We focus on the determination of the certificate’s origin, prevalence, and a quick analysis of the top 10 software signed with these certificates.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://decoded.avast.io/martinchlumecky/dirtymoe-3/"
+        ]
+      },
+      "uuid": "4e42c9f8-1c70-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: DirtyMoe Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

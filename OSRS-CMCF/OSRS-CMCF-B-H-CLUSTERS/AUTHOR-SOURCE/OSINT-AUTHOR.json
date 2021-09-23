@@ -9420,6 +9420,45 @@
       "value": "OSRS OSINT Author Index: Dmitry Melikov"
     },
 	{
+      "description": "Principal Researcher at FireEye, Inc. Greater Paris Metropolitan Region.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/adrien-bataille-b9009417/?originalSubdomain=fr"
+        ]
+      },
+      "uuid": "b47edbcc-1c74-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Author Index: Adrien Bataille"
+    },
+	{
+      "description": "Senior Reverse Engineer, FLARE Team at Mandiant. Raleigh-Durham-Chapel Hill Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/blaine-stancill/"
+        ]
+      },
+      "uuid": "b47eddd4-1c74-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Author Index: Blaine Stancill"
+    },
+	{
+      "description": "ThreatOps Analyst III at Huntress. Greater Melbourne Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/matthew-brennan-69b96bb9/?originalSubdomain=au"
+        ]
+      },
+      "uuid": "b47edec4-1c74-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Author Index: Matthew Brennan"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

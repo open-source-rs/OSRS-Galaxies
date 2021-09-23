@@ -1485,6 +1485,19 @@
       "value": "OSRS Ransomware: Hive Ransomware"
     },
 	{
+      "description": "After the demise of the DarkSide ransomware affiliate program, a vacuum was left in the market. This space was promptly filled by new groups such as Lockbit and BlackMatter. BlackMatter, the up-and-coming star of the ransomware scene, is thought to be DarkSide’s direct heir, from which it got some of its code. While no high-profile breach of BlackMatter have been published yet, BleepingComputer claims the group already netted a 4 million ransom payment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/blackmatter"
+        ]
+      },
+      "uuid": "4e42cd22-1c70-11ec-9621-0242ac130002",
+      "value": "OSRS Ransomware: BlackMatter Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

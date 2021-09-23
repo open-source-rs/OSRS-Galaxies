@@ -7545,6 +7545,72 @@
       "value": "OSRS Tool: RustyBuer Loader"
     },
 	{
+      "description": "In addition to containing obfuscated strings, the installer’s code is protected using various control flow obfuscation techniques that make static analysis cumbersome. STASHLOG has two different modes of operation - Without any arguments, during which it will prepare the environment and with a single argument, which is a file that should be hidden in a CLFS file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html"
+        ]
+      },
+      "uuid": "1d7eafd4-1c71-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: STASHLOG Installer"
+    },
+	{
+      "description": "The malicious code is executed at the DLL entry point. It starts by verifying the command-line arguments of the process it is running in and expects to be running under svchost.exe -k print. If this matches, the malware resolves the function address for the ServiceMain export function of PrintConfig.dll, which is the service entry point of the service using this command line. This function is patched using Microsoft Detours—a publicly available library used for instrumenting Win32 functions—so that the execution flow appears to happen in the legitimate service DLL.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html"
+        ]
+      },
+      "uuid": "1d7eb1fa-1c71-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: PRIVATELOG Loader"
+    },
+	{
+      "description": "Rad is a modular espionage malware toolkit built around the POCO C++ cross-platform development libraries. The design entails a form of organized development but not a particularly savvy or sophisticated one at that. POCO is doing most of the heavy lifting. Functionality is split into modules contained within a RadApplicationInstaller and orchestrated by a RadStarter module that takes its cues from an encrypted configuration XML file. All of the Rad samples weve found rely on email exfiltration with a hardcoded address belonging to either Gmail, Yandex, or Woxmail.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://assets.sentinelone.com/sentinellabs/EGoManiac?lb-mode=overlay",
+		  "https://www.sentinelone.com/labs/egomaniac-an-unscrupulous-turkish-nexus-threat-actor/"		  
+        ]
+      },
+      "uuid": "1d7eb2ea-1c71-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: Rad Toolkit"
+    },
+	{
+      "description": "Sova is the Russian word for owl. This name was chosen by the threat actor himself/herself possibly because of owl’s nature as nocturnal birds of prey, quiet but efficient in stalking and capturing their victims. This identifies a completely new, to the best of our knowledge, Android banking trojan. The trojan is currently in development and testing phase, and has the objective to add to his overlay and keylogging mechanisms, other higly dangerous features like DDoS and Ransomware in future versions. There are a few interesting aspects that differentiate this trojan to already existing ones, both in features as well as in development.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/sova-new-trojan-with-fowl-intentions.html"
+        ]
+      },
+      "uuid": "1d7eb3a8-1c71-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: S.O.V.A. Banking Trojan"
+    },
+	{
+      "description": "BluStealer is is a crypto stealer, keylogger, and document uploader written in Visual Basic that loads C#.NET hack tools to steal credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/anhho/blustealer/"
+        ]
+      },
+      "uuid": "1d7eb466-1c71-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: BluStealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

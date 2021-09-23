@@ -3737,6 +3737,19 @@
       "value": "OSRS OSINT Source: Inquest Cybersecurity"
     },
 	{
+      "description": "Managed cybersecurity service provider.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.huntress.com/"
+        ]
+      },
+      "uuid": "b47ee14e-1c74-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Source: Huntress Cybersecurity Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
