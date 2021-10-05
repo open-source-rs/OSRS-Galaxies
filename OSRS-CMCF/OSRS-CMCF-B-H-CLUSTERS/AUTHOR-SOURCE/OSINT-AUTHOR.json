@@ -9459,6 +9459,32 @@
       "value": "OSRS OSINT Author Index: Matthew Brennan"
     },
 	{
+      "description": "Generic pen name used by the cybersecurity organization PRODAFT.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.prodaft.com/"
+        ]
+      },
+      "uuid": "a7ec3e5c-2612-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Author Index: PRODAFT Researchers"
+    },
+	{
+      "description": "Generic pen name used by the cybersecurity organization Lab52.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://lab52.io/blog/"
+        ]
+      },
+      "uuid": "a7ec406e-2612-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Author Index: Lab52 Research Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

@@ -1465,6 +1465,71 @@
       "value": "OSRS Backdoor: DirtyMoe Backdoor"
     },
 	{
+      "description": "Cisco Talos recently discovered a new backdoor used by the Russian Turla APT group. We have seen infections in the U.S., Germany and, more recently, in Afghanistan. It is likely used as a stealth second-chance backdoor to keep access to infected devices It can be used to download, upload and (or) execute files. The backdoor code is quite simple but is efficient enough that it will usually fly under the radar.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/09/tinyturla.html"
+        ]
+      },
+      "uuid": "bcf12e1a-2609-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: Tiny Turla Backdoor"
+    },
+	{
+      "description": "FoggyWeb is a passive and highly targeted backdoor capable of remotely exfiltrating sensitive information from a compromised AD FS server. It can also receive additional malicious components from a command-and-control (C2) server and execute them on the compromised server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/"
+        ]
+      },
+      "uuid": "bcf13054-2609-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: FoggyWeb Backdoor"
+    },
+	{
+      "description": "Backdoor sometimes used in conjunction with njRAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/27360/"
+        ]
+      },
+      "uuid": "bcf1313a-2609-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: Korat Backdoor"
+    },
+	{
+      "description": "A native IIS module that is registered as a filter through which HTTP requests and responses are processed. The file has two entry points - the main one, which does not have any set of functions, and the second one—RegisterModule, which is required for registering the native module—it initializes an instance of the DoorMe class. The name alludes to backdoor functionality.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/#id3-3"
+        ]
+      },
+      "uuid": "bcf131f8-2609-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: DoorMe Backdoor"
+    },
+	{
+      "description": "Tomiris is a backdoor written in Go whose role is to continuously query its C2 server for executables to download and execute on the victim system. Before performing any operations, it sleeps for at least nine minutes in a possible attempt to defeat sandbox-based analysis systems. It establishes persistence with scheduled tasks by creating and running a batch file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://securelist.com/darkhalo-after-solarwinds-the-tomiris-connection/104311/"
+        ]
+      },
+      "uuid": "bcf132b6-2609-11ec-9621-0242ac130002",
+      "value": "OSRS Backdoor: Tomiris Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

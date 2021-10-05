@@ -7611,6 +7611,162 @@
       "value": "OSRS Tool: BluStealer"
     },
 	{
+      "description": "A publicly shared rootkit, identifying its core capabilities and level of threat it represents to Linux hosts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.lacework.com/blog/hcrootkit-sutersu-linux-rootkit-analysis/"
+        ]
+      },
+      "uuid": "8ac20d4a-2610-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: HCRootkit"
+    },
+	{
+      "description": "SparrowDoor is initially loaded via DLL search order hijacking. It can be assumed that the command line argument used with the initial SparrowDoor execution, in order to set up persistence, is either nothing or anything but -i, -k or -d. Once persistence is set up, SparrowDoor is executed with the -i command line argument.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/"
+        ]
+      },
+      "uuid": "8ac20f66-2610-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: SparrowDoor Loader"
+    },
+	{
+      "description": "A RAT with similar functionality as njRAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/27360/"
+        ]
+      },
+      "uuid": "8ac2104c-2610-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: UDP RAT"
+    },
+	{
+      "description": "TangleBot is leveraging COVID-19 and electricity-themed lures in its effort to convince users to click on the malicious link and install the malware. The SMS links are only malicious via Android mobile devices and are currently only being sent to US and Canadian users. TangleBot, while sharing some similarities with the Medusa malware, has some key distinguishing features that make it particularly threatening, such as its advanced behaviors and transmission abilities and its use of a string decryption routine as part of its obfuscation.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/mobile-malware-tanglebot-untangled"
+        ]
+      },
+      "uuid": "8ac2111e-2610-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: TangleBot"
+    },
+	{
+      "description": "The application is designed to check whether there is a connection to a remote URL. The URL address is passed to the program as a parameter, after which the program divides it into components by calling InternetCrackUrlA. If this cannot be done, the program ends.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/#id3-3"
+        ]
+      },
+      "uuid": "8ac211dc-2610-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: ProxyT"
+    },
+	{
+      "description": "The campaign has targeted millions of users from over 70 countries by serving selective malicious pages to users based on the geo-location of their IP address with the local language. This social engineering trick is exceptionally successful, considering users might feel more comfortable sharing information to a website in their local language. Upon infection, the victim is bombarded with alerts on the screen letting them know they had won a prize and needed to claim it immediately. These pop ups reappear no less than five times per hour until the application user successfully accepts the offer. Upon accepting the invitation for the prize, the malware redirects the victim to a geo-specific webpage where they are asked to submit their phone numbers for verification. But in reality, they are submitting their phone number to a premium SMS service that would start charging their phone bill per month. The victim does not immediately notice the impact of the theft, and the likelihood of it continuing for months before detection is high, with little to no recourse to get one’s money back.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.zimperium.com/grifthorse-android-trojan-steals-millions-from-over-10-million-victims-globally/"
+        ]
+      },
+      "uuid": "600d659e-2611-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: GriftHorse Android Trojan"
+    },
+	{
+      "description": "Gh0stTimes is a malware created by customizing Gh0st RAT, and it has been confirmed that it has been used in multiple attacks since around 2020.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.jpcert.or.jp/ja/2021/09/gh0sttimes.html"
+        ]
+      },
+      "uuid": "600d6864-2611-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: Gh0stTimes"
+    },
+	{
+      "description": "PixStealer is a very minimalistic malware that doesn’t perform any classic banker actions like stealing credentials from targeted bank applications and communicating with a C&C. Its big brother MalRhino, by contrast, contains a variety of advanced features and introduces the use of open-source Rhino JavaScript Engine to process Accessibility events.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/"
+        ]
+      },
+      "uuid": "600d695e-2611-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: PixStealer Android Banking Trojan"
+    },
+	{
+      "description": "A standalone banker stealer that does not require a C&C connection is lightweight and almost undetectable, but lacks the ability to dynamically make adjustments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/"
+        ]
+      },
+      "uuid": "600d6d46-2611-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: MalRhino"
+    },
+	{
+      "description": "Jennlog is a .NET loader that deobfuscates, decompresses and decrypts a .NET executable from a resource embedded within the file. The resources within the loader appear to look like log files, and it contains both the binary to run as well as a configuration for the malware’s execution.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/new-version-of-apostle-ransomware-reemerges-in-targeted-attack-on-higher-education/"
+        ]
+      },
+      "uuid": "031b24a6-2612-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: Jennlog Deobfuscation Tool"
+    },
+	{
+      "description": "RAT used in conjuction with the Apostle Ransomware family.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/new-version-of-apostle-ransomware-reemerges-in-targeted-attack-on-higher-education/"
+        ]
+      },
+      "uuid": "031b26cc-2612-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: OrcusRAT"
+    },
+	{
+      "description": "Variant of OrcusRAT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/new-version-of-apostle-ransomware-reemerges-in-targeted-attack-on-higher-education/"
+        ]
+      },
+      "uuid": "031b27c6-2612-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: OrcusRAT Jennlog Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -3750,6 +3750,32 @@
       "value": "OSRS OSINT Source: Huntress Cybersecurity Blog"
     },
 	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.prodaft.com/"
+        ]
+      },
+      "uuid": "a7ec424e-2612-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Source: PRODAFT"
+    },
+	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://lab52.io/blog/"
+        ]
+      },
+      "uuid": "a7ec4316-2612-11ec-9621-0242ac130002",
+      "value": "OSRS OSINT Source: Lab52"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

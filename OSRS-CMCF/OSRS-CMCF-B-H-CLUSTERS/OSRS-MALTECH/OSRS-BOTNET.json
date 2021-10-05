@@ -934,6 +934,19 @@
       "value": "OSRS Botnet: Meris Botnet"
     },
 	{
+      "description": "Mirai_ptea_Rimasuta now has builtin mechanism to check if the running environment is a sandbox, it also encrypts the network traffic to counter the network level detection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/rimasuta-spread-with-ruijie-0day-en/"
+        ]
+      },
+      "uuid": "f771d53e-260f-11ec-9621-0242ac130002",
+      "value": "OSRS Botnet: Mirai_ptea_Rimasuta"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

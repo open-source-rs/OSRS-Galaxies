@@ -3335,6 +3335,58 @@
       "value": "OSRS Actors AND Campaigns: Octopus Brain Campaign"
     },
 	{
+      "description": "ESET researchers have uncovered a new cyberespionage group targeting hotels, governments, and private companies worldwide. We have named this group FamousSparrow and we believe it has been active since at least 2019.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/"
+        ]
+      },
+      "uuid": "7cba8490-2604-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: FamousSparrow Threat Group"
+    },
+	{
+      "description": "In Q2 2021, the PT Expert Security Center incident response team conducted an investigation in an energy company. The investigation revealed that the company's network had been compromised by an unknown group for the purpose of data theft. We gave the group the name ChamelGang (from the word chameleon), because the group disguised its malware and network infrastructure under legitimate services of Microsoft, TrendMicro, McAfee, IBM, and Google. The attackers employed two methods. They acquired domains that imitate legitimate ones (newtrendmicro.com, centralgoogle.com, microsoft-support.net, cdn-chrome.com, mcafee-upgrade.com). In addition, the APT group placed SSL certificates that also imitated legitimate ones (github.com, www.ibm.com, jquery.com, update.microsoft-support.net) on its servers. To achieve their goal, the attackers used a trending penetration method—supply chain. The group compromised a subsidiary and penetrated the target company's network through it.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/#id3-3"
+        ]
+      },
+      "uuid": "7cba86ac-2604-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: ChamelGang Threat Group"
+    },
+	{
+      "description": "Cisco Talos is tracking a campaign targeting government personnel in India using themes and tactics similar to APT36 (aka Mythic Leopard and Transparent Tribe). This campaign distributes malicious documents and archives to deliver the Netwire and Warzone (AveMaria) RATs. The lures used in this campaign are predominantly themed around operational documents and guides such as those pertaining to the Kavach (hindi for armor) two-factor authentication (2FA) application operated by India's National Informatics Centre (NIC). This campaign utilizes compromised websites and fake domains to host malicious payloads, another tactic similar to Transparent Tribe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/09/operation-armor-piercer.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "7cba8814-2604-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Operation Armor Piercer"
+    },
+	{
+      "description": "In July, 2021, Lab52 found a currently active infection campaign (domain still up at the time of this writing) attributed to a group referred as Wintervivern after a report published by the research team from DomainTools. As the starting point for this research, we recently noticed that unless properly obfuscated, some functions in XLM macro could show their arguments in the strings of the excel file containing the macros.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://lab52.io/blog/winter-vivern-all-summer/"
+        ]
+      },
+      "uuid": "7cba88dc-2604-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Wintervivern Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
