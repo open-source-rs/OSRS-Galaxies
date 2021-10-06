@@ -3387,6 +3387,19 @@
       "value": "OSRS Actors AND Campaigns: Wintervivern Campaign"
     },
 	{
+      "description": "While investigating a recent rise of attacks against Exchange servers, we noticed a recurring cluster of activity that appeared in several distinct compromised networks. This cluster stood out for its usage of a formerly unknown Windows kernel mode rootkit that we dubbed Demodex, and a sophisticated multi-stage malware framework aimed at providing remote control over the attacked servers. The former is used to hide the user mode malware’s artefacts from investigators and security solutions, while demonstrating an interesting undocumented loading scheme involving the kernel mode component of an open-source project named Cheat Engine to bypass the Windows Driver Signature Enforcement mechanism. In an attempt to trace the duration of the observed attacks, we were able to see the toolset in question being used from as early as July 2020. Furthermore, we could see that the actor was mostly focused on South East Asian targets, with outliers in Egypt, Afghanistan and Ethiopia which included several governmental entities and telecommunication companies. With a long-standing operation, high profile victims, advanced toolset and no affinity to a known threat actor, we decided to dub the underlying cluster GhostEmperor. Our investigation into this activity leads us to believe that the underlying actor is highly skilled and accomplished in their craft, both of which are evident through the use of a broad set of unusual and sophisticated anti-forensic and anti-analysis techniques.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/"
+        ]
+      },
+      "uuid": "2e37d650-26a0-11ec-9621-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: GhostEmperor Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

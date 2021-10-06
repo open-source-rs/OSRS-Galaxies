@@ -7767,6 +7767,19 @@
       "value": "OSRS Tool: OrcusRAT Jennlog Loader"
     },
 	{
+      "description": "The approach used by the developer of this rootkit allows loading an unsigned driver without modifying the Code Integrity image and dealing with a potential crash. It abuses features of a legitimate and open-source signed driver named dbk64.sys which is shipped along with Cheat Engine, an application created to bypass video game protections and introduce cheats into them. This driver provides capability to write and execute code in kernel space by design, thus allowing it to run arbitrary code in kernel mode.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/"
+        ]
+      },
+      "uuid": "2e37d902-26a0-11ec-9621-0242ac130002",
+      "value": "OSRS Tool: Demodex Rootkit"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
