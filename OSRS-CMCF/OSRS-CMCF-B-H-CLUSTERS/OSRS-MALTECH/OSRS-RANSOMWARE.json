@@ -1498,6 +1498,58 @@
       "value": "OSRS Ransomware: BlackMatter Ransomware"
     },
 	{
+      "description": "XingLocker made its first appearance in early May of this year (circa 2021). The new group was featured in the AstroLocker ransomware blog, and it has been very active since then. In this intrusion, we observed the threat actors use multiple DLL Beacons that would call out to different Cobalt Strike C2 channels. It appears that operators used different payloads, to accomplish different tasks, on each phase of the intrusion. The threat actors used batch scripts during the intrusion for a number of purposes, primarily to disable antivirus programs and execute payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://thedfirreport.com/2021/10/18/icedid-to-xinglocker-ransomware-in-24-hours/"
+        ]
+      },
+      "uuid": "58443da2-31af-11ec-8d3d-0242ac130003",
+      "value": "OSRS Ransomware: XingLocker Ransomware"
+    },
+	{
+      "description": "This ransomware appeared in mid-2019. Some versions of it are also known as Limbo, Legion, Odveta and Ouroboros. Limbozar is distributed through an affiliate program (RaaS). Currently, the main vector of distribution is unauthorized RDP access. Limbozar is written in C++, compiled in MS Visual Studio and uses the CryptoPP library to implement cryptographic functions. The cryptographic scheme has changed several times throughout the family’s history. When launched, modern versions of Limbozar generate an RSA-2048 session key pair, followed by a 256-bit key and a 96-bit initialization vector for the AES algorithm in GCM mode. The private RSA session key is encrypted with the AES algorithm and saved locally. Next, the key+IV pair for AES is encrypted with one of the several public RSA master keys contained in the Trojan’s body, and is also saved to the local drive. After this preparatory phase, Limbozar searches for the victim’s files and encrypts them with the AES-GCM algorithm, generating for each file a unique key+IV pair, which, in turn, it encrypts with the RSA session public key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://securelist.com/cis-ransomware/104452/"
+        ]
+      },
+      "uuid": "58443eba-31af-11ec-8d3d-0242ac130003",
+      "value": "OSRS Ransomware: Limbozar Ransomware"
+    },
+	{
+      "description": "The Threat Hunter Team first spotted suspicious use of AdFind, a legitimate command-line Active Directory query tool, on the victim organization’s network. This tool is often abused by ransomware attackers as a reconnaissance tool, as well as to equip the attackers with the resources that they need for lateral movement via Active Directory. Just days after the suspicious AdFind activity was observed on the victim organization, the attackers attempted to deploy the Yanluowang ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-targeted-ransomware"
+        ]
+      },
+      "uuid": "58443fa0-31af-11ec-8d3d-0242ac130003",
+      "value": "OSRS Ransomware: Yanluowang Ransomware"
+    },
+	{
+      "description": "Unlike other ransomware that may have a unique key in each session, BlackByte uses the same raw key (which it downloads) to encrypt files and it uses a symmetric-key algorithm – AES.  To decrypt a file, one only needs the raw key to be downloaded from the host. As long as the .PNG file it downloaded remains the same, we can use the same key to decrypt the encrypted files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/"
+        ]
+      },
+      "uuid": "5844407c-31af-11ec-8d3d-0242ac130003",
+      "value": "OSRS Ransomware: BlackByte Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

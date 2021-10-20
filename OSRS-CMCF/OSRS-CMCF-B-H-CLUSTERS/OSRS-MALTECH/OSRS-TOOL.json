@@ -7780,6 +7780,163 @@
       "value": "OSRS Tool: Demodex Rootkit"
     },
 	{
+      "description": "ESET researchers have discovered a previously unknown malware family that utilizes custom and well-designed modules, targeting systems running Linux. Modules used by this malware family, which we dubbed FontOnLake, are constantly under development and provide remote access to the operators, collect credentials, and serve as a proxy server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/",
+		  "https://www.welivesecurity.com/wp-content/uploads/2021/10/eset_fontonlake.pdf"
+        ]
+      },
+      "uuid": "04b3ea2a-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: FontOnLake RAT"
+    },
+	{
+      "description": "The Cybereason Nocturnus team discovered a sophisticated and previously undocumented RAT (Remote Access Trojan) dubbed ShellClient used for highly targeted cyber espionage operations. The most recent ShellClient versions were observed to be abusing cloud-based storage services for Command and Control (C2), in this case the popular Dropbox service, in order to remain undetected by blending in with legitimate network traffic. The authors of ShellClient invested a lot of effort into making it stealthy to evade detection by antivirus and other security tools by leveraging multiple obfuscation techniques and recently implementing a Dropbox client for command and control (C2), making it very hard to detect.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cybereason.com/blog/operation-ghostshell-novel-rat-targets-global-aerospace-and-telecoms-firms"
+        ]
+      },
+      "uuid": "04b3ec96-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: ShellClient RAT"
+    },
+	{
+      "description": "ESET researchers have analyzed a previously undocumented, real-world UEFI bootkit that persists on the EFI System Partition (ESP). The bootkit, which we’ve named ESPecter, can bypass Windows Driver Signature Enforcement to load its own unsigned driver, which facilitates its espionage activities. Alongside Kaspersky’s recent discovery of the unrelated FinSpy bootkit, it is now safe to say that real-world UEFI threats are no longer limited to SPI flash implants, as used by Lojax.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "04b3ed86-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: ESPecter Bootkit"
+    },
+	{
+      "description": "MirrorBlast malware is a trojan that is known for attacking users’ browsers. It usually pretends to be a legitimate browser add-on however it has now evolved additional capabilities, whereby other malwares are installed simultaneously.  Recently, this trojan is thought to have tentative links to TA505 and PYSA groups.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/new-mirrorblast-malware-phishing-campaign-using-rebol-view-software"
+        ]
+      },
+      "uuid": "04b3ee62-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: MirrorBlast Loader"
+    },
+	{
+      "description": "TA505 now uses multiple intermediate loaders before the delivery of the FlawedGrace RAT. The new loader stages are coded in uncommon scripting languages—Rebol and KiXtart. They appear to serve the same purpose as Get2—a downloader that has been in use by TA505 since 2019 to deliver a variety of secondary payloads. The loaders perform minimal reconnaissance of an infected machine, such as collecting user domain and username information, and download further payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/whatta-ta-ta505-ramps-activity-delivers-new-flawedgrace-variant"
+        ]
+      },
+      "uuid": "04b3ef20-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: KiXtart Loader"
+    },
+	{
+      "description": "Pan Xiaopan discovered the first in-the-wild sample of OSX/ZuRu while searching for the Mac app iTerm2 on the Chinese search engine Baidu. If a user is tricked into running the Trojan horse, OSX/ZuRu downloads and runs a Python script that collects various information from an infected Mac. The malware then attempts to exfiltrate a zip archive of this data to the server from which the Python script was downloaded.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intego.com/mac-security-blog/osx-zuru-mac-malware-spread-through-trojan-apps/"
+        ]
+      },
+      "uuid": "04b3efe8-31b4-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: ZuRu Stealer"
+    },
+	{
+      "description": "Dropper used by threat actor FIN12.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets"
+        ]
+      },
+      "uuid": "3cc0cc7e-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: MALTSHAKE Dropper"
+    },
+	{
+      "description": "Dropper used by threat actor FIN12.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets"
+        ]
+      },
+      "uuid": "3cc0ceb8-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: ICECANDLE Dropper"
+    },
+	{
+      "description": "Dropper used by threat actor FIN12.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets"
+        ]
+      },
+      "uuid": "3cc0cfa8-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: WHITEDAGGER Dropper"
+    },
+	{
+      "description": "Dropper used by threat actor FIN12.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets"
+        ]
+      },
+      "uuid": "3cc0d070-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: WEIRDLOOP Dropper"
+    },
+	{
+      "description": "Dropper used by threat actor FIN12.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets"
+        ]
+      },
+      "uuid": "3cc0d12e-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: GRIMAGENT Dropper"
+    },
+	{
+      "description": "In late August and early September 2021, Kaspersky technologies detected attacks with the use of an elevation of privilege exploit on multiple Microsoft Windows servers. The exploit had numerous debug strings from an older, publicly known exploit for vulnerability CVE-2016-3309, but closer analysis revealed that it was a zero-day. We discovered that it was using a previously unknown vulnerability in the Win32k driver and exploitation relies heavily on a technique to leak the base addresses of kernel modules. We promptly reported these findings to Microsoft. The information disclosure portion of the exploit chain was identified as not bypassing a security boundary, and was therefore not fixed. Microsoft assigned CVE-2021-40449 to the use-after-free vulnerability in the Win32k kernel driver and it was patched on October 12, 2021, as a part of the October Patch Tuesday.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/"
+        ]
+      },
+      "uuid": "3cc0d1e2-31b6-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: MysterySnail RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -9485,6 +9485,71 @@
       "value": "OSRS OSINT Author Index: Lab52 Research Team"
     },
 	{
+      "description": "Researcher at SentinelOne Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/karma-ransomware-an-emerging-threat-with-a-hint-of-nemty-pedigree/"
+        ]
+      },
+      "uuid": "4373e2f2-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Antonis Terefos"
+    },
+	{
+      "description": "Researcher at Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/trickbot-gang-doubles-down-enterprise-infection/"
+        ]
+      },
+      "uuid": "4373e522-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Ole Villadsen"
+    },
+	{
+      "description": "Researcher at Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://securityintelligence.com/posts/trickbot-gang-doubles-down-enterprise-infection/"
+        ]
+      },
+      "uuid": "4373e61c-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Charlotte Hammond"
+    },
+	{
+      "description": "Researcher at Intego.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.intego.com/mac-security-blog/osx-zuru-mac-malware-spread-through-trojan-apps/"
+        ]
+      },
+      "uuid": "4373e75c-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Joshua Long"
+    },
+	{
+      "description": "Researcher at Morphisec.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/explosive-new-mirrorblast-campaign-targets-financial-companies"
+        ]
+      },
+      "uuid": "4373e82e-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Arnold Osipov"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

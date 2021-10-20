@@ -3776,6 +3776,19 @@
       "value": "OSRS OSINT Source: Lab52"
     },
 	{
+      "description": "Cybersecurity service provider.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.intego.com/"
+        ]
+      },
+      "uuid": "4373e978-31b8-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Source: Intego"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
