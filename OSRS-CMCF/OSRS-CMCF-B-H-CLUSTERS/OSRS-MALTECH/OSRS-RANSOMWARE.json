@@ -1550,6 +1550,19 @@
       "value": "OSRS Ransomware: BlackByte Ransomware"
     },
 	{
+      "description": "Ransomware typically installed with AnyDesk malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/is-there-really-such-a-thing-as-a-low-paid-ransomware-operator/"
+        ]
+      },
+      "uuid": "9801678a-3722-11ec-8d3d-0242ac130003",
+      "value": "OSRS Ransomware: Chaos Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

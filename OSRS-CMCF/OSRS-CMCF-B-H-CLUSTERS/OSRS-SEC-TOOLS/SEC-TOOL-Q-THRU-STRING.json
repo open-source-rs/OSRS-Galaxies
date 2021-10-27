@@ -1273,6 +1273,19 @@
       "value": "OSRS SecTool: Taken"
     },
 	{
+      "description": "Sliver is an open source, cross-platform adversary simulation red team platform, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary. The server and client support MacOS, Windows, and Linux. Implants are supported on MacOS, Windows, and Linux (and possibly every Golang compiler target but we've not tested them all).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-sec-tool:SecTool Q thru String"
+        ],
+        "refs": [
+          "https://github.com/BishopFox/sliver/tree/6c02971b54831884d30407b632a379947dd289ad"
+        ]
+      },
+      "uuid": "9801687a-3722-11ec-8d3d-0242ac130003",
+      "value": "OSRS SecTool: Silver"
+    },
+	{
       "description": "Rubeus is a C# toolset for raw Kerberos interaction and abuses. It is heavily adapted from Benjamin Delpy's Kekeo project (CC BY-NC-SA 4.0 license) and Vincent LE TOUX's MakeMeEnterpriseAdmin project (GPL v3.0 license). Full credit goes to Benjamin and Vincent for working out the hard components of weaponization- without their prior work this project would not exist. Charlie Clark and Ceri Coburn have both made significant contributions to the Rubeus codebase. Elad Shamir contributed some essential work for resource-based constrained delegation. Their work is very appreciated! Rubeus also uses a C# ASN.1 parsing/encoding library from Thomas Pornin named DDer that was released with an MIT-like license. Huge thanks to Thomas for his clean and stable code! PKINIT code heavily adapted from @SteveSyfuhs's Bruce tool. Bruce made RFC4556 (PKINIT) a lot easier to understand. Huge thanks to Steve! The KerberosRequestorSecurityToken.GetRequest method for Kerberoasting was contributed to PowerView (and then incorporated into Rubeus) by @machosec. @harmj0y is the primary author of this code base. Rubeus is licensed under the BSD 3-Clause license.",
       "meta": {
 	  "kill_chain": [

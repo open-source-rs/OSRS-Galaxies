@@ -7937,6 +7937,45 @@
       "value": "OSRS Tool: MysterySnail RAT"
     },
 	{
+      "description": "This skimmer was originally flagged by Eric Brandel as q-logger. Depending on how much you enjoy parsing JavaScript you may have a love-hate relationship with it. The code is dense and using an obfuscator that is as generic as can be, making identification using signatures challenging. This skimmer can be found loaded directly into compromised e-commerce sites. However, in the majority of cases we found it loaded externally.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2021/10/q-logger-skimmer-keeps-magecart-attacks-going/"
+        ]
+      },
+      "uuid": "96737b40-372e-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: Q-Logger Skimmer"
+    },
+	{
+      "description": "The rootkit is used to proxy traffc to Internet addresses that interest the attackers. We assume that the rootkit targets online games with the main goal of credential theft and in-game-purchase hijacking. The rootkit has been targeting computer users for more than a year now. Rootkit spreading is limited to China and we presume that it is operated by a threat actor with signifcant interest in the market.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/files/News/CaseStudies/study/405/Bitdefender-DT-Whitepaper-Fivesys-creat5699-en-EN.pdf"
+        ]
+      },
+      "uuid": "96737d52-372e-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: FiveSys Rootkit"
+    },
+	{
+      "description": "A phishing kit built using pieces of code copied from other kits, some available for sale through publicly accessible scam sellers or are reused and repackaged by other kit resellers, provides rich insight into the state of the economy that drives phishing and email threats today. We uncovered this phishing kit while examining an extensive series of credential phishing campaigns that all sent credentials to a set of endpoints operated by the attackers. We named the kit TodayZoo because of its curious use of these words in its credential harvesting component in earlier campaigns, likely a reference to phishing pages that spoofed a popular video conferencing application. Our prior research on phishing kits told us TodayZoo contained large pieces of code copied from widely circulated ones. The copied code segments even have the comment markers, dead links, and other holdovers from the previous kits.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/"
+        ]
+      },
+      "uuid": "96737e4c-372e-11ec-8d3d-0242ac130003",
+      "value": "OSRS Tool: TodayZoo Phishing Kit"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

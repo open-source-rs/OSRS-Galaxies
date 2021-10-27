@@ -9550,6 +9550,58 @@
       "value": "OSRS OSINT Author Index: Arnold Osipov"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the anti-virus company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/blog/labs/digitally-signed-rootkitsare-back-a-look-atfivesys-and-companions/"
+        ]
+      },
+      "uuid": "7ef76b42-372f-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Cristian Alexandru ISTRATE"
+    },
+	{
+      "description": "Security Researcher at Bitdefender, Romania.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/bal%C3%A1zs-bir%C3%B3-377836134/?originalSubdomain=ro"
+        ]
+      },
+      "uuid": "7ef76d5e-372f-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Balazs BIRO"
+    },
+	{
+      "description": "Rares is passionate about finding how things work at the low-level, Unix-like operating systems, and vim. When he's not spending time on the above he likes to hike.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/blog/labs/author/rares-bleotu/"
+        ]
+      },
+      "uuid": "7ef76e3a-372f-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Rares Costin BLEOTU"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the anti-virus company Bitdefender.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.bitdefender.com/blog/labs/digitally-signed-rootkitsare-back-a-look-atfivesys-and-companions/"
+        ]
+      },
+      "uuid": "7ef7709c-372f-11ec-8d3d-0242ac130003",
+      "value": "OSRS OSINT Author Index: Claudiu Stefan COBLIS"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

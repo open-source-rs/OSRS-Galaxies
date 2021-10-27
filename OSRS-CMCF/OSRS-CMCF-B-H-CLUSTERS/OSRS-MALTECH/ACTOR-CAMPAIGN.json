@@ -3478,6 +3478,19 @@
       "value": "OSRS Actors AND Campaigns: Operation GhostShell"
     },
 	{
+      "description": "Although global e-commerce is continuing to grow rapidly, it seems as though Magecart attacks via digital skimmers have not followed the same trend. This is certainly true if we only look at recent newsworthy attacks, indeed when a victim is a large business or popular brand we typically are more likely to remember it. From a research standpoint, we have observed certain shifts in the scope of attacks. For instance, the different threat actors are continuing to expand and diversify their methods and infrastructure. In a blog post about Magecart Group 8, we documented some of the various web properties used to serve skimmers and exfiltrate stolen data. But at the end of the day, we only know about attacks that we can see, that is until we discover more. Case in point, one particular skimmer identified as q-logger, has been active for several months. But it wasn’t until we started digging further that we realized how much bigger it was.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2021/10/q-logger-skimmer-keeps-magecart-attacks-going/"
+        ]
+      },
+      "uuid": "98016578-3722-11ec-8d3d-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Magecart Group 8"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
