@@ -7976,6 +7976,45 @@
       "value": "OSRS Tool: TodayZoo Phishing Kit"
     },
 	{
+      "description": "SQUIRRELWAFFLE provides threat actors with an initial foothold onto systems and their network environments that can then be used to facilitate further compromise or additional malware infections depending on how adversaries choose to attempt to monetize their access. In many cases, these infections are also being used to deliver and infect systems with other malware like Qakbot and the penetration-testing tool Cobalt Strike. Let's take a look at how this new threat operates and the volume and characteristics of the malicious email campaigns associated with it. Organizations should be aware of this threat, as it will likely persist across the threat landscape for the foreseeable future.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/10/squirrelwaffle-emerges.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "4ed53c30-3ca4-11ec-969b-3fb5cc8c87cb",
+      "value": "OSRS Tool: SQUIRRELWAFFLE Loader"
+    },
+	{
+      "description": "Security researchers at the Lookout Threat Lab have identified a new rooting malware distributed on Google Play and prominent third-party stores such as the Amazon Appstore and the Samsung Galaxy Store. We named the malware AbstractEmu after its use of code abstraction and anti-emulation checks to avoid running while under analysis. A total of 19 related applications were uncovered, seven of which contain rooting functionality, including one on Play that had more than 10,000 downloads. To protect Android users, Google promptly removed the app as soon as we notified them of the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.lookout.com/lookout-discovers-global-rooting-malware-campaign"
+        ]
+      },
+      "uuid": "4ed53c62-3ca4-11ec-969c-d311cb2c5dc4",
+      "value": "OSRS Tool: AbstractEmu"
+    },
+	{
+      "description": "ESET researchers have discovered a unique and previously undescribed loader for Windows binaries that, unlike other such loaders, runs as a server and executes received modules in memory. We have named this new malware Wslink after one of its DLLs. Wslink runs as a service and listens on all network interfaces on the port specified in the ServicePort registry value of the service’s Parameters key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/"
+        ]
+      },
+      "uuid": "4ed53c8a-3ca4-11ec-969d-6b59bf5150e3",
+      "value": "OSRS Tool: Wslink Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

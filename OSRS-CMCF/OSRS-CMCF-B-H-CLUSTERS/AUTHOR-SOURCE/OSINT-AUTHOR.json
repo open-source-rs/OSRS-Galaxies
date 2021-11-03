@@ -9602,6 +9602,32 @@
       "value": "OSRS OSINT Author Index: Claudiu Stefan COBLIS"
     },
 	{
+      "description": "Principal Security Researcher at Quick Heal. Pune, Maharashtra, India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sameerpatil07/?originalSubdomain=in"
+        ]
+      },
+      "uuid": "4ed53cbc-3ca4-11ec-969e-87803979063a",
+      "value": "OSRS OSINT Author Index: Sameer Patil"
+    },
+	{
+      "description": "CERT Polska is Computer Emergency Response Team which operates within the structures of Naukowa i Akademicka Siec Komputerowa – a research institute which conducts scientific activity, operates the national .pl domain registry and provides advanced IT network services.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cert.pl/en/"
+        ]
+      },
+      "uuid": "4ed53ce4-3ca4-11ec-969f-13080088bc42",
+      "value": "OSRS OSINT Author Index: CERT Polska"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

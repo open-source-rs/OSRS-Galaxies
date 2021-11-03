@@ -3491,6 +3491,32 @@
       "value": "OSRS Actors AND Campaigns: Magecart Group 8"
     },
 	{
+      "description": "Proofpoint identified the large cybercrime actor TA575 distributing Dridex malware using Squid Game lures. The threat actor is purporting to be entities associated with the Netflix global phenomenon using emails enticing targets to get early access to a new season of Squid Game or to become a part of the TV show casting.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/"
+        ]
+      },
+      "uuid": "bcac065e-3ca3-11ec-88cc-0f79bf2745aa",
+      "value": "OSRS Actors AND Campaigns: TA575"
+    },
+	{
+      "description": "Proofpoint identified a new and highly active cybercriminal threat actor, TA2722, colloquially referred to by Proofpoint threat researchers as the Balikbayan Foxes. Throughout 2021, a series of campaigns impersonated multiple Philippine government entities including the Department of Health, the Philippine Overseas Employment Administration (POEA), and the Bureau of Customs. Other related campaigns masqueraded as the Manila embassy for the Kingdom of Saudi Arabia (KSA) and DHL Philippines. The messages were intended for a variety of industries in North America, Europe, and Southeast Asia, with the top sectors including Shipping, Logistics, Manufacturing, Business Services, Pharmaceutical, Energy, and Finance. Proofpoint assesses this actor is targeting organizations directly or indirectly engaged with the Philippine government based on a continuous pattern of spoofing email addresses and delivering lures designed to impersonate government entities. For example, the shipping, transportation, and logistics companies would frequently engage with customs officials at ports of call. Additionally, the manufacturing and energy companies support and maintain large supply chain operations, likely requiring correspondence with both labor and customs organizations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/new-threat-actor-spoofs-philippine-government-covid-19-health-data-widespread"
+        ]
+      },
+      "uuid": "bcac07a8-3ca3-11ec-88cd-1366ed5270a4",
+      "value": "OSRS Actors AND Campaigns: TA2722"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

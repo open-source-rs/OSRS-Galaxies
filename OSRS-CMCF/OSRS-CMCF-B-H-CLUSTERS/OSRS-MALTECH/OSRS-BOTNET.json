@@ -947,6 +947,19 @@
       "value": "OSRS Botnet: Mirai_ptea_Rimasuta"
     },
 	{
+      "description": "Pink is the largest botnet we have first hand observed in the last six years, during peak time, it had a total infection of over 1.6 million devices (96% are located in China) Pink targets mainly mips based fiber router, and has very strong and robust architecture, it uses a combination of third-party services, P2P and central C2s for its’ bots to controller communications, and has complete verification of the C2 communications, doing this ensures that the bot nodes will not be easily cut off or taken over Pink raced with the vendor to retain control over the infected devices, while vendor made repeated attempts to fix the problem, the bot master noticed the vendor’s action also in real time, and made multiple firmware updates on the fiber routers corresponsly.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/pink-en/"
+        ]
+      },
+      "uuid": "4ed53a3c-3ca4-11ec-9698-db8149a9ac08",
+      "value": "OSRS Botnet: Pink Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

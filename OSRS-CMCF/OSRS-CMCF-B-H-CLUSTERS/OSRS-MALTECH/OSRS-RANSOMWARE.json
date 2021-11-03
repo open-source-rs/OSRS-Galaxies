@@ -1563,6 +1563,32 @@
       "value": "OSRS Ransomware: Chaos Ransomware"
     },
 	{
+      "description": "Spook Ransomware is an emerging player first seen in late September 2021. The operators publish details of all victims regardless of whether they pay or not. Targets range across several industries with an emphasis on manufacturing. Analysis shows a significant degree of code sharing between Spook and the Prometheus and Thanos ransomware families.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/spook-ransomware-prometheus-derivative-names-those-that-pay-shames-those-that-dont/"
+        ]
+      },
+      "uuid": "4ed53bd6-3ca4-11ec-9699-ef075f38685c",
+      "value": "OSRS Ransomware: Spook Ransomware"
+    },
+	{
+      "description": "Ransomware written in the Go language is quickly becoming more popular among threat actors. These include Babuk, Hive, and HelloKitty, as well as many other threats written in Golang. Go is a statically typed, object-oriented, cross-platform programming language introduced by Google. The abstraction and the support for multiple platforms is an advantage for many developers and also a disadvantage for security vendors who attempt to create signatures for malicious executable malware, which comes with all the dependent libraries built-in. Morphisec Labs has identified a new strain of ransomware, implemented in Go 1.17 and named DECAF. The first version, which includes symbols and test assertion, was identified in late September. The attackers very quickly stripped the original alpha version, added additional functionality, and uploaded this stub version to verify its detection score. Within a week they had deployed a fully weaponized version on a customer site.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/decaf-ransomware-a-new-golang-threat-makes-its-appearance"
+        ]
+      },
+      "uuid": "4ed53c08-3ca4-11ec-969a-e37d0be8a12e",
+      "value": "OSRS Ransomware: Decaf Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

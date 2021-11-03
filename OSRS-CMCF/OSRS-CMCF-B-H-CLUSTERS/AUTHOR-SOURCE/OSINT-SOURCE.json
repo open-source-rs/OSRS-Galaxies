@@ -3789,6 +3789,32 @@
       "value": "OSRS OSINT Source: Intego"
     },
 	{
+      "description": "Cybersecurity service provider blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blogs.quickheal.com/"
+        ]
+      },
+      "uuid": "4ed53d0c-3ca4-11ec-96a0-97ca236d34e2",
+      "value": "OSRS OSINT Source: Quick Heal Blog"
+    },
+	{
+      "description": "CERT Polska is Computer Emergency Response Team which operates within the structures of Naukowa i Akademicka Siec Komputerowa – a research institute which conducts scientific activity, operates the national .pl domain registry and provides advanced IT network services.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cert.pl/en/"
+        ]
+      },
+      "uuid": "4ed53d34-3ca4-11ec-96a1-a78c6d5d56b7",
+      "value": "OSRS OSINT Source: CERT-PL"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
