@@ -1543,6 +1543,19 @@
       "value": "OSRS Backdoor: Graphon Backdoor"
     },
 	{
+      "description": "Following initial exploitation, a payload was uploaded to the victim network which installed a Godzilla webshell. This activity was consistent across all victims; however, we also observed a smaller subset of compromised organizations who subsequently received a modified version of a new backdoor called NGLite. The threat actors then used either the webshell or the NGLite payload to run commands and move laterally to other systems on the network, while they exfiltrated files of interest simply by downloading them from the web server. Once the actors pivoted to a domain controller, they installed a new credential-stealing tool that we track as KdcSponge. Both Godzilla and NGLite were developed with Chinese instructions and are publicly available for download on GitHub. We believe threat actors deployed these tools in combination as a form of redundancy to maintain access to high-interest networks. Godzilla is a functionality-rich webshell that parses inbound HTTP POST requests, decrypts the data with a secret key, executes decrypted content to carry out additional functionality and returns the result via a HTTP response. This allows attackers to keep code likely to be flagged as malicious off the target system until they are ready to dynamically execute it.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/"
+        ]
+      },
+      "uuid": "6f32076c-46ed-11ec-81d3-0242ac130003",
+      "value": "OSRS Backdoor: NGLite Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

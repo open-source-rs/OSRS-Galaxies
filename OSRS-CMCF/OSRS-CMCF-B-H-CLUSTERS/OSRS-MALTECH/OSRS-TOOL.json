@@ -7982,7 +7982,11 @@
           "osrs-maltech:Tool"
         ],
         "refs": [
-          "https://blog.talosintelligence.com/2021/10/squirrelwaffle-emerges.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+          "https://blog.talosintelligence.com/2021/10/squirrelwaffle-emerges.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29",
+		  "https://blog.minerva-labs.com/a-new-datoploader-delivers-qakbot-trojan"
+        ],
+        "synonyms": [
+        "DatopLoader"
         ]
       },
       "uuid": "4ed53c30-3ca4-11ec-969b-3fb5cc8c87cb",
@@ -8013,6 +8017,58 @@
       },
       "uuid": "4ed53c8a-3ca4-11ec-969d-6b59bf5150e3",
       "value": "OSRS Tool: Wslink Loader"
+    },
+	{
+      "description": "Upon analysis of the webshell, it was determined to be the Chinese-language Godzilla webshell V3.00+. The Godzilla webshell was developed by user BeichenDream, who stated they created this webshell because the ones available at the time would frequently be detected by security products during red team engagements. As such, the author advertises it will avoid detection by leveraging AES encryption for its network traffic and that it maintains a very low static detection rate across security vendor products.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/"
+        ]
+      },
+      "uuid": "fae85bd4-46ee-11ec-81d3-0242ac130003",
+      "value": "OSRS Tool: Godzilla Webshell"
+    },
+	{
+      "description": "During analysis, Unit 42 found logs that suggest the threat actors used PwDump and the built-in comsvcs.dll to create a mini dump of the lsass.exe process for credential theft; however, when the actor wished to steal credentials from a domain controller, they installed their custom tool that we track as KdcSponge. The purpose of KdcSponge is to hook API functions from within the LSASS process to steal credentials from inbound attempts to authenticate via the Kerberos service (KDC Service). KdcSponge will capture the domain name, username and password to a file on the system that the threat actor would then exfiltrate manually through existing access to the server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/"
+        ]
+      },
+      "uuid": "fae85dd2-46ee-11ec-81d3-0242ac130003",
+      "value": "OSRS Tool: KdcSponge Stealer"
+    },
+	{
+      "description": "The mobile application poses a threat to Android devices by functioning as an advanced Remote Access Trojan (RAT) that receives and executes commands to collect and exfiltrate a wide variety of data and perform a wide range of malicious actions. Upon infection, the victim’s mobile device will transmit accurate GPS locational data, share photos and communications, contact lists, and downloaded documents with the command and control server. Similar to other mobile spyware we have seen, the data stolen from these devices could be used for personal and corporate blackmail and espionage. The malicious actors could then produce notes on the victim, download any stolen materials, and gather intelligence for other nefarious practices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/#"
+        ]
+      },
+      "uuid": "fae85ec2-46ee-11ec-81d3-0242ac130003",
+      "value": "OSRS Tool: PhoneSpy Stealer"
+    },
+	{
+      "description": "Even now, almost two years after the COVID-19 pandemic started, there is no sign that cybercriminals will stop taking advantage of the situation as an attack vector. This time, however, this attacker uses a COVID pandemic that has not yet happened as bait. FortiGuard Labs recently discovered a new malware posing as a mysterious COVID22 installer. While containing many of the features of joke malware, it is also destructive, causing infected machines to fail to boot. Because it has no features for encrypting data demanding a ransom to undo the damage it inflicts, it is instead a new destructive malware variant designed to render affected systems inoperable.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/to-joke-or-not-to-joke-covid-22-brings-disaster-to-mbr"
+        ]
+      },
+      "uuid": "fae85f94-46ee-11ec-81d3-0242ac130003",
+      "value": "OSRS Tool: Covid-22 Installer"
     },
 	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",

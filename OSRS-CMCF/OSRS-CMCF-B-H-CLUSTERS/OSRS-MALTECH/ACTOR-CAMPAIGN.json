@@ -3517,6 +3517,63 @@
       "value": "OSRS Actors AND Campaigns: TA2722"
     },
 	{
+      "description": "Cisco Talos recently discovered a malicious campaign deploying variants of the Babuk ransomware predominantly affecting users in the U.S. with smaller number of infections in U.K., Germany, Ukraine, Finland, Brazil, Honduras and Thailand. The actor of the campaign is sometimes referred to as Tortilla, based on the payload file names used in the campaign. This is a new actor operating since July 2021. Prior to this ransomware, Tortilla has been experimenting with other payloads, such as the PowerShell-based netcat clone Powercat, which is known to provide attackers with unauthorized access to Windows machines. We assess with moderate confidence that the initial infection vector is exploitation of ProxyShell vulnerabilities in Microsoft Exchange Server through the deployment of China Chopper web shell.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/11/babuk-exploits-exchange.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29"
+        ]
+      },
+      "uuid": "737b3376-46ec-11ec-81d3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Tortilla Threat Actor"
+    },
+	{
+      "description": "Based on incidents reported to the ANSSI and their commonalities, investigations were carried out by the Agency to confirm the existence of a single cyber criminal group responsible for these incidents, understand its modus operandi and distinguish its techniques, tactics and procedures (TTPs). First observed in June 2020, this group named Lockean is thought to have affiliated with several Ransomware-as-a-Service (RaaS) including DoppelPaymer, Maze, Prolock, Egregor and Sodinokibi. Lockean has a propensity to target French entities under a Big Game Hunting rationale.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-009/",
+		  "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2021-IOC-004/",
+		  "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf"
+        ]
+      },
+      "uuid": "737b35b0-46ec-11ec-81d3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Lockean Ransomware Gang"
+    },
+	{
+      "description": "Due to their widespread use, Office Documents are commonly used by Malicious actors as a way to distribute their malware. McAfee Labs have observed a new threat Squirrelwaffle which is one such emerging malware that was observed using office documents in mid-September that infects systems with CobaltStrike.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-newest-malicious-actor-squirrelwaffle-malicious-doc/"
+        ]
+      },
+      "uuid": "737b3696-46ec-11ec-81d3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: Squirrelwaffle Threat Group"
+    },
+	{
+      "description": "In the first half of 2021, 360 Advanced Threat Research Institute discovered multiple attacks from the same new APT organization. According to the analysis of the organization's attack characteristics, we found that its related attacks were not associated with currently known APT organizations. At the same time, we It was observed that the 0day vulnerability attack method was used in the two attacks of the organization, so the attacker behind it was named APT-C-59 (Wuqiongdong). The earliest attacks organized by APT-C-59 (Wuqiongdong ) can be traced back to August 2020. In the early days, the organization used the pseudo-protocol 0day vulnerabilities of some browsers to attack relevant units in my country, and also attacked the Vietnam area. Some victims.Through a comprehensive analysis of attack data, we can see that the organization's target areas are mainly East Asia and Southeast Asia, involving governments, think tanks, media, and medical industries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/"
+        ],
+        "synonyms": [
+        "Wuqiongdong"
+        ]
+      },
+      "uuid": "737b3754-46ec-11ec-81d3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: APT-C-59"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

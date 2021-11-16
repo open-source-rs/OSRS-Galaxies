@@ -9628,6 +9628,32 @@
       "value": "OSRS OSINT Author Index: CERT Polska"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Minerva Labs.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/author/natalie-zargarov"
+        ]
+      },
+      "uuid": "afb038d2-46f1-11ec-81d3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Natalie Zargarov"
+    },
+	{
+      "description": "Threat Hunter at Group-IB DFIR Team.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.group-ib.com/blackmatter2"
+        ]
+      },
+      "uuid": "afb03bc0-46f1-11ec-81d3-0242ac130003",
+      "value": "OSRS OSINT Author Index: Andrey Zhdanov"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
