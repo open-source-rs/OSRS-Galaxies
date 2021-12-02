@@ -9654,6 +9654,188 @@
       "value": "OSRS OSINT Author Index: Andrey Zhdanov"
     },
 	{
+      "description": "Mobile Security Research Team Lead at Trusteer. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/nethanella-messer-86338415/"
+        ]
+      },
+      "uuid": "3d5c6c5c-5370-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Nethanella Messer"
+    },
+	{
+      "description": "Technical Writer at IBM. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/james-kilner-0b01a42/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "3d5c6ebe-5370-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: James Kilner"
+    },
+	{
+      "description": "Security researcher affilaited with the cybersecurity vendor Trend Micro.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/21/k/qakbot-loader-returns-with-new-techniques-and-tools.html"
+        ]
+      },
+      "uuid": "3d5c6fea-5370-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Ian Kenefick"
+    },
+	{
+      "description": "Sr. Researcher at Trend Micro. Moscow, Moscow, Russia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vladimir-kropotov-2903b544/?originalSubdomain=ru"
+        ]
+      },
+      "uuid": "3d5c729c-5370-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Vladimir Kropotov"
+    },
+	{
+      "description": "Cybersecurity Researcher. Budapest, Budapest, Hungary.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/albertzsigovits/?originalSubdomain=hu"
+        ]
+      },
+      "uuid": "3d5c73a0-5370-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Albert Zsigovits"
+    },
+	{
+      "description": "Incident Response Engineer at Trend Micro. Egypt.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/mohamed-fahmy-710943b4/?originalSubdomain=eg"
+        ]
+      },
+      "uuid": "14f57eee-5374-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Mohamed Fahmy"
+    },
+	{
+      "description": "Cyber Threat Intelligence Researcher at Trend Micro. Egypt.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/sherif-magdy-2a4a2b33/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=eg"
+        ]
+      },
+      "uuid": "14f58132-5374-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sherif Magdy"
+    },
+	{
+      "description": "Threat Intel Analyst at Trend Micro. Egypt.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/abdelrhman-sharshar/?originalSubdomain=eg"
+        ]
+      },
+      "uuid": "14f58628-5374-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Abdelrhman Sharshar"
+    },
+	{
+      "description": "Independent cybersecurity researcher affiliated with the online blog cyber.wtf.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cyber.wtf/author/lucaebach1/"
+        ]
+      },
+      "uuid": "14f5874a-5374-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Luca Ebach"
+    },
+	{
+      "description": "Principal Security researcher. Ghaziabad, Uttar Pradesh, India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/preksha-saxena-760491122/"
+        ]
+      },
+      "uuid": "14f58830-5374-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Preksha Saxena"
+    },
+	{
+      "description": "Malware Analyst at HP. Zurich, Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/patrick-schl%C3%A4pfer-55861b84/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "23682bf6-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Patrick Schlapfer"
+    },
+	{
+      "description": "Threat Researcher. Sydney, New South Wales, Australia.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/pank4j/?originalSubdomain=au"
+        ]
+      },
+      "uuid": "23682e3a-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Pankaj Kohli"
+    },
+	{
+      "description": "Director of Security Research. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tomer-bar-878a348b/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "23682f52-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Tomer Bar"
+    },
+	{
+      "description": "Generic blogger pen named used by the cybersecurity vendor Dr. Web Anti-Virus.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.drweb.com/?lng=en"
+        ]
+      },
+      "uuid": "23683038-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Dr. Web Anti-Virus"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

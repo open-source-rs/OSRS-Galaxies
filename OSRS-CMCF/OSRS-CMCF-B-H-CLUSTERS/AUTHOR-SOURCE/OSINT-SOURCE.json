@@ -3815,6 +3815,58 @@
       "value": "OSRS OSINT Source: CERT-PL"
     },
 	{
+      "description": "CUJO AI is the global leader in the development and application of Artificial Intelligence to improve the security, control, and privacy of connected devices in homes and businesses.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cujo.com/about/"
+        ]
+      },
+      "uuid": "fff2d4ea-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Source: CUJOAI Research"
+    },
+	{
+      "description": "Cyber threat research blog provided by the technology vendor HP.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://threatresearch.ext.hp.com/blog/"
+        ]
+      },
+      "uuid": "fff2d74c-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Source: HP Threat Research Blog"
+    },
+	{
+      "description": "SafeBreach’s mission is to change the way the industry deals with security and risk, and enable companies to use the security technologies they have invested in to the fullest. By validating those technologies against attacks, from the known to the latest emerging threats, they will drive risk down -- on a continuous basis. Companies will be able to invest smart and protect more. They will be able to quantify risks to the business and drive a security strategy aligned with the company's business growth. Changing the mindset of defenders to offensive and proactive will help us build a safer world.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.safebreach.com/company/about/"
+        ]
+      },
+      "uuid": "fff2d878-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Source: SafeBreach Research Blog"
+    },
+	{
+      "description": "Anti-virus vendor.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.drweb.com/?lng=en"
+        ]
+      },
+      "uuid": "fff2d97c-5375-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Source: Dr. Web Anti-Virus"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

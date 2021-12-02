@@ -8071,6 +8071,139 @@
       "value": "OSRS Tool: Covid-22 Installer"
     },
 	{
+      "description": "In the previous version, BrazKing abused the accessibility service to detect which app the user opened. When the malware detected the launch of a targeted banking app, it used to pull an overlay screen from a hardcoded URL and present it on top of the legitimate app. Now, it automates a call to the attacker’s server, requesting those matches on the fly. The detection of which app is being opened, is now done server side, and the malware regularly sends on-screen content to the C2. Credential grabbing is then activated from the C2 server, and not by an automatic command from the malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/"
+        ]
+      },
+      "uuid": "828a33e4-5222-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: BrazKing Android Banking Trojan"
+    },
+	{
+      "description": "Overall, the malware has the following features - Brute-forces credentials to enter SSH. Built-in password dictionary. Uses curl and wget to grab second stage payloads. Sets up persistence and cleans up logs to cover its tracks. Checks for competing botnets and cryptominers, kills their processes. Deploys XMRig cryptominer. Uses Bash scripts and a Python script to further propagate to vulnerable hosts. Includes a subnet scanner and a banner grabber module.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cujo.com/threat-alert-krane-malware/"
+        ]
+      },
+      "uuid": "828a3646-5222-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Krane Loader"
+    },
+	{
+      "description": "The main goal of SharkBot is to initiate money transfers from the compromised devices via Automatic Transfer Systems (ATS) technique bypassing multi-factor authentication mechanisms (e.g., SCA). These mechanisms are used to enforce users' identity verification and authentication, they are usually combined with behavioural detection techniques to identify suspicious money transfers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cleafy.com/cleafy-labs/sharkbot-a-new-generation-of-android-trojan-is-targeting-banks-in-europe"
+        ]
+      },
+      "uuid": "828a3772-5222-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: SharkBot Android Trojan"
+    },
+	{
+      "description": "Threat actors are always looking for stealthy ways of delivering malware without being detected. In this article, we describe how attackers are using an evasive JavaScript loader, that we call RATDispenser, to distribute remote access Trojans (RATs) and information stealers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://threatresearch.ext.hp.com/javascript-malware-dispensing-rats-into-the-wild/"
+        ]
+      },
+      "uuid": "828a3862-5222-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: RATDispenser Loader"
+    },
+	{
+      "description": "First seen in April 2021, this is a new malware family that targets cryptocurrency wallets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://threatresearch.ext.hp.com/javascript-malware-dispensing-rats-into-the-wild/"
+        ]
+      },
+      "uuid": "828a3948-5222-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Panda Stealer"
+    },
+	{
+      "description": "The cryptocurrency market is now worth more than 2.5 trillion. Unfortunately, this fact is not lost on threat actors. As well as using cryptocurrency themselves to extract ransoms, cybercriminals are now also tailoring malware to exploit the booming market for NFTs and crypto games. In a discovery of critical importance to anyone familiar with this space, Morphisec Labs has encountered a new campaign of malware targeting cryptocurrency enthusiasts through Discord. Crucially, the crypter that this campaign deploys, which we have termed Babadeda (a Russian language placeholder used by the crypter itself which translates to Grandma-Grandpa), is able to bypass signature-based antivirus solutions. Although some variants of this crypter have been noted by other vendors, Morphisec is the first to fully disclose how it works.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/the-babadeda-crypter-targeting-crypto-nft-defi-communities"
+        ],
+        "synonyms": [
+        "Babadeda Crypter"
+        ]
+      },
+      "uuid": "b196b6c0-5223-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Babadeda Loader"
+    },
+	{
+      "description": "SafeBreach Labs discovered a new Iranian threat actor using a Microsoft MSHTML Remote Code Execution (RCE) exploit for infecting Farsi-speaking victims with a new PowerShell stealer. The threat actor initiated the attack in mid-September 2021, and it was first reported by ShadowChasing on Twitter. However, the PowerShell Stealer hash code was not published and was not included in VirusTotal or other public malware repositories. SafeBreach Labs analyzed the full attack chain, discovered new phishing attacks which started in July this year and achieved the last and most interesting piece of the puzzle - the PowerShell Stealer code - which we named PowerShortShell. The reason we chose this name is due to the fact that the stealer is a PowerShell script, short with powerful collection capabilities - in only 150 lines, it provides the adversary a lot of critical information including screen captures, telegram files, document collection, and extensive data about the victim’s environment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.safebreach.com/blog/2021/new-powershortshell-stealer-exploits-recent-microsoft-mshtml-vulnerability-to-spy-on-farsi-speakers/"
+        ]
+      },
+      "uuid": "b196bbe8-5223-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: PowerShortShell Stealer"
+    },
+	{
+      "description": "The Android.Cynos.7.origin is one of the modifications of the Cynos program module. This module can be integrated into Android apps to monetize them. This platform has been known since at least 2014. Some of its versions have quite aggressive functionality: they send premium SMS, intercept incoming SMS, download and launch extra modules, and download and install other apps. The main functionality of the version discovered by our malware analysts is collecting the information about users and their devices and displaying ads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://news.drweb.com/show/?i=14360"
+        ]
+      },
+      "uuid": "b196bd64-5223-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Cynos Android Trojan"
+    },
+	{
+      "description": "The technical specifications in this analysis are based on the Chinotto malware we discovered from the host investigation. One of the characteristics of this malware is that it contains a lot of garbage code to impede analysis. During runtime, the malware copies unused data to the allocated buffer before copying the real value or allocates an unused buffer, filling it with meaningless data, and never uses it.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/"
+        ]
+      },
+      "uuid": "b196be72-5223-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Chinotto Backdoor (Windows)"
+    },
+	{
+      "description": "Based on the C2 communication pattern, we discovered an Android application version of Chinotto malware. This malicious APK requests excessive permissions according to the AndroidManifest.xml file. To achieve its purpose of spying on the user, these apps ask users to enable various sorts of permissions. Granting these permissions allows the apps to collect sensitive information, including contacts, messages, call logs, device information and audio recordings. Each sample has a different package name.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/"
+        ]
+      },
+      "uuid": "b196bf58-5223-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Chinotto Backdoor (Android)"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

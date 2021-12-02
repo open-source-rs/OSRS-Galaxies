@@ -3565,13 +3565,68 @@
         ],
         "refs": [
           "https://www.proofpoint.com/"
+        ]
+      },
+      "uuid": "737b3754-46ec-11ec-81d3-0242ac130003",
+      "value": "OSRS Actors AND Campaigns: APT-C-59"
+    },
+	{
+      "description": "In September 2021, the hacker group MosesStaff began targeting Israeli organizations, joining a wave of attacks which was started about a year ago by the Pay2Key and BlackShadow attack groups. Those actors operated mainly for political reasons in attempt to create noise in the media and damage the country’s image, demanding money and conducting lengthy and public negotiations with the victims. MosesStaff behaves differently. The group openly states that their motivation in attacking Israeli companies is to cause damage by leaking the stolen sensitive data and encrypting the victim’s networks, with no ransom demand. In the language of the attackers, their purpose is to Fight against the resistance and expose the crimes of the Zionists in the occupied territories.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/"
+        ]
+      },
+      "uuid": "9b9bbd18-521c-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: MosesStaff Threat Group"
+    },
+	{
+      "description": "Throughout 2021, the North Korea-aligned threat actor TA406 conducted frequent credential theft campaigns targeting research, education, government, media and other organizations. Proofpoint considers TA406 to be one of several actors that make up the activity publicly tracked as Kimsuky, Thallium and Konni Group. TA406 doesn’t usually employ malware in campaigns. However, two notable 2021 campaigns attributed to this group attempted to distribute malware that could be used for information gathering. TA406 engages in espionage, cyber crime and sextortion.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals"
+        ],
+        "synonyms": [
+        "Kimsuky"
+        ]
+      },
+      "uuid": "9b9bbf66-521c-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: TA406"
+    },
+	{
+      "description": "In late October, Sophos MTR’s Rapid Response Team encountered a new ransomware group with an interesting approach to holding victims’ files hostage. The ransomware used by this group, who identify themselves as Memento Team, doesn’t encrypt files. Instead, it copies files into password-protected archives, using a renamed freeware version of the legitimate file utility WinRAR—and then encrypts the password and deletes the original files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/"
+        ]
+      },
+      "uuid": "9b9bc074-521c-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Memento Team Ransomware Gang"
+    },
+	{
+      "description": "In late October, Sophos MTR’s Rapid Response Team encountered a new ransomware group with an interesting approach to holding victims’ files hostage. The ransomware used by this group, who identify themselves as Memento Team, doesn’t encrypt files. Instead, it copies files into password-protected archives, using a renamed freeware version of the legitimate file utility WinRAR—and then encrypts the password and deletes the original files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://news.sophos.com/en-us/2021/11/23/android-apt-spyware-targeting-middle-east-victims-improves-its-capabilities/"
         ],
         "synonyms": [
         "Wuqiongdong"
         ]
       },
-      "uuid": "737b3754-46ec-11ec-81d3-0242ac130003",
-      "value": "OSRS Actors AND Campaigns: APT-C-59"
+      "uuid": "9b9bc16e-521c-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: C-23 Threat Group"
     },
 	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
