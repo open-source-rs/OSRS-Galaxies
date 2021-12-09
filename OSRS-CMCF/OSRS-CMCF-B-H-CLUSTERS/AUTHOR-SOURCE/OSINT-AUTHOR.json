@@ -9836,6 +9836,45 @@
       "value": "OSRS OSINT Author Index: Dr. Web Anti-Virus"
     },
 	{
+      "description": "Senior Intelligence Analyst at Red Canary. Dallas, Texas, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/hvr/"
+        ]
+      },
+      "uuid": "23ac01d4-5922-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Harrison Van Riper"
+    },
+	{
+      "description": "Technical Lead - Security Research at Cisco Talos. Lisbon, Lisbon, Portugal.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tiago4/?originalSubdomain=pt"
+        ]
+      },
+      "uuid": "23ac04d6-5922-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Tiago Pereira"
+    },
+	{
+      "description": "Security Researcher at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/shmuel-cohen-484860137/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "23ac060c-5922-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Shmuel Cohen"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

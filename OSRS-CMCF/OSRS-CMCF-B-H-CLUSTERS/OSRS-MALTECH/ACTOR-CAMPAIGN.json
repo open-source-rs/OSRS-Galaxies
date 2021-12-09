@@ -3629,6 +3629,36 @@
       "value": "OSRS Actors AND Campaigns: C-23 Threat Group"
     },
 	{
+      "description": "Talos recently observed a malicious campaign offering fake installers of popular software as bait to get users to execute malware on their systems. This campaign includes a set of malware distribution campaigns that started in late 2018 and have targeted mainly Canada, along with the U.S., Australia and some EU countries. Two undocumented malware families (a backdoor and a Google Chrome extension) are consistently delivered together in these campaigns. An unknown actor with the alias magnat is the likely author of these new families and has been constantly developing and improving them. The attacker's motivations appear to be financial gain from selling stolen credentials, fraudulent transactions and Remote Desktop access to systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html"
+        ]
+      },
+      "uuid": "0dfab33a-590e-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: Magnat"
+    },
+	{
+      "description": "In September 2021, Mandiant discovered a post on exploit.in seeking partners for a new ransomware affiliate program. By October 21, 2021, the 54BB47h (Sabbath) ransomware shaming site and blog were created and quickly became the talk of security researchers. In contrast with most other affiliate programs, Mandiant observed two occasions where the ransomware operator provided its affiliates with pre-configured Cobalt Strike BEACON backdoor payloads. While the use of BEACON is common practice in ransomware intrusions, the use of a ransom affiliate program operator provided BEACON is unusual and offers both a challenge for attribution efforts while also offering additional avenues for detection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://news.sophos.com/"
+        ],
+        "synonyms": [
+        "Arcane",
+        "Sabbath"
+        ]
+      },
+      "uuid": "0dfab588-590e-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2190"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

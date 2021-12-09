@@ -8204,6 +8204,58 @@
       "value": "OSRS Tool: Chinotto Backdoor (Android)"
     },
 	{
+      "description": "MagnatExtension is delivered by an executable whose only function is to prepare the system and install the extension. Notice that this extension is installed from the malware itself and not from the Chrome Extension Store. Once installed, the extension is visible in the extensions settings as Google's Safe browsing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html"
+        ]
+      },
+      "uuid": "e7ff8558-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: MagnatExtension"
+    },
+	{
+      "description": "We also came across another Stealer used by this actor that has been written in C++. To the best of our knowledge this is a new Stealer used by SideCopy APT. A Loader has been used to drop and load an executable (credbiz.exe) that side loads the Stealer. We were able to identify two different variants of this Loader that have been used to load an HTTP version and TCP version of the Stealer. Both of these loaders and the Stealer components have been compiled on October 30 2021.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2021/12/sidecopy-apt-connecting-lures-to-victims-payloads-to-infrastructure/"
+        ]
+      },
+      "uuid": "e7ff89cc-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: AuTo Stealer"
+    },
+	{
+      "description": "All Anatsa droppers look similar code-wise. Upon the start of the app, a service is started to check if the update was installed. The dropper makes a request towards the C2 sending information about the device, including device ID, device name, locale, country, Android SDK version.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html"
+        ]
+      },
+      "uuid": "e7ff8ae4-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Anatsa Dropper"
+    },
+	{
+      "description": "This dropper, that we dubbed Gymdrop, is another example of how cybercriminals try to convince victims and detection systems that their app is legitimate. The app website is designed to look legitimate at first glance. However, it is only a template for a gym website with no useful information on it, even still containing ‘Lorem Ipsum’ placeholder text in its pages. The developer website also serves as C2 for Gymdrop. Just like previously observed, this dropper tried to convince victims to install a fake update. However, in this case, it is done in a more inventive way: the payload is posed as a new package of workout exercises in conformity with the app. After the user clicks OK, the dropper will request the permissions needed.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html"
+        ]
+      },
+      "uuid": "e7ff8bde-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Gymdrop Dropper"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -1589,6 +1589,32 @@
       "value": "OSRS Ransomware: Decaf Ransomware"
     },
 	{
+      "description": "There is a tentative link between these Yanluowang attacks and older attacks involving Thieflock, ransomware-as-a-service developed by the Canthroid (aka Fivehands) group. Several TTPs used by these attackers overlap with TTPs used in Thieflock attacks, including - Use of custom password recovery tools such as GrabFF and other open-source password dumping tools. Use of open-source network scanning tools (SoftPerfect Network Scanner). Use of free browsers, such as s3browser and Cent browser. This link begs the question of whether Yanluowang was developed by Canthroid. However, analysis of Yanluowang and Thieflock does not provide any evidence of shared authorship. Instead, the most likely hypothesis is that these Yanluowang attacks may be carried out by a former Thieflock affiliate.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "42f3c70e-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Ransomware: Thieflock Ransomware"
+    },
+	{
+      "description": "In July 2020, Mandiant first detected ROLLCOAST ransomware usage by UNC2190. ROLLCOAST is a ransomware program that encrypts files on logical drives attached to a system. ROLLCOAST is a Dynamic Linked Library (DLL) with no named exports. When observed by Mandiant it uniquely had only one ordinal export 0x01. This suggested the sample was designed to avoid detection and be invoked within memory, possibly through BEACON provided to affiliates. Incident responders working on similar intrusions should capture memory for analysis. ROLLCOAST was not written to disk during this intrusion and was only detected in memory by Mandiant. The malware begins by checking the system language and exits if it detects a non-supported language code from the table below. Many other ransomware families have similar checks to avoid encrypting systems in Russia and other Commonwealth of Independent States member countries presumably to avoid attracting the attention of law enforcement in countries where the ransomware operator and affiliates are more likely to reside.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/"
+        ]
+      },
+      "uuid": "42f3cc18-5911-11ec-bf63-0242ac130002",
+      "value": "OSRS Ransomware: ROLLCOAST Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

@@ -999,6 +999,19 @@
       "value": "OSRS Botnet: Specter Botnet"
     },
 	{
+      "description": "On October 27, 2021, our Botmon system ided an attacker attacking Edgewater Networks' devices via CVE-2017-6079 with a relatively unique mount file system commandin its payload, which had our attention, and after analysis, we confirmed that this was a brand new botnet, and based on it's targeting of Edgewater producers and its Backdoor feature, we named it EwDoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/warning-ewdoor-botnet-is-attacking-att-customers/"
+        ]
+      },
+      "uuid": "f2796e6e-5910-11ec-bf63-0242ac130002",
+      "value": "OSRS Botnet: EwDoor Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

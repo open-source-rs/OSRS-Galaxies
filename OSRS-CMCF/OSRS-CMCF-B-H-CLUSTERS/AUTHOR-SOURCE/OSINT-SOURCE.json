@@ -3867,6 +3867,19 @@
       "value": "OSRS OSINT Source: Dr. Web Anti-Virus"
     },
 	{
+      "description": "Mandiant is a publicly traded American cybersecurity firm. It rose to prominence in February 2013 when it released a report directly implicating China in cyber espionage. On December 30, 2013, Mandiant was acquired by FireEye in a stock and cash deal worth in excess of 1 billion.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Mandiant"
+        ]
+      },
+      "uuid": "f952baf8-5922-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Source: Mandiant Threat Research Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

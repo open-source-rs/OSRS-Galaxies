@@ -1569,6 +1569,33 @@
       "value": "OSRS Backdoor: macOS.Macma Backdoor"
     },
 	{
+      "description": "MagnatBackdoor is an AutoIt-based installer that prepares a system for remote Microsoft Remote Desktop access and forwards the RDP service port on an outbound SSH tunnel. As a result of this installer's actions there is a way for the attacker to access the system remotely via RDP, which is why we call it a backdoor. This malware applies this technique by setting up a scheduled task that periodically contacts a C2 server and sets up the tunnel if instructed by the C2 response.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html"
+        ]
+      },
+      "uuid": "21d689fe-5910-11ec-bf63-0242ac130002",
+      "value": "OSRS Backdoor: MagnatBackdoor"
+    },
+	{
+      "description": "Compared to the original Cerberus, ERMAC uses different encryption scheme in communication with the C2, the data is encrypted with AES-128-CBC, and prepended with double word containing the length of the encoded data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html",
+		  "https://www.threatfabric.com/blogs/ermac-another-cerberus-reborn.html"
+        ]
+      },
+      "uuid": "21d68c4c-5910-11ec-bf63-0242ac130002",
+      "value": "OSRS Backdoor: Ermac Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
