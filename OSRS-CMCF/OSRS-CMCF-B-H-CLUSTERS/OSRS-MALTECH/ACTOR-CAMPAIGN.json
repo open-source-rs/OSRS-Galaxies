@@ -3659,6 +3659,61 @@
       "value": "OSRS Actors AND Campaigns: UNC2190"
     },
 	{
+      "description": "The Microsoft Threat Intelligence Center (MSTIC) has observed NICKEL, a China-based threat actor, targeting governments, diplomatic entities, and non-governmental organizations (NGOs) across Central and South America, the Caribbean, Europe, and North America. MSTIC has been tracking NICKEL since 2016 and observed some common activity with other actors known in the security community as APT15, APT25, and KeChang. Today, the Microsoft Digital Crimes Unit (DCU) announced the successful seizure of a set of NICKEL-operated websites and disruption of their ongoing attacks targeting organizations in 29 countries, following a court order from the U.S. District Court for the Eastern District of Virginia granting Microsoft the authority to seize these sites. MSTIC has tracked the current NICKEL operations, including attacks against government organizations, diplomatic entities, and NGOs, since September 2019. During this time, NICKEL activity has been observed across several countries, with a large amount of activity targeting Central and South American governments. Notably, NICKEL has achieved long-term access to several targets, allowing NICKEL to conduct activities such as regularly scheduled exfiltration of data. As China’s influence around the world continues to grow and the nation establishes bilateral relations with more countries and extends partnerships in support of China’s Belt and Road Initiative, we assess that China-based threat actors will continue to target customers in government, diplomatic, and NGO sectors to gain new insights, likely in pursuit of economic espionage or traditional intelligence collection objectives. Portions of the NICKEL activity we are highlighting have also been blogged about by our colleagues at ESET.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe/"
+        ]
+      },
+      "uuid": "ef892520-5d14-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: NICKEL APT"
+    },
+	{
+      "description": "Mandiant continues to track multiple clusters of suspected Russian intrusion activity that have targeted business and government entities around the globe. Based on our assessment of these activities, we have identified two distinct clusters of activity, UNC3004 and UNC2652. We associate both groups with UNC2452 also referred to as Nobelium by Microsoft. Some of the tactics Mandiant has recently observed include - Compromise of multiple technology solutions, services, and reseller companies since 2020. Use of credentials likely obtained from an info-stealer malware campaign by a third-party actor to gain initial access to organizations. Use of accounts with Application Impersonation privileges to harvest sensitive mail data since Q1 2021. Use of both residential IP proxy services and newly provisioned geo located infrastructure to communicate with compromised victims. Use of novel TTPs to bypass security restrictions within environments including, but not limited to the extraction of virtual machines to determine internal routing configurations. Use of a new bespoke downloader we call CEELOADER. Abuse of multi-factor authentication leveraging push notifications on smartphones. In most instances, post compromise activity included theft of data relevant to Russian interests. In some instances, the data theft appears to be obtained primarily to create new routes to access other victim environments. The threat actors continue to innovate and identify new techniques and tradecraft to maintain persistent access to victim environments, hinder detection, and confuse attribution efforts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/russian-targeting-gov-business"
+        ]
+      },
+      "uuid": "ef8927b4-5d14-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC3004"
+    },
+	{
+      "description": "Mandiant continues to track multiple clusters of suspected Russian intrusion activity that have targeted business and government entities around the globe. Based on our assessment of these activities, we have identified two distinct clusters of activity, UNC3004 and UNC2652. We associate both groups with UNC2452 also referred to as Nobelium by Microsoft. Some of the tactics Mandiant has recently observed include - Compromise of multiple technology solutions, services, and reseller companies since 2020. Use of credentials likely obtained from an info-stealer malware campaign by a third-party actor to gain initial access to organizations. Use of accounts with Application Impersonation privileges to harvest sensitive mail data since Q1 2021. Use of both residential IP proxy services and newly provisioned geo located infrastructure to communicate with compromised victims. Use of novel TTPs to bypass security restrictions within environments including, but not limited to the extraction of virtual machines to determine internal routing configurations. Use of a new bespoke downloader we call CEELOADER. Abuse of multi-factor authentication leveraging push notifications on smartphones. In most instances, post compromise activity included theft of data relevant to Russian interests. In some instances, the data theft appears to be obtained primarily to create new routes to access other victim environments. The threat actors continue to innovate and identify new techniques and tradecraft to maintain persistent access to victim environments, hinder detection, and confuse attribution efforts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/russian-targeting-gov-business"
+        ]
+      },
+      "uuid": "ef892b42-5d14-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: UNC2652"
+    },
+	{
+      "description": "Last week, our FortiGuard Labs team encountered a malware sample that’s currently being distributed in the wild targeting TP-link wireless routers. It leverages a recently post-authenticated RCE vulnerability released barely two weeks prior. As it turns out, it is an updated variant of the MANGA campaign (also known as Dark) that distributes samples based on Mirai’s published source code. This Mirai-based Distributed Denial of Service (DDOS) botnet campaign is one that FortiGuard Labs has been actively monitoring. The campaign originally piqued our interest due to the continuous updating of its list of target vulnerabilities—more so than other campaigns we have seen so far. TP-Link has already released an updated firmware for this affected hardware version  and users are strongly encouraged to update their devices. This post details how this threat leverages the new vulnerability to take over the affected devices and ways to protect users from these attacks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/manga-aka-dark-mirai-based-campaign-targets-new-tp-link-router-rce-vulnerability"
+        ],
+        "synonyms": [
+        "Dark"
+        ]
+      },
+      "uuid": "ef892c82-5d14-11ec-bf63-0242ac130002",
+      "value": "OSRS Actors AND Campaigns: MANGA Campaign"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

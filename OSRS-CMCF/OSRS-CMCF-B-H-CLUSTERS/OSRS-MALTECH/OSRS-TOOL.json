@@ -8256,6 +8256,71 @@
       "value": "OSRS Tool: Gymdrop Dropper"
     },
 	{
+      "description": "Downloader written in C programing language. It supports shellcode payloads that are executed in memory. An obfuscation tool has been used to hide the code in CEELOADER in between large blocks of junk code with meaningless calls to the Windows API. The meaningful calls to the Windows API are hidden within obfuscated wrapper functions that decrypt the name of the API and dynamically resolve it before calling. CEELOADER communicates via HTTP and the C&C response is decrypted using AES-256 in CBC mode. Additionally, the HTTP request contains a statically defined id that may vary from sample to sample. CEELOADER does not contain a persistence mechanism.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/russian-targeting-gov-business"
+        ]
+      },
+      "uuid": "6e0309ec-5d16-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: CEELOADER"
+    },
+	{
+      "description": "The malware is a dropper that unloads other malicious files. These samples may also contact remote servers and upload information collected on the victim's machine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/threat-roundup-1203-1210.html"
+        ]
+      },
+      "uuid": "6e030c30-5d16-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Injuke Dropper"
+    },
+	{
+      "description": "This family is highly malicious and executes other binaries. These samples contact remote servers, upload information collected on the victim's machine and can maintain persistence on the infected machine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/threat-roundup-1203-1210.html"
+        ]
+      },
+      "uuid": "6e030d48-5d16-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Fqnx Loader"
+    },
+	{
+      "description": "This cluster focuses on malware that modifies registry keys and might attempt to download additional files. The sections on the executables are encrypted which might indicate that the samples are protected or compressed with a packer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/threat-roundup-1203-1210.html"
+        ]
+      },
+      "uuid": "6e030e4c-5d16-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Tedy Loader"
+    },
+	{
+      "description": "This cluster focuses on malware that uses Visual Basic to carry out malicious behavior such as downloading additional files, establishing persistence or communicating with a command and control.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2021/12/threat-roundup-1203-1210.html"
+        ]
+      },
+      "uuid": "6e031162-5d16-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Bifj Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

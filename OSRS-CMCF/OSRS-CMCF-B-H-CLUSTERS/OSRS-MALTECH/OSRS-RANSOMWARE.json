@@ -1615,6 +1615,19 @@
       "value": "OSRS Ransomware: ROLLCOAST Ransomware"
     },
 	{
+      "description": "In the past, threat actors have used BazarLoader to deploy Ryuk and Conti ransomware, as reported on many occasions. In this intrusion, however, a BazarLoader infection resulted in deployment of Diavol Ransomware. First discovered in June 2021, by FortiGuard Labs, Diavol Ransomware has been suspected to be linked to the Wizard Spider threat actor. In this report, we observed threat actors deploy multiple Cobalt Strike DLL beacons, perform internal discovery using Windows utilities, execute lateral movement using AnyDesk and RDP, dump credentials multiple ways, exfiltrate data and deploy domain wide ransomware in as little as 32 hours from initial access.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://thedfirreport.com/2021/12/13/diavol-ransomware/"
+        ]
+      },
+      "uuid": "f94cd394-5d15-11ec-bf63-0242ac130002",
+      "value": "OSRS Ransomware: Diavol Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
