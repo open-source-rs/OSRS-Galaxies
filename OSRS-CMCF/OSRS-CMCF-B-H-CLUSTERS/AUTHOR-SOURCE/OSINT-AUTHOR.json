@@ -9875,6 +9875,149 @@
       "value": "OSRS OSINT Author Index: Shmuel Cohen"
     },
 	{
+      "description": "Malware Analyst at Mandiant. United Kingdom.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/lukejenx/?originalSubdomain=uk"
+        ]
+      },
+      "uuid": "78bf886c-5d82-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Luke Jenkins"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/russian-targeting-gov-business"
+        ]
+      },
+      "uuid": "78bf8aba-5d82-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Sarah Hawley"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity company Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/russian-targeting-gov-business"
+        ]
+      },
+      "uuid": "78bf8bbe-5d82-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Doug Bienstock"
+    },
+	{
+      "description": "Director, Threat Analysis Group, Google Security. Mountain View, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/shanehuntley/"
+        ]
+      },
+      "uuid": "78bf8ca4-5d82-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Shane Huntley"
+    },
+	{
+      "description": "Security Engineer at Google. Switzerland.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/luca-nagy/?originalSubdomain=ch"
+        ]
+      },
+      "uuid": "78bf8d94-5d82-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Luca Nagy"
+    },
+	{
+      "description": "Senior Threat Intelligence Analyst at Proofpoint. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/crista-g-b82013174/"
+        ]
+      },
+      "uuid": "7c77338c-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Crista Giering"
+    },
+	{
+      "description": "Threat Researcher at Proofpoint. San Antonio, Texas Metropolitan Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/eric-koeppen-64b2a969/"
+        ]
+      },
+      "uuid": "7c773652-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Eric Koeppen"
+    },
+	{
+      "description": "Security Researcher at McAfee. Bangalore Urban, Karnataka, India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/lakshya-mathur-02/?originalSubdomain=in"
+        ]
+      },
+      "uuid": "7c77376a-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Lakshya Mathur"
+    },
+	{
+      "description": "Threat Researcher. Singapore.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/joie-salvio-04b28461/?originalSubdomain=sg"
+        ]
+      },
+      "uuid": "7c773850-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Joie Salvio"
+    },
+	{
+      "description": "IPS Analyst. Security Researcher. Santa Clara, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/xiaopeng-zhang-21263491/"
+        ]
+      },
+      "uuid": "7c773e36-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Xiaopeng Zhang"
+    },
+	{
+      "description": "Chief Research Officer at Morphus Labs. Greater Fortaleza.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/renatomarinho/?originalSubdomain=br"
+        ]
+      },
+      "uuid": "7c773f3a-5d83-11ec-bf63-0242ac130002",
+      "value": "OSRS OSINT Author Index: Renato Marinho"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
