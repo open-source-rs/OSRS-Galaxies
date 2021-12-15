@@ -8321,6 +8321,71 @@
       "value": "OSRS Tool: Bifj Loader"
     },
 	{
+      "description": "A tool that can dump passwords from Firefox.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "a5da37be-5d93-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: GrabFF"
+    },
+	{
+      "description": "A tool that can dump passwords from Chrome.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "a5da39ee-5d93-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: GrabChrome"
+    },
+	{
+      "description": "A tool that can dump passwords from Internet Explorer and a number of other browsers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "a5da3b06-5d93-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: BrowserPassView"
+    },
+	{
+      "description": "A PowerShell script to copy the master key from KeePass.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "a5da3c00-5d93-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: KeeThief"
+    },
+	{
+      "description": "Trojan used in conjunction with the delivery of Yanluowang ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue"
+        ]
+      },
+      "uuid": "a5da3cdc-5d93-11ec-bf63-0242ac130002",
+      "value": "OSRS Tool: Veeamp Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
