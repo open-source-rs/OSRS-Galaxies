@@ -1596,6 +1596,45 @@
       "value": "OSRS Backdoor: Ermac Backdoor"
     },
 	{
+      "description": "This malware family was active mainly in Mexico until the beginning of 2020. We were able to identify additional builds, each dedicated to target a different country – Brazil, Chile and Colombia. The most identifying feature of Lokorrito is its usage of a custom User-Agent string in network communication. We have observed two values – LA CONCHA DE TU MADRE and 4RR0B4R 4 X0T4 D4 TU4 M4E, both quite vulgar expressions in Spanish and Portuguese, respectively.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/12/15/dirty-dozen-latin-america-amavaldo-zumanek/"
+        ]
+      },
+      "uuid": "57229a46-7add-11ec-90d6-0242ac120003",
+      "value": "OSRS Backdoor: Lokorrito Backdoor"
+    },
+	{
+      "description": "Malware targeting multiple operating systems has become no exception in the malware threat landscape. Vermilion Strike, which was documented just last September, is among the latest examples until now. In December 2021, we discovered a new multi-platform backdoor that targets Windows, Mac, and Linux. The Linux and Mac versions are fully undetected in VirusTotal. We named this backdoor SysJoker. SysJoker was first discovered during an active attack on a Linux-based web server of a leading educational institution. After further investigation, we found that SysJoker also has Mach-O and Windows PE versions. Based on Command and Control (C2) domain registration and samples found in VirusTotal, we estimate that the SysJoker attack was initiated during the second half of 2021. SysJoker masquerades as a system update and generates its C2 by decoding a string retrieved from a text file hosted on Google Drive. During our analysis the C2 changed three times, indicating the attacker is active and monitoring for infected machines. Based on victimology and malware’s behavior, we assess that SysJoker is after specific targets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/"
+        ]
+      },
+      "uuid": "57229e1a-7add-11ec-90d6-0242ac120003",
+      "value": "OSRS Backdoor: SysJoker Backdoor"
+    },
+	{
+      "description": "With the emergence of the Log4j security vulnerability, we’ve already seen multiple threat actors, mostly financially motivated, immediately add it to their exploitation arsenal. It comes as no surprise that some nation-sponsored actors also saw this new vulnerability as an opportunity to strike before potential targets have identified and patched the affected systems. APT35 (aka Charming Kitten, TA453, or Phosphorus), which is suspected to be an Iranian nation-state actor, started widespread scanning and attempts to leverage Log4j flaw in publicly facing systems only four days after the vulnerability was disclosed. The actor’s attack setup was obviously rushed, as they used the basic open-source tool for the exploitation and based their operations on previous infrastructure, which made the attack easier to detect and attribute. In this article, we share the details of the latest attacks by APT35 exploiting the Log4j vulnerability and analyze their post-exploitation activities including the new modular PowerShell-based framework dubbed CharmPower, used to establish persistence, gather information, and execute commands.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/"
+        ]
+      },
+      "uuid": "5722a1f8-7add-11ec-90d6-0242ac120003",
+      "value": "OSRS Backdoor: CharmPower Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

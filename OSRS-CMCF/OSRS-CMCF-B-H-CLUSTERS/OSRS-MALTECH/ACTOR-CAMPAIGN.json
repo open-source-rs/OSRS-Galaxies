@@ -3717,6 +3717,32 @@
       "value": "OSRS Actors AND Campaigns: MANGA Campaign"
     },
 	{
+      "description": "Cluster25 analyzed a recent attack linked to the North Korean APT group “Konni” targeting Russian diplomatic sector using a spear phishing theme for New Year's Eve festivities as lure. Once the malicious email attachment is opened and executed, a chain composed by multiple stages is triggered, allowing actor to install an implant belonging to the Konni RAT family as final payload.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cluster25.io/wp-content/uploads/2022/01/Konni_targeting_Russian_diplomatic_sector.pdf"
+        ]
+      },
+      "uuid": "a99387c8-7adc-11ec-90d6-0242ac120003",
+      "value": "OSRS Actors AND Campaigns: Konni Threat Group"
+    },
+	{
+      "description": "Microsoft Threat Intelligence Center (MSTIC) has identified evidence of a destructive malware operation targeting multiple organizations in Ukraine. This malware first appeared on victim systems in Ukraine on January 13, 2022. Microsoft is aware of the ongoing geopolitical events in Ukraine and surrounding region and encourages organizations to use the information in this post to proactively protect from any malicious activity. While our investigation is continuing, MSTIC has not found any notable associations between this observed activity, tracked as DEV-0586, and other known activity groups. MSTIC assesses that the malware, which is designed to look like ransomware but lacking a ransom recovery mechanism, is intended to be destructive and designed to render targeted devices inoperable rather than to obtain a ransom.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/"
+        ]
+      },
+      "uuid": "a99389f8-7adc-11ec-90d6-0242ac120003",
+      "value": "OSRS Actors AND Campaigns: DEV-0586 Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
