@@ -3743,6 +3743,33 @@
       "value": "OSRS Actors AND Campaigns: DEV-0586 Threat Group"
     },
 	{
+      "description": "Since mid-2021, we have been investigating a rather elusive threat actor called Earth Lusca that targets organisations globally via a campaign that uses traditional social engineering techniques such as spear phishing and watering holes. The group’s primary motivation seems to be cyberespionage: the list of its victims includes high value targets such as government and educational institutions, religious movements, pro-democracy and human rights organisations in Hong Kong, Covid-19 research organisations, and the media, amongst others. However, the threat actor also seems to be financially motivated, as it also took aim at gambling and cryptocurrency companies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/"
+        ]
+      },
+      "uuid": "ebbb2fd4-7f6e-11ec-a8a3-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Earth Lusca Threat Group"
+    },
+	{
+      "description": "On Saturday January 15th, Microsoft released a blog titled Destructive malware targeting Ukrainian organizations. Microsoft’s blog outlines an ongoing attack against organisations in Ukraine by a currently-unknown threat actor and provides a detailed analysis of the malware samples involved. We have provided additional resources below that may be of use to those responding or investigating the attacks. In summary, the malware deployed in this campaign blocks access to computing systems by corrupting the Master Boot Record (MBR) section of the hard drive. The MBR is overwritten with a ransom note, such as those commonly seen in ransomware attacks, preventing the machine from booting and resulting in the corruption of files stored on the filesystem. However, as Microsoft notes, there is no recovery mechanism for the corrupted MBR, suggesting the ransom note is fake. This means the malware is likely masquerading as ransomware to hide its true capabilities or foil attribution attempts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.cadosecurity.com/resources-for-dfir-professionals-responding-to-whispergate-malware/",
+		  "https://github.com/cado-security/DFIR_Resources_Whispergate"
+        ]
+      },
+      "uuid": "ebbb3222-7f6e-11ec-a8a3-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation WhisperGate"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

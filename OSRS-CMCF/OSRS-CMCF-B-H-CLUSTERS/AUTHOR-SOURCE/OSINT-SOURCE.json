@@ -3880,6 +3880,71 @@
       "value": "OSRS OSINT Source: Mandiant Threat Research Blog"
     },
 	{
+      "description": "Cybersecurity solution provider.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "http://www.rising.com.cn/"
+        ]
+      },
+      "uuid": "4935ac34-7f79-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Source: Rising Cybersecurity"
+    },
+	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://geminiadvisory.io/"
+        ]
+      },
+      "uuid": "4935ae64-7f79-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Source: Gemini Advisory"
+    },
+	{
+      "description": "Independent cybersecurity research blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.bushidotoken.net/"
+        ]
+      },
+      "uuid": "4935b0a8-7f79-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Source: @BushidoToken Threat Intel"
+    },
+	{
+      "description": "Cybersecurity research group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://blog.scarletshark.com/"
+        ]
+      },
+      "uuid": "4935b1ca-7f79-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Source: Scarlet Shark"
+    },
+	{
+      "description": "QI-ANXIN Technology Group Inc. (hereinafter referred to as QI-ANXIN, stock code 688561) was founded in 2014 and specializes in serving the cybersecurity market by offering next generation enterprise-class cybersecurity products and services to government and businesses. With its continuous commitment to R&D innovation and security capabilities centered on actual offensive and defensive, the company has grown to be a domestic leading cybersecurity provider with its strength built on big data, artificial intelligence and security operation technology. QI-ANXIN is the Official Cyber Security Services and Anti-Virus Software Sponsor of the Olympic and Paralympic Winter Games Beijing 2022. The company has also established business presence outside Chinese mainland, such as in Hongkong, Indonesia, Singapore, Canada etc.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://en.qianxin.com/about/#introduction"
+        ]
+      },
+      "uuid": "4935b2e2-7f79-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Source: Qi Anxin Threat Intelligence Center"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

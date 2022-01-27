@@ -1628,6 +1628,52 @@
       "value": "OSRS Ransomware: Diavol Ransomware"
     },
 	{
+      "description": "SFile, also known as Escal, first appeared in 2020, mainly for the Windows platform. Some variants of the ransomware are also used to attach the English name of the target company to the suffix of the encrypted file. For example, the variant captured this time uses nuctech-gj0okyci (nuctech is the English name of Nuctech Technology Co., Ltd.) as the suffix name. Recently, Rising captured the Linux platform variant of the ransomware. This variant provides some command-line-based parameter policy support. The encrypted file adopts the RSA+AES algorithm mode, and the encrypted file cannot be decrypted temporarily without the RSA private key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "http://it.rising.com.cn/fanglesuo/19851.html"
+        ],
+        "synonyms": [
+        "Escal Ransomware"
+        ]
+      },
+      "uuid": "1ebf2efc-7f70-11ec-a8a3-0242ac120002",
+      "value": "OSRS Ransomware: SFile Ransomware"
+    },
+	{
+      "description": "One of the most notable aspects of White Rabbit’s attack is how its payload binary requires a specific command-line password to decrypt its internal configuration and proceed with its ransomware routine. This method of hiding malicious activity is a trick that the ransomware family Egregor uses to hide malware techniques from analysis. White Rabbit’s payload is inconspicuous at first glance, being a small file of around 100 KB with no notable strings and seemingly no activity. The telltale sign of its malicious origin is the presence of strings for logging, but the actual behavior would not be easily observed without the correct password.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html"
+        ]
+      },
+      "uuid": "1ebf3104-7f70-11ec-a8a3-0242ac120002",
+      "value": "OSRS Ransomware: White Rabbit Ransomware"
+    },
+	{
+      "description": "BlackCat (aka AlphaVM, AlphaV) is a newly established RaaS (Ransomware as a Service) with payloads written in Rust. While BlackCat is not the first ransomware written in the Rust language, it joins a small (yet growing) sliver of the malware landscape making use of this popular cross-platform language. First appearing in late November, BlackCat has reportedly been attacking targets in multiple countries, including Australia, India and the U.S, and demanding ransoms in the region of $400,000 to $3,000,000 in Bitcoin or Monero. In order to attract affiliates, the authors behind BlackCat have been heavily marketing their services in well-known underground forums. BlackCat operators maintain a victim blog as is standard these days. The blog hosts company names and any data leaked in the event that the victims do not agree to cooperate. Current data indicates primary delivery of BlackCat is via 3rd party framework/toolset (e.g., Cobalt Strike) or via exposed (and vulnerable) applications. BlackCat currently supports both Windows and Linux operating systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/blackcat-ransomware-highly-configurable-rust-driven-raas-on-the-prowl-for-victims/"
+        ],
+        "synonyms": [
+        "AlphaVM",
+        "AlphaV"
+        ]
+      },
+      "uuid": "1ebf3226-7f70-11ec-a8a3-0242ac120002",
+      "value": "OSRS Ransomware: BlackCat Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

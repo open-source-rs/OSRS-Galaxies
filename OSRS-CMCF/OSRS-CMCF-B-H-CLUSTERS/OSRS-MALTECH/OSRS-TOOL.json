@@ -8386,6 +8386,210 @@
       "value": "OSRS Tool: Veeamp Trojan"
     },
 	{
+      "description": "Owowa is a C#-developed .NET v4.0 assembly that is intended to be loaded as a module within an IIS web server that also exposes Exchange’s Outlook Web Access (OWA). When loaded this way, Owowa will steal credentials that are entered by any user in the OWA login page, and will allow a remote operator to run commands on the underlying server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/owowa-credential-stealer-and-remote-access/105219/"
+        ]
+      },
+      "uuid": "702e871e-7f71-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Owowa Stealer"
+    },
+	{
+      "description": "This malware family was active in Brazil until the middle of 2019. Its most noticeable characteristic was its usage of well-known cryptographic methods to encrypt strings, as opposed to the majority of Latin American banking trojans that mainly use custom encryption schemes, some of which are shared across these families. We have observed Krachulka variants using AES, RC2, RC4, 3DES and a slightly customized variant of Salsa20. Krachulka, despite being written in Delphi like most other Latin American banking trojans, was distributed by a downloader written in the Go programming language – another unique characteristic among this kind of banking malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/12/15/dirty-dozen-latin-america-amavaldo-zumanek/"
+        ]
+      },
+      "uuid": "702e896c-7f71-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Krachulka Banking Trojan"
+    },
+	{
+      "description": "This malware family was active mainly in Mexico until the beginning of 2020. We were able to identify additional builds, each dedicated to target a different country – Brazil, Chile and Colombia. The most identifying feature of Lokorrito is its usage of a custom User-Agent string in network communication. We have observed two values – LA CONCHA DE TU MADRE and 4RR0B4R 4 X0T4 D4 TU4 M4E, both quite vulgar expressions in Spanish and Portuguese, respectively.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/12/15/dirty-dozen-latin-america-amavaldo-zumanek/"
+        ]
+      },
+      "uuid": "702e8a98-7f71-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Lokorrito Banking Trojan"
+    },
+	{
+      "description": "This malware family was active exclusively in Brazil until the middle of 2020. It was the first Latin American banking trojan malware family ESET identified. In fact, ESET analyzed one variant in 2018 here (in Portuguese). Zumanek is identified by its method for obfuscating strings. It creates a function for each character of the alphabet and then concatenates the result of calling the correct functions in sequence. Interestingly, Zumanek never utilized any complicated payload execution methods. Its downloaders simply downloaded a ZIP archive containing only the banking trojan executable, usually named drive2. The executable was very often protected by either the VMProtect or Armadillo packer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/12/15/dirty-dozen-latin-america-amavaldo-zumanek/"
+        ]
+      },
+      "uuid": "702e8dc2-7f71-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Zumanek Banking Trojan"
+    },
+	{
+      "description": "Loader variant of the Zumanek Banking Trojan.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2021/12/15/dirty-dozen-latin-america-amavaldo-zumanek/"
+        ]
+      },
+      "uuid": "702e8eda-7f71-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Zumanek Downloader"
+    },
+	{
+      "description": "Recently, we have watched another malware campaign targeting users of Android mobile devices. The malicious application imitates the application of the PKO BP bank - IKO. After the analysis, it turned out that the attacks use the Coper banking Trojan, which was seen for the first time in Poland.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cert.pl/posts/2021/12/aktywacja-aplikacji-iko/"
+        ]
+      },
+      "uuid": "751d911e-7f73-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Coper Banking Trojan"
+    },
+	{
+      "description": "We identified what we believe is a new variant of the BADNEWS RAT called Ragnatela being distributed via spear phishing emails to targets of interest in Pakistan. Ragnatela, which means spider web in Italian, is also the project name and panel used by Patchwork APT. It features the following capabilities - executing commands via cmd, capturing screenshots, logging keystrokes, collecting list of all the files in victim’s machine, collecting list of the running, applications in the victim’s machine at a specific time periods, downing addition payloads, and uploading files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/"
+        ]
+      },
+      "uuid": "751d9394-7f73-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Ragnatela RAT"
+    },
+	{
+      "description": "Hackers targeted cybersecurity researchers and developers this week in a sophisticated malware campaign distributing a malicious version of the dnSpy .NET application to install cryptocurrency stealers, remote access trojans, and miners. dnSpy is a popular debugger and .NET assembly editor used to debug, modify, and decompile .NET programs. Cybersecurity researchers commonly use this program when analyzing .NET malware and software. While the software is no longer actively developed by the initial developers, the original source code and a new actively developed version is available on GitHub to be cloned and modified by anyone.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/trojanized-dnspy-app-drops-malware-cocktail-on-researchers-devs/"
+        ]
+      },
+      "uuid": "751d95ba-7f73-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: dnSpy Trojan"
+    },
+	{
+      "description": "APT36, also known as Earth Karkaddan, a politically motivated advanced persistent threat (APT) group, has historically targeted Indian military and diplomatic resources. This APT group (also referred to as Operation C-Major, PROJECTM, Mythic Leopard, and Transparent Tribe) has been known to use social engineering and phishing lures as an entry point, after which, it deploys the Crimson RAT malware to steal information from its victims. In late 2021, we saw the group leverage CapraRAT, an Android RAT with clear similarities in design to the group’s favored Windows malware, Crimson RAT. It is interesting to see the degree of crossover in terms of function names, commands, and capabilities between the tools, which we cover in more detail in our technical brief, Earth Karkaddan APT.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html"
+        ]
+      },
+      "uuid": "751d96f0-7f73-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: CapraRAT"
+    },
+	{
+      "description": "Proofpoint identified a malware packer which researchers have dubbed DTPacker. The payload decoding uses a fixed password containing former U.S. president Donald Trump’s name. For several weeks the downloader variant used Liverpool Football Club themed download locations. The malware is typically used to pack remote access trojans that can be used to steal information and load follow-on payloads such as ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/dtpacker-net-packer-curious-password-1"
+        ]
+      },
+      "uuid": "751d9808-7f73-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: DTPacker"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+      "description": "The first payload in this infection is responsible for the initial attempt at wiping the systems. The malware executable wipes the master boot record (MBR) and replaces it with the code responsible for displaying the ransom note. Similar to the notorious NotPetya wiper that masqueraded as ransomware during its 2017 campaign, WhisperGate is not intended to be an actual ransom attempt, since the MBR is completely overwritten and has no recovery options. This wiper also tries to destroy the C partition by overwriting it with fixed data. The additional steps taken to wipe the actual hard drive partition differentiate its behavior from other wiper malware like NotPetya. However, most modern systems today have switched to GUID Partition Table (GPT) from MBR, which allows for larger file systems and has fewer limitations, potentially limiting some of the impacts of this executable. As a result, there were additional stages and additional payloads that could inflict more damage to end systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/01/ukraine-campaign-delivers-defacement.html"
+        ]
+      },
+      "uuid": "6323013c-7f74-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: MBR Wiper"
+    },
+	{
+      "description": "The inspected UEFI firmware was tampered with to embed a malicious code that we dub MoonBounce. Due to its emplacement on SPI flash which is located on the motherboard instead of the hard disk, the implant is capable of persisting in the system across disk formatting or replacement. The purpose of the implant is to facilitate the deployment of user-mode malware that stages execution of further payloads downloaded from the internet. The infection chain itself does not leave any traces on the hard drive, as its components operate in memory only, thus facilitating a fileless attack with a small footprint. We detected other non-UEFI implants in the targeted network that communicated with the same infrastructure which hosted the the stager’s payload.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/"
+        ]
+      },
+      "uuid": "6323036c-7f74-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: MoonBounce Downloader"
+    },
+	{
+      "description": "StealthVector gets loaded through the introduction of a modified benign system DLL, in which the import address table is patched to append the malware’s DLL as a dependency.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/"
+        ]
+      },
+      "uuid": "63230498-7f74-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: StealthVector Loader"
+    },
+	{
+      "description": "StealthMutant is launched in one of two ways, which were partially described in other reports as well. The first way is by executing a launcher utility with the filename System.Mail.Service.dll through the command line as a service. The launching utility in turn uses the .NET InstallUtil.exe application in order to execute the StealthMutant image, which has the filename Microsoft.Service.Watch.targets, and providing it with the encrypted ScrambleCross shellcode as an argument from a file named MstUtil.exe.config. The utility itself is a basic C++ program. The second way to execute StealthMutant is through the creation of a scheduled task via a Windows batch script file named schtask.bat.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/"
+        ]
+      },
+      "uuid": "632305ba-7f74-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: StealthMutant Loader"
+    },
+	{
+      "description": "Mimikat_ssp is a publicly available post-exploitation tool used to dump credentials and security secrets from exe, also used widely by various Chinese-speaking actors (e.g. GhostEmperor).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/"
+        ]
+      },
+      "uuid": "63230952-7f74-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: Mimikat_ssp Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

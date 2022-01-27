@@ -1012,6 +1012,19 @@
       "value": "OSRS Botnet: EwDoor Botnet"
     },
 	{
+      "description": "While monitoring the distribution sites of domestically collected malicious codes, the ASEC analysis team confirmed that the DDoS IRC bot malicious codes developed in Go language were being installed through webhards disguised as adult games. Webhard is a representative platform used to distribute malicious codes in the domestic environment, and there have been cases of distributing njRAT or UDP Rat in the past.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/30707/"
+        ]
+      },
+      "uuid": "80b6b04a-7f6f-11ec-a8a3-0242ac120002",
+      "value": "OSRS Botnet: DDoS IRC Bot"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

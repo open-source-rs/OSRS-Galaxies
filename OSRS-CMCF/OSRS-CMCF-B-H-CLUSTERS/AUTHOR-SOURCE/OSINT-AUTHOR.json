@@ -10018,6 +10018,162 @@
       "value": "OSRS OSINT Author Index: Renato Marinho"
     },
 	{
+      "description": "Malware Analyst at Check Point Software Technologies, Ltd. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/golan-cohen/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "4a1ec926-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Golan Cohen"
+    },
+	{
+      "description": "Security Researcher. Tel Aviv-Yafo, Tel Aviv, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/dornizar/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "4a1ecb74-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Dor Nizar"
+    },
+	{
+      "description": "Cyber Security Consultant & Expert. Ben-Gurion University of the Negev, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/roy-moshailov-796652135/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "4a1eccb4-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Roy Moshailov"
+    },
+	{
+      "description": "Security Researcher at CrowdStrike. India.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/luftatako-anmol/?originalSubdomain=in"
+        ]
+      },
+      "uuid": "4a1ecdc2-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Anmol Maurya"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Kaspersky.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/vitalykamluk/?originalSubdomain=sg"
+        ]
+      },
+      "uuid": "4a1eced0-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Vitaly Kamluk"
+    },
+	{
+      "description": "Generic blog pen name used by the cybersecurity company Rising.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "http://www.rising.com.cn/"
+        ]
+      },
+      "uuid": "4a1ecfd4-7f76-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Rising Cybersecurity"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Netscope.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.netskope.com/blog/abusing-microsoft-office-using-malicious-web-archive-files"
+        ]
+      },
+      "uuid": "352fb74a-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Gustavo Palazolo"
+    },
+	{
+      "description": "Generic blog pen name used by the cybersecurity company Gemini Advisory.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://geminiadvisory.io/"
+        ]
+      },
+      "uuid": "352fbb78-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Gemini Advisory Researchers"
+    },
+	{
+      "description": "Independent cybersecurity researcher.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.bushidotoken.net/"
+        ]
+      },
+      "uuid": "352fbca4-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: BushidoToken"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Skarlet Shark.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.scarletshark.com/perswaysion-threat-actor-updates-their-techniques-and-infrastructure-e9465157a653"
+        ]
+      },
+      "uuid": "352fbdc6-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Alec Dhuse"
+    },
+	{
+      "description": "Generic blog pen name used by the cybersecurity company Qi Anxin Threat Intelligence Center.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://en.qianxin.com/about/#introduction"
+        ]
+      },
+      "uuid": "352fbede-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Qi'anxin Red Raindrop Team"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Net Lab 360.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/public-cloud-threat-intelligence-202112/"
+        ]
+      },
+      "uuid": "352fc000-7f77-11ec-a8a3-0242ac120002",
+      "value": "OSRS OSINT Author Index: Rugang Chen"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
