@@ -8590,6 +8590,24 @@
       "value": "OSRS Tool: Mimikat_ssp Stealer"
     },
 	{
+      "description": "RAT used by threat actor FIN7.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://geminiadvisory.io/fin7-flash-drives-spread-remote-access-trojan/"
+        ],
+        "synonyms": [
+        "Lizar",
+        "Tirion",
+		"Diceloader"
+        ]
+      },
+      "uuid": "aa464af6-82ad-11ec-a8a3-0242ac120002",
+      "value": "OSRS Tool: IceBot RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
