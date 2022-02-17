@@ -1661,6 +1661,19 @@
       "value": "OSRS Backdoor: DazzleSpy Backdoor"
     },
 	{
+      "description": "The main custom backdoor used by Antlion in this campaign was the xPack backdoor, which is a custom .NET loader that decrypts (AES), loads, and executes accompanying .bin files. Its decryption password is provided as a command-line argument (Base64 encoded string), and xPack is intended to be run as a standalone application or as a service (xPackSvc variant). The xPack malware and its associated payload seems to be used for initial access it appears that xPack was predominantly used to execute system commands, drop subsequent malware and tools, and stage data for exfiltration. The attackers also used a custom keylogger and three custom loaders.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/china-apt-antlion-taiwan-financial-attacks"
+        ]
+      },
+      "uuid": "4984e0ae-9006-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: xPack Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

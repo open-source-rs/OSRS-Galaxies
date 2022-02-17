@@ -3945,6 +3945,33 @@
       "value": "OSRS OSINT Source: Qi Anxin Threat Intelligence Center"
     },
 	{
+      "description": "Trellix was a software company whose products allowed web users to set up personal websites with the use of online publishing tools. Located in Concord, Massachusetts, the company was founded in 1997 and was purchased by Interland in 2003. In March, 2004 Interland closed the Trellix subsidiary.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://en.wikipedia.org/wiki/Trellix_(1995%E2%80%932004)",
+		  "https://www.trellix.com/en-gb/index.html"
+        ]
+      },
+      "uuid": "78628b68-9026-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: Trellix"
+    },
+	{
+      "description": "Cybersecurity blog provided by the retailer Walmart.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://medium.com/walmartglobaltech"
+        ]
+      },
+      "uuid": "78628d5c-9026-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: Walmart Global Tech Cybersecurity Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

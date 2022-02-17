@@ -1674,6 +1674,19 @@
       "value": "OSRS Ransomware: BlackCat Ransomware"
     },
 	{
+      "description": "An actor recently has been starting up a RaaS solution that appears to primarily focus on individual computers instead of entire enterprises but is also reusing objects from other ransomware families. Not a lot has been discussed about this ransomware but we did find a tweet mentioning one of the samples during our research.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb"
+        ]
+      },
+      "uuid": "4984e2a2-9006-11ec-b909-0242ac120002",
+      "value": "OSRS Ransomware: Sugar Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

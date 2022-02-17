@@ -8608,6 +8608,162 @@
       "value": "OSRS Tool: IceBot RAT"
     },
 	{
+      "description": "Android trojan that steals user and device information.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/a/tianyspy-malware-uses-smishing-disguised-as-message-from-telco.html"
+        ]
+      },
+      "uuid": "cb6a5e7c-9020-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: TianySpy"
+    },
+	{
+      "description": "Spyware loaded by TianySpy Android Trojan.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/a/tianyspy-malware-uses-smishing-disguised-as-message-from-telco.html"
+        ]
+      },
+      "uuid": "cb6a60b6-9020-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: KeepSpy"
+    },
+	{
+      "description": "The infection chain starts with the execution of an Excel downloader, most likely sent to the victim via email, which exploits an MSHTML remote code execution vulnerability (CVE-2021-40444) to execute a malicious executable in memory. The attack uses a follow-up piece of malware called Graphite because it uses Microsoft’s Graph API to leverage OneDrive as a command and control server—a technique our team has not seen before. Furthermore, the attack was split into multiple stages to stay as hidden as possible.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+        ]
+      },
+      "uuid": "cb6a6200-9020-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Graphite Loader"
+    },
+	{
+      "description": "TrailBlazer is a sophisticated malware family that provides modular functionality and a very low prevalence. The malware shares high-level functionality with other malware families. In particular, the use of random identifier strings for C2 operations and result codes, and attempts to hide C2 communications in seemingly legitimate web traffic, were previously observed tactics, techniques and procedures (TTPs) in GoldMax and SUNBURST. TrailBlazer persists on a compromised host using WMI event subscriptions — a technique also used by SeaDuke — although this persistence mechanism is not exclusive to COZY BEAR.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/"
+        ]
+      },
+      "uuid": "cb6a6570-9020-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: TrailBlazer Implant"
+    },
+	{
+      "description": "Researchers at Cado Security recently discovered a new malware campaign targeting Asian Cloud Service Providers (CSPs). This malware, which we’ve since named CoinStomp, is comprised of a family of shell scripts that attempt to exploit cloud compute instances hosted by these CSPs for the purpose of mining cryptocurrency. While this form of crpytojacking attack is commonplace these days, CoinStomp makes use of some interesting techniques and even references a prior campaign.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cadosecurity.com/coinstomp-malware-family-targets-asian-cloud-service-providers/"
+        ]
+      },
+      "uuid": "cb6a66a6-9020-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: CoinStomp Cryptominer"
+    },
+	{
+      "description": "Our discovery and analysis of a sophisticated Mac trojan in October exposed a year-long evolution of a malware family—and depicts the rising complexity of threats across platforms. The trojan, tracked as UpdateAgent, started as a relatively basic information-stealer but was observed distributing secondary payloads in the latest campaign, a capability that it added in one of its multiple iterations. Reminiscent of the progression of info-stealing trojans in other platforms, UpdateAgent may similarly become a vector for other threats to infiltrate target systems. Since its first appearance in September 2020, the malware displayed an increasing progression of sophisticated capabilities, and while the latest two variants were sporting much more refined behavior compared with earlier versions, they show signs that the malware is still in the development stage and more updates are likely to come. The latest campaign saw the malware installing the evasive and persistent Adload adware, but UpdateAgent’s ability to gain access to a device can theoretically be further leveraged to fetch other, potentially more dangerous payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/"
+        ]
+      },
+      "uuid": "35febdee-9023-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: UpdateAgent Stealer"
+    },
+	{
+      "description": "MSTIC has also reviewed several variants of ACTINIUM’s more fully-featured Pterodo malware. A couple of features play a direct role in this malware’s ability to evade detection and thwart analysis its use of a dynamic Windows function hashing algorithm to map necessary API components, and an on-demand scheme for decrypting needed data and freeing allocated heap space when used. The function hashing algorithm is used to map a hash value of a given function name to its corresponding location in memory using a process known as Run-Time Dynamic Linking. Pre-computed hashes are passed to the hashing algorithm alongside the Windows library containing the related function name. Each function name within the library is hashed, when a match is found, its address is saved.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/"
+        ]
+      },
+      "uuid": "35fec032-9023-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Pterodo Downloader"
+    },
+	{
+      "description": "The QuietSieve malware family refers to a series of heavily-obfuscated .NET binaries specifically designed to steal information from the target host. Before enumerating target files on the host, QuietSieve first checks for connectivity by sending a test ping to 8.8.8.8 (Google public DNS). The creation of the buffer for the ICMP request is done manually within QuietSieve and contains all null values for the 32-byte data portion of the ICMP packet. If this check succeeds, a randomly-generated alphanumeric prefix is created and combined with the callback domain as a subdomain before an initial request is made over HTTPS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/"
+        ]
+      },
+      "uuid": "35fec15e-9023-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: QuietSieve Stealer"
+    },
+	{
+      "description": "The ASEC analysis team has caught the situation where the PseudoManuscrypt malware is being distributed in Korea from around May 2021 to the present. The PseudoManuscrypt malware is disguised as an installation file similar to the Cryptbot malware introduced on the ASEC blog, and is exposed to the top when searching for illegal programs related to commercial software such as Crack and Keygen in search engines as well as the file type. The method of distributing it through malicious sites is the same as that of Cryptbot.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/31166/"
+        ]
+      },
+      "uuid": "35fec280-9023-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: PseudoManuscrypt Loader"
+    },
+	{
+      "description": "Pay-per-install (PPI) malware services have been an integral part of the cybercrime ecosystem for a considerable amount of time. A malware operator provides payment, malicious payloads and targeting information, and those responsible for running the service outsource the distribution and delivery. The accessibility and moderate costs allow malware operators to leverage these services as another weapon for rapid, bulk and geo-targeted malware infections. By understanding how these services proliferate, defenders can better recognize these campaigns and stop them from wreaking havoc on their organization’s IT stack. This report focuses on the PrivateLoader modular downloader programmed in the C++ programming language connected to an unidentified PPI service. PrivateLoader sits at the front of this operation and communicates with its back-end infrastructure to retrieve URLs for the malicious payloads to install on the infected host. As is the case with downloaders tied to PPI services, PrivateLoader communicates a variety of statistics such as which payloads were downloaded and launched successfully.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://intel471.com/blog/privateloader-malware"
+        ]
+      },
+      "uuid": "35fec398-9023-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: PrivateLoader Downloader"
+    },
+	{
+      "description": "Each variant of TA402's attack chain led to a RAR file containing one or multiple malicious compressed executables. These executables include a TA402 implant Proofpoint dubbed NimbleMamba and oftentimes an additional trojan Proofpoint named BrittleBush. NimbleMamba is almost certainly meant to replace LastConn, which Proofpoint reported about in June 2021. LastConn was likely an updated version of the SharpStage malware, reported by Cybereason in December 2020. While NimbleMamba and LastConn have some similarities, such as being written in C#, base64 encoding within the C2 framework, and use of the Dropbox API for C2 communication, there appears to be little code overlap between the two. NimbleMamba uses guardrails to ensure that all infected victims are within TA402's target region. NimbleMamba uses the Dropbox API for both command and control as well as exfiltration. The malware also contains multiple capabilities designed to complicate both automated and manual analysis. Based on this, Proofpoint assesses NimbleMamba is actively being developed, is well-maintained, and designed for use in highly targeted intelligence collection campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ugg-boots-4-sale-tale-palestinian-aligned-espionage"
+        ]
+      },
+      "uuid": "bab4658c-9025-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: NimbleMamba Implant"
+    },
+	{
+      "description": "Later versions of the RAR files that deliver NimbleMamba also included a small trojan application Proofpoint dubbed BrittleBush. This trojan communicated with easyuploadservice.com and received commands as base64 encoded JSON structure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ugg-boots-4-sale-tale-palestinian-aligned-espionage"
+        ]
+      },
+      "uuid": "bab46a50-9025-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: BrittleBush Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

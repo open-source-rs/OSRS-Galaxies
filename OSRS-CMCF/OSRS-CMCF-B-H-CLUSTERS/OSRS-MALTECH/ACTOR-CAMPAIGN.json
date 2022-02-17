@@ -3770,6 +3770,117 @@
       "value": "OSRS Actors AND Campaigns: Operation WhisperGate"
     },
 	{
+      "description": "The Russia-linked Shuckworm group (aka Gamaredon, Armageddon) is continuing to conduct cyber-espionage attacks against targets in Ukraine. Over the course of recent months, Symantec’s Threat Hunter Team, a part of Broadcom Software, has found evidence of attempted attacks against a number of organizations in the country. Active since at least 2013, Shuckworm specializes in cyber-espionage campaigns mainly against entities in Ukraine. The group is known to use phishing emails to distribute either freely available remote access tools, including Remote Manipulator System (RMS) and UltraVNC, or customized malware called Pterodo or Pteranodon to targets. A recent report published by The Security Service of Ukraine (SSU) noted that Shuckworm’s attacks have grown in sophistication in recent times, with attackers now using living-off-the-land tools to steal credentials and move laterally on victim networks. Recent activity seen by Symantec is consistent with that documented by SSU.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine"
+        ],
+        "synonyms": [
+        "Gamaredon",
+        "Armageddon"
+        ]
+      },
+      "uuid": "9bc87e90-9004-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Shuckworm"
+    },
+	{
+      "description": "Chinese state-backed advanced persistent threat (APT) group Antlion has been targeting financial institutions in Taiwan in a persistent campaign over the course of at least 18 months. The attackers deployed a custom backdoor we have called xPack on compromised systems, which gave them extensive access to victim machines. The backdoor allowed the attackers to run WMI commands remotely, while there is also evidence that they leveraged EternalBlue exploits in the backdoor. The attackers appeared to have the ability to interact with SMB shares, and it's possible that they used mounted shares over SMB to transfer files from attacker-controlled infrastructure. There is also evidence that the attackers were able to browse the web through the backdoor, likely using it as a proxy to mask their IP address. The goal of this campaign appears to have been espionage, as we saw the attackers exfiltrating data and staging data for exfiltration from infected networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/china-apt-antlion-taiwan-financial-attacks"
+        ]
+      },
+      "uuid": "9bc880f2-9004-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Antlion Threat Group"
+    },
+	{
+      "description": "The Microsoft Threat Intelligence Center (MSTIC) is sharing information on a threat group named ACTINIUM, which has been operational for almost a decade and has consistently pursued access to organizations in Ukraine or entities related to Ukrainian affairs. MSTIC previously tracked ACTINIUM activity as DEV-0157, and this group is also referred to publicly as Gamaredon. In the last six months, MSTIC has observed ACTINIUM targeting organizations in Ukraine spanning government, military, non-government organizations (NGO), judiciary, law enforcement, and non-profit, with the primary intent of exfiltrating sensitive information, maintaining access, and using acquired access to move laterally into related organizations. MSTIC has observed ACTINIUM operating out of Crimea with objectives consistent with cyber espionage. The Ukrainian government has publicly attributed this group to the Russian Federal Security Service (FSB). Since October 2021, ACTINIUM has targeted or compromised accounts at organizations critical to emergency response and ensuring the security of Ukrainian territory, as well as organizations that would be involved in coordinating the distribution of international and humanitarian aid to Ukraine in a crisis. As with any observed nation-state actor activity, Microsoft directly notifies customers of online services that have been targeted or compromised, providing them with the information they need to secure their accounts. Microsoft has shared this information with Ukrainian authorities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/"
+        ],
+        "synonyms": [
+        "ACTINIUM"
+        ]
+      },
+      "uuid": "9bc8823c-9004-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: DEV-0157"
+    },
+	{
+      "description": "TA402, a likely Palestinian-aligned advance persistent threat actor, has recently engaged in campaigns leveraging a new implant, dubbed by Proofpoint analysts as NimbleMamba. NimbleMamba is likely a replacement for the group’s previously used LastConn implant. These campaigns have a complex attack chain that leverages geofencing and URL redirects to legitimate sites in order to bypass detection efforts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/ugg-boots-4-sale-tale-palestinian-aligned-espionage"
+        ]
+      },
+      "uuid": "9bc88372-9004-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA402"
+    },
+	{
+      "description": "Our research attributes a decade of activity to a threat actor we call ModifiedElephant. ModifiedElephant is responsible for targeted attacks on human rights activists, human rights defenders, academics, and lawyers across India with the objective of planting incriminating digital evidence. ModifiedElephant has been operating since at least 2012, and has repeatedly targeted specific individuals. ModifiedElephant operates through the use of commercially available remote access trojans (RATs) and has potential ties to the commercial surveillance industry. The threat actor uses spearphishing with malicious documents to deliver malware, such as NetWire, DarkComet, and simple keyloggers with infrastructure overlaps that allow us to connect long periods of previously unattributed malicious activity.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/"
+        ]
+      },
+      "uuid": "9bc8864c-9004-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: ModifiedElephant APT"
+    },
+	{
+      "description": "Beginning January 18, 2022, Proofpoint researchers observed a new malicious hybrid cloud campaign named OiVaVoii. This campaign uses hijacked Office 365 tenants and a sophisticated combination of cleverly-crafted lures, malicious OAuth apps and targeted phishing threats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/cloud-security/oivavoii-active-malicious-hybrid-cloud-threats-campaign"
+        ]
+      },
+      "uuid": "4984d898-9006-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: OiVaVoii Campaign"
+    },
+	{
+      "description": "StellarParticle is a campaign tracked by CrowdStrike as related to the SUNSPOT implant from the SolarWinds intrusion in December 2020 and associated with COZY BEAR (aka APT29, The Dukes). The StellarParticle campaign has continued against multiple organizations, with COZY BEAR using novel tools and techniques to complete their objectives, as identified by CrowdStrike incident responders and the CrowdStrike Intelligence team. Browser cookie theft and Microsoft Service Principal manipulation are two of the novel techniques and tools leveraged in the StellarParticle campaign and are discussed in this blog. Two sophisticated malware families were placed on victim systems in mid-2019, a Linux variant of GoldMax and a new implant dubbed TrailBlazer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/"
+        ]
+      },
+      "uuid": "4984dcf8-9006-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: StellarParticle Campaign"
+    },
+	{
+      "description": "In December 2021, through its Network Security Monitoring service, Volexity identified a series of targeted spear-phishing campaigns against one of its customers from a threat actor it tracks as TEMP_Heretic. Analysis of the emails from these spear phishing campaigns led to a discovery - the attacker was attempting to exploit a zero-day cross-site scripting (XSS) vulnerability in the Zimbra email platform. Zimbra is an open source email platform often used by organizations as an alternative to Microsoft Exchange. The campaigns came in multiple waves across two attack phases. The initial phase was aimed at reconnaissance and involved emails designed to simply track if a target received and opened the messages. The second phase came in several waves that contained email messages luring targets to click a malicious attacker-crafted link. For the attack to be successful, the target would have to visit the attacker's link while logged into the Zimbra webmail client from a web browser. The link itself, however, could be launched from an application to include a thick client, such as Thunderbird or Outlook. Successful exploitation results in the attacker being able to run arbitrary JavaScript in the context of the user's Zimbra session. Volexity observed the attacker attempting to load JavaScript to steal user mail data and attachments.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.volexity.com/blog/2022/02/03/operation-emailthief-active-exploitation-of-zero-day-xss-vulnerability-in-zimbra/"
+        ]
+      },
+      "uuid": "4984df0a-9006-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation EmailThief"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

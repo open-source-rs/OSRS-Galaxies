@@ -10174,6 +10174,32 @@
       "value": "OSRS OSINT Author Index: Rugang Chen"
     },
 	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Team Cymru.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://team-cymru.com/blog/author/jhopkinstc/"
+        ]
+      },
+      "uuid": "78628e92-9026-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Josh Hopkins"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Trellix.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.trellix.com/en-gb/about/newsroom/stories/threat-labs/prime-ministers-office-compromised.html"
+        ]
+      },
+      "uuid": "78628faa-9026-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Marc Elias"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
