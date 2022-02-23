@@ -10200,6 +10200,58 @@
       "value": "OSRS OSINT Author Index: Marc Elias"
     },
 	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Fortinet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/nft-lure-used-to-distribute-bitrat"
+        ]
+      },
+      "uuid": "0ebcc06c-94c1-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Shunichi Imano"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Fortinet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/nft-lure-used-to-distribute-bitrat"
+        ]
+      },
+      "uuid": "0ebcc27e-94c1-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: James Slaughter"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Fortinet.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/nft-lure-used-to-distribute-bitrat"
+        ]
+      },
+      "uuid": "0ebcc3be-94c1-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Fred Gutierrez"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Inquest.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://inquest.net/blog/2022/02/10/380-glowspark"
+        ]
+      },
+      "uuid": "0ebcc4ea-94c1-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Josiah Smith"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

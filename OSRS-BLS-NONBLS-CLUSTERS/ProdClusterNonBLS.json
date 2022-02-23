@@ -5090,6 +5090,16 @@
 			"value": "The Town of Rolle"
 		},
 		{
+			"description": "The Department of Assessment is responsible for developing fair and equitable assessments for all residential and commercial properties in Nassau County on an annual basis. The County’s assessment roll includes over 423,000 properties with a value of $264 billion. It is the second largest assessing entity in the State of New York after New York City.",
+			"meta": {
+				"refs": [
+					"https://www.nassaucountyny.gov/1501/Assessment#:~:text=About%20the%20Department%20of%20Assessment,a%20value%20of%20%24264%20billion."
+				]
+			},
+			"uuid": "9b68f5dc-94ce-11ec-b909-0242ac120002",
+			"value": "The Nassau County Department of Assessment"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

@@ -117,6 +117,26 @@
       "value": "PEARL. GmbH"
     },
 	{
+      "description": "Established in 2013, Element Vape is a progressive online retail establishment in the electronic cigarette and vape industry based out of California. Our personal philosophy is to give consumers more than what they pay for. With an uncompromising drive to exceed expectations, we are committed to help customers experience the best possible shopping experience.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/element-vape/about/"
+        ]
+      },
+      "uuid": "066bd03e-94cf-11ec-b909-0242ac120002",
+      "value": "Element Vape"
+    },
+	{
+      "description": "OpenSea is the first and largest peer-to-peer marketplace for cryptogoods (like an eBay for crypto assets), which include collectibles, gaming items, and other virtual goods backed by a blockchain. On OpenSea, anyone can buy or sell these items through a smart contract. The OpenSea team has backgrounds from Stanford, Palantir, and Google, and is funded by YCombinator, Founders Fund, Coinbase Ventures, 1Confirmation, and Blockchain Capital.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/opensea-io/about/"
+        ]
+      },
+      "uuid": "066bd138-94cf-11ec-b909-0242ac120002",
+      "value": "OpenSea"
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

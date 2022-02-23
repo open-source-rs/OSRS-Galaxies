@@ -8764,6 +8764,32 @@
       "value": "OSRS Tool: BrittleBush Trojan"
     },
 	{
+      "description": "The ASEC analysis team confirmed that ColdStealer, presumed to be a new malicious code, was being distributed. This distribution is disguised as S-W download of cracks and tools, which have been mentioned several times in previous blogs. There are two cases of malicious code distribution in this way. 1. It is a case of distributing a single malicious code such as CryptBot and RedLine, and 2. It is a dropper-type malicious code in which various malicious codes are decompressed and executed. In the case of ColdStealer, it was distributed in the latter way.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/31703/"
+        ]
+      },
+      "uuid": "693e7c7a-94c0-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: ColdStealer"
+    },
+	{
+      "description": "Because the second stage payload is a new hard-to-detect pattern with anti-sandboxing techniques and many execution layers, tactics not easily attributable to current threats; we designate this threat internally with the name GlowSpark. The document contains an embedded Visual Basic script stored as a series of decimal values. Converting this data into a readable form gives us data that will execute. After converting this layer, we get a very heavily obfuscated VBA script. This script also contains sandbox evasion techniques. White detonation attempts of the initial lure may fail, manually stepping through these initial stages then pivoting back to a sandbox will allow us to observe subsequent behavior.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://inquest.net/blog/2022/02/10/380-glowspark"
+        ]
+      },
+      "uuid": "693e7e8c-94c0-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: GlowSpark Downloader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

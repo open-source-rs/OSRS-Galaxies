@@ -3881,6 +3881,32 @@
       "value": "OSRS Actors AND Campaigns: Operation EmailThief"
     },
 	{
+      "description": "Proofpoint researchers have tracked a persistent cybercrime threat actor targeting aviation, aerospace, transportation, manufacturing, and defense industries for years. The threat actor consistently uses remote access trojans (RATs) that can be used to remotely control compromised machines. The threat actor uses consistent themes related to aviation, transportation, and travel. The threat actor has used similar themes and targeting since 2017. Proofpoint calls this actor TA2541.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight"
+        ]
+      },
+      "uuid": "c97a3bb6-94bf-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA2541"
+    },
+	{
+      "description": "SentinelLabs has been tracking the activity of an Iranian-aligned threat actor operating in the Middle-East and the US. Due to the threat actor’s heavy reliance on tunneling tools, as well as the unique way it chooses to widely deploy those, we track this cluster of activity as TunnelVision. Much like other Iranian threat actors operating in the region lately, TunnelVision’s activities were linked to deployment of ransomware, making the group a potentially destructive actor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/log4j2-in-the-wild-iranian-aligned-threat-actor-tunnelvision-actively-exploiting-vmware-horizon/"
+        ]
+      },
+      "uuid": "c97a3ea4-94bf-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TunnelVision Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

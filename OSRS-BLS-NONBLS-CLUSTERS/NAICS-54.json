@@ -3754,6 +3754,56 @@
 			"value": "Goodwin Procter LLP"
 		},
 		{
+			"description": "Meyer Corporation is a cookware distributor based in Vallejo, California, United States, whose parent company is Hong Kong based Meyer Manufacturing Co. Ltd. It is the largest cookware distributor in the United States and second largest in the world. The company was founded in 1981. Cookware labels or lines for which Meyer is the parent firm include Circulon, Anolon, the now defunct Steelon range, NapaStyle, SilverStone (under license from DuPont), Rachael Ray, Paula Deen, Cake Boss, Ruffoni, Ayesha Curry, Joe Wicks, Breville Cookware (under license from Breville Group), Prestige and BonJour. Meyer owns the license for cookware produced under the Farberware label in addition to producing private label cookware for Macy's and Sur La Table.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Meyer_Corporation"
+				]
+			},
+			"uuid": "d8966c68-94cf-11ec-b909-0242ac120002",
+			"value": "Meyer Corporation"
+		},
+		{
+			"description": "Expeditors is a global logistics company headquartered in Seattle, Washington. As a Fortune 500 (374) company, we employ over 16,500 trained professionals in a worldwide network of over 320 locations across six continents. Expeditors is focused on the increasingly sophisticated needs of international trade through customized solutions and seamless, integrated information systems. Our services include air and ocean freight consolidation and forwarding, vendor consolidation, customs clearance, cargo insurance, distribution and other value-added logistics services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/expeditors/"
+				]
+			},
+			"uuid": "d8966e66-94cf-11ec-b909-0242ac120002",
+			"value": "Expeditors International"
+		},
+		{
+			"description": "Welcome to Charlotte Radiology, the area's imaging experts. Serving Mecklenburg and surrounding counties in both NC and SC since 1967, Charlotte Radiology is one of the largest radiology groups in the country with more than 500 employees and healthcare providers. Greater than 90 percent of our employees directly touch patient care and are comprised of 95 radiologists, 25 advanced care professionals, 160+ technologists and nurses and 150+ outpatient support staff professionals. Backed by an administrative team of more than 65 employees, they together consistently earn us an overall patient satisfaction score of greater than 95 percent. Our radiologists’ training spans a wide range of subspecialties from mammography and musculoskeletal imaging to pediatrics and interventional radiology, and they interpret and/or perform more than 1.5 million studies annually for 18 hospitals, 30+ imaging centers and a multitude of health care providers. Charlotte Radiology owns and operates 15 breast centers, a mobile breast center program, two vein centers, several vascular and interventional radiology sites and jointly owns five free-standing imaging centers.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/charlotte-radiology/about/"
+				]
+			},
+			"uuid": "d8966fa6-94cf-11ec-b909-0242ac120002",
+			"value": "Charlotte Radiology"
+		},
+		{
+			"description": "PSL are a UK market leader in Print Management Services, additionally we join the dots between data, insight, consulting, print & multichannel execution.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/psl-print-management-limited/about/"
+				]
+			},
+			"uuid": "d89670d2-94cf-11ec-b909-0242ac120002",
+			"value": "PSL Print Management Limited"
+		},
+		{
+			"description": "DNA Solutions is a genetic testing laboratory and leader in providing highly discerning human, animal, and forensic DNA services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/dna-solutions-inc-/about/"
+				]
+			},
+			"uuid": "d8967366-94cf-11ec-b909-0242ac120002",
+			"value": "DNA Solutions, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

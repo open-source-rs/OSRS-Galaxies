@@ -2090,6 +2090,36 @@
 			"value": "DuPage Medical Group"
 		},
 		{
+			"description": "We are a team of committed, compassionate orthopedic surgeons with a practice that has been building trust in our Hawaii community over decades. We’ve earned a reputation for getting our patients back into action faster and with less pain, which is why primary care physicians recommend Orthopedic Associates more than any other orthopedic practice. We believe in a stronger, healthier Hawaii. And we’re honored to say that Hawaii believes in us.",
+			"meta": {
+				"refs": [
+					"https://oahawaii.com/about/"
+				]
+			},
+			"uuid": "066bca80-94cf-11ec-b909-0242ac120002",
+			"value": "Orthopedic Associates of Hawaii"
+		},
+		{
+			"description": "All Access Ortho was founded by fellowship-trained orthopedic surgeons Dr. Darryl Kan and Dr. Gary Blum. The clinic is part of an orthopedic institute at Hale Pawa`a with access to a state-of-the-art surgical center and training facility, laboratory, pharmacy and imaging services. And we also have a second All Access Ortho location at The Gateway at Mililani Mauka.",
+			"meta": {
+				"refs": [
+					"http://www.allaccessortho.com/about.html"
+				]
+			},
+			"uuid": "066bcc6a-94cf-11ec-b909-0242ac120002",
+			"value": "All Access Ortho"
+		},
+		{
+			"description": "Minimally Invasive Surgery of Hawaii is a state-of-the-art ambulatory surgery center fully licensed by the Hawaii State Department of Health (DOH) and accredited by the Accreditation Association for Ambulatory Health Care (AAAHC).",
+			"meta": {
+				"refs": [
+					"https://www.mishawaii.com/about/"
+				]
+			},
+			"uuid": "066bcf26-94cf-11ec-b909-0242ac120002",
+			"value": "Minimally Invasive Surgery (MIS) Hawaii Surgery Center"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
