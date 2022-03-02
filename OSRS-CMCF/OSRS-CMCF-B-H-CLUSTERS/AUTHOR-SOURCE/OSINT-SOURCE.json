@@ -3972,6 +3972,45 @@
       "value": "OSRS OSINT Source: Walmart Global Tech Cybersecurity Blog"
     },
 	{
+      "description": "We support the most critical organisations in the UK, the wider public sector, industry, SMEs as well as the general public. When incidents do occur, we provide effective incident response to minimise harm to the UK, help with recovery, and learn lessons for the future.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.ncsc.gov.uk/section/about-ncsc/what-we-do"
+        ]
+      },
+      "uuid": "24470862-9a6a-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: The National Cyber Security Centre"
+    },
+	{
+      "description": "Cybersecurity blog.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://medium.com/cycraft"
+        ]
+      },
+      "uuid": "24470b32-9a6a-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: CyCraft Blog"
+    },
+	{
+      "description": "Using diverse data sources and artificial intelligence-based analysis, the ZeroFox Platform identifies and remediates targeted phishing attacks, credential compromise, data exfiltration, brand hijacking, executive and location threats and more. The patented ZeroFox SaaS technology processes and protects millions of posts, messages and accounts daily across the social and digital landscape, spanning LinkedIn, Facebook, Slack, Twitter, Instagram, Pastebin, YouTube, mobile app stores, the deep & dark web, domains, email and more. Led by a team of information security and high-growth company veterans, ZeroFox has raised funding from NEA, Highland Capital, Redline Capital, Intel Capital, Hercules Capital and others, and has collected top industry awards such as Red Herring Top 100 North America, the SINET16 Champion, Dark Reading’s Top Security Startups to Watch, Tech Council of Maryland’s Technology Company of the Year and the Security Tech Trailblazer of the Year.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.zerofox.com/company/"
+        ]
+      },
+      "uuid": "24470cea-9a6a-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: ZeroFox"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

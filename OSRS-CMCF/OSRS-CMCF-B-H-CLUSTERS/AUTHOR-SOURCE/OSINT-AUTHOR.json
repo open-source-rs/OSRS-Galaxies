@@ -10252,6 +10252,110 @@
       "value": "OSRS OSINT Author Index: Josiah Smith"
     },
 	{
+      "description": "Security Researcher at AlienVault (now AT&T Alien Labs). Greater Madrid Metropolitan Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/fmartinezsidera/?originalSubdomain=es"
+        ]
+      },
+      "uuid": "a3dfe79e-9a68-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Fernando Martinez"
+    },
+	{
+      "description": "Malware Analyst at Check Point Software Technologies Ltd. Tel Aviv, Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/moshe-marelus-0baaa0231/?trk=public_profile_browsemap&originalSubdomain=il"
+        ]
+      },
+      "uuid": "a3dfebe0-9a68-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Moshe Marelus"
+    },
+	{
+      "description": "We support the most critical organisations in the UK, the wider public sector, industry, SMEs as well as the general public. When incidents do occur, we provide effective incident response to minimise harm to the UK, help with recovery, and learn lessons for the future.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.ncsc.gov.uk/section/about-ncsc/what-we-do"
+        ]
+      },
+      "uuid": "a3dfed8e-9a68-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: The National Cyber Security Centre"
+    },
+	{
+      "description": "Cybersecurity researcher gourp affilitated with the cybersecurity company CyCraft.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://medium.com/@cycarrier.tw"
+        ]
+      },
+      "uuid": "a3dfef14-9a68-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: The Aoyi Wisdom Team"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company ZeroFox.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.zerofox.com/blog/meet-kraken-a-new-golang-botnet-in-development/"
+        ]
+      },
+      "uuid": "a3dff086-9a68-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Stephan Simon"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "a8be275c-9a69-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Ryan Tomcik"
+    },
+	{
+      "description": "Threat Intelligence Analyst at Mandiant. Washington DC-Baltimore Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/ehaeghebaert/"
+        ]
+      },
+      "uuid": "a8be2a40-9a69-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Emiel Haeghebaert"
+    },
+	{
+      "description": "Cybersecurity researcher affilitated with the cybersecurity company Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "a8be2c34-9a69-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tufail Ahmed"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
