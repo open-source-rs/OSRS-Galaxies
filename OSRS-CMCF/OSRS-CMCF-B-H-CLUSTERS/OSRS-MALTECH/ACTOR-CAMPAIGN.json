@@ -3907,6 +3907,58 @@
       "value": "OSRS Actors AND Campaigns: TunnelVision Threat Group"
     },
 	{
+      "description": "In November 2021, Mandiant Managed Defense detected and responded to an UNC3313 intrusion at a Middle East government customer. During the investigation, Mandiant identified new targeted malware, GRAMDOOR and STARWHALE, which implement simple backdoor functionalities. We also identified UNC3313 use publicly available remote access software to maintain access to the environment. UNC3313 initially gained access to this organization through a targeted phishing email and leveraged modified, open-source offensive security tools to identify accessible systems and move laterally. UNC3313 moved rapidly to establish remote access by using ScreenConnect to infiltrate systems within an hour of initial compromise. Through the rapid coordination of Mandiant Managed Defense and our customer’s security team, the incident was quickly contained and remediated. Mandiant assesses with moderate confidence that UNC3313 conducts surveillance and collects strategic information to support Iranian interests and decision-making. Targeting patterns and related lures demonstrate a strong focus on targets with a geopolitical nexus.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "b6662e52-9a4d-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC3313"
+    },
+	{
+      "description": "On Feb. 1, 2022, Unit 42 observed an attack targeting an energy organization in Ukraine. CERT-UA publicly attributed the attack to a threat group they track as UAC-0056. The targeted attack involved a spear phishing email sent to an employee of the organization, which used a social engineering theme that suggested the individual had committed a crime. The email had a Word document attached that contained a malicious JavaScript file that would download and install a payload known as SaintBot (a downloader) and OutSteel (a document stealer). Unit 42 discovered that this attack was just one example of a larger campaign dating back to at least March 2021, when Unit 42 saw the threat group target a Western government entity in Ukraine, as well as several Ukrainian government organizations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/ukraine-targeted-outsteel-saintbot/"
+        ]
+      },
+      "uuid": "b6663370-9a4d-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0056"
+    },
+	{
+      "description": "In Operation Cache Panda, a web service vulnerability in the security software system management interface was exploited. First, the attacker uploaded the ASPXCSharp WebShell commonly used by Chinese hackers to control the website host, and then began to use the well-known intranet penetration tool Impacket to scan intranet computers, trying to implant the DotNet backdoor program on a large scale, and intending to steal the hacked unit data.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://medium.com/cycraft/supply-chain-attack-targeting-taiwan-financial-sector-bae2f0962934"
+        ]
+      },
+      "uuid": "b666376c-9a4d-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation Cache Panda"
+    },
+	{
+      "description": "On January 27, Iranian state broadcaster IRIB became the subject of a targeted cyberattack that resulted in several state-run TV channels broadcasting footage of opposition leaders and calling for the assassination of the supreme leader. Check Point Research team investigated this attack and was able to retrieve the files and forensics evidence related to the incident from publicly available resources. We found malicious executables whose purpose was to air the protest message, in addition, we discovered evidence that a wiper malware was used. This indicates that the attackers’ aim was also to disrupt the state’s broadcasting networks, with the damage to the TV and radio networks possibly more serious than officially reported. Among the tools used in the attack, we identified malware that takes screenshots of the victims’ screens, several custom-made backdoors, and related batch scripts and configuration files used to install and configure the malicious executables. We could not find any evidence that these tools were used previously, or attribute them to a specific threat actor. In this article, we provide a technical analysis of the tools related to the attack, as well as the attackers’ tactics.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2022/evilplayout-attack-against-irans-state-broadcaster/"
+        ]
+      },
+      "uuid": "b666396a-9a4d-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation EvilPlayout"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

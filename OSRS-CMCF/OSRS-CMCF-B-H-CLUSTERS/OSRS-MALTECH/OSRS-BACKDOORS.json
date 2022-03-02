@@ -1674,6 +1674,45 @@
       "value": "OSRS Backdoor: xPack Backdoor"
     },
 	{
+      "description": "A custom backdoor, SockDetour is designed to serve as a backup backdoor in case the primary one is removed. It is difficult to detect, since it operates filelessly and socketlessly on compromised Windows servers. One of the command and control (C2) infrastructures that the threat actor used for malware distribution for the TiltedTemple campaign hosted SockDetour along with other miscellaneous tools such as a memory dumping tool and several webshells. We are tracking SockDetour as one campaign within TiltedTemple, but cannot yet say definitively whether the activities stem from a single or multiple threat actors.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/sockdetour/"
+        ]
+      },
+      "uuid": "7b33adbc-9a4f-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: SockDetour Backdoor"
+    },
+	{
+      "description": "Small Sieve provides basic functionality required to maintain and expand a foothold in victim infrastructure and avoid detection  by using custom string and traffic obfuscation schemes together with the Telegram Bot application programming interface (API). Specifically, Small Sieve’s beacons and taskings are performed using Telegram API over Hypertext Transfer Protocol Secure (HTTPS) , and the tasking and beaconing data is obfuscated through a hex byte swapping encoding scheme combined with an obfuscated Base64 function.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.cisa.gov/uscert/ncas/alerts/aa22-055a"
+        ]
+      },
+      "uuid": "7b33b186-9a4f-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: Small Sieve Backdoor"
+    },
+	{
+      "description": "GRAMDOOR is a backdoor written in Python that uses the Telegram Bot API to communicate over HTTP with the Telegram server. Supported commands include command execution via cmd.exe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "7b33b3b6-9a4f-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: GRAMDOOR Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

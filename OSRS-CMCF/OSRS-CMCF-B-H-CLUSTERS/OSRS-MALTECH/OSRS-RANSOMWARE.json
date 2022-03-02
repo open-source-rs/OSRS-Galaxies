@@ -1687,6 +1687,32 @@
       "value": "OSRS Ransomware: Sugar Ransomware"
     },
 	{
+      "description": "The  ransomware  presents  anti-analysis  features  like  API  hashing  and  indirect  API  calls  with  the intention of evading analysis. The only reliable way to reconstruct functions is via dynamic analysis by way of fully executing the sample. One aspect that immediately sets Macaw apart is  the  fact  that  it  requires  a  custom  token  (provided  from  the  command  line),  which  seems  specific for each victim; without it, it won’t execute (also seen in Egregor and BlackCat). This additional requirement also aids in anti-analysis. Another  new  addition  to  Macaw  was  a  special  function  that  acquires  the  imports  for  APIs  at  runtime instead of when the executable is started via the PE import section.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://assets.sentinelone.com/sentinellabs/sentinellabs_EvilCorp"
+        ]
+      },
+      "uuid": "89204ede-9a50-11ec-b909-0242ac120002",
+      "value": "OSRS Ransomware: Macaw Locker Ransomware"
+    },
+	{
+      "description": "Ransomware written in Go.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/"
+        ]
+      },
+      "uuid": "89205168-9a50-11ec-b909-0242ac120002",
+      "value": "OSRS Ransomware: HermeticRansom"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

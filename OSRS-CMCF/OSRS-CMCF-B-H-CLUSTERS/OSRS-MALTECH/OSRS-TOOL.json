@@ -8790,6 +8790,156 @@
       "value": "OSRS Tool: GlowSpark Downloader"
     },
 	{
+      "description": "This Android Banking malware is heavily under development, and mostly supports the minimum list of features required for a modern Android banking trojan. As discussed before, its main attack vector is the use of the overlay attack to steal credentials, combined with the use of SMS and Notification interception to log and use potential 2FA tokens. The Accessibility engine powering this malware, together with the infrastructure and C2 protocol, are carefully designed to be scalable and updatable. The information stored by the logging capability of this malware is very extensive, and if sent back to the C2 server, could be used to implement keylogging, as well as collecting behavioural data on victims and on installed applications, even if they are not part of the list of targets.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/xenomorph-a-newly-hatched-banking-trojan.html#capabilities"
+        ]
+      },
+      "uuid": "7c71cf64-9a55-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Xenomorph Banking Trojan"
+    },
+	{
+      "description": "Jester Stealer is an Info Stealer, which steals your sensitive information such as login credentials, cookies, credit card details, etc., and sends the exfiltrated data to Threat Actor (TA).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/02/24/jester-stealer-an-emerging-info-stealer/"
+        ]
+      },
+      "uuid": "7c71d25c-9a55-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Jester Stealer"
+    },
+	{
+      "description": "On February 23rd, the threat intelligence community began observing a new wiper malware sample circulating in Ukrainian organizations. Our analysis shows a signed driver is being used to deploy a wiper that targets Windows devices, manipulating the MBR resulting in subsequent boot failure. This sample is actively being used against Ukrainian organizations, and this blog will be updated as more information becomes available.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/"
+        ]
+      },
+      "uuid": "7c71d3d8-9a55-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: HermeticWiper"
+    },
+	{
+      "description": "The initial access vector is also currently unknown. It is likely that attackers used tools such as Impacket to move laterally. On a few machines, we have also observed RemCom, a remote access tool, being deployed at the same time as IsaacWiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/"
+        ]
+      },
+      "uuid": "7c71d54a-9a55-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: IsaacWiper"
+    },
+	{
+      "description": "Spreads HermeticWiper across a local network via WMI and SMB.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/"
+        ]
+      },
+      "uuid": "7c71d6b2-9a55-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: HermeticWizard"
+    },
+	{
+      "description": "OutSteel is a file uploader and document stealer developed with the scripting language AutoIT. It is executed along with the other binaries. It begins by scanning through the local disk in search of files containing specific extensions, before uploading those files to a hardcoded command and control (C2) server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/ukraine-targeted-outsteel-saintbot/"
+        ]
+      },
+      "uuid": "517352dc-9a56-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: OutSteel Stealer"
+    },
+	{
+      "description": "Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office or home office (SOHO) routers, and network attached storage (NAS) devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.ncsc.gov.uk/news/joint-advisory-shows-new-sandworm-malware-cyclops-blink-replaces-vpnfilter#section_4",
+		  "https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf"
+        ]
+      },
+      "uuid": "51735598-9a56-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Cyclops Blink Framework"
+    },
+	{
+      "description": "STARWHALE is a Windows Script File (WSF) backdoor that communicates via HTTP. Supported commands include shell command execution and system information collection.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ],
+        "synonyms": [
+        "Canopy Trojan"
+        ]
+      },
+      "uuid": "51735714-9a56-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: STARWHALE"
+    },
+	{
+      "description": "STARWHALE.GO is a backdoor written in GO programming language that communicates via HTTP. The backdoor can execute shell commands and collect system information, such as local IP address, computer name, and username.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "5173585e-9a56-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: STARWHALE.GO"
+    },
+	{
+      "description": "CRACKMAPEXEC is a post-exploitation tool that helps automate assessing the security of large Active Directory networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/telegram-malware-iranian-espionage"
+        ]
+      },
+      "uuid": "51735994-9a56-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: CRACKMAPEXEC"
+    },
+	{
+      "description": "MuddyWater also uses Canopy aka Starwhale malware, likely distributed via spearphishing emails with targeted attachments. According to two Canopy aka Starwhale samples analyzed by CISA, Canopy uses Windows Script File (.wsf) scripts distributed by a malicious Excel file. Note - the cybersecurity agencies of the United Kingdom and the United States attribute these malware samples to MuddyWater with high confidence. In the samples CISA analyzed, a malicious Excel file, Cooperation terms.xls, contained macros written in Visual Basic for Applications (VBA) and two encoded Windows Script Files. When the victim opens the Excel file, they receive a prompt to enable macros. Once this occurs, the macros are executed, decoding and installing the two embedded Windows Script Files. The first .wsf is installed in the current user startup folder for persistence. The file contains hexadecimal (hex)-encoded strings that have been reshuffled. The file executes a command to run the second .wsf. The second .wsf also contains hex-encoded strings that have been reshuffled. This file collects the victim system’s IP address, computer name, and username. The collected data is then hex-encoded and sent to an adversary-controlled IP address, via an HTTP POST request.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cisa.gov/uscert/ncas/alerts/aa22-055a"
+        ],
+        "synonyms": [
+        "Starwhale"
+        ]
+      },
+      "uuid": "6b339eb0-9a57-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Canopy Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
