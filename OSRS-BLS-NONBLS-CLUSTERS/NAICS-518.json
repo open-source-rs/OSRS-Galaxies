@@ -228,6 +228,16 @@
       "value": "DDoS-Guard"
     },
 	{
+      "description": "Data center located in the country of New Zealand.",
+      "meta": {
+        "refs": [
+          "https://www.itco.co.nz/"
+        ]
+      },
+      "uuid": "e07f5274-9afa-11ec-b909-0242ac120002",
+      "value": "iTCo Solutions Ltd"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [

@@ -487,6 +487,16 @@
       "value": "PRB - Building Coating Products"
     },
 	{
+      "description": "Nvidia Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California. It is a fabless company which designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market. Its primary GPU line, labeled GeForce, is in direct competition with the GPUs of the Radeon brand by Advanced Micro Devices (AMD). Nvidia expanded its presence in the gaming industry with its handheld game consoles Shield Portable, Shield Tablet, and Shield Android TV and its cloud gaming service GeForce Now. Its professional line of GPUs are used in workstations for applications in such fields as architecture, engineering and construction, media and entertainment, automotive, scientific research, and manufacturing design.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Nvidia"
+        ]
+      },
+      "uuid": "98e57bc6-9b01-11ec-b909-0242ac120002",
+      "value": "Nvidia Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

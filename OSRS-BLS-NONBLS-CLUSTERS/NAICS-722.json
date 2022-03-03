@@ -257,6 +257,16 @@
       "value": "Apache Pizza"
     },
 	{
+      "description": "McDonald's is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its previous headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in June 2018.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/McDonald's"
+        ]
+      },
+      "uuid": "18eddb52-9afc-11ec-b909-0242ac120002",
+      "value": "McDonald's"
+    },
+	{
       "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
       "meta": {
         "refs": [

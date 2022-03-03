@@ -2120,6 +2120,16 @@
 			"value": "Minimally Invasive Surgery (MIS) Hawaii Surgery Center"
 		},
 		{
+			"description": "Douglas C Morrow Od Pc is a Medical Group that has only one practice medical office located in Auburn IN. There are 4 health care providers, specializing in Optometry, being reported as members of the medical group. Medical taxonomies which are covered by Douglas C Morrow Od Pc include Optometrist.",
+			"meta": {
+				"refs": [
+					"https://www.healthcare4ppl.com/medical-group/indiana/auburn/douglas-c-morrow-od-pc-8022085091.html"
+				]
+			},
+			"uuid": "18ede214-9afc-11ec-b909-0242ac120002",
+			"value": "Dr. Douglas C. Morrow, OD"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

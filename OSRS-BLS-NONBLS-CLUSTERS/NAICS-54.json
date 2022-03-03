@@ -3804,6 +3804,26 @@
 			"value": "DNA Solutions, Inc."
 		},
 		{
+			"description": "The Spine Diagnostic & Pain Treatment Center offers minimally invasive interventional techniques to relieve back and neck pain and increase function and mobility without major surgery.",
+			"meta": {
+				"refs": [
+					"https://www.spinediagnostic.com/"
+				]
+			},
+			"uuid": "98e581ac-9b01-11ec-b909-0242ac120002",
+			"value": "The Spine Diagnostic & Pain Treatment Center"
+		},
+		{
+			"description": "Founded in 1935, the law firm of Taylor, Ganson & Perrin LLP , takes pride in its history of providing highly personal and private services to its client. As the needs of our clients have grown, we have expanded our areas of practice. This willingness to adapt to client requirements has been a hallmark of our practice since the beginning. Today, our mid-size law firm  provides legal advice and counsel to individuals, businesses, and families throughout New England and beyond. To learn more about our law firm, contact our Boston office.",
+			"meta": {
+				"refs": [
+					"http://www.taylorganson.com/CM/Custom/Firm-Overview.html"
+				]
+			},
+			"uuid": "98e583b4-9b01-11ec-b909-0242ac120002",
+			"value": "Taylor, Ganson & Perrin LLP"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

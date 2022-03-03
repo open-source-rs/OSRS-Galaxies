@@ -5100,6 +5100,36 @@
 			"value": "The Nassau County Department of Assessment"
 		},
 		{
+			"description": "Transport for NSW, sometimes abbreviated to TfNSW, and pronounced as Transport for New South Wales, is an agency of the New South Wales Government established on 1 November 2011, and is the leading transport and roads agency in New South Wales, Australia. The agency is a different entity to the New South Wales Department of Transport, a department of the New South Wales Government and the ultimate parent entity of Transport for NSW.The agency's function since its creation is to build transport infrastructure and manage transport services in New South Wales. Since absorbing Roads & Maritime Services (RMS) in December 2019, the agency is also responsible for building and maintaining road infrastructure, managing the day-to-day compliance and safety for roads and waterways, and vehicle and driving license registrations.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Transport_for_NSW"
+				]
+			},
+			"uuid": "e07f4be4-9afa-11ec-b909-0242ac120002",
+			"value": "Transport for New South Wales (Transport for NSW)"
+		},
+		{
+			"description": "K-12 school district in the state of Kansas. Hays USD 489. 323 West 12th Street. Hays, KS 67601.",
+			"meta": {
+				"refs": [
+					"https://www.usd489.com/"
+				]
+			},
+			"uuid": "e07f4e5a-9afa-11ec-b909-0242ac120002",
+			"value": "Hays USD 489"
+		},
+		{
+			"description": "The mission of the Houston Health Department is to work in partnership with the community to promote and protect the health and social well-being of Houstonians and the environment in which they live.",
+			"meta": {
+				"refs": [
+					"https://www.houstontx.gov/health/aboutus.html"
+				]
+			},
+			"uuid": "e07f4fb8-9afa-11ec-b909-0242ac120002",
+			"value": "The Houston Health Department"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

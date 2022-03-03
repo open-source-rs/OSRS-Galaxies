@@ -988,6 +988,26 @@
 			"value": "Sturdy Memorial Hospital"
 		},
 		{
+			"description": "A cornerstone of Northwell Health, North Shore University Hospital offers the highest quality care in all medical specialties. We are a teaching hospital for the Donald and Barbara Zucker School of Medicine at Hofstra-Northwell, providing a wide range of specialty and subspecialty residency programs, postgraduate training programs and clinical fellowships to educate the clinicians of the future.",
+			"meta": {
+				"refs": [
+					"https://nsuh.northwell.edu/about"
+				]
+			},
+			"uuid": "18ede386-9afc-11ec-b909-0242ac120002",
+			"value": "North Shore University Hospital (NSUH)"
+		},
+		{
+			"description": "Logan Health Medical Center, formerly Kalispell Regional Medical Center (KRMC) is a 288-bed non-profit, tertiary, research and academic medical center located in Kalispell, Montana, servicing the northern Montana region. The hospital is the region's only university-level academic medical center. The hospital is owned by Logan Health and is the flagship hospital of the system. The medical center is affiliated with the University of Montana. The hospital is also an ACS designated level III trauma center and has a helipad to handle medevac patients. Attached to the medical center is the Montana Children's Hospital that treats infants, children, adolescents, and young adults up to the age of 21.The hospital is also accredited by the Commission on Accreditation of Rehabilitation Facilities (CARF).",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Logan_Health"
+				]
+			},
+			"uuid": "18ede4c6-9afc-11ec-b909-0242ac120002",
+			"value": "Logan Health Medical Center, MT"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

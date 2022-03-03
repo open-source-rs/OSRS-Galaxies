@@ -1269,6 +1269,16 @@
 			"value": "Des Moines Area Community College"
 		},
 		{
+			"description": "GEMS Education is one of the world’s oldest and largest K-12 private education providers. It is a highly-regarded choice for quality private education in the Middle East and North Africa region. As a company founded in the UAE in 1959, it holds an unparalleled track-record of providing diverse curricula and educational choices to all socio-economic means. Operating 47 owned and operated schools, and a further three managed in the MENA region, GEMS Education currently serves over 115,000 students, and through its growing network of schools as well as charitable contributions is fulfilling the founder’s vision of putting a quality education within the reach of every child.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/school/gems-education/"
+				]
+			},
+			"uuid": "e07f53aa-9afa-11ec-b909-0242ac120002",
+			"value": "GEMS Education"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
