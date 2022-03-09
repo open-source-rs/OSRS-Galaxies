@@ -8940,6 +8940,45 @@
       "value": "OSRS Tool: Canopy Trojan"
     },
 	{
+      "description": "Analysis of the actor-controlled delivery infrastructure identified an MSI package which installed a series of Lua-based dependencies, executed a malicious Lua script that Proofpoint has dubbed SunSeed, and established persistence via an LNK file installed for autorun at Windows Startup. This file, named qwerty_setup.msi, was previously identified publicly by security researcher Colin Hardy in response to Proofpoint’s initial content regarding this threat. The package installs 12 legitimate Lua dependencies, a Windows Lua interpreter, a malicious Lua script (SunSeed), and a Windows shortcut LNK file for persistence. Notably, the legitimate Windows Lua interpreter sppsvc.exe has been modified so it does not print any output to the Windows Console. This is likely an effort to conceal the malware installation from the infected user. All files, except for the LNK file, are installed to the folder. The LNK persistence script, which executes the SunSeed command print.lua via the Window Lua interpreter, is saved to the directory to be executed at startup. This executes the malicious SunSeed Lua script print.lua that attempts to retrieve additional malicious Lua code from the actor command and control (C2) server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails"
+        ]
+      },
+      "uuid": "c71bb5f8-9f18-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: SunSeed Downloader"
+    },
+	{
+      "description": "A threat report published by Symantec in October 2021 recently caught our attention. It discusses an unknown threat actor conducting an espionage campaign in Southeast Asia using a new custom malware arsenal. What piqued our curiosity most was the mention of a DLL payload loaded from the registry that had yet to be discovered. The reason the module was difficult to find became apparent after analyzing its loader. The module is stored as a compressed blob with a custom header in the registry. It is never written to disk, rendering it unlikely to appear in datasets like VirusTotal. And so, we embarked on a journey to hunt for the lost module. We have now uncovered a sample of the module and a plethora of components and variants dating as far back as 2017. Reverse engineering the samples has allowed us to observe the progression of the development of this malware throughout the years. Over time, custom code was added, components were upgraded, capabilities expanded, the code became neater, and modularity increased. This blog will examine the different components of this malware and their progression over time, thereby mapping the evolution of the Soul malware framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/unraveling-the-evolution-of-the-soul-searcher-malware"
+        ]
+      },
+      "uuid": "c71bb7ce-9f18-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: SoulSearcher Malware Framework"
+    },
+	{
+      "description": "TeaBot is an Android banking trojan emerged at the beginning of 2021 designed for stealing victim’s credentials and SMS messages TeaBot RAT capabilities are achieved via the device screen’s live streaming (requested on-demand) plus the abuse of Accessibility Services for remote interaction and key-logging. This enables Threat Actors (TAs) to perform ATO (Account Takeover) directly from the compromised phone, also known as On-device fraud. Initially TeaBot has been distributed through smishing campaigns using a predefined list of lures, such as TeaTV, VLC Media Player, DHL and UPS and others. Recent samples show how TAs are evolving their side-loading techniques, including the distribution of applications on the official Google Play Store, also known as dropper applications. In the last months, we detected a major increase of targets which now count more than 400 applications, including banks, crypto exchanges-wallets and digital insurance, and new countries such as Russia, Hong Kong, and the US.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.cleafy.com/cleafy-labs/teabot-is-now-spreading-across-the-globe"
+        ]
+      },
+      "uuid": "c71bb9a4-9f18-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: TeaBot Android Banking Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

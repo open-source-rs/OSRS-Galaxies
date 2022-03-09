@@ -10356,6 +10356,19 @@
       "value": "OSRS OSINT Author Index: Tufail Ahmed"
     },
 	{
+      "description": "Cybersecurity researcher group affilitated with the cybersecurity company NCC Group.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/author/nccgifc/"
+        ]
+      },
+      "uuid": "edebfd28-9f1d-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Research and Intelligence Fusion Team (RIFT)"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

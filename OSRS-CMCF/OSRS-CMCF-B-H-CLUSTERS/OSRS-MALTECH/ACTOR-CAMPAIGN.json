@@ -3959,6 +3959,19 @@
       "value": "OSRS Actors AND Campaigns: Operation EvilPlayout"
     },
 	{
+      "description": "Proofpoint has identified a likely nation-state sponsored phishing campaign using a possibly compromised Ukrainian armed service member’s email account to target European government personnel involved in managing the logistics of refugees fleeing Ukraine. The email included a malicious macro attachment which attempted to download a Lua-based malware dubbed SunSeed. The infection chain used in this campaign bears significant similarities to a historic campaign Proofpoint observed in July 2021, making it likely the same threat actor is behind both clusters of activity. Proofpoint is releasing this report in an effort to balance accuracy with responsibility to disclose actionable intelligence during a time of high-tempo conflict.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails"
+        ]
+      },
+      "uuid": "c71baa68-9f18-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation Asylum Ambuscade"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

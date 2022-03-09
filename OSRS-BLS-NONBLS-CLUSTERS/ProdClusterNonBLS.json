@@ -5130,6 +5130,66 @@
 			"value": "The Houston Health Department"
 		},
 		{
+			"description": "The State Bar of California’s mission is to protect the public and includes the primary functions of licensing, regulation and discipline of attorneys, the advancement of the ethical and competent practice of law, and support of efforts for greater access to, and inclusion in, the legal system.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/state-bar-of-california/about/"
+				]
+			},
+			"uuid": "d1b88e4e-9fba-11ec-b909-0242ac120002",
+			"value": "State Bar of California"
+		},
+		{
+			"description": "Hilliard City School District is a public school district with its headquarters in Columbus, Ohio. The school district contains all of what was once Norwich and Brown townships. This includes Hilliard.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Hilliard_City_School_District"
+				]
+			},
+			"uuid": "d1b890b0-9fba-11ec-b909-0242ac120002",
+			"value": "Hilliard City School District"
+		},
+		{
+			"description": "The Fleetwood Area School District is committed to excellence in providing the educational resources and opportunities that empower all students to become life-long learners, productive community members, and responsible citizens in a dynamic global environment.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/fleetwood-area-school-district/about/"
+				]
+			},
+			"uuid": "d1b89204-9fba-11ec-b909-0242ac120002",
+			"value": "Fleetwood Area School District"
+		},
+		{
+			"description": "The Ministry of Defence of the Russian Federation is the governing body of the Russian Armed Forces.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Defence_(Russia)"
+				]
+			},
+			"uuid": "d1b89650-9fba-11ec-b909-0242ac120002",
+			"value": "Ministry of Defence (Russia)"
+		},
+		{
+			"description": "The State Duma is the lower house of the Federal Assembly of Russia, while the upper house is the Federation Council. The Duma headquarters are located in central Moscow, a few steps from Manege Square. Its members are referred to as deputies. The State Duma replaced the Supreme Soviet as a result of the new constitution introduced by Boris Yeltsin in the aftermath of the Russian constitutional crisis of 1993, and approved in a nationwide referendum.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/State_Duma"
+				]
+			},
+			"uuid": "d1b897a4-9fba-11ec-b909-0242ac120002",
+			"value": "The State Duma"
+		},
+		{
+			"description": "The Nuclear Safety Institute of the Russian Academy of Sciences (IBRAE RAN) was established on November 3, 1988, by the Order No 2198r of the USSR Council of Ministers with the aim of advancing basic research and independent analysis of nuclear and radiation safety.",
+			"meta": {
+				"refs": [
+					"http://en.ibrae.ac.ru/contents/7/"
+				]
+			},
+			"uuid": "d1b8992a-9fba-11ec-b909-0242ac120002",
+			"value": "Nuclear Safety Institute Of The Russian Academy Of Sciences"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

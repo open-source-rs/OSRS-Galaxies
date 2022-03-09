@@ -1008,6 +1008,16 @@
 			"value": "Logan Health Medical Center, MT"
 		},
 		{
+			"description": "DRH Health is a progressive, not-for-profit community hospital that is constantly evolving to meet the ever-changing needs of the community. Our team of dedicated healthcare professionals is committed to delivering compassionate, personalized service and care to our patients and their families.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/duncanregionalhospital/about/"
+				]
+			},
+			"uuid": "9d8bc8c4-9fb6-11ec-b909-0242ac120002",
+			"value": "Duncan Regional Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

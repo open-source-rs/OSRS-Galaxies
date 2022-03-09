@@ -356,6 +356,66 @@
 			"value": "Gettr"
 		},
 		{
+			"description": "MacGeneration SARL offers an uncompromising treatment of computer news with its sites MacGeneration (dedicated to Apple and Mac news), iGeneration (dedicated to iPhone and smartphone news), and WatchGeneration (dedicated to Apple Watch and connected objects). As such, MacGeneration is an online press service recognized by the CPPAP under the number 0919 W 93490. MacGeneration publishes the iGeneration application, publishes a collection of digital books, and offers various services to its readers - a self-help forum , the iOccasion classifieds site, and the RefurbGeneration refurbished product search engine. MacGeneration employs nine full-time staff, including five journalists.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/macgeneration/about/"
+				]
+			},
+			"uuid": "8a743020-9fb9-11ec-b909-0242ac120002",
+			"value": "MacGeneration"
+		},
+		{
+			"description": "The Russian News Agency TASS, abbreviated TASS (ТАСС), is a major Russian state-owned news agency founded in 1904. TASS is the largest Russian news agency and one of the largest news agencies worldwide.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/TASS"
+				]
+			},
+			"uuid": "8a7433e0-9fb9-11ec-b909-0242ac120002",
+			"value": "The Russian News Agency TASS"
+		},
+		{
+			"description": "Izvestia is a daily broadsheet newspaper in Russia. Founded in 1917, it was a newspaper of record in the Soviet Union until the Soviet Union's dissolution in 1991.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Izvestia"
+				]
+			},
+			"uuid": "8a74353e-9fb9-11ec-b909-0242ac120002",
+			"value": "Izvestia (News Agency)"
+		},
+		{
+			"description": "Russian news agency. St. Petersburg, Russia.",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag519.htm"
+				]
+			},
+			"uuid": "8a74366a-9fb9-11ec-b909-0242ac120002",
+			"value": "Fontanka (News Agency)"
+		},
+		{
+			"description": "RBC is a leading Russian business media holding with presence on all key content platforms - the Internet, TV and printed publications. In addition to media projects the company holds business events on a regular basis - industry conferences, business regattas, and awards. Another major business focus of RBC is domain name registration and hosting that open up extensive opportunities to conducting business over the Internet. RBC’s mission has remained unchanged for over 20 years since the company’s inception - we are seeking to provide our audience with up-to-date business information and services, as well as convenient platforms for exchanging knowledge and sharing experience, and by doing so we help make decisions about career and business.",
+			"meta": {
+				"refs": [
+					"http://rbcholding.com/business.shtml"
+				]
+			},
+			"uuid": "8a7438c2-9fb9-11ec-b909-0242ac120002",
+			"value": "RBC (News Agency)"
+		},
+		{
+			"description": "Kommersant is a nationally distributed daily newspaper published in Russia mostly devoted to politics and business. The TNS Media and NRS Russia certified July 2013 circulation of the daily was 120,000–130,000. It is owned by Alisher Usmanov.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Kommersant"
+				]
+			},
+			"uuid": "8a7439ee-9fb9-11ec-b909-0242ac120002",
+			"value": "Kommersant (News Agency)"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

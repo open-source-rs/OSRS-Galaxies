@@ -497,6 +497,26 @@
       "value": "Nvidia Corporation"
     },
 	{
+      "description": "Bridgestone Corporation is a Japanese multinational auto and truck parts manufacturer founded in 1931 by Shojiro Ishibashi in the city of Kurume, Fukuoka, Japan. The name Bridgestone comes from a calque translation and transposition of ishibashi, meaning stone bridge in Japanese.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Bridgestone"
+        ]
+      },
+      "uuid": "9d8bca9a-9fb6-11ec-b909-0242ac120002",
+      "value": "Bridgestone Corporation"
+    },
+	{
+      "description": "Axis offers intelligent security solutions that enable a smarter, safer world. As the market leader in network video, Axis is driving the industry by continually launching innovative network products based on an open platform - delivering high value to customers through a global partner network. Axis has long-term relationships with partners and provides them with knowledge and ground-breaking network products in existing and new markets.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/axis-communications/about/"
+        ]
+      },
+      "uuid": "9d8bcc0c-9fb6-11ec-b909-0242ac120002",
+      "value": "Axis Communications AB"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
