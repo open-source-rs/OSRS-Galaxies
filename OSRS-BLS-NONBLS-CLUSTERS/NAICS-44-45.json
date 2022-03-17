@@ -657,6 +657,16 @@
 			"value": "Camaieu"
 		},
 		{
+			"description": "Rompetrol is of KMG International of Romanian origin, initially as a company representative of the Romanian oil and gas industry on international level, becoming later an international oil group with operations in 12 countries, known as The Rompetrol Group N.V.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rompetrol"
+				]
+			},
+			"uuid": "ea664560-a606-11ec-b909-0242ac120002",
+			"value": "Rompetrol"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

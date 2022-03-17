@@ -286,6 +286,16 @@
 			"value": "TPG Telecom"
 		},
 		{
+			"description": "Viasat is a global communications company that believes everyone and everything can be connected. That’s why we’re building the ultimate communications network, to enable great, global connectivity to be brought to where it’s needed and wanted most - to homes all over the world, to faraway communities, to warfighters on the battlefield, and to people in the air or at sea.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/viasat/"
+				]
+			},
+			"uuid": "ea664696-a606-11ec-b909-0242ac120002",
+			"value": "Viasat Inc."
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [

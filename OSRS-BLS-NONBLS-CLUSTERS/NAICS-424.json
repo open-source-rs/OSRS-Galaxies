@@ -17,6 +17,16 @@
       "value": "Test Merchant Wholesalers, Nondurable Goods Value"
     },
 	{
+      "description": "Exclusive Distributor for Nespresso. South Africa.",
+      "meta": {
+        "refs": [
+          "https://www.facebook.com/pages/Top-Coffee-Exclusive-Distributor-for-Nespresso/345905129255493"
+        ]
+      },
+      "uuid": "ea66425e-a606-11ec-b909-0242ac120002",
+      "value": "Top Coffee - Exclusive Distributor for Nespresso"
+    },
+	{
       "description": "MATTHEW CLARK BIBENDUM LIMITED is located in BRISTOL, United Kingdom and is part of the Food Wholesalers Industry. MATTHEW CLARK BIBENDUM LIMITED has 1,811 employees at this location and generates 1.32 billion in sales (USD). (There are 100 companies in the MATTHEW CLARK BIBENDUM LIMITED corporate family.",
       "meta": {
         "refs": [

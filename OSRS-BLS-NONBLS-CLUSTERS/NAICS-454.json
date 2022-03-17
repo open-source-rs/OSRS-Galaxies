@@ -137,6 +137,16 @@
       "value": "OpenSea"
     },
 	{
+      "description": "Founded in 1999 and headquartered in Buenos Aires, Argentina, Mercado Libre is Latin America’s leading e-commerce technology company.  Through its primary platforms, MercadoLibre.com and MercadoPago.com, it provides solutions to individuals and companies buying, selling, advertising, and paying for goods online. Mercado Libe serves millions of users and creates a market for a wide variety of goods and services in an easy, safe and efficient way.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/mercadolibre/about/"
+        ]
+      },
+      "uuid": "ea66438a-a606-11ec-b909-0242ac120002",
+      "value": "Mercado Libre, Inc."
+    },
+	{
       "description": "Wanelo is a digital mall where people can discover and buy products on the internet. The site has over 12 million products posted by users from over 300,000 stores, including both large brands and independent sellers, like those found on Etsy.",
       "meta": {
         "refs": [

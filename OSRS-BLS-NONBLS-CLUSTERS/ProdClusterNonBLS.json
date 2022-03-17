@@ -5190,6 +5190,86 @@
 			"value": "Nuclear Safety Institute Of The Russian Academy Of Sciences"
 		},
 		{
+			"description": "1117 Marine Ave. Worthington, MN 56187",
+			"meta": {
+				"refs": [
+					"https://www.isd518.net/"
+				]
+			},
+			"uuid": "6b47bbc0-a605-11ec-b909-0242ac120002",
+			"value": "Independent School District 518"
+		},
+		{
+			"description": "The Ministry of Energy of the Russian Federation is, since 2008, the Russian federal ministry responsible for energy policy.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Energy_(Russia)"
+				]
+			},
+			"uuid": "6b47c002-a605-11ec-b909-0242ac120002",
+			"value": "Ministry of Energy of the Russian Federation"
+		},
+		{
+			"description": "The Federal State Statistics Service is the governmental statistics agency in Russia. Since 2017, it is again part of the Ministry of Economic Development, having switched several times in the previous decades between that ministry and being directly controlled by the federal government.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_State_Statistics_Service_(Russia)"
+				]
+			},
+			"uuid": "6b47c1a6-a605-11ec-b909-0242ac120002",
+			"value": "The Federal State Statistics Service"
+		},
+		{
+			"description": "The Federal Penitentiary Service is a federal agency of the Ministry of Justice of Russia responsible for correctional services.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Penitentiary_Service"
+				]
+			},
+			"uuid": "6b47c4a8-a605-11ec-b909-0242ac120002",
+			"value": "The Federal Penitentiary Service"
+		},
+		{
+			"description": "The Federal Bailiffs Service or Federal Service of Court Bailiffs is a federal law enforcement agency of the Ministry of Justice of Russia.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Bailiffs_Service_(Russia)"
+				]
+			},
+			"uuid": "6b47c5fc-a605-11ec-b909-0242ac120002",
+			"value": "The Federal Bailiffs Service"
+		},
+		{
+			"description": "The Federal Antimonopoly Service of Russia is the federal-level executive governmental organ that controls the execution of the antitrust law and related areas.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Antimonopoly_Service"
+				]
+			},
+			"uuid": "3330611e-a606-11ec-b909-0242ac120002",
+			"value": "The Federal Antimonopoly Service"
+		},
+		{
+			"description": "The Ministry of Culture of the Russian Federation is a ministry of the Government of Russia responsible for state policy in cultural spheres such as art, cinematography, archives, copyright, cultural heritage, and censorship.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Culture_(Russia)"
+				]
+			},
+			"uuid": "33306574-a606-11ec-b909-0242ac120002",
+			"value": "Ministry of Culture of the Russian Federation"
+		},
+		{
+			"description": "The Brownsville Public Utilities Board (BPUB) leadership is delegated to the BPUB Board of Directors. The Board is composed of seven members - six appointed by the City Commission to four-year terms and the Brownsville Mayor serving as a seventh member (ex-officio).",
+			"meta": {
+				"refs": [
+					"https://www.brownsville-pub.com/about/bpub-board-of-directors/"
+				]
+			},
+			"uuid": "333069b6-a606-11ec-b909-0242ac120002",
+			"value": "Brownsville Public Utilities Board"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

@@ -1018,6 +1018,16 @@
 			"value": "Duncan Regional Hospital"
 		},
 		{
+			"description": "In the first decades of the 20th century, one Birmingham doctor had a vision of a healthcare delivery system that would combine physicians of various interests and specialties to coordinate patient care. He made annual month-long sabbaticals to Rochester, Minnesota where he studied with Charles and William Mayo, creators of the first organized, multispecialty, medical group practice in the United States. That Birmingham doctor was general surgeon Charles N. Carraway. Inspired by the progress he saw at the Mayo brother’s growing clinic and hospital complex, Dr. Carraway first built a 16-bed hospital and office next to his Pratt City home. In 1916, he purchased a lot on the corner of 16th Avenue and 26th Street in Birmingham and built Norwood Hospital (what is later known as Carraway Methodist Medical Center). Almost immediately he went to work planning an adjacent clinic building patterned after the Mayo model. During the next few years, enthusiasm for the idea grew as more doctors in more specialties came to share Dr. Carraway’s dream. And the idea of a group of medical doctors representing different specialties working together in one practice ultimately became Alabama’s first multispecialty medical group practice — Norwood Clinic. Norwood Clinic was incorporated in 1925 and opened its doors to the public in 1926 with convenient accessibility to Norwood Hospital for both patients and physicians.",
+			"meta": {
+				"refs": [
+					"https://www.norwoodclinic.com/about.html"
+				]
+			},
+			"uuid": "ea66410a-a606-11ec-b909-0242ac120002",
+			"value": "Norwood Clinic, AL"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
