@@ -1726,6 +1726,45 @@
       "value": "OSRS Backdoor: Daxin Backdoor"
     },
 	{
+      "description": "The most recent APT41 campaign began shortly after the release of CVE-2021-44228 and its related proof-of-concept exploits in December 2021. Exploiting this vulnerability, also known as Log4Shell, causes Java to fetch and deserialize a remote Java object, resulting in potential code execution. Similar to their previous web application targeting, APT41 continued to use YSoSerial generated deserialization payloads to perform reconnaissance and deploy backdoors. Notably, APT41 deployed a new variant of the KEYPLUG backdoor on Linux servers at multiple victims, a malware sub-family we now track as KEYPLUG.LINUX. KEYPLUG is a modular backdoor written in C++ that supports multiple network protocols for command and control (C2) traffic including HTTP, TCP, KCP over UDP, and WSS. APT41 heavily used the Windows version of the KEYPLUG backdoor at state government victims between June 2021 and December 2021, thus the deployment of a ported version of the backdoor closely following the state government campaign was significant.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/apt41-us-state-governments"
+        ]
+      },
+      "uuid": "47506f98-a5fe-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: KEYPLUG Backdoor"
+    },
+	{
+      "description": "The dropper.exe file will load, base64-decode, save to disk, and execute the java-sdk.exe file. The latter, in addition to ensuring consistency through the Windows registry, will also download, base64-decode, save to disk and run two other files -  microsoft-cortana.exe, classified as GraphSteel backdoor, and oracle-java.exe, which classified as GrimPlant backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/37704"
+        ]
+      },
+      "uuid": "4750720e-a5fe-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: GrimPlant Backdoor"
+    },
+	{
+      "description": "The dropper.exe file will load, base64-decode, save to disk, and execute the java-sdk.exe file. The latter, in addition to ensuring consistency through the Windows registry, will also download, base64-decode, save to disk and run two other files -  microsoft-cortana.exe, classified as GraphSteel backdoor, and oracle-java.exe, which classified as GrimPlant backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/37704"
+        ]
+      },
+      "uuid": "47507344-a5fe-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: GraphSteel Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

@@ -1713,6 +1713,19 @@
       "value": "OSRS Ransomware: HermeticRansom"
     },
 	{
+      "description": "Hive, which is one of the more notable ransomware families of 2021, made waves in the latter half of the year after breaching over 300 organizations in just four months — allowing the group to earn what could potentially be millions of US dollars in profit. In March 2022, we came across evidence that another, relatively unknown, ransomware known as Nokoyawa is likely connected with Hive, as the two families share some striking similarities in their attack chain, from the tools used to the order in which they execute various steps. Currently, the majority of Nokoyawa’s targets are located in South America, primarily in Argentina.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/c/nokoyawa-ransomware-possibly-related-to-hive-.html"
+        ]
+      },
+      "uuid": "475076a0-a5fe-11ec-b909-0242ac120002",
+      "value": "OSRS Ransomware: Nokoyawa Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

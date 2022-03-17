@@ -4011,6 +4011,19 @@
       "value": "OSRS OSINT Source: ZeroFox"
     },
 	{
+      "description": "Government Team for Response to Computer Emergencies of Ukraine, which operates within the State Center for Cyber ​​Defense of the State Service for Special Communications and Information Protection of Ukraine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cert.gov.ua/about-us"
+        ]
+      },
+      "uuid": "89a3ebe4-a5ff-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: CERT-UA"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

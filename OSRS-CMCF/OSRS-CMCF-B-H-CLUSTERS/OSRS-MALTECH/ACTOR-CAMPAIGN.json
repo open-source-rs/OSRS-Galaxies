@@ -3972,6 +3972,19 @@
       "value": "OSRS Actors AND Campaigns: Operation Asylum Ambuscade"
     },
 	{
+      "description": "At the start of 2022, CrowdStrike Intelligence and CrowdStrike Services investigated an incident in which PROPHET SPIDER exploited CVE-2021-22941 — a remote code execution (RCE) vulnerability impacting Citrix ShareFile Storage Zones Controller — to compromise a Microsoft Internet Information Services (IIS) web server. The adversary exploited the vulnerability to deploy a webshell that enabled the downloading of additional tools. This incident highlights how PROPHET SPIDER continues to evolve their tradecraft while continuing to exploit known web-server vulnerabilities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/"
+        ]
+      },
+      "uuid": "dd5d3f58-a5fd-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: PROPHET SPIDER"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

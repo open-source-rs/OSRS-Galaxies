@@ -8979,6 +8979,45 @@
       "value": "OSRS Tool: TeaBot Android Banking Trojan"
     },
 	{
+      "description": "Gh0stCringe, also called CirenegRAT, is one of the variants based on the code of Gh0st RAT. It was first identified around December 2018 and is known to have spread via an SMB vulnerability (using ZombieBoy's SMB vulnerability tool). Since then, direct correlation has not been confirmed, but it has been mentioned in the KingMiner Coin Miner Analysis Report published around June 2020.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/32394/"
+        ]
+      },
+      "uuid": "89a3e40a-a5ff-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Gh0stCringe RAT"
+    },
+	{
+      "description": "The malware is written in .NET programming language and spreads as a worm by copying itself under the file name to all removable disks and mapped network shares. Translated into English, the file name reads as Russia-Ukraine_War-Update.doc.exe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html"
+        ]
+      },
+      "uuid": "89a3e6d0-a5ff-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: RURansom Wiper"
+    },
+	{
+      "description": "Deployment of PowerShell commands and scripts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/c/nokoyawa-ransomware-possibly-related-to-hive-.html"
+        ]
+      },
+      "uuid": "89a3e89c-a5ff-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Coroxy Dropper"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

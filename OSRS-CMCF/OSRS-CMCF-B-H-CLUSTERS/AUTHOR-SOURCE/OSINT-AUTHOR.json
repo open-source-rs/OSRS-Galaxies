@@ -10369,6 +10369,19 @@
       "value": "OSRS OSINT Author Index: Research and Intelligence Fusion Team (RIFT)"
     },
 	{
+      "description": "Government Team for Response to Computer Emergencies of Ukraine, which operates within the State Center for Cyber ​​Defense of the State Service for Special Communications and Information Protection of Ukraine.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://cert.gov.ua/about-us"
+        ]
+      },
+      "uuid": "89a3e9d2-a5ff-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: CERT-UA"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
