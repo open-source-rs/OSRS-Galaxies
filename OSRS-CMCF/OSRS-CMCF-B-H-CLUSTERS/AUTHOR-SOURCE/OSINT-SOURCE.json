@@ -4024,6 +4024,19 @@
       "value": "OSRS OSINT Source: CERT-UA"
     },
 	{
+      "description": "Abnormal is the most precise human behavior security engine for blocking all email attacks, including phishing, malware, ransomware, social engineering, executive impersonation, supply chain compromise, internal account compromise, spam, and graymail.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://abnormalsecurity.com/blog"
+        ]
+      },
+      "uuid": "b5511338-aab0-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Source: Abnormal Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

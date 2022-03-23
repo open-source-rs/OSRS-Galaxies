@@ -1765,6 +1765,45 @@
       "value": "OSRS Backdoor: GraphSteel Backdoor"
     },
 	{
+      "description": "In short, B1txor20 is a Backdoor for the Linux platform, which uses DNS Tunnel technology to build C2 communication channels. In addition to the traditional backdoor functions, B1txor20 also has functions such as opening Socket5 proxy and remotely downloading and installing Rootkit.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/b1txor20-use-of-dns-tunneling_en/"
+        ]
+      },
+      "uuid": "00251fc4-aaa9-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: B1txor20 Backdoor"
+    },
+	{
+      "description": "The threat actor attempted to install a backdoor on a potential victim’s device, which could enable remote administration, command and control (C2), data theft, or deliver other additional payloads. Proofpoint refers to this backdoor as Serpent. The ultimate objective of the threat actor is currently unknown.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain"
+        ]
+      },
+      "uuid": "0025242e-aaa9-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: Serpent Backdoor"
+    },
+	{
+      "description": "Alongside SLAPSTICK, UNC2891 often installed a custom variant of the publicly available TINYSHELL backdoor. UNC2891 TINYSHELL backdoors leveraged an external encrypted configuration file and some variants included additional functionality, such as the ability to communicate via a HTTP proxy with basic authentication. In line with the group’s familiarity with Unix and Linux based systems, UNC2891 often named and configured their TINYSHELL backdoors with values that masqueraded as legitimate services that might be overlooked by investigators, such as systemd (SYSTEMD), name service cache daemon (NCSD), and the Linux at daemon (ATD).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/unc2891-overview"
+        ]
+      },
+      "uuid": "002525a0-aaa9-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: TINYSHELL Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

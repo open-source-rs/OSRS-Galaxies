@@ -1028,6 +1028,36 @@
 			"value": "Norwood Clinic, AL"
 		},
 		{
+			"description": "East Tennessee Children's Hospital is a 152-bed hospital certified by the state of Tennessee as one of four Comprehensive Regional Pediatric Center in Tennessee and is accredited by the Joint Commission. As a Comprehensive Regional Pediatric Center, Children's Hospital offers full capabilities to care for seriously ill children in a unique pediatric environment and offers the services of many different pediatric subspecialties. Children's Hospital works jointly with the University of Tennessee Medical Center to ensure that injured children in this region receive trauma care at the institution most appropriate for the child's needs. We also assist smaller hospitals by providing pediatric health care training opportunities.",
+			"meta": {
+				"refs": [
+					"https://www.etch.com/about-us/"
+				]
+			},
+			"uuid": "3f49f096-aabb-11ec-b909-0242ac120002",
+			"value": "East Tennessee Children's Hospital"
+		},
+		{
+			"description": "Located in the heart of Southeast Kansas, Labette Health is a 99-bed hospital that provides acute, intensive and inpatient rehabilitation services. Labette Health is situated at the southern edge of Parsons, a community of 11,500 residents. Serving a six-county area since 1961, Labette Health has earned recognition as a respected regional medical center renowned for its comprehensive healthcare services, skilled and caring employees, state-of-the-art medical technology, and dedicated and talented medical staff.",
+			"meta": {
+				"refs": [
+					"https://www.labettehealth.com/about-us/"
+				]
+			},
+			"uuid": "3f49f730-aabb-11ec-b909-0242ac120002",
+			"value": "Labette Health"
+		},
+		{
+			"description": "In 1943, a group of Central Missouri physicians concerned about the lack of hospital facilities for their patients, met to discuss the possibility of building a hospital. They planned for and raised funds to build Charles E. Still Osteopathic Hospital. The 35-bed hospital at 1125 Madison was dedicated on March 28, 1951. Developing the first hospital-based home health agency in Central Missouri in 1984 and the first state and federally funded skilled nursing facility in 1985 are just a couple examples of Still Hospital's continued commitment to providing quality healthcare to the citizens of mid-Missouri. By 1990, the name had changed to Still Regional Medical Center and the facility had grown to a 142-bed hospital with six satellite clinics, an osteopathic teaching program and more than 700 employees.",
+			"meta": {
+				"refs": [
+					"https://www.crmc.org/about-us/history/"
+				]
+			},
+			"uuid": "3f49f8ac-aabb-11ec-b909-0242ac120002",
+			"value": "Capital Region Medical Center, MO"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

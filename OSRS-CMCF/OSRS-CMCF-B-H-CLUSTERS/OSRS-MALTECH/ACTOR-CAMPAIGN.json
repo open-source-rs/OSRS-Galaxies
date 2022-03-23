@@ -3985,6 +3985,32 @@
       "value": "OSRS Actors AND Campaigns: PROPHET SPIDER"
     },
 	{
+      "description": "From the TAG blog we can learn that Exotic Lily was very much specialized. Their initial attack vector was email. Initially, they were targeting specific industries such as IT, cybersecurity, and healthcare, but that focus has become less stringent. Their email campaigns gained credibility by spoofing companies and employees. Their email campaigns were targeted to a degree that they are believed to be sent by real human operators using little to no automation. To evade detection mechanisms they used common services like WeTransfer, TransferNow, and OneDrive to deliver the payload.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-spotlight/2022/03/meet-exotic-lily-access-broker-for-ransomware-and-other-malware-peddlers/"
+        ]
+      },
+      "uuid": "52997922-aaa8-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Exotic Lily (Access Broker)"
+    },
+	{
+      "description": "UNC2891 intrusions appear to be financially motivated and in some cases spanned several years through which the actor had remained largely undetected. UNC2891 demonstrated fluency and expertise in Unix and Linux environments, mostly through the targeting of Oracle Solaris based systems with TINYSHELL and SLAPSTICK backdoors. Mandiant observed UNC2891 operate with a high degree of OPSEC and leverage both public and private malware, utilities, and scripts to remove evidence and hinder response efforts. Mandiant discovered a previously unknown rootkit for Oracle Solaris systems that UNC2891 used to remain hidden in victim networks, we have named this CAKETAP. One Variant of CAKETAP manipulated messages transiting a victims Automatic Teller Machine (ATM) switching network. It is believed this was leveraged as part of a larger operation to perform unauthorized cash withdrawals at several banks using fraudulent bank cards.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/unc2891-overview"
+        ]
+      },
+      "uuid": "52997b7a-aaa8-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC2891"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

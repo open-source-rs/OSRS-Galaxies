@@ -2150,6 +2150,16 @@
 			"value": "Monongalia Health System, Inc."
 		},
 		{
+			"description": "Physynergy, LLC is located in Nashville, TN, United States and is part of the Offices of Physicians Industry. Physynergy, LLC has 51 employees at this location. (Employees figure is modelled). There are 2 companies in the Physynergy, LLC corporate family.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.physynergy_llc.0ef29ce07ad7ba8bffdd34d27bf926f8.html"
+				]
+			},
+			"uuid": "94bd0e06-aaba-11ec-b909-0242ac120002",
+			"value": "PhySynergy, LLC"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

@@ -327,6 +327,16 @@
 			"value": "Apex America"
 		},
 		{
+			"description": "TransUnion is a global information and insights company that makes trust possible between businesses and consumers, by ensuring that each consumer is reliably and safely represented in the marketplace.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/transunion/about/"
+				]
+			},
+			"uuid": "94bd047e-aaba-11ec-b909-0242ac120002",
+			"value": "TransUnion"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

@@ -517,6 +517,26 @@
       "value": "Axis Communications AB"
     },
 	{
+      "description": "DENSO Corporation is a global automotive components manufacturer headquartered in the city of Kariya, Aichi Prefecture, Japan. After becoming independent from Toyota Motor, the company was founded as Nippon Denso Co. Ltd. in 1949. About 25 percent of the company is owned by Toyota. Despite being a part of the Toyota Group of companies, as of the year ending March 2016, sales to the Toyota Group accounted for less than 50 percent of total revenue (44 percent of revenue originated from other car manufacturers in Japan, Germany, the U.S. and China). In 2016, Denso was the fourth largest auto parts supplier in the world.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Denso"
+        ]
+      },
+      "uuid": "d76450b0-aabb-11ec-b909-0242ac120002",
+      "value": "DENSO Corporation"
+    },
+	{
+      "description": "Rostec, officially the State Corporation for Assistance to Development, Production and Export of Advanced Technology Industrial Product Rostec and formerly Rostekhnologii, is a Russian state-owned defense conglomerate headquartered in Moscow. Established in 2007, the organization comprises about 700 enterprises, which together form 14 holding companies: eleven in the defense-industry complex and three in civil sectors. Rostec's organizations are located in 60 constituents of the Russian Federation and supply goods to over 70 countries worldwide. The organization is headed by Sergey Chemezov, appointed to the position by Russian leader Vladimir Putin.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Rostec"
+        ]
+      },
+      "uuid": "d7645682-aabb-11ec-b909-0242ac120002",
+      "value": "Rostec"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

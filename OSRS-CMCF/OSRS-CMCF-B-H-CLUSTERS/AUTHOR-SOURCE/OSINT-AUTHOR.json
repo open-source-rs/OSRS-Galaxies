@@ -10382,6 +10382,32 @@
       "value": "OSRS OSINT Author Index: CERT-UA"
     },
 	{
+      "description": "Consultant, Professional Services at Mandiant. Kyoto University. Tokyo, Tokyo, Japan.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/takahiro-sugiyama-72115a102/?originalSubdomain=jp"
+        ]
+      },
+      "uuid": "b5510eb0-aab0-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Takahiro Sugiyama"
+    },
+	{
+      "description": "Senior Threat Researcher at Abnormal Security. Temecula, California, United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/belem-regalado/"
+        ]
+      },
+      "uuid": "b55111bc-aab0-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Belem Regalado"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

@@ -5270,6 +5270,56 @@
 			"value": "Brownsville Public Utilities Board"
 		},
 		{
+			"description": "Local school district. 1 Highlander Court, Litchfield, NH 03052.",
+			"meta": {
+				"refs": [
+					"https://www.litchfieldsd.org/"
+				]
+			},
+			"uuid": "6467929c-aab2-11ec-b909-0242ac120002",
+			"value": "Litchfield School District, NH"
+		},
+		{
+			"description": "Fresno is a major city in the San Joaquin Valley of California. It is the county seat of Fresno County and the largest city in the greater Central Valley region. It covers about 112 square miles (290 km2) and had a population of 542,107 in 2020, making it the fifth-most populous city in California, the most populous inland city in California, and the 34th-most populous city in the nation.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Fresno,_California"
+				]
+			},
+			"uuid": "646795b2-aab2-11ec-b909-0242ac120002",
+			"value": "The City of Fresno"
+		},
+		{
+			"description": "The Altoona Area School District is a large, urban, public school district based in Altoona, Pennsylvania. The school district encompasses 59.6 square miles (154 km2) which includes all of Altoona, Logan Township and a small portion of Tyrone Township. According to 2000 federal census data, it serves a resident population of 63,248. Per District officials, in school year 2007-08 the Altoona Area School District provided basic educational services to 7,946 pupils. The District employed 569 teachers, 557 full-time and part-time support personnel, and 36 administrators. Altoona Area School District had a student body of approximately 8,000 in 2000, it was the 18th largest school district in Pennsylvania. It is one of the largest employers in Blair County with a staff of over 1,500. In 2002, the Altoona Area School District achieved its long-term goal of becoming ISO 9001 certified. It was the fifth school district in the United States to achieve this designation. AASD received more than $51.7 million in state funding in school year 2007-08.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Altoona_Area_School_District"
+				]
+			},
+			"uuid": "64679760-aab2-11ec-b909-0242ac120002",
+			"value": "Altoona Area School District"
+		},
+		{
+			"description": "The Ministry of Health of the Russian Federation is a ministry of the Government of Russia responsible for health care and public health. The Ministry of Health oversees the legal regulation and state policies of health in Russia, including pharmaceuticals, the public health care system, health insurance, medical rehabilitation, sanitation, disease prevention, and the circulation of medicines. It is headquartered in Tverskoy District, Moscow. The Ministry of Health was formed in 2012 from the Ministry of Health and Social Development which was split in two under Prime Minister Dmitry Medvedev, with the social security departments forming the Ministry of Labour and Social Affairs.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Health_(Russia)"
+				]
+			},
+			"uuid": "646799b8-aab2-11ec-b909-0242ac120002",
+			"value": "Ministry of Health (Russia)"
+		},
+		{
+			"description": "Chelan-Douglas Health District’s mission is to protect and improve the health of individuals and communities in Chelan and Douglas counties through the promotion of health and the prevention of disease and injury.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/chelan-douglas-health-district/about/"
+				]
+			},
+			"uuid": "64679b3e-aab2-11ec-b909-0242ac120002",
+			"value": "Chelan-Douglas Health District"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

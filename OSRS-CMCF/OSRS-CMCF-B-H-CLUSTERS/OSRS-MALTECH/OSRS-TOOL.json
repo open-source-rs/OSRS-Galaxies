@@ -9018,6 +9018,59 @@
       "value": "OSRS Tool: Coroxy Dropper"
     },
 	{
+      "description": "As war in Ukraine rages, new destructive malware continues to be discovered. In this short blog post, we will review IsaacWiper and CaddyWiper, two new wipers that do not have much in common based on their source code, but with the same intent of destroying targeted Ukrainian computer systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/03/double-header-isaacwiper-and-caddywiper/"
+        ]
+      },
+      "uuid": "2369eae6-aaae-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: CaddyWiper"
+    },
+	{
+      "description": "Commodity malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/webinar-on-cyberattacks-in-ukraine-summary-and-qa/106075/"
+        ]
+      },
+      "uuid": "2369ed2a-aaae-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: PandoraBlade"
+    },
+	{
+      "description": "Mandiant discovered UNC2891 leveraging a similar in-memory dropper that also used environment variables to decrypt its embedded payload but instead relied on RC4 encryption, we have named this STEELHOUND. In addition to functioning as dropper for an embedded payload, STEELHOUND is also able to encrypt new payloads by encrypting a target binary and writing it to disk along with a copy of itself and an end-of-file configuration.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/unc2891-overview"
+        ]
+      },
+      "uuid": "2369ee6a-aaae-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: STEELHOUND Dropper"
+    },
+	{
+      "description": "The malware samples disseminated in Portugal open a legitimate webpage to lure the victims during the execution of the 1st stage. After that, the malware creates persistence, disables Internet Explorer security settings to facilitate the download of the 2nd stage from the Internet. In short, the 2nd stage – maxtrilha trojan – checks or creates persistence when executed on the target machine, uses a mechanism of capturing details from opened foreground windows matching its name with specific hardcoded strings related to banking companies, launches banking windows overlay, can deploy new payloads and communicates with the C2 server in real-time.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://seguranca-informatica.pt/brazilian-trojan-impacting-portuguese-users-and-using-the-same-capabilities-seen-in-other-latin-american-threats/#.YjnBrOrMKUk",
+		  "https://seguranca-informatica.pt/the-new-maxtrilha-trojan-is-being-disseminated-and-targeting-several-banks/#.Yjshw-rMKUl"
+        ]
+      },
+      "uuid": "2369ef96-aaae-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Maxtrilha Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

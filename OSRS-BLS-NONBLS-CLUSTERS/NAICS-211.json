@@ -37,6 +37,16 @@
       "value": "Royal Dutch Shell"
     },
 	{
+      "description": "PJSC Rosneft Oil Company is a Russian integrated energy company headquartered in Moscow. Rosneft specializes in the exploration, extraction, production, refining, transport, and sale of petroleum, natural gas, and petroleum products. The company is controlled by the Russian government through the Rosneftegaz holding company. Its name is a portmanteau of the Russian words Rossiyskaya neft.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Rosneft"
+        ]
+      },
+      "uuid": "4f9bcea4-aabd-11ec-b909-0242ac120002",
+      "value": "PJSC Rosneft Oil Company"
+    },
+	{
       "description": "CPC Corporation, Taiwan is a state-owned petroleum, natural gas, and gasoline company in Taiwan and is the core of the Taiwanese petrochemicals industry.",
       "meta": {
         "refs": [

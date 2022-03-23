@@ -1100,6 +1100,16 @@
 			"value": "Priorbank OAO"
 		},
 		{
+			"description": "The IBERIABANK philosophy is to exceed client satisfaction by delivering unparalleled customer service at every point of contact. We are committed to offering products and services customized to meet your financial needs. We provide a comprehensive financial product line including Retail, Commercial, Private Banking, Mortgage, Treasury Management, Online Banking and Investment services. Our relationship-based approach to banking focuses on making decisions locally, close to our clients. We recognize that local decision making gives you more time for the things in life that matter most.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/iberiabank/about/"
+				]
+			},
+			"uuid": "94bd06fe-aaba-11ec-b909-0242ac120002",
+			"value": "IBERIABANK"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
