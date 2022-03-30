@@ -10408,6 +10408,32 @@
       "value": "OSRS OSINT Author Index: Belem Regalado"
     },
 	{
+      "description": "Senior Threat Researcher at SentinelOne. United States.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/tom-hegel/"
+        ]
+      },
+      "uuid": "50057514-b046-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Tom Hegel"
+    },
+	{
+      "description": "Malware Researcher at ESET. Greater Montreal Metropolitan Area.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/alexandre-barberousse-cote-cyr/?originalSubdomain=ca"
+        ]
+      },
+      "uuid": "5005767c-b046-11ec-b909-0242ac120002",
+      "value": "OSRS OSINT Author Index: Alexandre Cote Cyr"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

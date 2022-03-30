@@ -1804,6 +1804,32 @@
       "value": "OSRS Backdoor: TINYSHELL Backdoor"
     },
 	{
+      "description": "The HeaderTip malware and associated phishing campaign utilizing Macro-enabled documents appears to be a first-stage infection attempt. At this point in time, the threat actor’s further objectives and motivations remain unclear.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/"
+        ]
+      },
+      "uuid": "ea30a68e-b03e-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: HeaderTip Backdoor"
+    },
+	{
+      "description": "LoadEdge is a backdoor developed by means of the C++ programming language. This malware supports the following commands - fileEx, copyOverNw, diskops, disks, download, upload, getconf, setinterval, startr, killr, kill. The LoadEdge backdoor capabilities are as follows - Receive information about the compromised disks, Download and upload files, Conduct operations with the file system, Execute an interactive reverse shell (on a remote TCP port 1337), and Delete data. Persistence is maintained through the HTA-file by creating a record in the Run brach of Windows registry or directly via Windows registry with the McAfee value set to disabled. Communication with the C&C server is achieved via HTTP using the JSON format.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://socprime.com/blog/invisimole-cyber-espionage-group-resurfaces-to-attack-ukrainian-government-entities-via-targeted-spear-phishing-cert-ua-warning/"
+        ]
+      },
+      "uuid": "ea30a7ce-b03e-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: LoadEdge Trojan"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

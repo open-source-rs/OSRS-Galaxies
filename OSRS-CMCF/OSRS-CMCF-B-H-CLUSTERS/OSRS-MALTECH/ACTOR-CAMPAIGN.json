@@ -4011,6 +4011,38 @@
       "value": "OSRS Actors AND Campaigns: UNC2891"
     },
 	{
+      "description": "Ukraine CERT (CERT-UA) has released new details on UAC-0026, which SentinelLabs confirms is associated with the suspected Chinese threat actor known as Scarab. The malicious activity represents one of the first public examples of a Chinese threat actor targeting Ukraine since the invasion began. Scarab has conducted a number of campaigns over the years, making use of a custom backdoor originally known as Scieron, which may be the predecessor to HeaderTip. While technical specifics vary between campaigns, the actor generally makes use of phishing emails containing lure documents relevant to the target, ultimately leading to the deployment of HeaderTip.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/"
+        ],
+        "synonyms": [
+        "Scarab Threat Group"
+        ]
+      },
+      "uuid": "ea30a2d8-b03e-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0026"
+    },
+	{
+      "description": "The Government Team for Response to Computer Emergencies of Ukraine CERT-UA received a notification from the subject of coordination on the distribution of e-mails among state bodies of Ukraine. Attached to the letter is the archive 501_25_103.zip, which contains the eponymous shortcut file. If you open an LNK file, an HTA file will be downloaded and executed on your computer. The latter contains VBScript code, which will download and decode the bait file and the malicious program LoadEdge, which, in turn, should ensure the destruction of the computer by other malicious programs from the arsenal of the group: TunnelMole (DNS backdoor), RC2CL or others. The activity is associated with the activities of the UAC-0035 group (InvisiMole). Note that the date of compilation of the malicious program LoadEdge - 24.02.2022.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/37829"
+        ],
+        "synonyms": [
+        "InvisiMole"
+        ]
+      },
+      "uuid": "ea30a544-b03e-11ec-b909-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0035"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

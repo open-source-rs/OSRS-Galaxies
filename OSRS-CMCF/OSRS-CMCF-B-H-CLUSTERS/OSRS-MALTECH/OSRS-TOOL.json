@@ -9071,6 +9071,46 @@
       "value": "OSRS Tool: Maxtrilha Trojan"
     },
 	{
+      "description": "DoubleZero is a .NET-based implant that destroys files, registry keys and trees on the infected endpoint.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/03/threat-advisory-doublezero.html"
+        ]
+      },
+      "uuid": "50056f60-b046-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: DoubleZero Wiper"
+    },
+	{
+      "description": "ESET researchers discovered a still-ongoing campaign using a previously undocumented Korplug variant, which they named Hodur due to its resemblance to the THOR variant previously documented by Unit 42 in 2020. In Norse mythology, Hodur is Thor’s blind half-brother, who is tricked by Loki into killing their half-brother Baldr.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/"
+        ]
+      },
+      "uuid": "5005721c-b046-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Hodur Loader"
+    },
+	{
+      "description": "First observed in 2021 and advertised as a standalone version on various cybercriminal forums, Mars is an information stealer mainly targeting Windows victim credentials and cryptocurrency wallets including 2FA plugins and any essential system information. Mars is also capable of loading any type of file by downloading and executing them from a given drop-zone.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://isc.sans.edu/diary/Arkei+Variants%3A+From+Vidar+to+Mars+Stealer/28468",
+		  "https://cyberint.com/blog/research/mars-stealer/"
+        ]
+      },
+      "uuid": "500573ac-b046-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Mars Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
