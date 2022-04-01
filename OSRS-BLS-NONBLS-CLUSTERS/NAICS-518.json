@@ -238,6 +238,16 @@
       "value": "iTCo Solutions Ltd"
     },
 	{
+      "description": "ZAP-Hosting GmbH & Co. KG has been offering game servers, dedicated servers, virtual servers, root servers, Teamspeak 3 servers, webspaces, domains, and MyMusicBots for Teamspeak 3.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/zaphosting/about/"
+        ]
+      },
+      "uuid": "08109bf2-b1d2-11ec-b909-0242ac120002",
+      "value": "ZAP-Hosting GmbH & Co. KG"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [
