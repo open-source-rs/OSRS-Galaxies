@@ -405,6 +405,16 @@
 			"value": "Wheeling Health Right Inc"
 		},
 		{
+			"description": "The National Rifle Association of America is a gun rights advocacy group based in the United States. Founded in 1871 to advance rifle marksmanship, the modern NRA has become a prominent gun rights lobbying organization while continuing to teach firearm safety and competency.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/National_Rifle_Association"
+				]
+			},
+			"uuid": "f951af6a-b1d7-11ec-b909-0242ac120002",
+			"value": "The National Rifle Association of America (NRA)"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
