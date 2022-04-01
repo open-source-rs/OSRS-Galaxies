@@ -337,6 +337,16 @@
 			"value": "TransUnion"
 		},
 		{
+			"description": "With 160,000 people around the globe – working from home or from one of our CX hubs – we securely connect best-loved brands with their customers over 8 million times every day in 50 languages. Whether digital or voice-based, our solutions deliver a competitive edge across all customer touchpoints. Our award-winning culture is built on 40 years of industry-leading experience and commitment to improving the employee experience.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/sitelgroup/about/"
+				]
+			},
+			"uuid": "53735914-b1b3-11ec-b909-0242ac120002",
+			"value": "Sitel Group"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

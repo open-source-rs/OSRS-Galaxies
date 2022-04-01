@@ -2160,6 +2160,16 @@
 			"value": "PhySynergy, LLC"
 		},
 		{
+			"description": "Initially opened in 1890, St. Joseph's Healthcare Hamilton is a multi-site, values-based, academic health science centre affiliated with McMaster University and Mohawk College. We are committed to making a difference in people's lives and the future of our community through integrated health services and internationally recognized clinical and research programs. We are dedicated to providing compassionate, sensitive care to our patients and their families and to achieving excellence in health care through our ongoing commitment to education and research.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/st--joseph's-healthcare-hamilton/about/"
+				]
+			},
+			"uuid": "83a0e4e2-b1b5-11ec-b909-0242ac120002",
+			"value": "St. Joseph's Healthcare Hamilton"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

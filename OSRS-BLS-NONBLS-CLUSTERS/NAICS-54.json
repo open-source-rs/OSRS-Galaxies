@@ -3844,6 +3844,36 @@
 			"value": "GreenSlate"
 		},
 		{
+			"description": "HubSpot is a leading CRM platform that provides software and support to help businesses grow better. Our platform includes marketing, sales, service, and website management products that start free and scale to meet our customers’ needs at any stage of growth. Today, thousands of customers around the world use our powerful and easy-to-use tools and integrations to attract, engage, and delight customers.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/hubspot/about/"
+				]
+			},
+			"uuid": "5552211e-b1ba-11ec-b909-0242ac120002",
+			"value": "HubSpot"
+		},
+		{
+			"description": "Creative Services, Inc. (CSI) is a full-service background investigations and security consulting firm. Established in 1976, CSI provides comprehensive screening solutions, drug and alcohol testing, due diligence investigations, and security consulting to regulated and non-regulated industries. By combining advanced technologies with superior investigative, interviewing and analytical skills, CSI identifies areas of vulnerability and establishes customized strategies that mitigate risk, improve workplace safety and achieve regulatory compliance. CSI has held the distinction of being accredited by the National Association of Professional Background Screeners (NAPBS) since 2012.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/creative-services-inc./about/"
+				]
+			},
+			"uuid": "5552240c-b1ba-11ec-b909-0242ac120002",
+			"value": "Creative Services, Inc."
+		},
+		{
+			"description": "Okta is the leading independent identity provider. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With more than 7,000 pre-built integrations to applications and infrastructure providers, Okta provides simple and secure access to people and organizations everywhere, giving them the confidence to reach their full potential. More than 10,000 organizations, including JetBlue, Nordstrom, Siemens, Slack, T-Mobile, Takeda, Teach for America, and Twilio, trust Okta to help protect the identities of their workforces and customers.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/okta-inc-/about/"
+				]
+			},
+			"uuid": "555225ec-b1ba-11ec-b909-0242ac120002",
+			"value": "Okta, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

@@ -1110,6 +1110,26 @@
 			"value": "IBERIABANK"
 		},
 		{
+			"description": "We provide the wealth management products crypto investors need, all powered by blockchain technology. Currently, we service clients worldwide and in all U.S. states, with USD loans backed by crypto, interest earning accounts, and trading.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/blockfi/about/"
+				]
+			},
+			"uuid": "53735eb4-b1b3-11ec-b909-0242ac120002",
+			"value": "BlockFi"
+		},
+		{
+			"description": "Retirement insurance is the leading pension scheme in France, with 20 million contributors and 16 million retirees. The network of pension insurance employers is made up of the National Old Age Insurance Fund (Cnav), 15 pension and occupational health insurance funds (Carsat), 4 general social security funds (CGSS) in the overseas departments and the Social Security Fund (CSS) in Mayotte.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/assurance-retraite/about/"
+				]
+			},
+			"uuid": "53736062-b1b3-11ec-b909-0242ac120002",
+			"value": "l'Assurance retraite"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

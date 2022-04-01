@@ -385,6 +385,26 @@
 			"value": "Puerto Rican Organization To Motivate Enlighten & Serve Addicts Inc"
 		},
 		{
+			"description": "Around since 1923, SAMH is Scotland’s national mental health charity.",
+			"meta": {
+				"refs": [
+					"https://www.samh.org.uk/about-us"
+				]
+			},
+			"uuid": "55522790-b1ba-11ec-b909-0242ac120002",
+			"value": "The Scottish Association for Mental Health (SAMH)"
+		},
+		{
+			"description": "Wheeling Health Right Inc is a Free & Charitable Hybrid Clinic located at 61-29th St, Wheeling, West Virginia, United States.  We currently provide quality health care, pharmaceuticals, health education, mental health and dental care to over 15,000 patients in the Ohio Valley.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/wheeling-health-right-inc/about/"
+				]
+			},
+			"uuid": "55522ca4-b1ba-11ec-b909-0242ac120002",
+			"value": "Wheeling Health Right Inc"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

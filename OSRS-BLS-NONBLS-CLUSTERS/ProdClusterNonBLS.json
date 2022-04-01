@@ -5320,6 +5320,66 @@
 			"value": "Chelan-Douglas Health District"
 		},
 		{
+			"description": "The Senate is the upper house of the National Congress of Argentina.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Argentine_Senate"
+				]
+			},
+			"uuid": "e2b08bc8-b0ec-11ec-b909-0242ac120002",
+			"value": "Argentine Senate"
+		},
+		{
+			"description": "East Windsor is a township in Mercer County, New Jersey, United States. Located within the Raritan Valley region, the township is an outer-ring suburb of New York City in the New York Metropolitan area, as defined by the United States Census Bureau, but directly borders the Philadelphia metropolitan area and is part of the Federal Communications Commission's Philadelphia Designated Market Area. As of the 2010 United States Census, the township's population was 27,190, reflecting an increase of 2,271 (+9.1 percent) from the 24,919 counted in the 2000 Census, which had in turn increased by 2,566 (+11.5 percent) from the 22,353 counted in the 1990 Census.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/East_Windsor,_New_Jersey"
+				]
+			},
+			"uuid": "e2b08efc-b0ec-11ec-b909-0242ac120002",
+			"value": "East Windsor Township"
+		},
+		{
+			"description": "The Central Industrial Security Force (CISF) is one of the Central Armed Police Forces in India. CISF is a unique organisation in the paramilitary forces of India, which works to provide security cover to over 300 industrial units, government infrastructure projects and facilities and establishments located all over India. Industrial sectors like atomic power plants, space installations, mines, oil fields and refineries, major ports, heavy engineering, steel plants, barrages, fertiliser units, airports and hydroelectric and thermal power plants owned and controlled by Central Public Sector Undertakings (PSUs), and currency note presses.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Central_Industrial_Security_Force"
+				]
+			},
+			"uuid": "e2b09136-b0ec-11ec-b909-0242ac120002",
+			"value": "The Central Industrial Security Force (CISF)"
+		},
+		{
+			"description": "Appraisal Districts were established in each county in Texas in 1981 to appraise each property at fair market value as of January 1 of each year for ad valorem tax purposes. The Appraisal District is governed by a Board of Directors who appoints the Chief Appraiser to serve as the chief administrator of the appraisal office. Mr. Michael Amezquita has served as the Bexar Appraisal District Chief Appraiser since 2003 and invites you to contact or visit our office with any questions or concerns you may have.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/bexar-appraisal-district/about/"
+				]
+			},
+			"uuid": "e2b0935c-b0ec-11ec-b909-0242ac120002",
+			"value": "Bexar Appraisal District"
+		},
+		{
+			"description": "The Hellenic Post S.A. is the state-owned provider of postal services in Greece. It succeeded the former government Postal Service, founded in 1828. ELTA provides a universal postal service to all parts of Greece and is a member of the Universal Postal Union. Services provided include, letter post, parcel service, deposit accounts, Swiftpost, a nationwide next-day delivery service, and the EMS international express mail service.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Hellenic_Post#:~:text=The%20Hellenic%20Post%20S.A.%20(Greek,of%20the%20Universal%20Postal%20Union."
+				]
+			},
+			"uuid": "e2b095f0-b0ec-11ec-b909-0242ac120002",
+			"value": "Hellenic Post (ELTA)"
+		},
+		{
+			"description": "The Federal Service for Veterinary and Phytosanitary Supervision (Rosselkhoznadzor), is a federal body that exercises oversight over veterinary medicine and agricultural production and byproducts in the Russian Federation. It was formed on June 30, 2004 as part of Russia's Ministry of Agriculture.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Service_for_Veterinary_and_Phytosanitary_Supervision_(Russia)#:~:text=Federal'naya%20sluzhba%20po%20veterinarnomu,of%20Russia's%20Ministry%20of%20Agriculture."
+				]
+			},
+			"uuid": "e2b09820-b0ec-11ec-b909-0242ac120002",
+			"value": "Federal Service for Veterinary and Phytosanitary Supervision (Russia)"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

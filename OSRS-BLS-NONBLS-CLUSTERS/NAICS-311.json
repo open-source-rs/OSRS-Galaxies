@@ -87,6 +87,16 @@
       "value": "Nestle Nespresso S.A"
     },
 	{
+      "description": "As the world’s largest food and beverage company we are driven by a simple aim: unlocking the power of food to enhance quality of life for everyone, today and for generations to come. To deliver on this, we serve with passion, with a spirit of excellence, offering products and services for all stages of life, every moment of the day, helping people care for themselves and their families. Our culture is based on our values rooted in respect: respect for ourselves, respect for others, respect for diversity and respect for the future.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/nestle-s-a-/about/"
+        ]
+      },
+      "uuid": "537363c8-b1b3-11ec-b909-0242ac120002",
+      "value": "Nestle S.A."
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [

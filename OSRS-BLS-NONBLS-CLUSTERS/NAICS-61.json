@@ -1279,6 +1279,16 @@
 			"value": "GEMS Education"
 		},
 		{
+			"description": "Boston University (BU) is a private research university in Boston, Massachusetts. The university is nonsectarian, but has a historical affiliation with the United Methodist Church. It was founded in 1839 by Methodists with its original campus in Newbury, Vermont, before moving to Boston in 1867.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Boston_University"
+				]
+			},
+			"uuid": "53735c66-b1b3-11ec-b909-0242ac120002",
+			"value": "Boston University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

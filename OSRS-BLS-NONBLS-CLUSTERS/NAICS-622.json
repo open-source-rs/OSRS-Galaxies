@@ -1058,6 +1058,16 @@
 			"value": "Capital Region Medical Center, MO"
 		},
 		{
+			"description": "Memorial Hospital of Carbon County is a 25-bed critical access hospital located in south central Wyoming.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/memorial-hospital-of-carbon-county/about/"
+				]
+			},
+			"uuid": "83a0e9ce-b1b5-11ec-b909-0242ac120002",
+			"value": "Memorial Hospital of Carbon County"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

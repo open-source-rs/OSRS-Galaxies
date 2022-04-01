@@ -416,6 +416,16 @@
 			"value": "Kommersant (News Agency)"
 		},
 		{
+			"description": "Q & A service that will answer to the worries and questions about medical and health care.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/doctors-me"
+				]
+			},
+			"uuid": "83a0eb54-b1b5-11ec-b909-0242ac120002",
+			"value": "Doctors Me, Japan"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [
