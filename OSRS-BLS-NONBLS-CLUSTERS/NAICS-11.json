@@ -27,6 +27,16 @@
       "value": "Sparboe Farms, Inc."
     },
 	{
+      "description": "Miratorg Agribusiness Holding is a privately-held Russian agribusiness company based in Moscow, Russia that was established in 1995. It is one of the largest producers and distributors of meat products in Russia.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Miratorg"
+        ]
+      },
+      "uuid": "93a36f16-b1d0-11ec-b909-0242ac120002",
+      "value": "Miratorg Agribusiness Holding"
+    },
+	{
       "description": "Danish Agro is a cooperative farm supply company headquartered in Karise south of Copenhagen, Denmark. It is owned by 12,000 Danish farmers.",
       "meta": {
         "refs": [
