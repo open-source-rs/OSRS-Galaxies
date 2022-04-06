@@ -1830,6 +1830,32 @@
       "value": "OSRS Backdoor: LoadEdge Trojan"
     },
 	{
+      "description": "It is worth noting that, in addition to targeting MobileIron servers, UNC961 also exploited a VMWare Horizon Server belonging to a separate victim during their Log4Shell campaign. Following the Horizon Server’s exploitation, UNC961 deployed two previously unobserved  backdoors: HOLEDOOR and DARKDOOR. HOLEDOOR is written in C, whereas DARKDOOR is written in Go. UNC961 used these backdoors to conduct reconnaissance in the victim environment and steal credentials for users who had previously logged in to the VMware Horizon server. Additionally, UNC961 exported the contents of the SAM, SECURITY, and SYSTEM registry hives using the built-in Windows tool reg.exe. UNC961 then exfiltrated the exported registry data to their infrastructure using the PSCP utility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation"
+        ]
+      },
+      "uuid": "0f830cf6-b5a3-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: HOLEDOOR Backdoor"
+    },
+	{
+      "description": "It is worth noting that, in addition to targeting MobileIron servers, UNC961 also exploited a VMWare Horizon Server belonging to a separate victim during their Log4Shell campaign. Following the Horizon Server’s exploitation, UNC961 deployed two previously unobserved  backdoors: HOLEDOOR and DARKDOOR. HOLEDOOR is written in C, whereas DARKDOOR is written in Go. UNC961 used these backdoors to conduct reconnaissance in the victim environment and steal credentials for users who had previously logged in to the VMware Horizon server. Additionally, UNC961 exported the contents of the SAM, SECURITY, and SYSTEM registry hives using the built-in Windows tool reg.exe. UNC961 then exfiltrated the exported registry data to their infrastructure using the PSCP utility.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation"
+        ]
+      },
+      "uuid": "0f830f4e-b5a3-11ec-b909-0242ac120002",
+      "value": "OSRS Backdoor: DARKDOOR Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

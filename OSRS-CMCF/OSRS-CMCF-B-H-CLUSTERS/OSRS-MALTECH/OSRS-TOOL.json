@@ -9111,6 +9111,142 @@
       "value": "OSRS Tool: Mars Stealer"
     },
 	{
+      "description": "Elephant Dropper is the initial executable deployed in this attack; as the name suggests this is a simple dropper which deploys further stages. This executable is written in the Go programming language and is signed with a stolen Microsoft certificate. The strings in the binary suggest that it was actually named as Elephant Dropper by the attackers themselves.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/"
+        ]
+      },
+      "uuid": "b956b146-b5a4-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Elephant Dropper"
+    },
+	{
+      "description": "Elephant Downloader is also written in the Go Programming Language and is executed by the Dropper. The main purpose of this payload is to maintain persistence on the system and also deploy the next two stages of the attack. The strings in this executable are encoded in the same way as in the Dropper. It makes itself persistent through the auto-run registry key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/"
+        ]
+      },
+      "uuid": "b956b524-b5a4-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Elephant Downloader"
+    },
+	{
+      "description": "Elephant Implant (also tracked as GrimPlant backdoor) seems to be one of the most important payloads in this attack. This executable communicates with the C2 on port 80. Similar to earlier payloads, strings are encoded in the same fashion is in this binary as well, and it also gets the C2 address encrypted from its parent process. The implant makes use of gRPC to communicate with the C2, it has a TLS certificate embedded in the binary and makes use of SSL-TLS integration in gRPC. This allows the malware to encrypt all the data that is being sent to the C2 via gRPC.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/"
+        ],
+        "synonyms": [
+        "GrimPlant Backdoor"
+        ]
+      },
+      "uuid": "b956b65a-b5a4-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Elephant Implant"
+    },
+	{
+      "description": "The last payload that will be described is this blog is the one named elephant_client by the actor (also tracked as GraphSteel backdoor). The functionality suggests that this final payload is a data stealer. Similar to other payloads in this attack chain, this payload receives the C2 server as a parameter in Base64 format which is AES encrypted format of the server. Decoding the Base64 string gives us the C2 IP address in AES encrypted format. Once the sample has established its connection with its C2 server, it starts collecting data and exfiltrating them into the server. At first it collects some basic info about the user and send it to the server as shown in Figure 12. (some info has been removed for privacy). The collected data is Base64 encoded, and includes hostname, OS name(windows), number of CPUs, IP address, Name, Username and home directory.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/"
+        ],
+        "synonyms": [
+        "GraphSteel Backdoor"
+        ]
+      },
+      "uuid": "b956b79a-b5a4-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Elephant Client"
+    },
+	{
+      "description": "On Thursday, February 24th, 2022, a cyber attack rendered Viasat KA-SAT modems inoperable in Ukraine. Spillover from this attack rendered 5,800 Enercon wind turbines in Germany unable to communicate for remote monitoring or control. Viasat’s statement on Wednesday, March 30th, 2022 provides a somewhat plausible but incomplete description of the attack. SentinelLabs researchers discovered new malware that we named AcidRain. AcidRain is an ELF MIPS malware designed to wipe modems and routers. We assess with medium-confidence that there are developmental similarities between AcidRain and a VPNFilter stage 3 destructive plugin. In 2018, the FBI and Department of Justice attributed the VPNFilter campaign to the Russian government AcidRain is the 7th wiper malware associated with the Russian invasion of Ukraine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/"
+        ]
+      },
+      "uuid": "b956b8c6-b5a4-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: AcidRain Wiper"
+    },
+	{
+      "description": "An unknown attacker is using a complex and powerful new malware loader in relatively unsophisticated and low-reward attacks, indicating they may not realize the potential capabilities of the malware they are deploying. The malware, Trojan.Verblecon, is being used in attacks that appear to have installing cryptocurrency miners on infected machines as their end goal. There are some indications the attacker may also be interested in stealing access tokens for chat app Discord. However, the capabilities of this malware indicate that it could be highly dangerous if leveraged in ransomware or espionage campaigns. Verblecon was first spotted by analysts from Symantec, a division of Broadcom Software, in January 2022.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/verblecon-sophisticated-malware-cryptocurrency-mining-discord"
+        ]
+      },
+      "uuid": "11b48794-b5a7-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Verblecon Loader"
+    },
+	{
+      "description": "Tool used by serveral threat actors and identified by the cybersecurity vendor Mandiant.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation"
+        ]
+      },
+      "uuid": "11b4899c-b5a7-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: HOLERUN"
+    },
+	{
+      "description": "HOLEPUNCH is a Windows and UNIX source-compatible utility that uses SOCKS5 style commands to multiplex connections back to its command and control (C2) server.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/mobileiron-log4shell-exploitation"
+        ]
+      },
+      "uuid": "11b48ad2-b5a7-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: HOLEPUNCH Tunneler"
+    },
+	{
+      "description": "The rootkit starts by ensuring the victim machine is not running in safe mode. It then checks the operating system version. The rootkit uses Direct Kernel Object Modification (DKOM), which involves undocumented kernel structures and objects, for its operations. For this reason, it relies on specific OS builds as otherwise it may cause the infected machine to crash. In general, the latest supported build is Windows 10 Creators Update (Redstone 2), released in April 2017.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/deep-panda-log4shell-fire-chili-rootkits"
+        ]
+      },
+      "uuid": "11b48dde-b5a7-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Fire Chili Rootkit"
+    },
+	{
+      "description": "This stealer operates on the Malware-as-a-Service (MaaS) model, in which TAs lease out their software to carry out malicious activities. The Blackguard stealer is also available on a monthly and lifetime-based subscription model. The TA has claimed on cybercrime forums that they can add clipper malware (A type of malware that modifies the crypto addresses in the clipboard to the one specified by TA) functionality to the Blackguard stealer on demand. This indicates that the stealer can be customized for financial theft.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/04/01/dissecting-blackguard-info-stealer/"
+        ]
+      },
+      "uuid": "11b48ef6-b5a7-11ec-b909-0242ac120002",
+      "value": "OSRS Tool: Blackguard Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
