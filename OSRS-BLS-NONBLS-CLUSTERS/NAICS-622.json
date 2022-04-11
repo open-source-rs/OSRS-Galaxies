@@ -1068,6 +1068,36 @@
 			"value": "Memorial Hospital of Carbon County"
 		},
 		{
+			"description": "Taylor Regional Hospital (TRH) is located in Campbellsville, Kentucky. TRH is a 90-bed facility with services including an emergency care Level III Trauma Center, cardiac catheterization and rehabilitation, 24-hour physician-staffed emergency services, 24-hour teleradiography services, mobile medical resonance imaging, obstetrics, orthopedics, a cancer treatment center.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Taylor_Regional_Hospital"
+				]
+			},
+			"uuid": "946a8acc-b9c0-11ec-8422-0242ac120002",
+			"value": "Taylor Regional Hospital"
+		},
+		{
+			"description": "Campbellford Memorial Hospital (CMH) is a 34-bed health care facility located in Trent Hills. It serves approximately 30,000 Northumberland, Peterborough and Hastings County residents, as well as a large seasonal population of cottagers and tourists enjoying the beautiful Kawartha Lakes Region and the Trent River System.",
+			"meta": {
+				"refs": [
+					"https://cmh.ca/about-cmh"
+				]
+			},
+			"uuid": "946a8cac-b9c0-11ec-8422-0242ac120002",
+			"value": "Campbellford Memorial Hospital"
+		},
+		{
+			"description": "Chatham-Kent Health Alliance (CKHA) is a 200 bed community hospital, serving the residents of Chatham and rural Kent including Walpole Island and Delaware First Nations. Formed in 2018, CKHA is committed to delivering quality and safe care at its two sites in Chatham and Wallaceburg. CKHA collaborates with other partners to deliver care across its community. CKHA’s dedicated team is comprised of approximately 1,400 staff, 200 physicians and 300 volunteers. CKHA provides a full range of programs, services and specialties from internal medicine and surgery to women & children’s and critical care; it is designated a schedule one facility under the Ministry of Health and cares for tens of thousands of inpatients, outpatients and emergency patients annually.",
+			"meta": {
+				"refs": [
+					"https://www.ckha.on.ca/about"
+				]
+			},
+			"uuid": "946a8e78-b9c0-11ec-8422-0242ac120002",
+			"value": "Chatham-Kent Health Alliance (CKHA)"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

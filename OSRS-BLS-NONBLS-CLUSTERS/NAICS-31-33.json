@@ -537,6 +537,66 @@
       "value": "Rostec"
     },
 	{
+      "description": "Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu, India. The company is the oldest global motorcycle brand in continuous production, and operates manufacturing plants in Chennai in India. The first Royal Enfield motorcycle was built in 1901 by the Enfield Cycle Company of England, which was responsible for the design and original production of the Royal Enfield Bullet, the longest-lived motorcycle design in history. Licensed from Royal Enfield by the indigenous Indian Madras Motors, the company is now a subsidiary of Eicher Motors Limited, an Indian automaker. The company makes classic-looking motorcycles including the Royal Enfield Bullet, Classic 350, Meteor 350, Classic 500, Interceptor 650, Continental and many more. Royal Enfield also make adventurous and offroading motorcycles like Royal Enfield Himalayan. Their motorcycles are equipped with single-cylinder and twin-cylinder engines. First produced in 1901, Royal Enfield is the oldest motorcycle brand in the world still in production, with the Bullet model enjoying the longest motorcycle production run of all time.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Royal_Enfield_(India)"
+        ]
+      },
+      "uuid": "680fc3e2-b9c1-11ec-8422-0242ac120002",
+      "value": "Royal Enfield (India)"
+    },
+	{
+      "description": "Parker Hannifin is a Fortune 250 global leader in motion and control technologies. For more than a century the company has been enabling engineering breakthroughs that lead to a better tomorrow.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/parker-hannifin/about/"
+        ]
+      },
+      "uuid": "680fc630-b9c1-11ec-8422-0242ac120002",
+      "value": "Parker Hannifin Corporation"
+    },
+	{
+      "description": "We are Emma – The Sleep Company. We revolutionise sleep by pushing the boundaries of what technology can do for rest. Our aim is to awaken people's best by enhancing their sleep.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/emma-sleep/about/"
+        ]
+      },
+      "uuid": "680fc770-b9c1-11ec-8422-0242ac120002",
+      "value": "Emma The Sleep Company"
+    },
+	{
+      "description": "Russian manufacturer.",
+      "meta": {
+        "refs": [
+          "https://lssp.ru/en/about/"
+        ]
+      },
+      "uuid": "680fc8f6-b9c1-11ec-8422-0242ac120002",
+      "value": "Lipetsk Machine Tool Enterprise"
+    },
+	{
+      "description": "The Nordex Group offers powerful wind turbines for nearly all geographical regions across the globe.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/nordex/about/"
+        ]
+      },
+      "uuid": "680fca86-b9c1-11ec-8422-0242ac120002",
+      "value": "Nordex Group"
+    },
+	{
+      "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Mazda"
+        ]
+      },
+      "uuid": "680fceaa-b9c1-11ec-8422-0242ac120002",
+      "value": "Mazda Motor Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

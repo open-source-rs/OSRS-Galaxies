@@ -1130,6 +1130,56 @@
 			"value": "l'Assurance retraite"
 		},
 		{
+			"description": "Insurance is an industry built on trust. Trust that someone will be there to help when it’s needed the most. The same holds true for insurance services. At Alacrity Solutions, we spend every day earning the trust of our clients and their individual customers by helping them get past the loss, together.",
+			"meta": {
+				"refs": [
+					"https://www.alacritysolutions.com/about/"
+				]
+			},
+			"uuid": "f85c0eda-b9bf-11ec-8422-0242ac120002",
+			"value": "Alacrity Solutions Group, LLC"
+		},
+		{
+			"description": "Partnership HealthPlan of California (PHC) is a non-profit community based health care organization that contracts with the State to administer Medi-Cal benefits through local care providers to ensure Medi-Cal recipients have access to high-quality comprehensive cost-effective health care.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/partnership-healthplan-of-california/about/"
+				]
+			},
+			"uuid": "f85c1114-b9bf-11ec-8422-0242ac120002",
+			"value": "Partnership HealthPlan of California"
+		},
+		{
+			"description": "Law Enforcement benefits assistance. Pennsylvania.",
+			"meta": {
+				"refs": [
+					"https://www.lehb.org/"
+				]
+			},
+			"uuid": "f85c1236-b9bf-11ec-8422-0242ac120002",
+			"value": "Law Enforcement Health Benefits (LEHB)"
+		},
+		{
+			"description": "Block, Inc., formerly Square, Inc., is an American financial services and digital payments company based in San Francisco, California. The company was founded in 2009 by Jack Dorsey and Jim McKelvey and launched its first platform in 2010. It has been traded as a public company on the New York Stock Exchange since November 2015 with the ticker symbol SQ.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Block,_Inc."
+				]
+			},
+			"uuid": "f85c1650-b9bf-11ec-8422-0242ac120002",
+			"value": "Block, Inc."
+		},
+		{
+			"description": "At American Express, we know that with the right backing, people and businesses have the power to progress in incredible ways. Whether we’re supporting our customers’ financial confidence to move ahead, taking commerce to new heights, or encouraging people to explore the world, our colleagues are constantly striving to uphold our powerful backing promise to our customers and each other every day.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/american-express/about/"
+				]
+			},
+			"uuid": "f85c17e0-b9bf-11ec-8422-0242ac120002",
+			"value": "The American Express Company"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

@@ -5380,6 +5380,36 @@
 			"value": "Federal Service for Veterinary and Phytosanitary Supervision (Russia)"
 		},
 		{
+			"description": "Texas Department of insurance (TDI) is the state agency that regulates the insurance and workers'​ compensation industries and also includes the State Fire Marshal's Office. TDI's mission is to protect insurance consumers by regulating the industry fairly and diligently, promoting a stable and competitive market, and providing information that makes a difference.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/texas-department-of-insurance/"
+				]
+			},
+			"uuid": "164cfbb8-b9be-11ec-8422-0242ac120002",
+			"value": "The Texas Department of Insurance"
+		},
+		{
+			"description": "The Federal Air Transport Agency, also known as Rosaviatsiya, is the Russian government agency responsible for overseeing the civil aviation industry in Russia. Its headquarters are in Moscow. It is also called the Russian Federation Civil Aviation Administration (RFCAA). The Federal Air Transport Agency regularly works alongside the Interstate Aviation Committee in investigations of aviation accidents and incidents. Its U.S. equivalent is the Federal Aviation Administration.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Federal_Air_Transport_Agency"
+				]
+			},
+			"uuid": "164cfe10-b9be-11ec-8422-0242ac120002",
+			"value": "The Russian Federal Air Transport Agency (Rosaviatsia)"
+		},
+		{
+			"description": "The 64th Separate Motor Rifle Brigade (Military Unit Number 51460) is a motorized infantry brigade of the Russian Ground Forces. Based at Knyaze-Volkonskoye, near Khabarovsk, the brigade is part of the Eastern Military District's 35th Army. The brigade traces its heritage back to the 882nd Motor Rifle Regiment, which transferred to the Far East in 1967, and which was converted into the brigade in 2009.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/64th_Motor_Rifle_Brigade"
+				]
+			},
+			"uuid": "164cfffa-b9be-11ec-8422-0242ac120002",
+			"value": "64th Motor Rifle Brigade"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

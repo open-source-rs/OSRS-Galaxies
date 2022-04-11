@@ -267,6 +267,16 @@
       "value": "Eskyfun Entertainment Network Limited"
     },
 	{
+      "description": "Sky Mavis is a blockchain based video game development studio. The company specializes in developing casual games such as arcade puzzle & strategy, etc. Singapore.",
+      "meta": {
+        "refs": [
+          "https://sgpgrid.com/company-details/sky-mavis-pte-ltd"
+        ]
+      },
+      "uuid": "164d014e-b9be-11ec-8422-0242ac120002",
+      "value": "Sky Mavis"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

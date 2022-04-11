@@ -118,6 +118,16 @@
       "value": "EPCOR Utilities Inc."
     },
 	{
+      "description": "PT Perusahaan Gas Negara Tbk is an Indonesian natural gas transportation and distribution company. The total length of distribution pipelines of the company is 3,187 km that serve around 84 million customers.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Perusahaan_Gas_Negara"
+        ]
+      },
+      "uuid": "fc5d5e58-b9c4-11ec-8422-0242ac120002",
+      "value": "PT Perusahaan Gas Negara Tbk"
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [

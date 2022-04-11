@@ -97,6 +97,16 @@
       "value": "Nestle S.A."
     },
 	{
+      "description": "Morinaga & Company, Ltd. is a confectionery company in Tokyo, Japan, in operation since 1899. Their products include candy and other confectioneries. Morinaga has had Ayumi Hamasaki and Mao Asada appear in their commercials, and in the past has used stars such as the Carpenters to advertise their products.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Morinaga_%26_Company"
+        ]
+      },
+      "uuid": "946a8752-b9c0-11ec-8422-0242ac120002",
+      "value": "Morinaga & Company, Ltd."
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [

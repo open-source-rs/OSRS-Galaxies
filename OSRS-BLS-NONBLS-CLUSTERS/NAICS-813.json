@@ -415,6 +415,16 @@
 			"value": "The National Rifle Association of America (NRA)"
 		},
 		{
+			"description": "The Russian Orthodox Church, alternatively legally known as the Moscow Patriarchate, is one of the autocephalous Eastern Orthodox Christian churches. It has 194 dioceses inside Russia. The primate of the ROC is the Patriarch of Moscow and all Rus'. The ROC, as well as its primate, officially ranks fifth in the Eastern Orthodox order of precedence, immediately below the four ancient patriarchates of the Greek Orthodox Church - Constantinople, Alexandria, Antioch, and Jerusalem.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Russian_Orthodox_Church"
+				]
+			},
+			"uuid": "fc5d5908-b9c4-11ec-8422-0242ac120002",
+			"value": "The Russian Orthodox Church"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

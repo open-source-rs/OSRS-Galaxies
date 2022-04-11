@@ -426,6 +426,16 @@
 			"value": "Doctors Me, Japan"
 		},
 		{
+			"description": "The All-Russia State Television and Radio Broadcasting Company, also known as Russian Television and Radio, is a state-owned broadcaster which operates many television and radio channels in 53 of Russia's languages. The company was founded in 1990 and is based in Moscow.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/All-Russia_State_Television_and_Radio_Broadcasting_Company"
+				]
+			},
+			"uuid": "9e6e73e2-b9c2-11ec-8422-0242ac120002",
+			"value": "All-Russia State Television and Radio Broadcasting Company (VGTRK)"
+		},
+		{
 			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
 			"meta": {
 				"refs": [

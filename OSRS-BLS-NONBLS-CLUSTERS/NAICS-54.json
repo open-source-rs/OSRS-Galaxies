@@ -3874,6 +3874,76 @@
 			"value": "Okta, Inc."
 		},
 		{
+			"description": "The I-SEC Group specializes in the provision of aviation security services worldwide and is headquartered in Amsterdam (NL). In addition to the deployment of aviation security assistants, I-SEC offers security technology as well as standardized and tailor-made training for security personnel and management. I-SEC currently has over 5,000 employees at various international airports in Europe and Asia.",
+			"meta": {
+				"refs": [
+					"https://www.i-sec.com/about-isec"
+				]
+			},
+			"uuid": "186e3a7e-b9c3-11ec-8422-0242ac120002",
+			"value": "The I-SEC Group"
+		},
+		{
+			"description": "Mailchimp is an American marketing automation platform and email marketing service for managing mailing lists and creating email marketing campaigns to send to customers. Mailchimp is the trading name of its operator, Rocket Science Group, an American company founded in 2001 by Ben Chestnut and Mark Armstrong, with Dan Kurzius joining at a later date. As of 2021 its parent company is Intuit.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Mailchimp"
+				]
+			},
+			"uuid": "186e4230-b9c3-11ec-8422-0242ac120002",
+			"value": "Mailchimp"
+		},
+		{
+			"description": "Yandex is a technology company that builds intelligent products and services powered by machine learning. Our goal is to help consumers and businesses better navigate the online and offline world. Since 1997, we have delivered world-class, locally relevant search and information services. Additionally, we have developed market-leading on-demand transportation services, navigation products, and other mobile applications for millions of consumers across the globe.  Yandex, which has 34 offices worldwide, has been listed on the NASDAQ since 2011.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/yandex/about/"
+				]
+			},
+			"uuid": "186e43c0-b9c3-11ec-8422-0242ac120002",
+			"value": "Yandex N.V."
+		},
+		{
+			"description": "Smartmatic is the global leader in secure, auditable election technologies & services for election management bodies and voting jurisdictions. We believe equality and justice for all are realized through elections that are transparent and accessible.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/smartmatic/about/"
+				]
+			},
+			"uuid": "186e450a-b9c3-11ec-8422-0242ac120002",
+			"value": "Smartmatic"
+		},
+		{
+			"description": "The Rehab Group was formed in 2006 by therapists with a desire to provide the best care possible. We achieve excellent results by providing one on one, personalized treatment. We chose to call our company The Rehab Group because we believe it takes more than one approach to appropriately treat the unique problems people are dealing with.",
+			"meta": {
+				"refs": [
+					"http://therehabgroupinc.com/about"
+				]
+			},
+			"uuid": "186e4636-b9c3-11ec-8422-0242ac120002",
+			"value": "The Rehab Group"
+		},
+		{
+			"description": "Palo Alto Networks, the global cybersecurity leader, is shaping the cloud-centric future with technology that is transforming the way people and organizations operate. Our mission is to be the cybersecurity partner of choice, protecting our digital way of life.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/palo-alto-networks/about/"
+				]
+			},
+			"uuid": "e0b5608e-b9c3-11ec-8422-0242ac120002",
+			"value": "Palo Alto Networks (PAN)"
+		},
+		{
+			"description": "Globant is an IT and Software Development company operating in Argentina, Colombia, Uruguay, the United Kingdom, Brazil, the United States, Canada, Peru, India, Mexico, Chile, Costa Rica, Ecuador, Spain, France, Germany, Romania and Belarus. It was formed in 2003 by Martín Migoya, Guibert Englebienne, Martín Umaran and Néstor Nocetti. It was founded in Buenos Aires, but currently is headquartered in Luxembourg and principally serves clients in the United States and United Kingdom.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Globant"
+				]
+			},
+			"uuid": "e0b5643a-b9c3-11ec-8422-0242ac120002",
+			"value": "Globant"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

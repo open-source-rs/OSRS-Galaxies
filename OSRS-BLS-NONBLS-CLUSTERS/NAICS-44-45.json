@@ -667,6 +667,26 @@
 			"value": "Rompetrol"
 		},
 		{
+			"description": "The Works is the UK’s leading family-friendly value retailer of arts, crafts, toys, books and stationery. With over 500 stores nationwide and an enhanced website, our mission is to offer a unique and enjoyable shopping experience, built on core principles of value, variety and quality.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/theworksstores/about/"
+				]
+			},
+			"uuid": "fc5d5b74-b9c4-11ec-8422-0242ac120002",
+			"value": "The Works Stores Ltd"
+		},
+		{
+			"description": "Shutterfly, Inc. is the leading digital retailer and manufacturer of high-quality personalized products and services. Founded in 1999, Shutterfly brings your photos to life in photo books, gifts, and cards and stationery – through its flagship Shutterfly products, premium offerings in its Tiny Prints boutique, as well as wedding invitations and stationery for every step of the planning process; through BorrowLenses, the premier online marketplace for photographic and video equipment rentals, and GrooveBook, an iPhone and Android app and subscription service that prints up to 100 mobile phone photos in a GrooveBook and mails it to customers every month. Shutterfly, Inc. also operates Shutterfly Business Solutions, delivering high quality digital printing services to the enterprise market, and Lifetouch, the leader in school photography. For more information about Shutterfly, Inc.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/shutterfly/about/"
+				]
+			},
+			"uuid": "fc5d5cc8-b9c4-11ec-8422-0242ac120002",
+			"value": "Shutterfly, Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
