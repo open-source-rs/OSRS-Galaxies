@@ -3954,6 +3954,16 @@
 			"value": "The Rehab Group (Ireland)"
 		},
 		{
+			"description": "CSI Laboratories is a cancer diagnostics company known for providing high-quality testing, medical consultations, and around the clock client support. The CSI medical team works closely with pathologists across the United States, enabling them to provide their clinicians and patients the timely and personalized results they rely on.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/csi-laboratories/about/"
+				]
+			},
+			"uuid": "9db03c86-ba78-11ec-8422-0242ac120002",
+			"value": "Cytometry Specialists, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
