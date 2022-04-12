@@ -3944,6 +3944,16 @@
 			"value": "Globant"
 		},
 		{
+			"description": "Rehabilitation services, Ireland.",
+			"meta": {
+				"refs": [
+					"https://rehab.ie/what-we_do/"
+				]
+			},
+			"uuid": "85ce5550-ba71-11ec-8422-0242ac120002",
+			"value": "The Rehab Group (Ireland)"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
