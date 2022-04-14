@@ -9507,6 +9507,19 @@
       "value": "OSRS Tool: ExobotCompact.B Android Malware"
     },
 	{
+      "description": "A new Traffic Direction System (TDS) we are calling Parrot TDS, using tens of thousands of compromised websites, has emerged in recent months and is reaching users from around the world. The TDS has infected various web servers hosting more than 16,500 websites, ranging from adult content sites, personal websites, university sites, and local government sites. Parrot TDS acts as a gateway for further malicious campaigns to reach potential victims. In this particular case, the infected sites’ appearances are altered by a campaign called FakeUpdate (also known as SocGholish), which uses JavaScript to display fake notices for users to update their browser, offering an update file for download. The file observed being delivered to victims is a remote access tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/janrubin/parrot-tds-takes-over-web-servers-and-threatens-millions/"
+        ]
+      },
+      "uuid": "7ac0164c-bc08-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: Parrot Traffic Direction System (TDS)"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
