@@ -1051,6 +1051,45 @@
       "value": "OSRS Botnet: Kraken Botnet"
     },
 	{
+      "description": "Our researchers have identified EnemyBot, a brand new Linux-based botnet. At first glance and by analyzing the initial infection, it appears to cover a wide range of devices and platforms.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.securonix.com/blog/detecting-the-enemybot-botnet-advisory/"
+        ]
+      },
+      "uuid": "69a6eb90-bbec-11ec-8422-0242ac120002",
+      "value": "OSRS Botnet: EnemyBot Botnet"
+    },
+	{
+      "description": "Botnet connected to the ExobotCompact malware family and can be rented or sold as a service.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/octo-new-odf-banking-trojan.html"
+        ]
+      },
+      "uuid": "69a6ed48-bbec-11ec-8422-0242ac120002",
+      "value": "OSRS Botnet: Octo Android Botnet"
+    },
+	{
+      "description": "Recently, CNCERT and 360 Digital Security Technology Group Co., Ltd. jointly monitored and found a new DDoS botnet that spreads rapidly on the Internet. Through tracking and monitoring, it was found that the number of domestic broilers (calculated by IP number) has exceeded 1 per day. 10,000, and will launch attacks against more than 100 attack targets every day, posing a greater threat to cyberspace. We named it Fodcha because of the C2 domain name folded.in originally used by this botnet and the chacha algorithm used to encrypt network traffic.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://blog.netlab.360.com/men-sheng-fa-da-cai-fodchajiang-shi-wang-luo/"
+        ]
+      },
+      "uuid": "69a6f0d6-bbec-11ec-8422-0242ac120002",
+      "value": "OSRS Botnet: Fodcha Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

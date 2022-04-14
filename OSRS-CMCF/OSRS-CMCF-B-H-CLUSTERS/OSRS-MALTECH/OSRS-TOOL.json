@@ -9247,6 +9247,266 @@
       "value": "OSRS Tool: Blackguard Stealer"
     },
 	{
+      "description": "BOATLAUNCH is a utility sent from FIN7 POWERPLANT controllers that is used as a helper module during intrusion operations. BOATLAUNCH is used to patch PowerShell processes on infected systems to bypass Windows AntiMalware Scan Interface (AMSI).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8d1c4-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: BOATLAUNCH Utility"
+    },
+	{
+      "description": "POWERTRASH is an in-memory dropper, or loader, written in PowerShell that executes an embedded payload. Observed payloads loaded by FIN7’s POWERTRASH include CARBANAK, DICELOADER, SUPERSOFT, BEACON and PILLOWMINT. POWERTRASH is a uniquely obfuscated iteration of a shellcode invoker included in the PowerSploit framework available on GitHub.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8d502-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: POWERTRASH Dropper"
+    },
+	{
+      "description": "FIN7 continued to leverage PowerShell throughout their intrusions, including in a new backdoor called POWERPLANT, which FIN7 has continually developed over the last two years. We also identified new versions of the BIRDWATCH downloader being developed, which are tracked as CROWVIEW and FOWLGAZE.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8d9ee-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: CROWVIEW Loader"
+    },
+	{
+      "description": "LOADOUT is an obfuscated VBScript-based downloader which harvests extensive information from the infected system. The harvested information is then sent to a command-and-control (C2) server. C2 server responses for LOADOUT infections delivered GRIFFON, a JavaScript-based downloader which retrieves additional JavaScript modules using HTTP or DNS and executes them in memory.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8dbd8-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: LOADOUT Dropper"
+    },
+	{
+      "description": "In addition to evidence produced from intrusion data, secondary artifacts suggest FIN7 played a role in at least some DARKSIDE operations. A low global prevalence code signing certificate used by FIN7 in 2021 to sign BEACON and BEAKDROP samples was also used to sign multiple unattributed DARKSIDE samples recovered in the wild. The specific mentioned code signing certificate used by FIN7 contained the SSL subject common name of OASIS COURT LIMITED.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8dd86-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: BEAKDROP Loader"
+    },
+	{
+      "description": "WINGNIGHT is a WSF-based downloader that utilizes VBScript, and FLYHIGH is a downloader written in C using the Excel XLL SDK, but masquerades as using the Excel-DNA framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8df3e-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: WINGNIGHT Downloader"
+    },
+	{
+      "description": "FLYHIGH is a downloader written in C using the Excel XLL SDK, but masquerades as using the Excel-DNA framework. In these campaigns, we observed both WINGNIGHT and FLYHIGH leading to BIRDWATCH, often leveraging additional compromised domains for both the download server and the BIRDWATCH C2 controller. We’ve observed limited overlaps between UNC3381 and FIN7 infrastructure as well, including the use of the same DNS provider and AS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "18c8e0ce-bbf2-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: FLYHIGH Downloader"
+    },
+	{
+      "description": "ESET researchers responded to a cyber-incident affecting an energy provider in Ukraine. We worked closely with CERT-UA in order to remediate and protect this critical infrastructure network. The collaboration resulted in the discovery of a new variant of Industroyer malware, which we together with CERT-UA named Industroyer2 – see CERT-UA publication here. Industroyer is an infamous piece of malware that was used in 2016 by the Sandworm APT group to cut power in Ukraine. In this case, the Sandworm attackers made an attempt to deploy the Industroyer2 malware against high-voltage electrical substations in Ukraine. In addition to Industroyer2, Sandworm used several destructive malware families including CaddyWiper, ORCSHRED, SOLOSHRED and AWFULSHRED. We first discovered CaddyWiper on 2022-03-14 when it was used against a Ukrainian bank – see our Twitter thread about CaddyWiper. A variant of CaddyWiper was used again on 2022-04-08 against the Ukrainian energy provider previously mentioned. At this point, we don’t know how attackers compromised the initial victim nor how they moved from the IT network to the Industrial Control System (ICS) network. Figure 1 shows an overview of the different malware used in this attack.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+        ]
+      },
+      "uuid": "2b14c60c-bbf3-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: Industroyer2 ICS Malware"
+    },
+	{
+      "description": "An encrypted version of CaddyWiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+        ]
+      },
+      "uuid": "2b14c850-bbf3-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: TailJump Encrypted CaddyWiper"
+    },
+	{
+      "description": "The first component launched by the attacker was a worm, having its file named sc.sh. This Bash script starts by adding a scheduled task (cron job) to launch the wiper component (assuming the system is in the local time zone, UTC+3), unless it was launched with the owner argument. This is likely a way to avoid the initial system used to launch the worm auto-destructing. The script then iterates over the networks accessible by the system by looking at the result of ip route or ifconfig -a. It always assumes a class C network (/24) is reachable for each IP address it collects. It will try to connect to all hosts in those networks using SSH to TCP port 22, 2468, 24687 and 522. Once it finds a reachable SSH server, it tries credentials from a list provided with the malicious script. We believe the attacker had credentials prior to the attack to enable the spread of the wiper. If the system is not already compromised, malware is copied to the new target, and the worm is launched. The worm is not launched with the owner argument, so the wiper is scheduled to launch at UTC and destroy all data. If those systems were set to the local time zone, the destruction must’ve started at the same time as the system compromised with CaddyWiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+        ]
+      },
+      "uuid": "2b14c99a-bbf3-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: OrcShred Linux Worm"
+    },
+	{
+      "description": "Linux-based wiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+        ]
+      },
+      "uuid": "2b14cada-bbf3-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: AwfulShred Linux Wiper"
+    },
+	{
+      "description": "Solaris-based wiper.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+        ]
+      },
+      "uuid": "2b14cc06-bbf3-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: SoloShred Solaris Wiper"
+    },
+	{
+      "description": "During our analysis of the samples, infrastructure and final payloads associated with these campaigns, we identified several characteristics that indicated a new version of the 3LOSH builder-crypter used to obfuscate the RAT payloads and facilitate the infection process. 3LOSH crypter is a malware crypter we previously analyzed here. In analyzing the code execution of the Stage 2 PowerShell, we noticed some similarities with later stages of the infection process described in our previous analysis of the 3LOSH builder. The code present in our initial sample set featured a significant amount of similarities and overlap with samples we identified associated with a new version of 3LOSH. This new version of the crypter features the following notable changes from previous versions. Additionally, while analyzing our original sample cluster and new samples created using the 3LOSH crypter, we identified several final payloads in both clusters that use the same infrastructure for post-compromise C2 communications.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/04/asyncrat-3losh-update.html"
+        ]
+      },
+      "uuid": "b8e7404a-bbfd-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: 3LOSH Crypter"
+    },
+	{
+      "description": "Colibri Loader is a relatively new piece of malware that first appeared on underground forums in August 2021 and was advertised to people who have large volumes of traffic and lack of time to work out the material. As it names suggests, it is meant to deliver and manage payloads onto infected computers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.malwarebytes.com/threat-intelligence/2022/04/colibri-loader-combines-task-scheduler-and-powershell-in-clever-persistence-technique/"
+        ]
+      },
+      "uuid": "b8e742d4-bbfd-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: Colibri Loader"
+    },
+	{
+      "description": "We also discovered the use of BLISTER loader a newer type of malware that was first identified in December 2021, in deploying the LockBit ransomware. The delivery of BLISTER loader might be through malicious installers, specifically the SocGholish framework. It can also have an embedded Cobalt Strike or BitRat payload in its resource section.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/d/Thwarting-Loaders-From-SocGholish-to-BLISTERs-LockBit-Payload.html"
+        ]
+      },
+      "uuid": "b8e74496-bbfd-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: BLISTER Loader"
+    },
+	{
+      "description": "Since Wednesday 2022-03-30, at least 16 samples of a specific Excel file have been submitted to VirusTotal. These malicious Excel files are distributed as email attachments. Post-infection traffic triggers signatures for Win32/MetaStealer Related Activity from the EmergingThreats Pro (ETPRO) ruleset. This infection process uses data binaries to create the malicious EXE and DLL files used for the infection. The malware abuses legitimate services by Github and transfer.sh to host these data binaries.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://isc.sans.edu/diary/Windows+MetaStealer+Malware/28522"
+        ]
+      },
+      "uuid": "b8e745c2-bbfd-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: MetaStealer"
+    },
+	{
+      "description": "Credential stealing malware is commonly observed in the landscape of cyber attacks today. Zscaler ThreatLabz team has discovered many new types of stealer malwares across different attack campaigns. Stealers are malicious programs that threat actors use to collect sensitive information with various techniques including keylogging, cookie stealing, and sending stolen information to the Command and Control Server. Recently, ThreatLabz  identified a novel windows based malware creating a registry key as FFDroider. Based on this observation, ThreatLabz named this new malware the Win32.PWS.FFDroider. Designed to send stolen credentials and cookies to a Command & Control server, FFDroider disguises itself on victim’s machines to look like the instant messaging application Telegram.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users"
+        ]
+      },
+      "uuid": "b8e74964-bbfd-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: FFDroider Stealer"
+    },
+	{
+      "description": "Cado Labs routinely analyses cloud environments to look for the latest threats. As part of ongoing research, we found the first publicly-known case of malware specifically designed to execute in an AWS Lambda environment. We named this malware Denonia, after the name the attackers gave the domain it communicates with. The malware uses newer address resolution techniques for command and control traffic to evade typical detection measures and virtual network access controls. Although this first sample is fairly innocuous in that it only runs crypto-mining software, it demonstrates how attackers are using advanced cloud-specific knowledge to exploit complex cloud infrastructure, and is indicative of potential future, more nefarious attacks. From the telemetry we have seen, the distribution of Denonia so far has been limited.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/"
+        ]
+      },
+      "uuid": "c043178c-bbfe-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: Denonia Loader"
+    },
+	{
+      "description": "Further investigation reveals forensic artifacts of the usage of Impacket tooling for lateral movement and execution and the discovery of a defense evasion malware called Tarrask that creates hidden scheduled tasks, and subsequent actions to remove the task attributes, to conceal the scheduled tasks from traditional means of identification.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/"
+        ]
+      },
+      "uuid": "c0431a0c-bbfe-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: Tarrask"
+    },
+	{
+      "description": "Updated version of the ExbotCompact malware used by the Octo Botnet.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.threatfabric.com/blogs/octo-new-odf-banking-trojan.html"
+        ]
+      },
+      "uuid": "c0431d7c-bbfe-11ec-8422-0242ac120002",
+      "value": "OSRS Tool: ExobotCompact.B Android Malware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

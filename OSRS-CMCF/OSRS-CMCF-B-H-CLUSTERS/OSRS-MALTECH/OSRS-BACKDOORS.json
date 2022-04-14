@@ -1856,6 +1856,19 @@
       "value": "OSRS Backdoor: DARKDOOR Backdoor"
     },
 	{
+      "description": "FIN7 has leveraged multiple methods of initial and secondary access into victim networks including phishing, compromising third-party systems, Atera agent installers, GoToAssist, and RDP. In a recent case, FIN7 actors compromised a website that sells digital products and modified multiple download links to point to an Amazon S3 bucket hosting trojanized versions, containing an Atera agent installer. This remote management tool was later used to deploy POWERPLANT to the victim system. This was the first time Mandiant observed FIN7 leverage supply chain compromise. FIN7’s time-tested CARBANAK and DICELOADER (also known as Lizar) malware continue to be in use, however, we have noticed FIN7 depend more on the POWERPLANT backdoor during recent intrusions. Our research into POWERPLANT has revealed that it is a vast backdoor framework with a breadth of capabilities, depending on which modules are delivered from the C2 server. POWERPLANT backdoors contain internal version identifiers within the code.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/evolution-of-fin7"
+        ]
+      },
+      "uuid": "69a6e924-bbec-11ec-8422-0242ac120002",
+      "value": "OSRS Backdoor: POWERPLANT Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

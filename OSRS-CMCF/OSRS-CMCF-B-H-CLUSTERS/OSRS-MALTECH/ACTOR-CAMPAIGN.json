@@ -4109,6 +4109,19 @@
       "value": "OSRS Actors AND Campaigns: Stolen Image Evidence Email Campaign"
     },
 	{
+      "description": "The Pandora ransomware group emerged into the already crowded ransomware field as early as in mid-February 2022 and targets corporate networks for financial gain. The group got recent publicity after they announced that they acquired data from an international supplier in the automotive industry. The incident came as surprise as the attack came two weeks after another automotive supplier was reportedly hit with unknown ransomware, which resulted in one of the world’s biggest car manufacturers suspending factory operations. The threat group uses the double extortion method to increase pressure on the victim. This means that they not only encrypt the victim’s files, but also exfiltrate them and threaten to release the data if the victim does not pay. The Pandora Group has a leak site in the Dark Web (TOR network), where they publicly announce their victims and threaten them with the data leak. There are currently three victims listed on the leak site, a U.S.-based real estate agency, a Japanese technology company, and a U.S. law firm.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/looking-inside-pandoras-box"
+        ]
+      },
+      "uuid": "69a6e5c8-bbec-11ec-8422-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Pandora Ransomware Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
