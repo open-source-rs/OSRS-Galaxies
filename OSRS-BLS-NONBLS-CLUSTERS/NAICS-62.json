@@ -2170,6 +2170,46 @@
 			"value": "St. Joseph's Healthcare Hamilton"
 		},
 		{
+			"description": "Ballad Health is an integrated healthcare system serving 29 counties of Northeast Tennessee, Southwest Virginia, Northwest North Carolina and Southeast Kentucky. Our system was created to improve the health of the people we serve.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/ballad-health/about/"
+				]
+			},
+			"uuid": "3849c68e-bfda-11ec-9d64-0242ac120002",
+			"value": "Ballad Health"
+		},
+		{
+			"description": "Wellstar is one of the largest health systems in Georgia.",
+			"meta": {
+				"refs": [
+					"https://www.wellstar.org/about-us"
+				]
+			},
+			"uuid": "3849ce18-bfda-11ec-9d64-0242ac120002",
+			"value": "Wellstar Health System"
+		},
+		{
+			"description": "Tague Family Practice offers broad array of services geared to address today’s most common non-emergency illnesses and injuries.",
+			"meta": {
+				"refs": [
+					"https://taguefamilypractice.com/"
+				]
+			},
+			"uuid": "3849d034-bfda-11ec-9d64-0242ac120002",
+			"value": "Tague Family Practice"
+		},
+		{
+			"description": "The MetroHealth System is redefining health care by going beyond medical treatment to improve the foundations of community health and well-being: affordable housing, a cleaner environment, economic opportunity and access to fresh food, convenient transportation, legal help and other services. The system strives to become as good at preventing disease as it is at treating it. Founded in 1837, Cuyahoga County’s safety-net health system operates four hospitals, four emergency departments, more than 20 health centers and 40 additional sites.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/the-metrohealth-system/about/"
+				]
+			},
+			"uuid": "3849d20a-bfda-11ec-9d64-0242ac120002",
+			"value": "The MetroHealth System (Cleveland, OH)"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

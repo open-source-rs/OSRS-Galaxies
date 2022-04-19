@@ -128,6 +128,16 @@
       "value": "PT Perusahaan Gas Negara Tbk"
     },
 	{
+      "description": "PJSC Gazprom is a Russian majority state-owned multinational energy corporation headquartered in the Lakhta Center in Saint Petersburg. As of 2019, with sales over $120,000,000,000, it was ranked as the largest publicly listed natural gas company in the world and the largest company in Russia by revenue. In the 2020 Forbes Global 2000, Gazprom was ranked as the 32nd -largest public company in the world. Gazprom name is a portmanteau of the Russian words Gazovaya Promyshlennost. In January 2022, Gazprom displaced Sberbank from the first place in the list of the largest companies in Russia by market capitalization.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Gazprom"
+        ]
+      },
+      "uuid": "cfd11bea-bfdc-11ec-9d64-0242ac120002",
+      "value": "PJSC Gazprom"
+    },
+	{
       "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
       "meta": {
         "refs": [

@@ -687,6 +687,36 @@
 			"value": "Shutterfly, Inc."
 		},
 		{
+			"description": "TrustFord is the world’s largest Ford dealer group, operating over 60 sites in the UK, including Northern Ireland and the Channel Islands.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/ford-retail-group/about/"
+				]
+			},
+			"uuid": "5e3b98fc-bfdc-11ec-9d64-0242ac120002",
+			"value": "TrustFord"
+		},
+		{
+			"description": "Founded in 1910 in Trivero, Italy by Ermenegildo Zegna, the Zegna Group designs, creates and distributes luxury menswear and accessories under the Zegna brand, as well as womenswear, menswear and accessories under the Thom Browne brand.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/ermenegildo-zegna/about/"
+				]
+			},
+			"uuid": "5e3b9c08-bfdc-11ec-9d64-0242ac120002",
+			"value": "Ermenegildo Zegna Group"
+		},
+		{
+			"description": "Avvo makes it easy for people to research, find, and connect with the right lawyer by providing transparent information, client reviews, and profiles for 97% of practicing lawyers in the United States.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/avvo/about/"
+				]
+			},
+			"uuid": "5e3ba018-bfdc-11ec-9d64-0242ac120002",
+			"value": "Avvo"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [

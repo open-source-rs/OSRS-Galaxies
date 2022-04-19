@@ -3964,6 +3964,36 @@
 			"value": "Cytometry Specialists, Inc."
 		},
 		{
+			"description": "SuperCare Health (www.supercarehealth.com) is a chronic care management company specializing in respiratory diseases and providing high-touch, high-tech in-home patient management solutions.  Utilizing cutting-edge mobile technologies, combined with quality clinical services, SuperCare Health has proven cost-savings that reduce hospital readmissions and offer shared savings for payors.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/supercarehealth/about/"
+				]
+			},
+			"uuid": "af386376-bfdb-11ec-9d64-0242ac120002",
+			"value": "SuperCare Health (USA)"
+		},
+		{
+			"description": "AEROGAS is a private Russian company engaged in implementation of innovative engineering solutions based on advanced gas-dynamic devices for the oil and gas industry.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/aerogas/about/"
+				]
+			},
+			"uuid": "af3868c6-bfdb-11ec-9d64-0242ac120002",
+			"value": "AEROGAS"
+		},
+		{
+			"description": "We're a team of 7000+ Atlassians supporting an international group of 250,000+ customers. We build tools like Jira, Confluence, Bitbucket, and Trello to help teams across the world become more nimble, creative, and aligned.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/atlassian/about/"
+				]
+			},
+			"uuid": "af386b00-bfdb-11ec-9d64-0242ac120002",
+			"value": "Atlassian Corporation Plc"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

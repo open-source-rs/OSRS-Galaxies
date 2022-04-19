@@ -1180,6 +1180,46 @@
 			"value": "The American Express Company"
 		},
 		{
+			"description": "SummaCare is headquartered in Akron, Ohio and is one of the region's only provider-owned health insurance companies. SummaCare was formed in the early 1990s as a product offering for large, self-funded employers in Akron. Since then, we have grown regionally and nationally to meet the needs of individuals and employers of all sizes and funding arrangements. SummaCare offers Medicare Advantage plans, employer group insurance and individual and family plans. Additionally, SummaCare offers a full range of self-funded products and administrative services.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/summacare/about/"
+				]
+			},
+			"uuid": "74719548-bfd9-11ec-9d64-0242ac120002",
+			"value": "SummaCare"
+		},
+		{
+			"description": "EMC National Life Company, an affiliated Company of EMC Insurance Companies, is a dynamic life insurance company based in Des Moines, Iowa.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/emc-national-life-company/about/"
+				]
+			},
+			"uuid": "74719b42-bfd9-11ec-9d64-0242ac120002",
+			"value": "EMC National Life Insurance"
+		},
+		{
+			"description": "Developer of a personal financing platform designed to provide users with convenient and fast money lending services. The company's platform offers instant personal loans via an application process that is completely online and upon approval the cash is immediately transferred to the bank account of the user, enabling individuals to get quick and convenient personal loans.",
+			"meta": {
+				"refs": [
+					"https://pitchbook.com/profiles/company/435923-38#:~:text=CashMama%20General%20Information&text=The%20company's%20platform%20offers%20instant,quick%20and%20convenient%20personal%20loans."
+				]
+			},
+			"uuid": "74719d68-bfd9-11ec-9d64-0242ac120002",
+			"value": "CashMama"
+		},
+		{
+			"description": "Lakeview Loan Servicing, LLC is located in Coral Gables, FL, United States and is part of the Nondepository Credit Intermediation Industry. Lakeview Loan Servicing, LLC has 44 total employees across all of its locations and generates $13.11 million in sales (USD). (Sales figure is modelled). There are 4 companies in the Lakeview Loan Servicing, LLC corporate family.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.lakeview_loan_servicing_llc.f5af01eaf73dbd4fb8a9f7c8bcff894c.html"
+				]
+			},
+			"uuid": "74719f48-bfd9-11ec-9d64-0242ac120002",
+			"value": "Lakeview Loan Servicing, LLC"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

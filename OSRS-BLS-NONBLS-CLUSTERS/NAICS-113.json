@@ -15,6 +15,16 @@
       },
       "uuid": "38e85940-48c6-11e9-8646-d663bd873d93",
       "value": "Test Forestry and Logging Value"
+    },
+	{
+      "description": "Russian Forest Products Group operates as a forestry company. The Company provides logging and timber processing and sales as well as other logistics services including freight and passenger transport. Russian Forest Products Group conducts business in Moscow, Russia.",
+      "meta": {
+        "refs": [
+          "https://www.bloomberg.com/profile/company/0815999D:RU"
+        ]
+      },
+      "uuid": "7471a128-bfd9-11ec-9d64-0242ac120002",
+      "value": "Russian Forest Products Group"
     }
 	  ],
 	"version": 1

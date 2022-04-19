@@ -277,6 +277,16 @@
       "value": "Sky Mavis"
     },
 	{
+      "description": "Toei Animation Co., Ltd. is a Japanese animation studio primarily controlled by its namesake Toei Company. It has produced numerous series, including Sally the Witch, GeGeGe no Kitaro, Mazinger Z, Galaxy Express 999, Dr. Slump, Dragon Ball, Saint Seiya, Sailor Moon, Slam Dunk, Digimon, One Piece, Toriko, The Transformers (between 1984–1990, including several Japanese exclusive productions) and the Precure series.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Toei_Animation"
+        ]
+      },
+      "uuid": "afb50e7e-bfd3-11ec-9d64-0242ac120002",
+      "value": "Toei Animation Co., Ltd."
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [

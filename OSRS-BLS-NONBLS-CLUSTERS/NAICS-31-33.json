@@ -597,6 +597,26 @@
       "value": "Mazda Motor Corporation"
     },
 	{
+      "description": "Snap-on Incorporated is a leading global innovator, manufacturer and marketer of tools, equipment, diagnostics, repair information and system solutions for professional users performing critical tasks.  Products and services include hand and power tools, tool storage, diagnostics software, information and management systems, shop equipment and other solutions for vehicle dealerships and repair centers, as well as for customers in industries, including aviation and aerospace, agriculture, construction, government and military, mining, natural resources, power generation and technical education.  Snap-on also derives income from various financing programs to facilitate the sales of its products.  Products and services are sold through the company's franchisee, company-direct, distributor and internet channels.  Founded in 1920, Snap-on is a $3.7 billion, S&P 500 Company headquartered in Kenosha, Wisconsin.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/snap-on/about/"
+        ]
+      },
+      "uuid": "eb2ad4b4-bfda-11ec-9d64-0242ac120002",
+      "value": "Snap-on Incorporated"
+    },
+	{
+      "description": "The Nordex Group offers powerful wind turbines for nearly all geographical regions across the globe.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/nordex/about/"
+        ]
+      },
+      "uuid": "eb2ad81a-bfda-11ec-9d64-0242ac120002",
+      "value": "The Nordex Group"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [

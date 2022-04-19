@@ -1098,6 +1098,16 @@
 			"value": "Chatham-Kent Health Alliance (CKHA)"
 		},
 		{
+			"description": "Newman Regional Health is Emporia's community hospital, providing a wide range of medical, surgical, outpatient, and hospice services.  Newman Regional Health is a teaching hospital and is home to the ESU Newman Division of Nursing.  Owned by the people of Lyon county, Newman operates as a not-for-profit hospital, and is licensed for 190 beds.  It is the fifth-largest employer in the area.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/nrhemporia/about/"
+				]
+			},
+			"uuid": "3849d3cc-bfda-11ec-9d64-0242ac120002",
+			"value": "Newman Regional Health"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [

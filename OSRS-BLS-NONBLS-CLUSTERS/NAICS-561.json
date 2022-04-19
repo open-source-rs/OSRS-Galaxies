@@ -347,6 +347,16 @@
 			"value": "Sitel Group"
 		},
 		{
+			"description": "Continent Express is the largest independent Travel Management Company in the Russian Federation, and was the first professional travel management service in this market in 1997. From the very beginning, we have taken a leading role in the development of travel management as a procurement discipline in this country.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/continent-express/about/"
+				]
+			},
+			"uuid": "afb50b22-bfd3-11ec-9d64-0242ac120002",
+			"value": "Continent Express"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

@@ -317,6 +317,16 @@
       "value": "Arnoff Moving & Storage"
     },
 	{
+      "description": "CitySprint is the UK's leading same day distribution network offering SameDay Courier, SameDay Logistics International & UK overnight on a 24x7 basis.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/citysprint/about/"
+        ]
+      },
+      "uuid": "cfd115d2-bfdc-11ec-9d64-0242ac120002",
+      "value": "CitySprint"
+    },
+	{
       "description": "Dublin Port is Ireland's premier port, handling almost 50% of all trade in the Republic of Ireland.",
       "meta": {
         "refs": [

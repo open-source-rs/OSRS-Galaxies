@@ -1289,6 +1289,36 @@
 			"value": "Boston University"
 		},
 		{
+			"description": "North Carolina Agricultural and Technical State University (also known as North Carolina A&T State University, North Carolina A&T, N.C. A&T, or simply A&T) is a public, historically black land-grant research university in Greensboro, North Carolina. It is a constituent institution of the University of North Carolina System. Founded by the North Carolina General Assembly on March 9, 1891, as the Agricultural and Mechanical College for the Colored Race, it is the second college established under the provisions of the Morrill Act of 1890, and the first for people of color in the state of North Carolina. Initially, the college offered instruction in agriculture, English, horticulture, and mathematics. In 1967, the college was designated a Regional University by the North Carolina General Assembly and renamed North Carolina Agricultural and Technical State University.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/North_Carolina_A%26T_State_University"
+				]
+			},
+			"uuid": "b9560118-bfd8-11ec-9d64-0242ac120002",
+			"value": "North Carolina Agricultural and Technical State University"
+		},
+		{
+			"description": "Florida International University (FIU) is a public research university with its main campus in University Park, Miami-Dade County, Florida. Founded in 1965, the school opened its doors to students in 1972. It has become the largest university in South Florida, the second-largest in Florida, and the fifth-largest in the United States by enrollment. FIU is a constituent part of the State University System of Florida. In 2021, it was ranked #1 in the Florida Board of Governors performance funding, and had over $246 million in research expenditures.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Florida_International_University"
+				]
+			},
+			"uuid": "b956046a-bfd8-11ec-9d64-0242ac120002",
+			"value": "Florida International University"
+		},
+		{
+			"description": "Queen's University at Kingston, commonly known as Queen's University or simply Queen's, is a public research university in Kingston, Ontario, Canada. Queen's holds more than 1,400 hectares (3,500 acres) of land throughout Ontario and owns Herstmonceux Castle in East Sussex, England. Queen's is organized into eight faculties and schools.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Queen's_University_at_Kingston"
+				]
+			},
+			"uuid": "b9560636-bfd8-11ec-9d64-0242ac120002",
+			"value": "Queen's University at Kingston"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [

@@ -5410,6 +5410,106 @@
 			"value": "64th Motor Rifle Brigade"
 		},
 		{
+			"description": "The School District of Black River Falls serves over 1,750 students with over 300 exceptional staff that are knowledgeable, dedicated and highly skilled at their craft. Individuals have been recognized both throughout the state as well as nationally for their contributions to the noble profession of education. The surrounding Black River Falls community shows its support for education and the work that we do through many business partnerships, co-op job placement opportunities, volunteerism, parent involvement and much more.  We have the privilege of working with these partners to assist us in realizing this vision of excellence for all of our students.",
+			"meta": {
+				"refs": [
+					"https://www.brf.org/district_info/about_us"
+				]
+			},
+			"uuid": "eb2dcabe-bf4b-11ec-9d64-0242ac120002",
+			"value": "Black River Falls School District"
+		},
+		{
+			"description": "The Minister of Defence is a member of the Finnish Council of State. As the head of the Ministry of Defence, the minister is responsible for the administration of national defence. The ministry is headquartered in Helsinki. The current Minister of Defence is Antti Kaikkonen.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Minister_of_Defence_(Finland)#:~:text=The%20current%20Minister%20of%20Defence%20is%20Antti%20Kaikkonen."
+				]
+			},
+			"uuid": "eb2dcd98-bf4b-11ec-9d64-0242ac120002",
+			"value": "Minister of Defence (Finland)"
+		},
+		{
+			"description": "The Ministry for Foreign Affairs (MFA) is a ministry in the Finnish Government and is responsible for preparing and implementing the government's foreign policy.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_for_Foreign_Affairs_(Finland)"
+				]
+			},
+			"uuid": "eb2dcf78-bf4b-11ec-9d64-0242ac120002",
+			"value": "Ministry for Foreign Affairs (Finland)"
+		},
+		{
+			"description": "The Bernards Township School District is a comprehensive community public school district, serving students in pre-kindergarten through twelfth grade from Bernards Township in Somerset County, New Jersey, United States.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Bernards_Township_School_District"
+				]
+			},
+			"uuid": "eb2dd14e-bf4b-11ec-9d64-0242ac120002",
+			"value": "Bernards Township School District"
+		},
+		{
+			"description": "Whitefish School District #44 is located in the scenic resort community of Whitefish, Montana. The city and outlying areas compose a population of 10,000 citizens. Whitefish School District and the surrounding community is bordered by the Rocky Mountains, Whitefish Lake and the Flathead Valley communities of Columbia Falls and Kalispell. We are the home to the nationally known ski resort located on the Big Mountain and we serve as the gateway to Glacier National Park. A vast menu of activities provide entertainment for all seasons of the year.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Malware"
+				]
+			},
+			"uuid": "eb2dd310-bf4b-11ec-9d64-0242ac120002",
+			"value": "Whitefish School District #44"
+		},
+		{
+			"description": "Weatherford Independent School District is a public school district based in Weatherford, Texas (USA).",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Weatherford_Independent_School_District"
+				]
+			},
+			"uuid": "9483fb4c-bf4c-11ec-9d64-0242ac120002",
+			"value": "Weatherford Independent School District"
+		},
+		{
+			"description": "Tuloso-Midway Independent School District is a public school district in Nueces County, Texas (USA). Their mascots are warriors, for the males and Cherokees representing females. The school colors are maroon and gold. Tuloso-Midway is part of the 30-4A district and Wade Miller serves as their athletic director since the summer 2017 semester. TMISD Athletics Tuloso Midway athletics include: Basketball, Baseball, Softball, Soccer, Track and field, Cross Country, Volleyball, Swimming and Diving, Golf, and Special Olympics. The district serves sections of Corpus Christi as well as high school students from the London Independent School District. It also accepts transfer students.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Tuloso-Midway_Independent_School_District"
+				]
+			},
+			"uuid": "9483fe1c-bf4c-11ec-9d64-0242ac120002",
+			"value": "Tuloso-Midway Independent School District"
+		},
+		{
+			"description": "The Home Office (HO), also known (especially in official papers and when referred to in Parliament) as the Home Department, is a ministerial department of the Government of the United Kingdom, responsible for immigration, security, and law and order. As such, it is responsible for policing in England and Wales, fire and rescue services in England, visas and immigration, and the Security Service (MI5). It is also in charge of government policy on security-related issues such as drugs, counter-terrorism, and ID cards. It was formerly responsible for Her Majesty's Prison Service and the National Probation Service, but these have been transferred to the Ministry of Justice.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Home_Office"
+				]
+			},
+			"uuid": "9483ff66-bf4c-11ec-9d64-0242ac120002",
+			"value": "The Home Office (United Kingdom)"
+		},
+		{
+			"description": "Contra Costa County is a county in the state of California located on the eastern side of San Francisco Bay. As of the 2020 United States Census, the population was 1,165,927. The county seat is Martinez. It occupies the northern portion of the East Bay region of the San Francisco Bay Area and is primarily suburban. The county's name refers to its position on the other side of the bay from San Francisco. Contra Costa County is included in the San Francisco–Oakland–Berkeley, CA Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Contra_Costa_County,_California"
+				]
+			},
+			"uuid": "948400c4-bf4c-11ec-9d64-0242ac120002",
+			"value": "Contra Costa County"
+		},
+		{
+			"description": "The Ministry of Culture of the Russian Federation is a ministry of the Government of Russia responsible for state policy in cultural spheres such as art, cinematography, archives, copyright, cultural heritage, and censorship.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Culture_(Russia)"
+				]
+			},
+			"uuid": "94840420-bf4c-11ec-9d64-0242ac120002",
+			"value": "The Ministry of Culture of the Russian Federation"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

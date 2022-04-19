@@ -425,6 +425,16 @@
 			"value": "The Russian Orthodox Church"
 		},
 		{
+			"description": "Arulmigu Meenakshi Amman Temple, also known as Meenakshi Sundareshwarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India. It is dedicated to the goddess Meenakshi, a form of Parvati, and her consort, Sundareshwarar, a form of Shiva. The temple is at the center of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th-century-CE texts. This temple is one of the Paadal Petra Sthalam. The Paadal Petra sthalam are 275 temples of lord Shiva that are revered in the verses of Tamil Saiva Nayanars of 6th-9th century CE.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai"
+				]
+			},
+			"uuid": "af386ce0-bfdb-11ec-9d64-0242ac120002",
+			"value": "Arulmigu Meenakshi Amman Temple"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [

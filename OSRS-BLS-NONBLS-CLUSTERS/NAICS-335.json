@@ -157,6 +157,16 @@
       "value": "Samsung Electronics Co., Ltd."
     },
 	{
+      "description": "Since our founding in 1918 we have been working to improve and enhance society, and advance the culture of the world. We will continue to create value by confronting social issues head-on with the hope of creating an ideal society filled with both material and spiritual wealth.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/company/panasonic/about/"
+        ]
+      },
+      "uuid": "b95607bc-bfd8-11ec-9d64-0242ac120002",
+      "value": "Panasonic Holdings Corporation"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [
