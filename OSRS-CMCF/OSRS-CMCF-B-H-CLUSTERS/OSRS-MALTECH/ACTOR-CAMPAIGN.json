@@ -4122,6 +4122,32 @@
       "value": "OSRS Actors AND Campaigns: Pandora Ransomware Group"
     },
 	{
+      "description": "Developer of the ZingoStealer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/04/haskers-gang-zingostealer.html"
+        ]
+      },
+      "uuid": "960fd5ae-c4af-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Haskers Gang"
+    },
+	{
+      "description": "Responsible for attacks on Ukrainian targets and uses the IcedID malware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/39609"
+        ]
+      },
+      "uuid": "960fd84c-c4af-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0098"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

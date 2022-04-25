@@ -9520,6 +9520,32 @@
       "value": "OSRS Tool: Parrot Traffic Direction System (TDS)"
     },
 	{
+      "description": "This information stealer, first introduced to the wild in March 2022, is currently undergoing active development and multiple releases of new versions have been observed recently. The malware leverages Telegram chat features to facilitate malware executable build delivery and data exfiltration. The malware can exfiltrate sensitive information such as credentials, steal cryptocurrency wallet information, and mine cryptocurrency on victims' systems. While this stealer is freely available and can be used by multiple threat actors, we have observed a focus on infecting Russian speaking victims under the guise of game cheats, key generators and pirated software, which likely indicates a current focus on home users. The threat actor Haskers Gang uses collaborative platforms such as Telegram and Discord to distribute updates, share tooling and otherwise coordinate activities. In many cases, ZingoStealer also delivers additional malware such as RedLine Stealer and the XMRig cryptocurrency mining malware to victims.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/04/haskers-gang-zingostealer.html"
+        ]
+      },
+      "uuid": "960fd982-c4af-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: ZingoStealer"
+    },
+	{
+      "description": "EagleMonitorRAT has a server panel for managing victim devices. The panel shows country, hardware ID, operating system details, username, available RAM, privilege, region etc. Additionally, the panel has various options to manage as well for performing several operations in the infected device.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/04/18/under-the-lens-eagle-monitor-rat/"
+        ]
+      },
+      "uuid": "960fdaae-c4af-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eagle Monitor RAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
