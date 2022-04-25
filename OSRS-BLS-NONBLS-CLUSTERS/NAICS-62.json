@@ -2210,6 +2210,16 @@
 			"value": "The MetroHealth System (Cleveland, OH)"
 		},
 		{
+			"description": "A Family Health Team is a group of health care providers who work together to help keep you and your family healthy and to coordinate the best possible care for your health needs.  The ADFHT is a non-profit organization governed by a volunteer board.  Family Health Teams ensure that people receive the care they need in their communities, as each team is set-up based on local health and community needs. They focus on chronic disease management, disease prevention and health promotion, and work with other health care organizations, such as Public Health Units and Community Care Access Centres.",
+			"meta": {
+				"refs": [
+					"https://arnpriorfht.ca/about-afht"
+				]
+			},
+			"uuid": "eab01a6a-c4c3-11ec-9d64-0242ac120002",
+			"value": "Arnprior & District Family Health Team"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

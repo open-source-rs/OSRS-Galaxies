@@ -167,6 +167,16 @@
       "value": "Panasonic Holdings Corporation"
     },
 	{
+      "description": "Manufacture of computers and peripheral equipment.",
+      "meta": {
+        "refs": [
+          "https://www.k-agent.ru/en/catalog/6166061263-1076166001768"
+        ]
+      },
+      "uuid": "eab015f6-c4c3-11ec-9d64-0242ac120002",
+      "value": "KONSTRUKTORSKOE BYURO METROSPETSTEKHNIKA, OOO"
+    },
+	{
       "description": "General Electric Company is an American multinational conglomerate incorporated in New York City and headquartered in Boston.",
       "meta": {
         "refs": [

@@ -87,6 +87,16 @@
       "value": "Bangkok Airways Public Company Limited"
     },
 	{
+      "description": "Sunwing Airlines Inc. is a Canadian low-cost airline headquartered in Toronto, Ontario.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Sunwing_Airlines"
+        ]
+      },
+      "uuid": "fcf35788-c4c2-11ec-9d64-0242ac120002",
+      "value": "Sunwing Airlines Inc."
+    },
+	{
       "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
       "meta": {
         "refs": [

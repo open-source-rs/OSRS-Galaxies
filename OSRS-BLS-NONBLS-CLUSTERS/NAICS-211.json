@@ -47,6 +47,16 @@
       "value": "PJSC Rosneft Oil Company"
     },
 	{
+      "description": "Oil and gas extraction contractors. Russia.",
+      "meta": {
+        "refs": [
+          "https://companies.rbc.ru/id/1155658015281-ooo-neokom-geoservis/"
+        ]
+      },
+      "uuid": "eab01c7c-c4c3-11ec-9d64-0242ac120002",
+      "value": "OOO NEOCOM GEOSERVICE"
+    },
+	{
       "description": "CPC Corporation, Taiwan is a state-owned petroleum, natural gas, and gasoline company in Taiwan and is the core of the Taiwanese petrochemicals industry.",
       "meta": {
         "refs": [

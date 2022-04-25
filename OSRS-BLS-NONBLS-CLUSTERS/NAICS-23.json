@@ -77,6 +77,26 @@
       "value": "TEKHNOTEK, OOO"
     },
 	{
+      "description": "Construction of residential and non-residential buildings.",
+      "meta": {
+        "refs": [
+          "https://sbis.ru/contragents/9703017974/770301001"
+        ]
+      },
+      "uuid": "fcf3597c-c4c2-11ec-9d64-0242ac120002",
+      "value": "GUOV i GS, OOO"
+    },
+	{
+      "description": "GAZREGION, OOO is located in Moscow, Moscow, Russian Federation and is part of the Utility System Construction Industry. GAZREGION, OOO has 1 employees at this location.",
+      "meta": {
+        "refs": [
+          "https://www.dnb.com/business-directory/company-profiles.gazregion_ooo.890a8644c363c41fc21af243900753e9.html"
+        ]
+      },
+      "uuid": "fcf35e5e-c4c2-11ec-9d64-0242ac120002",
+      "value": "GAZREGION, OOO"
+    },
+	{
       "description": "EMCOR Group is a Fortune 500 company based in Norwalk, Connecticut, USA. EMCOR provides mechanical and electrical construction, industrial and energy infrastructure and facilities services to a broad range of commercial, industrial, utility and institutional customers. EMCOR comprises 80 or more operating companies, has approximately 170 locations and employs more than 33,000 people. The company was listed as number 375 on the 2018 Fortune 500 list.",
       "meta": {
         "refs": [

@@ -3994,6 +3994,47 @@
 			"value": "Atlassian Corporation Plc"
 		},
 		{
+			"description": "Heroku, a Salesforce company and industry pioneer in platform as a service (PaaS), enables developers to build and run applications entirely in the cloud, without the need to purchase or maintain any servers or software. Over 5 million apps, including ones from Macy’s, Product Hunt and Citrix run on Heroku. With support for the most popular languages such as Ruby and Node.js, high-scale data services including Postgres, Kafka and Redis, and an add-ons ecosystem featuring over 180 cloud application services, Heroku provides companies from startups to Fortune 500 enterprises with a faster and more effective way to create, deploy and manage apps.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/heroku/about/"
+				]
+			},
+			"uuid": "ed09a79e-c4c4-11ec-9d64-0242ac120002",
+			"value": "Heroku"
+		},
+		{
+			"description": "Omnicom Group is the leading global marketing communications company providing the best talent, creativity and digital innovation in the world of integrated marketing services for more than 200 brands - including some of the world’s most iconic, innovative and successful.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/omnicom/about/"
+				]
+			},
+			"uuid": "ed09ab0e-c4c4-11ec-9d64-0242ac120002",
+			"value": "Omnicom Group Inc."
+		},
+		{
+			"description": "Consensys Software Inc. is located in Brooklyn, NY, United States and is part of the Computer Systems Design and Related Services Industry. Consensys Software Inc. has 140 total employees across all of its locations and generates 5.60 million in sales (USD).There are 4 companies in the Consensys Software Inc. corporate family.",
+			"meta": {
+				"refs": [
+					"https://www.dnb.com/business-directory/company-profiles.consensys_software_inc.614fc6e759311ef84c6b364ca3367079.html",
+					"https://en.wikipedia.org/wiki/MetaMask"
+				]
+			},
+			"uuid": "ed09acc6-c4c4-11ec-9d64-0242ac120002",
+			"value": "Consensys Software Inc. (MetaMask)"
+		},
+		{
+			"description": "Developer of video surveillance and alarm monitoring platform designed to bring searchable big data to video surveillance. The company's platform offers third-party companies to implement intelligent video surveillance applications and cloud computing in fields like security, transportation, retail, sports, and entertainment, helps in the storage and processing of big data, enabling clients in creating and operating cloud-based applications for the public safety.",
+			"meta": {
+				"refs": [
+					"https://pitchbook.com/profiles/company/158126-23#overview"
+				]
+			},
+			"uuid": "ed09af32-c4c4-11ec-9d64-0242ac120002",
+			"value": "Synesis (Network Management Software)"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [

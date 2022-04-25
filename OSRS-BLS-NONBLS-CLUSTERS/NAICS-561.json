@@ -357,6 +357,26 @@
 			"value": "Continent Express"
 		},
 		{
+			"description": "Airline Choice’s departure control platform delivers class leading passenger handling, self service and compliance solutions that streamline airport operations across the world.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/airline-choice/about/"
+				]
+			},
+			"uuid": "fcf34f18-c4c2-11ec-9d64-0242ac120002",
+			"value": "Airline Choice"
+		},
+		{
+			"description": "Tendertech helps participants of the Government procurement auctions and other purchase procedures.",
+			"meta": {
+				"refs": [
+					"https://www.crunchbase.com/organization/tendertech"
+				]
+			},
+			"uuid": "fcf3551c-c4c2-11ec-9d64-0242ac120002",
+			"value": "Tendertech"
+		},
+		{
 			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
 			"meta": {
 				"refs": [

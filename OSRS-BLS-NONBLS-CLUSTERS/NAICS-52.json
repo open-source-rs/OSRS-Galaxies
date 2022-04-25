@@ -1220,6 +1220,16 @@
 			"value": "Lakeview Loan Servicing, LLC"
 		},
 		{
+			"description": "PSCB is a small-sized bank registered in St. Petersburg. The main areas of activity are lending and servicing corporate clients (including trading companies), attracting public funds in deposits. Funding base is the funds of enterprises and individuals. The financial institution is also active in the securities market.",
+			"meta": {
+				"refs": [
+					"https://www.emis.com/php/company-profile/RU/Bank_PSCB_JSC__%D0%91%D0%B0%D0%BD%D0%BA_%D0%9F%D0%A1%D0%9A%D0%91_%D0%90%D0%9E__en_2101003.html"
+				]
+			},
+			"uuid": "eab018da-c4c3-11ec-9d64-0242ac120002",
+			"value": "BANK PSCB JSC (RUSSIA)"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [

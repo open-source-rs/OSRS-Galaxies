@@ -17,6 +17,16 @@
       "value": "Test Real Estate and Rental and Leasing Value"
     },
 	{
+      "description": "Travelio is an online home rental marketplace that offers apartments, villas, and houses.",
+      "meta": {
+        "refs": [
+          "https://www.crunchbase.com/organization/travelio"
+        ]
+      },
+      "uuid": "ed09b342-c4c4-11ec-9d64-0242ac120002",
+      "value": "PT Horizon Internusa Persada (Travelio)"
+    },
+	{
       "description": "NYC Real Estate For Sale. Free map and photo search of condos, co-ops, luxury lofts and single family homes in New York City.",
       "meta": {
         "refs": [

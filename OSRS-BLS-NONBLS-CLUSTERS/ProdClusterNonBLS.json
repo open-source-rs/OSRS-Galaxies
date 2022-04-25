@@ -5510,6 +5510,136 @@
 			"value": "The Ministry of Culture of the Russian Federation"
 		},
 		{
+			"description": "Blue Earth County is a county in the State of Minnesota. As of the 2020 census, the population was 69,112. Its county seat is Mankato. The county is named for the Blue Earth River and for the deposits of blue-green clay once evident along the banks of the Blue Earth River.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Blue_Earth_County,_Minnesota"
+				]
+			},
+			"uuid": "fc130cc6-c4ba-11ec-9d64-0242ac120002",
+			"value": "Blue Earth County"
+		},
+		{
+			"description": "Rideau Hall is the official residence in Ottawa of both the Canadian monarch and his or her representative, the governor general of Canada.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rideau_Hall"
+				]
+			},
+			"uuid": "fc130ff0-c4ba-11ec-9d64-0242ac120002",
+			"value": "Rideau Hall"
+		},
+		{
+			"description": "Dayton Independent School District is a public school district based in Dayton, Texas (USA).",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Dayton_Independent_School_District"
+				]
+			},
+			"uuid": "fc131234-c4ba-11ec-9d64-0242ac120002",
+			"value": "Dayton Independent School District"
+		},
+		{
+			"description": "To provide uniform, fair and equitable values among all classes of property by maintaining the highest standards in appraisal practices and law, guided by the goals of quality customer service to the public, while providing a work environment that encourages staff's professional and personal growth.",
+			"meta": {
+				"refs": [
+					"https://www.wycokck.org/Departments/Appraisers-Office"
+				]
+			},
+			"uuid": "fc131446-c4ba-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (Appraiser's Office)"
+		},
+		{
+			"description": "DA office for the Unified Government of Wyandotte County and Kansas City, Kansas.",
+			"meta": {
+				"refs": [
+					"https://www.wycokck.org/Government/Elected-Officials/District-Attorney-Biography"
+				]
+			},
+			"uuid": "fc131658-c4ba-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (District Attorney)"
+		},
+		{
+			"description": "Unified Government of Wyandotte County and Kansas City, Kansas. 29th Judicial District Court.",
+			"meta": {
+				"refs": [
+					"https://www.wycodistrictcourt.org/"
+				]
+			},
+			"uuid": "bdda3226-c4bb-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (29th Judicial District Court)"
+		},
+		{
+			"description": "Auto Licensing is a division of the Treasurer’s Office. Whether you own a car, a motorcycle, a motorized bicycle, or a truck, you need to get a renewal for your license plate each year through the Wyandotte County Treasurer's Office. To get the renewal, you need to pay a state motor vehicle registration renewal fee and the local property taxes on your vehicle. Military and full-time college students may register at either their legal residence or where they are stationed. Vehicles registered in another state must re-register the vehicle.",
+			"meta": {
+				"refs": [
+					"https://www.wycokck.org/Departments/Treasury/Auto"
+				]
+			},
+			"uuid": "bdda3528-c4bb-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (Motor Vehicle Auto Licensing)"
+		},
+		{
+			"description": "Procurement and Contract Compliance administers the UG's centralized purchasing system. Procurement is responsible for obtaining bids through advertising and direct solicitation, establishing agreement contracts, and issuing purchase orders.",
+			"meta": {
+				"refs": [
+					"https://www.wycokck.org/Departments/Purchasing"
+				]
+			},
+			"uuid": "bdda3956-c4bb-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (Purchasing)"
+		},
+		{
+			"description": "Unified Government of Wyandotte County and Kansas City, Kansas. Sheriff's Office.",
+			"meta": {
+				"refs": [
+					"https://www.wycokck.org/Departments/Sheriffs-Office"
+				]
+			},
+			"uuid": "bdda3b18-c4bb-11ec-9d64-0242ac120002",
+			"value": "Unified Government of Wyandotte County and Kansas City, Kansas (Sheriff's Office)"
+		},
+		{
+			"description": "The Secretary of State for Finance, Rio de Janeiro.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+				]
+			},
+			"uuid": "bdda3cb2-c4bb-11ec-9d64-0242ac120002",
+			"value": "The Secretary of State for Finance (Rio de Janeiro)"
+		},
+		{
+			"description": "The Ministry of Finance of Costa Rica is the government ministry of Costa Rica in charge of governing the fiscal policy on public resources, according to the principles of economy, efficiency and effectiveness.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Ministry_of_Finance_(Costa_Rica)"
+				]
+			},
+			"uuid": "7c99389c-c4bc-11ec-9d64-0242ac120002",
+			"value": "Ministry of Finance (Costa Rica)"
+		},
+		{
+			"description": "The Costa Rican Social Security Fund is in charge of most of the nation's public health sector. Its role in public health (as the administrator of health institutions) is key in Costa Rica, playing an important part in the state's national health policy making.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Costa_Rican_Social_Security_Fund"
+				]
+			},
+			"uuid": "7c993bbc-c4bc-11ec-9d64-0242ac120002",
+			"value": "The Costa Rican Social Security Fund"
+		},
+		{
+			"description": "Ministry of Labor and Social Security, Costa Rica.",
+			"meta": {
+				"refs": [
+					"https://www.mtss.go.cr/elministerio/"
+				]
+			},
+			"uuid": "7c993ef0-c4bc-11ec-9d64-0242ac120002",
+			"value": "Ministry of Labor and Social Security (Costa Rica)"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
