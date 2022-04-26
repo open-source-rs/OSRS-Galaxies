@@ -4035,6 +4035,16 @@
 			"value": "Synesis (Network Management Software)"
 		},
 		{
+			"description": "Travis CI is a hosted continuous integration service used to build and test software projects hosted on GitHub and Bitbucket. Travis CI was the first CI service which provided services to open-source projects for free and continues to do so.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Travis_CI"
+				]
+			},
+			"uuid": "3fb428f0-c56c-11ec-9d64-0242ac120002",
+			"value": "Travis CI"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
