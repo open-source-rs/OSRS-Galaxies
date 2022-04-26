@@ -2220,6 +2220,16 @@
 			"value": "Arnprior & District Family Health Team"
 		},
 		{
+			"description": "Deaconess Health System is a leader in health care services in the Tri-State. The system includes 14 hospitals throughout southern Indiana, Kentucky and Illinois, more than 50+ ambulatory clinic locations throughout the region, and several ancillary facilities.",
+			"meta": {
+				"refs": [
+					"https://www.deaconess.com/"
+				]
+			},
+			"uuid": "97d89b90-c578-11ec-9d64-0242ac120002",
+			"value": "Deaconess Health System"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [

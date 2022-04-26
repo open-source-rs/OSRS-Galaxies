@@ -4045,6 +4045,16 @@
 			"value": "Travis CI"
 		},
 		{
+			"description": "GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/github"
+				]
+			},
+			"uuid": "97d89f0a-c578-11ec-9d64-0242ac120002",
+			"value": "GitHub, Inc."
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
