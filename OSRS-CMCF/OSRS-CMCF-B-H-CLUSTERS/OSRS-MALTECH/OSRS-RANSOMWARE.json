@@ -1778,6 +1778,32 @@
       "value": "OSRS Ransomware: SunnyDay Ransomware"
     },
 	{
+      "description": "In one of the fastest ransomware cases we have observed, in under four hours the threat actors went from initial access, to domain wide ransomware. The initial access vector for this case was an IcedID payload delivered via email. We have observed IcedID malware being utilized as the initial access by various ransomware groups. Once the initial IcedID payload was executed, approximately 2 hours after initial infection, the threat actors appeared to begin hands-on-keyboard activity. Cobalt Strike and RDP were used to move across the network before using WMI and PsExec to deploy the Quantum ransomware. This case exemplified an extremely short Time-to-Ransom (TTR) of 3 hours and 44 minutes.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://thedfirreport.com/2022/04/25/quantum-ransomware/"
+        ]
+      },
+      "uuid": "a85b0646-d393-11ec-9d64-0242ac120002",
+      "value": "OSRS Ransomware: Quantum Ransomware"
+    },
+	{
+      "description": "The Black Basta ransomware was first observed in mid-April 2022, but had already caused substantial damage to over ten organizations. This new ransomware became more public after leaking data of the American Dental Association, from which the Black Basta gang was able to exfiltrate 2.9 GB of data. Black Basta ransomware must be executed with Administrator privileges, otherwise this ransomware is harmless.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.minerva-labs.com/new-black-basta-ransomware-hijacks-windows-fax-service"
+        ]
+      },
+      "uuid": "a85b07cc-d393-11ec-9d64-0242ac120002",
+      "value": "OSRS Ransomware: Black Basta Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

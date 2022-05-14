@@ -4148,6 +4148,139 @@
       "value": "OSRS Actors AND Campaigns: UAC-0098"
     },
 	{
+      "description": "TA578 has previously been observed in email-based campaigns delivering Ursnif, IcedID, KPOT Stealer, Buer Loader, BazaLoader, and Cobalt Strike.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
+        ]
+      },
+      "uuid": "9d0e1952-d38b-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA578"
+    },
+	{
+      "description": "This actor frequently delivered BazaLoader and IcedID in past campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
+        ]
+      },
+      "uuid": "9d0e1c54-d38b-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA579"
+    },
+	{
+      "description": "Stonefly specializes in mounting highly selective targeted attacks against targets that could yield intelligence to assist strategically important sectors such as energy, aerospace, and military equipment. Virtually all of the technologies it appears to be interested in have military as well as civilian uses and some could have applications in the development of advanced weaponry.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/stonefly-north-korea-espionage"
+        ]
+      },
+      "uuid": "9d0e1e02-d38b-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Stonefly Threat Group"
+    },
+	{
+      "description": "LAPSUS$ first appeared publicly in December 2021, however, NCC Group first observed LAPSUS$ months prior during an incident response engagement. We believe the group has also operated prior to this date, though perhaps not under the LAPSUS$ banner. Over the last 5 months, LAPSUS$ has gained large notoriety with some successful breaches of some large enterprises including, Microsoft, Nvidia, Okta & Samsung. Little is still known about this group with motivations appearing to be for reputation, money and for the lulz. Notifications or responsibility of victims by LAPSUS$ are commonly reported via their telegram channel and in one case a victim’s DNS records were reconfigured to LAPSUS$ controlled domains/websites. However, not all victims or breaches appear to actively be announced via their telegram channel, nor are some victims approached with a ransom. This distinguishes themselves from more traditional ransomware groups who have a clear modus operandi and are clearly financially focused. The result of this is that LAPSUS$ are less predictable which may be why they have seen recent success.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.nccgroup.com/2022/04/28/lapsus-recent-techniques-tactics-and-procedures/"
+        ]
+      },
+      "uuid": "9d0e1fce-d38b-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: LAPSUS$"
+    },
+	{
+      "description": "We recently discovered a new advanced persistent threat (APT) group that we have dubbed Earth Berberoka (aka GamblingPuppet). Based on our analysis, this group targets gambling websites. Our investigation has also uncovered that Earth Berberoka targets the Windows, Linux, and macOS platforms, and uses malware families that have been historically attributed to Chinese-speaking individuals.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/d/new-apt-group-earth-berberoka-targets-gambling-websites-with-old.html"
+        ],
+        "synonyms": [
+        "GamblingPuppet"
+        ]
+      },
+      "uuid": "9d0e2122-d38b-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Earth Berberoka"
+    },
+	{
+      "description": "In the process of daily threat discovery, Qi Anxin Threat Intelligence Center found a gang specifically targeting game companies, pharmaceutical industry, blockchain, Internet finance, corporate finance, operation and maintenance personnel, etc., and stole the white certificates of many companies, and the sample was large. Part of it is protected by the VMP shell. During the execution process, the driver sample with the signature will be loaded into the kernel to provide protection for the sample of the three rings. The attack method is extremely superb, and it has 0day-Nday attack capability. Because the sample has a white signature, the whole process is Avoid killing, more difficult to find. We named the gang's corresponding number APT-Q-29. After tracing the source, we found that the gang's attack activities can be traced back to 2013. The victims are all over the world, mainly in East Asia, Southeast Asia, Europe, and North America. Foreign friends and businessmen have exposed them many times , but it is not clear that the friends and businessmen are for the purpose of Raising awareness is still at the behest of some forces that deliberately portray them in the report as ethnic hackers with national backgrounds based on ideological and political factors. According to the data we have, the gang's attack targets are neither enemy nor foe, nor are they serious. We prefer to call it hackers without borders, and the scope of the attack is wide and the behavior is beyond our expectations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/39609"
+        ]
+      },
+      "uuid": "6a4fe198-d38c-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-Q-29"
+    },
+	{
+      "description": "In this blog post, we introduce UNC3524, a newly discovered suspected espionage threat actor that, to date, heavily targets the emails of employees that focus on corporate development, mergers and acquisitions, and large corporate transactions. On the surface, their targeting of individuals involved in corporate transactions suggests a financial motivation, however, their ability to remain undetected for an order of magnitude longer than the average dwell time of 21 days in 2021, as reported in M-Trends 2022, suggests an espionage mandate. Part of the group’s success at achieving such a long dwell time can be credited to their choice to install backdoors on appliances within victim environments that do not support security tools, such as anti-virus or endpoint protection. The high level of operational security, low malware footprint, adept evasive skills, and a large Internet of Things (IoT) device botnet set this group apart and emphasize the advanced in Advanced Persistent Threat. UNC3524 also takes persistence seriously. Each time a victim environment removed their access, the group wasted no time re-compromising the environment with a variety of mechanisms, immediately restarting their data theft campaign. We are sharing the tools, tactics, and procedures used by UNC3524 to help organizations hunt for and protect against their operations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/unc3524-eye-spy-email"
+        ]
+      },
+      "uuid": "6a4fe3dc-d38c-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC3524"
+    },
+	{
+      "description": "Since July 2021, Mandiant identified exploitation of public-facing web applications by UNC2903 to harvest and abuse credentials using Amazon’s Instance Metadata Service (IMDS). Mandiant tracked access attempts by UNC2903 to access S3 buckets and additional cloud resources using the stolen credentials. This blog post covers how UNC2903 performed exploitation and IMDS abuse, as well as related best practices on cloud hardening techniques. Although UNC2903 targeted Amazon Web Services (AWS) environments, many other cloud platforms offer similar metadata services that could be at risk of similar attacks. Similar threat actor motives and operations are gaining prominence as enterprises continue their migration to cloud hosting services. This article also describes potential risks and considerations for security and information technology teams using hosted services.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/cloud-metadata-abuse-unc2903"
+        ]
+      },
+      "uuid": "6a4fe508-d38c-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC2903"
+    },
+	{
+      "description": "SentinelLabs researchers are tracking the activity of a Chinese-aligned cyberespionage threat actor operating in Central-Asia, dubbed Moshen Dragon. As the threat actor faced difficulties loading their malware against the SentinelOne agent, we observed an unusual approach of trial-and-error abuse of traditional antivirus products to attempt to sideload malicious DLLs. Moshen Dragon deployed five different malware triads in an attempt to use DLL search order hijacking to sideload ShadowPad and PlugX variants. Moshen Dragon deploys a variety of additional tools, including an LSA notification package and a passive backdoor known as GUNTERS.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/moshen-dragons-triad-and-error-approach-abusing-security-software-to-sideload-plugx-and-shadowpad/"
+        ]
+      },
+      "uuid": "6a4fe620-d38c-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Moshen Dragon Threat Group"
+    },
+	{
+      "description": "Campaign conducted by APT-Q-29.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp-weixin-qq-com.translate.goog/s/K1uBLGqD8kgsIp1yTyYBfw?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en"
+        ]
+      },
+      "uuid": "6a4fe904-d38c-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation (Dragon) EviLoong"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

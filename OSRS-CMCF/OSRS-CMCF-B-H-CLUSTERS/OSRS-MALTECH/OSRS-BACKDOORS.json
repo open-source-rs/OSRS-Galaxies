@@ -1869,6 +1869,58 @@
       "value": "OSRS Backdoor: POWERPLANT Backdoor"
     },
 	{
+      "description": "Core Impact is a penetration testing framework developed by Core Security. As with other penetration testing frameworks, these aren’t always used with good intentions. TrendMicro reported a modified version of Core Impact was used in the Woolen-GoldFish campaign tied to the Rocket Kitten APT35 group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/vmware-identity-manager-attack-backdoor"
+        ]
+      },
+      "uuid": "579dcb8c-d391-11ec-9d64-0242ac120002",
+      "value": "OSRS Backdoor: Core Impact Backdoor"
+    },
+	{
+      "description": "On 18 March 2022, NK News shared multiple malicious artifacts with the Stairwell threat research team from a spear-phishing campaign targeting journalists who specialize in the DPRK. These messages were sent from the personal email of a former director of South Korea’s National Intelligence Service (NIS). One of these artifacts was a new malware sample we have named GOLDBACKDOOR, based on an embedded development artifact. Stairwell assesses with medium-high confidence that GOLDBACKDOOR is the successor of, or used in parallel with, the malware BLUELIGHT, attributed to APT37-Ricochet Chollima. This assessment is based on technical overlaps between the two malware families and the impersonation of NK News, a South Korean news site focused on the DPRK.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://stairwell.com/wp-content/uploads/2022/04/Stairwell-threat-report-The-ink-stained-trail-of-GOLDBACKDOOR.pdf?utm_source=website&utm_medium=website&utm_campaign=Threat+Research"
+        ]
+      },
+      "uuid": "579dd0d2-d391-11ec-9d64-0242ac120002",
+      "value": "OSRS Backdoor: GOLDBACKDOOR"
+    },
+	{
+      "description": "Stonefly’s custom Preft backdoor. Analysis of the backdoor revealed that it is a multistage tool.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/stonefly-north-korea-espionage"
+        ]
+      },
+      "uuid": "579e29ce-d391-11ec-9d64-0242ac120002",
+      "value": "OSRS Backdoor: Preft Backdoor"
+    },
+	{
+      "description": "During our analysis of Moshen Dragons activities, we came across a passive loader previously discussed by Avast as GUNTERS. This backdoor appears to be highly targeted as it performs checks to verify that it is executed on the right machine. Before execution, the malware calculates the hash of the machine hostname and compares it to a hardcoded value, suggesting that the threat actor generates a different DLL for each target machine. The loader utilized WinDivert to intercept incoming traffic, searching for a magic string to initiate a decrypting process utilizing a custom protocol. Following the decryption process, the malware attempts to load a PE file with an exported function named SetNtApiFunctions, which it calls to launch the payload.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/moshen-dragons-triad-and-error-approach-abusing-security-software-to-sideload-plugx-and-shadowpad/"
+        ]
+      },
+      "uuid": "579e2b7c-d391-11ec-9d64-0242ac120002",
+      "value": "OSRS Backdoor: GUNTERS Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

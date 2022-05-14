@@ -10434,6 +10434,45 @@
       "value": "OSRS OSINT Author Index: Alexandre Cote Cyr"
     },
 	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Forescout.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.forescout.com/blog/alphv-breaking-down-the-complexity-of-the-most-sophisticated-ransomware/"
+        ]
+      },
+      "uuid": "d2bd0a3e-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Author Index: Stanislav Dashevskyi"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Stairwell.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://stairwell.com/wp-content/uploads/2022/04/Stairwell-threat-report-The-ink-stained-trail-of-GOLDBACKDOOR.pdf?utm_source=website&utm_medium=website&utm_campaign=Threat+Research"
+        ]
+      },
+      "uuid": "d2bd0c32-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Author Index: Silas Cutler"
+    },
+	{
+      "description": "Cybersecurity researcher affiliated with the cybersecurity vendor Varonis.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.varonis.com/blog/hive-ransomware-analysis"
+        ]
+      },
+      "uuid": "d2bd0d36-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Author Index: Nadav Ovadia"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

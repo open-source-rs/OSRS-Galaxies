@@ -9546,6 +9546,149 @@
       "value": "OSRS Tool: Eagle Monitor RAT"
     },
 	{
+      "description": "Research of this malware family began when I found a malicious task starting powershell code directly from a registry key within our user base. I wasn’t expecting the surprise I’d arrived at when I began tracking its origins. Living in a smaller country, Czech Republic, it is a rare sight to see someone exclusively targeting the local Czech-Slovak audience. The threat actor seems to have been creating malware since 2015 and appears to be from Slovakia. The bad actor’s repertoire contains a few RATs, some packers for cryptominers and, almost obligatorily, ransomware, and I have named the malware family Certishell. This person’s malware is spread with illegal copies of songs and movies and with alleged cracks and keygens of games and common tools (GTA SA, Mafia, Avast, Microsoft Office) that were hosted on one of the most popular Czech and Slovak file-sharing services uloz.to.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://decoded.avast.io/danielbenes/warez-users-fell-for-certishell/"
+        ]
+      },
+      "uuid": "d4f25294-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Certishell Framework"
+    },
+	{
+      "description": "Cyble research labs discovered a new Infostealer named Prynt Stealer. The stealer is new on the cybercrime forums and comes with various capabilities. Along with stealing the victim’s data, this stealer can also perform financial thefts using a clipper and keylogging operations. Additionally, it can target 30+ Chromium-based browsers, 5+ Firefox-based browsers, and a range of VPN, FTP, Messaging, and Gaming apps. Furthermore, a builder may customize the functionality of this stealer.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/04/21/prynt-stealer-a-new-info-stealer-performing-clipper-and-keylogger-activities/"
+        ]
+      },
+      "uuid": "d4f25546-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Prynt Stealer"
+    },
+	{
+      "description": "Attacked Ukrainian organizations in parallel with the Ukraine-Russia war (circa 2022).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/the-increasing-wiper-malware-threat"
+        ]
+      },
+      "uuid": "d4f2569a-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: WhisperKill Wiper"
+    },
+	{
+      "description": "BEATDROP is a downloader written in C that makes use of Trello for C2. Once executed, BEATDROP first maps its own copy of `ntdll.dll` into memory for the purpose of executing shellcode in its own process. BEATDROP first creates a suspended thread with RtlCreateUserThread which points to NtCreateFile.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns"
+        ]
+      },
+      "uuid": "d4f257f8-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: BEATDROP Downloader"
+    },
+	{
+      "description": "BOOMMIC, also known as VaporRage by Microsoft, is a shellcode downloader written in C that communicates over HTTP to co-opted infrastructure used for C2. APT29 executed BOOMMIC through DLL Side Loading of a modified version.dll by a legitimate Java binary, jucheck.exe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns"
+        ]
+      },
+      "uuid": "d4f2594c-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: BOOMMIC Loader"
+    },
+	{
+      "description": "ROOTSAW, publicly referred to as EnvyScout, is a dropper HTML file that contains Javascript which XOR and Base64 decodes an embedded ISO-IMG file to be further executed.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns"
+        ]
+      },
+      "uuid": "d4f25a96-d394-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: ROOTSAW Dropper"
+    },
+	{
+      "description": "We discovered a new malware family that we have dubbed PuppetLoader. It is a complex, five-stage malware family that uses some interesting techniques, including hijacking loaded modules to launch malicious code and hiding malicious payloads and modules in modified bitmap image (BMP) files.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/d/new-apt-group-earth-berberoka-targets-gambling-websites-with-old.html"
+        ]
+      },
+      "uuid": "abb33d70-d395-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: PuppetLoader"
+    },
+	{
+      "description": "The QUIETEXIT component running on the threat actor’s infrastructure initiates the SSH connection and sends a password. Once the backdoor establishes a connection, the threat actor can use any of the options available to an SSH client, including proxying traffic via SOCKS. QUIETEXIT has no persistence mechanism, however, we have observed UNC3524 install a run command (rc) as well as hijack legitimate application-specific startup scripts to enable the backdoor to execute on system startup.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/"
+        ]
+      },
+      "uuid": "abb34626-d395-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: QUIETEXIT Dropper"
+    },
+	{
+      "description": "REGEORG is a web shell that creates a SOCKS proxy, keeping with UNC3524’s preference for tunneling malware. Once inside the victim environment, the threat actor spent time to identify web servers in the victim environment and ensure they found one that was Internet accessible before copying REGEORG to it. They also took care to name the file so that it blended in with the application running on the compromised server. Mandiant also observed instances where UNC3542 used timestomping to alter the Standard Information timestamps of the REGEORG web shell to match other files in the same directory.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/"
+        ]
+      },
+      "uuid": "abb347ac-d395-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: REGEORG Web Shell"
+    },
+	{
+      "description": "Raspberry Robin is Red Canary’s name for a cluster of activity we first observed in September 2021 involving a worm that is often installed via USB drive. This activity cluster relies on msiexec.exe to call out to its infrastructure, often compromised QNAP devices, using HTTP requests that contain a victim’s user and device names. We also observed Raspberry Robin use TOR exit nodes as additional command and control (C2) infrastructure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://redcanary.com/blog/raspberry-robin/"
+        ]
+      },
+      "uuid": "abb348e2-d395-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Raspberry Robin"
+    },
+	{
+      "description": "We recently encountered a fairly sophisticated malware framework that we named NetDooka after the names of some of its components. The framework is distributed via a pay-per-install (PPI) service and contains multiple parts, including a loader, a dropper, a protection driver, and a full-featured remote access trojan (RAT) that implements its own network communication protocol. During our analysis, we discovered that NetDooka was being spread via the PrivateLoader malware which, once installed, starts the whole infection chain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/e/netdooka-framework-distributed-via-privateloader-ppi.html"
+        ]
+      },
+      "uuid": "abb34a0e-d395-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: NetDooka Framework"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

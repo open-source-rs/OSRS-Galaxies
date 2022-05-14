@@ -4037,6 +4037,45 @@
       "value": "OSRS OSINT Source: Abnormal Blog"
     },
 	{
+      "description": "A cybersecurity company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.forescout.com/blog/"
+        ]
+      },
+      "uuid": "d2bd107e-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Source: Forescout Research Blog"
+    },
+	{
+      "description": "A cybersecurity company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://stairwell.com/"
+        ]
+      },
+      "uuid": "d2bd1178-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Source: Stairwell Threat Research"
+    },
+	{
+      "description": "A cybersecurity company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.varonis.com/blog"
+        ]
+      },
+      "uuid": "d2bd125e-d397-11ec-9d64-0242ac120002",
+      "value": "OSRS OSINT Source: Varonis Research Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
