@@ -9871,6 +9871,45 @@
       "value": "OSRS Tool: Eternity DDoS Bot"
     },
 	{
+      "description": "Trojans from the Trojan.AndroidOS.Jocker family can intercept codes sent in text messages and bypass anti-fraud solutions. They’re usually spread on Google Play, where scammers download legitimate apps from the store, add malicious code to them and re-upload them to the store under a different name. The trojanized apps fulfill their original purposes in most cases, and the user won’t suspect they are a source of threats.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/"
+        ]
+      },
+      "uuid": "e816702e-d5df-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Jocker Android Trojan"
+    },
+	{
+      "description": "Another subscription Trojan identified as Trojan.AndroidOS.MobOk was also first detected in an infected app on Google Play. However, this malware is now mainly spread as the payload of another Trojan called Triada, which is present in preinstalled apps (usually system apps) on certain smartphone models. It’s also built into popular apps, such as the APKPure app store and a widely used modification of WhatsApp Messenger.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/"
+        ]
+      },
+      "uuid": "e81671fa-d5df-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: MobOK Android Trojan"
+    },
+	{
+      "description": "A malware called Trojan.AndroidOS.Vesub is spread through unofficial sources and imitates popular games and apps like GameBeyond, Tubemate, Minecraft, GTA5 and Vidmate.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/"
+        ]
+      },
+      "uuid": "e81672f4-d5df-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Vesub Android Trojan"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
