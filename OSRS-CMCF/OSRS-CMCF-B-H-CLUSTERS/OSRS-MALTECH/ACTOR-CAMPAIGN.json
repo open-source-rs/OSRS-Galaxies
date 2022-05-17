@@ -4281,6 +4281,61 @@
       "value": "OSRS Actors AND Campaigns: Operation (Dragon) EviLoong"
     },
 	{
+      "description": "Cisco Talos has observed an ongoing malicious campaign since August 2021 from the Bitter APT group that appears to target users in Bangladesh, a change from the attackers' usual victims. As part of this, there's a new trojan based on Apost Talos is calling ZxxZ, that, among other features, includes remote file execution capability. Based on the similarities between the C2 server in this campaign with that of Bitter's previous campaign, we assess with moderate confidence that this campaign is operated by the Bitter APT group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html"
+        ]
+      },
+      "uuid": "9100dfaa-d5d9-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Bitter APT"
+    },
+	{
+      "description": "Threat group targeting Ukrainian assets during war with Russia. (circa 2022).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/40240"
+        ],
+        "synonyms": [
+        "Armageddon"
+        ]
+      },
+      "uuid": "9100e180-d5d9-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0010"
+    },
+	{
+      "description": "Secureworks Counter Threat Unit (CTU) researchers are investigating attacks by the Iranian COBALT MIRAGE threat group, which has been operating since at least June 2020. COBALT MIRAGE is linked to the Iranian COBALT ILLUSION threat group, which predominantly uses persistent phishing campaigns to obtain initial access. It is possible that the two groups share tradecraft and access. Elements of COBALT MIRAGE activity have been reported as PHOSPHOROUS and TunnelVision.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.secureworks.com/blog/cobalt-mirage-conducts-ransomware-operations-in-us"
+        ]
+      },
+      "uuid": "9100e2d4-d5d9-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: COBALT MIRAGE Threat Group"
+    },
+	{
+      "description": "Since mid- April 2022 , multiple organizations have been observing targeted attack campaigns targeting Japanese companies. This attack campaign is believed to have been active in March 2022 , and it is possible that a related attack was also underway in October 2021 . For this reason, it is possible that attacks will continue in the future, rather than short-term, one-off attack campaigns.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://insight-jp.nttsecurity.com/post/102ho8o/operation-restylink"
+        ]
+      },
+      "uuid": "9100e3d8-d5d9-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation RestyLink"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

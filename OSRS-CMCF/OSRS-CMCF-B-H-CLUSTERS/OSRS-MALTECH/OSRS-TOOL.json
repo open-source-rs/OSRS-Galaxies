@@ -9689,6 +9689,188 @@
       "value": "OSRS Tool: NetDooka Framework"
     },
 	{
+      "description": "The newly identified Nerbian RAT leverages multiple anti-analysis components spread across several stages, including multiple open-source libraries. It is written in operating system (OS) agnostic Go programming language, compiled for 64-bit systems, and leverages several encryption routines to further evade network analysis. Go is an increasingly popular language used by threat actors, likely due to its lower barrier to entry and ease of use.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/nerbian-rat-using-covid-19-themes-features-sophisticated-evasion-techniques"
+        ]
+      },
+      "uuid": "74b1246c-d5da-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Nerbian RAT"
+    },
+	{
+      "description": "Coinminer that functions like XMRig.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/34107/"
+        ]
+      },
+      "uuid": "74b1273c-d5da-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Jin Miner"
+    },
+	{
+      "description": "Fileless malware used in conjunction with the AveMariaRAT and BitRAT families.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/phishing-campaign-delivering-fileless-malware"
+        ]
+      },
+      "uuid": "74b1287c-d5da-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: PandoraHVNC"
+    },
+	{
+      "description": "Used during Ukraine war with Russia (circa 2022). Takes screen captures of device UI.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/40240"
+        ]
+      },
+      "uuid": "74b12b10-d5da-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: GammaLoad.PS1_v2 (Stealer)"
+    },
+	{
+      "description": "The Facestealer spyware was first documented in July 2021 in a report by Dr. Web detailing how it stole Facebook credentials from users via fraudulent apps from Google Play. These stolen credentials could then be used to compromise Facebook accounts for malicious purposes such as phishing scams, fake posts, and ad bots. Similar to Joker, another piece of mobile malware, Facestealer changes its code frequently, thus spawning many variants. Since its discovery, the spyware has continuously beleaguered Google Play.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/"
+        ]
+      },
+      "uuid": "74b12c46-d5da-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Facestealer Spyware"
+    },
+	{
+      "description": "The oRAT malware is distributed via a Disk Image masquerading as a collection of Bitget Apps. The disk image contains a package with the name Bitget Apps.pkg and the distribution identifier com.adobe.pkg.Bitget.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/blog/from-the-front-lines-unsigned-macos-orat-malware-gambles-for-the-win/"
+        ]
+      },
+      "uuid": "1890f10c-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: macOS oRAT"
+    },
+	{
+      "description": "Post exploitation framework.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.crowdstrike.com/wp-content/uploads/2022/05/crowdstrike-iceapple-a-novel-internet-information-services-post-exploitation-framework.pdf"
+        ]
+      },
+      "uuid": "1890f7e2-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: ICEAPPLE Post Exploitation Framework"
+    },
+	{
+      "description": "With 50 percent more users last year than in 2020, the number of people using the community chat platform Discord is growing at a blistering pace. This has led cybercriminals to refine and expand malicious attack use cases for the platform. In this threat research report, Morphisec reveals how threat actors are using Discord as part of an increasingly popular attack chain with a new SYK crypter designed to outwit signature and behavior-based security controls. Morphisec’s Threat Labs team is on the cutting edge of threat research in this area. Our researchers previously dissected other Discord-related threats like Babadeda and NFT-001. We can report that as Discord has expanded from a gaming messaging app to broader use, it’s being used to distribute a crypter we named SYK.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.morphisec.com/syk-crypter-discord"
+        ]
+      },
+      "uuid": "1890f9ae-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: SYK Crypter"
+    },
+	{
+      "description": "The Eternity Stealer steals passwords, cookies, credit cards, and crypto-wallets from the victim’s machine and sends them to the TA’s Telegram Bot.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13e8d6-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity Stealer"
+    },
+	{
+      "description": "The Eternity Miner is a malicious program that uses the resources of an infected computer to mine cryptocurrency.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13ea8e-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity Miner"
+    },
+	{
+      "description": "The Eternity Clipper is a malicious program that monitors the clipboard of an infected machine for cryptocurrency wallets and replaces them with the TA’s crypto-wallet addresses.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13eb92-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity Clipper"
+    },
+	{
+      "description": "Eternity Ransomware is a malicious program that prevents users from accessing their machine, either by locking the system’s screen or encrypting the users’ files until a ransom is paid.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13ee6c-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity Ransomware"
+    },
+	{
+      "description": "It is a virus that spreads through infected machines via files and networks.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13ef66-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity Worm"
+    },
+	{
+      "description": "According to the TA’s website, the DDoS Bot malware is currently under development.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/05/12/a-closer-look-at-eternity-malware/"
+        ]
+      },
+      "uuid": "9c13f060-d5db-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Eternity DDoS Bot"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
