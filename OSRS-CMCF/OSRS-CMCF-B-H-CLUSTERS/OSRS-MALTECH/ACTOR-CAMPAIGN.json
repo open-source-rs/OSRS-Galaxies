@@ -4336,6 +4336,49 @@
       "value": "OSRS Actors AND Campaigns: Operation RestyLink"
     },
 	{
+      "description": "SentinelLabs has investigated a supply-chain attack against the Rust development community that we refer to as CrateDepression. On May 10th, 2022, the Rust Security Response Working Group released an advisory announcing the discovery of a malicious crate hosted on the Rust dependency community repository. The malicious dependency checks for environment variables that suggest a singular interest in GitLab Continuous Integration (CI) pipelines. Infected CI pipelines are served a second-stage payload. We have identified these payloads as Go binaries built on the red-teaming framework, Mythic. Given the nature of the victims targeted, this attack would serve as an enabler for subsequent supply-chain attacks at a larger-scale relative to the development pipelines infected. We suspect that the campaign includes the impersonation of a known Rust developer to poison the well with source code that relies on the typosquatted malicious dependency and sets off the infection chain.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/cratedepression-rust-supply-chain-attack-infects-cloud-ci-pipelines-with-go-malware/"
+        ]
+      },
+      "uuid": "cb7aef28-dc31-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation CrateDepression"
+    },
+	{
+      "description": "We recently captured a slightly unusual incident of attack activity. The attack was launched by the APT-C-24 (Sidewinder) organization, which changed the previous attack framework and used a new attack method and process. Interestingly, in this attack activity, due to the software version, the attack activity could not be completed normally according to the normal code execution logic. It seems that our old friend Sidewinder APT organization is not completely synchronized with the Chinese environment in the code testing environment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp-weixin-qq-com.translate.goog/s/qsGxZIiTsuI7o-_XmiHLHg?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en"
+        ],
+        "synonyms": [
+        "Rattlesnake",
+        "Sidewinder"
+        ]
+      },
+      "uuid": "cb7af162-dc31-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-C-24"
+    },
+	{
+      "description": "In the past two months, we observed multiple APT groups attempting to leverage the Russia and Ukraine war as a lure for espionage operations. It comes as no surprise that Russian entities themselves became an attractive target for spear-phishing campaigns that are exploiting the sanctions imposed on Russia by western countries. These sanctions have put enormous pressure on the Russian economy, and specifically on organizations in multiple Russian industries. Check Point Research (CPR) details a targeted campaign that has been using sanctions-related baits to attack Russian defense institutes, part of the Rostec Corporation. The investigation shows that this campaign is part of a larger Chinese espionage operation that has been ongoing against Russian-related entities for several months. CPR researchers estimate with high confidence that the campaign has been carried out by an experienced and sophisticated Chinese nation-state APT. In the below blog, the researchers reveal the tactics and techniques used by the threat actors and provide a technical analysis of the observed malicious stages and payloads, including previously unknown loaders and backdoors with multiple advanced evasion and anti-analysis techniques.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/"
+        ]
+      },
+      "uuid": "cb7af25c-dc31-11ec-9d64-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Twisted Panda APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

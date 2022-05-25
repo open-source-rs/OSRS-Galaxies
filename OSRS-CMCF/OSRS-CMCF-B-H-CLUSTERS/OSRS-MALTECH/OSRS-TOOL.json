@@ -9923,6 +9923,45 @@
       "value": "OSRS Tool: ZxxZ Trojan"
     },
 	{
+      "description": "The new variant of ArguePatch – named so by the Computer Emergency Response Team of Ukraine (CERT-UA) and detected by ESET products as Win32/Agent.AEGY – now includes a feature to execute the next stage of an attack at a specified time. This bypasses the need for setting up a scheduled task in Windows and is likely intended to help the attackers stay under the radar.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/05/20/sandworm-ukraine-new-version-arguepatch-malware-loader/"
+        ]
+      },
+      "uuid": "5d30ca22-dc33-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: ArguePatch Loader"
+    },
+	{
+      "description": "Uptycs' threat research team has recently discovered a new malware builder—a tool sold to criminals to make it easier to build malware—we have named KurayStealer that has password stealing and screenshot capabilities. KurayStealer is a builder written in Python which harvests the passwords and screenshots and sends them to the attackers’ Discord channel via webhooks. It is available as a free and commercial (VIP) software. This was discovered through the intelligence monitoring rules in our threat intelligence systems. Based on the source code and the OSINT intelligence, we have evidence that the creator of this builder is of Spanish origin and has also started selling paid versions of password stealers with added functionalities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.uptycs.com/blog/kuraystealer-a-bandit-using-discord-webhooks"
+        ]
+      },
+      "uuid": "5d30dc1a-dc33-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: KurayStealer"
+    },
+	{
+      "description": "Malware tool used by threat group Gamaredon.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.cisco.com/security/network-footprints-of-gamaredon-group"
+        ]
+      },
+      "uuid": "5d30dd50-dc33-11ec-9d64-0242ac120002",
+      "value": "OSRS Tool: Groooboor"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -1934,6 +1934,19 @@
       "value": "OSRS Backdoor: Saitama Backdoor"
     },
 	{
+      "description": "The payload uses two compiler-level obfuscations - Control flow flattening alters the code flow making it non-linear, Opaque predicates defines unused logic and causes the binary to perform needless calculations. Both methods make it difficult to analyze the payload, but together, they make the analysis painful, time-consuming, and tedious. These two types of obfuscations were previously spotted being used together in samples attributed to the Chinese-speaking group Stone Panda (APT10) and Mustang Panda.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/"
+        ]
+      },
+      "uuid": "cb7af338-dc31-11ec-9d64-0242ac120002",
+      "value": "OSRS Backdoor: SPINNER Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [
