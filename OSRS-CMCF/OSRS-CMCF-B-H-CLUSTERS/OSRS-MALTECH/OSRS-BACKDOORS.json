@@ -1947,6 +1947,32 @@
       "value": "OSRS Backdoor: SPINNER Backdoor"
     },
 	{
+      "description": "The observed activity includes performing a specially crafted DLL hijacking attack used by a previously unknown piece of malware that we dubbed Popping Eagle due to several artifacts found in the samples. It also includes a second stage malicious tool written in Go dubbed Going Eagle. In this particular case, we observed the attacker following this by performing several network scans and lateral movement steps.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/popping-eagle-malware/"
+        ]
+      },
+      "uuid": "22ba0650-e661-11ec-8fea-0242ac120002",
+      "value": "OSRS Backdoor: Popping Eagle Backdoor"
+    },
+	{
+      "description": "The observed activity includes performing a specially crafted DLL hijacking attack used by a previously unknown piece of malware that we dubbed Popping Eagle due to several artifacts found in the samples. It also includes a second stage malicious tool written in Go dubbed Going Eagle. In this particular case, we observed the attacker following this by performing several network scans and lateral movement steps.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/popping-eagle-malware/"
+        ]
+      },
+      "uuid": "22ba08da-e661-11ec-8fea-0242ac120002",
+      "value": "OSRS Backdoor: Going Eagle Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

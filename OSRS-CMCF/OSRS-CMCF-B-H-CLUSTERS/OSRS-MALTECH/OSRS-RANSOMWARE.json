@@ -1820,6 +1820,71 @@
       "value": "OSRS Ransomware: Yashma Ransomware"
     },
 	{
+      "description": "YourCyanide is a sophisticated ransomware that integrates PasteBin, Discord, and Microsoft document links as part of its payload download routine. YourCyanide contains multiple layers of obfuscation and takes advantage of custom environment variables and the Enable Delayed Expansion function to hide its activities. As part of its evasion strategy, YourCyanide will also pass through different files, downloading the succeeding files via Discord and Pastebin with each step before eventually downloading the main payload.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/f/yourcyanide-a-cmd-based-ransomware.html"
+        ]
+      },
+      "uuid": "798dd172-e662-11ec-8fea-0242ac120002",
+      "value": "OSRS Ransomware: YourCyanide Ransomware"
+    },
+	{
+      "description": "Previous versoin of YourCyanide Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/f/yourcyanide-a-cmd-based-ransomware.html"
+        ]
+      },
+      "uuid": "798dd3fc-e662-11ec-8fea-0242ac120002",
+      "value": "OSRS Ransomware: GonnaCope Ransomware"
+    },
+	{
+      "description": "Previous versoin of YourCyanide Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/f/yourcyanide-a-cmd-based-ransomware.html"
+        ]
+      },
+      "uuid": "798dd550-e662-11ec-8fea-0242ac120002",
+      "value": "OSRS Ransomware: Kekpop Ransomware"
+    },
+	{
+      "description": "Previous versoin of YourCyanide Ransomware.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/f/yourcyanide-a-cmd-based-ransomware.html"
+        ]
+      },
+      "uuid": "798dd672-e662-11ec-8fea-0242ac120002",
+      "value": "OSRS Ransomware: Kekware Ransomware"
+    },
+	{
+      "description": "The DeadBolt ransomware kicked off 2022 with a slew of attacks that targeted internet-facing Network-Attached Storage (NAS) devices. It was first seen targeting QNAP Systems, Inc. in January 2022. According to a report from attack surface solutions provider Censys.io, as of Jan. 26, 2022, out of 130,000 QNAP NAS devices that were potential targets, 4,988 services showed signs of a DeadBolt infection. A few weeks later, ASUSTOR, another NAS devices and video surveillance solutions vendor, also experienced DeadBolt ransomware attacks that targeted an unknown number of its devices. In March, DeadBolt attackers once again targeted QNAP devices, according to Censys.io, the number of infections reached 1,146 by March 19, 2022. Most recently, on May 19,2022, QNAP released a product security update stating that internet-connected QNAP devices were once again been targeted by DeadBolt, this time aiming at NAS devices using QTS 4.3.6 and QTS 4.4.1.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/f/closing-the-door-deadbolt-ransomware-locks-out-vendors-with-mult.html"
+        ]
+      },
+      "uuid": "798dd988-e662-11ec-8fea-0242ac120002",
+      "value": "OSRS Ransomware: DeadBolt Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

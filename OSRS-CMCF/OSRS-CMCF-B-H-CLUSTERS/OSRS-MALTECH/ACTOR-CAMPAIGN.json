@@ -4379,6 +4379,58 @@
       "value": "OSRS Actors AND Campaigns: Twisted Panda APT"
     },
 	{
+      "description": "Karakurt actors have employed a variety of tactics, techniques, and procedures (TTPs), creating significant challenges for defense and mitigation. Karakurt victims have not reported encryption of compromised machines or files, rather, Karakurt actors have claimed to steal data and threatened to auction it off or release it to the public unless they receive payment of the demanded ransom. Known ransom demands have ranged from $25,000 to $13,000,000 in Bitcoin, with payment deadlines typically set to expire within a week of first contact with the victim.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.cisa.gov/uscert/ncas/alerts/aa22-152a"
+        ]
+      },
+      "uuid": "747145be-e65f-11ec-8fea-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Karakurt Data Extortion Group"
+    },
+	{
+      "description": "LuoYu is a lesser-known threat actor that has been active since 2008. It primarily goes after targets located in China, such as foreign diplomatic organizations established in the country, members of the academic community, or companies from the defense, logistics and telecommunications sectors. In their initial disclosures on this threat actor, TeamT5 identified three malware families - SpyDealer, Demsty and WinDealer. The actor behind these families is capable of targeting Windows, Linux and macOS machines, as well as Android devices.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/windealer-dealing-on-the-side/105946/"
+        ]
+      },
+      "uuid": "74714820-e65f-11ec-8fea-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: LuoYu Threat Group"
+    },
+	{
+      "description": "Killnet is one of many hacktivist groups that has taken a side in the ongoing Russian invasion of Ukraine. There have been more than 100 groups conducting cyberattacks since we published our initial analysis at the beginning of the war. Most of the attacks from these groups are distributed denials of service (DDoS), but they also include data breaches, data wipers and psychological operations (i.e., distributing propaganda).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.forescout.com/resources/analysis-of-killnet-report/"
+        ]
+      },
+      "uuid": "7471496a-e65f-11ec-8fea-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Killnet Hacktivist Group"
+    },
+	{
+      "description": "Since February 2022, POLONIUM has been observed primarily targeting organizations in Israel with a focus on critical manufacturing, IT, and Israel’s defense industry. In at least one case, POLONIUM’s compromise of an IT company was used to target a downstream aviation company and law firm in a supply chain attack that relied on service provider credentials to gain access to the targeted networks. Multiple manufacturing companies they targeted also serve Israel’s defense industry, indicating a POLONIUM tactic that follows an increasing trend by many actors, including among several Iranian groups, of targeting service provider access to gain downstream access. Observed victim organizations were in the following sectors: critical manufacturing, information technology, transportation systems, defense industrial base, government agencies and services, food and agriculture, financial services, healthcare and public health, and other business types.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/06/02/exposing-polonium-activity-and-infrastructure-targeting-israeli-organizations/"
+        ]
+      },
+      "uuid": "74714a8c-e65f-11ec-8fea-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: POLONIUM"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

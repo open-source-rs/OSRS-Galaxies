@@ -1090,6 +1090,19 @@
       "value": "OSRS Botnet: Fodcha Botnet"
     },
 	{
+      "description": "Clipminer is likely spread via Trojanized downloads of cracked or pirated software. The malware arrives on compromised computers as a self-extracting WinRAR archive that drops and executes a downloader in the form of a packed portable executable DLL file with CPL file extension (although it does not follow the CPL format). The dropped file connects to the Tor network to download Clipminer’s components.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/clipminer-bitcoin-mining-hijacking"
+        ]
+      },
+      "uuid": "22ba0a10-e661-11ec-8fea-0242ac120002",
+      "value": "OSRS Botnet: Fodcha Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

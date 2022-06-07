@@ -9962,6 +9962,45 @@
       "value": "OSRS Tool: Groooboor"
     },
 	{
+      "description": "WinDealer is a modular malware platform. It starts execution by locating an embedded DLL file placed in its resources by looking for a hardcoded pattern, and proceeds to decode it using a 10-byte XOR key.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/windealer-dealing-on-the-side/105946/"
+        ]
+      },
+      "uuid": "22dd9f3c-e663-11ec-8fea-0242ac120002",
+      "value": "OSRS Tool: WinDealer Modular Malware Platform"
+    },
+	{
+      "description": "CreepySnail PowerShell implant, once deployed on a target network, attempts to authenticate using stolen credentials and connect to POLONIUM C2 for further actions on objectives, such as data exfiltration or further abuse as C2.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/06/02/exposing-polonium-activity-and-infrastructure-targeting-israeli-organizations/"
+        ]
+      },
+      "uuid": "22dda0ea-e663-11ec-8fea-0242ac120002",
+      "value": "OSRS Tool: CreepySnail Implant"
+    },
+	{
+      "description": "The initial version of Hazard Token Grabber was spotted in the wild in 2021, and we have observed an upgraded version now, which Threat Actors (TAs) are using to steal the user’s data. Both versions are available on GitHub for free.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/06/01/hazard-token-grabber/"
+        ]
+      },
+      "uuid": "22dda1e4-e663-11ec-8fea-0242ac120002",
+      "value": "OSRS Tool: Hazard Token Grabber"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
