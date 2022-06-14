@@ -1973,6 +1973,19 @@
       "value": "OSRS Backdoor: Going Eagle Backdoor"
     },
 	{
+      "description": "Aoqin Dragon rely heavily on the DLL hijacking technique to compromise targets and run their malware of choice. This includes their newest malware loader, Mongall backdoor, and a modified Heyoka backdoor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/"
+        ]
+      },
+      "uuid": "883c0026-ebdb-11ec-8ea0-0242ac120002",
+      "value": "OSRS Backdoor: Heyoka Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

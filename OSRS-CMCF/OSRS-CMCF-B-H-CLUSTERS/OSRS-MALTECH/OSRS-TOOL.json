@@ -10001,6 +10001,45 @@
       "value": "OSRS Tool: Hazard Token Grabber"
     },
 	{
+      "description": "Tool used to steal credentials.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.avast.com/fakecrack-campaign"
+        ]
+      },
+      "uuid": "883c0990-ebdb-11ec-8ea0-0242ac120002",
+      "value": "OSRS Tool: PassStealer"
+    },
+	{
+      "description": "Another threat, dubbed Hezb based on command line artifact data, was observed around Kinsing. This malware is relatively new and was recently reported in late May exploiting WSO2 RCE (CVE-2022-29464) in the wild. Several malware components were observed, the first of which was an XMRig miner installed as Hezb. Additional modules included a polkit exploit for privilege escalation as well as a zero-detection ELF payload named kik. The following table lists observed artifacts and descriptions.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/"
+        ]
+      },
+      "uuid": "883c0b84-ebdb-11ec-8ea0-0242ac120002",
+      "value": "OSRS Tool: Hezb Miner"
+    },
+	{
+      "description": "What makes Symbiote different from other Linux malware that we usually come across, is that it needs to infect other running processes to inflict damage on infected machines. Instead of being a standalone executable file that is run to infect a machine, it is a shared object (SO) library that is loaded into all running processes using LD_PRELOAD (T1574.006), and parasitically infects the machine. Once it has infected all the running processes, it provides the threat actor with rootkit functionality, the ability to harvest credentials, and remote access capability.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/new-linux-threat-symbiote/"
+        ]
+      },
+      "uuid": "883c0d6e-ebdb-11ec-8ea0-0242ac120002",
+      "value": "OSRS Tool: Symbiote Credential Harvester"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

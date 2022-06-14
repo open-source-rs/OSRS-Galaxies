@@ -4431,6 +4431,107 @@
       "value": "OSRS Actors AND Campaigns: POLONIUM"
     },
 	{
+      "description": "Researchers have recently noted the emergence of a new ransomware operator calling itself Mindware. The gang is thought to be responsible for a number of attacks beginning around March to April 2022, with suggestions that the malware was used to attack a not-for-profit mental health provider. Aside from targeting organizations in the Healthcare sector,  Mindware has posted data on its leaks site belonging to organizations in sectors such as Finance, Engineering and Manufacturing. Mindware has a number of overlaps with an earlier ransomware strain known as SFile (aka SFile2, Escal). In this post, we review how Mindware differs from other ransomware families, note its similarities to SFile, and provide technical indicators to aid threat hunters and detection teams.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/blog/from-the-front-lines-another-rebrand-mindware-and-sfile-ransomware-technical-breakdown/"
+        ]
+      },
+      "uuid": "045c471c-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Mindware Ransomware Gang"
+    },
+	{
+      "description": "Operation idendtified by the Qi'anxin Threat Intelligence Center.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
+        ]
+      },
+      "uuid": "045c4992-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Operation Tejas"
+    },
+	{
+      "description": "Threat actor associated with Operation Tejas.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
+        ],
+        "synonyms": [
+        "Manling Flower"
+        ]
+      },
+      "uuid": "045c4c30-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-Q-37"
+    },
+	{
+      "description": "Threat actor associated with Operation Tejas.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
+        ],
+        "synonyms": [
+        "Maya Elephant"
+        ]
+      },
+      "uuid": "045c4d5c-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-Q-41"
+    },
+	{
+      "description": "Threat actor associated with Operation Tejas.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
+        ],
+        "synonyms": [
+        "Diamondback"
+        ]
+      },
+      "uuid": "045c4ee2-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: APT-Q-39"
+    },
+	{
+      "description": "Aoqin Dragon, a threat actor SentinelLabs has been extensively tracking, has operated since 2013 targeting government, education, and telecommunication organizations in Southeast Asia and Australia. Aoqin Dragon seeks initial access primarily through document exploits and the use of fake removable devices. Other techniques the attacker has been observed using include DLL hijacking, Themida-packed files, and DNS tunneling to evade post-compromise detection. Based on our analysis of the targets, infrastructure and malware structure of Aoqin Dragon campaigns, we assess with moderate confidence the threat actor is a small Chinese-speaking team with potential association to UNC94 (Mandiant).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/"
+        ]
+      },
+      "uuid": "045c4fd2-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Aoqin Dragon APT"
+    },
+	{
+      "description": "A threat actor designated by Proofpoint as TA570 routinely pushes Qakbot (Qbot) malware. Malicious DLL files used for Qakbot infections contain a tag indicating their specific distribution channel.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://isc.sans.edu/diary/rss/28728",
+		  "https://www.proofpoint.com/us/blog/threat-insight/first-step-initial-access-leads-ransomware"
+        ]
+      },
+      "uuid": "045c50ae-ebda-11ec-8ea0-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA570"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
