@@ -1116,6 +1116,32 @@
       "value": "OSRS Botnet: Dark.IoT Botnet"
     },
 	{
+      "description": "While tracking the mobile banking trojan FluBot, F5 Labs recently discovered a new strain of Android malware which we have dubbed MaliBot. While its main targets are online banking customers in Spain and Italy, its ability to steal credentials, cookies, and bypass multi-factor authentication (MFA) codes, means that Android users all over the world must be vigilant.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.f5.com/labs/articles/threat-intelligence/f5-labs-investigates-malibot"
+        ]
+      },
+      "uuid": "73ee9e6a-f6dc-11ec-b939-0242ac120002",
+      "value": "OSRS Botnet: MaliBot Botnet"
+    },
+	{
+      "description": "Akamai security researchers discovered Panchan, a new peer-to-peer botnet and SSH worm that emerged in March 2022 and has been actively breaching Linux servers since. Panchan is written in Golang, and utilizes its built-in concurrency features to maximize spreadability and execute malware modules. In addition to the basic SSH dictionary attack that is commonplace in most worms, this malware also harvests SSH keys to perform lateral movement. Akamai security researchers were able to gain access to the malware’s communication protocol and its administration panel, and use them to analyze the infection scope of the malware. The most common victim vertical of Panchan (after telecom/VPS) is education. We assume collaborations among different academic institutes might cause SSH keys to be shared across networks, which may explain why this vertical tops the list. Akamai security researchers reached out to the abuse emails associated with each victim IP. To avoid detection and reduce traceability, the malware drops its cryptominers as memory-mapped files, without any disk presence. It also kills the cryptominer processes if it detects any process monitoring. Based on the malware’s activity and victim geolocation, admin panel language, and the threat actor’s Discord user’s activity, we believe the threat actor is Japanese. Akamai MFA can mitigate the risk presented by SSH key harvesting. In addition, configuring strong SSH passwords should stop the malware in its tracks since it uses a very basic list of default passwords to spread.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://www.akamai.com/blog/security/new-p2p-botnet-panchan"
+        ]
+      },
+      "uuid": "73ee9f64-f6dc-11ec-b939-0242ac120002",
+      "value": "OSRS Botnet: Panchan Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

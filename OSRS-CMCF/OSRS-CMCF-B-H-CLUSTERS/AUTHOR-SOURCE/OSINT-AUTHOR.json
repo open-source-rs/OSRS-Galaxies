@@ -10473,6 +10473,19 @@
       "value": "OSRS OSINT Author Index: Nadav Ovadia"
     },
 	{
+      "description": "Security Researcher at Cyberint. Israel.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.linkedin.com/in/shmuel-gihon-a79a8b110/?originalSubdomain=il"
+        ]
+      },
+      "uuid": "3dc03296-f6f9-11ec-b939-0242ac120002",
+      "value": "OSRS OSINT Author Index: Shmuel Gihon"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

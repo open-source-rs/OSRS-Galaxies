@@ -4076,6 +4076,19 @@
       "value": "OSRS OSINT Source: Varonis Research Blog"
     },
 	{
+      "description": "A pioneer in attack surface reconnaissance, fusing threat intelligence with external attack surface management, providing organizations with extensive integrated visibility into their external risk exposure and the focus to effectively defend against it.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://cyberint.com/about/"
+        ]
+      },
+      "uuid": "3dc026ca-f6f9-11ec-b939-0242ac120002",
+      "value": "OSRS OSINT Source: Cyberint Research Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

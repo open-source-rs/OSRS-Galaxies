@@ -1885,6 +1885,64 @@
       "value": "OSRS Ransomware: DeadBolt Ransomware"
     },
 	{
+      "description": "Variant of the Cerber ransomware family.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/06/17/cerber2021-ransomware-back-in-action/"
+        ],
+        "synonyms": [
+        "CerberImposter"
+        ]
+      },
+      "uuid": "82e2dcfa-f6dd-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: Cerber2021 Ransomware"
+    },
+	{
+      "description": "Zeon ransomware was first observed in late January 2022. The group does not currently advertise its victims or data via a known public blog, although the dropped ransom note makes the usual threat of such public exposure for non-compliant victims, stating We’ve downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. The ransom note further prompts victims to visit a TOR-based payment portal to proceed with the payment. According to one source, victims must pay in XMR or BTC, with a fee of 25% in case of the latter. Observed Zeon payloads are Python-based executables packaged via pyInstaller and further obfuscated via pyArmor.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/blog/from-the-front-lines-3-new-and-emerging-ransomware-threats-striking-businesses-in-2022/"
+        ]
+      },
+      "uuid": "82e2deb2-f6dd-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: Zeon Ransomware"
+    },
+	{
+      "description": "HelloXD is a new ransomware family that first appeared towards the end of 2021. It is another in a long line of families derived from the various Babuk source code leaks. As such, both Windows and Linux variants of HelloXD have been observed. Like Zeon, HelloXD does not currently host a public blog or victim shaming site. The ransom note instructs victims to engage the attackers via TOX chat as opposed to a direct chat link, .onion TOR website or standard email.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/blog/from-the-front-lines-3-new-and-emerging-ransomware-threats-striking-businesses-in-2022/"
+        ]
+      },
+      "uuid": "82e2dfac-f6dd-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: HelloXD Ransomware"
+    },
+	{
+      "description": "In May 2022, researchers found another Babuk-derivative that behaves very similarly to HelloXD called Dark Angels (aka DarkAngels). Early reports on Dark Angels suggest that each ransomware sample is targeted specifically for a given organization, not unlike Mindware and SFile, which we reported on previously. Dark Angels victims are instructed to communicate with the threat actor via TOR-based chat portal and are given the (now) usual warning about not attempting to contact law enforcement, engage recovery teams or hire negotiators.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/blog/from-the-front-lines-3-new-and-emerging-ransomware-threats-striking-businesses-in-2022/"
+        ],
+        "synonyms": [
+        "DarkAngels Ransomware"
+        ]
+      },
+      "uuid": "82e2e0ba-f6dd-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: Dark Angels Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

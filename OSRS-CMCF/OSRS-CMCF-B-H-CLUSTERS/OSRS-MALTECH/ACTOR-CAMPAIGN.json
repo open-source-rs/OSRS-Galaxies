@@ -4532,6 +4532,19 @@
       "value": "OSRS Actors AND Campaigns: TA570"
     },
 	{
+      "description": "ToddyCat is a relatively new APT actor that we have not been able to relate to other known actors, responsible for multiple sets of attacks detected since December 2020 against high-profile entities in Europe and Asia. We still have little information about this actor, but we know that its main distinctive signs are two formerly unknown tools that we call Samurai backdoor and Ninja Trojan. The group started its activities in December 2020, compromising selected Exchange servers in Taiwan and Vietnam using an unknown exploit that led to the creation of a well-known China Chopper web shell, which was in turn used to initiate a multi-stage infection chain. In that chain we observed a number of components that include custom loaders used to stage the final execution of the passive backdoor Samurai.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/toddycat/106799/"
+        ]
+      },
+      "uuid": "73ee9a32-f6dc-11ec-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: ToddyCat APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

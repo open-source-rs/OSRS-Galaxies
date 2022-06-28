@@ -10040,6 +10040,32 @@
       "value": "OSRS Tool: Symbiote Credential Harvester"
     },
 	{
+      "description": "In specific cases the Samurai backdoor was used to deploy another sophisticated malware that we dubbed Ninja, a tool developed in C++, likely a part of an unknown post-exploitation toolkit developed by ToddyCat. This tool was designed to take full control of a remote system and provide the attacker with the ability to operate deeply within the targeted network.Moreover, the tool can be configured to communicate using multiple protocols and it includes features to evade detection, camouflaging its malicious traffic inside HTTP and HTTPS requests that try to appear legitimate by using popular hostname and URL path combinations. The configuration is fully customizable and is similar to other features provided by famous post-exploitation tools such as Cobalt Strike and its Malleable C2 profiles.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/toddycat/106799/"
+        ]
+      },
+      "uuid": "96c76b9a-f6de-11ec-b939-0242ac120002",
+      "value": "OSRS Tool: Ninja Trojan"
+    },
+	{
+      "description": "Lookout Threat Lab researchers have uncovered enterprise-grade Android surveillanceware used by the government of Kazakhstan within its borders. While we’ve been following this threat for a while using Lookout Endpoint Detection and Response (EDR) these latest samples were detected in April 2022, four months after nation-wide protests against government policies were violently suppressed. Based on our analysis, the spyware, which we named Hermit, is likely developed by Italian spyware vendor RCS Lab S.p.A and Tykelab Srl, a telecommunications solutions company we suspect to be operating as a front company. This isn't the first time Hermit has been deployed. We know that the Italian authorities used it in an anti-corruption operation in 2019. We also found evidence suggesting that an unknown actor used it in northeastern Syria, a predominantly Kurdish region that has been the setting of numerous regional conflicts.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.lookout.com/blog/hermit-spyware-discovery"
+        ]
+      },
+      "uuid": "96c76da2-f6de-11ec-b939-0242ac120002",
+      "value": "OSRS Tool: Hermit Spyware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
