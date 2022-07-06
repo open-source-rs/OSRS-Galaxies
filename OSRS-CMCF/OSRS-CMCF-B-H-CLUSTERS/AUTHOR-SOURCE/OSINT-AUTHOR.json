@@ -10486,6 +10486,19 @@
       "value": "OSRS OSINT Author Index: Shmuel Gihon"
     },
 	{
+      "description": "Security Researcher team suppored by the cybersecurity companies Sekoia.io.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.sekoia.io/en/about/"
+        ]
+      },
+      "uuid": "ecb98a80-fd30-11ec-b939-0242ac120002",
+      "value": "OSRS OSINT Author Index: Sekoia Threat & Detection Research Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

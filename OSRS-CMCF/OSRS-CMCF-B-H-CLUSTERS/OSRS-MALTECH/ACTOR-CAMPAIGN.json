@@ -4545,6 +4545,32 @@
       "value": "OSRS Actors AND Campaigns: ToddyCat APT"
     },
 	{
+      "description": "Targets Ukrainian organizations during Russian-Ukrainian conflict (circa 2022).",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://cert.gov.ua/article/405538"
+        ]
+      },
+      "uuid": "c7f8d9fe-fd2a-11ec-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UAC-0113"
+    },
+	{
+      "description": "Since at least 2015, threat actors have used HUI Loader to load remote access trojans (RATs) on compromised hosts. Secureworks Counter Threat Unit (CTU) researchers link two HUI Loader activity clusters exclusively to China-based threat groups. The BRONZE RIVERSIDE threat group is likely responsible for one cluster, which focuses on stealing intellectual property from Japanese organizations. The other cluster involves deployment of LockFile, AtomSilo, Rook, Night Sky, and Pandora post-intrusion ransomware. CTU researchers attribute this activity to the Chinese BRONZE STARLIGHT threat group. The victimology, short lifespan of each ransomware family, and access to malware used by government-sponsored threat groups suggest that BRONZE STARLIGHT’s main motivation may be intellectual property theft or cyberespionage rather than financial gain. The ransomware could distract incident responders from identifying the threat actors’ true intent and reduce the likelihood of attributing the malicious activity to a government-sponsored Chinese threat group.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader"
+        ]
+      },
+      "uuid": "c7f8dc7e-fd2a-11ec-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: BRONZE STARLIGHT Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

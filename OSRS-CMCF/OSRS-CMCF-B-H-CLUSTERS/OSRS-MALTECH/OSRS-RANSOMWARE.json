@@ -1943,6 +1943,32 @@
       "value": "OSRS Ransomware: Dark Angels Ransomware"
     },
 	{
+      "description": "First identified in 2021, AstraLocker is a fork of Babuk, ransomware used by the cybercriminal group of the same name. The Babuk group operated a Ransomware-as-a-Service (RaaS) platform and licensed its software to affiliates to carry out attacks. Babuk first appeared in early 2021 and was linked to a string of high-profile attacks, including a ransomware attack and data leak targeting Washington D.C.’s Metro Police Department in April, 2021. By September of 2021, the Babuk group became a target itself, when the Babuk source code was stolen and leaked to a Russian hacking forum.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs"
+        ]
+      },
+      "uuid": "8c2139cc-fd2e-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: AstraLocker Ransomware"
+    },
+	{
+      "description": "ReversingLabs recently discovered of a new version of the AstraLocker ransomware (AstraLocker 2.0) that was being distributed directly from Microsoft Office files used as bait in phishing attacks. Our analysis suggests that the threat actor responsible for this campaign likely obtained the underlying code for AstraLocker 2.0 from a leak of the Babuk ransomware in September 2021. Links between the two campaigns include shared code and campaign markers, while a Monero wallet address listed for ransom payment is tied to the Chaos Ransomware gang.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs"
+        ]
+      },
+      "uuid": "8c213bde-fd2e-11ec-b939-0242ac120002",
+      "value": "OSRS Ransomware: AstraLocker 2.0 Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

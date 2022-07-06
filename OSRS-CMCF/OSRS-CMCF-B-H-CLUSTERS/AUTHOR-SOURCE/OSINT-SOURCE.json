@@ -4089,6 +4089,32 @@
       "value": "OSRS OSINT Source: Cyberint Research Blog"
     },
 	{
+      "description": "SEKOIA.IO is a European cybersecurity SAAS company, whose mission is to develop the best protection capabilities against cyber attacks. The company created in France provides modern technologies, proven in the field, to enable its major account customers and cybersecurity service providers to neutralize cyber threats before they have consequences. The founders of SEKOIA.IO have been recognized security professionals for more than 15 years, who use the latest technological advances to reinvent the way of doing cybersecurity and make their know-how useful to as many people as possible. SEKOIA.IO by focusing all its research and development efforts on two major strategic axes, which are the knowledge of threats and the automation of defense capabilities, gives the advantage to the teams in charge of system protection against attackers.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.sekoia.io/en/about/"
+        ]
+      },
+      "uuid": "ecb98d5a-fd30-11ec-b939-0242ac120002",
+      "value": "OSRS OSINT Source: Sekoia Research Blog"
+    },
+	{
+      "description": "Lumen is a multinational technology company that enables companies to capitalize on emerging applications and power the 4th Industrial Revolution (4IR). This revolution is redefining how we live and work, creating an unprecedented need for an advanced application delivery architecture—designed specifically to handle the complex and data-intensive workloads of next-gen technology and businesses.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.lumen.com/en-us/about.html"
+        ]
+      },
+      "uuid": "ecb98e90-fd30-11ec-b939-0242ac120002",
+      "value": "OSRS OSINT Source: Lumen Threat Research"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
