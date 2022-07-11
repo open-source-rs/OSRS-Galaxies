@@ -10499,6 +10499,19 @@
       "value": "OSRS OSINT Author Index: Sekoia Threat & Detection Research Team"
     },
 	{
+      "description": "Security Researcher team suppored by the cybersecurity companies SECUINFRA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.secuinfra.com/"
+        ]
+      },
+      "uuid": "726720c4-0147-11ed-b939-0242ac120002",
+      "value": "OSRS OSINT Author Index: SECUINFRA Falcon Team"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

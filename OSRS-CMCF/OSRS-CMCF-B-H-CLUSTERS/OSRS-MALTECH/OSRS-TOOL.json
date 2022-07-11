@@ -10144,6 +10144,58 @@
       "value": "OSRS Tool: ZuoRAT"
     },
 	{
+      "description": "The sample contained a malicious payload associated with Brute Ratel C4 (BRc4), the newest red-teaming and adversarial attack simulation tool to hit the market. While this capability has managed to stay out of the spotlight and remains less commonly known than its Cobalt Strike brethren, it is no less sophisticated. Instead, this tool is uniquely dangerous in that it was specifically designed to avoid detection by endpoint detection and response (EDR) and antivirus (AV) capabilities. Its effectiveness at doing so can clearly be witnessed by the aforementioned lack of detection across vendors on VirusTotal.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/"
+        ]
+      },
+      "uuid": "61baf9a4-0146-11ed-b939-0242ac120002",
+      "value": "OSRS Tool: Brute Ratel C4"
+    },
+	{
+      "description": "Almond RAT employs string encryption to hinder detection and reverse engineering.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.secuinfra.com/en/techtalk/whatever-floats-your-boat-bitter-apt-continues-to-target-bangladesh/"
+        ]
+      },
+      "uuid": "61bafc2e-0146-11ed-b939-0242ac120002",
+      "value": "OSRS Tool: Almond RAT"
+    },
+	{
+      "description": "Some types of malware use DGA, obfuscate destination information, or contain fake C2 server information in order to hide the original C2 server. Others obtain C2 server information from legitimate servers. Recently, the malware used by Lazarus VSingle has been updated to retrieve C2 servers information from GitHub. This article focuses on the updates of VSingle. VSingle has two versions, one targeting Windows OS and the other targeting Linux OS, and this article is based on the latter, which has more updates.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blogs.jpcert.or.jp/en/2022/07/vsingle.html"
+        ]
+      },
+      "uuid": "61bafd5a-0146-11ed-b939-0242ac120002",
+      "value": "OSRS Tool: VSingle Downloader"
+    },
+	{
+      "description": "During a routine threat-hunting exercise, Cyble Research Labs came across a post on Telegram selling an information stealer malware called NoMercy stealer. The malware developer is currently selling the stealer for 780 Indian rupees or 10 USD, indicating that the stealer is developed primarily for Indian Threat Actors (TA). The NoMercy stealer developer is also rapidly adding new capabilities.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/07/07/nomercy-stealer-adding-new-features/"
+        ]
+      },
+      "uuid": "61bafeae-0146-11ed-b939-0242ac120002",
+      "value": "OSRS Tool: NoMercy Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

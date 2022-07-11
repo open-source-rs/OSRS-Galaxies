@@ -4115,6 +4115,19 @@
       "value": "OSRS OSINT Source: Lumen Threat Research"
     },
 	{
+      "description": "Cyber threat intelligence resource center provided by the cybersecurity company SECUINFRA.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.secuinfra.com/"
+        ]
+      },
+      "uuid": "72671e12-0147-11ed-b939-0242ac120002",
+      "value": "OSRS OSINT Source: SECUINFRA Threat Research"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

@@ -1969,6 +1969,32 @@
       "value": "OSRS Ransomware: AstraLocker 2.0 Ransomware"
     },
 	{
+      "description": "Recently, we found a brand-new ransomware family that employs a similar scheme: It disguises itself as a Google Software Update application and uses a Microsoft web hosting service IP address as its command-and-control (C&C) server to circumvent detection. Our investigation also shows that this ransomware uses the QueueUserWorkItem function, a .NET System.Threading namespace method that queues a method for execution, and the modules of KeePass Password Safe, an open-source password manager, during its file encryption routine.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.trendmicro.com/en_us/research/22/g/brand-new-havanacrypt-ransomware-poses-as-google-software-update.html"
+        ]
+      },
+      "uuid": "3175f6be-0145-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: HavanaCrypt Ransomware"
+    },
+	{
+      "description": "Maui ransomware (maui.exe) is an encryption binary. According to industry analysis of a sample of Maui provided in Stairwell Threat Report Maui Ransomware—the ransomware appears to be designed for manual execution by a remote actor. The remote actor uses command-line interface to interact with the malware and to identify files to encrypt.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.cisa.gov/uscert/ncas/alerts/aa22-187a"
+        ]
+      },
+      "uuid": "3175f7ae-0145-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: Maui Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
