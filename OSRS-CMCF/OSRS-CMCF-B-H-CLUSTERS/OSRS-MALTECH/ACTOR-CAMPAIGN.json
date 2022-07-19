@@ -4571,6 +4571,45 @@
       "value": "OSRS Actors AND Campaigns: BRONZE STARLIGHT Threat Group"
     },
 	{
+      "description": "We discovered an extensive espionage campaign targeting Thai pro-democracy protesters, and activists calling for reforms to the monarchy. We forensically confirmed that at least 30 individuals were infected with NSO Group’s Pegasus spyware. The observed infections took place between October 2020 and November 2021. The ongoing investigation was triggered by notifications sent by Apple to Thai civil society members in November 2021. Following the notification, multiple recipients made contact with civil society groups, including the Citizen Lab. The report describes the results of an ensuing collaborative investigation by the Citizen Lab, and Thai NGOs iLaw, and DigitalReach. A sample of the victims was independently analyzed by Amnesty International’s Security Lab which confirms the methodology used to determine Pegasus infections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-against-thailands-pro-democracy-movement/"
+        ]
+      },
+      "uuid": "a59e40ea-078b-11ed-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Gecko Spy Campaign"
+    },
+	{
+      "description": "A group of actors originating from North Korea that Microsoft Threat Intelligence Center (MSTIC) tracks as DEV-0530 has been developing and using ransomware in attacks since June 2021. This group, which calls itself H0lyGh0st, utilizes a ransomware payload with the same name for its campaigns and has successfully compromised small businesses in multiple countries as early as September 2021. Along with their H0lyGh0st payload, DEV-0530 maintains an .onion site that the group uses to interact with their victims. The group’s standard methodology is to encrypt all files on the target device and use the file extension .h0lyenc, send the victim a sample of the files as proof, and then demand payment in Bitcoin in exchange for restoring access to the files. As part of their extortion tactics, they also threaten to publish victim data on social media or send the data to the victims’ customers if they refuse to pay. This blog is intended to capture part of MSTIC’s analysis of DEV-0530 tactics, present the protections Microsoft has implemented in our security products, and share insights on DEV-0530 and H0lyGh0st ransomware with the broader security community to protect mutual customers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/"
+        ]
+      },
+      "uuid": "a59e4306-078b-11ed-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: DEV-0530"
+    },
+	{
+      "description": "Hagga infrastructure is hosted on dedicated leased infrastructure, largely on QuadraNet and Vietnam Posts and Telecommunications (VNPT). An HTTPS certificate serves as a key indicator of Hagga C2 panels.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://team-cymru.com/blog/2022/07/12/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor/"
+        ]
+      },
+      "uuid": "a59e440a-078b-11ed-b939-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: Hagga APT"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

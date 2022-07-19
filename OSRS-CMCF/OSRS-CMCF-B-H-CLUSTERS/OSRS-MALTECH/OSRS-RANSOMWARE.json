@@ -1995,6 +1995,58 @@
       "value": "OSRS Ransomware: Maui Ransomware"
     },
 	{
+      "description": "A group of actors originating from North Korea that Microsoft Threat Intelligence Center (MSTIC) tracks as DEV-0530 has been developing and using ransomware in attacks since June 2021. This group, which calls itself H0lyGh0st, utilizes a ransomware payload with the same name for its campaigns and has successfully compromised small businesses in multiple countries as early as September 2021. Along with their H0lyGh0st payload, DEV-0530 maintains an .onion site that the group uses to interact with their victims. The group’s standard methodology is to encrypt all files on the target device and use the file extension .h0lyenc, send the victim a sample of the files as proof, and then demand payment in Bitcoin in exchange for restoring access to the files. As part of their extortion tactics, they also threaten to publish victim data on social media or send the data to the victims’ customers if they refuse to pay. This blog is intended to capture part of MSTIC’s analysis of DEV-0530 tactics, present the protections Microsoft has implemented in our security products, and share insights on DEV-0530 and H0lyGh0st ransomware with the broader security community to protect mutual customers.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/"
+        ]
+      },
+      "uuid": "4d501ffc-078c-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: H0lyGh0st Ransomware"
+    },
+	{
+      "description": "RedAlert or N13V is a new ransomware strain that targets both Windows and Linux VMWare ESXi servers on corporate networks. The ransomware stops all running virtual machines and encrypts any file related to virtual machines, such as virtual disks. RedAlert Ransomware was named after a string with the same name in the ransom note, but threat actors named their campaign N13V. RedAlert only accepts ransom payments in Monero, which is rather atypical for ransomware groups. RedAlert ransomware has manual operations, which means TAs execute the ransomware after a complete takeover of the victim system. The ransomware binary provides various options to the TAs for performing pre-encryption operations such as stopping all virtual machines running on VMware ESXi, Asymmetric cryptography performance tests, etc. The ransomware uses NTRUEncrypt public key encryption algorithm for encryption. The ransomware only targets log files (.log), swap files(.vswp), virtual disks(.vmdk), snapshot files (.vmsn) and memory files(.vmem) of VMware ESXi virtual machines. After encryption the ransomware appends a  .cryptRandom number extension to the file.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.cisa.gov/"
+        ]
+      },
+      "uuid": "4d502286-078c-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: RedAlert Ransomware"
+    },
+	{
+      "description": "Another new ransomware gang, 0mega, is suspected of targeting organizations using Double Extortion techniques. The indicators of compromise of this ransomware strain are unavailable in the wild. Still, as per researchers’ comments, the ransomware appends the files with the .0mega extension and creates ransom notes named DECRYPT-FILES.txt.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.cisa.gov/"
+        ]
+      },
+      "uuid": "4d502682-078c-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: LILITH Ransomware"
+    },
+	{
+      "description": "Ransomware operators now have another new tool at their disposal, named Lilith Ransomware. This threat can affect many file types and render them completely unusable. Lilith ransomware encrypts files on the victim’s machine and appends the extension of encrypted files as .lilith. Afterward, a ransom note is created on the system to demand payment.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://www.cisa.gov/"
+        ]
+      },
+      "uuid": "4d50279a-078c-11ed-b939-0242ac120002",
+      "value": "OSRS Ransomware: 0mega Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [

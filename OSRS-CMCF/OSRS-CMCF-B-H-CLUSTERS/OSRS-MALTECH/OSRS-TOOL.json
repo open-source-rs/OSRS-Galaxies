@@ -10196,6 +10196,49 @@
       "value": "OSRS Tool: NoMercy Stealer"
     },
 	{
+      "description": "Recently Zimperium discovered and began monitoring the growth of a wide range of malicious browser extensions with the same extension ID as that of Google Translate, deceiving users into believing that they have installed a legitimate extension. Similar to app spoofing and cloning, these malicious applications look legitimate, but underneath the surface lies code that puts personal and enterprise data at risk. These malicious extensions can perform a wide variety of attacks based on the attacker’s purpose, as the malware includes a javascript injection method from the attacker’s controlled server. This rising vector of attack is not limited to one specific browser. This family, codenamed ABCsoup, targets three popular browsers - Google Chrome, Opera, and Firefox. This Google Translate spoofing browser extensions are installed onto a victim’s machine via a Windows-based executable, bypassing most endpoint security solutions, along with the security controls found in the official extension stores. The extension’s main logic confirms that this family is an Adware campaign along with some script injection functionality which can be further abused for other malicious actions such as phishing, stealing credentials cookies, etc.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.zimperium.com/abc-soup-the-malicious-adware-extension-with-350-variants/"
+        ]
+      },
+      "uuid": "144dac78-078d-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: ABCsoup Stealer"
+    },
+	{
+      "description": "We discovered an extensive espionage campaign targeting Thai pro-democracy protesters, and activists calling for reforms to the monarchy. We forensically confirmed that at least 30 individuals were infected with NSO Group’s Pegasus spyware. The observed infections took place between October 2020 and November 2021. The ongoing investigation was triggered by notifications sent by Apple to Thai civil society members in November 2021. Following the notification, multiple recipients made contact with civil society groups, including the Citizen Lab. The report describes the results of an ensuing collaborative investigation by the Citizen Lab, and Thai NGOs iLaw, and DigitalReach. A sample of the victims was independently analyzed by Amnesty International’s Security Lab which confirms the methodology used to determine Pegasus infections.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com"
+        ]
+      },
+      "uuid": "144daf20-078d-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: Pegasus Spyware"
+    },
+	{
+      "description": "ChromeLoader is a multi-stage malware family. Each variant contains different stages throughout its infection chain, but the infection chain often looks quite similar among the different variants, including malicious browser extensions used in all variants. The different payload extensions we tracked had a hardcoded version added by the attacker. This labeling routine contributed to the research process, linking the different versions to the same campaign – and by their correct chronological order. The various extension versions are related to different variants of this malware. We differentiate the variants not only by the related extension version but also by the techniques used throughout their infection chain and the targeted operating systems.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://unit42.paloaltonetworks.com/chromeloader-malware/"
+        ],
+        "synonyms": [
+        "Choziosi Loader",
+        "ChromeBack"
+        ]
+      },
+      "uuid": "144db056-078d-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: ChromeLoader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
