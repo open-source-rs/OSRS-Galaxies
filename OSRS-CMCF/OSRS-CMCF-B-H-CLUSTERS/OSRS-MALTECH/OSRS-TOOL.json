@@ -10239,6 +10239,71 @@
       "value": "OSRS Tool: ChromeLoader"
     },
 	{
+      "description": "Although we were unable to discover how the victim machines were infected initially, an analysis of their hardware sheds light on the devices that CosmicStrand can infect. The rootkit is located in the firmware images of Gigabyte or ASUS motherboards, and we noticed that all these images are related to designs using the H81 chipset. This suggests that a common vulnerability may exist that allowed the attackers to inject their rootkit into the firmware’s image.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/"
+        ]
+      },
+      "uuid": "18cea7d6-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: CosmicStrand Rootkit"
+    },
+	{
+      "description": "Lightning is a modular framework we discovered that has a plethora of capabilities, and the ability to install multiple types of rootkit, as well as the capability to run plugins. The framework has both passive and active capabilities for communication with the threat actor, including opening up SSH on an infected machine, and a polymorphic malleable command and control configuration. We are releasing this blog for informational purposes. We do not have all the files that are referenced in the framework, but hope that this release will help others if they possess other pieces of the jigsaw puzzle. We have not observed this malware being used in attacks in the wild.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.intezer.com/blog/research/lightning-framework-new-linux-threat/"
+        ]
+      },
+      "uuid": "18ceaa1a-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: Lightning Framework"
+    },
+	{
+      "description": "Proxyware is a program that shares part of the Internet bandwidth currently available on the installed system to the outside. Typically, users who install it receive a fixed amount in exchange for bandwidth. Companies that provide these services include companies such as Peer2Profit and IPRoyal . The vendors make money by providing the bandwidth they receive to other vendors. According to the website, there are various business partners, such as software distribution, market research, advertising validation, and software testing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/36762/"
+        ]
+      },
+      "uuid": "18ceab3c-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: Proxyware Dropper"
+    },
+	{
+      "description": "Proxyware is a program that shares part of the Internet bandwidth currently available on the installed system to the outside. Typically, users who install it receive a fixed amount in exchange for bandwidth. Companies that provide these services include companies such as Peer2Profit and IPRoyal . The vendors make money by providing the bandwidth they receive to other vendors. According to the website, there are various business partners, such as software distribution, market research, advertising validation, and software testing.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://asec.ahnlab.com/ko/36762/"
+        ]
+      },
+      "uuid": "18ceae2a-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: IPRoyal Pawn"
+    },
+	{
+      "description": "In April 2022, ESET researchers discovered a previously unknown macOS backdoor that spies on users of the compromised Mac and exclusively uses public cloud storage services to communicate back and forth with its operators. Following analysis, we named it CloudMensis. Its capabilities clearly show that the intent of its operators is to gather information from the victims’ Macs by exfiltrating documents, keystrokes, and screen captures.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.welivesecurity.com/2022/07/19/i-see-what-you-did-there-look-cloudmensis-macos-spyware/"
+        ]
+      },
+      "uuid": "18ceaf56-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: CloudMensis Spyware"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

@@ -4610,6 +4610,32 @@
       "value": "OSRS Actors AND Campaigns: Hagga APT"
     },
 	{
+      "description": "UNC2589 is believed to act in support of Russian government interest and has been conducting extensive espionage collection in Ukraine. Notably, we assess UNC2589 is behind the January 14th disruptive attacks on Ukrainian entitles with PAYWIPE (WHISPERGATE). Following the disruptive attack, UNC2589 has primarily targeted Ukraine, but has also been active against NATO member states in North America and Europe.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/spear-phish-ukrainian-entities"
+        ]
+      },
+      "uuid": "11fcb232-0db1-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC2589"
+    },
+	{
+      "description": "Since late 2021 through the present, Proofpoint Threat Research observed the group Proofpoint calls TA4563 targeting various European financial and investment entities with the malware known as EvilNum. The actor exclusively targeted entities in the Decentralized Finance (DeFi) industry in recently observed campaigns. The activity Proofpoint associates with TA4563 has some overlap with activity publicly associated with a group referred to as DeathStalker and EvilNum. The activity described in this report has some overlap with EvilNum activity publicly reported by Zscaler in June 2022. The identified campaigns delivered an updated version of the EvilNum backdoor using a varied mix of ISO, Microsoft Word and Shortcut (LNK) files in late 2021 and early 2022, presumably as a method of testing the efficacy of the delivery methods. This malware can be used for reconnaissance, data theft, and to deploy additional payloads.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/buy-sell-steal-evilnum-targets-cryptocurrency-forex-commodities"
+        ]
+      },
+      "uuid": "11fcb656-0db1-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA4563"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

@@ -2025,6 +2025,32 @@
       "value": "OSRS Backdoor: OrBit Backdoor"
     },
 	{
+      "description": "MICROBACKDOOR is a client backdoor and server-side tool which has been available on GitHub since May 2021. MICROBACKDOOR was developed by Cr4sh (aka. Dmytro Oleksiuk), who has also developed other notable malware used by Russian APTs including BlackEnergy. MICROBACKDOOR can upload and download files, execute commands, update itself, and take screenshots. It also supports HTTP, Socks4 and Socks5 proxies to route traffic. Note - the version of MICROBACKDOOR used by UNC1151 in this report has been modified by the actor to include a screenshot functionality. Screenshot functionality is not present in the version of MICROBACKDOOR available on Github.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/spear-phish-ukrainian-entities"
+        ]
+      },
+      "uuid": "11fcb7a0-0db1-11ed-861d-0242ac120002",
+      "value": "OSRS Backdoor: MICROBACKDOOR"
+    },
+	{
+      "description": "Since the Russian invasion of Ukraine began, Ukrainians have been under a nearly constant barrage of cyber attacks. Working jointly with Ukrainian organizations, Cisco Talos has discovered a fairly uncommon piece of malware targeting Ukraine — this time aimed at a large software development company whose software is used in various state organizations within Ukraine. We believe that this campaign is likely sourced by Russian state-sponsored actors or those acting in their interests. As this firm is involved in software development, we cannot ignore the possibility that the perpetrating threat actor's intent was to gain access to source a supply chain-style attack, though at this time we do not have any evidence that they were successful. Cisco Talos confirmed that the malware is a slightly modified version of the open-source backdoor named GoMet. The malware was first observed on March 28, 2022.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Backdoor"
+        ],
+        "refs": [
+          "https://blog.talosintelligence.com/2022/07/attackers-target-ukraine-using-gomet.html"
+        ]
+      },
+      "uuid": "11fcb8ae-0db1-11ed-861d-0242ac120002",
+      "value": "OSRS Backdoor: GoMet Backdoor"
+    },
+	{
       "description": "Since it first emerged in 2015, Asruex has been known for its backdoor capabilities and connection to the spyware DarkHotel. However, when we encountered Asruex in a PDF file, we found that a variant of the malware can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively. The use of old, patched vulnerabilities could hint that the most recent variant was devised knowing that it can affect targets who have been using older versions of Adobe Reader (versions 9.x up to before 9.4) and Acrobat (versions 8.x up to before 8.2.5) on Windows and Mac OS X.",
       "meta": {
 	  "kill_chain": [

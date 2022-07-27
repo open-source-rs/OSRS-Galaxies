@@ -10512,6 +10512,32 @@
       "value": "OSRS OSINT Author Index: SECUINFRA Falcon Team"
     },
 	{
+      "description": "Public relations division of the U.S. Cyber Command.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.cybercom.mil/"
+        ]
+      },
+      "uuid": "c1102c4e-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS OSINT Author Index: Cyber National Mission Force Public Affairs"
+    },
+	{
+      "description": "Security Researcher team suppored by the cybersecurity companies Resecurity.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://resecurity.com/"
+        ]
+      },
+      "uuid": "c1102f3c-0db2-11ed-861d-0242ac1200022",
+      "value": "OSRS OSINT Author Index: Resecurity Research Group"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

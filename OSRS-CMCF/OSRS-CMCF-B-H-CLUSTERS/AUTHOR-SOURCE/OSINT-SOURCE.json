@@ -4128,6 +4128,33 @@
       "value": "OSRS OSINT Source: SECUINFRA Threat Research"
     },
 	{
+      "description": "United States Cyber Command is one of the eleven unified combatant commands of the United States Department of Defense. It unifies the direction of cyberspace operations, strengthens DoD cyberspace capabilities, and integrates and bolsters DoD's cyber expertise.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.cybercom.mil/",
+		  "https://en.wikipedia.org/wiki/United_States_Cyber_Command"
+        ]
+      },
+      "uuid": "c11030e0-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS OSINT Source: U.S. Cyber Command"
+    },
+	{
+      "description": "Cyber threat intelligence resource center provided by the cybersecurity company Resecurity.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://resecurity.com/"
+        ]
+      },
+      "uuid": "c11032d4-0db2-11ed-861d-0242ac120002",
+      "value": "OSRS OSINT Source: Resecurity Research Blog"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [
