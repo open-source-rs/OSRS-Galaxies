@@ -10304,6 +10304,19 @@
       "value": "OSRS Tool: CloudMensis Spyware"
     },
 	{
+      "description": "VileRAT is a Python implant, part of an evasive and highly intricate attack campaign against foreign exchange and cryptocurrency trading companies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://securelist.com/vilerat-deathstalkers-continuous-strike/107075/"
+        ]
+      },
+      "uuid": "fb3432e4-1f14-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: VileRAT"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

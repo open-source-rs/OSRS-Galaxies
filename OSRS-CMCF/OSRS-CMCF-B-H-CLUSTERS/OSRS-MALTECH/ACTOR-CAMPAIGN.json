@@ -4636,6 +4636,19 @@
       "value": "OSRS Actors AND Campaigns: TA4563"
     },
 	{
+      "description": "DeathStalker has indeed continuously leveraged and updated its VileRAT toolchain against the same type of targets since we first identified it in June 2020. While we comprehensively documented the evolution to our threat intelligence customers recently, and despite existing public indicators of compromise, ",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://securelist.com/vilerat-deathstalkers-continuous-strike/107075/"
+        ]
+      },
+      "uuid": "fb3434c4-1f14-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: DeathStalker Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [
