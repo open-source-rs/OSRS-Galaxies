@@ -1155,6 +1155,19 @@
       "value": "OSRS Botnet: YamaBot Botnet"
     },
 	{
+      "description": "RapperBot is an IoT botnet malware that has spread through brute force since it was first identified in June 2022. Over 3,500 unique IPs were utilized by the RapperBot to brute force into a rising number of hacked SSH servers. ",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Botnet"
+        ],
+        "refs": [
+          "https://socradar.io/linux-malware-rapperbot-brute-forcing-ssh-servers/"
+        ]
+      },
+      "uuid": "9eb05bd6-1f11-11ed-861d-0242ac120002",
+      "value": "OSRS Botnet: RapperBot Botnet"
+    },
+	{
       "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command. If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
       "meta": {
 	  "kill_chain": [

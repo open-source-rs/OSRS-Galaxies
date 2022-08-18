@@ -10538,6 +10538,19 @@
       "value": "OSRS OSINT Author Index: Resecurity Research Group"
     },
 	{
+      "description": "Security Researcher team suppored by the cybersecurity company SOCRadar.io.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://socradar.io/"
+        ]
+      },
+      "uuid": "9eb05e24-1f11-11ed-861d-0242ac120002",
+      "value": "OSRS OSINT Author Index: SOCRadar Research"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [
