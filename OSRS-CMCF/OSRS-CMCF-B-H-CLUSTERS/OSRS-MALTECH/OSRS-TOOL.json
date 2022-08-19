@@ -10317,6 +10317,19 @@
       "value": "OSRS Tool: VileRAT"
     },
 	{
+      "description": "During our routine threat hunting exercise, Cyble Research Labs came across an article wherein the researchers mentioned Bitter APT delivering the Android Spyware Dracarys. Bitter aka T-APT-17 is a well-known Advanced Persistent Threat (APT) group active since 2013 and operates in South Asia. It has been observed targeting China, India, Pakistan, and other countries in South Asia.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.cyble.com/2022/08/09/bitter-apt-group-using-dracarys-android-spyware/"
+        ]
+      },
+      "uuid": "2b172edc-1fdb-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: Dracarys Stealer"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
