@@ -4649,6 +4649,45 @@
       "value": "OSRS Actors AND Campaigns: DeathStalker Threat Group"
     },
 	{
+      "description": "TA558 is a likely financially motivated small crime threat actor targeting hospitality, hotel, and travel organizations. Since 2018, this group has used consistent tactics, techniques, and procedures to attempt to install a variety of malware including Loda RAT, Vjw0rm, and Revenge RAT. TA558’s targeting focus is mainly on Portuguese and Spanish speakers, typically located in the Latin America region, with additional targeting observed in Western Europe and North America. TA558 increased operational tempo in 2022 to a higher average than previously observed. Like other threat actors in 2022, TA558 pivoted away from using macro-enabled documents in campaigns and adopted new tactics, techniques, and procedures.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel"
+        ]
+      },
+      "uuid": "3fa2ef9e-23cd-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: TA558"
+    },
+	{
+      "description": "Over the last year Mandiant has been tracking UNC3890, a cluster of activity targeting Israeli shipping, government, energy and healthcare organizations via social engineering lures and a potential watering hole. Mandiant assesses with moderate confidence this actor is linked to Iran, which is notable given the strong focus on shipping and the ongoing naval conflict between Iran and Israel. While we believe this actor is focused on intelligence collection, the collected data may be leveraged to support various activities, from hack-and-leak, to enabling kinetic warfare attacks like those that have plagued the shipping industry in recent years.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/blog/suspected-iranian-actor-targeting-israeli-shipping"
+        ]
+      },
+      "uuid": "3fa2f282-23cd-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: UNC3890"
+    },
+	{
+      "description": "The Microsoft Threat Intelligence Center (MSTIC) has observed and taken actions to disrupt campaigns launched by SEABORGIUM, an actor Microsoft has tracked since 2017. SEABORGIUM is a threat actor that originates from Russia, with objectives and victimology that align closely with Russian state interests. Its campaigns involve persistent phishing and credential theft campaigns leading to intrusions and data theft. SEABORGIUM intrusions have also been linked to hack-and-leak campaigns, where stolen and leaked data is used to shape narratives in targeted countries. While we cannot rule out that supporting elements of the group may have current or prior affiliations with criminal or other nonstate ecosystems, MSTIC assesses that information collected during SEABORGIUM intrusions likely supports traditional espionage objectives and information operations as opposed to financial motivations.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Actors & Campaigns"
+        ],
+        "refs": [
+          "https://www.microsoft.com/security/blog/2022/08/15/disrupting-seaborgiums-ongoing-phishing-operations/"
+        ]
+      },
+      "uuid": "3fa2f372-23cd-11ed-861d-0242ac120002",
+      "value": "OSRS Actors AND Campaigns: SEABORGIUM Threat Group"
+    },
+	{
       "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB). It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
       "meta": {
 	  "kill_chain": [

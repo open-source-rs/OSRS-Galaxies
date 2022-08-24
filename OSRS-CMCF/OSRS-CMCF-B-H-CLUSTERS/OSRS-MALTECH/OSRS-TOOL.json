@@ -10330,6 +10330,45 @@
       "value": "OSRS Tool: Dracarys Stealer"
     },
 	{
+      "description": "SUGARDUMP is a credential harvesting utility, capable of password collection from Chromium-based browsers. A more advanced version of SUGARDUMP, exfiltrating the stolen credentials via Gmail, Yahoo and Yandex email addresses. Uses a commercial for robotic dolls as a lure. The newest version of SUGARDUMP, exfiltrating the stolen credentials to a dedicated server over HTTP. Uses a fake job offer as a lure.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/blog/suspected-iranian-actor-targeting-israeli-shipping"
+        ]
+      },
+      "uuid": "31a2ab5e-23ce-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: SUGARDUMP Stealer"
+    },
+	{
+      "description": "UNICORN is a publicly available tool for conducting a PowerShell downgrade attack and to inject a shellcode into memory.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/blog/suspected-iranian-actor-targeting-israeli-shipping"
+        ]
+      },
+      "uuid": "31a2af14-23ce-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: UNICORN PowerShell Injector"
+    },
+	{
+      "description": "NORTHSTAR C2 is an open-source C2 framework developed for penetration testing and red teaming.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.mandiant.com/resources/blog/suspected-iranian-actor-targeting-israeli-shipping"
+        ]
+      },
+      "uuid": "31a2b09a-23ce-11ed-861d-0242ac120002",
+      "value": "OSRS Tool: NORTHSTAR C2"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [
