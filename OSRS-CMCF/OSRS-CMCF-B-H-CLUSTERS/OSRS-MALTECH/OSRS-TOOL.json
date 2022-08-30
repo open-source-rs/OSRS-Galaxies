@@ -10369,6 +10369,45 @@
       "value": "OSRS Tool: NORTHSTAR C2"
     },
 	{
+      "description": "DarkTortilla is a complex and highly configurable .NET-based crypter that has possibly been active since at least August 2015. It typically delivers popular information stealers and remote access trojans (RATs) such as AgentTesla, AsyncRat, NanoCore, and RedLine. While it appears to primarily deliver commodity malware, Secureworks Counter Threat Unit (CTU) researchers identified DarkTortilla samples delivering targeted payloads such as Cobalt Strike and Metasploit. It can also deliver addon packages such as additional malicious payloads, benign decoy documents, and executables. It features robust anti-analysis and anti-tamper controls that can make detection, analysis, and eradication challenging.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.secureworks.com/research/darktortilla-malware-analysis"
+        ]
+      },
+      "uuid": "434d2714-2872-11ed-a261-0242ac120002",
+      "value": "OSRS Tool: DarkTortilla Loader"
+    },
+	{
+      "description": "HYPERSCRAPE requires the victim’s account credentials to run using a valid, authenticated user session the attacker has hijacked, or credentials the attacker has already acquired. It spoofs the user agent to look like an outdated browser, which enables the basic HTML view in Gmail. Once logged in, the tool changes the account’s language settings to English and iterates through the contents of the mailbox, individually downloading messages as .eml files and marking them unread. After the program has finished downloading the inbox, it reverts the language back to its original settings and deletes any security emails from Google. Earlier versions contained the option to request data from Google Takeout, a feature which allows users to export their data to a downloadable archive file. The tool is written in .NET for Windows PCs and is designed to run on the attacker's machine. We tested HYPERSCRAPE in a controlled environment with a test Gmail Account, although functionality may differ for Yahoo! and Microsoft accounts. HYPERSCRAPE won't run unless in a directory with other file dependencies.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://blog.google/threat-analysis-group/new-iranian-apt-data-extraction-tool/"
+        ]
+      },
+      "uuid": "434d2f3e-2872-11ed-a261-0242ac120002",
+      "value": "OSRS Tool: HYPERSCRAPE Stealer"
+    },
+	{
+      "description": "As seen in the timeline, in Q3 of 2021, the threat actor switched their arsenal from PivNoxy to a new variant of Chinoxy, which decrypts and loads shellcode from a file and downloads the next payload. The switch from Chinoxy to PivNoxy occurred sometime in Q2 2020.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Tool"
+        ],
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/pivnoxy-and-chinoxy-puppeteer-analysis"
+        ]
+      },
+      "uuid": "434d309c-2872-11ed-a261-0242ac120002",
+      "value": "OSRS Tool: PivNoxy Loader"
+    },
+	{
       "description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
       "meta": {
 	  "kill_chain": [

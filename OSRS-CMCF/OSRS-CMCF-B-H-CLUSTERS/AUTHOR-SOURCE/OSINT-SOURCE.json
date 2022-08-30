@@ -4168,6 +4168,19 @@
       "value": "OSRS OSINT Source: SOCRadar.io"
     },
 	{
+      "description": "Cybersecurity company.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Source"
+        ],
+        "refs": [
+          "https://www.elastic.co/security-labs/"
+        ]
+      },
+      "uuid": "ffd18088-2872-11ed-a261-0242ac120002",
+      "value": "OSRS OSINT Source: Elastic Security Labs"
+    },
+	{
       "description": "CSIS Security Group software development and security research teams are sharing their experiences building systems to detect, monitor and take down malware infrastructure.",
       "meta": {
 	  "kill_chain": [

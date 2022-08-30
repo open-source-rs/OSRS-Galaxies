@@ -10551,6 +10551,19 @@
       "value": "OSRS OSINT Author Index: SOCRadar Research"
     },
 	{
+      "description": "Security Researcher team suppored by the cybersecurity company Elastic.",
+      "meta": {
+	  "kill_chain": [
+          "author-source:OSINT Author"
+        ],
+        "refs": [
+          "https://www.elastic.co/security-labs/"
+        ]
+      },
+      "uuid": "ffd1839e-2872-11ed-a261-0242ac120002",
+      "value": "OSRS OSINT Author Index: Elastic Security Labs"
+    },
+	{
       "description": "Cybersecurity Research & Development at Netskope.",
       "meta": {
 	  "kill_chain": [

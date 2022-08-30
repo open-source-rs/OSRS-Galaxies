@@ -2060,6 +2060,19 @@
       "value": "OSRS Ransomware: BlueSky Ransomware"
     },
 	{
+      "description": "BleachGap ransomware was first reported in Feb 2021 by a researcher named Petrovic on Twitter. This ransomware variant that we have analysed was reported on Twitter in June 2022. This variant got us curious to get into the nuances of it because it was tagged as a stealer and all the code was compiled in a single executable thereby not needing any supporting .bat or PowerShell scripts to execute, most probably done for evasion and to be less noisy in comparison to the variant found  in 2021, which needed the supporting .bat and .exe that it dropped for execution.Though there are not many cases reported in the wild, this blog has been written to let the cyber community know that threat actors are modifying the attack techniques of this malware for a possible major attack that might be planned in the future. Lets now get into the details.",
+      "meta": {
+	  "kill_chain": [
+          "osrs-maltech:Ransomware"
+        ],
+        "refs": [
+          "https://labs.k7computing.com/index.php/bleachgap-revamped/"
+        ]
+      },
+      "uuid": "0455e80c-2872-11ed-a261-0242ac120002",
+      "value": "OSRS Ransomware: BleachGap Ransomware"
+    },
+	{
       "description": "AnteFrigus is distributed through malvertising that redirects users to the the RIG exploit kit. Unlike other ransomware, AnteFrigus does not target the C drive, but only other drives commonly associated with removable devices and mapped network drives. The RIG exploit kit uses malicious scripts hosted on attacker-owned or compromised sites that exploit vulnerabilities in Internet Explorer. If these vulnerabilities can be exploited, it will then install a payload in the visitor's machine without their knowledge. This ransomware only targets the D, E, F, G, H, and I drives. It does not encrypt any files located on the C drive or unmapped network shares.",
       "meta": {
 	  "kill_chain": [
